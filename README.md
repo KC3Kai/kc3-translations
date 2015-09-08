@@ -14,7 +14,7 @@ If interested, you can translate KC3改 to your own language.
 * Commit your new language files, and push to your own GitHub repo
 * Create a pull request to `KC3Kai/kc3-translations`
 
-#### With GitHub (promotion to direct write-access)
+**Promotion to direct write-access**
 You will first need your own translation fork (as indicated above), and has created a pull-request for the initial translation files for your language. If the language already has a directory, and you want to help existing translators, you will still need a fork, and a pull-request just to see a sample of your work before we can add you on the direct-write access team.
 
 Once these requirements are fulfilled, you may request for promotion:
@@ -37,16 +37,10 @@ Then wait until reply, and an invitation to the KC3Kai organization, under the *
 * Paste the translation files / links to its pastebin or puush or any preferred text transmission tool.
 
 ## Notes
-* The only required file is `terms.json`. If there are missing files from your translation directory, it will extend the English translations by default.
-* You do not need `developers.json` and `settings.json` on your localized directory anymore. The translatable words on those files are now moved into `terms.json`.
-* `terms.json` is still an evolving file which will get updated very often, it is up to you to translate this every time or just wait for it to settle down and translate in one go.
+The only required file is `terms.json`. If there are missing files from your translation directory, it will extend the English translations by default.
 
 #### Special Case for JP
-Since game data is already in Japanese, some files do not need to be translated:
-* `ships.json`
-* `items.json`
-
-However, they still need to have their own files, but just contains an empty JSON object `{}`.
+Since game data is already in Japanese, `ships.json` and `items.json` do not need to be translated, but will still need to have the files exist, just containing an empty JSON object `{}`.
 
 #### Kanji ship names in quest descriptions
 For quest descriptions like

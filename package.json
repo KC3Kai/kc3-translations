@@ -1,0 +1,16 @@
+{
+  "name": "kc3-translations",
+  "version": "1.0.0",
+  "description": "Translation database as a sub-module to the main app repo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KC3Kai/kc3-translations.git"
+  },
+  "author": "KC3Kai Team",
+  "license": "MIT",
+  "homepage": "https://github.com/KC3Kai/kc3-translations",
+  "devDependencies": {
+	"grunt": "~0.4.5",
+	"grunt-jsonlint": "^1.0.4"
+  }
+}

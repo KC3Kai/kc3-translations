@@ -15,6 +15,7 @@ If interested, you can translate KC3改 to your own language.
 * Create a pull request to `KC3Kai/kc3-translations`
 
 **Promotion to direct write-access**
+
 You will first need your own translation fork (as indicated above), and has created a pull-request for the initial translation files for your language. If the language already has a directory, and you want to help existing translators, you will still need a fork, and a pull-request just to see a sample of your work before we can add you on the direct-write access team.
 
 Once these requirements are fulfilled, you may request for promotion:

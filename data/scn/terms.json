@@ -140,6 +140,7 @@
     "SettingsGearHolder" : "装备背景色",
 
     "SettingsLegacyPanel" : "面板（旧主题）",
+
     "SettingsChuuiWarningDangerousFeature" : "确定更改？\n接下来你所做的一切“KC3改”概不负责。\n\n请确保知晓后果。",
     "SettingsErrorNG" : "已保存",
     "SettingsErrorSuper" : "格式错误",
@@ -199,21 +200,26 @@
     "PanelHighestAkashi" : "最长的明石修理时间",
 
     "PanelHasTaiha" : "大破",
+    "PanelFSTaiha" : "第1舰队旗舰",
+    "PanelEscortChuuha" : "第2舰队旗舰",
     "PanelNoTaiha" : "耐久良好",
-    "PanelSupplied" : "补给良好",
-    "PanelNotSupplied" : "需要补给",
+    "PanelSupplied" : "满补给",
+    "PanelNotSupplied" : "补给良好",
+    "PanelUnderSupplied" : "需要补给",
+    "PanelEmptySupply" : "空补给（无法出击）",
     "PanelGreatMorale" : "士气高昂",
     "PanelGoodMorale" : "士气良好",
     "PanelSupportPower" : "支援舰队炮击威力",
     "PanelPlanesFighter" : "参与航空战的飞机",
     "PanelPlanesBomber" : "参与轰炸的飞机",
 
-    "MissionLabelActivity" : "状态",
-    "MissionLabelAdmiral" : "提督经验",
+    "MissionLabelActivity" : "远征",
+    "MissionGetItems" : "获得物品：",
     "MissionActivity0" : "取消",
     "MissionActivity1" : "失败",
     "MissionActivity2" : "成功",
     "MissionActivity3" : "大成功",
+    "MissionLabelAdmiral" : "提督经验",
 
     "CombinedCarrier" : "联合舰队-机动",
     "CombinedSurface" : "联合舰队-水打",

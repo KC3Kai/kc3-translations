@@ -49,3 +49,5 @@ For quest descriptions like
 `Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet.`
 
 It is your choice if you want to still include kanji representations like `(\u5929\u9f8d)` in your own language
+
+~~sample~~

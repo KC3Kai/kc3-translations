@@ -1,5 +1,3 @@
-# DO NOT PUSH TO THIS REPO YET
-
 ## KC3改 Translations [![Build Status](https://travis-ci.org/KC3Kai/kc3-translations.svg?branch=master)](https://travis-ci.org/KC3Kai/kc3-translations)
 
 ![KC3改 Logo](http://puu.sh/h4Gbb.png)

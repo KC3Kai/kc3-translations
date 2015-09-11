@@ -133,7 +133,7 @@
     },
     "134": {
         "name": "Preparativi per l'Amore! (Parte 3)",
-        "desc": "Organizza i tuoi sentimenti e schiera la tua flotta con un'ammiraglia di alto livello (Lv.90~99)!"
+        "desc": "Fai luce sui tuoi sentimenti e schiera la tua flotta con un'ammiraglia di alto livello (Lv.90~99)!"
     },
     "135": {
         "name": "Di nuovo in viaggio!",
@@ -426,6 +426,14 @@
         "name": "Impiega di nuovo nell'Operazione KE il 1° Squadrone Silurante",
         "desc": "Schiera Abukuma Kai-2 come ammiraglia con Hibiki/Вер, Yuugumo, Naganami, Akigumo e Shimakaze e ottieni almeno il rango B contro il Boss"
     },
+    "285": {
+        "name": "\"Task Force Portaerei\", avanza verso il Mare del Nord!",
+        "desc": "Disloca una flotta che abbia come ammiraglia una Portaerei e ottieni il grado S in una battaglia con il boss del mondo 3-5"
+    },
+	"286": {
+        "name": "Rafforza la Ronda Antisottomarino di fronte alla Base Navale!",
+        "desc": "Ottieni quattro vittorie di grado A (o più alto) contro il boss del mondo 1-5"
+    },
 
 
 
@@ -633,12 +641,18 @@
     "308": {
         "code": "C6",
         "name": "Migliora ancora una volta l'efficienza della Flotta",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "desc": "Ottieni 4 vittorie in modalità pratica nello stesso giorno"
     },
     "309": {
         "code": "C7",
-        "name": "Aumenta la qualità dell'allenamento per un altro assalto a Nord",
+        "name": "Aumenta la qualità dell'allenamento per un altro assalto nel Mare del Nord",
         "desc": "Ottieni 4 vittorie nello stesso giorno nella modalità pratica"
+    },
+     "311": {
+        "code": "C8",
+        "name": "Allenamento Elite della Flotta",
+        "desc": "Ottieni 7 vittorie in modalità pratica nello stesso giorno",
+		"tracking": [ [0,7] ]
     },
 
 

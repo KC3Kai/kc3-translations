@@ -80,6 +80,9 @@
     "SettingsHQExpLeft"    : "Exp Rimanente",
     "SettingsHQExpCurrent" : "Livello Attuale",
     "SettingsHQExpTotal"   : "Guadagno Totale",
+	"SettingsTimerDisplayType" : "Modello Display del Timer",
+	"SettingsTimeRemaining" : "Rimanente",
+	"SettingsTimeFinished" : "Finito",
 
     "SettingsGameInfo" : "Informazioni Gioco",
     "SettingsDropFaces" : "Icone Drop Sortite",
@@ -101,6 +104,8 @@
 
     "SettingsAlerts" : "Avvisi",
     "SettingsTimeDiff" : "Margine Timer",
+	"SettingsMoraleNotif" : "Notifica Morale",
+	"SettingsMoraleValue" : "Morale Minimo",
     "SettingsSeconds" : "secondi",
     "SettingsSoundType" : "Tipo di Suono",
     "SettingsDing" : "DING!",
@@ -111,7 +116,8 @@
     "SettingsAPIGameScreen" : "Schermata di Gioco API",
     "SettingsQuestOverlay" : "Traduzione Missioni",
     "SettingsQuestTracking" : "Monitoraggio Missioni",
-    "SettingsPanelRequirement" : "Richiesto Pannello per giocare",
+    "SettingsPanelRequirement" : "Pannello Obbligatorio",
+	"SettingsDirectRefresh" : "Tasto Refresh (Attenzione)",
     "SettingsConfirmExit" : "Conferma Uscita",
     "SettingsScreenMargin" : "Margine Superiore",
     "SettingsBGColor" : "Colore di Sfondo",
@@ -129,8 +135,19 @@
 
     "SettingsPanelSize" : "Dimensione Pannello",
     "SettingsPanelOpacity" : "Opacità Interfaccia",
-    "SettingsGearHolder" : "Colore sfondo atterezzi",
+    "SettingsGearHolder" : "Colore sfondo attrezzi",
+	
+	"SettingsLegacyPanel" : "Pannello: Legacy Theme",
 
+    "SettingsChuuiWarningDangerousFeature" : "Sei sicuro di voler applicare i cambiamenti?\nQualsiasi rischio tu stia correndo d'ora in poi non è responsabilità di KC3改.\n\nSii sicuro di sapere cosa stai facendo.",
+	"SettingsErrorNG" : "Salvato!",
+	"SettingsErrorSuper" : "Valore non valido!",
+	"SettingsErrorAbove" : "eccede",
+	"SettingsErrorBelow" : "insufficiente",
+	"SettingsErrorLength" : "Lunghezza Valore",
+	"SettingsErrorValue" : "Valore",
+	"SettingsErrorOrder" : "%TYP %CMP %VAL",
+	
     "Small" : "Piccolo",
     "Big" : "Grande",
     "Black" : "Nero",
@@ -154,18 +171,51 @@
     "HQExpAbbrev2" : "Attuale",
     "HQExpAbbrev3" : "Totale",
 
-    "BattleDetection" : "Rilevamento",
+    "BattleDetection" : "Rileva...",
     "BattleEngangement" : "Ingaggio",
     "BattleContact" : "Contatto",
-    "BattleAirBattle" : "Battaglia Aerea",
+    "BattleAirBattle" : "Bat. Aerea",
     "BattleFriendly" : "Alleati",
     "BattleEnemy" : "Nemici",
 
     "PredictionStampSortie" : "Affondata",
     "PredictionStampPvP" : "Fuori Combattimento",
-    "PredictionStampEscort" : "Scorta",
-    "PredictionStampMVPUseful" : "MVP",
-    "PredictionStampMVPUseless" : "Maxata",
+
+	"EventHistoryRank1"  : "FACILE",
+	"EventHistoryRank2"  : "NORMALE",
+	"EventHistoryRank3"  : "DIFFICILE",
+	"EventHistoryRank1X" : "SCELTA DA BAMBINI",
+	"EventHistoryRank2X" : "AF INFERNO",
+	"EventHistoryRank3X" : "REKT",
+	"StrategyEventGo"    : "Run Evento",
+	"StrategyEventGoP"   : "#Disperazione",
+	
+	"PanelAkashi" : "Akashi",
+	"PanelNoRepair" : "Riparazione non necessaria",
+	"PanelCantRepair" : "Riparazione non possibile",
+	"PanelHighestDocking" : "Riparazione in Bacino Tempo Massimo",
+	"PanelHighestAkashi" : "Riparazione con Akashi Tempo Massimo",
+	
+	"PanelHasTaiha" : "Critica",
+	"PanelNoTaiha" : "HP buoni",
+	"PanelSupplied" : "Rifornimenti buoni",
+	"PanelNotSupplied" : "Rifornimenti <100%",
+	"PanelGreatMorale" : "Morale Ottimo",
+	"PanelGoodMorale" : "Morale Buono",
+	"PanelSupportPower" : "Potenza di Fuoco della Spedizione di Supporto",
+	"PanelPlanesFighter" : "Aerei partecipanti alla fase aerea",
+	"PanelPlanesBomber" : "Aerei partecipanti alla fase di bombardamento",
+	
+	"MissionLabelActivity" : "Status",
+	"MissionGetItems" : "Oggetti Ottenuti:",
+	"MissionActivity0" : "Cancellata",
+	"MissionActivity1" : "Fallita",
+	"MissionActivity2" : "Successo",
+	"MissionActivity3" : "Gran Successo",
+	
+	"CombinedCarrier" : "TF Portaerei (CTF)",
+	"CombinedSurface" : "TF di Superficie (STF)",
+	"CombinedNone" : "Non combinata",
 
     "LevelText" : "Livello",
     "LevelShort" : "Lv.",
@@ -176,5 +226,5 @@
     "StrategyEvents1HP" : "Ultima Kill!",
 
     "PanelWaitActions" : "In attesa di azioni di gioco...",
-    "PanelErrorStorage" : "Nelle tue impostazioni localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarla</a>."
+    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>."
 }

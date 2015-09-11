@@ -169,7 +169,7 @@
 	"SpeedSlow" : "低速",
 	
 	"HQText" : "司令部",
-	"HQExpAbbrev1" : "次",
+	"HQExpAbbrev1" : "次Lvまで",
 	"HQExpAbbrev2" : "現在",
 	"HQExpAbbrev3" : "総獲得",
 	
@@ -199,14 +199,14 @@
 	"PanelHighestDocking" : "最大の入渠修理の時間",
 	"PanelHighestAkashi" : "最大の明石修理の時間",
 	
-	"PanelHasTaiha" : "大破",
+	"PanelHasTaiha" : "大破艦あり",
 	"PanelFSTaiha" : "第1艦隊旗艦",
 	"PanelEscortChuuha" : "第2艦隊旗艦",
-	"PanelNoTaiha" : "HP良好",
+	"PanelNoTaiha" : "大破艦なし",
 	"PanelSupplied" : "補給満タン",
 	"PanelUnderSupplied" : "補給が必要",
-	"PanelEmptySupply" : "出撃できません",
-	"PanelNotSupplied" : "補給しません",
+	"PanelEmptySupply" : "出撃不可能",
+	"PanelNotSupplied" : "補給しません",　
 	"PanelGreatMorale" : "キラ状態",
 	"PanelGoodMorale" : "通常状態",
 	"PanelSupportPower" : "支援射撃火力",
@@ -214,7 +214,7 @@
 	"PanelPlanesBomber" : "開幕攻撃に参加する艦載機",
 	
 	"MissionLabelActivity" : "遠征",
-	"MissionGetItems" : "アイテムを入手：",
+	"MissionGetItems" : "入手したアイテム：",
 	"MissionActivity0" : "中止",
 	"MissionActivity1" : "失敗",
 	"MissionActivity2" : "成功",
@@ -226,14 +226,14 @@
 	
 	"LevelText" : "レベル",
 	"LevelShort" : "Lv.",
-	"LevelNext" : "次Lvまで",
+	"LevelNext" : "次まで",
 	"Screenshot" : "スクリーンショット",
 	"Expedition" : "遠征",
 	"UntranslatedQuest" : "翻訳されていないクエスト",
 	
 	"StrategyEvents1HP" : "ラストダンス！",
 	
-	"PanelWaitActions" : "Game startボタンを押し、または母港を表示させてください",
+	"PanelWaitActions" : "艦これで母港を表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">を参照して有効にしてください。</a>.",
 	
 	"Dummy" : "ダミー"

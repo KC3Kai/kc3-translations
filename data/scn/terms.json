@@ -43,7 +43,37 @@
     "MenuAboutDesc" : "关于本辅助工具",
     "MenuChecking" : "正在检查更新……",
     "MenuOnLatest" : "正在使用最新版本！",
-
+	
+	"GameDMMRedirect" : "You will be redirected to play directly on DMM website",
+	
+	"GameAPIRemoveTitle" : "Remove API link",
+	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
+	"GameAPIRemoveBtn" : "Forget the API Link",
+	
+	"GameAPINoExist" : "You have do not have any recorded API Link",
+	"GameAPIGetTitle" : "To get a new API link",
+	"GameAPIGetDesc" : "Use the <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
+	"GameAPIExistTitle" : "To use Existing API links",
+	"GameAPIExistDesc" : "If you already have an API Link on hand, you may input it here:",
+	"GameAPIExistBtn" : "Use API Link",
+	"GameAPIWhatTitle" : "What is an API Link?",
+	"GameAPIWhatDesc" : "These are direct URLs to your game, <em>recognized as</em> or <em>associated with</em> your account. As long as you carry this link, you are automatically \"logged-in\" and can then bypass login via DMM, therefore eliminating the need to go through VPN each time you open the game.",
+	"GameAPIRemindTitle" : "Reminder for New Players",
+	"GameAPIRemindDesc" : "Do not use KC3改 while you have not yet passed through the lottery process. This viewer assumes that the account being logged-in while extracting API Links is already playable. Once you have joined a server, you will also need to input your admiral name while not in API link.",
+	"GameAPIAltTitle" : "Alternatives",
+	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
+	
+	
+	"GameStartDashTitle" : "To start the game with Admiral Dashboard",
+	"GameStartDashDesc" : "To start your game and get critical information on your HQ and fleet statuses, you can open the Admiral Dashboard. This will show you information such as HQ Rank, Ship slots, Equipment LoS, Air Fighter Power, Fleet Speed, Morale, etc. You may activate this via:",
+	"GameStartDashWin" : "For Windows / Linux",
+	"GameStartDashOr" : "or",
+	"GameStartDashMac" : "While on Mac",
+	"GameStartDashChrome" : "When the Chrome panel opens, there will be a tab \"<strong>KanColle</strong>\"",
+	"GameStartNowTitle" : "Just Let Me Play Now",
+	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now...",
+	"GameStartNowBtn" : "Start the game anyway",
+	
     "AboutTitle" : "KC3改 - 开发者",
     "Version" : "版本",
     "AboutHome" : "首页",
@@ -186,11 +216,7 @@
     "EventHistoryRank1"  : "简单",
     "EventHistoryRank2"  : "普通",
     "EventHistoryRank3"  : "困难",
-    "EventHistoryRank1X" : "小儿科",
-    "EventHistoryRank2X" : "地狱模式",
-    "EventHistoryRank3X" : "老子就是强",
     "StrategyEventGo"    : "活动图",
-    "StrategyEventGoP"   : "#绝望#",
 
     "PanelDocking" : "入渠",
     "PanelAkashi" : "明石",

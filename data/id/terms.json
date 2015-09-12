@@ -106,6 +106,8 @@
 	"SettingsTimeDiff" : "Penyisihan Waktu",
 	"SettingsMoraleNotif" : "Notifikasi Moral",
 	"SettingsMoraleValue" : "Moral Minimum",
+	"SettingsSupplyRate" : "Supplai Minimum",
+	"SettingsSupplyBarLabel" : "batang",
 	"SettingsSeconds" : "detik",
 	"SettingsSoundType" : "Tipe Suara",
 	"SettingsDing" : "DING!",
@@ -136,6 +138,8 @@
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsGearHolder" : "Warna Latar Belakang Equip",
+	
+	"SettingsLegacyPanel" : "Panel: Tema Legacy",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Anda yakin ingin menggunakan fitur ini?\nSemua resiko yang anda alami bukan tanggung jawab KC3改.\n\nPastikan anda tahu apa yang anda lakukan terlebih dahulu.",
 	"SettingsErrorNG" : "Disimpan!",
@@ -182,9 +186,7 @@
 	"EventHistoryRank1"  : "MUDAH",
 	"EventHistoryRank2"  : "SEDANG",
 	"EventHistoryRank3"  : "SULIT",
-	"EventHistoryRank1X" : "BOCAH",
-	"EventHistoryRank2X" : "NERAKA",
-	"EventHistoryRank3X" : "MPOS LW",
+	"StrategyEventGo"    : "Seluruh",
 	
 	"PanelDocking" : "Perbaikan",
 	"PanelAkashi" : "Akashi",
@@ -194,9 +196,13 @@
 	"PanelHighestAkashi" : "Waktu Perbaikan Akashi",
 	
 	"PanelHasTaiha" : "Kritis",
+	"PanelFSTaiha" : "Pemimpin",
+	"PanelEscortChuuha" : "Pengawal Pemimpin",
 	"PanelNoTaiha" : "HP baik",
 	"PanelSupplied" : "Suplai baik",
-	"PanelNotSupplied" : "Perlu isi suplai",
+	"PanelNotSupplied" : "Suplai <100%",
+	"PanelUnderSupplied" : "Suplai kurang",
+	"PanelEmptySupply" : "Suplai kosong",
 	"PanelGreatMorale" : "Moral mantap",
 	"PanelGoodMorale" : "Moral baik",
 	"PanelSupportPower" : "Damage support expedition",
@@ -204,8 +210,7 @@
 	"PanelPlanesBomber" : "Pesawat pada tahap pengeboman",
 	
 	"MissionLabelActivity" : "Hasil",
-	"MissionLabelAdmiral" : "HQ EXP",
-	"MissionGetItems" : "Item yg didapat:",
+	"MissionGetItems" : "Item didapatkan:",
 	"MissionActivity0" : "Batal",
 	"MissionActivity1" : "Gagal",
 	"MissionActivity2" : "Berhasil",
@@ -219,6 +224,7 @@
 	"LevelShort" : "Lv.",
 	"LevelNext" : "Tersisa",
 	"Screenshot" : "Screenshot",
+	"Expedition" : "Ekspedisi",
 	"UntranslatedQuest" : "Quest Belum Diterjemahkan",
 
 	"StrategyEvents1HP" : "Terakhir!",

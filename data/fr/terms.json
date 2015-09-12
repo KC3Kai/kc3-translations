@@ -130,6 +130,17 @@
 	"SettingsPanelSize" : "Taille du Panneau",
 	"SettingsPanelOpacity" : "Opacité de l'Interface",
 	"SettingsGearHolder" : "Couleur du fond",
+	
+	"SettingsLegacyPanel" : "Panneau: Legacy Theme",
+	
+	"SettingsChuuiWarningDangerousFeature" : "Es-tu sûr de changer cela?\nChaque risque que tu fera, sera sur le dos de la résponsabilité de KC3改's.\n\nSois-sûr de ce que tu fais avant!",
+	"SettingsErrorNG" : "Sauvegardé!",
+	"SettingsErrorSuper" : "Valeur invalide!",
+	"SettingsErrorAbove" : "Trop Haut",
+	"SettingsErrorBelow" : "Trop Bas",
+	"SettingsErrorLength" : "Valeur Long",
+	"SettingsErrorValue" : "Valeur",
+	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
 	"Small" : "Petite",
 	"Big" : "grande",
@@ -180,9 +191,13 @@
 	"PanelHighestAkashi" : "le plus haut temps de réparation avec Akashi",
 
 	"PanelHasTaiha" : "Critique",
+	"PanelFSTaiha" : "Flagship",
+	"PanelEscortChuuha" : "Flagship d'escorte",
 	"PanelNoTaiha" : "HP Bonne",
 	"PanelSupplied" : "Kanmusu Ok!",
-	"PanelNotSupplied" : "Recharge !",
+	"PanelNotSupplied" : "<100% de ravitaillement",
+	"PanelUnderSupplied" : "Besoin de ravitaillement",
+	"PanelEmptySupply" : "Plus de Ravitaillement",
 	"PanelGreatMorale" : "Morale Parfait",
 	"PanelGoodMorale" : "Morale Bonne",
 	"PanelSupportPower" : "Bombardement du Support Expedition",

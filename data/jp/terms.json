@@ -43,7 +43,37 @@
 	"MenuAboutDesc" : "KC3改に関する情報、および開発者、翻訳者、テスターのそのチーム。",
 	"MenuChecking" : "アップデートをチェックしています...",
 	"MenuOnLatest" : "すでに最新バージョンを使用しています。",
-	
+
+
+	"GameDMMRedirect" : "You will be redirected to play directly on DMM website ",
+
+	"GameAPIRemoveTitle" : "保存されているAPIリンクを削除",
+	"GameAPIRemoveDesc" : "APIリンクを削除するにはこのボタンをクリックしてください",
+	"GameAPIRemoveBtn" : "APIリンクを削除",
+
+	"GameAPINoExist" : "KC3を使用するにはAPIリンクが必要です",
+	"GameAPIGetTitle" : "じゃあどうすればいいの？",
+	"GameAPIGetDesc" : "ブラウザのアドレスバー横にある　<img src=\"../../assets/img/logo/16.png\" />　のアイコンをクリックし、<img src=\"../popup/img/refresh.png\" /> <strong>APIリンクを更新/strong>のボタンを押してください.",
+	"GameAPIExistTitle" : "APIリンクすでに持っているよ",
+	"GameAPIExistDesc" : "お持ちのAPIリンクをこちらに貼り付けてください",
+	"GameAPIExistBtn" : "APIリンクを保存",
+	"GameAPIWhatTitle" : "APIリンクってなに？",
+	"GameAPIWhatDesc" : "簡単に説明すれば、提督殿を勤務室に直接飛ばしてくれる魔法です。ログイン情報がAPIリンクに含まれてるため、最新のAPIリンクを持つかぎりDMMのページを開かずにゲームを楽しむことができます。",
+	"GameAPIRemindTitle" : "これから鎮守府に配属されるんだけど…",
+	"GameAPIRemindDesc" : "APIリンクを使うには「鎮守府及び提督名が決めた」ことが前提となっているので、これから着任抽選を挑む提督殿は母港で最初の艦娘とお会いになってからKC3を使ってください.",
+	"GameAPIAltTitle" : "良くわからないけど、APIリンクってヤツを使わなきゃダメなの？",
+	"GameAPIAltDesc" : "そんなことはありません。KC3改メニュー<img src=\"../../assets/img/logo/16.png\" />にある<img src=\"../popup/img/dmm.png\" /> <strong>DMMで艦これを起動</strong>を使えばブラウザで普段通り公式サイトで艦これを楽しめることができます。KC3改はAPIリンクを使わなくてもちゃんと動作しますのでご安心ください。",
+
+	"GameStartDashTitle" : "どうやってKC3改と艦これを起動するの？",
+	"GameStartDashDesc" : "KC3改と艦これを起動するには、以下のキーボードショートカットを使ってください:",
+	"GameStartDashWin" : "Windows / Linux　の場合",
+	"GameStartDashOr" : "また",
+	"GameStartDashMac" : "Macの場合",
+	"GameStartDashChrome" : "キーボードショートカットを押して、開発者ツールが開いたら一番右にある　\"<strong>KanColle</strong>\"というタブに切り替えてください",
+	"GameStartNowTitle" : "KC3改は後で、今すぐ艦これやりたい！",
+	"GameStartNowDesc" : "下のボタンを押せばゲームが起動します。KC3改は上記のショートカットでいつでも呼び出せるのでご心配なく。",
+	"GameStartNowBtn" : "艦これを起動する",
+
 	"AboutTitle" : "KC3改の開発者たち",
 	"Version" : "バージョン",
 	"AboutHome" : "ホームページ",

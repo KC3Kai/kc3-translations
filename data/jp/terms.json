@@ -1,6 +1,6 @@
 {
 	"available": true,
-	
+
 	"SortieWinCount": "出撃の勝利回数",
     	"SortieLoseCount": "出撃の敗北回数",
     	"SortieWinRate": "出撃の勝率",
@@ -28,22 +28,52 @@
     	"ImprovementMaterial": "改修資材",
     	"Experience": "提督経験値",
     	"Name": "提督名",
-	
+
 	"MenuPlayAPIName" : "KC3改で艦これを起動する",
 	"MenuPlayAPIDesc" : "ゲーム本体しか表示されないため、公式サイトより軽く動作できます。",
 	"MenuRefreshAPIName" : "APIリンクを更新",
 	"MenuRefreshAPIDesc" : "DMMの艦これゲームページを開き、APIリンクを更新させます",
 	"MenuPlayDMMName" : "DMMサイトで艦これを起動する",
-	"MenuPlayDMMDesc" : "普段通り公式サイトで艦これをやりたい場合こちらにどうぞ",
+	"MenuPlayDMMDesc" : "普段通り公式サイトで艦これをやりたい場合はこちらにどうぞ",
 	"MenuCookiesName" : "Cookieを有効",
 	"MenuCookiesDesc" : "「DMM.com」であなたが 「\"Error Area\" 画面」が表示されたこのいつでも使用。",
 	"MenuStrategyName" : "戦闘指揮所",
 	"MenuStrategyDesc" : "様々なツールを使用して、分析し、戦略を立て助け、またはちょうどあなたの艦隊を管理します。",
 	"MenuSettingsDesc" : "変更を適用するにはゲームをリロードしてください",
-	"MenuAboutDesc" : "KC3改に関する情報、および開発者、翻訳者、テスターのそのチーム。",
+	"MenuAboutDesc" : "KC3改及び開発者に関する情報。",
 	"MenuChecking" : "アップデートをチェックしています...",
 	"MenuOnLatest" : "すでに最新バージョンを使用しています。",
-	
+
+
+	"GameDMMRedirect" : "一番下にある艦これを起動するを押すことで、DMMで艦これページに飛べます",
+
+	"GameAPIRemoveTitle" : "保存されているAPIリンクを削除",
+	"GameAPIRemoveDesc" : "APIリンクを削除するにはこのボタンをクリックしてください",
+	"GameAPIRemoveBtn" : "APIリンクを削除",
+
+	"GameAPINoExist" : "KC3を使用するにはAPIリンクが必要です",
+	"GameAPIGetTitle" : "じゃあどうすればいいの？",
+	"GameAPIGetDesc" : "ブラウザのアドレスバー横にある　<img src=\"../../assets/img/logo/16.png\" />　のアイコンをクリックし、<img src=\"../popup/img/refresh.png\" /> <strong>APIリンクを更新/strong>のボタンを押してください.",
+	"GameAPIExistTitle" : "APIリンクすでに持っているよ",
+	"GameAPIExistDesc" : "お持ちのAPIリンクをこちらに貼り付けてください",
+	"GameAPIExistBtn" : "APIリンクを保存",
+	"GameAPIWhatTitle" : "APIリンクってなに？",
+	"GameAPIWhatDesc" : "簡単に説明すれば、提督殿を勤務室に直接飛ばしてくれる魔法です。ログイン情報がAPIリンクに含まれてるため、最新のAPIリンクを持つかぎりDMMのページを開かずにゲームを楽しむことができます。",
+	"GameAPIRemindTitle" : "これから鎮守府に配属されるんだけど…",
+	"GameAPIRemindDesc" : "APIリンクを使うには「鎮守府及び提督名が決めた」ことが前提となっているので、これから着任抽選を挑む提督殿は母港で最初の艦娘とお会いになってからKC3を使ってください.",
+	"GameAPIAltTitle" : "良くわからないけど、APIリンクってヤツを使わなきゃダメなの？",
+	"GameAPIAltDesc" : "そんなことはありません。KC3改メニュー<img src=\"../../assets/img/logo/16.png\" />にある<img src=\"../popup/img/dmm.png\" /> <strong>DMMで艦これを起動</strong>を使えばブラウザで普段通り公式サイトで艦これを楽しめることができます。KC3改はAPIリンクを使わなくてもちゃんと動作しますのでご安心ください。",
+
+	"GameStartDashTitle" : "KC3改を経由して艦これを起動するのには？",
+	"GameStartDashDesc" : "KC3改で艦これを起動するには、以下のキーボードショートカットを使ってください:",
+	"GameStartDashWin" : "Windows / Linux　の場合",
+	"GameStartDashOr" : "また",
+	"GameStartDashMac" : "Macの場合",
+	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある　\"<strong>KanColle</strong>\"というタブに切り替えてください",
+	"GameStartNowTitle" : "KC3改は後で、今すぐ艦これやりたい！",
+	"GameStartNowDesc" : "下のボタンを押せばゲームページが開きます。KC3改は上記のショートカットでいつでも呼び出せるのでご心配なく。",
+	"GameStartNowBtn" : "艦これを起動する",
+
 	"AboutTitle" : "KC3改の開発者たち",
 	"Version" : "バージョン",
 	"AboutHome" : "ホームページ",
@@ -52,7 +82,7 @@
 	"AboutReport" : "バグレポート",
 	"AboutHelpCommunity" : "これから助けることができます。",
 	"AboutHelpLearnMore" : "コーディング必要がありません! それを行う方法の詳細はこちら...",
-	
+
 	"AboutCoders" : "開発者",
 	"AboutProjectHead" : "プロジェクトリーダ",
 	"AboutWikiWriter" : "Wikiライター",
@@ -67,55 +97,59 @@
 	"AboutFairy" : "妖精デザイン",
 	"AboutReporters" : "バグ報告者",
 	"AboutReporter" : "バグ報告者",
-	
+
 	"SettingsTitle" : "KC3改の設定",
-	
+
 	"SettingsGlobal" : "グローバル",
 	"SettingsLanguage" : "言語",
-	"SettingsELosFormula" : "効果的なLoS式",
+	"SettingsELosFormula" : "使用する索敵値計算式",
 	"SettingsELosSum" : "合計",
 	"SettingsELosOld" : "古い",
-	"SettingsELosNew" : "新",
-	"SettingsHQExpDetail"  : "提督経験値の情報",
-	"SettingsHQExpLeft"    : "残り",
-	"SettingsHQExpCurrent" : "現在",
-	"SettingsHQExpTotal"   : "総獲得",
-	"SettingsTimerDisplayType" : "タイマー表示の種類",
-	"SettingsTimeRemaining" : "残り",
-	"SettingsTimeFinished" : "終了",
-	
-	"SettingsGameInfo" : "ゲーム情報",
-	"SettingsDropFaces" : "出撃ドロップ顔",
-	"SettingsConstructionFaces" : "建設顔",
-	"SettingsCraftBox" : "工芸結果",
-	"SettingsCompass" : "コンパスと戦闘データ",
-	"SettingsBattleData" : "予想な耐久",
-	"SettingsBossComp" : "ボス組成",
-	"SettingsBattleStamp" : "戦いの後条件マーカー",
+	"SettingsELosNew" : "新しい",
+	"SettingsHQExpDetail"  : "提督経験値の表示方法",
+	"SettingsHQExpLeft"    : "次のレベルまで",
+	"SettingsHQExpCurrent" : "現在レベルの獲得量",
+	"SettingsHQExpTotal"   : "総獲得量",
+	"SettingsTimerDisplayType" : "タイマーの表示方法",
+	"SettingsTimeRemaining" : "残りの時間",
+	"SettingsTimeFinished" : "終了時間",
+
+	"SettingsGameInfo" : "パネルに表示される情報",
+	"SettingsDropFaces" : "ドロップした艦娘",
+	"SettingsConstructionFaces" : "現在建造されている艦娘",
+	"SettingsCraftBox" : "開発した装備",
+	"SettingsCompass" : "羅針盤と戦闘データ",
+	"SettingsBattleData" : "敵のHP",
+	"SettingsBossComp" : "ボスマスの編成",
+	"SettingsBattleStamp" : "艦娘の疲労度",
 	"SettingsYasenTroll" : "夜戦 \u0022特別な支援\u0022",
 	"SettingsHQDelta" : "出撃の提督経験値差分",
-	
+
+	"SettingsDBSubmission" : "艦これDB送信機能",
+	"SettingsEnableDBSubmission" : "データを送信を有効にする",
+	"SettingsDBSubmissionKey" : "送信Key",
+
 	"SettingsScreenshot" : "スクリーンショット",
 	"SettingsSSOutput" : "出力モード",
 	"SettingsSSDownload" : "ダウンロード",
-	"SettingsSSImgur" : "Imgur",
-	"SettingsSSNewTab" : "新しいタブ",
-	"SettingsSSFileType" : "ファイルタイプ",
-	
-	"SettingsAlerts" : "警報",
+	"SettingsSSImgur" : "Imgurへアップロード",
+	"SettingsSSNewTab" : "新しいタブで開く",
+	"SettingsSSFileType" : "拡張子",
+
+	"SettingsAlerts" : "通知機能",
 	"SettingsTimeDiff" : "タイマー手当",
-	"SettingsMoraleNotif" : "疲労通知",
-	"SettingsMoraleValue" : "疲労最小",
-	"SettingsSupplyRate" : "補給最小",
-	"SettingsSupplyBarLabel" : "補給バー",
+	"SettingsMoraleNotif" : "疲労回復の通知",
+	"SettingsMoraleValue" : "通知する疲労",
+	"SettingsSupplyRate" : "補給必要の通知",
+	"SettingsSupplyBarLabel" : "割",
 	"SettingsSeconds" : "秒",
-	"SettingsSoundType" : "音の種類",
+	"SettingsSoundType" : "通知音",
 	"SettingsDing" : "チーン!",
 	"SettingsCustom" : "カスタム",
-	"SettingsCustomSound" : "カスタム音",
+	"SettingsCustomSound" : "カスタム通知音",
 	"SettingsDesktopNotif" : "デスクトップ通知",
-	
-	"SettingsAPIGameScreen" : "APIゲーム画面",
+
+	"SettingsAPIGameScreen" : "ゲーム画面",
 	"SettingsQuestOverlay" : "クエスト翻訳",
 	"SettingsQuestTracking" : "クエスト追跡",
 	"SettingsPanelRequirement" : "ロードするためにパネルを待ち",
@@ -130,17 +164,17 @@
 	"SettingsBGPosition" : "背景位置",
 	"SettingsBGPositionDesc" : "background-positionのCSSプロパティを参照してください。",
 	"SettingsPlayerScale" : "ゲームプレイヤースケール",
-	
+
 	"SettingsDMMGameplay" : "DMMゲーム画面",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
 	"SettingsDMMForceCookies" : "Cookieハック実施",
-	
+
 	"SettingsPanelSize" : "パネルサイズ",
 	"SettingsPanelOpacity" : "インターフェイスの不透明度",
 	"SettingsGearHolder" : "装備背景色",
-	
+
 	"SettingsLegacyPanel" : "パネル：Legacyテーマ",
-	
+
 	"SettingsChuuiWarningDangerousFeature" : "あなたが本当にこれを変更しますか？\nあなたがしようとしている任意のリスクはKC3改の責任を超えています。\n\nあなたが前に何をすべきかを知っていることを確認します。",
 	"SettingsErrorNG" : "保存しました",
 	"SettingsErrorSuper" : "値が無効！",
@@ -149,7 +183,7 @@
 	"SettingsErrorLength" : "値長",
 	"SettingsErrorValue" : "値",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
-	
+
 	"Small" : "小",
 	"Big" : "大",
 	"Black" : "黒",
@@ -159,30 +193,30 @@
 	"Volume" : "ボリューム",
 	"None" : "なし",
 	"LearnMore" : "もっと詳しく",
-	"Saved" : "保存する！",
-	
+	"Saved" : "保存しました",
+
 	"UnwantedExit" : "もう行っちゃうの(´・ω・｀)？",
 	"APIWaitToggle" : "まず、「KC3改」パネルをロードしてください。",
 	"APIConcealExpl" : "あなたのAPIへのリンクを表示するにはホバー。",
-	
+
 	"SpeedFast" : "高速",
 	"SpeedSlow" : "低速",
-	
+
 	"HQText" : "司令部",
 	"HQExpAbbrev1" : "次Lvまで",
 	"HQExpAbbrev2" : "現在",
 	"HQExpAbbrev3" : "総獲得",
-	
+
 	"BattleDetection" : "索敵",
 	"BattleEngangement" : "交戦形態",
 	"BattleContact" : "接触",
 	"BattleAirBattle" : "制空",
 	"BattleFriendly" : "友軍",
 	"BattleEnemy" : "敵",
-	
+
 	"PredictionStampSortie" : "撃沈",
 	"PredictionStampPvP" : "轟沈",
-	
+
 	"EventHistoryRank1"  : "丙",
 	"EventHistoryRank2"  : "乙",
 	"EventHistoryRank3"  : "甲",
@@ -191,14 +225,14 @@
 	"EventHistoryRank3X" : "無理でち",
 	"StrategyEventGo"    : "イベント出撃",
 	"StrategyEventGoP"   : "#絶望",
-	
+
 	"PanelDocking" : "入渠",
 	"PanelAkashi" : "明石",
 	"PanelNoRepair" : "修理する必要なし",
 	"PanelCantRepair" : "修理不可能",
 	"PanelHighestDocking" : "最大の入渠修理の時間",
 	"PanelHighestAkashi" : "最大の明石修理の時間",
-	
+
 	"PanelHasTaiha" : "大破艦あり",
 	"PanelFSTaiha" : "第1艦隊旗艦",
 	"PanelEscortChuuha" : "第2艦隊旗艦",
@@ -212,29 +246,29 @@
 	"PanelSupportPower" : "支援射撃火力",
 	"PanelPlanesFighter" : "制空戦に参加する艦載機",
 	"PanelPlanesBomber" : "開幕攻撃に参加する艦載機",
-	
+
 	"MissionLabelActivity" : "遠征",
 	"MissionGetItems" : "入手したアイテム：",
 	"MissionActivity0" : "中止",
 	"MissionActivity1" : "失敗",
 	"MissionActivity2" : "成功",
 	"MissionActivity3" : "大成功",
-	
+
 	"CombinedCarrier" : "機動部隊",
 	"CombinedSurface" : "水上部隊",
 	"CombinedNone" : "聯合艦隊なし",
-	
+
 	"LevelText" : "レベル",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "次まで",
 	"Screenshot" : "スクリーンショット",
 	"Expedition" : "遠征",
 	"UntranslatedQuest" : "翻訳されていないクエスト",
-	
+
 	"StrategyEvents1HP" : "ラストダンス！",
-	
+
 	"PanelWaitActions" : "艦これで母港を表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">を参照して有効にしてください。</a>.",
-	
+
 	"Dummy" : "ダミー"
 }

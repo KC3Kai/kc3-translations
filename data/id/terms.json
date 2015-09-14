@@ -28,7 +28,7 @@
 	"ImprovementMaterial": "Sekrup",
 	"Experience": "Experience",
 	"Name": "Nama",
-
+	
 	"MenuPlayAPIName" : "Bermain Melalui API Link",
 	"MenuPlayAPIDesc" : "Bermain menggunakan API link yang disimpan atau masukan secara manual",
 	"MenuRefreshAPIName" : "Refresh API Link",
@@ -43,6 +43,36 @@
 	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya",
 	"MenuChecking" : "Memeriksa pembaruan KC3改 berikutnya...",
 	"MenuOnLatest" : "Anda menggunakan versi terbaru!",
+	
+	"GameDMMRedirect" : "Anda akan dialihkan untuk bermain langsung pada website DMM",
+	
+	"GameAPIRemoveTitle" : "Hapus API link",
+	"GameAPIRemoveDesc" : "Jika anda ingin menghapus API Link yang telah tersimpan:",
+	"GameAPIRemoveBtn" : "Hapus API Link",
+	
+	"GameAPINoExist" : "Anda tidak memiliki API Link tersimpan",
+	"GameAPIGetTitle" : "Untuk mendapatkan API link baru",
+	"GameAPIGetDesc" : "Gunakan <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> di kanan atas browser anda.",
+	"GameAPIExistTitle" : "Untuk menggunakan API link yang sudah ada",
+	"GameAPIExistDesc" : "Jika sudah memiliki API Link, anda dapat memasukannya disini:",
+	"GameAPIExistBtn" : "Pakai API Link",
+	"GameAPIWhatTitle" : "Apa itu API Link?",
+	"GameAPIWhatDesc" : "API Link adalah direct URL game, yang telah dihubungkan/diasosiasikan ke akun anda. Selama anda menyimpan link tersebut, anda akan login secara otomatis tanpa login melalui website DMM, sehingga anda tidak perlu menggunakan VPN setiap kali anda akan bermain.",
+	"GameAPIRemindTitle" : "Pengingat untuk pemain baru",
+	"GameAPIRemindDesc" : "Harap tidak menggunakan KC3改 jika anda belum lolos tahap <i>lottery</i>. KC3改 menganggap akun anda sedang login saat mengekstrak API Link yang dapat dimainkan. Setelah anda bergabung pada salah satu server, anda masih harus memasukkan nama admiral sebelum dapat menggunakan API Link.",
+	"GameAPIAltTitle" : "Alternatif",
+	"GameAPIAltDesc" : "Jika anda ingin bermain langsung pada portal DMM, anda dapat menggunakan <img src=\"../popup/img/dmm.png\" /> <strong>Bermain Melalui DMM.com</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> yang juga mendukung fasilitas panel <kbd class=\"light\">F12</kbd> dengan mekanisme yang sama dengan API Link.",
+	
+	
+	"GameStartDashTitle" : "Untuk memulai game dengan Admiral Dashboard",
+	"GameStartDashDesc" : "Untuk memulai game dan menerima informasi penting HQ dan keadaan armada, silahkan buka Admiral Dashboard. Ini akan memberikan anda informasi seperti Peringkat HQ, Tempat Kapal, LoS Equipment, Kekuatan Air Fighter, Kecepatan Armada, Moral, dll. Anda dapat mengaktifkannya dengan:",
+	"GameStartDashWin" : "Untuk Windows / Linux",
+	"GameStartDashOr" : "atau",
+	"GameStartDashMac" : "Untuk Mac",
+	"GameStartDashChrome" : "Saat panel Chrome terbuka, akan ada tab \"<strong>KanColle</strong>\"",
+	"GameStartNowTitle" : "Aku ingin bermain sekarang",
+	"GameStartNowDesc" : "Jika anda tidak ingin menggunakan fitur-fitur diatas...",
+	"GameStartNowBtn" : "Mulai game sekarang",
 
 	"AboutTitle" : "Tentang Pengembang KC3改",
 	"Version" : "Versi",
@@ -160,7 +190,7 @@
 	"None" : "Tidak ada",
 	"LearnMore" : "Pelajari Lebih lanjut",
 	"Saved" : "Disimpan!",
-
+	
 	"UnwantedExit" : "Yakin mau keluar? Nanti waifumu ngambek loh..",
 	"APIWaitToggle" : "Harap buka panel KC3Kai terlebih dahulu",
 	"APIConcealExpl" : "Arahkan kursor untuk melihat API Link",

@@ -41,14 +41,14 @@
     "MenuStrategyDesc" : "这里有帮助你进行数据、战略分析和管理舰队的各种工具",
     "MenuSettingsDesc" : "调整各种选项，下次启动游戏时生效",
     "MenuAboutDesc" : "关于本辅助工具",
+
     "MenuVersion" : "插件版本",
-    "MenuChangelog" : "(变更记录)",
+    "MenuChangelog" : "（更新历史）",
     "MenuUpdate" : "版本状态",
     "MenuOnLatest" : "已使用最新版本！",
-    "MenuScheduledNow" : "現已排程",
+    "MenuScheduledNow" : "已推出",
     "MenuPvPReset" : "距演习刷新还剩",
     "MenuQuestReset" : "距任务刷新还剩",
-    "MenuChecking" : "正在检查更新……",
 
     "GameDMMRedirect" : "即将前往DMM网站直接进行游戏",
 
@@ -58,26 +58,26 @@
 
     "GameAPINoExist" : "你没有记录任何的API链接",
     "GameAPIGetTitle" : "获得新的API链接",
-    "GameAPIGetDesc" : "请使用浏览器右上角 <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中的 <img src=\"../popup/img/refresh.png\" /> <strong>刷新API链接</strong>.",
+    "GameAPIGetDesc" : "请使用浏览器右上角 <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中的 <img src=\"../popup/img/refresh.png\" /> <strong>获取新的API</strong> 功能。",
     "GameAPIExistTitle" : "使用已有的API链接",
-    "GameAPIExistDesc" : "若你已经有API链接,可以在此处输入:",
+    "GameAPIExistDesc" : "若你已经有API链接，可以在此处输入：",
     "GameAPIExistBtn" : "保存并使用此API链接",
-    "GameAPIWhatTitle" : "什么是API链接?",
-    "GameAPIWhatDesc" : "API链接是<em>直连你游戏帐号</em>的链接地址.持有这个地址你就可以自动\"登录\"帐号从而绕过通过DMM网页的登录步骤,从而不再需要于每次游戏时使用VPN.",
+    "GameAPIWhatTitle" : "什么是API链接？",
+    "GameAPIWhatDesc" : "API链接是<em>直连你游戏帐号</em>的链接地址。持有这个地址你就可以自动“登录”帐号从而绕过通过DMM网页的登录步骤，从而不再需要于每次游戏时使用VPN等代理措施。",
     "GameAPIRemindTitle" : "舰娘新用户注意",
-    "GameAPIRemindDesc" : "在抢号并成功登录前请暂缓使用KC3改,本插件需要在你成功登录游戏之后才可获取正确的API链接.此外注意在你选择并加入服务器后,你需要输入提督名,但这个名字并非API链接.",
-    "GameAPIAltTitle" : "Alternatives",
-    "GameAPIAltDesc" : "若比起API链接,你更希望直接在DMM网站上进行游戏,可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中,选择 <img src=\"../popup/img/dmm.png\" /> <strong>开始游戏(DMM网页模式)</strong>, 这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板.",
+    "GameAPIRemindDesc" : "在抢号并成功登录前请不要使用KC3改，本插件需要在你成功登录游戏之后才可获取正确的API链接。此外注意在你选择并加入服务器后，你需要输入提督名，但这个名字并非API链接。",
+    "GameAPIAltTitle" : "其他方式",
+    "GameAPIAltDesc" : "若比起API链接，你更希望直接在DMM网站上进行游戏，可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中选择 <img src=\"../popup/img/dmm.png\" /> <strong>DMM网页模式</strong>，这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板。",
 
     "GameStartDashTitle" : "开启KC3改数据面板并开始游戏",
-    "GameStartDashDesc" : "通过KC3改数据面板你可以浏览镇守府和舰队状态相关的状态情报,其中包括但不限于: 镇守府等级,舰娘装备槽,索敌值,制空值,舰队速度,士气值.请使用下列方法启动这一功能:",
+    "GameStartDashDesc" : "通过KC3改数据面板你可以浏览镇守府和舰队状态相关的状态情报，如：镇守府等级、舰娘装备、索敌值、制空值、舰队速度、士气值等。请使用下列方法启动这一功能：",
     "GameStartDashWin" : "Windows / Linux 用户可以使用热键",
     "GameStartDashOr" : "或",
-    "GameStartDashMac" : "Mac用户使用热键: ",
-    "GameStartDashChrome" : "当 Chrome 面板开启时,请选择其中的标签 \"<strong>KanColle</strong>\"",
+    "GameStartDashMac" : "Mac用户使用热键",
+    "GameStartDashChrome" : "当 Chrome 面板开启时，请选择其中的标签“<strong>KanColle</strong>”",
     "GameStartNowTitle" : "直接开始游戏",
-    "GameStartNowDesc" : "若你并不想以上的功能,你也可以选择直接开始游戏...",
-    "GameStartNowBtn" : "忽略数据面板,直接开始游戏",
+    "GameStartNowDesc" : "若你并不想以上的功能，你也可以选择直接开始游戏……",
+    "GameStartNowBtn" : "忽略数据面板，直接开始游戏",
 
     "AboutTitle" : "KC3改 - 开发者",
     "Version" : "版本",
@@ -265,7 +265,7 @@
     "StrategyEvents1HP" : "斩杀！",
 
     "PanelWaitActions" : "正在等待游戏响应……",
-    "PanelErrorStorage" : "Chrome本地存储功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",
+    "PanelErrorStorage" : "Chrome本地存储（LocalStorage）功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",
 
     "Dummy" : "Dummy"
 }

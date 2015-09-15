@@ -41,8 +41,14 @@
     "MenuStrategyDesc" : "Инструменты для анализа, планирования и менеджмента флота",
     "MenuSettingsDesc" : "Настройки расширения. Вступают в силу после запуска новой сессии",
     "MenuAboutDesc" : "Информация по KC3改, команде разработчиков и тестерах",
-    "MenuChecking" : "Проверка на наличие обновлений KC3改...",
-    "MenuOnLatest" : "Вы используете последнюю версию!",
+
+    "MenuVersion" : "Версия",
+    "MenuChangelog" : "(список изменений)",
+    "MenuUpdate" : "KC3改 Update",
+    "MenuOnLatest" : "Последняя версия!",
+    "MenuScheduledNow" : "Планируется обновление!",
+    "MenuPvPReset" : "Обновление PvP",
+    "MenuQuestReset" : "Обновление заданий",
 
     "GameDMMRedirect" : "Вы будете перенаправлены на страницу игры на DMM",
 
@@ -124,7 +130,7 @@
     "SettingsBossComp" : "Флот противника",
     "SettingsYasenTroll" : "\u0022Режим тролля\u0022",
     "SettingsHQDelta" : "Прирост HQ",
-	"SettingsFleetStatus" : "Fleet Status Summary",
+    "SettingsFleetStatus" : "Сводка состояния флота",
     
     "SettingsScreenshot" : "Снимки экрана",
     "SettingsSSOutput" : "Вывод",

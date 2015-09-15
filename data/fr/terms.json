@@ -41,8 +41,14 @@
 	"MenuStrategyDesc" : "Outils divers pour vous aider à analyser, élaborer des stratégies ou gérer votre flotte",
 	"MenuSettingsDesc" : "Configuration d'extensions diverses s'appliquant à la session suivante",
 	"MenuAboutDesc" : "Informations sur KC3改, son équipe de développeurs, auteurs et testeurs",
-	"MenuChecking" : "Vérification de la prochaine mise à jour de KC3改 ...",
-	"MenuOnLatest" : "Vous utilisez la dernière version !",
+	
+	"MenuVersion" : "Version installé",
+	"MenuChangelog" : "(Changelogs)",
+	"MenuUpdate" : "KC3改 mise à jour",
+	"MenuOnLatest" : "Dernière version",
+	"MenuScheduledNow" : "Prévu maintenant",
+	"MenuPvPReset" : "Prochain PvP Reset",
+	"MenuQuestReset" : "prochaine quête Reset",
 
 	"AboutTitle" : "À propos des devs de KC3改",
 	"Version" : "Version",
@@ -82,7 +88,8 @@
 	"SettingsHQExpTotal"   : "EXP total gagné",
 
 	"SettingsGameInfo" : "Info jeu",
-	"SettingsConstructionFaces" : "Aperçu du kanmusu",
+	"SettingsDropFaces" : "Kanmusu reçu en Sortie",
+	"SettingsConstructionFaces" : "Aperçu du Kanmusu",
 	"SettingsCraftBox" : "Résultat de Craft",
 	"SettingsCompass" : "Boussole et Ennemi",
 	"SettingsBattleData" : "Supposition HP Fin",
@@ -90,6 +97,7 @@
 	"SettingsBossComp" : "Composition du Boss",
 	"SettingsYasenTroll" : "KC3改 Troll Commentaire",
 	"SettingsHQDelta" : "HQ EXP Delta en Sortie",
+	"SettingsFleetStatus" : "Fleet Status Summary",
 
 	"SettingsScreenshot" : "Capture d'Écran",
 	"SettingsSSOutput" : "Méthode d'affichage",
@@ -100,6 +108,10 @@
 
 	"SettingsAlerts" : "Alertes",
 	"SettingsTimeDiff" : "Intervalle de Temps",
+	"SettingsMoraleNotif" : "Morale Notification",
+	"SettingsMoraleValue" : "Morale Minimum",
+	"SettingsSupplyRate" : "Ravitaillement Minimum",
+	"SettingsSupplyBarLabel" : "bars",
 	"SettingsSeconds" : "Secondes",
 	"SettingsSoundType" : "Type de Son",
 	"SettingsDing" : "DING!",

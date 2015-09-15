@@ -41,8 +41,7 @@
 	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能簡單地管理艦隊",
 	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
 	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
-	"MenuChecking" : "正在檢查KC3改的更新……",
-	
+
 	"MenuVersion" : "已安裝版本", 
 	"MenuChangelog" : "（版本記錄）", 
 	"MenuUpdate" : "KC3改更新", 
@@ -55,11 +54,11 @@
 	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection官網。",
 	
 	"GameAPIRemoveTitle" : "移除API鏈結",
-	"GameAPIRemoveDesc" : "如為安全或其他理由起見，你可以：",
+	"GameAPIRemoveDesc" : "如要刪除本程式所記憶的API鏈結，你可以：",
 	"GameAPIRemoveBtn" : "移除API鏈結",
 	
 	"GameAPINoExist" : "對不起，你沒有一個可用的API鏈結呢！",
-	"GameAPIGetTitle" : "獲得一個API鏈結k",
+	"GameAPIGetTitle" : "獲取一個新的API鏈結",
 	"GameAPIGetDesc" : "Use the <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
 	"GameAPIExistTitle" : "To use Existing API links",
 	"GameAPIExistDesc" : "If you already have an API Link on hand, you may input it here:",

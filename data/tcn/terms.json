@@ -42,9 +42,17 @@
 	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
 	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
 	"MenuChecking" : "正在檢查KC3改的更新……",
-	"MenuOnLatest" : "你在用的是最新版！",
 	
-	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection 官網。",
+	"MenuVersion" : "已安裝版本", 
+	"MenuChangelog" : "（版本記錄）", 
+	"MenuUpdate" : "KC3改更新", 
+ 	"MenuOnLatest" : "你在用的是最新版！",
+	"MenuScheduledNow" : "現已排程", 
+ 	"MenuPvPReset" : "下次演習重設時間", 
+	"MenuQuestReset" : "下次任務重設時間", 
+	
+	
+	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection官網。",
 	
 	"GameAPIRemoveTitle" : "移除API鏈結",
 	"GameAPIRemoveDesc" : "如為安全或其他理由起見，你可以：",

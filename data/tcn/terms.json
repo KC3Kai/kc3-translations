@@ -29,6 +29,21 @@
     "Experience": "提督經驗值",
     "Name": "提督名",
 	
+	"MenuPlayAPIName" : "用API連結來玩",
+	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲",
+	"MenuRefreshAPIName" : "更新API連結",
+	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結",
+	"MenuPlayDMMName" : "用DMM網頁來玩",
+	"MenuPlayDMMDesc" : "透過普通DMM網頁版來遊玩。百分百安全的選項。",
+	"MenuCookiesName" : "啟用區域Cookies",
+	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁",
+	"MenuStrategyName" : "策略研究室",
+	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能簡單地管理艦隊",
+	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
+	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
+	"MenuChecking" : "正在檢查KC3改的更新……",
+	"MenuOnLatest" : "你在用的是最新版！",
+	
 	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection 官網。",
 	
 	"GameAPIRemoveTitle" : "移除API鏈結",
@@ -48,7 +63,6 @@
 	"GameAPIAltTitle" : "Alternatives",
 	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
 	
-	
 	"GameStartDashTitle" : "使用艦隊Collection 幫功面板",
 	"GameStartDashDesc" : "使用艦隊Collection 幫功面板可以幫助提供你的司令部、艦隊、出擊、建造、遠征等資訊，包括等級、艦娘數量、士氣、對空能力、剩餘時間等。你可以透過下列方法啟動：",
 	"GameStartDashWin" : "Windows / Linux",
@@ -58,21 +72,6 @@
 	"GameStartNowTitle" : "不管了，就讓我玩吧！",
 	"GameStartNowDesc" : "好吧，如果你不想要面板就開始的話...",
 	"GameStartNowBtn" : "開始遊戲",
-	
-	"MenuPlayAPIName" : "用API連結來玩",
-	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲",
-	"MenuRefreshAPIName" : "更新API連結",
-	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結",
-	"MenuPlayDMMName" : "用DMM網頁來玩",
-	"MenuPlayDMMDesc" : "透過普通DMM網頁版來遊玩。百分百安全的選項。",
-	"MenuCookiesName" : "啟用區域Cookies",
-	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁",
-	"MenuStrategyName" : "策略研究室",
-	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能簡單地管理艦隊",
-	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
-	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
-	"MenuChecking" : "正在檢查KC3改的更新……",
-	"MenuOnLatest" : "你在用的是最新版！",
 	
 	"AboutTitle" : "有關KC3改的開發者",
 	"Version" : "版本",

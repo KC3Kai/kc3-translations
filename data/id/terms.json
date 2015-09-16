@@ -41,8 +41,14 @@
 	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada anda",
 	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya",
 	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya",
-	"MenuChecking" : "Memeriksa pembaruan KC3改 berikutnya...",
-	"MenuOnLatest" : "Anda menggunakan versi terbaru!",
+	
+	"MenuVersion" : "Versi terpasang",
+	"MenuChangelog" : "(Daftar Perubahan)",
+	"MenuUpdate" : "Pembaruan KC3改",
+	"MenuOnLatest" : "Terbaru!",
+	"MenuScheduledNow" : "Dijadwalkan sekarang",
+	"MenuPvPReset" : "Waktu reset PvP",
+	"MenuQuestReset" : "Waktu reset Quest",
 	
 	"GameDMMRedirect" : "Anda akan dialihkan untuk bermain langsung pada website DMM",
 	
@@ -65,7 +71,7 @@
 	
 	
 	"GameStartDashTitle" : "Untuk memulai game dengan Admiral Dashboard",
-	"GameStartDashDesc" : "Untuk memulai game dan menerima informasi penting HQ dan keadaan armada, silahkan buka Admiral Dashboard. Ini akan memberikan anda informasi seperti Peringkat HQ, Tempat Kapal, LoS Equipment, Kekuatan Air Fighter, Kecepatan Armada, Moral, dll. Anda dapat mengaktifkannya dengan:",
+	"GameStartDashDesc" : "Untuk memulai game dan menerima informasi penting HQ dan status armada, silahkan buka Admiral Dashboard. Ini akan memberikan anda informasi seperti Peringkat HQ, Tempat Kapal, LoS Equipment, Kekuatan Air Fighter, Kecepatan Armada, Moral, dll. Anda dapat mengaktifkannya dengan:",
 	"GameStartDashWin" : "Untuk Windows / Linux",
 	"GameStartDashOr" : "atau",
 	"GameStartDashMac" : "Untuk Mac",
@@ -123,7 +129,8 @@
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
 	"SettingsYasenTroll" : "Komentar Hiburan KC3改",
-	"SettingsHQDelta" : "HQ EXP Delta saat Sorti",
+	"SettingsHQDelta" : "Selisih HQ EXP saat Sorti",
+	"SettingsFleetStatus" : "Indikator Status Armada",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Hasil Screenshot",
@@ -131,6 +138,7 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "Tab Baru",
 	"SettingsSSFileType" : "Format File",
+	"SettingsSSDirectory" : "Direktori Screenshot",
 
 	"SettingsAlerts" : "Peringatan",
 	"SettingsTimeDiff" : "Penyisihan Waktu",

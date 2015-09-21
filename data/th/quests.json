@@ -141,7 +141,7 @@
     },
     "136": {
         "name": "จัดกองเรือพิฆาตที่ 30 (Gen-2)",
-        "desc": "จัดเรือ มุตสึกิ (\u7766\u6708), ยาโยอิ (\u5f25\u751f), อุซึกิ (\u536f\u6708), โมจิสึกิ (\u671b\u6708) ลงในกองเรือหลัก"
+        "desc": "จัดเรือ มุทสึกิ (\u7766\u6708), ยาโยอิ (\u5f25\u751f), อุซึกิ (\u536f\u6708), โมจิสึกิ (\u671b\u6708) ลงในกองเรือหลัก"
     },
     "137": {
         "name": "จัดกองเรือรูปแบบที่ 5",
@@ -164,7 +164,7 @@
         "desc": "จัดเรือ โซริว ไคนิ (\u84bc\u9f8d\u6539\u4e8c) ให้เป็นเรือธง และจัด ฮิริว ไคนิ (\u98db\u9f8d\u6539\u4e8c) กับ DD 2 ลำ ในกองเรือหลัก"
     },
     "142": {
-        "name": "จัดกองเรือประจันบานที่ 3",
+        "name": "จัดกองเรือประจัญบานที่ 3",
         "desc": "จัดเรือ คองโก ไคนิ, ฮิเอย์ ไคนิ, ฮารุนะ ไคนิ, คิริชิมะ ไคนิ ลงในกองเรือหลัก"
     },
     "143": {
@@ -172,11 +172,11 @@
         "desc": "ตั้งเรือ อุนริว (\u96f2\u9f8d) เป็นเรือธงในกองเรือหลัก"
     },
     "144": {
-        "name": "จัดกองเรือหลักประจันบานที่ 2",
+        "name": "จัดกองเรือหลักประจัญบานที่ 2",
         "desc": "จัดเรือ นางาโตะ, มุทสึ, ฟุโซ, ยามาชิโระ ลงในกองเรือหลัก"
     },
     "145": {
-        "name": "จัดกองเรือประจันบานหลัก",
+        "name": "จัดกองเรือประจัญบานหลัก",
         "desc": "เลือกเรือจากชั้น นางาโตะคลาส, อิเสะคลาส, ฟุโซคลาส, ยามาโตะคลาส มาจำนวน 3 ลำ และ CL อีก 1 ลำ (เท่านั้น) ลงในกองเรือหลัก"
     },
     "146": {
@@ -231,116 +231,116 @@
     
     
     "202": {
-        "name": "First Sortie!",
-        "desc": "Deploy your main fleet on a combat mission."
+        "name": "ออกรบครั้งแรก",
+        "desc": "ส่งกองเรือที่ 1 ออกรบ"
     },
     "203": {
-        "name": "Protect the Seas of Chinju-Fu!",
-        "desc": "Deploy to World 1-1 and clear the stage."
+        "name": "ปกป้องท้องทะเลจินจุฟุ",
+        "desc": "ส่งกองเรือที่ไปรบด่าน 1-1 จนจบด่าน"
     },
     "204": {
-        "name": "Sortie to the Coast of Nansei Islands!",
-        "desc": "Deploy to World 1-2 and clear the stage."
+        "name": "ปฏิบัติการสู่ชายฝั่งเกาะนันเซอิ",
+        "desc": "ส่งกองเรือไปรบด่าน 1-2 จนจบด่าน"
     },
     "205": {
-        "name": "Intercept Approaching Enemy Vanguard Fleet!",
-        "desc": "Deploy to World 1-2 after defeating its boss and clear the stage."
+        "name": "ขัดขวางกองทัพเรือศัตรูที่ใกล้เข้ามา",
+        "desc": "ส่งกองเรือไปรบด่าน 1-2 อีกครั้ง และ ชนะบอสให้ได้"
     },
     "206": {
-        "name": "Sortie the Torpedo Squadron!",
-        "desc": "Deploy a fleet with a CL as flagship and 3 DD as escorts."
+        "name": "ปฏิบัติการกองเรือตอปิโด",
+        "desc": "ตั้งเรือ CL เป็นเรือธง และ DD 3 ลำ ไปออกรบ"
     },
     "207": {
-        "name": "Sortie a Heavy Cruiser!",
-        "desc": "Deploy a fleet with a CA as its flagship."
+        "name": "ปฏิบัติการกองเรือลาดตะเวนหนัก",
+        "desc": "ตั้งเรือ CA เป็นเรือธง และ ออกไปรบ"
     },
     "208": {
-        "name": "Sortie a Battleship!",
-        "desc": "Deploy a fleet with a BB as its flagship. BBV don't count."
+        "name": "ปฏิบัติการกองเรือประจัญบาน",
+        "desc": "ตั้งเรือ BB เป็นเรือธง และ ออกไปรบ (เรือ BBV ไม่สามารถใช้แทนได้)"
     },
     "209": {
-        "name": "Sortie a Carrier Task Force!",
-        "desc": "Deply a fleet with CV(L) as flagship and 5 DD\/CL\/AV for the escorts."
+        "name": "ปฏิบัติการกองเรือบรรทุกเครื่องบิน",
+        "desc": "ตั้งเรือ CVL เป็นเรือธง และ เรือที่เหลือ 5 ลำต้องเป็น CL, DD, AV เท่านั้น"
     },
     "215": {
-        "name": "Second Fleet Sortie!",
-        "desc": "Deploy your 2nd Fleet on a combat mission."
+        "name": "ปฏิบัติการกองเรือที่ 2",
+        "desc": "ส่งกองเรือที่ 2 ไปออกรบ"
     },
     "217": {
-        "name": "Sink Enemy Carrier!",
-        "desc": "Sink an enemy aircraft carrier."
+        "name": "จมเรือบรรทุกเครื่องบินของศัตรู",
+        "desc": "จมเรือบรรทุกเครื่องบินของศัตรู 1 ลำ"
     },
     "219": {
-        "name": "Sortie the Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kako, Furutaka, Tenryuu and another fast ship."
+        "name": "ปฏิบัติการกองเรือทมิคาวะ",
+        "desc": "จัดเรือ โจไค, ฟุรุทากะ, คาโกะ, อาโอบะ, เทนริว, และเรือเร็วอีก 1 ลำ ไปออกรบ (BB กับ CV ไม่สามารถใช้แทนได้)"
     },
     "222": {
-        "name": "Sortie the Destroyer Division 6!",
-        "desc": "Deploy a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi."
+        "name": "ปฏิบัติการกองเรือพิฆาตที่ 6",
+        "desc": "จัดเรือ อาคัทสึกิ, ฮิบิกิ (หรือเวลนุยก็ได้), อินาซึมะ, อิคาซึจิ ไปออกรบ"
     },
     "223": {
-        "name": "Sortie the Cruiser Division 4!",
-        "desc": "Deploy a fleet with Atago, Takao, Choukai, Maya and any 2 ships. Score a victory against World 2-2 Boss."
+        "name": "ปฏิบัติการกองเรือลาดตะเวนหนักที่ 4",
+        "desc": "จัดเรือ อาตาโกะ, ทาคาโอะ, โจไค, มายะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-2 ให้ได้"
     },
     "224": {
-        "name": "Sortie the Nishimura Fleet!",
-        "desc": "Deploy a fleet with Fusou, Yamashiro, Mogami, Shigure and any 2 ships. Score a victory against World 2-3 Boss."
+        "name": "ปฏิบัติการกองเรือนิชิมุระ",
+        "desc": "จัดเรือ ฟุโซ, ยามาชิโระ, โมกามิ, ชิงุเระ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้"
     },
     "225": {
-        "name": "Sortie the Carrier Division 5!",
-        "desc": "Deploy a fleet with Shoukaku, Zuikaku and any 4 ships. Score a victory against World 3-1 Boss."
+        "name": "ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5",
+        "desc": "จัดเรือ โชคาคุ, ซุยคาคุ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 3-1 ให้ได้"
     },
     "227": {
-        "name": "Sortie the New Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu. Score a victory against World 2-3 Boss."
+        "name": "ปฏิบัติการกองเรือมิคาวะ (ใหม่)",
+        "desc": "จัดเรือ โจไค, อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว ไปชนะบอสด่าน 2-3 ให้ได้"
     },
     "231": {
-        "name": "Sortie a Submarine Fleet!",
-        "desc": "Deploy a fleet with 2 SS and 4 additional ships. Score a victory against World 2-3 Boss."
+        "name": "ปฏิบัติการกองเรือดำน้ำ",
+        "desc": "จัดเรือ SS 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 2-3 ให้ได้"
     },
     "232": {
-        "name": "Sortie a Naval Aviation Strike Fleet!",
-        "desc": "Deploy a fleet with 2 BBV, 2 CAV and 2 additional ships. Score a victory against World 4-2 Boss."
+        "name": "ปฏิบัตการกองเรือบรรทุกเครื่องบินทะเล",
+        "desc": "จัดเรือ BBV 2 ลำ, CAV 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 4-2 ให้ได้"
     },
     "233": {
-        "name": "Sortie the Cruiser Division 6!",
-        "desc": "Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss."
+        "name": "ปฏิบัติการกองเรือลาดตะเวนหนักที่ 6",
+        "desc": "จัดเรือ ฟุรุทากะ, คาโกะ, คินุกาสะ, อาโอบะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3"
     },
     "239": {
-        "name": "Sortie the Destroyer Division 8!",
-        "desc": "Deploy a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships. Score a victory against World 2-3 Boss."
+        "name": "ปฏิบัติการกองเรือพิฆาตที่ 8",
+        "desc": "จัดเรือ อาราชิโอะ, มิจิซิโอะ, โอชิโอะ, อาราชิโอะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้"
     },
     "240": {
-        "name": "Sortie the Destroyer Division 18!",
-        "desc": "Deploy a fleet with Kasumi, Arare, Kagerou, Shiranui and 2 additional ships. Score a victory against World 3-1 Boss."
+        "name": "ปฏิบัติการกองเรือพิฆาตที่ 18",
+        "desc": "จัดเรือ คาสุมิ, อาราเระ, คาเงโร่, ชิรานุอิ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 3-1 ให้ได้"
     },
     "244": {
-        "name": "Deploy the Destroyer Division 30 (Gen-1)",
-        "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs to world 3-2 and encounter the boss. C rank or above is required."
+        "name": "ปฏิบัติการกองเรือพิฆาตที่ 30 (Gen-1)",
+        "desc": "จัดเรือ มุทสึกิ (\u7766\u6708), คิซารากิ (\u5982\u6708), ยาโยอิ (\u5f25\u751f), โมจิสึกิ (\u671b\u6708) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 3-2"
     },
     "245": {
-        "name": "In Preparation of Love! (Final)",
-        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss."
+        "name": "แต่งงานกับเรือที่รัก (Final)",
+        "desc": "ตั้งเรือ Lv.90~99 ที่คุณรักเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 2-3"
     },
     "246": {
-        "name": "Your First Mission Together!",
-        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+        "name": "พาเรือที่รักไปทำภารกิจ",
+        "desc": "ตั้งเรือ Lv.100+ ที่คุณแต่งงานเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 4-3"
     },
     "247": {
-        "name": "Sortie an aviation battleship fleet!",
-        "desc": "Have 2 BBV ships in your main fleet and score a victory against World 4-4 Boss."
+        "name": "ปฏิบัติการกองเรือประจัญบานบรรทุกเครื่องบิน",
+        "desc": "จัดเรือ BBV 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 4-4 ให้ได้"
     },
     "248": {
-        "name": "30th Destroyer Fleet's Anti-Submarine Patrol",
-        "desc": "Deploy Mutsuki, Yayoi, Uzuki and Mochizuki to World 1-5 and reach the boss, scoring at least a C rank."
+        "name": "กองเรือพิฆาตที่ 30 (กองลาดตะเวนต่อต้านเรือดำน้ำ)",
+        "desc": "จัดเรือ มุทสึกิ, ยาโยอิ, อุซึกิ, โมจิสึกิ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5"
     },
     "250": {
-        "name": "Deploy the 2nd Carrier Division",
-        "desc": "Deploy Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the flagship, Souryuu (\u84bc\u9f8d) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss."
+        "name": "ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 2",
+        "desc": "จัดเรือ ฮิริว ไคนิ (\u98db\u9f8d\u6539\u4e8c) เป็นเรือธง, โซริว (\u84bc\u9f8d) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2 (โซริว ไคนิ ทำเควสได้เช่นกัน)"
     },
     "251": {
-        "name": "Deploy the Elite 2nd Carrier Division",
-        "desc": "Deploy Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the flagship, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) and two destroyers to World 4-3. You may add 2 other ships. Score an S rank victory against the boss."
+        "name": "ปฏิบัตการกองเรือบรรทุกเครื่องบินที่ 2 ออกรบอีกครั้ง",
+        "desc": "จัดเรือ โซริว ไคนิ (\u84bc\u9f8d\u6539\u4e8c) เป็นเรือธง, ฮิริว ไคนิ (\u98db\u9f8d\u6539\u4e8c), DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-3"
     },
     "252": {
         "name": "Deploy a Haruna-led Fleet",

@@ -231,9 +231,13 @@
         "name": "Reorganize the 5th Carrier Division!",
         "desc": "Have Shoukaku, Zuikaku, Oboro and Akigumo in your main fleet"
     },
+    "162": {
+        "name": "Prepare the New 21st Squadron for Sortie",
+        "desc": "Have Nachi(Kai-2), Ashigara(Kai-2), Tama and Kiso in your main fleet"
+    },
     "163": {
-        "name": "Organize the 16th Cruiser Division (First Generation)",
-        "desc": "Have Ashigara as flagship, Kuma and Nagara in your main fleet"
+        "name": "Organize the 16th Squadron (First Generation)",
+        "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet"
     },
     
     
@@ -442,9 +446,17 @@
         "name": "Strengthen the Anti-Submarine Patrol in Front of the Naval Base!",
         "desc": "Sortie to 1-5 and obtain 4 A-ranks (or better) at the boss"
     },
+    "287": {
+        "name": "Sortie the 5th Carrier Division to the Southern Sea Coral Islands",
+        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss"
+    },
+    "288": {
+        "name": "Sortie the New 21st Squadron to the North",
+        "desc": "Sortie Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso and up to 2 additional ships to W3-1 and S-Rank the boss"
+    },
     "289": {
-        "name": "Sortie the 16th Cruiser Division (First Generation)",
-        "desc": "Sortie Ashigara, Kuma, and Nagara to 2-2 and defeat the boss"
+        "name": "Sortie the 16th Squadron (First Generation)",
+        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
     },
     
     "201": {
@@ -764,7 +776,11 @@
         "name": "Naval Ceremony",
         "desc": "Complete expedition 8"
     },
-    
+    "420": {
+        "code": "D19",
+        "name": "Enhance the Use of the Task Force",
+        "desc": "Complete Expeditions 35 and 26"
+    },
     
     
     
@@ -898,8 +914,16 @@
         "desc": "Perform equipment modernisation once",
         "tracking": [ [0,1] ]
     },
-    
-    
+    "622": {
+        "code": "F19",
+        "name": "Organize the Elite Type 97 Torpedo Bomber Force",
+        "desc": "Have Shoukaku or Akagi as flagship and then scrap 3 Type 97 Torpedo Bomber"
+    },
+    "623": {
+        "code": "F20",
+        "name": "Model Conversion: Type 97 Torpedo Bomber (Murata Squadron)",
+        "desc": "Have Shoukaku equipped with Type 97 Torpedo Bomber (Murata Squadron) as flagship and then scrap 2 Tenzan (Heavenly Mountain)"
+    },
     
     
     

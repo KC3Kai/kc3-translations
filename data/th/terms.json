@@ -126,7 +126,7 @@
 	"SettingsTimeRemaining" : "Remaining",
 	"SettingsTimeFinished" : "Finished",
 	
-	"SettingsGameInfo" : "Game Information",
+	"SettingsGameInfo" : "ข้อมูลของเกม",
 	"SettingsDropFaces" : "ดรอปเรือ",
 	"SettingsConstructionFaces" : "ต่อเรือ",
 	"SettingsCraftBox" : "อาวุธยุทโธปกรณ์",
@@ -154,7 +154,7 @@
 	"SettingsSeconds" : "วินาที",
 	"SettingsSoundType" : "ประเภทเสียง",
 	"SettingsDing" : "DING!",
-	"SettingsCustom" : "Custom",
+	"SettingsCustom" : "กำหนดเอง",
 	"SettingsCustomSound" : "กำหนดเสียงเอง (URL)",
 	"SettingsDesktopNotif" : "แจ้งเตือนเดสก์ทอป",
 	
@@ -208,9 +208,9 @@
 	"LearnMore" : "Learn more",
 	"Saved" : "Saved!",
 	
-	"UnwantedExit" : "Ahhh! You are leaving your girls! Are you sure you want to leave them?",
-	"APIWaitToggle" : "Please load KC3Kai panel first",
-	"APIConcealExpl" : "Hover to show your API Link",
+	"UnwantedExit" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะ! แน่ใจใช่มั้ยคะผู้การ ว่าอยากจะปิดเกมแล้ว?",
+	"APIWaitToggle" : "โปรดเปิดหน้าแรกของ KC3Kai ก่อน ",
+	"APIConcealExpl" : "วางเมาส์เพื่อดู API ของคุณ",
 	
 	"SpeedFast" : "เร็ว",
 	"SpeedSlow" : "ช้า",
@@ -230,10 +230,10 @@
 	"PredictionStampSortie" : "จม",
 	"PredictionStampPvP" : "น็อกเอ๊าต์",
 	
-	"EventHistoryRank1"  : "'ง่าย'",
+	"EventHistoryRank1"  : "ง่าย",
 	"EventHistoryRank2"  : "ธรรมดา",
 	"EventHistoryRank3"  : "ยาก",
-	"StrategyEventGo"    : "Event Run",
+	"StrategyEventGo"    : "ลงอีเวนท์",
 	
 	"PanelDocking" : "อู่เรือ",
 	"PanelAkashi" : "อาคาชิ",
@@ -274,7 +274,7 @@
 	"Expedition" : "สำรวจ",
 	"UntranslatedQuest" : "เควสยังไม่ได้แปล",
 	
-	"StrategyEvents1HP" : "Last Kill!",
+	"StrategyEvents1HP" : "รอบสุดท้าย!",
 	
 	"PanelWaitActions" : "กำลังโหลดข้อมูลเกมเข้า KC3...",
 	"PanelErrorStorage" : "บาวเซอร์ Chrome ของคุณได้ปิดกั้นการทำงานภายใน localStorage บางส่วนไว้  KC3 改 ต้องการให้คุณเปิดใช้งานในส่วนนี้เพื่อให้ทำงานได้ <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">คลิกที่นี้เพื่อดูวิธีการเปิดใช้งานคุกกี้</a>",

@@ -69,6 +69,7 @@
     "GameAPIAltTitle" : "其他方式",
     "GameAPIAltDesc" : "若比起API链接，你更希望直接在DMM网站上进行游戏，可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中选择 <img src=\"../popup/img/dmm.png\" /> <strong>DMM网页模式</strong>，这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板。",
 
+
     "GameStartDashTitle" : "开启KC3改数据面板并开始游戏",
     "GameStartDashDesc" : "通过KC3改数据面板你可以浏览镇守府和舰队状态相关的状态情报，如：镇守府等级、舰娘装备、索敌值、制空值、舰队速度、士气值等。请使用下列方法启动这一功能：",
     "GameStartDashWin" : "Windows / Linux 用户可以使用热键",
@@ -127,12 +128,9 @@
     "SettingsBattleData" : "战斗预测",
     "SettingsBattleStamp" : "战斗后状态提示",
     "SettingsBossComp" : "Boss配置",
-    "SettingsYasenTroll" : "夜战 \u0022额外支持\u0022",
+	"SettingsYasenTroll" : "KC3改 Troll Comments",
     "SettingsHQDelta" : "出击时司令部经验值变化",
-
-    "SettingsDBSubmission" : "“艦これDB”统计(http://kancolle-db.net/login.php)",
-    "SettingsEnableDBSubmission" : "启用数据统计",
-    "SettingsDBSubmissionKey" : "密钥",
+	"SettingsFleetStatus" : "舰队状态概览",
 
     "SettingsScreenshot" : "截图",
     "SettingsSSOutput" : "输出方式",
@@ -173,6 +171,10 @@
     "SettingsDMMGameplay" : "DMM模式",
     "SettingsDMMCustomize" : "允许自定义",
     "SettingsDMMForceCookies" : "强制模拟地域Cookie",
+	
+	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据", 
+	"SettingsEnableDBSubmission" : "启用功能",
+	"SettingsDBSubmissionKey" : "密钥（Access key）",
 
     "SettingsPanelSize" : "面板尺寸",
     "SettingsPanelOpacity" : "界面不透明度 (opacity)",
@@ -254,7 +256,6 @@
     "MissionActivity1" : "失败",
     "MissionActivity2" : "成功",
     "MissionActivity3" : "大成功",
-    "MissionLabelAdmiral" : "提督经验",
 
     "CombinedCarrier" : "联合舰队-机动",
     "CombinedSurface" : "联合舰队-水打",
@@ -264,6 +265,7 @@
     "LevelShort" : "Lv.",
     "LevelNext" : "还需",
     "Screenshot" : "截图",
+	"Expedition" : "远征",
     "UntranslatedQuest" : "未翻译的任务",
 
     "StrategyEvents1HP" : "斩杀！",

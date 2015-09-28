@@ -231,8 +231,12 @@
         "name": "Kelola kembali kapal induk (CV) Divisi ke-5!",
         "desc": "Miliki Shoukaku, Zuikaku, Oboro dan Akigumo di Armada Utama"
     },
+    "162": {
+        "name": "Persiapan Skuadron ke21 yg baru untuk sorti",
+        "desc": "Miliki Nachi(Kai-2), Ashigara(Kai-2), Tama dan Kiso di Armada Utama"
+    },
     "163": {
-        "name": "Kelola Regu Penjelajah Divisi ke-16 (Generasi Pertama)",
+        "name": "Kelola Skuadron Penjelajah Divisi ke-16 (Generasi Pertama)",
         "desc": "Miliki Ashigara sebagai kapal pemimpin, Kuma dan Nagara di Armada Utama"
     },
 	
@@ -447,8 +451,18 @@
         "name": "Perkuat Patroli anti kapal selam di depan pangkalan angkatan laut!",
         "desc": "Sortie ke 1-5 dan dapatkan 4 A-ranks (Atau lebih) Pada Boss Node"
     },
-	
-	
+    "287": {
+        "name": "Sorti Kapal Induk Divisi ke-5 ke Laut Selatan Pulau Coral",
+        "desc": "Sorti Shoukaku, Zuikaku, Oboro, Akigumo dan 2 Kapal lainnya ke W5-2 dan S-Rank di Boss Node"
+    },
+    "288": {
+        "name": "Sorti Skuadron divisi ke-21 yg Baru ke Utara",
+        "desc": "Sorti Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso dan 2 Kapal Lainnya ke W3-1 dan S-Rank di Boss Node"
+    },
+    "289": {
+        "name": "Sorti Skuadron Divisi ke-16 (Generasi Pertama)",
+        "desc": "Sorti Ashigara Sebagai Kapal Pemimpin, Kuma, Nagara dan 3 Kapal lainnya ke W2-2 dan S-Rank di boss node"
+     },
 	
 	
 	"201": {
@@ -769,6 +783,11 @@
         "name": "Upacara Angkatan laut",
         "desc": "Selesaikan Ekspedisi 8"
     },
+     "420": {
+        "code": "D19",
+        "name": "Tingkatkan Penggunaan Gugus Tugas(Task Force)",
+        "desc": "Selesaikan Expedisi 35 dan 26"
+    },
 	
 	
 	
@@ -903,8 +922,17 @@
         "desc": "Lakukan Modernisasi Persenjataan sekali",
 		"tracking": [ [0,1] ]
     },
-	
-	
+    "622": {
+   		"code": "F19",
+        "name": "Kelola Pasukan Elit Type 97 Torpedo Bomber",
+        "desc": "Jadikan SHoukaku atau Akagi Sebagai Kapal Pemimpin Kemudian Hancurkan 3 Type 97 Torpedo Bomber"
+    },
+    "623": {
+        "code": "F20",
+        "name": "Konversi Model: Type 97 Torpedo Bomber (Murata Squadron)",
+        "desc": "Jadikan SHoukaku yg Dilengkapi dengan Type 97 Torpedo Bomber (Murata Squadron) Sebagai Kapal pemimpin Hancurkan 2 Tenzan (Heavenly Mountain)"
+    },
+
     
 	
 	

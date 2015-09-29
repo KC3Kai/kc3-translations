@@ -104,6 +104,11 @@
     "AboutReporters" : "活跃的Git汇报者",
     "AboutReporter" : "Git汇报者",
 
+    "AboutOtherSources" : "其他信息来源",
+    "AboutLicense" : "许可",
+    "AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
+    "AboutSourceZHKcWiki" : "<strong>简体中文</strong>任务使用了部分来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>的翻译，有少许改动。",
+
     "SettingsTitle" : "KC3改 - 设置",
 
     "SettingsGlobal" : "综合",
@@ -128,9 +133,9 @@
     "SettingsBattleData" : "战斗预测",
     "SettingsBattleStamp" : "战斗后状态提示",
     "SettingsBossComp" : "Boss配置",
-	"SettingsYasenTroll" : "KC3改 Troll Comments",
+    "SettingsYasenTroll" : "KC3改 Troll Comments",
     "SettingsHQDelta" : "出击时司令部经验值变化",
-	"SettingsFleetStatus" : "舰队状态概览",
+    "SettingsFleetStatus" : "舰队状态概览",
 
     "SettingsScreenshot" : "截图",
     "SettingsSSOutput" : "输出方式",
@@ -171,10 +176,10 @@
     "SettingsDMMGameplay" : "DMM模式",
     "SettingsDMMCustomize" : "允许自定义",
     "SettingsDMMForceCookies" : "强制模拟地域Cookie",
-	
-	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据", 
-	"SettingsEnableDBSubmission" : "启用功能",
-	"SettingsDBSubmissionKey" : "密钥（Access key）",
+
+    "SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
+    "SettingsEnableDBSubmission" : "启用功能",
+    "SettingsDBSubmissionKey" : "密钥（Access key）",
 
     "SettingsPanelSize" : "面板尺寸",
     "SettingsPanelOpacity" : "界面不透明度 (opacity)",
@@ -265,7 +270,7 @@
     "LevelShort" : "Lv.",
     "LevelNext" : "还需",
     "Screenshot" : "截图",
-	"Expedition" : "远征",
+    "Expedition" : "远征",
     "UntranslatedQuest" : "未翻译的任务",
 
     "StrategyEvents1HP" : "斩杀！",

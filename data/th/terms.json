@@ -40,11 +40,11 @@
 	"MenuStrategyName" : "ห้องผู้การ",
 	"MenuStrategyDesc" : "ห้องผู้การมีข้อมูลต่าง ๆ และระบบเสริมมากมายให้ใช้งาน",
 	"MenuSettingsDesc" : "ตั้งค่า (การตั้งค่าจะมีผลเมื่อเปิดใหม่อีกครั้ง)",
-	"MenuAboutDesc" : "ข้อมูลจากทีมงานและผู้ดูแล KC3改",
+	"MenuAboutDesc" : "ข้อมูลจากทีมงานและผู้ดูแล KC3Kai",
 	
 	"MenuVersion" : "เวอร์ชั่นที่ติดตั้ง",
 	"MenuChangelog" : "(การเปลี่ยนแปลง)",
-	"MenuUpdate" : "KC3改 อัพเดท",
+	"MenuUpdate" : "KC3Kai อัพเดท",
 	"MenuOnLatest" : "อัพเดทล่าสุดแล้ว",
 	"MenuScheduledNow" : "เริ่มตารางการอัพเดท",
 	"MenuPvPReset" : "เวลา PvP รีเซ็ต",
@@ -52,35 +52,35 @@
 	
 	"GameDMMRedirect" : "คุณกำลังจะถูกส่งเข้าไปเล่นโดยตรงผ่านเว็บ DMM",
 	
-	"GameAPIRemoveTitle" : "ลบ API",
-	"GameAPIRemoveDesc" : "ใช้ลบ API",
-	"GameAPIRemoveBtn" : "ลืม API",
+	"GameAPIRemoveTitle" : "ต้องการลบ API เดิม",
+	"GameAPIRemoveDesc" : "ใช้ลบ API ของเดิมที่คุณใช้อยู่ในตอนนี้",
+	"GameAPIRemoveBtn" : "ลบ API",
 	
 	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
-	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改</strong> ที่อยู่มุมขวา",
+	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> ที่อยู่มุมขวา",
 	"GameAPIExistTitle" : "ใช้ API เดิม",
 	"GameAPIExistDesc" : "ถ้ามี API แล้วใส่ที่นี่",
 	"GameAPIExistBtn" : "ใช้ API",
 	"GameAPIWhatTitle" : "API คืออะไร",
 	"GameAPIWhatDesc" : "API เป็นลิงค์สำหรับเพื่อเข้าเล่นเกมได้โดยตรง ไม่ผ่านหน้าเว็บ DMM และไม่ต้องใช้ VPN ในการเล่น",
 	"GameAPIRemindTitle" : "เตือนผู้การหน้าใหม่",
-	"GameAPIRemindDesc" : "อย่าเล่นผ่าน KC3改 ถ้ายังสมัครไม่เสร็จเพราะต้องเลือกเซิร์ฟเวอร์และกรอกชื่อผู้การ โดยต้องทำบนหน้าเว็บ DMM เท่านั้น ทำผ่าน API ไม่ได้",
+	"GameAPIRemindDesc" : "อย่าเล่นผ่าน KC3Kai ถ้ายังสมัครไม่เสร็จเพราะต้องเลือกเซิร์ฟเวอร์และกรอกชื่อผู้การ โดยต้องทำบนหน้าเว็บ DMM เท่านั้น ทำผ่าน API ไม่ได้",
 	"GameAPIAltTitle" : "ยังมีอีกทางเลือก",
-	"GameAPIAltDesc" : "ถ้าไม่ชอบเล่นผ่าน API และชอบเล่นบน DMM <img src=\"../popup/img/dmm.png\" /> <strong>ให้กดเล่นบน DMM</strong> จาก <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 เมนู</strong> แล้วก็กด <kbd class=\"light\">F12</kbd> เพื่อใช้งานแต่บางความสามารถจะใช้งานไม่ได้นะ",
+	"GameAPIAltDesc" : "ถ้าไม่ชอบเล่นผ่าน API และชอบเล่นบน DMM <img src=\"../popup/img/dmm.png\" /> <strong>ให้กด เล่นผ่านเว็บ DMM</strong> จาก <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> แล้วก็กด <kbd class=\"light\">F12</kbd> เพื่อใช้งาน แต่แบบนี้คุณจะใช้งานบางความสามารถไม่ได้นะ",
 	
 	
 	"GameStartDashTitle" : "วิธีเข้าเล่นเกม",
-	"GameStartDashDesc" : "วิธีเล่นเกมโดยใช้ KC3改 ให้กดดังนี้:",
+	"GameStartDashDesc" : "วิธีเล่นเกมโดยใช้ KC3Kai ให้กดดังนี้:",
 	"GameStartDashWin" : "สำหรับ Windows / Linux",
 	"GameStartDashOr" : "หรือ",
 	"GameStartDashMac" : "สำหรับ Mac",
 	"GameStartDashChrome" : "จากนั้นเลือกแท็บ \"<strong>KanColle</strong>\"",
 	"GameStartNowTitle" : "ก็จะเล่นเลย",
-	"GameStartNowDesc" : "ถ้าจะเล่นเฉย ๆ ไม่ใช้ KC3改 ก็กดเลย...",
+	"GameStartNowDesc" : "ถ้าจะเล่นเฉย ๆ ไม่ใช้ KC3Kai ก็กดเลย...",
 	"GameStartNowBtn" : "เริ่ม ๆ ไปเถอะ",
 	
-	"AboutTitle" : "เกี่ยวกับทีมงาน KC3改",
+	"AboutTitle" : "เกี่ยวกับทีมงาน KC3Kai",
 	"Version" : "เวอร์ชั่น",
 	"AboutHome" : "หน้าหลัก",
 	"AboutSource" : "โค้ด",
@@ -110,7 +110,7 @@
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
 	
-	"SettingsTitle" : "ตั้งค่า KC3改",
+	"SettingsTitle" : "ตั้งค่า KC3Kai",
 	
 	"SettingsGlobal" : "Global",
 	"SettingsLanguage" : "ภาษา",
@@ -134,7 +134,7 @@
 	"SettingsBattleData" : "บอกค่า HP ล่วงหน้า",
 	"SettingsBattleStamp" : "ไอคอนเรือตอนต่อสู้",
 	"SettingsBossComp" : "Boss Composition",
-	"SettingsYasenTroll" : "KC3改 คอมเม้นโทรลล์",
+	"SettingsYasenTroll" : "KC3Kai คอมเม้นโทรลล์",
 	"SettingsHQDelta" : "EXP ผู้การในการรบ",
 	"SettingsFleetStatus" : "สถานะเรือ",
 	
@@ -188,7 +188,7 @@
 	
 	"SettingsLegacyPanel" : "Panel: Legacy Theme",
 	
-	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
+	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "Saved!",
 	"SettingsErrorSuper" : "Invalid value!",
 	"SettingsErrorAbove" : "exceeds",
@@ -204,7 +204,7 @@
 	"Theme" : "Theme",
 	"Panel" : "Panel",
 	"Volume" : "ระดับเสียง",
-	"None" : "None",
+	"None" : "ไม่มี",
 	"LearnMore" : "Learn more",
 	"Saved" : "Saved!",
 	
@@ -235,26 +235,26 @@
 	"EventHistoryRank3"  : "ยาก",
 	"StrategyEventGo"    : "ลงอีเวนท์",
 	
-	"PanelDocking" : "อู่เรือ",
+	"PanelDocking" : "อู่ซ่อมเรือ",
 	"PanelAkashi" : "อาคาชิ",
-	"PanelNoRepair" : "ไม่จำเป็นต้องซ่อมแซม",
+	"PanelNoRepair" : "ยังไม่จำเป็นต้องซ่อม",
 	"PanelCantRepair" : "ซ่อมแซมไม่ได้",
-	"PanelHighestDocking" : "ระยะวลารวมซ่อมเรือทีมหลักานด้วยอู่เรือ",
-	"PanelHighestAkashi" : "ระยะวลารวมซ่อมเรือทีมหลักด้วยอาคาชิ",
-	
+	"PanelHighestDocking" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อู่ซ่อมเรือ",
+	"PanelHighestAkashi" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อาคาชิ",
+
 	"PanelHasTaiha" : "บาดเจ็บหนัก",
 	"PanelFSTaiha" : "เรือธงแดง",
 	"PanelEscortChuuha" : "คุ้มกันเรือธง",
 	"PanelNoTaiha" : "เลือด : ดี",
-	"PanelSupplied" : "ยุทธปัจจัย : ดี",
-	"PanelNotSupplied" : "<100% ยุทธปัจจัย",
-	"PanelUnderSupplied" : "ยุทธปัจจัย : ขาดแคลน",
-	"PanelEmptySupply" : "ยุทธปัจจัย : หมด",
+	"PanelSupplied" : "ยุทธปัจจัยพร้อม",
+	"PanelNotSupplied" : "ยังไม่ได้เติม",
+	"PanelUnderSupplied" : "เหลือน้อย",
+	"PanelEmptySupply" : "ยุทธปัจจัยหมด",
 	"PanelGreatMorale" : "กำลังใจ : ดีมาก",
 	"PanelGoodMorale" : "กำลังใจ : ดี",
-	"PanelSupportPower" : "Support Expedition Shelling Power",
-	"PanelPlanesFighter" : "Planes joining air-battle phase",
-	"PanelPlanesBomber" : "Planes joining bombing phase",
+	"PanelSupportPower" : "กำลังรบของกองกำลังสนับสนุน",
+	"PanelPlanesFighter" : "เครื่องบินที่เข้าร่วมรบน่านฟ้า",
+	"PanelPlanesBomber" : "เครื่องบินที่เข้าร่วมการโจมตี",
 	
 	"MissionLabelActivity" : "สถานะ",
 	"MissionGetItems" : "ได้รับ:",
@@ -276,8 +276,8 @@
 	
 	"StrategyEvents1HP" : "รอบสุดท้าย!",
 	
-	"PanelWaitActions" : "กำลังโหลดข้อมูลเกมเข้า KC3...",
-	"PanelErrorStorage" : "บาวเซอร์ Chrome ของคุณได้ปิดกั้นการทำงานภายใน localStorage บางส่วนไว้  KC3 改 ต้องการให้คุณเปิดใช้งานในส่วนนี้เพื่อให้ทำงานได้ <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">คลิกที่นี้เพื่อดูวิธีการเปิดใช้งานคุกกี้</a>",
+	"PanelWaitActions" : "กำลังโหลดข้อมูลเกมเข้า KC3Kai",
+	"PanelErrorStorage" : "บาวเซอร์ Chrome ของคุณได้ปิดกั้นการทำงานภายใน localStorage บางส่วนไว้  KC3Kai ต้องการให้คุณเปิดใช้งานในส่วนนี้เพื่อให้ทำงานได้ <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\"> คลิกที่นี้เพื่อดูวิธีการเปิดใช้งานคุกกี้</a>",
 	
 	"Dummy" : "Dummy"
 }

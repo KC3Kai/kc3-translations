@@ -56,18 +56,18 @@
 	"GameAPIRemoveDesc" : "ใช้ลบ API",
 	"GameAPIRemoveBtn" : "ลืม API",
 	
-	"GameAPINoExist" : "คุณไม่มี API ที่เคยใช้งาน",
+	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
-	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 เมนู</strong> ที่อยู่มุมขวา",
+	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改</strong> ที่อยู่มุมขวา",
 	"GameAPIExistTitle" : "ใช้ API เดิม",
 	"GameAPIExistDesc" : "ถ้ามี API แล้วใส่ที่นี่",
 	"GameAPIExistBtn" : "ใช้ API",
 	"GameAPIWhatTitle" : "API คืออะไร",
 	"GameAPIWhatDesc" : "API เป็นลิงค์สำหรับเพื่อเข้าเล่นเกมได้โดยตรง ไม่ผ่านหน้าเว็บ DMM และไม่ต้องใช้ VPN ในการเล่น",
 	"GameAPIRemindTitle" : "เตือนผู้การหน้าใหม่",
-	"GameAPIRemindDesc" : "อย่าเล่นผ่าน KC3改 ถ้ายังสมัครไม่เสร็จเพราะต้องเลือกเซิร์ฟเวอร์และกรอกชื่อผู้การ โดยต้องห้ามทำผ่าน API",
-	"GameAPIAltTitle" : "อีกนิด",
-	"GameAPIAltDesc" : "ถ้าไม่ชอบเล่นผ่าน API และชอบเล่นบน DMM <img src=\"../popup/img/dmm.png\" /> <strong>ให้กดเล่นบน DMM</strong> จาก <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 เมนู</strong> แล้วก็กด <kbd class=\"light\">F12</kbd> เพื่อใช้งานได้เหมือนเดิม",
+	"GameAPIRemindDesc" : "อย่าเล่นผ่าน KC3改 ถ้ายังสมัครไม่เสร็จเพราะต้องเลือกเซิร์ฟเวอร์และกรอกชื่อผู้การ โดยต้องทำบนหน้าเว็บ DMM เท่านั้น ทำผ่าน API ไม่ได้",
+	"GameAPIAltTitle" : "ยังมีอีกทางเลือก",
+	"GameAPIAltDesc" : "ถ้าไม่ชอบเล่นผ่าน API และชอบเล่นบน DMM <img src=\"../popup/img/dmm.png\" /> <strong>ให้กดเล่นบน DMM</strong> จาก <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 เมนู</strong> แล้วก็กด <kbd class=\"light\">F12</kbd> เพื่อใช้งานแต่บางความสามารถจะใช้งานไม่ได้นะ",
 	
 	
 	"GameStartDashTitle" : "วิธีเข้าเล่นเกม",

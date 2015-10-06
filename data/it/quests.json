@@ -503,7 +503,7 @@
     "226": {
         "code": "Bd7",
         "name": "Sortita Giornaliera 7",
-        "desc": "Sconfiggi 5 boss nei nodi con corna del Mondo 2",
+        "desc": "Sconfiggi 5 boss nei nodi con l'icona con corna del Mondo 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
@@ -521,7 +521,7 @@
     "214": {
         "code": "Bw1",
         "name": "Sortita Settimanale 1",
-        "desc": "Schiera 36 volte la tua flotta, Incontra 24 boss, Vinci contro 12 bosses di cui 6 grado S",
+        "desc": "Schiera 36 volte la tua flotta, Incontra 24 boss, Vinci contro 12 boss di cui 6 grado S",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
     },
@@ -555,14 +555,14 @@
     "229": {
         "code": "Bw6",
         "name": "Sortita Settimanale 6",
-        "desc": "Sconfiggi 12 boss nei nodi con corna nel mondo 4",
+        "desc": "Sconfiggi 12 boss nei nodi con l'icona con corna nel mondo 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
         "name": "Sortita Settimanale 7",
-        "desc": "Sconfiggi 5 boss nei mondi 3-3, 3-4 o W3-5",
+        "desc": "Sconfiggi 5 boss nei mondi 3-3, 3-4 o 3-5",
         "tracking": [ [0,5] ]
     },
     "242": {
@@ -592,7 +592,7 @@
     "249": {
         "code": "Bm1",
         "name": "Disloca il Quinto Squadrone",
-        "desc": "Disloca Myoukou, Nachi, Haguro, +3 navi nel mondo W2-5. Ottieni il grado S contro il Boss",
+        "desc": "Disloca Myoukou, Nachi, Haguro, +3 navi nel mondo 2-5. Ottieni il grado S contro il Boss",
         "unlock": [ 265 ]
     },
     "256": {

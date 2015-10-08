@@ -1,0 +1,28 @@
+{
+	"detection" : [
+		["", ""],
+		["OK", "good"],
+		["OK-", "good"],
+		["-", "bad"],
+		["NO", "bad"],
+		["OK+", "good"],
+		["NO+", "bad"]
+	],
+	
+	"airbattle" : [
+		["เสมอ", "", "Air Parity"],
+		["ชนะขาด", "good", "Air Supremacy"],
+		["ชนะ", "good", "Air Superiority"],
+		["แพ้", "bad", "Air Incapability"],
+		["แพ้ขาด", "bad", "Air Denial"]
+	],
+	
+	"engagement" : [
+		["", "", ""],
+		["Prll", "", "ขนาน"],
+		["HdOn", "", "สวนทาง"],
+		["Gr-T", "good", "T เขียว"],
+		["Rd-T", "bad", "T แดง"]
+	]
+	
+}

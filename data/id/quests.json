@@ -227,7 +227,18 @@
         "name": "Skuadron Torpedo Pertama, Siapkan penyerbuan lain ke Lautan utara",
         "desc": "Miliki Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze di Armada Utama"
     },
-	
+    "161": {
+        "name": "Kelola kembali kapal induk (CV) Divisi ke-5!",
+        "desc": "Miliki Shoukaku, Zuikaku, Oboro dan Akigumo di Armada Utama"
+    },
+    "162": {
+        "name": "Persiapan Skuadron ke21 yg baru untuk sorti",
+        "desc": "Miliki Nachi(Kai-2), Ashigara(Kai-2), Tama dan Kiso di Armada Utama"
+    },
+    "163": {
+        "name": "Kelola Skuadron Penjelajah Divisi ke-16 (Generasi Pertama)",
+        "desc": "Miliki Ashigara sebagai kapal pemimpin, Kuma dan Nagara di Armada Utama"
+    },
 	
 	
 	
@@ -317,7 +328,7 @@
     },
     "244": {
         "name": "Sorti Kapal Perusak  Divisi ke-30 (Gen-1)",
-        "desc": "Sorti yang terdiri dari Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) dan 2 Kapal DD apapun ke world 3-2 dan Lawan Bossnya. Dibutuhkan C-Rank keatas."
+        "desc": "Sorti yang terdiri dari Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) dan 2 Kapal DD atau (1DD dan 1 CL sebagai kapal pemimpin)ke world 3-2 dan Lawan Bossnya. Dibutuhkan C-Rank keatas."
     },
     "245": {
         "name": "Persiapan Cinta! (Akhir)",
@@ -440,8 +451,18 @@
         "name": "Perkuat Patroli anti kapal selam di depan pangkalan angkatan laut!",
         "desc": "Sortie ke 1-5 dan dapatkan 4 A-ranks (Atau lebih) Pada Boss Node"
     },
-	
-	
+    "287": {
+        "name": "Sorti Kapal Induk Divisi ke-5 ke Laut Selatan Pulau Coral",
+        "desc": "Sorti Shoukaku, Zuikaku, Oboro, Akigumo dan 2 Kapal lainnya ke W5-2 dan S-Rank di Boss Node"
+    },
+    "288": {
+        "name": "Sorti Skuadron divisi ke-21 yg Baru ke Utara",
+        "desc": "Sorti Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso dan 2 Kapal Lainnya ke W3-1 dan S-Rank di Boss Node"
+    },
+    "289": {
+        "name": "Sorti Skuadron Divisi ke-16 (Generasi Pertama)",
+        "desc": "Sorti Ashigara Sebagai Kapal Pemimpin, Kuma, Nagara dan 3 Kapal lainnya ke W2-2 dan S-Rank di boss node"
+     },
 	
 	
 	"201": {
@@ -591,8 +612,8 @@
     },
 	"259": {
 		"code": "Bm4",
-        "name": "Sorti Skuadron Kapal Tempur",
-        "desc": "Sorti 3 BB(V) + 1 CL + 2 Kapal lain ke [W5-1] . Dapatkan S-Rank pada Bos Node"
+        "name": "Sorti Skuadron Kapal Tempur Pelan",
+        "desc": "Sorti 3 BB(V) (FBB tidak di hitung) + 1 CL + 2 Kapal lain ke [W5-1] . Dapatkan S-Rank pada Bos Node"
     },
 	"265": {
 		"code": "Bm5",
@@ -725,7 +746,7 @@
 		"code": "D11",
         "name": "Ekspedisi Mingguan 3",
         "desc": "(Mingguan) Selesaikan Ekspedisi 37 atau 38 sebanyak 7 kali",
-		"tracking": [ [0,7] ]
+		"tracking": [ [0,6] ]
     },
     "413": {
 		"code": "D12",
@@ -761,6 +782,11 @@
 		"code": "D18",
         "name": "Upacara Angkatan laut",
         "desc": "Selesaikan Ekspedisi 8"
+    },
+     "420": {
+        "code": "D19",
+        "name": "Tingkatkan Penggunaan Gugus Tugas(Task Force)",
+        "desc": "Selesaikan Expedisi 35 dan 26"
     },
 	
 	
@@ -896,8 +922,22 @@
         "desc": "Lakukan Modernisasi Persenjataan sekali",
 		"tracking": [ [0,1] ]
     },
-	
-	
+    "622": {
+   		"code": "F19",
+        "name": "Konversi model: Type 97 Torpedo Bomber (Murata Squadron ke Tenzan)",
+        "desc": "Jadikan Shoukaku yg dilengkapi dengan Type 97 Torpedo Bomber (Murata Squadron) sebagai kapal pemimpin kemudian hancurkan 2 Tenzan (Heavenly Mountain)"
+    },
+    "623": {
+        "code": "F20",
+        "name": "Kelola Type 97 Torpedo Bomber Force elit",
+        "desc": "Jadikan Shoukaku atau Akagi sebagai kapal pemimpin kemudian hancurkan 3 Type 97 Torpedo Bomber"
+    },
+    "624": {
+        "code": "F21",
+        "name": "Persiapan Persenjataan Prototipe",
+        "desc": "Hancurkan Persenjataan 7 Kali"
+    },
+
     
 	
 	

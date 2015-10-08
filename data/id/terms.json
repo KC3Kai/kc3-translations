@@ -28,7 +28,7 @@
 	"ImprovementMaterial": "Sekrup",
 	"Experience": "Experience",
 	"Name": "Nama",
-
+	
 	"MenuPlayAPIName" : "Bermain Melalui API Link",
 	"MenuPlayAPIDesc" : "Bermain menggunakan API link yang disimpan atau masukan secara manual",
 	"MenuRefreshAPIName" : "Refresh API Link",
@@ -41,8 +41,44 @@
 	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada anda",
 	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya",
 	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya",
-	"MenuChecking" : "Memeriksa pembaruan KC3改 berikutnya...",
-	"MenuOnLatest" : "Anda menggunakan versi terbaru!",
+	
+	"MenuVersion" : "Versi terpasang",
+	"MenuChangelog" : "(Daftar Perubahan)",
+	"MenuUpdate" : "Pembaruan KC3改",
+	"MenuOnLatest" : "Terbaru!",
+	"MenuScheduledNow" : "Dijadwalkan sekarang",
+	"MenuPvPReset" : "Waktu reset PvP",
+	"MenuQuestReset" : "Waktu reset Quest",
+	
+	"GameDMMRedirect" : "Anda akan dialihkan untuk bermain langsung pada website DMM",
+	
+	"GameAPIRemoveTitle" : "Hapus API link",
+	"GameAPIRemoveDesc" : "Jika anda ingin menghapus API Link yang telah tersimpan:",
+	"GameAPIRemoveBtn" : "Hapus API Link",
+	
+	"GameAPINoExist" : "Anda tidak memiliki API Link tersimpan",
+	"GameAPIGetTitle" : "Untuk mendapatkan API link baru",
+	"GameAPIGetDesc" : "Gunakan <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> di kanan atas browser anda.",
+	"GameAPIExistTitle" : "Untuk menggunakan API link yang sudah ada",
+	"GameAPIExistDesc" : "Jika sudah memiliki API Link, anda dapat memasukannya disini:",
+	"GameAPIExistBtn" : "Pakai API Link",
+	"GameAPIWhatTitle" : "Apa itu API Link?",
+	"GameAPIWhatDesc" : "API Link adalah direct URL game, yang telah dihubungkan/diasosiasikan ke akun anda. Selama anda menyimpan link tersebut, anda akan login secara otomatis tanpa login melalui website DMM, sehingga anda tidak perlu menggunakan VPN setiap kali anda akan bermain.",
+	"GameAPIRemindTitle" : "Pengingat untuk pemain baru",
+	"GameAPIRemindDesc" : "Harap tidak menggunakan KC3改 jika anda belum lolos tahap <i>lottery</i>. KC3改 menganggap akun anda sedang login saat mengekstrak API Link yang dapat dimainkan. Setelah anda bergabung pada salah satu server, anda masih harus memasukkan nama admiral sebelum dapat menggunakan API Link.",
+	"GameAPIAltTitle" : "Alternatif",
+	"GameAPIAltDesc" : "Jika anda ingin bermain langsung pada portal DMM, anda dapat menggunakan <img src=\"../popup/img/dmm.png\" /> <strong>Bermain Melalui DMM.com</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> yang juga mendukung fasilitas panel <kbd class=\"light\">F12</kbd> dengan mekanisme yang sama dengan API Link.",
+	
+	
+	"GameStartDashTitle" : "Untuk memulai game dengan Admiral Dashboard",
+	"GameStartDashDesc" : "Untuk memulai game dan menerima informasi penting HQ dan status armada, silahkan buka Admiral Dashboard. Ini akan memberikan anda informasi seperti Peringkat HQ, Tempat Kapal, LoS Equipment, Kekuatan Air Fighter, Kecepatan Armada, Moral, dll. Anda dapat mengaktifkannya dengan:",
+	"GameStartDashWin" : "Untuk Windows / Linux",
+	"GameStartDashOr" : "atau",
+	"GameStartDashMac" : "Untuk Mac",
+	"GameStartDashChrome" : "Saat panel Chrome terbuka, akan ada tab \"<strong>KanColle</strong>\"",
+	"GameStartNowTitle" : "Aku ingin bermain sekarang",
+	"GameStartNowDesc" : "Jika anda tidak ingin menggunakan fitur-fitur diatas...",
+	"GameStartNowBtn" : "Mulai game sekarang",
 
 	"AboutTitle" : "Tentang Pengembang KC3改",
 	"Version" : "Versi",
@@ -66,7 +102,12 @@
 	"AboutLogo" : "Perancang Logo",
 	"AboutFairy" : "Perancang Fairy",
 	"AboutReporters" : "Pelapor Bug",
-	"AboutReporter" : "Pelapor Bug",	
+	"AboutReporter" : "Pelapor Bug",
+
+	"AboutOtherSources" : "Sumber Lainnya",
+	"AboutLicense" : "Lisensi",
+	"AboutLicenseDisclaimer" : "Text berikut menunjukkan salinan terbaru LISENSI file dari versi yang terpasang. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Lihat LISENSI file melalui repository dari konten ofisial terbaru.</a>",
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Untuk Terjemahan Quest <strong>Simplified Chinese</strong>",
 
 	"SettingsTitle" : "Pengaturan KC3改",
 
@@ -80,9 +121,12 @@
 	"SettingsHQExpLeft"    : "EXP Tersisa",
 	"SettingsHQExpCurrent" : "Level Saat Ini",
 	"SettingsHQExpTotal"   : "Total EXP",
+	"SettingsTimerDisplayType" : "Tipe Tampilan Waktu",
+	"SettingsTimeRemaining" : "Tersisa",
+	"SettingsTimeFinished" : "Selesai",
 
 	"SettingsGameInfo" : "Informasi Game",
-	"SettingsDropFaces" : "Wajah Drop Sorti",
+	"SettingsDropFaces" : "Wajah Kapal Yang Didapat",
 	"SettingsConstructionFaces" : "Wajah Konstruksi",
 	"SettingsCraftBox" : "Hasil Crafting",
 	"SettingsCompass" : "Kompas dan Musuh",
@@ -90,7 +134,8 @@
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
 	"SettingsYasenTroll" : "Komentar Hiburan KC3改",
-	"SettingsHQDelta" : "HQ EXP Delta saat Sorti",
+	"SettingsHQDelta" : "Selisih HQ EXP saat Sorti",
+	"SettingsFleetStatus" : "Indikator Status Armada",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Hasil Screenshot",
@@ -98,11 +143,14 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "Tab Baru",
 	"SettingsSSFileType" : "Format File",
+	"SettingsSSDirectory" : "Direktori Screenshot",
 
 	"SettingsAlerts" : "Peringatan",
 	"SettingsTimeDiff" : "Penyisihan Waktu",
 	"SettingsMoraleNotif" : "Notifikasi Moral",
 	"SettingsMoraleValue" : "Moral Minimum",
+	"SettingsSupplyRate" : "Supplai Minimum",
+	"SettingsSupplyBarLabel" : "batang",
 	"SettingsSeconds" : "detik",
 	"SettingsSoundType" : "Tipe Suara",
 	"SettingsDing" : "DING!",
@@ -129,10 +177,16 @@
 	"SettingsDMMGameplay" : "Gameplay DMM",
 	"SettingsDMMCustomize" : "Terapkan Pengaturan",
 	"SettingsDMMForceCookies" : "Paksa Gunakan Cookies",
+	
+	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsEnableDBSubmission" : "Gunakan Fitur ini",
+	"SettingsDBSubmissionKey" : "Access key",
 
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsGearHolder" : "Warna Latar Belakang Equip",
+	
+	"SettingsLegacyPanel" : "Panel: Tema Legacy",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Anda yakin ingin menggunakan fitur ini?\nSemua resiko yang anda alami bukan tanggung jawab KC3改.\n\nPastikan anda tahu apa yang anda lakukan terlebih dahulu.",
 	"SettingsErrorNG" : "Disimpan!",
@@ -153,7 +207,7 @@
 	"None" : "Tidak ada",
 	"LearnMore" : "Pelajari Lebih lanjut",
 	"Saved" : "Disimpan!",
-
+	
 	"UnwantedExit" : "Yakin mau keluar? Nanti waifumu ngambek loh..",
 	"APIWaitToggle" : "Harap buka panel KC3Kai terlebih dahulu",
 	"APIConcealExpl" : "Arahkan kursor untuk melihat API Link",
@@ -179,9 +233,7 @@
 	"EventHistoryRank1"  : "MUDAH",
 	"EventHistoryRank2"  : "SEDANG",
 	"EventHistoryRank3"  : "SULIT",
-	"EventHistoryRank1X" : "BOCAH",
-	"EventHistoryRank2X" : "NERAKA",
-	"EventHistoryRank3X" : "MPOS LW",
+	"StrategyEventGo"    : "Seluruh",
 	
 	"PanelDocking" : "Perbaikan",
 	"PanelAkashi" : "Akashi",
@@ -191,9 +243,13 @@
 	"PanelHighestAkashi" : "Waktu Perbaikan Akashi",
 	
 	"PanelHasTaiha" : "Kritis",
+	"PanelFSTaiha" : "Pemimpin",
+	"PanelEscortChuuha" : "Pengawal Pemimpin",
 	"PanelNoTaiha" : "HP baik",
 	"PanelSupplied" : "Suplai baik",
-	"PanelNotSupplied" : "Perlu isi suplai",
+	"PanelNotSupplied" : "Suplai <100%",
+	"PanelUnderSupplied" : "Suplai kurang",
+	"PanelEmptySupply" : "Suplai kosong",
 	"PanelGreatMorale" : "Moral mantap",
 	"PanelGoodMorale" : "Moral baik",
 	"PanelSupportPower" : "Damage support expedition",
@@ -201,7 +257,7 @@
 	"PanelPlanesBomber" : "Pesawat pada tahap pengeboman",
 	
 	"MissionLabelActivity" : "Hasil",
-	"MissionLabelAdmiral" : "HQ EXP",
+	"MissionGetItems" : "Item didapatkan:",
 	"MissionActivity0" : "Batal",
 	"MissionActivity1" : "Gagal",
 	"MissionActivity2" : "Berhasil",
@@ -215,6 +271,7 @@
 	"LevelShort" : "Lv.",
 	"LevelNext" : "Tersisa",
 	"Screenshot" : "Screenshot",
+	"Expedition" : "Ekspedisi",
 	"UntranslatedQuest" : "Quest Belum Diterjemahkan",
 
 	"StrategyEvents1HP" : "Terakhir!",

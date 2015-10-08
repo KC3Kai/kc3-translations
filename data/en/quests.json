@@ -227,6 +227,18 @@
         "name": "1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea",
         "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet"
     },
+    "161": {
+        "name": "Reorganize the 5th Carrier Division!",
+        "desc": "Have Shoukaku, Zuikaku, Oboro and Akigumo in your main fleet"
+    },
+    "162": {
+        "name": "Prepare the New 21st Squadron for Sortie",
+        "desc": "Have Nachi(Kai-2), Ashigara(Kai-2), Tama and Kiso in your main fleet"
+    },
+    "163": {
+        "name": "Organize the 16th Squadron (First Generation)",
+        "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet"
+    },
     
     
     
@@ -316,7 +328,7 @@
     },
     "244": {
         "name": "Deploy the Destroyer Division 30 (Gen-1)",
-        "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs to world 3-2 and encounter the boss. C rank or above is required."
+        "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs or 1 DD with 1 CL as flagship to world 3-2 and encounter the boss. C rank or above is required."
     },
     "245": {
         "name": "In Preparation of Love! (Final)",
@@ -434,7 +446,18 @@
         "name": "Strengthen the Anti-Submarine Patrol in Front of the Naval Base!",
         "desc": "Sortie to 1-5 and obtain 4 A-ranks (or better) at the boss"
     },
-    
+    "287": {
+        "name": "Sortie the 5th Carrier Division to the Southern Sea Coral Islands",
+        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss"
+    },
+    "288": {
+        "name": "Sortie the New 21st Squadron to the North",
+        "desc": "Sortie Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso and up to 2 additional ships to W3-1 and S-Rank the boss"
+    },
+    "289": {
+        "name": "Sortie the 16th Squadron (First Generation)",
+        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
+    },
     
     "201": {
         "code": "Bd1",
@@ -584,7 +607,7 @@
     "259": {
         "code": "Bm4",
         "name": "Deploy a Battleship Squadron",
-        "desc": "Deploy 3 BB(V) + 1 CL + 2 ships to [W5-1] and S-rank the boss node"
+        "desc": "Deploy 3 BB(V) (Not FBB) + 1 CL + 2 ships to [W5-1] and S-rank the boss node"
     },
     "265": {
         "code": "Bm5",
@@ -644,10 +667,10 @@
     },
     "309": {
         "code": "C7",
-        "name": "Strive to Increase the Level of Training in Preparation for Another Rush to the Northern Sea",
-        "desc": "Get 4 victories in Exercises within the same day"
+        "name": "Extra Training in Preparation for Another Rush to the Northern Sea",
+        "desc": "Get 4 victories in practice mode within the same day"
     },
-     "311": {
+    "311": {
         "code": "C8",
         "name": "Elite Fleet Practice",
         "desc": "Get 7 victories in Exercises within the same day",
@@ -716,7 +739,7 @@
         "code": "D11",
         "name": "Weekly Expedition 3",
         "desc": "(Weekly) Complete expedition 37 or 38 a total of 7 times",
-        "tracking": [ [0,7] ]
+        "tracking": [ [0,6] ]
     },
     "413": {
         "code": "D12",
@@ -753,7 +776,11 @@
         "name": "Naval Ceremony",
         "desc": "Complete expedition 8"
     },
-    
+    "420": {
+        "code": "D19",
+        "name": "Enhance the Use of the Task Force",
+        "desc": "Complete Expeditions 35 and 26"
+    },
     
     
     
@@ -887,8 +914,21 @@
         "desc": "Perform equipment modernisation once",
         "tracking": [ [0,1] ]
     },
-    
-    
+    "622": {
+        "code": "F19",
+        "name": "Model Conversion (Murata Squadron to Tenzan)",
+        "desc": "Have Shoukaku equipped with Type 97 Torpedo Bomber (Murata Squadron) as flagship and then scrap 2 Tenzan (Heavenly Mountain)"
+    },
+    "623": {
+        "code": "F20",
+        "name": "Organize the Elite Type 97 Torpedo Bomber Force",
+        "desc": "Have Shoukaku or Akagi as flagship and then scrap 3 Type 97 Torpedo Bomber"
+    },
+    "624": {
+        "code": "F21",
+        "name": "Preparation of the Prototype Equipment",
+        "desc": "Scrap equipment 7 times"
+    },
     
     
     

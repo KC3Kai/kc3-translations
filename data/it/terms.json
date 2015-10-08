@@ -34,16 +34,52 @@
     "MenuRefreshAPIName" : "Aggiorna l'API Link",
     "MenuRefreshAPIDesc" : "Apre la pagine DMM dove estrarremo automaticamente il tuo nuovo API Link",
     "MenuPlayDMMName" : "Gioca sul sito DMM",
-    "MenuPlayDMMDesc" : "Portale di gioco DMM, per i nostri amici più cauti.Totalmente sicuro.",
+    "MenuPlayDMMDesc" : "Portale DMM, per i nostri amici più cauti.Assolutamente sicuro.",
     "MenuCookiesName" : "Attiva i Cookie",
     "MenuCookiesDesc" : "Usalo ogni volta incontri la schermata \"Error Area\" sul sito DMM.com",
     "MenuStrategyName" : "Centro di Comando",
     "MenuStrategyDesc" : "Vari strumenti per aiutarti nell'analisi e nella gestione strategica delle tue flotte",
     "MenuSettingsDesc" : "Configura l'estensione (modifiche applicate al prossimo riavvio del gioco)",
     "MenuAboutDesc" : "Informazioni su KC3改 e sul suo team di sviluppatori, autori e tester",
-    "MenuChecking" : "Verificando il prossimo aggiornamento per KC3改...",
-    "MenuOnLatest" : "Stai usando la versione più recente!",
 
+    "MenuVersion" : "Versione installata",
+    "MenuChangelog" : "(Changelog)",
+    "MenuUpdate" : "KC3改 Update",
+    "MenuOnLatest" : "Usi la più recente",
+    "MenuScheduledNow" : "Previsto ora",
+    "MenuPvPReset" : "Prossimo Reset PvP",
+    "MenuQuestReset" : "Prossimo Reset Quest",
+    
+    "GameDMMRedirect" : "Sarai reindirizzato sulla pagina di gioco del sito DMM",
+	
+    "GameAPIRemoveTitle" : "Rimuovi l'API link",
+    "GameAPIRemoveDesc" : "Nel caso tu voglia rimuovere l'API link salvato in questa versione:",
+    "GameAPIRemoveBtn" : "Dimentica l'API link",
+	
+    "GameAPINoExist" : "Non hai registrato alcun API link",
+    "GameAPIGetTitle" : "Per ottenere un nuovo API link",
+    "GameAPIGetDesc" : "Usa il <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> in alto a destra del tuo browser.",
+    "GameAPIExistTitle" : "Per usare API links già esistenti",
+    "GameAPIExistDesc" : "Se hai già disponibile un API link, lo puoi inserire qui:",
+    "GameAPIExistBtn" : "Usa l'API link",
+    "GameAPIWhatTitle" : "Cos'è un API link?",
+    "GameAPIWhatDesc" : "Sono delle URL dirette al tuo gioco, <em>riconosciute come legate al</em> o <em>associate al</em> tuo account. Finché hai questo link, puoi \"loggare\" automaticamente e bypassare il log-in sul sito DMM, eliminando il bisogno di utilizzare un VPN ogni volta che ti colleghi al gioco.",
+    "GameAPIRemindTitle" : "Rimando per i nuovi giocatori",
+    "GameAPIRemindDesc" : "Non usare KC3改 se non hai ancora passato la lotteria. Questa versione presuppone che l'account con cui si fa il log-in, mentre estrae l'API link, sia già abilitato a giocare. Una volta unito ad un server, dovrai anche inserire il tuo nome da Ammiraglio se sei senza API link.",
+    "GameAPIAltTitle" : "Alternative",
+    "GameAPIAltDesc" : "Se preferisci non usare API link e vuoi giocare a KanColle direttamente sul portale DMM, il <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> supporta il <kbd class=\"light\">F12</kbd> pannello con le stesse meccaniche di avvio.",
+	
+	
+    "GameStartDashTitle" : "Per startare con il Pannello dell'Ammiraglio",
+    "GameStartDashDesc" : "Per startare il tuo gioco e ottenere info importanti sul tuo HQ e le tue flotte, puoi aprire la Admiral Dashboard. Ti mostrerà informazioni come il Livello del HQ, gli Slot Navi, LoS degli equipaggiamenti, Potenza Aerea, Velocità della Flotta, Morale, ecc. Lo puoi attivare attraverso:",
+    "GameStartDashWin" : "Per Windows / Linux",
+    "GameStartDashOr" : "o",
+    "GameStartDashMac" : "Se usi Mac",
+    "GameStartDashChrome" : "Quando si apre il pannello di Chrome, ci sarà un tab \"<strong>KanColle</strong>\"",
+    "GameStartNowTitle" : "Lasciami giocare ora",
+    "GameStartNowDesc" : "Se non ti interessano queste feature e vuoi startare subito il gioco...",
+    "GameStartNowBtn" : "Starta comunque il gioco",	
+	
     "AboutTitle" : "Informazioni su KC3改",
     "Version" : "Versione",
     "AboutHome" : "Pagina Principale",
@@ -67,7 +103,13 @@
     "AboutFairy" : "Fairy Designer",
     "AboutReporters" : "Git Reporter Frequenti",
     "AboutReporter" : "Git Reporter",
-
+	
+    "AboutOtherSources" : "Altre Fonti",
+    "AboutLicense" : "Licenza",
+    "AboutLicenseDisclaimer" : "Il testo sottostante rappresenta l'ultima copia del file LICENSE di questa versione installata. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Leggi il file LICENSE nella repository per conoscere gli ultimi contenuti ufficiali.</a>",
+    
+    "AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> per le traduzioni delle quest in <strong>Cinese Semplificato</strong>",
+	
     "SettingsTitle" : "KC3改 Impostazioni",
 
     "SettingsGlobal" : "Globale",
@@ -80,6 +122,9 @@
     "SettingsHQExpLeft"    : "Exp Rimanente",
     "SettingsHQExpCurrent" : "Livello Attuale",
     "SettingsHQExpTotal"   : "Guadagno Totale",
+    "SettingsTimerDisplayType" : "Modello Display del Timer",
+    "SettingsTimeRemaining" : "Rimanente",
+    "SettingsTimeFinished" : "Finito",
 
     "SettingsGameInfo" : "Informazioni Gioco",
     "SettingsDropFaces" : "Icone Drop Sortite",
@@ -90,7 +135,8 @@
     "SettingsBattleStamp" : "Etichette Condizione Navi",
     "SettingsBossComp" : "Composizione Boss",
     "SettingsYasenTroll" : "KC3改 Commenti Troll",
-    "SettingsHQDelta" : "Delta Exp HQ nelle sortite",
+    "SettingsHQDelta" : "Differenza Exp HQ nelle sortite",
+    "SettingsFleetStatus" : "Sommario Stato della Flotta",
 
     "SettingsScreenshot" : "Screenshot",
     "SettingsSSOutput" : "Tipo di Output",
@@ -101,6 +147,10 @@
 
     "SettingsAlerts" : "Avvisi",
     "SettingsTimeDiff" : "Margine Timer",
+    "SettingsMoraleNotif" : "Notifica Morale",
+    "SettingsMoraleValue" : "Morale Minimo",
+    "SettingsSupplyRate" : "Rifornimento al Minimo",
+    "SettingsSupplyBarLabel" : "barre",
     "SettingsSeconds" : "secondi",
     "SettingsSoundType" : "Tipo di Suono",
     "SettingsDing" : "DING!",
@@ -111,7 +161,8 @@
     "SettingsAPIGameScreen" : "Schermata di Gioco API",
     "SettingsQuestOverlay" : "Traduzione Missioni",
     "SettingsQuestTracking" : "Monitoraggio Missioni",
-    "SettingsPanelRequirement" : "Richiesto Pannello per giocare",
+    "SettingsPanelRequirement" : "Pannello Obbligatorio",
+    "SettingsDirectRefresh" : "Tasto Refresh (Attenzione)",
     "SettingsConfirmExit" : "Conferma Uscita",
     "SettingsScreenMargin" : "Margine Superiore",
     "SettingsBGColor" : "Colore di Sfondo",
@@ -126,11 +177,26 @@
     "SettingsDMMGameplay" : "Gameplay DMM",
     "SettingsDMMCustomize" : "Applica Personalizzazioni",
     "SettingsDMMForceCookies" : "Forza l'hack dei Cookie",
+	
+    "SettingsDBSubmission" :"Invia dati a Kancolle DB (http://kancolle-db.net/login.php)", 
+    "SettingsEnableDBSubmission" : "Abilita questa opzione",
+    "SettingsDBSubmissionKey" : "Chiave di accesso",
 
     "SettingsPanelSize" : "Dimensione Pannello",
     "SettingsPanelOpacity" : "Opacità Interfaccia",
-    "SettingsGearHolder" : "Colore sfondo atterezzi",
+    "SettingsGearHolder" : "Colore sfondo attrezzi",
+	
+    "SettingsLegacyPanel" : "Pannello: Legacy Theme",
 
+    "SettingsChuuiWarningDangerousFeature" : "Sei sicuro di voler applicare i cambiamenti?\nQualsiasi rischio tu stia correndo d'ora in poi non è responsabilità di KC3改.\n\nSii sicuro di sapere cosa stai facendo.",
+    "SettingsErrorNG" : "Salvato!",
+    "SettingsErrorSuper" : "Valore non valido!",
+    "SettingsErrorAbove" : "eccede",
+    "SettingsErrorBelow" : "insufficiente",
+    "SettingsErrorLength" : "Lunghezza Valore",
+    "SettingsErrorValue" : "Valore",
+    "SettingsErrorOrder" : "%TYP %CMP %VAL",
+	
     "Small" : "Piccolo",
     "Big" : "Grande",
     "Black" : "Nero",
@@ -154,27 +220,62 @@
     "HQExpAbbrev2" : "Attuale",
     "HQExpAbbrev3" : "Totale",
 
-    "BattleDetection" : "Rilevamento",
+    "BattleDetection" : "Rileva...",
     "BattleEngangement" : "Ingaggio",
     "BattleContact" : "Contatto",
-    "BattleAirBattle" : "Battaglia Aerea",
+    "BattleAirBattle" : "Bat. Aer.",
     "BattleFriendly" : "Alleati",
     "BattleEnemy" : "Nemici",
 
     "PredictionStampSortie" : "Affondata",
     "PredictionStampPvP" : "Fuori Combattimento",
-    "PredictionStampEscort" : "Scorta",
-    "PredictionStampMVPUseful" : "MVP",
-    "PredictionStampMVPUseless" : "Maxata",
+
+    "EventHistoryRank1"  : "FACILE",
+    "EventHistoryRank2"  : "NORMALE",
+    "EventHistoryRank3"  : "DIFFICILE",
+    "StrategyEventGo"    : "Run Evento",
+	
+    "PanelDocking" : "Ormeggio",
+    "PanelAkashi" : "Akashi",
+    "PanelNoRepair" : "Riparazione non necessaria",
+    "PanelCantRepair" : "Riparazione non possibile",
+    "PanelHighestDocking" : "Riparazione in Bacino Tempo Massimo",
+    "PanelHighestAkashi" : "Riparazione con Akashi Tempo Massimo",
+	
+    "PanelHasTaiha" : "Critica",
+    "PanelFSTaiha" : "Ammiraglia",
+    "PanelEscortChuuha" : "Ammiraglia Scorta",
+    "PanelNoTaiha" : "HP buoni",
+    "PanelSupplied" : "Rifornimenti buoni",
+    "PanelNotSupplied" : "Rifornimenti <100%",
+    "PanelUnderSupplied" : "Bisogno di Rifornimenti",
+    "PanelEmptySupply" : "Rifornimenti Finiti",
+    "PanelGreatMorale" : "Morale Ottimo",
+    "PanelGoodMorale" : "Morale Buono",
+    "PanelSupportPower" : "Potenza di Fuoco della Spedizione di Supporto",
+    "PanelPlanesFighter" : "Aerei partecipanti alla fase aerea",
+    "PanelPlanesBomber" : "Aerei partecipanti alla fase di bombardamento",
+	
+    "MissionLabelActivity" : "Status",
+    "MissionGetItems" : "Oggetti Ottenuti:",
+    "MissionActivity0" : "Cancellata",
+    "MissionActivity1" : "Fallita",
+    "MissionActivity2" : "Successo",
+    "MissionActivity3" : "Gran Successo",
+	
+    "CombinedCarrier" : "TF Portaerei (CTF)",
+    "CombinedSurface" : "TF di Superficie (STF)",
+    "CombinedNone" : "Non combinata",
 
     "LevelText" : "Livello",
     "LevelShort" : "Lv.",
     "LevelNext" : "Prossimo",
     "Screenshot" : "Screenshot",
+    "Expedition" : "Spedizione",
     "UntranslatedQuest" : "Quest non tradotta",
 
     "StrategyEvents1HP" : "Ultima Kill!",
 
     "PanelWaitActions" : "In attesa di azioni di gioco...",
-    "PanelErrorStorage" : "Nelle tue impostazioni localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarla</a>."
+    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>."
 }

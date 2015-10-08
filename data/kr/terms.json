@@ -73,13 +73,16 @@
 	"SettingsGlobal" : "글로벌",
 	"SettingsLanguage" : "언어",
 	"SettingsELosFormula" : "색적치 공식",
-  "SettingsELosSum": "합계",
+        "SettingsELosSum": "합계",
 	"SettingsELosOld" : "구식",
 	"SettingsELosNew" : "신식",
 	"SettingsHQExpDetail"  : "진수부 경험치 정보",
 	"SettingsHQExpLeft"    : "남은 경험치",
 	"SettingsHQExpCurrent" : "현재 레벨",
-	"SettingsHQExpTotal"   : "총 경험치",	
+	"SettingsHQExpTotal"   : "총 경험치",
+	"SettingsTimerDisplayType" : "Timer Display Type",
+	"SettingsTimeRemaining" : "Remaining",
+	"SettingsTimeFinished" : "Finished",	
 
 	"SettingsGameInfo" : "게임 정보",
 	"SettingsDropFaces" : "전투 드랍 예보",
@@ -114,6 +117,7 @@
 	"SettingsQuestOverlay" : "퀘스트 번역",
 	"SettingsQuestTracking" : "퀘스트 추적",
 	"SettingsPanelRequirement" : "플레이하기 위하여 패널이 필요",
+	"SettingsDirectRefresh" : "In-page Refresh (Danger)",
 	"SettingsConfirmExit" : "종료 확인",
 	"SettingsScreenMargin" : "상단 여백",
 	"SettingsBGColor" : "배경색",
@@ -132,7 +136,18 @@
 	"SettingsPanelSize" : "패널 크기",
 	"SettingsPanelOpacity" : "UI 불투명도",
 	"SettingsGearHolder" : "Gear Background Color",
+
+	"SettingsLegacyPanel" : "Panel: Legacy Theme",
 	
+	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
+	"SettingsErrorNG" : "Saved!",
+	"SettingsErrorSuper" : "Invalid value!",
+	"SettingsErrorAbove" : "exceeds",
+	"SettingsErrorBelow" : "under",
+	"SettingsErrorLength" : "Value Length",
+	"SettingsErrorValue" : "Value",
+	"SettingsErrorOrder" : "%TYP %CMP %VAL",
+		
 	"Small" : "소",
 	"Big" : "대",
 	"Black" : "검정색",
@@ -165,16 +180,15 @@
 
 	"PredictionStampSortie" : "굉침",
 	"PredictionStampPvP" : "제압됨",
-	"PredictionStampEscort" : "호위",
-	"PredictionStampMVPUseful" : "MVP",
-	"PredictionStampMVPUseless" : "최고 경험치",
-
+	
 	"EventHistoryRank1"  : "갑",
 	"EventHistoryRank2"  : "을",
 	"EventHistoryRank3"  : "병",
 	"EventHistoryRank1X" : "쫄보의 선택",
 	"EventHistoryRank2X" : "지옥",
 	"EventHistoryRank3X" : "ㅈ될준비하십셔",
+	"StrategyEventGo"    : "Event Run",
+	"StrategyEventGoP"   : "#Despair",
 
 	"PanelDocking" : "입거중",
 	"PanelAkashi" : "아카시",
@@ -193,7 +207,7 @@
 	"PanelPlanesFighter" : "항공전에 참여하는 함재기",
 	"PanelPlanesBomber" : "포격전에 참여하는 함재기",
 
-	"CombinedCarrier" : "항모기동연합함대",
+	"CombinedCarrier" : "기동부대",
 	"CombinedSurface" : "수뢰전대연합함대",
 	"CombinedNone" : "연합되지 않음",
 

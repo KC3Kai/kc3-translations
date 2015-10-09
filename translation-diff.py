@@ -4,6 +4,7 @@ import sys
 import glob
 import os
 import json
+import io
 
 def onDiffFromList(a,b):
     return "No difference" if a == b else "Missing {} items".format(a-b)
@@ -29,7 +30,7 @@ if __name__ == '__main__':
             fileB = os.path.join(dirB,fileName)
             if os.path.isfile( fileB ):
                 def loadFile(fn):
-                    with open(fn,"r") as f:
+                    with io.open(fn,encoding='utf_8_sig') as f:
                         return json.load(f)
                 print("Comparing {} and {}".format(fileA,fileB))
                 jsonA, jsonB = loadFile(fileA), loadFile(fileB)

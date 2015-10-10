@@ -35,11 +35,11 @@
     "MenuRefreshAPIDesc" : "打开DMM网页并自动获取新的API链接",
     "MenuPlayDMMName" : "开始游戏（DMM网页模式）",
     "MenuPlayDMMDesc" : "使用DMM网页进行游戏，绝对安全",
-	
-	"MenuPlayDMMFName" : "开始游戏（网页框架模式）",
-	"MenuPlayDMMFDesc" : "使用DMM网页进行游戏，本插件会对网页进行改造以实现自定义功能",
-	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
-	"MenuPlayOSAPIDesc" : "可比API链接存在更久的二级链接。暂不支持自定义功能",
+    
+    "MenuPlayDMMFName" : "开始游戏（网页框架模式）",
+    "MenuPlayDMMFDesc" : "使用DMM网页进行游戏，本插件会对网页进行改造以实现自定义功能",
+    "MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
+    "MenuPlayOSAPIDesc" : "可比API链接存在更久的二级链接。暂不支持自定义功能",
 
     "MenuCookiesName" : "激活Cookies",
     "MenuCookiesDesc" : "当浏览DMM网站遇到“Error Area”错误时，可使用该选项",
@@ -57,7 +57,7 @@
     "MenuQuestReset" : "距任务刷新还剩",
 
     "GameDMMRedirect" : "即将前往DMM网站直接进行游戏",
-	"GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
+    "GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
 
     "GameAPIRemoveTitle" : "删除API链接",
     "GameAPIRemoveDesc" : "若想让KC3改删除你的API链接:",
@@ -216,8 +216,8 @@
     "Saved" : "已保存!",
 
     "UnwantedExit" : "提督君，确定要离我而去？",
-	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
-	"APIWaitToggle" : "请先打开“KC3改”面板",
+    "UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
+    "APIWaitToggle" : "请先打开“KC3改”面板",
     "APIConcealExpl" : "鼠标指向这里可查询API链接地址",
 
     "SpeedFast" : "高速",

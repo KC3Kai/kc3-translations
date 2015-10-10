@@ -35,6 +35,12 @@
     "MenuRefreshAPIDesc" : "Apre la pagine DMM dove estrarremo automaticamente il tuo nuovo API Link",
     "MenuPlayDMMName" : "Gioca sul sito DMM",
     "MenuPlayDMMDesc" : "Portale DMM, per i nostri amici più cauti.Assolutamente sicuro.",
+    
+    "MenuPlayDMMFName" : "Gioca su DMM con il frame",
+    "MenuPlayDMMFDesc" : "La pagina DMM è inserita nel frame di KC3改 per poterla personalizzare",
+    "MenuPlayOSAPIName" : "Gioca con l'OSAPI",
+    "MenuPlayOSAPIDesc" : "Link secondario un po' più longevo dell'API. al momento non personalizzabile.",
+	
     "MenuCookiesName" : "Attiva i Cookie",
     "MenuCookiesDesc" : "Usalo ogni volta incontri la schermata \"Error Area\" sul sito DMM.com",
     "MenuStrategyName" : "Centro di Comando",
@@ -51,6 +57,7 @@
     "MenuQuestReset" : "Prossimo Reset Quest",
     
     "GameDMMRedirect" : "Sarai reindirizzato sulla pagina di gioco del sito DMM",
+    "GameDMMFrame" : "Aprirà la pagina DMM di Kancolle in una cornice (frame)",
 	
     "GameAPIRemoveTitle" : "Rimuovi l'API link",
     "GameAPIRemoveDesc" : "Nel caso tu voglia rimuovere l'API link salvato in questa versione:",
@@ -209,6 +216,7 @@
     "Saved" : "Salvato!",
 
     "UnwantedExit" : "Ahhh! Stai lasciando le tue ragazze! Sicuro di volerlo fare?",
+    "UnwantedExitDMM" : "Stai lasciando la pagina e le tue ragazze! Se stai solo aggiornando la pagina non ti ritroverai con un catbomb, gli API Link sono irrilevanti!",
     "APIWaitToggle" : "Per favore, carica prima il pannello di KC3Kai",
     "APIConcealExpl" : "Evita di mostrare il tuo API Link",
 

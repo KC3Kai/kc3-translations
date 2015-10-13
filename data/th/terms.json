@@ -35,6 +35,12 @@
 	"MenuRefreshAPIDesc" : "เปิดเว็บ DMM แล้วระบบจะดึง API ใหม่อัตโนมัติ",
 	"MenuPlayDMMName" : "เล่นผ่านเว็บ DMM",
 	"MenuPlayDMMDesc" : "เล่นผ่านเว็บ DMM แบบตามปกติ",
+
+	"MenuPlayDMMFName" : "เล่นผ่าน DMM Frame",
+	"MenuPlayDMMFDesc" : "เล่นผ่าน DMM Frame แบบหน้าเว็บโดยตรง",
+	"MenuPlayOSAPIName" : "เล่นผ่าน OSAPI",
+	"MenuPlayOSAPIDesc" : "คล้ายการเล่นผ่าน API, กำลังปรับปรุงการใช้งาน",
+
 	"MenuCookiesName" : "เพิ่มคุกกี้",
 	"MenuCookiesDesc" : "ใช้ตอนที่เจอ Error Area ในหน้าเว็บ DMM",
 	"MenuStrategyName" : "ห้องผู้การ",
@@ -51,6 +57,7 @@
 	"MenuQuestReset" : "เวลาเควสรีเซ็ต",
 	
 	"GameDMMRedirect" : "คุณกำลังจะถูกส่งเข้าไปเล่นโดยตรงผ่านเว็บ DMM",
+	"GameDMMFrame" : "ระบบจะทำการเปิดเว็บ DMM ผ่านทาง iFrame",
 	
 	"GameAPIRemoveTitle" : "ต้องการลบ API เดิม",
 	"GameAPIRemoveDesc" : "ใช้ลบ API ของเดิมที่คุณใช้อยู่ในตอนนี้",
@@ -144,12 +151,14 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "New Tab",
 	"SettingsSSFileType" : "Filetype",
+	"SettingsSSDirectory" : "Download Sub-directory",
 	
 	"SettingsAlerts" : "แจ้งเตือน",
 	"SettingsTimeDiff" : "ตั้งค่าเผื่อเวลา",
 	"SettingsMoraleNotif" : "แจ้งเตือนกำลังใจเรือ",
 	"SettingsMoraleValue" : "ค่ากำลังใจ",
 	"SettingsSupplyRate" : "ค่ายุทธปัจจัย",
+	"SettingsSupplyExped" : "ต้องเติมยุทธปัจจัย",
 	"SettingsSupplyBarLabel" : "แถบ",
 	"SettingsSeconds" : "วินาที",
 	"SettingsSoundType" : "ประเภทเสียง",
@@ -157,6 +166,9 @@
 	"SettingsCustom" : "กำหนดเอง",
 	"SettingsCustomSound" : "กำหนดเสียงเอง (URL)",
 	"SettingsDesktopNotif" : "แจ้งเตือนเดสก์ทอป",
+	"SettingsIdleWarning" : "เตือนเวลาทิ้งหน้าจอ",
+	"SettingsHideCounter" : "ซ่อนการจับเวลา",
+	"SettingsShowCounter" : "โชว์การจับเวลา",
 	
 	"SettingsAPIGameScreen" : "API Game Screen",
 	"SettingsQuestOverlay" : "แปลภาษาเควส",
@@ -209,6 +221,7 @@
 	"Saved" : "Saved!",
 	
 	"UnwantedExit" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! โปรดจำไว้ว่า API ตอนนี้ใช้ได้ครั้งเดียวนะคะ หากผู้การจะเข้าใหม่อีกรอบ ให้กดปุ่ม รีเฟรช API ด้วยนะคะ",
+        "UnwantedExitDMM" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! ถ้าจะเล่นใหม่ ผู้การกดรีเฟรชได้เลยนะคะ ระบบป้องกัน UNLIMITED Catbombs WORKS! ทำงาน! โดยไม่ผ่าน API",
 	"APIWaitToggle" : "โปรดเปิดหน้าแรกของ KC3Kai ก่อน ",
 	"APIConcealExpl" : "วางเมาส์เพื่อดู API ของคุณ",
 	

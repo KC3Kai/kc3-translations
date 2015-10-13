@@ -35,6 +35,12 @@
 	"MenuRefreshAPIDesc" : "Opens the DMM play page where we'll auto-extract your new API link",
 	"MenuPlayDMMName" : "Play on DMM Website",
 	"MenuPlayDMMDesc" : "Natural DMM Netgame Portal gameplay, for our cautious friends. Absolute Safe.",
+	
+	"MenuPlayDMMFName" : "Play via DMM on Frame",
+	"MenuPlayDMMFDesc" : "Direct DMM play page is framed onto a KC3改 page for customizations",
+	"MenuPlayOSAPIName" : "Play via OSAPI",
+	"MenuPlayOSAPIDesc" : "Second-level Link that lasts a bit longer than API Link. No customizations YET.",
+	
 	"MenuCookiesName" : "Activate Cookies",
 	"MenuCookiesDesc" : "Use this anytime you encounter the \"Error Area\" screen on DMM.com",
 	"MenuStrategyName" : "Strategy Room",
@@ -51,6 +57,7 @@
 	"MenuQuestReset" : "Next Quest Reset",
 	
 	"GameDMMRedirect" : "You will be redirected to play directly on DMM website",
+	"GameDMMFrame" : "This will open the DMM KanColle page in an iFrame",
 	
 	"GameAPIRemoveTitle" : "Remove API link",
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
@@ -144,12 +151,14 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "New Tab",
 	"SettingsSSFileType" : "Filetype",
+	"SettingsSSDirectory" : "Download Sub-directory",
 	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",
 	"SettingsMoraleNotif" : "Morale Notification",
 	"SettingsMoraleValue" : "Morale Minimum",
 	"SettingsSupplyRate" : "Supply Minimum",
+	"SettingsSupplyExped" : "Fleet Supply Warning",
 	"SettingsSupplyBarLabel" : "bars",
 	"SettingsSeconds" : "seconds",
 	"SettingsSoundType" : "Sound Type",
@@ -157,6 +166,9 @@
 	"SettingsCustom" : "Custom",
 	"SettingsCustomSound" : "Custom Sound URL",
 	"SettingsDesktopNotif" : "Desktop Notification",
+	"SettingsIdleWarning" : "Idle Timer",
+	"SettingsHideCounter" : "Hide Counter",
+	"SettingsShowCounter" : "Show Counter",
 	
 	"SettingsAPIGameScreen" : "API Game Screen",
 	"SettingsQuestOverlay" : "Quest Translations",
@@ -209,6 +221,7 @@
 	"Saved" : "Saved!",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
+	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
 	"APIWaitToggle" : "Please load KC3Kai panel first",
 	"APIConcealExpl" : "Hover to show your API Link",
 	

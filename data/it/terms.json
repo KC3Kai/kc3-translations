@@ -35,6 +35,12 @@
     "MenuRefreshAPIDesc" : "Apre la pagine DMM dove estrarremo automaticamente il tuo nuovo API Link",
     "MenuPlayDMMName" : "Gioca sul sito DMM",
     "MenuPlayDMMDesc" : "Portale DMM, per i nostri amici più cauti.Assolutamente sicuro.",
+    
+    "MenuPlayDMMFName" : "Gioca su DMM con il frame",
+    "MenuPlayDMMFDesc" : "La pagina DMM è inserita nel frame di KC3改 per poterla personalizzare",
+    "MenuPlayOSAPIName" : "Gioca con l'OSAPI",
+    "MenuPlayOSAPIDesc" : "Link secondario un po' più longevo dell'API. Al momento non personalizzabile.",
+	
     "MenuCookiesName" : "Attiva i Cookie",
     "MenuCookiesDesc" : "Usalo ogni volta incontri la schermata \"Error Area\" sul sito DMM.com",
     "MenuStrategyName" : "Centro di Comando",
@@ -51,6 +57,7 @@
     "MenuQuestReset" : "Prossimo Reset Quest",
     
     "GameDMMRedirect" : "Sarai reindirizzato sulla pagina di gioco del sito DMM",
+    "GameDMMFrame" : "Aprirà la pagina DMM di Kancolle in una cornice (frame)",
 	
     "GameAPIRemoveTitle" : "Rimuovi l'API link",
     "GameAPIRemoveDesc" : "Nel caso tu voglia rimuovere l'API link salvato in questa versione:",
@@ -144,6 +151,7 @@
     "SettingsSSImgur" : "Imgur",
     "SettingsSSNewTab" : "Nuova Scheda",
     "SettingsSSFileType" : "Tipo di File",
+    "SettingsSSDirectory" : "Download Sotto-directory",
 
     "SettingsAlerts" : "Avvisi",
     "SettingsTimeDiff" : "Margine Timer",
@@ -157,6 +165,9 @@
     "SettingsCustom" : "Personale",
     "SettingsCustomSound" : "URL Suono Personale",
     "SettingsDesktopNotif" : "Notifica Desktop",
+    "SettingsIdleWarning" : "Timer Inattività",
+    "SettingsHideCounter" : "Nascondi Contatore",
+    "SettingsShowCounter" : "Mostra Contatore",
 
     "SettingsAPIGameScreen" : "Schermata di Gioco API",
     "SettingsQuestOverlay" : "Traduzione Missioni",
@@ -208,7 +219,8 @@
     "LearnMore" : "Scopri di più",
     "Saved" : "Salvato!",
 
-    "UnwantedExit" : "Ahhh! Stai lasciando le tue ragazze! Sicuro di volerlo fare?",
+    "UnwantedExit" : "L'API Link scade dopo un singolo uso. Dovrai ricaricare di nuovo l'API Link tramite il menu se vuoi aggiornare la pagina, altrimenti beccherai solo dei catbomb!",
+    "UnwantedExitDMM" : "Stai lasciando la pagina e le tue ragazze! Se stai solo aggiornando la pagina non ti ritroverai con un catbomb, gli API Link sono irrilevanti!",
     "APIWaitToggle" : "Per favore, carica prima il pannello di KC3Kai",
     "APIConcealExpl" : "Evita di mostrare il tuo API Link",
 

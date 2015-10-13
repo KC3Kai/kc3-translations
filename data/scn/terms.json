@@ -34,7 +34,13 @@
     "MenuRefreshAPIName" : "开始游戏（获取新的API）",
     "MenuRefreshAPIDesc" : "打开DMM网页并自动获取新的API链接",
     "MenuPlayDMMName" : "开始游戏（DMM网页模式）",
-    "MenuPlayDMMDesc" : "使用DMM网页进行游戏，不做任何调整",
+    "MenuPlayDMMDesc" : "使用DMM网页进行游戏，绝对安全",
+    
+    "MenuPlayDMMFName" : "开始游戏（网页框架模式）",
+    "MenuPlayDMMFDesc" : "使用DMM网页进行游戏，本插件会对网页进行改造以实现自定义功能",
+    "MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
+    "MenuPlayOSAPIDesc" : "可比API链接存在更久的二级链接。暂不支持自定义功能",
+
     "MenuCookiesName" : "激活Cookies",
     "MenuCookiesDesc" : "当浏览DMM网站遇到“Error Area”错误时，可使用该选项",
     "MenuStrategyName" : "战略室",
@@ -51,6 +57,7 @@
     "MenuQuestReset" : "距任务刷新还剩",
 
     "GameDMMRedirect" : "即将前往DMM网站直接进行游戏",
+    "GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
 
     "GameAPIRemoveTitle" : "删除API链接",
     "GameAPIRemoveDesc" : "若想让KC3改删除你的API链接:",
@@ -107,6 +114,7 @@
     "AboutOtherSources" : "其他信息来源",
     "AboutLicense" : "许可",
     "AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
+
     "AboutSourceZHKcWiki" : "<strong>简体中文</strong>任务使用了部分来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>的翻译，有少许改动。",
 
     "SettingsTitle" : "KC3改 - 设置",
@@ -208,6 +216,7 @@
     "Saved" : "已保存!",
 
     "UnwantedExit" : "提督君，确定要离我而去？",
+    "UnwantedExitDMM" : "提督君，确定要离我而去？（与API链接不同，在DMM模式下刷新不会导致无限猫，敬请放心）",
     "APIWaitToggle" : "请先打开“KC3改”面板",
     "APIConcealExpl" : "鼠标指向这里可查询API链接地址",
 

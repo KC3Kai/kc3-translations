@@ -645,47 +645,47 @@
     
     "301": {
         "code": "C1",
-        "name": "First Exercise!",
-        "desc": "Challenge another fleet in practice mode"
+        "name": "Eerste Oefening!",
+        "desc": "Daag een andere vloot uit in oefenmodus"
     },
     "303": {
         "code": "C2",
-        "name": "Daily Exercises 1",
-        "desc": "Challenge 3 other fleets in practice mode",
+        "name": "Dagelijkse Oefening 1",
+        "desc": "Daag 3 andere vloten uit in oefenmodus",
         "unlock": [ 304, 302 ],
         "tracking": [ [0,3] ]
     },
     "304": {
         "code": "C3",
-        "name": "Daily Exercises 2",
-        "desc": "Get 5 victories in practice mode within the same day",
+        "name": "Dagelijkse Oefening 2",
+        "desc": "Behaal 5 overwinningen in oefenmodus op de zelfde dag",
         "tracking": [ [0,5] ]
     },
     "302": {
         "code": "C4",
-        "name": "Weekly Exercises",
-        "desc": "(Weekly) Get 20 victories in practice mode",
+        "name": "Wekelijkse Oefening",
+        "desc": "(Wekelijks) Behaal 20 overwinningen in oefenmodus",
         "tracking": [ [0,20] ]
     },
     "307": {
         "code": "C5",
-        "name": "Improve the Efficiency of the Fleet",
-        "desc": "Get 3 victories in practice mode within the same day"
+        "name": "Verbeter de Effectiviteit van de Vloot",
+        "desc": "Behaal 3 overwinningen in oefenmodus op de zelfde dag"
     },
     "308": {
         "code": "C6",
-        "name": "Improve the Efficiency of the Fleet One More Time",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "name": "Verbeter de Effectiviteit van de Vloot nog een Keer",
+        "desc": "Behaal 4 overwinningen in oefenmodus op de zelfde dag"
     },
     "309": {
         "code": "C7",
-        "name": "Extra Training in Preparation for Another Rush to the Northern Sea",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "name": "Extra Training in Voorbereiding voor nog een snelle missie naar de Noordelijke Zee",
+        "desc": "Behaal 4 overwinningen in oefenmodus op de zelfde dag"
     },
     "311": {
         "code": "C8",
-        "name": "Elite Fleet Practice",
-        "desc": "Get 7 victories in Exercises within the same day",
+        "name": "Elite Vloot Oefening",
+        "desc": "Behaal 7 overwinningen in oefenmodus op de zelfde dag",
 		"tracking": [ [0,7] ]
     },
     

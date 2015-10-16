@@ -10,19 +10,19 @@
 	],
 	
 	"airbattle" : [
-		["AP", "", "Air Parity"],
-		["AS+", "good", "Air Supremacy"],
-		["AS", "good", "Air Superiority"],
-		["AI", "bad", "Air Incapability"],
-		["AD", "bad", "Air Denial"]
+		["AP", "", "Lucht Gelijkheid"],
+		["AS+", "good", "Lucht Oppermacht"],
+		["AS", "good", "Lucht Superioriteit"],
+		["AI", "bad", "Lucht Onbekwaamheid"],
+		["AD", "bad", "Lucht Ontkenning"]
 	],
 	
 	"engagement" : [
 		["", "", ""],
 		["Prll", "", "Parallel"],
-		["HdOn", "", "Head-on"],
-		["Gr-T", "good", "Green T"],
-		["Rd-T", "bad", "Red T"]
+		["HdOn", "", "Frontale Aanval"],
+		["Gr-T", "good", "Groene T"],
+		["Rd-T", "bad", "Rode T"]
 	]
 	
 }

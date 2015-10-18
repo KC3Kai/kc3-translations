@@ -52,7 +52,7 @@
 	"MenuChangelog" : "(Daftar Perubahan)",
 	"MenuUpdate" : "Pembaruan KC3改",
 	"MenuOnLatest" : "Terbaru!",
-	"MenuScheduledNow" : "Dijadwalkan sekarang",
+	"MenuScheduledNow" : "Dijadwalkan",
 	"MenuPvPReset" : "Waktu reset PvP",
 	"MenuQuestReset" : "Waktu reset Quest",
 	
@@ -113,8 +113,9 @@
 
 	"AboutOtherSources" : "Sumber Lainnya",
 	"AboutLicense" : "Lisensi",
-	"AboutLicenseDisclaimer" : "Text berikut menunjukkan salinan terbaru LISENSI file dari versi yang terpasang. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Lihat LISENSI file melalui repository dari konten ofisial terbaru.</a>",
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Untuk Terjemahan Quest <strong>Simplified Chinese</strong>",
+	"AboutLicenseDisclaimer" : "Text berikut menunjukkan salinan terbaru file LISENSI pada versi yang saat ini terpasang. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Lihat file LISENSI melalui repository untuk konten ofisial yang terbaru.</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Untuk Terjemahan Quest <strong>Hanzi Sederhana</strong>",
 
 	"SettingsTitle" : "Pengaturan KC3改",
 
@@ -136,7 +137,7 @@
 	"SettingsDropFaces" : "Wajah Kapal Yang Didapat",
 	"SettingsConstructionFaces" : "Wajah Konstruksi",
 	"SettingsCraftBox" : "Hasil Crafting",
-	"SettingsCompass" : "Kompas dan Musuh",
+	"SettingsCompass" : "Kompas dan Data Pertempuran",
 	"SettingsBattleData" : "Prediksi Pertempuran",
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
@@ -169,7 +170,7 @@
 	"SettingsHideCounter" : "Sembunyikan Penghitung",
 	"SettingsShowCounter" : "Tampilkan Penghitung",
 
-	"SettingsAPIGameScreen" : "Tampilan Game API",
+	"SettingsAPIGameScreen" : "Tampilan Game",
 	"SettingsQuestOverlay" : "Terjemahan Quest",
 	"SettingsQuestTracking" : "Penanda Quest",
 	"SettingsPanelRequirement" : "Buka Panel untuk Bermain",
@@ -185,13 +186,16 @@
 	"SettingsBGPositionDesc" : "Lihat properti background-position CSS",
 	"SettingsPlayerScale" : "Skala Tampilan Game",
 
-	"SettingsDMMGameplay" : "Gameplay DMM",
+	"SettingsDMMGameplay" : "Pengaturan DMM",
 	"SettingsDMMCustomize" : "Terapkan Pengaturan",
 	"SettingsDMMForceCookies" : "Paksa Gunakan Cookies",
 	
 	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Gunakan Fitur ini",
 	"SettingsDBSubmissionKey" : "Access key",
+
+	"SettingsPoiDBSubmission" : "Kirim data ke poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Gunakan Fitur ini",
 
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",

@@ -1,0 +1,28 @@
+{
+	"detection" : [
+		["", ""],
+		["OK", "good"],
+		["OK-", "good"],
+		["-", "bad"],
+		["NO", "bad"],
+		["OK+", "good"],
+		["NO+", "bad"]
+	],
+	
+	"airbattle" : [
+		["AP", "", "Lucht Gelijkheid"],
+		["AS+", "good", "Lucht Oppermacht"],
+		["AS", "good", "Lucht Superioriteit"],
+		["AI", "bad", "Lucht Onbekwaamheid"],
+		["AD", "bad", "Lucht Ontkenning"]
+	],
+	
+	"engagement" : [
+		["", "", ""],
+		["Prll", "", "Parallel"],
+		["HdOn", "", "Frontale Aanval"],
+		["Gr-T", "good", "Groene T"],
+		["Rd-T", "bad", "Rode T"]
+	]
+	
+}

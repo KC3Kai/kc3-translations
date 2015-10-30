@@ -116,6 +116,7 @@
     "AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
 
     "AboutSourceZHKcWiki" : "<strong>简体中文</strong>任务使用了部分来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>的翻译，有少许改动。",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">心跳音效</a> (Mike Koenig)",
 
     "SettingsTitle" : "KC3改 - 设置",
 
@@ -144,6 +145,7 @@
     "SettingsYasenTroll" : "KC3改 Troll Comments",
     "SettingsHQDelta" : "出击时司令部经验值变化",
     "SettingsFleetStatus" : "舰队状态概览",
+    "SettingsAutoExpedTab": "自动切换远征信息页",
 
     "SettingsScreenshot" : "截图",
     "SettingsSSOutput" : "输出方式",
@@ -151,12 +153,14 @@
     "SettingsSSImgur" : "上传至Imgur",
     "SettingsSSNewTab" : "打开新标签页",
     "SettingsSSFileType" : "文件格式",
+	"SettingsSSDirectory" : "子目录名",
 
     "SettingsAlerts" : "提醒",
     "SettingsTimeDiff" : "倒计时提前",
     "SettingsMoraleNotif" : "士气提醒",
     "SettingsMoraleValue" : "士气最低值",
     "SettingsSupplyRate" : "补给最低值",
+	"SettingsSupplyExped" : "舰队补给警报",
     "SettingsSupplyBarLabel" : "格",
     "SettingsSeconds" : "秒",
     "SettingsSoundType" : "提示音",
@@ -164,6 +168,10 @@
     "SettingsCustom" : "自定义",
     "SettingsCustomSound" : "自定义提示音",
     "SettingsDesktopNotif" : "桌面通知",
+	"SettingsIdleWarning" : "空闲计时",
+	"SettingsHideCounter" : "隐藏计数",
+	"SettingsShowCounter" : "显示计数",
+	"SettingsTaihaAlert" : "吓人的大破警报",
 
     "SettingsAPIGameScreen" : "API模式",
     "SettingsQuestOverlay" : "任务翻译",

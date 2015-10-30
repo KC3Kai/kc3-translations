@@ -29,28 +29,35 @@
 	"Experience": "Experience",
 	"Name": "Nama",
 	
-	"MenuPlayAPIName" : "Bermain Melalui API Link",
-	"MenuPlayAPIDesc" : "Bermain menggunakan API link yang disimpan atau masukan secara manual",
+	"MenuPlayAPIName" : "Bermain via API Link",
+	"MenuPlayAPIDesc" : "Bermain menggunakan API link yang disimpan atau masukan secara manual.",
 	"MenuRefreshAPIName" : "Refresh API Link",
-	"MenuRefreshAPIDesc" : "Membuka halaman DMM dimana kami akan mengekstrak API link baru anda",
-	"MenuPlayDMMName" : "Bermain Melalui DMM.com",
-	"MenuPlayDMMDesc" : "Gameplay Portal DMM Netgame Alamiah, untuk kalian yang waspada. Sangat Aman.",
+	"MenuRefreshAPIDesc" : "Membuka halaman DMM dimana kami akan mengekstrak API link baru anda.",
+	"MenuPlayDMMName" : "Bermain via Portal DMM",
+	"MenuPlayDMMDesc" : "Gameplay Portal Netgame DMM Alamiah, untuk kalian yang waspada.",
+	
+	"MenuPlayDMMFName" : "Bermain via Bingkai DMM",
+	"MenuPlayDMMFDesc" : "Halaman DMM langsung yang dibingkai dengan halaman KC3改.",
+	"MenuPlayOSAPIName" : "Bermain via OSAPI",
+	"MenuPlayOSAPIDesc" : "Link Tingkat Sekunder yang bertahan sedikit lebih lama dari API Link.",
+	
 	"MenuCookiesName" : "Aktifkan Cookies",
-	"MenuCookiesDesc" : "Gunakan ini saat anda menemukan tampilan \"Error Area\" pada DMM.com",
+	"MenuCookiesDesc" : "Gunakan ini saat anda menemukan tampilan \"Error Area\" pada DMM.com.",
 	"MenuStrategyName" : "Ruangan Strategi",
-	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada anda",
-	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya",
-	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya",
+	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada.",
+	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya.",
+	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya.",
 	
 	"MenuVersion" : "Versi terpasang",
 	"MenuChangelog" : "(Daftar Perubahan)",
 	"MenuUpdate" : "Pembaruan KC3改",
 	"MenuOnLatest" : "Terbaru!",
-	"MenuScheduledNow" : "Dijadwalkan sekarang",
+	"MenuScheduledNow" : "Dijadwalkan",
 	"MenuPvPReset" : "Waktu reset PvP",
 	"MenuQuestReset" : "Waktu reset Quest",
 	
 	"GameDMMRedirect" : "Anda akan dialihkan untuk bermain langsung pada website DMM",
+	"GameDMMFrame" : "Halaman DMM Kancolle akan terbuka dalam bingkai",
 	
 	"GameAPIRemoveTitle" : "Hapus API link",
 	"GameAPIRemoveDesc" : "Jika anda ingin menghapus API Link yang telah tersimpan:",
@@ -67,7 +74,7 @@
 	"GameAPIRemindTitle" : "Pengingat untuk pemain baru",
 	"GameAPIRemindDesc" : "Harap tidak menggunakan KC3改 jika anda belum lolos tahap <i>lottery</i>. KC3改 menganggap akun anda sedang login saat mengekstrak API Link yang dapat dimainkan. Setelah anda bergabung pada salah satu server, anda masih harus memasukkan nama admiral sebelum dapat menggunakan API Link.",
 	"GameAPIAltTitle" : "Alternatif",
-	"GameAPIAltDesc" : "Jika anda ingin bermain langsung pada portal DMM, anda dapat menggunakan <img src=\"../popup/img/dmm.png\" /> <strong>Bermain Melalui DMM.com</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> yang juga mendukung fasilitas panel <kbd class=\"light\">F12</kbd> dengan mekanisme yang sama dengan API Link.",
+	"GameAPIAltDesc" : "Jika anda ingin bermain langsung pada portal DMM, anda dapat menggunakan <img src=\"../popup/img/dmm.png\" /> <strong>Bermain via Portal DMM</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> yang juga mendukung fasilitas panel <kbd class=\"light\">F12</kbd> dengan mekanisme yang sama dengan API Link.",
 	
 	
 	"GameStartDashTitle" : "Untuk memulai game dengan Admiral Dashboard",
@@ -106,8 +113,10 @@
 
 	"AboutOtherSources" : "Sumber Lainnya",
 	"AboutLicense" : "Lisensi",
-	"AboutLicenseDisclaimer" : "Text berikut menunjukkan salinan terbaru LISENSI file dari versi yang terpasang. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Lihat LISENSI file melalui repository dari konten ofisial terbaru.</a>",
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Untuk Terjemahan Quest <strong>Simplified Chinese</strong>",
+	"AboutLicenseDisclaimer" : "Text berikut menunjukkan salinan terbaru file LISENSI pada versi yang saat ini terpasang. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Lihat file LISENSI melalui repository untuk konten ofisial yang terbaru.</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Untuk Terjemahan Quest <strong>Hanzi Sederhana</strong>",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Efek Suara Denyut Jantung</a> oleh Mike Koenig",
 
 	"SettingsTitle" : "Pengaturan KC3改",
 
@@ -129,7 +138,7 @@
 	"SettingsDropFaces" : "Wajah Kapal Yang Didapat",
 	"SettingsConstructionFaces" : "Wajah Konstruksi",
 	"SettingsCraftBox" : "Hasil Crafting",
-	"SettingsCompass" : "Kompas dan Musuh",
+	"SettingsCompass" : "Kompas dan Data Pertempuran",
 	"SettingsBattleData" : "Prediksi Pertempuran",
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
@@ -149,7 +158,8 @@
 	"SettingsTimeDiff" : "Penyisihan Waktu",
 	"SettingsMoraleNotif" : "Notifikasi Moral",
 	"SettingsMoraleValue" : "Moral Minimum",
-	"SettingsSupplyRate" : "Supplai Minimum",
+	"SettingsSupplyRate" : "Suplai Minimum",
+	"SettingsSupplyExped" : "Peringatan Suplai Armada",
 	"SettingsSupplyBarLabel" : "batang",
 	"SettingsSeconds" : "detik",
 	"SettingsSoundType" : "Tipe Suara",
@@ -157,8 +167,12 @@
 	"SettingsCustom" : "Pilihan Sendiri",
 	"SettingsCustomSound" : "URL Suara Pilihan Sendiri",
 	"SettingsDesktopNotif" : "Notifikasi Desktop",
+	"SettingsIdleWarning" : "Penghitung Waktu Diam",
+	"SettingsHideCounter" : "Sembunyikan Penghitung",
+	"SettingsShowCounter" : "Tampilkan Penghitung",
+	"SettingsTaihaAlert" : "Peringatan Taiha Berlebihan",
 
-	"SettingsAPIGameScreen" : "Tampilan Game API",
+	"SettingsAPIGameScreen" : "Tampilan Game",
 	"SettingsQuestOverlay" : "Terjemahan Quest",
 	"SettingsQuestTracking" : "Penanda Quest",
 	"SettingsPanelRequirement" : "Buka Panel untuk Bermain",
@@ -174,13 +188,16 @@
 	"SettingsBGPositionDesc" : "Lihat properti background-position CSS",
 	"SettingsPlayerScale" : "Skala Tampilan Game",
 
-	"SettingsDMMGameplay" : "Gameplay DMM",
+	"SettingsDMMGameplay" : "Pengaturan DMM",
 	"SettingsDMMCustomize" : "Terapkan Pengaturan",
 	"SettingsDMMForceCookies" : "Paksa Gunakan Cookies",
 	
 	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Gunakan Fitur ini",
 	"SettingsDBSubmissionKey" : "Access key",
+
+	"SettingsPoiDBSubmission" : "Kirim data ke poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Gunakan Fitur ini",
 
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
@@ -208,7 +225,8 @@
 	"LearnMore" : "Pelajari Lebih lanjut",
 	"Saved" : "Disimpan!",
 	
-	"UnwantedExit" : "Yakin mau keluar? Nanti waifumu ngambek loh..",
+	"UnwantedExit" : "API Link akan kadaluarsa dalam sekali pakai. Kau harus 'Refresh API Link' lagi di menu jika kau ingin me-refresh, jika tidak, kau akan terkena catbomb!",
+	"UnwantedExitDMM" : "Yakin mau keluar? Nanti waifumu ngambek loh.. Tapi kalau kau hanya ingin me-refresh tidak akan terjadi masalah ataupun terkena catbomb, namun tidak dengan API Link!",
 	"APIWaitToggle" : "Harap buka panel KC3Kai terlebih dahulu",
 	"APIConcealExpl" : "Arahkan kursor untuk melihat API Link",
 

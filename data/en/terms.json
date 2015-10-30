@@ -35,6 +35,12 @@
 	"MenuRefreshAPIDesc" : "Opens the DMM play page where we'll auto-extract your new API link",
 	"MenuPlayDMMName" : "Play on DMM Website",
 	"MenuPlayDMMDesc" : "Natural DMM Netgame Portal gameplay, for our cautious friends. Absolute Safe.",
+	
+	"MenuPlayDMMFName" : "Play via DMM on Frame",
+	"MenuPlayDMMFDesc" : "Direct DMM play page is framed onto a KC3改 page for customizations",
+	"MenuPlayOSAPIName" : "Play via OSAPI",
+	"MenuPlayOSAPIDesc" : "Second-level Link that lasts a bit longer than API Link. No customizations YET.",
+	
 	"MenuCookiesName" : "Activate Cookies",
 	"MenuCookiesDesc" : "Use this anytime you encounter the \"Error Area\" screen on DMM.com",
 	"MenuStrategyName" : "Strategy Room",
@@ -51,6 +57,7 @@
 	"MenuQuestReset" : "Next Quest Reset",
 	
 	"GameDMMRedirect" : "You will be redirected to play directly on DMM website",
+	"GameDMMFrame" : "This will open the DMM KanColle page in an iFrame",
 	
 	"GameAPIRemoveTitle" : "Remove API link",
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
@@ -75,7 +82,7 @@
 	"GameStartDashWin" : "For Windows / Linux",
 	"GameStartDashOr" : "or",
 	"GameStartDashMac" : "While on Mac",
-	"GameStartDashChrome" : "When the Chrome panel opens, there will be a tab \"<strong>KanColle</strong>\"",
+	"GameStartDashChrome" : "When the devtools panel opens, there will be a tab \"<strong>KanColle</strong>\", click on it.",
 	"GameStartNowTitle" : "Just Let Me Play Now",
 	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now...",
 	"GameStartNowBtn" : "Start the game anyway",
@@ -109,6 +116,7 @@
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> by Mike Koenig",
 	
 	"SettingsTitle" : "KC3改 Settings",
 	
@@ -137,6 +145,7 @@
 	"SettingsYasenTroll" : "KC3改 Troll Comments",
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
+	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -144,12 +153,14 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "New Tab",
 	"SettingsSSFileType" : "Filetype",
+	"SettingsSSDirectory" : "Download Sub-directory",
 	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",
 	"SettingsMoraleNotif" : "Morale Notification",
 	"SettingsMoraleValue" : "Morale Minimum",
 	"SettingsSupplyRate" : "Supply Minimum",
+	"SettingsSupplyExped" : "Fleet Supply Warning",
 	"SettingsSupplyBarLabel" : "bars",
 	"SettingsSeconds" : "seconds",
 	"SettingsSoundType" : "Sound Type",
@@ -157,8 +168,12 @@
 	"SettingsCustom" : "Custom",
 	"SettingsCustomSound" : "Custom Sound URL",
 	"SettingsDesktopNotif" : "Desktop Notification",
+	"SettingsIdleWarning" : "Idle Timer",
+	"SettingsHideCounter" : "Hide Counter",
+	"SettingsShowCounter" : "Show Counter",
+	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	
-	"SettingsAPIGameScreen" : "API Game Screen",
+	"SettingsAPIGameScreen" : "Game Window",
 	"SettingsQuestOverlay" : "Quest Translations",
 	"SettingsQuestTracking" : "Quest Tracking",
 	"SettingsPanelRequirement" : "Require Panel to Play",
@@ -174,13 +189,16 @@
 	"SettingsBGPositionDesc" : "See CSS background-position property",
 	"SettingsPlayerScale" : "Game Player Scale",
 	
-	"SettingsDMMGameplay" : "DMM Gameplay",
+	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
+
+	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 
 	"SettingsPanelSize" : "Panel Size",
 	"SettingsPanelOpacity" : "Interface Opacity",
@@ -209,6 +227,7 @@
 	"Saved" : "Saved!",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
+	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
 	"APIWaitToggle" : "Please load KC3Kai panel first",
 	"APIConcealExpl" : "Hover to show your API Link",
 	

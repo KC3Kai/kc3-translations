@@ -22,7 +22,7 @@
     "MaxHomeportUpgradesAvailable": "Numero massimo Porti Disponibili",
     "MaxEquipmentAvailable": "Numero massimo di Equipaggiamenti Disponibili",
     "QuestMarkersAvailable": "Segnalini Missione Disponibili",
-    "ResourceSoftcapLimit": "Limite massimo delle Risorse Generate",
+    "ResourceSoftcapLimit": "Limite massimo delle risorse generate",
     "MainScreenBGM": "BGM Schermata Principale",
     "LevelUpNotice": "All'aumentare del livello del HQ, il limite delle risorse generate aumenta e si può costruire nuovi equipaggiamenti.",
     "ImprovementMaterial": "Viti",
@@ -35,6 +35,12 @@
     "MenuRefreshAPIDesc" : "Apre la pagine DMM dove estrarremo automaticamente il tuo nuovo API Link",
     "MenuPlayDMMName" : "Gioca sul sito DMM",
     "MenuPlayDMMDesc" : "Portale DMM, per i nostri amici più cauti.Assolutamente sicuro.",
+    
+    "MenuPlayDMMFName" : "Gioca su DMM con il frame",
+    "MenuPlayDMMFDesc" : "La pagina DMM è inserita nel frame di KC3改 per poterla personalizzare",
+    "MenuPlayOSAPIName" : "Gioca con l'OSAPI",
+    "MenuPlayOSAPIDesc" : "Link secondario un po' più longevo dell'API. Al momento non personalizzabile.",
+	
     "MenuCookiesName" : "Attiva i Cookie",
     "MenuCookiesDesc" : "Usalo ogni volta incontri la schermata \"Error Area\" sul sito DMM.com",
     "MenuStrategyName" : "Centro di Comando",
@@ -51,6 +57,7 @@
     "MenuQuestReset" : "Prossimo Reset Quest",
     
     "GameDMMRedirect" : "Sarai reindirizzato sulla pagina di gioco del sito DMM",
+    "GameDMMFrame" : "Aprirà la pagina DMM di Kancolle in una cornice (frame)",
 	
     "GameAPIRemoveTitle" : "Rimuovi l'API link",
     "GameAPIRemoveDesc" : "Nel caso tu voglia rimuovere l'API link salvato in questa versione:",
@@ -58,8 +65,8 @@
 	
     "GameAPINoExist" : "Non hai registrato alcun API link",
     "GameAPIGetTitle" : "Per ottenere un nuovo API link",
-    "GameAPIGetDesc" : "Usa il <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> in alto a destra del tuo browser.",
-    "GameAPIExistTitle" : "Per usare API links già esistenti",
+    "GameAPIGetDesc" : "Usa <img src=\"../popup/img/refresh.png\" /> <strong>Aggiorna l'API Link</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> in alto a destra del tuo browser.",
+    "GameAPIExistTitle" : "Per usare API link già esistenti",
     "GameAPIExistDesc" : "Se hai già disponibile un API link, lo puoi inserire qui:",
     "GameAPIExistBtn" : "Usa l'API link",
     "GameAPIWhatTitle" : "Cos'è un API link?",
@@ -67,7 +74,7 @@
     "GameAPIRemindTitle" : "Rimando per i nuovi giocatori",
     "GameAPIRemindDesc" : "Non usare KC3改 se non hai ancora passato la lotteria. Questa versione presuppone che l'account con cui si fa il log-in, mentre estrae l'API link, sia già abilitato a giocare. Una volta unito ad un server, dovrai anche inserire il tuo nome da Ammiraglio se sei senza API link.",
     "GameAPIAltTitle" : "Alternative",
-    "GameAPIAltDesc" : "Se preferisci non usare API link e vuoi giocare a KanColle direttamente sul portale DMM, il <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> supporta il <kbd class=\"light\">F12</kbd> pannello con le stesse meccaniche di avvio.",
+    "GameAPIAltDesc" : "Se preferisci non usare API link e vuoi giocare a KanColle direttamente sul portale DMM, il <img src=\"../popup/img/dmm.png\" /> <strong>Gioca sul sito DMM</strong> dal <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> supporta il <kbd class=\"light\">F12</kbd> pannello con le stesse meccaniche di avvio.",
 	
 	
     "GameStartDashTitle" : "Per startare con il Pannello dell'Ammiraglio",
@@ -101,14 +108,15 @@
     "AboutOther" : "Altri Crediti",
     "AboutLogo" : "Logo Design",
     "AboutFairy" : "Fairy Designer",
-    "AboutReporters" : "Git Reporter Frequenti",
+    "AboutReporters" : "Git Reporter Abituali",
     "AboutReporter" : "Git Reporter",
 	
     "AboutOtherSources" : "Altre Fonti",
     "AboutLicense" : "Licenza",
-    "AboutLicenseDisclaimer" : "Il testo sottostante rappresenta l'ultima copia del file LICENSE di questa versione installata. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Leggi il file LICENSE nella repository per conoscere gli ultimi contenuti ufficiali.</a>",
+    "AboutLicenseDisclaimer" : "Il testo sottostante rappresenta l'ultima copia del file LICENSE della versione installata. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Leggi il file LICENSE nella repository per conoscere gli ultimi contenuti ufficiali.</a>",
     
     "AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> per le traduzioni delle quest in <strong>Cinese Semplificato</strong>",
+    "AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> di Mike Koenig",
 	
     "SettingsTitle" : "KC3改 Impostazioni",
 
@@ -144,12 +152,14 @@
     "SettingsSSImgur" : "Imgur",
     "SettingsSSNewTab" : "Nuova Scheda",
     "SettingsSSFileType" : "Tipo di File",
+    "SettingsSSDirectory" : "Download Sotto-directory",
 
     "SettingsAlerts" : "Avvisi",
     "SettingsTimeDiff" : "Margine Timer",
     "SettingsMoraleNotif" : "Notifica Morale",
     "SettingsMoraleValue" : "Morale Minimo",
     "SettingsSupplyRate" : "Rifornimento al Minimo",
+    "SettingsSupplyExped" : "Attenzione rifornimento Flotta",
     "SettingsSupplyBarLabel" : "barre",
     "SettingsSeconds" : "secondi",
     "SettingsSoundType" : "Tipo di Suono",
@@ -157,11 +167,15 @@
     "SettingsCustom" : "Personale",
     "SettingsCustomSound" : "URL Suono Personale",
     "SettingsDesktopNotif" : "Notifica Desktop",
+    "SettingsIdleWarning" : "Timer Inattività",
+    "SettingsHideCounter" : "Nascondi Contatore",
+    "SettingsShowCounter" : "Mostra Contatore",
+    "SettingsTaihaAlert" : "Avviso fastidioso condizioni critiche",
 
-    "SettingsAPIGameScreen" : "Schermata di Gioco API",
+    "SettingsAPIGameScreen" : "Schermata di Gioco",
     "SettingsQuestOverlay" : "Traduzione Missioni",
     "SettingsQuestTracking" : "Monitoraggio Missioni",
-    "SettingsPanelRequirement" : "Pannello Obbligatorio",
+    "SettingsPanelRequirement" : "Pannello richiesto per giocare",
     "SettingsDirectRefresh" : "Tasto Refresh (Attenzione)",
     "SettingsConfirmExit" : "Conferma Uscita",
     "SettingsScreenMargin" : "Margine Superiore",
@@ -174,14 +188,17 @@
     "SettingsBGPositionDesc" : "Gestione posizione sfondo CSS",
     "SettingsPlayerScale" : "Dimensione Area di Gioco",
 
-    "SettingsDMMGameplay" : "Gameplay DMM",
+    "SettingsDMMGameplay" : "Opzioni DMM",
     "SettingsDMMCustomize" : "Applica Personalizzazioni",
     "SettingsDMMForceCookies" : "Forza l'hack dei Cookie",
 	
     "SettingsDBSubmission" :"Invia dati a Kancolle DB (http://kancolle-db.net/login.php)", 
     "SettingsEnableDBSubmission" : "Abilita questa opzione",
     "SettingsDBSubmissionKey" : "Chiave di accesso",
-
+    
+    "SettingsPoiDBSubmission" :"Invia dati a poi-statistics (http://db.kcwiki.moe/)",
+    "SettingsEnablePoiDBSubmission" : "Abilita questa opzione",
+	
     "SettingsPanelSize" : "Dimensione Pannello",
     "SettingsPanelOpacity" : "Opacità Interfaccia",
     "SettingsGearHolder" : "Colore sfondo attrezzi",
@@ -208,7 +225,8 @@
     "LearnMore" : "Scopri di più",
     "Saved" : "Salvato!",
 
-    "UnwantedExit" : "Ahhh! Stai lasciando le tue ragazze! Sicuro di volerlo fare?",
+    "UnwantedExit" : "L'API Link scade dopo un singolo uso. Dovrai ricaricare di nuovo l'API Link tramite il menu se vuoi aggiornare la pagina, altrimenti beccherai solo dei catbomb!",
+    "UnwantedExitDMM" : "Stai lasciando la pagina e le tue ragazze! Se stai solo aggiornando la pagina non ti ritroverai con un catbomb, gli API Link non c'entrano!",
     "APIWaitToggle" : "Per favore, carica prima il pannello di KC3Kai",
     "APIConcealExpl" : "Evita di mostrare il tuo API Link",
 
@@ -235,21 +253,21 @@
     "EventHistoryRank3"  : "DIFFICILE",
     "StrategyEventGo"    : "Run Evento",
 	
-    "PanelDocking" : "Ormeggio",
+    "PanelDocking" : "Bacino di Riparazione",
     "PanelAkashi" : "Akashi",
     "PanelNoRepair" : "Riparazione non necessaria",
     "PanelCantRepair" : "Riparazione non possibile",
-    "PanelHighestDocking" : "Riparazione in Bacino Tempo Massimo",
+    "PanelHighestDocking" : "Riparazione nel Bacino Tempo Massimo",
     "PanelHighestAkashi" : "Riparazione con Akashi Tempo Massimo",
 	
     "PanelHasTaiha" : "Critica",
     "PanelFSTaiha" : "Ammiraglia",
     "PanelEscortChuuha" : "Ammiraglia Scorta",
     "PanelNoTaiha" : "HP buoni",
-    "PanelSupplied" : "Rifornimenti buoni",
-    "PanelNotSupplied" : "Rifornimenti <100%",
-    "PanelUnderSupplied" : "Bisogno di Rifornimenti",
-    "PanelEmptySupply" : "Rifornimenti Finiti",
+    "PanelSupplied" : "Rifornite",
+    "PanelNotSupplied" : "Rif... <100%",
+    "PanelUnderSupplied" : "Rif... Necessari",
+    "PanelEmptySupply" : "Rif... 0%",
     "PanelGreatMorale" : "Morale Ottimo",
     "PanelGoodMorale" : "Morale Buono",
     "PanelSupportPower" : "Potenza di Fuoco della Spedizione di Supporto",

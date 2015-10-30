@@ -458,6 +458,18 @@
         "name": "Schiera il Sedicesimo Squadrone (Prima Generazione)",
         "desc": "Schiera Ashigara come ammiraglia, Kuma, Nagara e altre 3 navi nel mondo 2-2 e ottieni il grado S contro il boss"
     },
+    "290": {
+        "name": "A Pesca: catturiamo dei lucci!",
+        "desc": "Sconfiggi una flotta nemica posizionata nella zona di pesca a Nord e nella zona perimetrale e ottieni 3 lucci!"
+    },
+    "291": {
+        "name": "A Pesca: Dobbiamo catturare altri lucci!",
+        "desc": "È stancante, ma devi assicurarti che le zone di pesca siano sicure e catturare 10 lucci!"
+    },
+    "292": {
+        "name": "A Pesca: dacci dentro!",
+        "desc": "Sarà davvero difficile, ma puoi tentare di impegnarti per pescare altri lucci!"
+    },
 
 
 
@@ -669,12 +681,12 @@
     },
     "309": {
         "code": "C7",
-        "name": "Aumenta la qualità dell'allenamento per un altro assalto nel Mare del Nord",
+        "name": "Effettua allenamenti migliori per un altro assalto nel Mare del Nord",
         "desc": "Ottieni 4 vittorie nello stesso giorno nella modalità pratica"
     },
      "311": {
         "code": "C8",
-        "name": "Allenamento Elite della Flotta",
+        "name": "Allenamento d'Èlite per la Flotta",
         "desc": "Ottieni 7 vittorie in modalità pratica nello stesso giorno",
 		"tracking": [ [0,7] ]
     },
@@ -735,7 +747,7 @@
     },
     "412": {
         "code": "D10",
-        "name": "Rinforza l'attività delle BBV",
+        "name": "Migliora l'attività delle BBV",
         "desc": "Completa la Spedizione 23"
     },
     "411": {
@@ -746,7 +758,7 @@
     },
     "413": {
         "code": "D12",
-        "name": "Rinforza l'attività delle BBV (Cont.)",
+        "name": "Migliora l'attività delle BBV (Cont.)",
         "desc": "Completa altre quattro volte la Spedizione 23"
     },
     "414": {
@@ -781,7 +793,7 @@
     },
     "420": {
         "code": "D19",
-        "name": "Aumenta l'uso della Task Force",
+        "name": "Incrementa l'utilizzo della Task Force",
         "desc": "Completa le spedizioni 35 e 26"
     },
 
@@ -920,13 +932,13 @@
     },
     "622": {
         "code": "F19",
-        "name": "Organizza l'unità d'Élite Aerosilurante Modello 97",
-        "desc": "Seleziona Shoukaku o Akagi come ammiraglia e rottama 3 Aerosiluranti Modello 97"
+        "name": "Cambio Modello: Aerosilurante Modello 97 (a Tenzan)",
+        "desc": "Seleziona Shoukaku equipaggiata con un Aerosilurante Modello 97 (Squadrone Murata) come ammiraglia e poi rottama 2 volte un Tenzan (Heavenly Mountain)"
     },
     "623": {
         "code": "F20",
-        "name": "Cambio Modello: Aerosilurante Modello 97 (Squadrone Murata)",
-        "desc": "Seleziona Shoukaku equipaggiata con un Aerosilurante Modello 97 (Squadrone Murata) come ammiraglia e poi rottama 2 Tenzan (Heavenly Mountain)"
+        "name": "Organizza l'unità d'Élite Aerosilurante Modello 97",
+        "desc": "Seleziona Shoukaku o Akagi come ammiraglia e rottama 3 volte un Aerosiluranti Modello 97"
     },
     "624": {
         "code": "F21",

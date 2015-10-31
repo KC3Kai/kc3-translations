@@ -239,7 +239,21 @@
         "name": "Organiseer de 16de Groep (1ste Generatie)",
         "desc": "Gebruik Ashigara als vlaggenschip met Kuma en Nagara in de hoofdvloot"
     },
-    
+    "164": {
+		"code": "A59",
+        "name": "Organiseer de 3de Vliegkampschip Divisie",
+        "desc": "Gebruik Zuikaku Kai als vlaggenschip, Zuihou, Chitose en Chiyoda (Allebei als CVL, en niet als AV) in de hoofdvloot"
+    },
+	"165": {
+		"code": "A60",
+        "name": "Organiseer de 4de Vliegkampschip Divisie",
+        "desc": "Gebruik Ise Kai en Hyuuga Kai in de hoofdvloot"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Organiseer Ozawa's Vloot",
+        "desc": "Gebruik Zuikaku Kai als vlaggenschip, Zuihou Kai, Chitose, Chiyoda, Ise Kai en Hyuuga in de hoofdvloot"
+    },
     
     
     "202": {
@@ -458,6 +472,7 @@
         "name": "Gevecht met de 16de Groep (Eerste Generatie)",
         "desc": "Zet een vloot uit met Ashigara als vlaggenschip, Kuma, Nagara en tot 3 andere schepen naar Wereld 2-2. Behaal een S-Rank tegen de baas."
     },
+	
     "290": {
         "name": "Japanse Makreel Vissen: Laten we wat Makreel Vangen!",
         "desc": "Overwin van de vijandelijke vloot gepositioneerd in de omgeving van de noordelijke visserij wateren en vang 3 makreel!"
@@ -470,6 +485,17 @@
         "name": "Japanse Makreel Vissen: We kunnen het nog Beter Proberen!",
         "desc": "Het is heel Moeilijk, Maar je moet proberen de makreel nog ijveriger te vangen!"
     },
+	"293": {
+		"code": "B53",
+        "name": "3de Vliegkampschip Divisie: Verdedig de Nansei Eilanden",
+        "desc": "Zet een vloot uit met Zuikaku als vlaggenschip, Zuihou, Chitose en Chiyoda naar wereld 1-4 en win van de baas"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Gevecht met Ozawa's Vloot",
+        "desc": "Zet een vloot uit met Zuikaku als vlaggenschip, Zuihou, Chitose, Chiyoda, Ise en Hyuuga naar wereld 2-4 en win van de baas"
+    },
+	
     
     "201": {
         "code": "Bd1",
@@ -942,7 +968,16 @@
         "desc": "Sloop uitrusting 7 keer"
     },
     
-    
+    	"625": {
+        "code": "F22",
+        "name": "Uitbreiding naar de Prototype Lucht Uitrusting",
+        "desc": "Sloop uitrusting 9 keer"
+    },
+    "626": {
+        "code": "F23",
+        "name": "Herorganisatie van het elite Jachtvliegtuig Divisie",
+        "desc": "Gebruik een rank 7 Zero 21 Jachtvliegtuig Divisie op Houshou, en sloop 2 Zero 21 Jachtvliegtuig en een Type 96 Jachtvliegtuig"
+    },
     
     "701": {
         "code": "G1",

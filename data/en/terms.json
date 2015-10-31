@@ -82,7 +82,7 @@
 	"GameStartDashWin" : "For Windows / Linux",
 	"GameStartDashOr" : "or",
 	"GameStartDashMac" : "While on Mac",
-	"GameStartDashChrome" : "When the Chrome panel opens, there will be a tab \"<strong>KanColle</strong>\"",
+	"GameStartDashChrome" : "When the devtools panel opens, there will be a tab \"<strong>KanColle</strong>\", click on it.",
 	"GameStartNowTitle" : "Just Let Me Play Now",
 	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now...",
 	"GameStartNowBtn" : "Start the game anyway",
@@ -116,6 +116,7 @@
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> by Mike Koenig",
 	
 	"SettingsTitle" : "KC3改 Settings",
 	
@@ -144,6 +145,7 @@
 	"SettingsYasenTroll" : "KC3改 Troll Comments",
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
+	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -169,8 +171,9 @@
 	"SettingsIdleWarning" : "Idle Timer",
 	"SettingsHideCounter" : "Hide Counter",
 	"SettingsShowCounter" : "Show Counter",
+	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	
-	"SettingsAPIGameScreen" : "API Game Screen",
+	"SettingsAPIGameScreen" : "Game Window",
 	"SettingsQuestOverlay" : "Quest Translations",
 	"SettingsQuestTracking" : "Quest Tracking",
 	"SettingsPanelRequirement" : "Require Panel to Play",
@@ -186,13 +189,16 @@
 	"SettingsBGPositionDesc" : "See CSS background-position property",
 	"SettingsPlayerScale" : "Game Player Scale",
 	
-	"SettingsDMMGameplay" : "DMM Gameplay",
+	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
+
+	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 
 	"SettingsPanelSize" : "Panel Size",
 	"SettingsPanelOpacity" : "Interface Opacity",

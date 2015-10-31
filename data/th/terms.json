@@ -116,7 +116,8 @@
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
-	
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> by Mike Koenig",
+
 	"SettingsTitle" : "ตั้งค่า KC3Kai",
 	
 	"SettingsGlobal" : "ทั่วไป",
@@ -144,6 +145,7 @@
 	"SettingsYasenTroll" : "KC3Kai คอมเม้นโทรลล์",
 	"SettingsHQDelta" : "EXP ผู้การในการรบ",
 	"SettingsFleetStatus" : "สถานะเรือ",
+	"SettingsAutoExpedTab" : "เปิดใช้ Expedition Tab",
 	
 	"SettingsScreenshot" : "ถ่ายภาพหน้าจอ",
 	"SettingsSSOutput" : "Output Mode",
@@ -169,8 +171,9 @@
 	"SettingsIdleWarning" : "เตือนเวลาทิ้งหน้าจอ",
 	"SettingsHideCounter" : "ซ่อนการจับเวลา",
 	"SettingsShowCounter" : "โชว์การจับเวลา",
+	"SettingsTaihaAlert" : "เตือนเสียหายหนักมากเลือดสาด",
 	
-	"SettingsAPIGameScreen" : "API Game Screen",
+	"SettingsAPIGameScreen" : "หน้าจอเกม",
 	"SettingsQuestOverlay" : "แปลภาษาเควส",
 	"SettingsQuestTracking" : "ติดตามเควส",
 	"SettingsPanelRequirement" : "บังคับใช้แผงควบคุมในการเล่น",
@@ -186,13 +189,16 @@
 	"SettingsBGPositionDesc" : "See CSS background-position property",
 	"SettingsPlayerScale" : "Game Player Scale",
 	
-	"SettingsDMMGameplay" : "DMM Gameplay",
+	"SettingsDMMGameplay" : "ตั้งค่า DMM",
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
 	"SettingsDBSubmission" :"ส่งข้อมูลให้ Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "เปิดใช้งาน",
 	"SettingsDBSubmissionKey" : "Access key",
+	
+	"SettingsPoiDBSubmission" :"ส่งข้อมูลให้ poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "เปิดใช้งาน",
 	
 	"SettingsPanelSize" : "Panel Size",
 	"SettingsPanelOpacity" : "Interface Opacity",

@@ -1055,9 +1055,28 @@
     "626": {
         "code": "F23",
         "name": "ปรับกำลังพลฝูงบินรบชั้นสูง",
-        "desc": "F23: จัดเรือ โฮโช เป็นเรือธง ใส่ Type 21 Zero Fighter ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 21 Zero Fighter 2 ลำและ Type 96 Fighter 1 ลำ [แยกส่วนทีละลำ] เสียลูกเรือ 1 อัน"
+        "desc": "F23: จัดเรือ โฮโช เป็นเรือธง ใส่ Type 0 Fighter Model 21 ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 21 2 ลำและ Type 96 Fighter 1 ลำ เสียลูกเรือ 1 อัน"
     },
-    
+    "627": {
+	"code": "F24",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 21",
+	"desc": "F24: จัดเรือธงใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ"
+    },
+    "628": {
+	"code": "F25",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 21 อีกครั้ง",
+	"desc": "F25: จัดเรือธงใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ"
+    },
+    "629": {
+	"code": "F26",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52",
+	"desc": "F26: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 0 Fighter Model 52 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Zero Fighter Model 52C (601 Air Group)"
+    },
+    "630": {
+	"code": "F28",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52 (Iwamoto)",
+	"desc": "F28: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 21 2 ลำ"
+    },
     "160": {
         "code": "SN09",
         "name": "[อีเว้น์หน้าร้อน2015] จัดกองทัพเรือรบบรรทุกเครื่องบิน (กองเรือผสม)",

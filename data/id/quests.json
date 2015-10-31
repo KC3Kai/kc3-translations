@@ -254,6 +254,11 @@
         "name": "Kelola armada Ozawa",
         "desc": "Jadikan Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai di armada utama"
     },	
+     "167": {
+		"code": "A62",
+        "name": "Kelola Kapal Induk Divisi Baru",
+        "desc": "Miliki Zuikaku Kai Ni, Shoukaku Kai Ni dan 2 DD di armada"
+     },		     },
 	
 	
     "202": {
@@ -492,12 +497,12 @@
 	"293": {
 		"code": "B53",
         "name": "Kapal Induk divisi ke-3: Lindungi Pulau Nensei",
-        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL) dan Chiyoda(CVL) ke world 1-4 dan kalahkan boss"
+        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL) dan Chiyoda(CVL) tambahan (2 kapal lain) ke world 1-4 dan dapatkan S-Rank pada boss node"
     },
 	"294": {
 		"code": "B54",
         "name": "Sorti armada Ozawa",
-        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke 2-4 dan kalahkan boss"
+        "desc": "Sorti Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke world 2-4 dan dapatkan S-rank pada boss node"
     },
 	
 	"201": {
@@ -980,8 +985,43 @@
     "626": {
         "code": "F23",
         "name": "Kelola kembali skuad elit fighter",
-        "desc": "pasang Zero 21 Fighter rank(bintang) 7 ke Houshou, kemudian hancurkan 2 Zero 21 Fighter dan Type 96 Fighter"
+        "desc": "Jadikan Houshou kapal sekretaris dan miliki Skilled Crew Member ,pasang Zero 21 Fighter rank(bintang) 7 ke Houshou, lalu hancurkan 2 Zero 21 Fighter dan Type 96 Fighter"
     },
+    "627": {
+	"code": "F24",
+	"name": "Koneversi Model : Type 0 Fighter Model 21 (Skilled)",
+	"desc": "Gunakan Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+    "628": {
+	"code": "F25",
+	"name": "Konversi Model: Type 0 Fighter Model 21 (Skilled)",
+	"desc": "Gunakan Rank 7 Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+     "629": {
+	"code": "F26",
+	"name": "Kelola kembali Fighter Force: Type 0 Fighter Model 52 (Skilled)",
+	"desc": "Gunakan Rank 7 Type 0 Fighter Model 52 (Skilled) Pada Zuikaku sebagai sekretaris, kemudian hancurkan Zero Fighter Model 52C (601 Air Group)"
+	},
+     "630": {
+	"code": "F28",
+	"name": "Konversi Model & Kelola kembali: Zero Fighter Model 52C (w/ Iwai Flight)",
+	"desc": "Gunakan rank 7 Type 0 Fighter Model 21 (Skilled) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 21"
+	},
+     "631": {
+	"code": "F27",
+	"name": "Konversi Model & Kelola kembali: Zero Fighter Model 52C (w/ Iwai Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 52C (w/ Iwai Flight) pada Zuikaku sebagi sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 62 (Fighter-bomber)"
+	},
+     "632": {
+	"code": "F29",
+	"name": "Konversi Model : Zero Fighter Model 21 (w/ Iwamoto Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+     "633": {
+	"code": "F30",
+	"name": "Konversi Model & Keloa kembali: Zero Fighter Model 52A (w/ Iwamoto Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 52A (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Saiun"
+	},
     
 	
 	

@@ -254,6 +254,11 @@
         "name": "ปฏิบัติการกองเรือโอซาว่า",
         "desc": "A61: จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ ไค (Zuihou Kai), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ลงในกองเรือหลัก"
     },
+        "167": {
+	"code": "A62",
+        "name": "ปรับกำลังพลกองเรือบรรทุกเครื่องบินใหม่",
+        "desc": "A62: จัดเรือ ซุยคาคุ ไคนิ (Zuikaku Kai Ni), โชคาคุ ไคนิ (Shoukaku Kai Ni) และเรือพิฆาต (DD) 2 ลำ ลงในกองเรือหลัก"
+    },
     
     "202": {
         "name": "ออกรบครั้งแรก",
@@ -487,12 +492,12 @@
     "293": {
 	"code": "B53",
         "name": "ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 3 เกาะนันเซย์",
-        "desc": "B53: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสในด่าน 1-4"
+        "desc": "B53: จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL, จิโยดะ CVL และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4"
     },
     "294": {
 	"code": "B54",
         "name": "ปฏิบัติการกองเรือโอซาว่าออกรบ",
-        "desc": "B54: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ไปชนะบอสในด่าน 2-4"
+        "desc": "B54: จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ ไค (Zuihou Kai), จิโตเสะ CVL, จิโยดะ CVL, อิเสะ ไค, ฮิวงะ ไค ไปชนะบอสให้ได้ Rank S ในด่าน 2-4"
     },
 	
     "201": {
@@ -1050,9 +1055,43 @@
     "626": {
         "code": "F23",
         "name": "ปรับกำลังพลฝูงบินรบชั้นสูง",
-        "desc": "F23: จัดเรือ โฮโช เป็นเรือธง ใส่ Type 21 Zero Fighter ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 21 Zero Fighter 2 ลำและ Type 96 Fighter 1 ลำ [แยกส่วนทีละลำ] เสียลูกเรือ 1 อัน"
+        "desc": "F23: จัดเรือ โฮโช เป็นเรือธง ใส่ Type 0 Fighter Model 21 ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 21 2 ลำและ Type 96 Fighter 1 ลำ เสียลูกเรือ 1 อัน"
     },
-    
+    "627": {
+	"code": "F24",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 21",
+	"desc": "F24: จัดเรือธงใส่ Type 0 Fighter Model 21 (Skilled) [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ"
+    },
+    "628": {
+	"code": "F25",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 21 อีกครั้ง",
+	"desc": "F25: จัดเรือธงใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ"
+    },
+    "629": {
+	"code": "F26",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52",
+	"desc": "F26: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 0 Fighter Model 52 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Zero Fighter Model 52C (601 Air Group)"
+    },
+    "630": {
+	"code": "F28",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52 (Iwamoto)",
+	"desc": "F28: จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 21 2 ลำ"
+    },
+    "631": {
+	"code": "F27",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52C",
+	"desc": "จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Zero Fighter Model 52C (w/ Iwai Flight) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 62 (Fighter-bomber) 2 ลำ"
+    },
+    "632": {
+	"code": "F29",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 21 (Iwamoto)",
+	"desc": "จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Zero Fighter Model 21 (w/ Iwamoto Flight) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ"
+    },
+    "633": {
+	"code": "F30",
+	"name": "ปรับกำลังพลฝูงบิน Zero Fighter 52A",
+	"desc": "จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Zero Fighter Model 52A (w/ Iwamoto Flight) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Saiun 2 ลำ"
+    },
     "160": {
         "code": "SN09",
         "name": "[อีเว้น์หน้าร้อน2015] จัดกองทัพเรือรบบรรทุกเครื่องบิน (กองเรือผสม)",

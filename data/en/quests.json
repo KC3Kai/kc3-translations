@@ -253,9 +253,13 @@
 	"166": {
 		"code": "A61",
         "name": "Organize Ozawa's Fleet",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai and Hyuuga Kai in your main fleet"
+        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet"
     },
-    
+    "167": {
+		"code": "A62",
+        "name": "Organize the New Carrier Division",
+        "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet"
+    },
     
     
     "202": {
@@ -491,12 +495,12 @@
 	"293": {
 		"code": "B53",
         "name": "3rd Carrier Division: defend the Nansei Islands",
-        "desc": "Sortie Zuikaku as flagship, Zuihou, Chitose(CVL) and Chiyoda(CVL) to World 1-4 and defeat the boss"
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss"
     },
 	"294": {
 		"code": "B54",
         "name": "Sortie the Ozawa's fleet",
-        "desc": "Sortie Zuikaku as flagship, Zuihou, Chitose(CVL), Chiyoda(CVL), Ise Kai and Hyuuga Kai to World 2-4 and defeat the boss"
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai and Hyuuga Kai to 2-4 and S-rank the boss"
     },
 	
 	
@@ -971,16 +975,18 @@
         "name": "Preparation of the Prototype Equipment",
         "desc": "Scrap equipment 7 times"
     },
-	"625": {
-        "code": "F22",
-        "name": "Addition to Prototype Aviation Equipment",
-        "desc": "Scrap equipment 9 times"
+    "625": {
+    	"code": "F22",
+    	"name": "Addition to Prototype Aviation Equipment",
+    	"desc": "Scrap equipment 9 times"
     },
     "626": {
-        "code": "F23",
-        "name": "Reorganisation of the elite fighter squad",
-        "desc": "Equip a rank 7 Zero 21 Fighter on Houshou, then scrap 2 Zero 21 Fighter and a Type 96 Fighter"
+    	"code": "F23",
+    	"name": "Reorganisation of the elite fighter squad",
+    	"desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter"
     },
+    
+	
     
     "701": {
         "code": "G1",

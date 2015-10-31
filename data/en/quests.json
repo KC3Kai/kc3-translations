@@ -251,12 +251,12 @@
         "desc": "Have Ise Kai and Hyuuga Kai in your main fleet"
     },
 	"166": {
-		"code": "A61",
+	"code": "A61",
         "name": "Organize Ozawa's Fleet",
         "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet"
     },
     "167": {
-		"code": "A62",
+	"code": "A62",
         "name": "Organize the New Carrier Division",
         "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet"
     },
@@ -479,19 +479,6 @@
         "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
     },
 	
-    "290": {
-        "name": "Saury Fishing: Let's catch some sauries!",
-        "desc": "Defeat the enemy fleet positioned in the fisheries of Northern and Perimeter Zone and obtain 3 sauries!"
-    },
-    "291": {
-        "name": "Saury Fishing: We need to catch even more sauries!",
-        "desc": "It might be a bit tiring, but you have to secure the safety of the fisheries and get 10 sauries!"
-    },
-    "292": {
-        "name": "Saury Fishing: You can try even harder!",
-        "desc": "It will be really hard, but you can try to fish sauries even more diligently!"
-    },
-	
 	"293": {
 		"code": "B53",
         "name": "3rd Carrier Division: defend the Nansei Islands",
@@ -502,8 +489,9 @@
         "name": "Sortie the Ozawa's fleet",
         "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai and Hyuuga Kai to 2-4 and S-rank the boss"
     },
-	
-	
+    
+    
+    
     
     "201": {
         "code": "Bd1",
@@ -1049,72 +1037,5 @@
         "name": "Preparation for LSC (Part 1)",
         "desc": "Perform 4 successful modernizations"
     },
-    
-    
-    
-    "611": {
-        "name": "In Preparation of Love! (Part 1)",
-        "desc": "Scrap equipment 2 times to show your love!"
-    },
-    "306": {
-        "name": "In Preparation of Love (Part 2)",
-        "desc": "Show your love by getting 2 victories in practice mode."
-    },
-    
-    "280": {
-        "code": "SN01",
-        "name": "Second SN strategy, Initial Operations",
-        "desc": "Clear the Summer 2015 Event Map 2"
-    },
-    "620": {
-        "code": "SN02",
-        "name": "Tidying Up the Arsenal",
-        "desc": " Scrap Equipment 5 times"
-    },
-    "281": {
-        "code": "SN03",
-        "name": "Carry Out the Patrol for Main Force's Route",
-        "desc": "Sink 6 abyssal sumbarines"
-    },
-    "158": {
-        "code": "SN04",
-        "name": "Assign the Murata Squadron Torpedo Bomber to Akagi",
-        "desc": "Set Akagi as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron)"
-    },
-    "282": {
-        "code": "SN05",
-        "name": "Snatch Away the Air Superiority in the Solomon Sea Area",
-        "desc": "Clear the Summer 2015 Event Map 4"
-    },
-    "159": {
-        "code": "SN06",
-        "name": "Reassign the Murata Squadron Torpedo Bomber to Shoukaku",
-        "desc": "Set Shoukaku as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron)"
-    },
-    "310": {
-        "code": "SN07",
-        "name": "Naval Practice in Preparation for Operation FS",
-        "desc": "Get 4 victories in practice mode"
-    },
-    "621": {
-        "code": "SN08",
-        "name": "Model Conversion (Murata Squadron to Tenzan)",
-        "desc": "Have Shoukaku as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron), then scrap 2 Tenzan"
-    },
-    "160": {
-        "code": "SN09",
-        "name": "Organize the Third Fleet of the Carrier Task Force",
-        "desc": "Create a Carrier Task Force (Combined Fleet) containing Shoukaku, Zuikaku and Zuihou in the first fleet"
-    },
-    "284": {
-        "code": "SN10",
-        "name": "Establish a Bridgehead to Operation FS",
-        "desc": "Sink 10 Abyssal CV(L)"
-    },
-    "283": {
-        "code": "SN11",
-        "name": "Eastern Area Dispatch Fleet, Sortie!",
-        "desc": "Clear the Summer 2015 Event Map 5"
-    }
     
 }

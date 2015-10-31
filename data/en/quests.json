@@ -239,6 +239,22 @@
         "name": "Organize the 16th Squadron (First Generation)",
         "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet"
     },
+	
+	"164": {
+		"code": "A59",
+        "name": "Organize the 3rd Carrier Division",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL, not AV) in your main fleet"
+    },
+	"165": {
+		"code": "A60",
+        "name": "Organize the 4th Carrier Division",
+        "desc": "Have Ise Kai and Hyuuga Kai in your main fleet"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Organize Ozawa's Fleet",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai and Hyuuga Kai in your main fleet"
+    },
     
     
     
@@ -458,6 +474,7 @@
         "name": "Sortie the 16th Squadron (First Generation)",
         "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
     },
+	
     "290": {
         "name": "Saury Fishing: Let's catch some sauries!",
         "desc": "Defeat the enemy fleet positioned in the fisheries of Northern and Perimeter Zone and obtain 3 sauries!"
@@ -470,6 +487,19 @@
         "name": "Saury Fishing: You can try even harder!",
         "desc": "It will be really hard, but you can try to fish sauries even more diligently!"
     },
+	
+	"293": {
+		"code": "B53",
+        "name": "3rd Carrier Division: defend the Nansei Islands",
+        "desc": "Sortie Zuikaku as flagship, Zuihou, Chitose(CVL) and Chiyoda(CVL) to World 1-4 and defeat the boss"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Sortie the Ozawa's fleet",
+        "desc": "Sortie Zuikaku as flagship, Zuihou, Chitose(CVL), Chiyoda(CVL), Ise Kai and Hyuuga Kai to World 2-4 and defeat the boss"
+    },
+	
+	
     
     "201": {
         "code": "Bd1",
@@ -941,8 +971,16 @@
         "name": "Preparation of the Prototype Equipment",
         "desc": "Scrap equipment 7 times"
     },
-    
-    
+	"625": {
+        "code": "F22",
+        "name": "Addition to Prototype Aviation Equipment",
+        "desc": "Scrap equipment 9 times"
+    },
+    "626": {
+        "code": "F23",
+        "name": "Reorganisation of the elite fighter squad",
+        "desc": "Equip a rank 7 Zero 21 Fighter on Houshou, then scrap 2 Zero 21 Fighter and a Type 96 Fighter"
+    },
     
     "701": {
         "code": "G1",

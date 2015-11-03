@@ -26,32 +26,36 @@
     "MainScreenBGM": "母港背景音樂",
     "LevelUpNotice": "隨着艦隊司令部(提督)的等級上升，「資源自然回復上限」會被提升，可被開發的裝備數量也會增加。",
     "ImprovementMaterial": "改修資材",
-    "Experience": "提督經驗值",
-    "Name": "提督名",
+    "Experience": "經驗值",
+    "Name": "名稱",
 	
 	"MenuPlayAPIName" : "用API連結來玩",
-	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲",
+	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲。",
 	"MenuRefreshAPIName" : "更新API連結",
-	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結",
+	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結來進入遊戲。",
 	"MenuPlayDMMName" : "用DMM網頁來玩",
-	"MenuPlayDMMDesc" : "透過普通DMM網頁版來遊玩。百分百安全的選項。",
+	"MenuPlayDMMDesc" : "開啟DMM官網來遊玩。對於謹慎的玩家們，是絕對安全的選項。",
+	"MenuPlayDMMFName" : "用DMM面板來玩",
+	"MenuPlayDMMFDesc" : "使用KC3改的面板進入DMM的網站並擷取遊戲畫面。無需API。",
+	
 	"MenuCookiesName" : "啟用區域Cookies",
-	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁",
+	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁。",
 	"MenuStrategyName" : "策略研究室",
-	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能簡單地管理艦隊",
-	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
-	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
+	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能幫助管理艦隊。",
+	"MenuSettingsDesc" : "對各種功能進行設定。儲存後請重啟遊戲。",
+	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊。",
 
-	"MenuVersion" : "已安裝版本", 
+	"MenuVersion" : "使用版本", 
 	"MenuChangelog" : "（版本記錄）", 
-	"MenuUpdate" : "KC3改更新", 
- 	"MenuOnLatest" : "你在用的是最新版！",
+	"MenuUpdate" : "更新警告", 
+ 	"MenuOnLatest" : "最新版！",
 	"MenuScheduledNow" : "現已排程", 
- 	"MenuPvPReset" : "下次演習重設時間", 
-	"MenuQuestReset" : "下次任務重設時間", 
+ 	"MenuPvPReset" : "下次演習重設尚餘", 
+	"MenuQuestReset" : "下次任務重設尚餘", 
 	
 	
 	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection官網喔。離開前請注意：",
+	"GameDMMFrame" : "你將會被重新定向至艦隊Collection官網，並使用喔KC3改的面板啊。",
 	
 	"GameAPIRemoveTitle" : "移除API連結",
 	"GameAPIRemoveDesc" : "如要刪除本程式所記憶的API連結，特別是當有更新或者是Extra Operation重置時，你可以：",
@@ -104,6 +108,13 @@
 	"AboutReporters" : "經常出現的Git回報者們",
 	"AboutReporter" : "Git回報員",
 	
+	"AboutOtherSources" : "其他資料",
+	"AboutLicense" : "KC3改版權",
+	"AboutLicenseDisclaimer" : "下列文字是此KC3改版本的版權。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">  -官方最新版權-</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> <strong>简体中文</strong>的任务翻译",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">「心跳聲效」</a> 'by Mike Koenig'",
+	
 	"SettingsTitle" : "KC3改設定",
 	
 	"SettingsGlobal" : "整體設定",
@@ -129,8 +140,9 @@
 	"SettingsBattleData" : "戰鬥結果預覽",
 	"SettingsBossComp" : "敵主力艦隊編排",
 	"SettingsYasenTroll" : "KC3改給你吐槽",
-	"SettingsHQDelta" : "出擊時司令部經驗值增加量",
-	"SettingsFleetStatus" : "艦隊狀態總結",
+	"SettingsHQDelta" : "出擊時計算司令部經驗",
+	"SettingsFleetStatus" : "艦隊狀態",
+	"SettingsAutoExpedTab" : "自動開啟遠征面板",
 	
 	"SettingsScreenshot" : "螢幕截圖",
 	"SettingsSSOutput" : "輸出模式",
@@ -138,12 +150,14 @@
 	"SettingsSSImgur" : "上傳至Imgur",
 	"SettingsSSNewTab" : "在新分頁中顯示",
 	"SettingsSSFileType" : "檔案格式",
+	"SettingsSSDirectory" : "下載路徑",
 	
 	"SettingsAlerts" : "建造、入渠及遠征提示",
 	"SettingsTimeDiff" : "時間提前",
         "SettingsMoraleNotif" : "士氣提示",
         "SettingsMoraleValue" : "士氣最低值",
     	"SettingsSupplyRate" : "補給最低值",
+    	"SettingsSupplyExped" : "補給提示",
 	"SettingsSupplyBarLabel" : "格",
 	"SettingsSeconds" : "秒",
 	"SettingsSoundType" : "提示音效",
@@ -152,7 +166,7 @@
 	"SettingsCustomSound" : "自訂音效連結",
 	"SettingsDesktopNotif" : "桌面提示",
 	
-	"SettingsAPIGameScreen" : "API遊戲視窗",
+	"SettingsAPIGameScreen" : "遊戲視窗",
 	"SettingsQuestOverlay" : "翻譯任務",
 	"SettingsQuestTracking" : "追蹤任務",
 	"SettingsPanelRequirement" : "需要開啟面板",
@@ -170,7 +184,15 @@
 	
 	"SettingsDMMGameplay" : "DMM 遊戲視窗",
 	"SettingsDMMCustomize" : "套用自訂值",
-"SettingsDMMForceCookies" : "強制修改區域cookie",
+	"SettingsDMMForceCookies" : "強制修改區域cookie",
+
+	"SettingsDBSubmission" :"傳送資料至 艦これ統計データベース (http://kancolle-db.net/login.php)", 
+	"SettingsEnableDBSubmission" : "啟用此功能",
+	"SettingsDBSubmissionKey" : "存取碼",
+
+	"SettingsPoiDBSubmission" :"傳送資料至 poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "啟用此功能",
+
 	
 	"SettingsPanelSize" : "面板界面大小",
 	"SettingsPanelOpacity" : "面板界面不透明度",

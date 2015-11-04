@@ -44,6 +44,8 @@
 	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能幫助管理艦隊。",
 	"MenuSettingsDesc" : "對各種功能進行設定。儲存後請重啟遊戲。",
 	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊。",
+	"MenuFBName" : "來讚好KC3改吧!",
+	"MenuFBDesc" : "來支持我們，且接收我們的最新動向或公告!",
 
 	"MenuVersion" : "使用版本", 
 	"MenuChangelog" : "（版本記錄）", 
@@ -297,6 +299,11 @@
 	"PanelWaitActions" : "正在等待遊戲回應……",	
  
 	"PanelErrorStorage" : "閣下已在設定中關閉了Chrome的「允許網站儲存本機資料」功能。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。", 
+	
+	"Basic" : "一般",
+	"Battle" : "出擊",
+	"Exped" : "遠征",
+	"Activity" : "動態",
 	
  	"Dummy" : "Dummy"
 

@@ -300,10 +300,19 @@
  
 	"PanelErrorStorage" : "閣下已在設定中關閉了Chrome的「允許網站儲存本機資料」功能。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。", 
 	
-	"Basic" : "一般",
-	"Battle" : "出擊",
-	"Exped" : "遠征",
-	"Activity" : "動態",
+	"NatsuiroBasic" : "一般",
+	"NatsuiroBattle" : "出擊",
+	"NatsuiroExped" : "遠征",
+	"NatsuiroActivity" : "動態",
+	
+	"ExpedList" : "遠征 1",
+	"ExpedEstmTime" : "時間",
+	"ExpedIncome" : "收入",
+	"ExpedFSLv" : "旗艦等級:",
+	"ExpedShips" : "名艦娘",
+	"ExpedTotalLv" : "總等級",
+	"ExpedCanister" : "運輸桶在",
+	"ExpedCheckReq" : "符合要求?",
 	
  	"Dummy" : "Dummy"
 

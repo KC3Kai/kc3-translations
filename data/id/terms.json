@@ -47,6 +47,8 @@
 	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada.",
 	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya.",
 	"MenuAboutDesc" : "Informasi tentang KC3改 beserta para pengembang dan timnya.",
+	"MenuFBName" : "Like kami di Facebook!",
+	"MenuFBDesc" : "Dapatan informasi terbaru, pratinjau fitur, dan pengumuman!",
 	
 	"MenuVersion" : "Versi terpasang",
 	"MenuChangelog" : "(Daftar Perubahan)",
@@ -146,6 +148,7 @@
 	"SettingsHQDelta" : "Selisih HQ EXP saat Sorti",
 	"SettingsFleetStatus" : "Indikator Status Armada",
 	"SettingsAutoExpedTab" : "Auto-Open Tab Ekspedisi",	
+	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Hasil Screenshot",
 	"SettingsSSDownload" : "Unduh",
@@ -296,6 +299,21 @@
 	
 	"PanelWaitActions" : "Menunggu Game Dimulai...",
 	"PanelErrorStorage" : "Chrome localStorage dinonaktifkan di pengaturan anda. KC3改 memerlukan fitur tersebut. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Bagaimana cara mengaktifkannya.</a>.",
+	
+	"NatsuiroBasic" : "Awal",
+	"NatsuiroBattle" : "Tempur",
+	"NatsuiroExped" : "Exped",
+	"NatsuiroActivity" : "Aktivitas",
+	
+	"ExpedList" : "Expedisi #1",
+	"ExpedEstmTime" : "Perkiraan waktu",
+	"ExpedIncome" : "Laba Bersih",
+	"ExpedFSLv" : "Pemimpin: Level",
+	"ExpedFleet" : "Armada:",
+	"ExpedShips" : "kapal",
+	"ExpedTotalLv" : "Total LV",
+	"ExpedCanister" : "Canister pada",
+	"ExpedCheckReq" : "Cek persyaratan",
 
 	"Dummy" : "Dummy"
 }

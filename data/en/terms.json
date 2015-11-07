@@ -47,6 +47,8 @@
 	"MenuStrategyDesc" : "Various tools to help you analyze and strategize, or just manage your fleet",
 	"MenuSettingsDesc" : "Various extension confguration which applies on the next game session",
 	"MenuAboutDesc" : "Information on KC3改, and its teams of developers, writers and testers",
+	"MenuFBName" : "Like us on Facebook!",
+	"MenuFBDesc" : "Get latest release info, feature previews, and announcements!",
 	
 	"MenuVersion" : "Installed version",
 	"MenuChangelog" : "(Changelogs)",
@@ -297,6 +299,21 @@
 	
 	"PanelWaitActions" : "Waiting for game actions...",
 	"PanelErrorStorage" : "Your Chrome's localStorage is disabled on your settings. KC3改 needs this feature. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">See how to enable this</a>.",
+	
+	"NatsuiroBasic" : "Basic",
+	"NatsuiroBattle" : "Battle",
+	"NatsuiroExped" : "Exped",
+	"NatsuiroActivity" : "Activity",
+	
+	"ExpedList" : "Expedition #1",
+	"ExpedEstmTime" : "Estimated Time",
+	"ExpedIncome" : "Net Income",
+	"ExpedFSLv" : "Flagship:level",
+	"ExpedFleet" : "Fleet:",
+	"ExpedShips" : "ships",
+	"ExpedTotalLv" : "total lv",
+	"ExpedCanister" : "canisters on",
+	"ExpedCheckReq" : "Check requirements",
 	
 	"Dummy" : "Dummy"
 }

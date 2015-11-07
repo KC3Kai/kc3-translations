@@ -47,6 +47,8 @@
     "MenuStrategyDesc" : "这里有帮助你进行数据、战略分析和管理舰队的各种工具",
     "MenuSettingsDesc" : "调整各种选项，下次启动游戏时生效",
     "MenuAboutDesc" : "关于本辅助工具",
+    "MenuFBName" : "去Facebook支持KC3改！",
+    "MenuFBDesc" : "支持我们，了解最新动向和公告！",
 
     "MenuVersion" : "插件版本",
     "MenuChangelog" : "（更新历史）",
@@ -297,6 +299,21 @@
 
     "PanelWaitActions" : "正在等待游戏响应……",
     "PanelErrorStorage" : "Chrome本地存储（LocalStorage）功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",
+
+    "NatsuiroBasic" : "基本",
+    "NatsuiroBattle" : "战斗",
+    "NatsuiroExped" : "远征",
+    "NatsuiroActivity" : "动态",
+    
+    "ExpedList" : "Expedition #1",
+    "ExpedEstmTime" : "时间",
+    "ExpedIncome" : "净收入",
+    "ExpedFSLv" : "旗舰等级：",
+    "ExpedFleet" : "舰队：",
+    "ExpedShips" : "名舰娘",
+    "ExpedTotalLv" : "总等级",
+    "ExpedCanister" : "运输桶装备于",
+    "ExpedCheckReq" : "符合要求？",
 
     "Dummy" : "Dummy"
 }

@@ -26,32 +26,38 @@
     "MainScreenBGM": "母港背景音樂",
     "LevelUpNotice": "隨着艦隊司令部(提督)的等級上升，「資源自然回復上限」會被提升，可被開發的裝備數量也會增加。",
     "ImprovementMaterial": "改修資材",
-    "Experience": "提督經驗值",
-    "Name": "提督名",
+    "Experience": "經驗值",
+    "Name": "名稱",
 	
 	"MenuPlayAPIName" : "用API連結來玩",
-	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲",
+	"MenuPlayAPIDesc" : "透過前次使用的API連結或者人手輸入API連結來進入遊戲。",
 	"MenuRefreshAPIName" : "更新API連結",
-	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結",
+	"MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結來進入遊戲。",
 	"MenuPlayDMMName" : "用DMM網頁來玩",
-	"MenuPlayDMMDesc" : "透過普通DMM網頁版來遊玩。百分百安全的選項。",
+	"MenuPlayDMMDesc" : "開啟DMM官網來遊玩。對於謹慎的玩家們，是絕對安全的選項。",
+	"MenuPlayDMMFName" : "用DMM面板來玩",
+	"MenuPlayDMMFDesc" : "使用KC3改的面板進入DMM的網站並擷取遊戲畫面。無需API。",
+	
 	"MenuCookiesName" : "啟用區域Cookies",
-	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁",
+	"MenuCookiesDesc" : "碰到DMM的地區錯誤時使用。點選前請先選擇日文版DMM網頁。",
 	"MenuStrategyName" : "策略研究室",
-	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能簡單地管理艦隊",
-	"MenuSettingsDesc" : "對各種擴充功能進行設定。將在重啟遊戲時應用",
-	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊",
+	"MenuStrategyDesc" : "各種助你分析以及籌劃策略的工具，亦能幫助管理艦隊。",
+	"MenuSettingsDesc" : "對各種功能進行設定。儲存後請重啟遊戲。",
+	"MenuAboutDesc" : "有關KC3改以及其開發者、編撰者和測試者的資訊。",
+	"MenuFBName" : "來讚好KC3改吧!",
+	"MenuFBDesc" : "來支持我們，且接收我們的最新動向或公告!",
 
-	"MenuVersion" : "已安裝版本", 
+	"MenuVersion" : "使用版本", 
 	"MenuChangelog" : "（版本記錄）", 
-	"MenuUpdate" : "KC3改更新", 
- 	"MenuOnLatest" : "你在用的是最新版！",
+	"MenuUpdate" : "更新警告", 
+ 	"MenuOnLatest" : "最新版！",
 	"MenuScheduledNow" : "現已排程", 
- 	"MenuPvPReset" : "下次演習重設時間", 
-	"MenuQuestReset" : "下次任務重設時間", 
+ 	"MenuPvPReset" : "下次演習重設尚餘", 
+	"MenuQuestReset" : "下次任務重設尚餘", 
 	
 	
 	"GameDMMRedirect" : "你將會被重新定向至艦隊Collection官網喔。離開前請注意：",
+	"GameDMMFrame" : "你將會被重新定向至艦隊Collection官網，並使用KC3改的面板喔。",
 	
 	"GameAPIRemoveTitle" : "移除API連結",
 	"GameAPIRemoveDesc" : "如要刪除本程式所記憶的API連結，特別是當有更新或者是Extra Operation重置時，你可以：",
@@ -104,6 +110,13 @@
 	"AboutReporters" : "經常出現的Git回報者們",
 	"AboutReporter" : "Git回報員",
 	
+	"AboutOtherSources" : "其他資料",
+	"AboutLicense" : "KC3改版權",
+	"AboutLicenseDisclaimer" : "下列文字是此KC3改版本的版權。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">  -官方最新版權-</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> <strong>简体中文</strong>的任务翻译",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">「心跳聲效」</a> 'by Mike Koenig'",
+	
 	"SettingsTitle" : "KC3改設定",
 	
 	"SettingsGlobal" : "整體設定",
@@ -129,8 +142,9 @@
 	"SettingsBattleData" : "戰鬥結果預覽",
 	"SettingsBossComp" : "敵主力艦隊編排",
 	"SettingsYasenTroll" : "KC3改給你吐槽",
-	"SettingsHQDelta" : "出擊時司令部經驗值增加量",
-	"SettingsFleetStatus" : "艦隊狀態總結",
+	"SettingsHQDelta" : "出擊時計算司令部經驗",
+	"SettingsFleetStatus" : "艦隊狀態",
+	"SettingsAutoExpedTab" : "自動開啟遠征面板",
 	
 	"SettingsScreenshot" : "螢幕截圖",
 	"SettingsSSOutput" : "輸出模式",
@@ -138,12 +152,14 @@
 	"SettingsSSImgur" : "上傳至Imgur",
 	"SettingsSSNewTab" : "在新分頁中顯示",
 	"SettingsSSFileType" : "檔案格式",
+	"SettingsSSDirectory" : "下載路徑",
 	
 	"SettingsAlerts" : "建造、入渠及遠征提示",
 	"SettingsTimeDiff" : "時間提前",
         "SettingsMoraleNotif" : "士氣提示",
         "SettingsMoraleValue" : "士氣最低值",
     	"SettingsSupplyRate" : "補給最低值",
+    	"SettingsSupplyExped" : "補給提示",
 	"SettingsSupplyBarLabel" : "格",
 	"SettingsSeconds" : "秒",
 	"SettingsSoundType" : "提示音效",
@@ -151,8 +167,12 @@
 	"SettingsCustom" : "自訂音效",
 	"SettingsCustomSound" : "自訂音效連結",
 	"SettingsDesktopNotif" : "桌面提示",
+	"SettingsIdleWarning" : "待機時間",
+	"SettingsHideCounter" : "隱藏",
+	"SettingsShowCounter" : "顯示",
+	"SettingsTaihaAlert" : "「特別版」大破警告",
 	
-	"SettingsAPIGameScreen" : "API遊戲視窗",
+	"SettingsAPIGameScreen" : "遊戲視窗",
 	"SettingsQuestOverlay" : "翻譯任務",
 	"SettingsQuestTracking" : "追蹤任務",
 	"SettingsPanelRequirement" : "需要開啟面板",
@@ -170,7 +190,15 @@
 	
 	"SettingsDMMGameplay" : "DMM 遊戲視窗",
 	"SettingsDMMCustomize" : "套用自訂值",
-"SettingsDMMForceCookies" : "強制修改區域cookie",
+	"SettingsDMMForceCookies" : "強制修改區域cookie",
+
+	"SettingsDBSubmission" :"傳送資料至 艦これ統計データベース (http://kancolle-db.net/login.php)", 
+	"SettingsEnableDBSubmission" : "啟用此功能",
+	"SettingsDBSubmissionKey" : "存取碼",
+
+	"SettingsPoiDBSubmission" :"傳送資料至 poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "啟用此功能",
+
 	
 	"SettingsPanelSize" : "面板界面大小",
 	"SettingsPanelOpacity" : "面板界面不透明度",
@@ -199,13 +227,14 @@
  	"Saved" : "已儲存！",
  	
 	"UnwantedExit" : "提督！你真的確定要離開你的艦娘嗎？",
+	"UnwantedExitDMM" : "提督！你真的確定要離開你的艦娘嗎？",
 	"APIWaitToggle" : "請先載入KC3改面版",
 	"APIConcealExpl" : "鼠標移到這裡顯示API連結",
 
 	"SpeedFast" : "高速",
 	"SpeedSlow" : "低速",
 	
-	"HQText" : "提督等級",
+	"HQText" : "等級",
 	"HQExpAbbrev1" : "還需",
 	"HQExpAbbrev2" : "現時",
 	"HQExpAbbrev3" : "共有",
@@ -271,6 +300,21 @@
 	"PanelWaitActions" : "正在等待遊戲回應……",	
  
 	"PanelErrorStorage" : "閣下已在設定中關閉了Chrome的「允許網站儲存本機資料」功能。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。", 
+	
+	"NatsuiroBasic" : "一般",
+	"NatsuiroBattle" : "出擊",
+	"NatsuiroExped" : "遠征",
+	"NatsuiroActivity" : "動態",
+	
+	"ExpedList" : "遠征 1",
+	"ExpedEstmTime" : "時間",
+	"ExpedIncome" : "收入",
+	"ExpedFSLv" : "旗艦等級:",
+	"ExpedFleet" : "艦隊:",
+	"ExpedShips" : "名艦娘",
+	"ExpedTotalLv" : "總等級",
+	"ExpedCanister" : "運輸桶在",
+	"ExpedCheckReq" : "符合要求?",
 	
  	"Dummy" : "Dummy"
 

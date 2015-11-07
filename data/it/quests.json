@@ -239,6 +239,26 @@
         "name": "Organizza il Sedicesimo Squadrone (Prima Generazione)",
         "desc": "Schiera Ashigara come ammiraglia con Kuma e Nagara nella tua flotta principale"
     },
+    "164": {
+	"code": "A59",
+        "name": "Organizza la Terza Divisione Portaerei",
+        "desc": "Seleziona Zuikaku Kai come ammiraglia, Zuihou, Chitose e Chiyoda (versione CVL non AV) nella tua flotta principale"
+    },
+    "165": {
+	"code": "A60",
+        "name": "Organizza la Quarta Divisione Portaerei",
+        "desc": "Inserisci Ise Kai e Hyuuga Kai nella tua flotta principale"
+    },
+    "166": {
+	"code": "A61",
+        "name": "Organizza la Flotta di Ozawa",
+        "desc": "Seleziona Zuikaku Kai come ammiraglia, Zuihou Kai, Chitose e Chiyoda (CVL), Ise Kai e Hyuuga Kai nella tua flotta principale"
+    },
+    "167": {
+	"code": "A62",
+        "name": "Organizza la Nuova Divisione POrtaerei",
+        "desc": "Seleziona Zuikaku Kai Ni, Shoukaku Kai Ni e due Cacciatorpedinieri (DD) nella tua flotta principale"
+    },
 
 
 
@@ -469,6 +489,16 @@
     "292": {
         "name": "A Pesca: dacci dentro!",
         "desc": "Sarà davvero difficile, ma puoi tentare di impegnarti per pescare altri lucci!"
+    },
+    "293": {
+	"code": "B53",
+        "name": "Terza Divisione Portaerei: difendete le isole Nansei",
+        "desc": "Schiera Zuikaku Kai come ammiraglia, Zuihou, Chitose e Chiyoda (entrambe CVL) (più altre due navi) nel mondo 1-4 e vinci col grado S contro il Boss"
+    },
+    "294": {
+	"code": "B54",
+        "name": "Schiera la Flotta di Ozawa",
+        "desc": "Schiera Zuikaku Kai come ammiraglia, Zuihou Kai, Chitose e Chiyoda (entrambe CVL), Ise Kai e Hyuuga Kai nel mondo 2-4 e vinci col grado S contro il Boss"
     },
 
 
@@ -944,6 +974,51 @@
         "code": "F21",
         "name": "Preparativi per il Prototipo di Equipaggiamento",
         "desc": "Rottama 7 volte un equipaggiamento"
+    },
+    "625": {
+    	"code": "F22",
+    	"name": "Aggiunta al Prototipo di Equipaggiamento d'Aviazione",
+    	"desc": "Rottama un equipaggiamento 9 volte"
+    },
+    "626": {
+    	"code": "F23",
+    	"name": "Riorganizzazione della squadra di élite dei caccia",
+    	"desc": "Acquisisci un Membro dell'Equipaggio Abile, equipaggia un Caccia Zero Modello 21 su Houshou Segretaria, poi rottama due volte un Caccia Zero Modello 21 e un solo Caccia Modello 96"
+    },
+    "627": {
+        "code": "F24",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) su una Portaerei Segretaria, poi rottama 2 volte un Caccia Zero Modello 52"
+    },
+    "628": {
+        "code": "F25",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) di grado 7 su una Portaerei Segretaria, poi rottama 2 volte un Caccia Zero Modello 52"
+    },
+    "629": {
+        "code": "F26",
+        "name": "Riorganizza le Forze Combattenti: Caccia Zero Modello 52 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Zero Modello 52 (Abile) di grado 7 su Zuikaku segretaria, poi rottama un Caccia Zero Modello 52C (Gruppo Aereo 601)"
+    },
+    "630": {
+        "code": "F28",
+        "name": "Riorganizzazione e Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) di grado 7 su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 21"
+    },
+    "631": {
+        "code": "F27",
+        "name": "Riorganizzazione e Conversione Modello: Caccia Zero Modello 52C (Squadriglia Iwai)",
+        "desc": "Equipaggia un Caccia Zero Modello 52C (Squadriglia Iwai) di grado 7 su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 62 (Cacciabombardiere)"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Squadriglia Iwamoto)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Squadriglia Iwamoto) su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 52"
+    },
+    "633": {
+        "code": "F30",
+        "name": "Riorganizzazione e Conversione Modello: Caccia Zero Modello 52A (Squadriglia Iwamoto)",
+        "desc": "Equipaggia un Caccia Zero Modello 52A (Squadriglia Iwamoto) di grado 7 su Zuikaku segretaria, poi rottama due volte un Saiun"
     },
 
 

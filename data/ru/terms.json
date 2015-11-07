@@ -41,6 +41,8 @@
     "MenuStrategyDesc" : "Инструменты для анализа, планирования и менеджмента флота",
     "MenuSettingsDesc" : "Настройки расширения. Вступают в силу после запуска новой сессии",
     "MenuAboutDesc" : "Информация по KC3改, команде разработчиков и тестерах",
+    "MenuPlayDMMFName" : "Играть на DMM во фрейме",
+	"MenuPlayDMMFDesc" : "Страница игры наDMM на странице KC3改",
 
     "MenuVersion" : "Версия",
     "MenuChangelog" : "(список изменений)",
@@ -50,7 +52,8 @@
     "MenuPvPReset" : "Обновление PvP",
     "MenuQuestReset" : "Обновление заданий",
 
-    "DMMNotice" : "Вы будете перенаправлены на страницу игры на DMM",
+    "GameDMMRedirect" : "Вы будете перенаправлены на страницу игры на DMM",
+    "GameDMMFrame" : "Эта опция открывает страницу DMM KanColle в iFrame",
 
     "GameAPIRemoveTitle" : "Удалить API-ссылку",
     "GameAPIRemoveDesc" : "В случае, если вы хотите удалить сохраненную расширением API-ссылку:",

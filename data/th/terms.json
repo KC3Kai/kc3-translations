@@ -47,15 +47,17 @@
 	"MenuStrategyDesc" : "ห้องผู้การมีข้อมูลต่าง ๆ และระบบเสริมมากมายให้ใช้งาน",
 	"MenuSettingsDesc" : "ตั้งค่า (การตั้งค่าจะมีผลเมื่อเปิดใหม่อีกครั้ง)",
 	"MenuAboutDesc" : "ข้อมูลจากทีมงานและผู้ดูแล KC3Kai",
+	"MenuFBName" : "แฟนเพจ KC3Kai Facebook!",
+	"MenuFBDesc" : "ติดตามข้อมูลข่าวสาร ประกาศ และการอัพเดทได้ที่แฟนเพจ KC3Kai!",
 	
-	"MenuVersion" : "เวอร์ชั่นที่ติดตั้ง",
-	"MenuChangelog" : "(การเปลี่ยนแปลง)",
+	"MenuVersion" : "เวอร์ชั่นปัจจุบัน",
+	"MenuChangelog" : "(รายการอัพเดท)",
 	"MenuUpdate" : "KC3Kai อัพเดท",
-	"MenuOnLatest" : "อัพเดทล่าสุดแล้ว",
-	"MenuScheduledNow" : "เริ่มตารางการอัพเดท",
-	"MenuPvPReset" : "เวลา PVP รีเซ็ต",
-	"MenuQuestReset" : "เวลาเควสรีเซ็ต",
-	
+	"MenuOnLatest" : "เวอร์ชั่นล่าสุดแล้ว",
+	"MenuScheduledNow" : "เริ่มกำหนดการอัพเดท",
+	"MenuPvPReset" : "ทีม PVP จะรีเซ็ตในอีก",
+	"MenuQuestReset" : "เควสจะรีเซ็ตในอีก",
+
 	"GameDMMRedirect" : "คุณกำลังจะถูกส่งเข้าไปเล่นโดยตรงผ่านเว็บ DMM",
 	"GameDMMFrame" : "ระบบจะทำการเปิดเว็บ DMM ผ่านทาง iFrame",
 	
@@ -297,6 +299,21 @@
 	
 	"PanelWaitActions" : "กำลังโหลดข้อมูลเกมเข้า KC3Kai",
 	"PanelErrorStorage" : "บาวเซอร์ Chrome ของคุณได้ปิดกั้นการทำงานภายใน localStorage บางส่วนไว้  KC3Kai ต้องการให้คุณเปิดใช้งานในส่วนนี้เพื่อให้ทำงานได้ <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\"> คลิกที่นี้เพื่อดูวิธีการเปิดใช้งานคุกกี้</a>",
+	
+	"NatsuiroBasic" : "Basic",
+	"NatsuiroBattle" : "Battle",
+	"NatsuiroExped" : "Exped",
+	"NatsuiroActivity" : "Activity",
+	
+	"ExpedList" : "สำรวจ #1",
+	"ExpedEstmTime" : "ระยะเวลา",
+	"ExpedIncome" : "ได้ทรัพย์รวม",
+	"ExpedFSLv" : "เรือธง:เลเวล",
+	"ExpedFleet" : "กองเรือ:",
+	"ExpedShips" : "ลำ",
+	"ExpedTotalLv" : "เลเวลรวม",
+	"ExpedCanister" : "ใส่ถัง",
+	"ExpedCheckReq" : "เช็คเงื่อนไข",
 	
 	"Dummy" : "Dummy"
 }

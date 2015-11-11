@@ -47,6 +47,8 @@
     "MenuStrategyDesc" : "Vari strumenti per aiutarti nell'analisi e nella gestione strategica delle tue flotte",
     "MenuSettingsDesc" : "Configura l'estensione (modifiche applicate al prossimo riavvio del gioco)",
     "MenuAboutDesc" : "Informazioni su KC3改 e sul suo team di sviluppatori, autori e tester",
+    "MenuFBName" : "Metti Mi Piace su Facebook!",
+    "MenuFBDesc" : "Per annunci, anticipazioni e info sulle prossime release!",
 
     "MenuVersion" : "Versione installata",
     "MenuChangelog" : "(Changelog)",
@@ -296,5 +298,20 @@
     "StrategyEvents1HP" : "Ultima Kill!",
 
     "PanelWaitActions" : "In attesa di azioni di gioco...",
-    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>."
+    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>.",
+    
+    "NatsuiroBasic" : "Base",
+    "NatsuiroBattle" : "Batt.",
+    "NatsuiroExped" : "Sped.",
+    "NatsuiroActivity" : "Attività",
+    
+    "Expedition #1" : "Spedizione #1",
+    "ExpedEstmTime" : "Tempo Previsto",
+    "ExpedIncome" : "Guadagno Netto",
+    "ExpedFSLv" : "Ammiraglia:livello",
+    "ExpedFleet" : "Flotta:",
+    "ExpedShips" : "Navi",
+    "ExpedTotalLv" : "Livello tot.",
+    "ExpedCanister" : "Fusti",
+    "ExpedCheckReq" : "Controllo Requisiti"
 }

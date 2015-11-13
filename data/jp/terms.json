@@ -276,5 +276,21 @@
 
 	"PanelWaitActions" : "ゲームで母港を表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">を参照して有効にしてください。</a>.",
-
-	"Dummy" : "ダミー"}
+	
+	"NatsuiroBasic" : "概要",
+	"NatsuiroBattle" : "戦闘",
+	"NatsuiroExped" : "遠征",
+	"NatsuiroActivity" : "活動",
+	
+	"Expedition #1" : "Expedition #1",
+	"ExpedEstmTime" : "Estimated Time",
+	"ExpedIncome" : "Net Income",
+	"ExpedFSLv" : "Flagship:level",
+	"ExpedFleet" : "Fleet:",
+	"ExpedShips" : "ships",
+	"ExpedTotalLv" : "total lv",
+	"ExpedCanister" : "canisters on",
+	"ExpedCheckReq" : "Check requirements",
+	
+	"Dummy" : "ダミー"
+}

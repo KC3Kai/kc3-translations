@@ -42,7 +42,9 @@
     "MenuSettingsDesc" : "Настройки расширения. Вступают в силу после запуска новой сессии",
     "MenuAboutDesc" : "Информация по KC3改, команде разработчиков и тестерах",
     "MenuPlayDMMFName" : "Играть на DMM во фрейме",
-	"MenuPlayDMMFDesc" : "Страница игры наDMM на странице KC3改",
+	"MenuPlayDMMFDesc" : "Страница игры на DMM на странице KC3改",
+	"MenuFBName" : "Мы на Facebook!",
+	"MenuFBDesc" : "Инфо по последним релизам и новым функциям, а также другие анонсы!",
 
     "MenuVersion" : "Версия",
     "MenuChangelog" : "(список изменений)",
@@ -106,6 +108,13 @@
     "AboutFairy" : "Дизайнер фей",
     "AboutReporters" : "Текущие Git-репортёры",
     "AboutReporter" : "Git-репортёр",
+    
+    	"AboutOtherSources" : "Другие источники",
+	"AboutLicense" : "Лицензия",
+	"AboutLicenseDisclaimer" : "Текст ниже является свежей копией файла LICENSE этой установленной версии. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Файл LICENSE в репозитории с официальным контентом.</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> за перевод квестов на <strong>упрощённый китайский</strong>",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Звук удара сердца</a> от Mike Koenig",
 	
     "SettingsTitle" : "Настройки KC3改",
     
@@ -122,6 +131,7 @@
     "SettingsTimerDisplayType" : "Тип таймера",
     "SettingsTimeRemaining" : "Относительный",
     "SettingsTimeFinished" : "Абсолютный",
+    "SettingsCheckLiveQuests" : "Новые переводы квестов",
 	
     "SettingsGameInfo" : "Отображать игровую информацию",
     "SettingsDropFaces" : "Дроп",
@@ -134,6 +144,7 @@
     "SettingsYasenTroll" : "\u0022Режим тролля\u0022",
     "SettingsHQDelta" : "Прирост HQ",
     "SettingsFleetStatus" : "Сводка состояния флота",
+    "SettingsAutoExpedTab" : "Вкладка экспедиций",
     
     "SettingsScreenshot" : "Снимки экрана",
     "SettingsSSOutput" : "Вывод",
@@ -141,6 +152,7 @@
     "SettingsSSImgur" : "Imgur",
     "SettingsSSNewTab" : "В новой вкладке",
     "SettingsSSFileType" : "Тип файла",
+    "SettingsSSDirectory" : "Скачать подпапку",
 	
     "SettingsAlerts" : "Уведомления",
     "SettingsTimeDiff" : "Задержка таймера",
@@ -178,6 +190,16 @@
     "SettingsPanelSize" : "Размер панели",
     "SettingsPanelOpacity" : "Непрозрачность",
     "SettingsGearHolder" : "Цвет фона в слотах",
+	
+	"SettingsDBSubmission" :"Отправка данных на Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsEnableDBSubmission" : "Включить функцию",
+	"SettingsDBSubmissionKey" : "Ключ доступа",
+
+	"SettingsPoiDBSubmission" :"Отправка данных на poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Включить функцию",
+	
+	"SettingsKC3DBSubmission" :"Отправка данных KC3改 (http://kc3.jetri.co)",
+	"SettingsEnableKC3DBSubmission" : "Включить и помочь",
    
     "SettingsLegacyPanel" : "Панель: классическая тема",
    
@@ -202,6 +224,7 @@
     "Saved" : "Сохранено!",
 	
     "UnwantedExit" : "Эй! Ты бросаешь своих девочек! Неужели ты сделаешь это?",
+    "UnwantedExitDMM" : "Ты покидаешь эту страницу и своих девочек! Хотя, если это перезагрузка, тогда всё хорошо и кошачьей бомбы тебе не видать, а к API-ссылкам это не относится!",
     "APIWaitToggle" : "Сперва откройте Адмиральскую панель",
     "APIConcealExpl" : "Наведите курсор, чтобы показать API-ссылку",
 

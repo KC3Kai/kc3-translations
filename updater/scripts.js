@@ -23,7 +23,7 @@
 				url: "https://raw.githubusercontent.com/KC3Kai/kc3-translations/master/data/"+$("#lang_code").val()+"/terms.json",
 			}).responseText);
 			
-			
+			NEW_JSON = {};
 			NEW_JSON = $.extend(true, EN_JSON, XX_JSON);
 			
 			console.log(EN_JSON, XX_JSON, NEW_JSON);

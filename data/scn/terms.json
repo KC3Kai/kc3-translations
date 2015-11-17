@@ -135,6 +135,7 @@
     "SettingsTimerDisplayType" : "计时器显示模式",
     "SettingsTimeRemaining" : "剩余时间",
     "SettingsTimeFinished" : "已经过时间",
+	"SettingsCheckLiveQuests" : "自动检查新任务的翻译",
 
     "SettingsGameInfo" : "游戏信息",
     "SettingsDropFaces" : "剧透出击掉落",
@@ -201,6 +202,9 @@
 
     "SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
     "SettingsEnablePoiDBSubmission" : "启用功能",
+	
+	"SettingsKC3DBSubmission" :"相 KC3改 (http://kc3.jetri.co) 发送数据",
+	"SettingsEnableKC3DBSubmission" : "启用功能",
 
     "SettingsPanelSize" : "面板尺寸",
     "SettingsPanelOpacity" : "界面不透明度 (opacity)",
@@ -316,4 +320,6 @@
     "ExpedCheckReq" : "符合要求？",
 
     "Dummy" : "Dummy"
+   
+   
 }

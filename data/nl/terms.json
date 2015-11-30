@@ -47,6 +47,8 @@
 	"MenuStrategyDesc" : "Verschillende tools om je te helpen te analyzeren en een strategie samen te stellen, of gewoon je vloot te beheren",
 	"MenuSettingsDesc" : "Verschillende extensie instellingen voor de volgende speel sessie",
 	"MenuAboutDesc" : "Informatie over KC3改, en het team van ontwikkelaars, schrijvers en testers",
+	"MenuFBName" : "Like ons op Facebook!",
+	"MenuFBDesc" : "Krijg info over de nieuwse versie, functie previews, en aankondigingen!",
 	
 	"MenuVersion" : "Geinstalleerde versie",
 	"MenuChangelog" : "(Changelogs)",
@@ -116,7 +118,6 @@
 	"AboutLicenseDisclaimer" : "De tekst hieronder vertegenwoordigt de laatste kopie van het licentie bestand van deze geïnstalleerde versie. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Zie het Licentie bestand in de Opslag voor de laatste officiele inhoud.</a>",
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Voor <strong>Vereenvoudigde Chinese</strong> missie vertalingen",
-	
 	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hartslag Sound Effect</a> Door Mike Koenig",
 	
 	"SettingsTitle" : "KC3改 Instellingen",
@@ -134,6 +135,7 @@
 	"SettingsTimerDisplayType" : "Timer Weergave Type",
 	"SettingsTimeRemaining" : "Benodigt",
 	"SettingsTimeFinished" : "Voltooid",
+	"SettingsCheckLiveQuests" : "Check voor nieuwe Quest TLs",
 	
 	"SettingsGameInfo" : "Spel Informatie",
 	"SettingsDropFaces" : "Gevechts drop gezichten",
@@ -201,6 +203,10 @@
 	"SettingsPoiDBSubmission" :"Stuur data naar poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Deze functie inschakelen",
 
+	
+	"SettingsKC3DBSubmission" :"Stuur data naar KC3改 (http://kc3.jetri.co)",
+	"SettingsEnableKC3DBSubmission" : "Schakel in en help ons",
+	
 	"SettingsPanelSize" : "Paneel Grootte",
 	"SettingsPanelOpacity" : "Interface Doorzichtigheid",
 	"SettingsGearHolder" : "Tandwiel Achtergrond Kleur",
@@ -299,5 +305,22 @@
 	"PanelWaitActions" : "Wachten op spel interactie...",
 	"PanelErrorStorage" : "Jouw Chrome's lokale opslag is uitgeschakeld in de instellingen. Voor KC3改  is de lokale opslag benodigt, kijk op <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\"> hoe je dit aan kan zetten</a>.",
 	
+	"NatsuiroBasic" : "Basis",
+	"NatsuiroBattle" : "Gevecht",
+	"NatsuiroExped" : "Exped",
+	"NatsuiroActivity" : "activiteit",
+	
+	"ExpedNumLabel" : "expeditie #",
+	"ExpedEstmTime" : "Geschatte Tijd",
+	"ExpedIncome" : "Net Inkomsten",
+	"ExpedFSLv" : "Vlaggenschip: Level ",
+	"ExpedFleet" : "Vloot: ",
+	"ExpedShips" : " schepen",
+	"ExpedTotalLv" : "totaal Lv",
+	"ExpedCanister" : "Tonnen op",
+	"ExpedCheckReq" : "Check vereisten",
+	
 	"Dummy" : "Dummy"
+
+	
 }

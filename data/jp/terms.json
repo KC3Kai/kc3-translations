@@ -242,8 +242,12 @@
 	"PanelHighestAkashi" : "最大の明石修理の時間",
 
 	"PanelHasTaiha" : "大破",
+	"PanelFSTaiha" : "第1艦隊旗艦",
+	"PanelEscortChuuha" : "第2艦隊旗艦",
 	"PanelNoTaiha" : "HP良好",
 	"PanelSupplied" : "補給満タン",
+	"PanelUnderSupplied" : "補給が必要",
+	"PanelEmptySupply" : "出撃不可能",
 	"PanelNotSupplied" : "補給が必要",
 	"PanelGreatMorale" : "キラ状態",
 	"PanelGoodMorale" : "通常状態",
@@ -273,6 +277,21 @@
 
 	"PanelWaitActions" : "Game startボタンを押し、または母港を表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">を参照して有効にしてください。</a>.",
+
+	"NatsuiroBasic" : "概要",
+	"NatsuiroBattle" : "戦闘",
+	"NatsuiroExped" : "遠征",
+	"NatsuiroActivity" : "活動",
+	
+	"Expedition #1" : "Expedition #1",
+	"ExpedEstmTime" : "Estimated Time",
+	"ExpedIncome" : "Net Income",
+	"ExpedFSLv" : "Flagship:level",
+	"ExpedFleet" : "Fleet:",
+	"ExpedShips" : "ships",
+	"ExpedTotalLv" : "total lv",
+	"ExpedCanister" : "canisters on",
+	"ExpedCheckReq" : "Check requirements",
 
 	"Dummy" : "ダミー"
 }

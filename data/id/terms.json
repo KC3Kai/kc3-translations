@@ -77,7 +77,8 @@
 	"GameAPIRemindDesc" : "Harap tidak menggunakan KC3改 jika anda belum lolos tahap <i>lottery</i>. KC3改 menganggap akun anda sedang login saat mengekstrak API Link yang dapat dimainkan. Setelah anda bergabung pada salah satu server, anda masih harus memasukkan nama admiral sebelum dapat menggunakan API Link.",
 	"GameAPIAltTitle" : "Alternatif",
 	"GameAPIAltDesc" : "Jika anda ingin bermain langsung pada portal DMM, anda dapat menggunakan <img src=\"../popup/img/dmm.png\" /> <strong>Bermain via Portal DMM</strong> pada <img src=\"../../assets/img/logo/16.png\" /> <strong>Menu KC3改</strong> yang juga mendukung fasilitas panel <kbd class=\"light\">F12</kbd> dengan mekanisme yang sama dengan API Link.",
-	
+	"GameAPIExpiredAlert" : "Yha harus refresh API Link",
+	"GameAPIExpiredExplanation" : "KC3改 mendeteksi bahwa API Link yang anda gunakan sudah terbiarkan selama 20 menit atau sudah sempat digunakan dalam rentang waktu tersebut. Ini juga dilakukan bagi <abbr title=\"termasuk yang nerjemahin ini\">kalian</abbr> yang ingin mengakses langsung halaman ini tanpa menggunakan prosedur yang sebelumnya disarankan.<br>Oh iya, untuk refresh API Link sendiri bisa melalui prosedur yang biasa anda lakukan sebelumnya atau tombol yang ada dibawah ini... lihat kan? Iya ada dibawah ini kok, bukan cuman nomor telepon interaktif biar kita bisa dihubungi juga.",
 	
 	"GameStartDashTitle" : "Untuk memulai game dengan Admiral Dashboard",
 	"GameStartDashDesc" : "Untuk memulai game dan menerima informasi penting HQ dan status armada, silahkan buka Admiral Dashboard. Ini akan memberikan anda informasi seperti Peringkat HQ, Tempat Kapal, LoS Equipment, Kekuatan Air Fighter, Kecepatan Armada, Moral, dll. Anda dapat mengaktifkannya dengan:",
@@ -145,6 +146,7 @@
 	"SettingsBattleData" : "Prediksi Pertempuran",
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
+	"SettingsSaltyShip" : "Rehabilitasi Garam KC3改",
 	"SettingsYasenTroll" : "Komentar Hiburan KC3改",
 	"SettingsHQDelta" : "Selisih HQ EXP saat Sorti",
 	"SettingsFleetStatus" : "Indikator Status Armada",
@@ -319,6 +321,48 @@
 	"ExpedTotalLv" : "Total Lv",
 	"ExpedCanister" : "Canister pada ",
 	"ExpedCheckReq" : "Cek persyaratan",
-
+	
+	"LodgerPageStepRw"  : "Balik 1 langkah",
+	"LodgerPageStepFw"  : "Maju 1 langkah",
+	"LodgerPageRefresh" : "Lihat perubahan",
+	
+	"LodgerTimeWhole"   : "Semua",
+	"LodgerTimeDaily"   : "Harian",
+	"LodgerTimeWeekly"  : "Mingguan",
+	"LodgerTimeMonthly" : "Bulan2an",
+	"LodgerTimeYearly"  : "Tahunan",
+	"LodgerLabel"  : "Menampilkan derajat perubahan bahan baku dari %DATE1 hingga %DATE2",
+	
+	"LodgerSortie" : "Sortie",
+	"LodgerPvp"    : "Latihan",
+	"LodgerExped"  : "#Bolang",
+	"LodgerQuest"  : "Tugas",
+	"LodgerAkashi" : "mb Akashi",
+	"LodgerRegen"  : "Resomu ngalir",
+	"LodgerUseitem": "Barang",
+	
+	"LodgerCrship" : "Pembangunan",
+	"LodgerCritem" : "Pengembangan",
+	"LodgerDsship" : "Peleburan",
+	"LodgerDsitem" : "Pemilahan",
+	"LodgerRemodel": "Evolusi!",
+	"LodgerRmditem": "Pemutakhiran",
+	"Lodgeroverall": "Nilai Rerata",
+	
+	"LodgeRatingOK0" : "Ku tak tau ingin melakukan apa",
+	"LodgeRatingOK1" : "Dapat sedikitpun sudah senang",
+	"LodgeRatingOK2" : "Apalah daku ini _(:3",
+	"LodgeRatingOK3" : "Udah cukup nih buat khilaf",
+	"LodgeRatingOK4" : "Buset, deres juga ini... gw gak nyangka",
+	"LodgeRatingOK5" : "Kapan lagi daku bisa mendapatkan barang sebanyak ini... kapan..... KAPAN ;w;)!",
+	"LodgeRatingNG1" : "Yha masih dikit lah",
+	"LodgeRatingNG2" : "Tak lama kemudian menjadi bukit...",
+	"LodgeRatingNG3" : "Pasti ini abis dari Recettear...",
+	"LodgeRatingNG4" : "Tanaka pun curiga pada dirimu nak.",
+	"LodgeRatingNG5" : "Astaga nak, boros itu gak baik lho!",
+	
+	"MasterShipSaltCheck" : "#TeamGakBurem",
+	"MasterShipSaltUnCheck" : "#TeamBurem",
+	
 	"Dummy" : "Dummy"
 }

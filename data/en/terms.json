@@ -77,7 +77,8 @@
 	"GameAPIRemindDesc" : "Do not use KC3改 while you have not yet passed through the lottery process. This viewer assumes that the account being logged-in while extracting API Links is already playable. Once you have joined a server, you will also need to input your admiral name while not in API link.",
 	"GameAPIAltTitle" : "Alternatives",
 	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
-	
+	"GameAPIExpiredAlert" : "Your current API session has been expired",
+	"GameAPIExpiredExplanation" : "KC3改 detects that your current API link either have been requested about 20 minutes ago or it have been used previously. Also, to make sure that you didn't access this tab directly with expired API link.<br>You may need to refresh your current API either via Popup menu or this button...",
 	
 	"GameStartDashTitle" : "To start the game with Admiral Dashboard",
 	"GameStartDashDesc" : "To start your game and get critical information on your HQ and fleet statuses, you can open the Admiral Dashboard. This will show you information such as HQ Rank, Ship slots, Equipment LoS, Air Fighter Power, Fleet Speed, Morale, etc. You may activate this via:",
@@ -145,6 +146,7 @@
 	"SettingsBattleData" : "Ending HP Prediction",
 	"SettingsBattleStamp" : "Ship Condition Stamps",
 	"SettingsBossComp" : "Boss Composition",
+	"SettingsSaltyShip" : "KC3改 Salt Treatment",
 	"SettingsYasenTroll" : "KC3改 Troll Comments",
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
@@ -319,6 +321,48 @@
 	"ExpedTotalLv" : "total Lv",
 	"ExpedCanister" : "canisters on ",
 	"ExpedCheckReq" : "Check requirements",
+	
+	"LodgerPageStepRw"  : "Prev 1 step",
+	"LodgerPageStepFw"  : "Next 1 step",
+	"LodgerPageRefresh" : "Apply Changes",
+	
+	"LodgerTimeWhole"   : "Whole",
+	"LodgerTimeDaily"   : "Daily",
+	"LodgerTimeWeekly"  : "Weekly",
+	"LodgerTimeMonthly" : "Monthly",
+	"LodgerTimeYearly"  : "Yearly",
+	"LodgerLabel"  : "Showing net material changes from %DATE1 to %DATE2",
+	
+	"LodgerSortie" : "Sortie",
+	"LodgerPvp"    : "Practice",
+	"LodgerExped"  : "Expedition",
+	"LodgerQuest"  : "Mission",
+	"LodgerAkashi" : "Akashi's Aid",
+	"LodgerRegen"  : "Regeneration",
+	"LodgerUseitem": "Inventory",
+	
+	"LodgerCrship" : "Construction",
+	"LodgerCritem" : "Development",
+	"LodgerDsship" : "Dismantlement",
+	"LodgerDsitem" : "Disassemble",
+	"LodgerRemodel": "Ship Remodel",
+	"LodgerRmditem": "Item Remodel",
+	"Lodgeroverall": "Total Rating",
+	
+	"LodgeRatingOK0" : "No data recorded",
+	"LodgeRatingOK1" : "Not so much",
+	"LodgeRatingOK2" : "Small Income",
+	"LodgeRatingOK3" : "Some Income",
+	"LodgeRatingOK4" : "Exceeded Expectation!",
+	"LodgeRatingOK5" : "Capitalism, ho!",
+	"LodgeRatingNG1" : "Slight Outcome",
+	"LodgeRatingNG2" : "Basic Knowledge of Consuming",
+	"LodgeRatingNG3" : "Not-so-safe consumerism",
+	"LodgeRatingNG4" : "RNG Worshipping?",
+	"LodgeRatingNG5" : "Excessive Consumption",
+	
+	"MasterShipSaltCheck" : "Existence Accept",
+	"MasterShipSaltUnCheck" : "Existence Deny",
 	
 	"Dummy" : "Dummy"
 	

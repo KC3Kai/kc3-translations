@@ -77,7 +77,8 @@
 	"GameAPIRemindDesc" : "อย่าเล่นผ่าน KC3Kai ถ้ายังสมัครไม่เสร็จเพราะต้องเลือกเซิร์ฟเวอร์และกรอกชื่อผู้การ โดยต้องทำบนหน้าเว็บ DMM เท่านั้น ทำผ่าน API ไม่ได้",
 	"GameAPIAltTitle" : "ยังมีอีกทางเลือก",
 	"GameAPIAltDesc" : "ถ้าไม่ชอบเล่นผ่าน API และชอบเล่นบน DMM <img src=\"../popup/img/dmm.png\" /> <strong>ให้กด เล่นผ่านเว็บ DMM</strong> จาก <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> แล้วก็กด <kbd class=\"light\">F12</kbd> เพื่อใช้งาน แต่แบบนี้คุณจะใช้งานบางความสามารถไม่ได้นะ",
-	
+	"GameAPIExpiredAlert" : "ลิงค์เข้าใช้งาน API ของคุณหมดอายุแล้ว",
+	"GameAPIExpiredExplanation" : "KC3Kai ตรวจพบว่าลิงค์ API ของคุณใช้งานมานานเกินกว่า 20 นาทีแล้ว โปรดแน่ใจว่าคุณกำลังใช้งาน API ใหม่อยู่เสมอ หากไม่แน่ใจให้กดทำการรีเฟรช API ใหม่",
 	
 	"GameStartDashTitle" : "วิธีเข้าเล่นเกม",
 	"GameStartDashDesc" : "วิธีเล่นเกมโดยใช้ KC3Kai ให้กดดังนี้:",
@@ -319,6 +320,48 @@
 	"ExpedTotalLv" : "เลเวลรวม ",
 	"ExpedCanister" : " ถัง ",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
+	
+		"LodgerPageStepRw"  : "กลับ 1 สเต็บ",
+	"LodgerPageStepFw"  : "ไป 1 สเต็บ",
+	"LodgerPageRefresh" : "ยืนยันการแก้ไข",
+	
+	"LodgerTimeWhole"   : "ทั้งหมด",
+	"LodgerTimeDaily"   : "รายวัน",
+	"LodgerTimeWeekly"  : "รายสัปดาห์",
+	"LodgerTimeMonthly" : "รายเดือน",
+	"LodgerTimeYearly"  : "รายปี",
+	"LodgerLabel"  : "แสดงข้อมูลทรัพย์ฯ จาก %DATE1 ถึง %DATE2",
+	
+	"LodgerSortie" : "ออกรบ",
+	"LodgerPvp"    : "PVP",
+	"LodgerExped"  : "ทีมสำรวจ",
+	"LodgerQuest"  : "เควส",
+	"LodgerAkashi" : "อาคาชิซ่อมบำรุง",
+	"LodgerRegen"  : "การฟื้นฟู",
+	"LodgerUseitem": "คลังเก็บของ",
+	
+	"LodgerCrship" : "การต่อเรือ",
+	"LodgerCritem" : "การสร้างอุปกรณ์",
+	"LodgerDsship" : "การแยกส่วนเรือ",
+	"LodgerDsitem" : "การแยกส่วนอุปกรณ์",
+	"LodgerRemodel": "การปรับสมรรถภาพ",
+	"LodgerRmditem": "การอัพเกรดอุปกรณ์",
+	"Lodgeroverall": "รวมคะแนน",
+	
+	"LodgeRatingOK0" : "ไม่มีข้อมูล",
+	"LodgeRatingOK1" : "ไม่มากเท่าไหร่",
+	"LodgeRatingOK2" : "ได้นิดหน่อย",
+	"LodgeRatingOK3" : "ได้พอสมควร",
+	"LodgeRatingOK4" : "เกินความคาดหมาย!",
+	"LodgeRatingOK5" : "นี่มันโลกของพวกทุนนิยม!",
+	"LodgeRatingNG1" : "แย่นิดหน่อย",
+	"LodgeRatingNG2" : "ไปฝึกบริหารมาใหม่นะ",
+	"LodgeRatingNG3" : "อาคากิควรพาให้ออกห่างจากคลังเก็บเสบียง",
+	"LodgeRatingNG4" : "ต้องบูชาเทพแมว?",
+	"LodgeRatingNG5" : "ใครกินทรัพย์ฯ ของฉันไป",
+	
+	"MasterShipSaltCheck" : "ยังมีเกลือพอได้",
+	"MasterShipSaltUnCheck" : "เขตปลอดเกลือ",
 	
 	"Dummy" : "Dummy"
 }

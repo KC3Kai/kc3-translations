@@ -251,14 +251,29 @@
         "desc": "Have Ise Kai and Hyuuga Kai in your main fleet"
     },
 	"166": {
-	"code": "A61",
+		"code": "A61",
         "name": "Organize Ozawa's Fleet",
         "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet"
     },
     "167": {
-	"code": "A62",
+		"code": "A62",
         "name": "Organize the New Carrier Division",
         "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet"
+    },
+	"168": {
+		"code": "A63",
+        "name": "Organize the 16th Squadron (Second Generation)",
+        "desc": "Have Natori as flagship, Isuzu and Kinu in your fleet"
+    },
+	"169": {
+		"code": "A64",
+        "name": "Organize the New Carrier Division",
+        "desc": "Have 2 CV, 2 BBV/CAV and 2 DD in your fleet"
+    },
+	"170": {
+		"code": "A65",
+        "name": "Strengthen the Surface Counterattack Fleet",
+        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet"
     },
     
     
@@ -456,7 +471,7 @@
     },
     "279": {
         "name": "Rush the 1st Torpedo Squadron to Operation KE Again",
-        "desc": "Sortie Abukuma Kai-2 as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze to 3-2 and B-Rank+ the boss"
+        "desc": "Sortie Abukuma Kai-2 as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze to 3-2 and S-Rank the boss"
     },
     "285": {
         "name": "\"Carrier Task Force\", advance to the Northern Sea!",
@@ -478,16 +493,30 @@
         "name": "Sortie the 16th Squadron (First Generation)",
         "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
     },
-	
 	"293": {
-	"code": "B53",
+		"code": "B53",
         "name": "3rd Carrier Division: defend the Nansei Islands",
         "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss"
     },
 	"294": {
-	"code": "B54",
+		"code": "B54",
         "name": "Sortie the Ozawa's fleet",
         "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss"
+    },
+	"295": {
+		"code": "B55",
+        "name": "Sortie the 16th Squadron (Second Generation)",
+        "desc": "Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss"
+    },
+	"296": {
+		"code": "B56",
+        "name": "Sortie the New Carrier Division to the North",
+        "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss"
+    },
+	"297": {
+		"code": "B57",
+        "name": "Carry out the Operation Rei-Gou!",
+        "desc": "Sortie Kasumi as flagship, Ashigara  Ooyodo, Asashimo, Kiyoshimo and 1 additional ship to W2-5 and S-Rank at the boss"
     },
     
     
@@ -1034,6 +1063,21 @@
         "code": "G4",
         "name": "Preparation for LSC (Part 1)",
         "desc": "Perform 4 successful modernizations"
-    }
+    },
+	
+	
+	
     
+    "298": {
+        "code": "BC1",
+        "name": "Help Mamiya in Year End Preparation",
+        "desc": "Collect 16 Decoration Materials"
+    },
+    
+    "299": {
+        "code": "BC2",
+        "name": "Help Mamiya in Preparation for New Year's Eve",
+        "desc": "Collect 32 Decoration Materials and hand them to Mamiya"
+    }
+
 }

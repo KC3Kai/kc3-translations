@@ -135,6 +135,7 @@
 	"SettingsTimerDisplayType" : "Tipe Tampilan Waktu",
 	"SettingsTimeRemaining" : "Tersisa",
 	"SettingsTimeFinished" : "Selesai",
+	"SettingsCheckLiveQuests" : "Periksa TL Quest terbaru",
 
 	"SettingsGameInfo" : "Informasi Game",
 	"SettingsDropFaces" : "Wajah Kapal Yang Didapat",
@@ -201,7 +202,10 @@
 
 	"SettingsPoiDBSubmission" : "Kirim data ke poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Gunakan Fitur ini",
-
+	
+	"SettingsKC3DBSubmission" :"Kirim data ke KC3改 (http://kc3.jetri.co)",
+	"SettingsEnableKC3DBSubmission" : "Gunakan dan bantu kami",
+	
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsGearHolder" : "Warna Latar Belakang Equip",
@@ -286,6 +290,7 @@
 	
 	"CombinedCarrier" : "Carrier TF",
 	"CombinedSurface" : "Surface TF",
+	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Tunggal",
 
 	"LevelText" : "Level",
@@ -305,14 +310,14 @@
 	"NatsuiroExped" : "Exped",
 	"NatsuiroActivity" : "Aktivitas",
 	
-	"ExpedList" : "Expedisi #1",
+	"ExpedNumLabel" : "Expedisi #",
 	"ExpedEstmTime" : "Perkiraan waktu",
-	"ExpedIncome" : "Laba Bersih",
-	"ExpedFSLv" : "Pemimpin: Level",
-	"ExpedFleet" : "Armada:",
-	"ExpedShips" : "kapal",
-	"ExpedTotalLv" : "Total LV",
-	"ExpedCanister" : "Canister pada",
+	"ExpedIncome" : "Pendapatan",
+	"ExpedFSLv" : "Pemimpin: Level ",
+	"ExpedFleet" : "Armada: ",
+	"ExpedShips" : " kapal",
+	"ExpedTotalLv" : "Total Lv",
+	"ExpedCanister" : "Canister pada ",
 	"ExpedCheckReq" : "Cek persyaratan",
 
 	"Dummy" : "Dummy"

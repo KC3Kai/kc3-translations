@@ -254,10 +254,25 @@
         "name": "Kelola armada Ozawa",
         "desc": "Jadikan Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai di armada utama"
     },	
-     "167": {
+     	"167": {
 		"code": "A62",
         "name": "Kelola Kapal Induk Divisi Baru",
         "desc": "Miliki Zuikaku Kai Ni, Shoukaku Kai Ni dan 2 DD di armada"
+     },
+      	"168": {
+		"code": "A63",
+        "name": "Kelola Skuadron ke-16 (Generasi Kedua)",
+        "desc": "Miliki Natori sebagai kapal pemimpin, Isuzu and Kinu di armada"
+     },
+      	"169": {
+		"code": "A64",
+        "name": "Kelola Kapal Induk Divisi Baru", 
+        "desc": "Miliki 2 CV, 2 BBV/CAV dan 2 DD di armada" 
+     },
+        "170": {
+		"code": "A65",
+        "name": "Perkuat Serangan Balik Armada Permukaan",  
+        "desc": "Miliki Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo dan Kiyoshimo di armada" 
      },
 	
 	
@@ -460,7 +475,7 @@
     
 	"279": {
         "name": "Penyerbuan Skuadron Torpedo Pertama ke Operasi 'KE' Sekali Lagi!",
-        "desc": "Sorti Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze ke World 3-2. Dapatkan B-Rank+ pada Bos Node."
+        "desc": "Sorti Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze ke World 3-2. Dapatkan S-Rank pada Bos Node."
     },
 	"285": {
         "name": "\"Carrier Task Force\", Menuju Laut Utara!",
@@ -504,6 +519,22 @@
         "name": "Sorti armada Ozawa",
         "desc": "Sorti Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke world 2-4 dan dapatkan S-rank pada boss node"
     },
+    	"295": {
+		"code": "B55",
+        "name": "Sorti dengan Skuadron ke-16 (Generasi Kedua)",
+        "desc": "Sorti dengan Natori sebagai kapal pemimpin, Isuzu , Kinu dan 3 kapal tambahan ke World 2-3 dan dapatkan S-rank pada boss node"
+    },
+    	"296": {
+		"code": "B56",
+        "name": "Sorti Divisi kapal induk baru ke Utara", 
+        "desc": "Sortie dengan 2 CV, 2 BBV/CAV dan 2 DD ke W3-3 dan S-rank pada boss nodes"
+    },
+    	"297": {
+		"code": "B57",
+        "name": "Jalankan Operasi Rei-Gou!", 
+        "desc": "Sorti dengan Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo, Kiyoshimo dan 1 kapal tambahan ke W2-5 dan S-Rank pada boss node" 
+    },
+    
 	
 	"201": {
         "code": "Bd1",

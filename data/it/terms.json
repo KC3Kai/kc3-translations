@@ -24,7 +24,7 @@
     "QuestMarkersAvailable": "Segnalini Missione Disponibili",
     "ResourceSoftcapLimit": "Limite massimo delle risorse generate",
     "MainScreenBGM": "BGM Schermata Principale",
-    "LevelUpNotice": "All'aumentare del livello del HQ, il limite delle risorse generate aumenta e si può costruire nuovi equipaggiamenti.",
+    "LevelUpNotice": "All'aumentare del livello del QG, il limite delle risorse generate aumenta e si può costruire nuovi equipaggiamenti.",
     "ImprovementMaterial": "Viti",
     "Experience": "Esperienza",
     "Name": "Nome",
@@ -47,6 +47,8 @@
     "MenuStrategyDesc" : "Vari strumenti per aiutarti nell'analisi e nella gestione strategica delle tue flotte",
     "MenuSettingsDesc" : "Configura l'estensione (modifiche applicate al prossimo riavvio del gioco)",
     "MenuAboutDesc" : "Informazioni su KC3改 e sul suo team di sviluppatori, autori e tester",
+    "MenuFBName" : "Metti Mi Piace su Facebook!",
+    "MenuFBDesc" : "Per annunci, anticipazioni e info sulle prossime release!",
 
     "MenuVersion" : "Versione installata",
     "MenuChangelog" : "(Changelog)",
@@ -78,12 +80,12 @@
 	
 	
     "GameStartDashTitle" : "Per startare con il Pannello dell'Ammiraglio",
-    "GameStartDashDesc" : "Per startare il tuo gioco e ottenere info importanti sul tuo HQ e le tue flotte, puoi aprire la Admiral Dashboard. Ti mostrerà informazioni come il Livello del HQ, gli Slot Navi, LoS degli equipaggiamenti, Potenza Aerea, Velocità della Flotta, Morale, ecc. Lo puoi attivare attraverso:",
+    "GameStartDashDesc" : "Per startare il gioco e ottenere info importanti sul tuo QG e le flotte, puoi aprire la Admiral Dashboard. Ti mostrerà molte informazioni tra cui il Livello del HQ, gli Slot Navi, LoS degli equipaggiamenti, Potenza Aerea, Velocità della Flotta, Morale, ecc. Lo puoi attivare attraverso:",
     "GameStartDashWin" : "Per Windows / Linux",
     "GameStartDashOr" : "o",
     "GameStartDashMac" : "Se usi Mac",
-    "GameStartDashChrome" : "Quando si apre il pannello di Chrome, ci sarà un tab \"<strong>KanColle</strong>\"",
-    "GameStartNowTitle" : "Lasciami giocare ora",
+    "GameStartDashChrome" : "Aperto il pannello di Chrome, ci sarà un tab \"<strong>KanColle</strong>\"",
+    "GameStartNowTitle" : "Lasciami giocare subito",
     "GameStartNowDesc" : "Se non ti interessano queste feature e vuoi startare subito il gioco...",
     "GameStartNowBtn" : "Starta comunque il gioco",	
 	
@@ -126,16 +128,17 @@
     "SettingsELosSum" : "Tot",
     "SettingsELosOld" : "Vec",
     "SettingsELosNew" : "Nuo",
-    "SettingsHQExpDetail"  : "Info Exp HQ",
+    "SettingsHQExpDetail"  : "Info Exp QG",
     "SettingsHQExpLeft"    : "Exp Rimanente",
     "SettingsHQExpCurrent" : "Livello Attuale",
     "SettingsHQExpTotal"   : "Guadagno Totale",
     "SettingsTimerDisplayType" : "Modello Display del Timer",
     "SettingsTimeRemaining" : "Rimanente",
     "SettingsTimeFinished" : "Finito",
+    "SettingsCheckLiveQuests" : "Verifica traduzioni Quest",
 
     "SettingsGameInfo" : "Informazioni Gioco",
-    "SettingsDropFaces" : "Icone Drop Sortite",
+    "SettingsDropFaces" : "Icone Drop Battaglie",
     "SettingsConstructionFaces" : "Icone Costruzione",
     "SettingsCraftBox" : "Risultati Produzioni",
     "SettingsCompass" : "Bussola e Nemici",
@@ -143,9 +146,9 @@
     "SettingsBattleStamp" : "Etichette Condizione Navi",
     "SettingsBossComp" : "Composizione Boss",
     "SettingsYasenTroll" : "KC3改 Commenti Troll",
-    "SettingsHQDelta" : "Differenza Exp HQ nelle sortite",
-    "SettingsFleetStatus" : "Sommario Stato della Flotta",
-    "SettingsAutoExpedTab" : "Auto-Apertura casella spedizioni",
+    "SettingsHQDelta" : "Diff. Exp QG dopo batt.",
+    "SettingsFleetStatus" : "Stato sommario della Flotta",
+    "SettingsAutoExpedTab" : "Auto-Apertura casella sped.",
 
     "SettingsScreenshot" : "Screenshot",
     "SettingsSSOutput" : "Tipo di Output",
@@ -160,7 +163,7 @@
     "SettingsMoraleNotif" : "Notifica Morale",
     "SettingsMoraleValue" : "Morale Minimo",
     "SettingsSupplyRate" : "Rifornimento al Minimo",
-    "SettingsSupplyExped" : "Attenzione rifornimento Flotta",
+    "SettingsSupplyExped" : "Avviso riforn. Flotta",
     "SettingsSupplyBarLabel" : "barre",
     "SettingsSeconds" : "secondi",
     "SettingsSoundType" : "Tipo di Suono",
@@ -171,12 +174,12 @@
     "SettingsIdleWarning" : "Timer Inattività",
     "SettingsHideCounter" : "Nascondi Contatore",
     "SettingsShowCounter" : "Mostra Contatore",
-    "SettingsTaihaAlert" : "Avviso fastidioso condizioni critiche",
+    "SettingsTaihaAlert" : "Avviso molesto cond.Taiha",
 
     "SettingsAPIGameScreen" : "Schermata di Gioco",
     "SettingsQuestOverlay" : "Traduzione Missioni",
     "SettingsQuestTracking" : "Monitoraggio Missioni",
-    "SettingsPanelRequirement" : "Pannello richiesto per giocare",
+    "SettingsPanelRequirement" : "Pannello obbligatorio",
     "SettingsDirectRefresh" : "Tasto Refresh (Attenzione)",
     "SettingsConfirmExit" : "Conferma Uscita",
     "SettingsScreenMargin" : "Margine Superiore",
@@ -199,6 +202,9 @@
     
     "SettingsPoiDBSubmission" :"Invia dati a poi-statistics (http://db.kcwiki.moe/)",
     "SettingsEnablePoiDBSubmission" : "Abilita questa opzione",
+    
+    "SettingsKC3DBSubmission" :"Invia dati a KC3改 (http://kc3.jetri.co)",
+    "SettingsEnableKC3DBSubmission" : "Abilita e aiutaci",
 	
     "SettingsPanelSize" : "Dimensione Pannello",
     "SettingsPanelOpacity" : "Opacità Interfaccia",
@@ -206,7 +212,7 @@
 	
     "SettingsLegacyPanel" : "Pannello: Legacy Theme",
 
-    "SettingsChuuiWarningDangerousFeature" : "Sei sicuro di voler applicare i cambiamenti?\nQualsiasi rischio tu stia correndo d'ora in poi non è responsabilità di KC3改.\n\nSii sicuro di sapere cosa stai facendo.",
+    "SettingsChuuiWarningDangerousFeature" : "Sei sicuro di voler applicare i cambiamenti?\nQualsiasi rischio tu stia correndo da ora in avanti non è più responsabilità di KC3改.\n\nSii sicuro di sapere cosa stai facendo.",
     "SettingsErrorNG" : "Salvato!",
     "SettingsErrorSuper" : "Valore non valido!",
     "SettingsErrorAbove" : "eccede",
@@ -234,7 +240,7 @@
     "SpeedFast" : "Veloce",
     "SpeedSlow" : "Lenta",
 
-    "HQText" : "HQ",
+    "HQText" : "QG",
     "HQExpAbbrev1" : "Prossimo",
     "HQExpAbbrev2" : "Attuale",
     "HQExpAbbrev3" : "Totale",
@@ -284,6 +290,7 @@
 	
     "CombinedCarrier" : "TF Portaerei (CTF)",
     "CombinedSurface" : "TF di Superficie (STF)",
+    "CombinedTransport" : "TF di Trasporto (TTF)",
     "CombinedNone" : "Non combinata",
 
     "LevelText" : "Livello",
@@ -296,5 +303,20 @@
     "StrategyEvents1HP" : "Ultima Kill!",
 
     "PanelWaitActions" : "In attesa di azioni di gioco...",
-    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>."
+    "PanelErrorStorage" : "Nelle tue impostazioni di Chrome localStorage è disabilitato. KC3改 ha bisogno di questa opzione. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Guarda come abilitarlo</a>.",
+    
+    "NatsuiroBasic" : "Base",
+    "NatsuiroBattle" : "Batt.",
+    "NatsuiroExped" : "Sped.",
+    "NatsuiroActivity" : "Attività",
+    
+    "ExpedNumLabel" : "Spedizione #",
+    "ExpedEstmTime" : "Tempo Previsto",
+    "ExpedIncome" : "Guadagno Netto",
+    "ExpedFSLv" : "Ammiraglia: livello ",
+    "ExpedFleet" : "Flotta: ",
+    "ExpedShips" : " navi",
+    "ExpedTotalLv" : "Livello tot.",
+    "ExpedCanister" : "Fusti ",
+    "ExpedCheckReq" : "Controllo Requisiti"
 }

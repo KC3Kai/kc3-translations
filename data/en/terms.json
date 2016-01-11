@@ -135,6 +135,7 @@
 	"SettingsTimerDisplayType" : "Timer Display Type",
 	"SettingsTimeRemaining" : "Remaining",
 	"SettingsTimeFinished" : "Finished",
+	"SettingsCheckLiveQuests" : "Check for new Quest TLs",
 	
 	"SettingsGameInfo" : "Game Information",
 	"SettingsDropFaces" : "Sortie Drop Faces",
@@ -201,7 +202,10 @@
 
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
-
+	
+	"SettingsKC3DBSubmission" :"Send data to KC3改 (http://kc3.jetri.co)",
+	"SettingsEnableKC3DBSubmission" : "Enable and help out",
+	
 	"SettingsPanelSize" : "Panel Size",
 	"SettingsPanelOpacity" : "Interface Opacity",
 	"SettingsGearHolder" : "Gear Background Color",
@@ -286,6 +290,7 @@
 	
 	"CombinedCarrier" : "Carrier TF",
 	"CombinedSurface" : "Surface TF",
+	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Not combined",
 	
 	"LevelText" : "Level",
@@ -305,15 +310,17 @@
 	"NatsuiroExped" : "Exped",
 	"NatsuiroActivity" : "Activity",
 	
-	"ExpedList" : "Expedition #1",
+	"ExpedNumLabel" : "Expedition #",
 	"ExpedEstmTime" : "Estimated Time",
 	"ExpedIncome" : "Net Income",
-	"ExpedFSLv" : "Flagship:level",
-	"ExpedFleet" : "Fleet:",
-	"ExpedShips" : "ships",
-	"ExpedTotalLv" : "total lv",
-	"ExpedCanister" : "canisters on",
+	"ExpedFSLv" : "Flagship: Level ",
+	"ExpedFleet" : "Fleet: ",
+	"ExpedShips" : " ships",
+	"ExpedTotalLv" : "total Lv",
+	"ExpedCanister" : "canisters on ",
 	"ExpedCheckReq" : "Check requirements",
 	
 	"Dummy" : "Dummy"
+	
+
 }

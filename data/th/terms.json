@@ -321,8 +321,8 @@
 	"ExpedCanister" : " ถัง ",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
 	
-		"LodgerPageStepRw"  : "กลับ 1 สเต็บ",
-	"LodgerPageStepFw"  : "ไป 1 สเต็บ",
+		"LodgerPageStepRw"  : "หน้าถัดไป",
+	"LodgerPageStepFw"  : "กลับหน้าที่แล้ว",
 	"LodgerPageRefresh" : "ยืนยันการแก้ไข",
 	
 	"LodgerTimeWhole"   : "ทั้งหมด",
@@ -337,15 +337,15 @@
 	"LodgerExped"  : "ทีมสำรวจ",
 	"LodgerQuest"  : "เควส",
 	"LodgerAkashi" : "อาคาชิซ่อมบำรุง",
-	"LodgerRegen"  : "การฟื้นฟู",
+	"LodgerRegen"  : "ยุทธปัจจัย",
 	"LodgerUseitem": "คลังเก็บของ",
 	
-	"LodgerCrship" : "การต่อเรือ",
-	"LodgerCritem" : "การสร้างอุปกรณ์",
-	"LodgerDsship" : "การแยกส่วนเรือ",
-	"LodgerDsitem" : "การแยกส่วนอุปกรณ์",
-	"LodgerRemodel": "การปรับสมรรถนะ",
-	"LodgerRmditem": "การอัพเกรดอุปกรณ์",
+	"LodgerCrship" : "ต่อเรือ",
+	"LodgerCritem" : "สร้างอุปกรณ์",
+	"LodgerDsship" : "แยกส่วนเรือ",
+	"LodgerDsitem" : "แยกส่วนอุปกรณ์",
+	"LodgerRemodel": "รีโมเดล",
+	"LodgerRmditem": "อัพเกรดอุปกรณ์",
 	"Lodgeroverall": "รวมคะแนน",
 	
 	"LodgeRatingOK0" : "ไม่มีข้อมูล",
@@ -360,8 +360,8 @@
 	"LodgeRatingNG4" : "ต้องบูชาเทพแมว?",
 	"LodgeRatingNG5" : "ใครกินทรัพย์ฯ ของฉันไป",
 	
-	"MasterShipSaltCheck" : "ยังมีเกลือพอได้",
-	"MasterShipSaltUnCheck" : "เขตปลอดเกลือ",
+	"MasterShipSaltCheck" : "ตรวจสอบเกลือ",
+	"MasterShipSaltUnCheck" : "ไม่ตรวจระดับโซเดียม",
 	
 	"Dummy" : "Dummy"
 }

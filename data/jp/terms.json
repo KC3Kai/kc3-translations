@@ -133,8 +133,8 @@
 	"SettingsLanguage" : "言語",
 	"SettingsELosFormula" : "索敵値計算式",
 	"SettingsELosSum" : "合計",
-	"SettingsELosOld" : "2-5旧",
-	"SettingsELosNew" : "2-5新",
+	"SettingsELosOld" : "2-5式旧",
+	"SettingsELosNew" : "2-5式新",
 	"SettingsHQExpDetail"  : "提督経験値表示",
 	"SettingsHQExpLeft"    : "残り",
 	"SettingsHQExpCurrent" : "現在",
@@ -157,6 +157,7 @@
 	"SettingsHQDelta" : "出撃提督経験値差分",
 	"SettingsFleetStatus" : "艦隊状態報告",
 	"SettingsAutoExpedTab" : "自動的遠征タブを表示",
+	"SettingsEnglishShipType": "艦種には英語の略を使う",
 
 	"SettingsScreenshot" : "スクリーンショット",
 	"SettingsSSOutput" : "出力モード",
@@ -172,7 +173,7 @@
 	"SettingsMoraleValue" : "疲労最小",
 	"SettingsSupplyRate" : "補給必要通知",
 	"SettingsSupplyExped" : "補給必要警告",
-	"SettingsSupplyBarLabel" : "割",
+	"SettingsSupplyBarLabel" : "目盛り",
 	"SettingsSeconds" : "秒",
 	"SettingsSoundType" : "音の種類",
 	"SettingsDing" : "チーン!",
@@ -182,7 +183,7 @@
 	"SettingsIdleWarning" : "放置時間",
 	"SettingsHideCounter" : "非表示",
 	"SettingsShowCounter" : "表示",
-	"SettingsTaihaAlert" : "厳重大破警告",
+	"SettingsTaihaAlert" : "大破警告",
 
 	"SettingsAPIGameScreen" : "APIゲーム画面",
 	"SettingsQuestOverlay" : "任務の翻訳",
@@ -248,10 +249,10 @@
 	"SpeedFast" : "高速",
 	"SpeedSlow" : "低速",
 
-	"HQText" : "司令部",
+	"HQText" : "Lv.",
 	"HQExpAbbrev1" : "次まで",
-	"HQExpAbbrev2" : "現在",
-	"HQExpAbbrev3" : "総獲得",
+	"HQExpAbbrev2" : "既得",
+	"HQExpAbbrev3" : "総経験",
 
 	"BattleDetection" : "索敵",
 	"BattleEngangement" : "交戦形態",
@@ -266,17 +267,17 @@
 	"EventHistoryRank1"  : "丙",
 	"EventHistoryRank2"  : "乙",
 	"EventHistoryRank3"  : "甲",
-	"StrategyEventGo"    : "イベント出撃",
+	"StrategyEventGo"    : "イベント",
 
 	"PanelDocking" : "入渠",
 	"PanelAkashi" : "明石",
 	"PanelNoRepair" : "修理する必要なし",
-	"PanelCantRepair" : "修理不可能",
+	"PanelCantRepair" : "泊地修理不可能",
 	"PanelHighestDocking" : "最大の入渠修理の時間",
 	"PanelHighestAkashi" : "最大の明石修理の時間",
 
 	"PanelHasTaiha" : "大破あり",
-	"PanelFSTaiha" : "第1艦隊旗艦",
+	"PanelFSTaiha" : "旗艦大破",
 	"PanelEscortChuuha" : "第2艦隊旗艦",
 	"PanelNoTaiha" : "耐久良好",
 	"PanelSupplied" : "補給満タン",
@@ -371,4 +372,6 @@
 	"MasterShipSaltUnCheck" : "既存許さん",
 
 	"Dummy" : "ダミー"
+
+
 }

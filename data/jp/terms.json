@@ -30,25 +30,25 @@
 	"Name": "提督名",
 
 	"MenuPlayAPIName" : "KC3改で艦これを起動する",
-	"MenuPlayAPIDesc" : "ウィジェット状態で起動します。ゲーム画面のみの表示です。",
+	"MenuPlayAPIDesc" : "ウィジェット状態で起動します。ゲーム画面のみの表示です",
 	"MenuRefreshAPIName" : "APIリンクを更新",
 	"MenuRefreshAPIDesc" : "DMMの艦これゲームページを開き、APIリンクを更新させます",
 	"MenuPlayDMMName" : "DMMサイトで艦これを起動する",
 	"MenuPlayDMMDesc" : "普段通り公式サイトで艦これをやりたい場合こちらにどうぞ",
 
 	"MenuPlayDMMFName" : "DMMフレームで起動する",
-	"MenuPlayDMMFDesc" : "DMMサイトのページをKC3改のフレームの中でちょっと弄って表示する。",
+	"MenuPlayDMMFDesc" : "公式サイトのページをKC3改のフレームの中で弄って表示する",
 	"MenuPlayOSAPIName" : "OSAPIで起動する",
-	"MenuPlayOSAPIDesc" : "APIよりちょっと長く第二のリンクを使う。ページ改造なし。",
+	"MenuPlayOSAPIDesc" : "APIよりちょっと長く第二のリンクを使う。ページ改造なし",
 
 	"MenuCookiesName" : "Cookieを有効",
 	"MenuCookiesDesc" : "「\"Error Area\" 画面」が表示された際に使用してください。",
 	"MenuStrategyName" : "戦闘指揮所",
 	"MenuStrategyDesc" : "補助ツール群を開きます。(別タブで開きます)",
 	"MenuSettingsDesc" : "変更を適用するにはゲームをリロードしてください",
-	"MenuAboutDesc" : "KC3改に関する情報、および開発者、翻訳者、テスターのそのチーム。",
+	"MenuAboutDesc" : "KC3改に関する情報、および開発者、翻訳者、テスターたち",
 	"MenuFBName" : "Facebookでいいね！",
-	"MenuFBDesc" : "最新情報、新しい特性、お知らせを常に。",
+	"MenuFBDesc" : "最新情報、新しい特性、お知らせを常に",
 
 	"MenuVersion" : "バージョン",
 	"MenuChangelog" : "(変更履歴)",
@@ -119,7 +119,7 @@
 	"AboutReporter" : "バグ報告者",
 	"AboutChannel" : "討論チャンネル",
 
-	"AboutOtherSources" : "Other Sources",
+	"AboutOtherSources" : "他のソース",
 	"AboutLicense" : "License",
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 
@@ -145,7 +145,7 @@
 	"SettingsCheckLiveQuests" : "新な任務翻訳をチェック",
 
 	"SettingsGameInfo" : "ゲーム情報",
-	"SettingsDropFaces" : "出撃ドロップ艦娘",
+	"SettingsDropFaces" : "出撃ドロップ",
 	"SettingsConstructionFaces" : "建造ネタバレ",
 	"SettingsCraftBox" : "開発結果",
 	"SettingsCompass" : "羅針盤・戦闘データ",
@@ -186,10 +186,10 @@
 	"SettingsTaihaAlert" : "大破警告",
 
 	"SettingsAPIGameScreen" : "APIゲーム画面",
-	"SettingsQuestOverlay" : "任務の翻訳",
-	"SettingsQuestTracking" : "任務の追跡",
-	"SettingsPanelRequirement" : "ロードするためにパネルが必要です",
-	"SettingsDirectRefresh" : "In-pageリフレッシュ（警告）",
+	"SettingsQuestOverlay" : "任務の翻訳に改造",
+	"SettingsQuestTracking" : "任務完成度表示",
+	"SettingsPanelRequirement" : "下パネル必須",
+	"SettingsDirectRefresh" : "リフレッシュ警告",
 	"SettingsConfirmExit" : "終了確認",
 	"SettingsScreenMargin" : "上余白",
 	"SettingsBGColor" : "背景色",
@@ -199,7 +199,7 @@
 	"SettingsBGSizeDesc" : "background-sizeのCSSプロパティを参照してください。",
 	"SettingsBGPosition" : "背景位置",
 	"SettingsBGPositionDesc" : "background-positionのCSSプロパティを参照してください。",
-	"SettingsPlayerScale" : "ゲームプレイヤースケール",
+	"SettingsPlayerScale" : "ゲーム画面スケール",
 
 	"SettingsDMMGameplay" : "DMMゲーム画面",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
@@ -216,13 +216,13 @@
 	"SettingsEnableKC3DBSubmission" : "送信する",
 
 	"SettingsPanelSize" : "パネルサイズ",
-	"SettingsPanelOpacity" : "インターフェイスの不透明度",
+	"SettingsPanelOpacity" : "不透明度",
 	"SettingsGearHolder" : "装備背景色",
 
 	"SettingsLegacyPanel" : "パネル：Legacyテーマ",
 
 	"SettingsChuuiWarningDangerousFeature" : "\n本当に変更しますか？\n\n",
-	"SettingsErrorNG" : "保存しました",
+	"SettingsErrorNG" : "保存した",
 	"SettingsErrorSuper" : "値が無効！",
 	"SettingsErrorAbove" : "超え",
 	"SettingsErrorBelow" : "下に",
@@ -239,7 +239,9 @@
 	"Volume" : "ボリューム",
 	"None" : "なし",
 	"LearnMore" : "もっと詳しく",
-	"Saved" : "保存する！",
+	"Saved" : "保存した",
+
+	"TimerComplete" : "完了",
 
 	"UnwantedExit" : "もう行っちゃうの(´・ω・｀)？エラー猫出るよーん！",
 	"UnwantedExitDMM" : "もう行っちゃうの(´・ω・｀)？ページを更新したいならやれば大丈夫ですが、APIリンクが別物になるかもしれないぞ！",
@@ -254,12 +256,15 @@
 	"HQExpAbbrev2" : "既得",
 	"HQExpAbbrev3" : "総経験",
 
+	"BattleMapCleared" : "クリア",
+	"BattleMapNotClear" : "未クリア",
+
 	"BattleDetection" : "索敵",
-	"BattleEngangement" : "交戦形態",
+	"BattleEngangement" : "形態",
 	"BattleContact" : "触接",
 	"BattleAirBattle" : "制空",
 	"BattleFriendly" : "友軍",
-	"BattleEnemy" : "敵",
+	"BattleEnemy" : "敵軍",
 
 	"PredictionStampSortie" : "撃沈",
 	"PredictionStampPvP" : "轟沈",
@@ -286,6 +291,7 @@
 	"PanelEmptySupply" : "出撃不可能",
 	"PanelGreatMorale" : "キラ状態",
 	"PanelGoodMorale" : "通常状態",
+	"PanelRecoveredMorale" : "状態回復",
 	"PanelSupportPower" : "支援射撃火力",
 	"PanelPlanesFighter" : "制空戦に参加する艦載機",
 	"PanelPlanesBomber" : "開幕攻撃に参加する艦載機",
@@ -297,9 +303,9 @@
 	"MissionActivity2" : "成功",
 	"MissionActivity3" : "大成功",
 
-	"CombinedCarrier" : "空母機動部隊",
-	"CombinedSurface" : "水上打撃部隊",
-	"CombinedTransport" : "輸送護衛部隊",
+	"CombinedCarrier" : "空母機動",
+	"CombinedSurface" : "水上打撃",
+	"CombinedTransport" : "輸送護衛",
 	"CombinedNone" : "通常艦隊",
 
 	"LevelText" : "レベル",
@@ -331,7 +337,7 @@
 
 	"LodgerPageStepRw"  : "前へ",
 	"LodgerPageStepFw"  : "次へ",
-	"LodgerPageRefresh" : "決定",
+	"LodgerPageRefresh" : "更新",
 
 	"LodgerTimeWhole"   : "全て",
 	"LodgerTimeDaily"   : "ディリー",
@@ -346,7 +352,7 @@
 	"LodgerQuest"  : "任務",
 	"LodgerAkashi" : "泊地修理",
 	"LodgerRegen"  : "自然増加",
-	"LodgerUseitem": "アイテム使用",
+	"LodgerUseitem": "アイテム",
 
 	"LodgerCrship" : "建造",
 	"LodgerCritem" : "開発",
@@ -367,7 +373,7 @@
 	"LodgeRatingNG3" : "少しヤバいかも",
 	"LodgeRatingNG4" : "使い切り主義なの？",
 	"LodgeRatingNG5" : "超赤字だぜ",
-	
+
 	"MasterShipSaltCheck" : "既存許す",
 	"MasterShipSaltUnCheck" : "既存許さん",
 

@@ -147,13 +147,13 @@
 	"SettingsGameInfo" : "ゲーム情報",
 	"SettingsDropFaces" : "出撃ドロップ",
 	"SettingsConstructionFaces" : "建造ネタバレ",
-	"SettingsCraftBox" : "開発結果",
+	"SettingsCraftBox" : "開発結果を表示",
 	"SettingsCompass" : "羅針盤・戦闘データ",
 	"SettingsBattleData" : "戦闘結果予想",
 	"SettingsBattleStamp" : "艦娘コンディション",
 	"SettingsBossComp" : "ボス編成",
-	"SettingsSaltyShip" : "KC3改艦娘特別チェック",
-	"SettingsYasenTroll" : "KC3改夜戦特別支援",
+	"SettingsSaltyShip" : "艦娘特別チェック",
+	"SettingsYasenTroll" : "夜戦特別サポート",
 	"SettingsHQDelta" : "出撃提督経験値差分",
 	"SettingsFleetStatus" : "艦隊状態報告",
 	"SettingsAutoExpedTab" : "自動的遠征タブを表示",
@@ -243,9 +243,9 @@
 
 	"TimerComplete" : "完了",
 
-	"UnwantedExit" : "もう行っちゃうの(´・ω・｀)？エラー猫出るよーん！",
+	"UnwantedExit" : "もう行っちゃうの(´・ω・｀)？寂しくなるよ！",
 	"UnwantedExitDMM" : "もう行っちゃうの(´・ω・｀)？ページを更新したいならやれば大丈夫ですが、APIリンクが別物になるかもしれないぞ！",
-	"APIWaitToggle" : "まず、「KC3改」パネルをロードしてください。",
+	"APIWaitToggle" : "まず「KanColle」タブを表示させてください",
 	"APIConcealExpl" : "あなたのAPIへのリンクを表示するにはホバー。",
 
 	"SpeedFast" : "高速",
@@ -257,7 +257,7 @@
 	"HQExpAbbrev3" : "総経験",
 
 	"BattleMapCleared" : "クリア",
-	"BattleMapNotClear" : "未クリア",
+	"BattleMapNotClear" : "攻略中",
 
 	"BattleDetection" : "索敵",
 	"BattleEngangement" : "形態",
@@ -315,7 +315,7 @@
 	"Expedition" : "遠征",
 	"UntranslatedQuest" : "翻訳されていない任務",
 
-	"StrategyEvents1HP" : "ラスト決戦！",
+	"StrategyEvents1HP" : "ラスダン！",
 
 	"PanelWaitActions" : "母港まで表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">を参照して有効にしてください。</a>.",

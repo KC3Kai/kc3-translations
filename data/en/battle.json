@@ -23,6 +23,24 @@
 		["HdOn", "", "Head-on"],
 		["Gr-T", "good", "Green T"],
 		["Rd-T", "bad", "Red T"]
-	]
+	],
 	
+	"formation" : [
+		"",
+		"Line Ahead",
+		"Double Line",
+		"Diamond",
+		"Echelon",
+		"Line Abreast",
+		"","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)",
+		"","","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)"
+	]
 }

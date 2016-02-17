@@ -240,6 +240,7 @@
 	"None" : "None",
 	"LearnMore" : "Learn more",
 	"Saved" : "Saved!",
+	"TimerComplete" : "Completed!",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
 	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
@@ -254,12 +255,28 @@
 	"HQExpAbbrev2" : "Current",
 	"HQExpAbbrev3" : "Total",
 	
+	"BattleMapCleared" : "Cleared",
+	"BattleMapNotClear" : "Not Cleared",
+	"BattleMapKills" : " kills",
+	"BattleMapNoHpGauge" : "No gauge",
+	"BattleSupportExped" : "Support expedition triggered?",
+	"BattleItemDrop" : "Special item drop",
+	"BattleNightNeeded" : "Night battle needed?",
+	"BattleRating" : "Battle Rating",
+	"BattleAvoided" : "~Battle Avoided~",
+	"BattleSelect" : "Select: ",
+	
 	"BattleDetection" : "Detection",
 	"BattleEngangement" : "Engage",
 	"BattleContact" : "Contact",
 	"BattleAirBattle" : "Air Battle",
 	"BattleFriendly" : "Friendly",
 	"BattleEnemy" : "Enemies",
+	
+	"ShipFire"    : "FP: ",
+	"ShipTorpedo" : "Torp: ",
+	"ShipAntiAir" : "AA: ",
+	"ShipArmor"   : "Armor: ",
 	
 	"PredictionStampSortie" : "Sunk",
 	"PredictionStampPvP" : "Knocked Out",
@@ -275,6 +292,8 @@
 	"PanelCantRepair" : "Cannot repair",
 	"PanelHighestDocking" : "Highest Repair Docks Time",
 	"PanelHighestAkashi" : "Highest Akashi Repair Time",
+	"PanelRepairMoreDays" : "More than 24 hours",
+	"PanelRepairing" : "Repairing...",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",
@@ -286,9 +305,14 @@
 	"PanelEmptySupply" : "Empty Supply",
 	"PanelGreatMorale" : "Great Morale",
 	"PanelGoodMorale" : "Morale Good",
+	"PanelRecoveredMorale" : "Recovered",
 	"PanelSupportPower" : "Support Expedition Shelling Power",
 	"PanelPlanesFighter" : "Planes joining air-battle phase",
 	"PanelPlanesBomber" : "Planes joining bombing phase",
+	
+	"PanelToggleSounds" : "Toggle Sounds",
+	"PanelFitWindow" : "Fit Window",
+	"PanelExportToKCDB" : "Export to Kancolle-calc DeckBuilder",
 	
 	"MissionLabelActivity" : "Status",
 	"MissionGetItems" : "Get Items:",
@@ -297,6 +321,7 @@
 	"MissionActivity2" : "Success",
 	"MissionActivity3" : "Great Success",
 	
+	"CombinedFleet" : "Combined Fleet",
 	"CombinedCarrier" : "Carrier TF",
 	"CombinedSurface" : "Surface TF",
 	"CombinedTransport" : "Transport",

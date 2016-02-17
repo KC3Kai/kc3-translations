@@ -240,7 +240,7 @@
 	"None" : "None",
 	"LearnMore" : "Learn more",
 	"Saved" : "Saved!",
-	"TimerComplete" : "Completed!",
+	"TimerComplete" : "Complete!",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
 	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
@@ -254,6 +254,7 @@
 	"HQExpAbbrev1" : "Next",
 	"HQExpAbbrev2" : "Current",
 	"HQExpAbbrev3" : "Total",
+	"HQRankPoints" : " pts",
 	
 	"BattleMapCleared" : "Cleared",
 	"BattleMapNotClear" : "Not Cleared",
@@ -281,6 +282,9 @@
 	"PredictionStampSortie" : "Sunk",
 	"PredictionStampPvP" : "Knocked Out",
 	
+	"EventRankHardAbbr"    : "H",
+	"EventRankNormalAbbr"  : "N",
+	"EventRankEasyAbbr"    : "E",
 	"EventHistoryRank1"  : "EASY",
 	"EventHistoryRank2"  : "NORMAL",
 	"EventHistoryRank3"  : "HARD",
@@ -353,6 +357,23 @@
 	"ExpedTotalLv" : "total Lv",
 	"ExpedCanister" : "canisters on ",
 	"ExpedCheckReq" : "Check requirements",
+	
+	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
+	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
+	"CraftEquipNotePenguin" : "Equipment crafting failed",
+	
+	"ModernizationResultLeft" : "<span></span> left",
+	"ModernizationResultNote" : "Stats indicated are values without equipment",
+	
+	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
+	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",
+	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",
+	"DesktopNotifyRepairCompleteMessage" : "{0} is out of the repair dock!",
+	"DesktopNotifyConstrCompleteTitle" : "Construction Complete!",
+	"DesktopNotifyConstrCompleteMessageFaced" : "New shipgirl {0} has been constructed!",
+	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
+	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
+	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
 	
 	"LodgerPageStepRw"  : "Prev 1 step",
 	"LodgerPageStepFw"  : "Next 1 step",

@@ -254,6 +254,7 @@
 	"HQExpAbbrev1" : "次まで",
 	"HQExpAbbrev2" : "既得",
 	"HQExpAbbrev3" : "総経験",
+	"HQRankPoints" : "戦果",
 
 	"BattleMapCleared" : "クリア",
 	"BattleMapNotClear" : "攻略中",
@@ -281,6 +282,9 @@
 	"PredictionStampSortie" : "撃沈",
 	"PredictionStampPvP" : "轟沈",
 
+	"EventRankHardAbbr"    : "甲",
+	"EventRankNormalAbbr"  : "乙",
+	"EventRankEasyAbbr"    : "丙",
 	"EventHistoryRank1"  : "丙",
 	"EventHistoryRank2"  : "乙",
 	"EventHistoryRank3"  : "甲",
@@ -353,6 +357,23 @@
 	"ExpedTotalLv" : "合計Lv：",
 	"ExpedCanister" : "ドラム缶：",
 	"ExpedCheckReq" : "必須条件チェック",
+
+	"CraftEquipNoteFirst" : "この装備は初入手です！",
+	"CraftEquipNoteExists" : "この装備は <strong>{0}</strong>個持ってます！",
+	"CraftEquipNotePenguin" : "装備開発、失敗しました。",
+
+	"ModernizationResultLeft" : "あと<span></span>",
+	"ModernizationResultNote" : "装備補正を除いた数値です",
+
+	"DesktopNotifyExpedCompleteTitle" : "遠征が完了しました！",
+	"DesktopNotifyExpedCompleteMessage" : "艦隊 {0}が遠征 #{1}から戻って来ました。",
+	"DesktopNotifyRepairCompleteTitle" : "修理完了しました！",
+	"DesktopNotifyRepairCompleteMessage" : "入渠していた <strong>{0}</strong>が ドックから出られました。",
+	"DesktopNotifyConstrCompleteTitle" : "建造完了しました！",
+	"DesktopNotifyConstrCompleteMessageFaced" : "新しい艦娘 <strong>{0}</strong>が 艦隊に加わりました。",
+	"DesktopNotifyConstrCompleteMessageUnknown" : "新しい艦娘が 艦隊に加わりました。",
+	"DesktopNotifyMoraleTitle" : "艦隊コンディション回復！",
+	"DesktopNotifyMoraleMessage" : "今選択した艦隊の艦娘たちが 疲労状態から回復しました。",
 
 	"LodgerPageStepRw"  : "前へ",
 	"LodgerPageStepFw"  : "次へ",

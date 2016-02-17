@@ -153,7 +153,7 @@
 	"SettingsBattleStamp" : "艦娘コンディション",
 	"SettingsBossComp" : "ボス編成",
 	"SettingsSaltyShip" : "艦娘特別チェック",
-	"SettingsYasenTroll" : "夜戦特別サポート",
+	"SettingsYasenTroll" : "KC3改のツッコミ入れ",
 	"SettingsHQDelta" : "出撃提督経験値差分",
 	"SettingsFleetStatus" : "艦隊状態報告",
 	"SettingsAutoExpedTab" : "自動的遠征タブを表示",
@@ -240,7 +240,6 @@
 	"None" : "なし",
 	"LearnMore" : "もっと詳しく",
 	"Saved" : "保存した",
-
 	"TimerComplete" : "完了",
 
 	"UnwantedExit" : "もう行っちゃうの(´・ω・｀)？寂しくなるよ！",
@@ -258,6 +257,14 @@
 
 	"BattleMapCleared" : "クリア",
 	"BattleMapNotClear" : "攻略中",
+	"BattleMapKills" : " 回",
+	"BattleMapNoHpGauge" : "ゲージなし",
+	"BattleSupportExped" : "遠征支援艦隊到着？",
+	"BattleItemDrop" : "期間限定アイテムドロップ",
+	"BattleNightNeeded" : "夜戦必要？",
+	"BattleRating" : "戦闘評価",
+	"BattleAvoided" : "気のせいだった。",
+	"BattleSelect" : "針路選択：",
 
 	"BattleDetection" : "索敵",
 	"BattleEngangement" : "形態",
@@ -265,6 +272,11 @@
 	"BattleAirBattle" : "制空",
 	"BattleFriendly" : "友軍",
 	"BattleEnemy" : "敵軍",
+
+	"ShipFire"    : "火力：",
+	"ShipTorpedo" : "雷装：",
+	"ShipAntiAir" : "対空：",
+	"ShipArmor"   : "装甲：",
 
 	"PredictionStampSortie" : "撃沈",
 	"PredictionStampPvP" : "轟沈",
@@ -277,9 +289,11 @@
 	"PanelDocking" : "入渠",
 	"PanelAkashi" : "明石",
 	"PanelNoRepair" : "修理する必要なし",
-	"PanelCantRepair" : "泊地修理不可能",
+	"PanelCantRepair" : "泊地修理不能",
 	"PanelHighestDocking" : "最大の入渠修理の時間",
 	"PanelHighestAkashi" : "最大の明石修理の時間",
+	"PanelRepairMoreDays" : "24時間以上",
+	"PanelRepairing" : "修理中...",
 
 	"PanelHasTaiha" : "大破あり",
 	"PanelFSTaiha" : "旗艦大破",
@@ -293,8 +307,12 @@
 	"PanelGoodMorale" : "通常状態",
 	"PanelRecoveredMorale" : "状態回復",
 	"PanelSupportPower" : "支援射撃火力",
-	"PanelPlanesFighter" : "制空戦に参加する艦載機",
-	"PanelPlanesBomber" : "開幕攻撃に参加する艦載機",
+	"PanelPlanesFighter" : "制空戦に参加する全戦闘機",
+	"PanelPlanesBomber" : "開幕攻撃に参加する全戦闘機",
+
+	"PanelToggleSounds" : "音声切り替え",
+	"PanelFitWindow" : "サイズ最適化",
+	"PanelExportToKCDB" : "Kancolle-calc DeckBuilderへ出力",
 
 	"MissionLabelActivity" : "遠征",
 	"MissionGetItems" : "入手アイテム：",
@@ -303,6 +321,7 @@
 	"MissionActivity2" : "成功",
 	"MissionActivity3" : "大成功",
 
+	"CombinedFleet" : "連合艦隊",
 	"CombinedCarrier" : "空母機動",
 	"CombinedSurface" : "水上打撃",
 	"CombinedTransport" : "輸送護衛",

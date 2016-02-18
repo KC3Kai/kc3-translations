@@ -57,6 +57,8 @@
         "MenuScheduledNow" : "มีเวอร์ชั่นใหม่",
 	"MenuPvPReset" : "ทีม PVP จะรีเซ็ตในอีก",
 	"MenuQuestReset" : "เควสจะรีเซ็ตในอีก",
+        "MenuServerMaintenance" : "เซิร์ฟเวอร์ปิดครั้งต่อไป",
+        "MenuTimeUnknown": "ไม่มีข้อมูล",
 
 	"GameDMMRedirect" : "คุณกำลังจะถูกส่งเข้าไปเล่นโดยตรงผ่านเว็บ DMM",
 	"GameDMMFrame" : "ระบบจะทำการเปิดเว็บ DMM ผ่านทาง iFrame",
@@ -237,6 +239,7 @@
 	"None" : "ไม่มี",
 	"LearnMore" : "อ่านคำอธิบาย",
 	"Saved" : "บันทึกการตั้งค่า!",
+	"TimerComplete" : "เสร็จแล้ว!",
 	
 	"UnwantedExit" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! โปรดจำไว้ว่า API ตอนนี้ใช้ได้ครั้งเดียวนะคะ หากผู้การจะเข้าใหม่อีกรอบ ให้กดปุ่ม รีเฟรช API ด้วยนะคะ",
         "UnwantedExitDMM" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! ถ้าจะเล่นใหม่ ผู้การกดรีเฟรชได้เลยนะคะ ระบบป้องกัน UNLIMITED Catbombs WORKS! ทำงาน! โดยไม่ผ่าน API",
@@ -247,9 +250,22 @@
 	"SpeedSlow" : "กองเรือช้า",
 	
 	"HQText" : "HQ",
+	"HQAdmiralLv" : "HQ",
 	"HQExpAbbrev1" : "ต่อไป",
 	"HQExpAbbrev2" : "ปัจุบัน",
 	"HQExpAbbrev3" : "ทั้งหมด",
+	"HQRankPoints" : " แต้ม",
+	
+	"BattleMapCleared" : "ผ่านแล้ว",
+	"BattleMapNotClear" : "ยังไม่ผ่าน",
+	"BattleMapKills" : " เกจ",
+	"BattleMapNoHpGauge" : "ไม่มีเกจ",
+	"BattleSupportExped" : "ส่งสนับสนุน?",
+	"BattleItemDrop" : "ไม่มีของดรอป",
+	"BattleNightNeeded" : "รบกลางคืนต่อ?",
+	"BattleRating" : "เรตติ้ง",
+	"BattleAvoided" : "~ไม่ต้องสู้~",
+	"BattleSelect" : "เลือก: ",
 	
 	"BattleDetection" : "สอดแนม",
 	"BattleEngangement" : "สู้รบ",
@@ -257,10 +273,21 @@
 	"BattleAirBattle" : "น่านฟ้า",
 	"BattleFriendly" : "ทีมเรา",
 	"BattleEnemy" : "ทีมศัตรู",
+	"BattleContactVs" : " vs ",
+	"BattleContactYes" : "YES",
+ 	"BattleContactNo" : "NO",
+	
+	"ShipFire"    : "FP: ",
+	"ShipTorpedo" : "Torp: ",
+	"ShipAntiAir" : "AA: ",
+	"ShipArmor"   : "Armor: ",
 	
 	"PredictionStampSortie" : "จม",
 	"PredictionStampPvP" : "น็อกเอ๊าต์",
 	
+	"EventRankHardAbbr"    : "H",
+	"EventRankNormalAbbr"  : "N",
+	"EventRankEasyAbbr"    : "E",
 	"EventHistoryRank1"  : "ง่าย",
 	"EventHistoryRank2"  : "ธรรมดา",
 	"EventHistoryRank3"  : "ยาก",
@@ -272,6 +299,8 @@
 	"PanelCantRepair" : "ซ่อมแซมไม่ได้",
 	"PanelHighestDocking" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อู่ซ่อมเรือ",
 	"PanelHighestAkashi" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อาคาชิ",
+        "PanelRepairMoreDays" : "ซ่อมนานกว่า 1 วัน",
+	"PanelRepairing" : "กำลังซ่อมบำรุง...",
 
 	"PanelHasTaiha" : "เรือเสียหายหนัก",
 	"PanelFSTaiha" : "เรือธงแดง",
@@ -283,9 +312,13 @@
 	"PanelEmptySupply" : "ยุทธปัจจัยหมด",
 	"PanelGreatMorale" : "กำลังใจดีมาก",
 	"PanelGoodMorale" : "กำลังใจดี",
+        "PanelRecoveredMorale" : "กำลังใจพร้อม",
 	"PanelSupportPower" : "กำลังรบของกองกำลังสนับสนุน",
 	"PanelPlanesFighter" : "เครื่องบินที่เข้าร่วมรบน่านฟ้า",
 	"PanelPlanesBomber" : "เครื่องบินที่เข้าร่วมการโจมตี",
+	"PanelToggleSounds" : "ปิดเสียง",
+	"PanelFitWindow" : "ปรับขนาดหน้าจอ",
+	"PanelExportToKCDB" : "ส่งข้อมูลไป Kancolle-calc DeckBuilder",
 	
 	"MissionLabelActivity" : "สถานะ",
 	"MissionGetItems" : "รางวัล:",
@@ -294,6 +327,7 @@
 	"MissionActivity2" : "สำเร็จ",
 	"MissionActivity3" : "สำเร็จ (โบนัส)",
 	
+	"CombinedFleet" : "กองเรือผสม",
 	"CombinedCarrier" : "คิโดบุไต",
 	"CombinedSurface" : "ซุยโจบุไต",
 	"CombinedTransport" : "กองเรือขนส่ง",
@@ -325,8 +359,26 @@
 	"ExpedTotalLv" : "เลเวลรวม ",
 	"ExpedCanister" : " ถัง ",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
+	"ExpedExpUnit" : " exp",
 	
-		"LodgerPageStepRw"  : "หน้าถัดไป",
+	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
+	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
+	"CraftEquipNotePenguin" : "Equipment crafting failed",
+
+	"ModernizationResultLeft" : "{0} left",
+	"ModernizationResultNote" : "Stats indicated are values without equipment",
+
+	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
+	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",
+	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",
+	"DesktopNotifyRepairCompleteMessage" : "{0} is out of the repair dock!",
+	"DesktopNotifyConstrCompleteTitle" : "Construction Complete!",
+	"DesktopNotifyConstrCompleteMessageFaced" : "New shipgirl {0} has been constructed!",
+	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
+	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
+	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
+
+	"LodgerPageStepRw"  : "หน้าถัดไป",
 	"LodgerPageStepFw"  : "กลับหน้าที่แล้ว",
 	"LodgerPageRefresh" : "ยืนยันการแก้ไข",
 	

@@ -267,13 +267,15 @@
 	"BattleRating" : "Battle Rating",
 	"BattleAvoided" : "~Battle Avoided~",
 	"BattleSelect" : "Select: ",
-	
 	"BattleDetection" : "Detection",
 	"BattleEngangement" : "Engage",
 	"BattleContact" : "Contact",
 	"BattleAirBattle" : "Air Battle",
 	"BattleFriendly" : "Friendly",
 	"BattleEnemy" : "Enemies",
+	"BattleContactVs" : " vs ",
+	"BattleContactYes" : "YES",
+	"BattleContactNo" : "NO",
 	
 	"ShipFire"    : "FP: ",
 	"ShipTorpedo" : "Torp: ",
@@ -364,7 +366,7 @@
 	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
 	"CraftEquipNotePenguin" : "Equipment crafting failed",
 	
-	"ModernizationResultLeft" : "<span></span> left",
+	"ModernizationResultLeft" : "{0} left",
 	"ModernizationResultNote" : "Stats indicated are values without equipment",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",

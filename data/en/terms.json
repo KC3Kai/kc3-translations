@@ -252,6 +252,19 @@
 	"GameUpdateShips" : "There is(are) <strong>{0} new ship(s)</strong>! Click here to learn more about them in the Strategy Room!",
 	"GameUpdateEquips" : "There is(are) <strong>{0} new equipment</strong>! Click here to learn more about them in the Strategy Room!",
 	
+	"CatBombServerCommErrorTitle" : "Server Communication Error",
+	"CatBombServerCommErrorMsg"   : "[{0}] failed to communicate with the server. It is not a matter of API link, but somewhat on your connectivity or environment.",
+	"CatBombHardAPIErrorTitle" : "Hard API Error",
+	"CatBombHardAPIErrorMsg"   : "The server responded with an error for your API calls. You might be using an expired API link, or it's probably maintenance! You may want to <a href=\"http://kancolle.wikia.com/wiki/Recent_Updates#Future_updates\" target=\"_blank\">check the wikia for notices</a>, or refresh your API link.",
+	"CatBombWrongComputerClockTitle" : "Wrong Computer Clock!",
+	"CatBombWrongComputerClockMsg"   : "Please correct your computer clock. You do not need to be on Japan timezone, but it needs to be the correct local time for your local timezone! Your clock is off by {0} minutes.",
+	"CatBombErrorOnHomePortTitle" : "Error when entering Home Port screen",
+	"CatBombErrorOnHomePortMsg"   : "Please reload the game.",
+	"CatBombAPIDataErrorTitle" : "API Data Error",
+	"CatBombAPIDataErrorMsg"   : "The most recent action completed the network communication with server but returned an error. Check if it's now maintenance, or if your API link is still working.",
+	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
+	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication with server (or via the proxy). It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
+	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",
 	

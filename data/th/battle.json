@@ -10,12 +10,12 @@
 	],
 	
 	"airbattle" : [
-		["ไม่มี", "", "No Air Battle"],
 		["เสมอ", "", "Air Parity"],
 		["ชนะขาด", "good", "Air Supremacy"],
 		["ชนะ", "good", "Air Superiority"],
 		["แพ้", "bad", "Air Incapability"],
-		["แพ้ขาด", "bad", "Air Denial"]
+		["แพ้ขาด", "bad", "Air Denial"],
+		["ไม่มี", "", "No Air Battle"]
 	],
 	
 	"engagement" : [

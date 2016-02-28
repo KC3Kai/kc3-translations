@@ -518,6 +518,16 @@
         "name": "Carry out the Operation Rei-Gou!",
         "desc": "Sortie Kasumi as flagship, Ashigara  Ooyodo, Asashimo, Kiyoshimo and 1 additional ship to W2-5 and S-Rank at the boss"
     },
+    "805": {
+	"code": "B58",
+        "name": "Send Kasumi to Patrol the Northern Sea",
+        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to World 3-1 and S-Rank at the boss"
+    },
+    "806": {
+        "code": "B59",
+        "name": "Sortie Kasumi and Defeat the Enemy Fleet",
+        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 2 DD and up to 3 additional ships to World 2-5 and S-Rank at the boss"
+    },
     
     
     
@@ -1085,6 +1095,15 @@
         "code": "NY4",
         "name": "A happy new year! Carrier Task Force, sortie!",
         "desc": "Clear 6-2 twice with 2 CV in your fleet"
+    },
+    "234": {
+        "code": "RG01",
+        "name": "Complete Winter 2016 Operation Rei-Go",
+        "desc": "Clear Winter 2016 E-1 and E-2 maps"
+    },
+    "421": {
+        "code": "RG02",
+        "name": "Friendly Ship Naval Review Participation",
+        "desc": "Send any 6 ships (Flagship Lv6+) and clear Expedition 175"
     }
-
 }

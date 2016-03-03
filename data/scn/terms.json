@@ -59,6 +59,7 @@
     "MenuQuestReset" : "距日常任务刷新还有",
     "MenuServerMaintenance" : "距下次服务器维护还有",
     "MenuTimeUnknown": "未知",
+    "MaintenanceComplete": "维护完成",
 
     "GameDMMRedirect" : "即将前往DMM网站进行游戏",
     "GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
@@ -241,6 +242,24 @@
     "APIWaitToggle" : "请先打开“KC3改”面板",
     "APIConcealExpl" : "查询API链接地址",
 
+    "GameUpdateDetected" : "检测到游戏更新！",
+    "GameUpdateBoth": "检测到<strong>{0}位新舰娘</strong> 与 <strong>{1}种新装备</strong>！点此在作战指挥所查看！",
+    "GameUpdateShips" : "检测到<strong>{0}位新舰娘</strong>！点此在作战指挥所查看！",
+    "GameUpdateEquips" : "检测到<strong>{0}种新装备</strong>！点此在作战指挥所查看",
+
+    "CatBombServerCommErrorTitle" : "服务器通信出错",
+    "CatBombServerCommErrorMsg"   : "[{0}]与服务器的通信失败。此问题可能与您的网络连接和环境有关，并非API链接所致。",
+    "CatBombHardAPIErrorTitle" : "API错误",
+    "CatBombHardAPIErrorMsg"   : "服务器返回了API调用错误。可能原因为服务器维护或是您的API链接已过期。您可查看 <a href=\"http://zh.kcwiki.moe\" target=\"_blank\">在舰娘百科确认是否维护信息</a>，或是刷新您的API链接。",
+    "CatBombWrongComputerClockTitle" : "电脑时钟错误！",
+    "CatBombWrongComputerClockMsg"   : "您的电脑时钟有{0}分钟的偏差，请调整到正确的时间。（您不必设置到日本时区，但请确保设置了正确的本地时间）",
+    "CatBombErrorOnHomePortTitle" : "进入主界面时出错",
+    "CatBombErrorOnHomePortMsg"   : "请刷新游戏",
+    "CatBombAPIDataErrorTitle" : "API数据错误",
+    "CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
+    "CatBombMissingServerTimeTitle" : "无法获得服务器时间",
+    "CatBombMissingServerTimeMsg"   : "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
+
     "SpeedFast" : "高速",
     "SpeedSlow" : "低速",
 
@@ -255,6 +274,11 @@
     "BattleAirBattle" : "航空战",
     "BattleFriendly" : "我方",
     "BattleEnemy" : "敌方",
+
+    "ShipFire"    : "火力： ",
+    "ShipTorpedo" : "雷装： ",
+    "ShipAntiAir" : "对空： ",
+    "ShipArmor"   : "装甲： ",
 
     "PredictionStampSortie" : "击沉",
     "PredictionStampPvP" : "出局",
@@ -323,6 +347,24 @@
     "ExpedTotalLv" : "总等级",
     "ExpedCanister" : "运输桶装备于",
     "ExpedCheckReq" : "符合要求？",
+    "ExpedExpUnit" : " 经验",
+
+    "CraftEquipNoteFirst" : "这是您<strong>首次</strong>开发出此装备！",
+    "CraftEquipNoteExists" : "此装备您目前持有<strong>{0}</strong>件！",
+    "CraftEquipNotePenguin" : "开发失败",
+
+    "ModernizationResultLeft" : "还剩 {0}",
+    "ModernizationResultNote" : "注：此处为裸装属性",
+
+    "DesktopNotifyExpedCompleteTitle" : "远征完成！",
+    "DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",
+    "DesktopNotifyRepairCompleteTitle" : "入渠完成！",
+    "DesktopNotifyRepairCompleteMessage" : "{0}已完成入渠！",
+    "DesktopNotifyConstrCompleteTitle" : "建造完成！",
+    "DesktopNotifyConstrCompleteMessageFaced" : "新舰娘 {0} 建造完成！",
+    "DesktopNotifyConstrCompleteMessageUnknown" : "新的舰娘已在建造槽等候您了！",
+    "DesktopNotifyMoraleTitle" : "舰队疲劳度恢复！",
+    "DesktopNotifyMoraleMessage" : "当前所选舰队的所有舰娘疲劳度皆已恢复！",
 
     "LodgerPageStepRw"  : "Prev 1 step",
     "LodgerPageStepFw"  : "Next 1 step",

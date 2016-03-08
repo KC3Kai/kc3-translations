@@ -1,57 +1,72 @@
 {
     "101": {
+        "code": "A1",
         "name": "First Formation!",
-        "desc": "Have 2 ships in your main fleet."
+        "desc": "Have 2 ships in your main fleet.",
+        "unlock": [ 102 ]
     },
     "102": {
+        "code": "A2",
         "name": "Form a Destroyer Squadron!",
         "desc": "Have 4 DD in your main fleet."
     },
     "103": {
+        "code": "A3",
         "name": "Form a Torpedo Squadron!",
         "desc": "Have a CL as a flagship and 5 DD in your main fleet."
     },
     "104": {
+        "code": "A4",
         "name": "Form a Six Ship Fleet!",
         "desc": "Have 6 ships in your main fleet."
     },
     "105": {
-        "name": "Form a Squadron with Two CL!",
+        "code": "A5",
+        "name": "Form a Squadron with Two Light Cruisers!",
         "desc": "Have 2 CL in your main fleet."
     },
     "106": {
+        "code": "A7",
         "name": "Form a Heavy Cruiser Squadron!",
         "desc": "Have 2 CA in your main fleet."
     },
     "107": {
+        "code": "A11",
         "name": "Form a Carrier Task Force!",
         "desc": "Have a CV\/CVL as a flagship and 3 DD in your main fleet."
     },
     "108": {
+        "code": "A8",
         "name": "Form the Tenryuu-class!",
         "desc": "Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet."
     },
     "109": {
+        "code": "A14",
         "name": "Form the Sendai-class!",
         "desc": "Have Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) and Naka (\u90a3\u73c2) in your main fleet."
     },
     "110": {
+        "code": "A15",
         "name": "Form the Myoukou-class!",
         "desc": "Have Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) and Haguro (\u7fbd\u9ed2) in your main fleet."
     },
     "111": {
+        "code": "A17",
         "name": "Form the Fusou-class!",
         "desc": "Have Fusou (\u6276\u6851) and Yamashiro (\u5c71\u57ce) in your main fleet."
     },
     "112": {
+        "code": "A18",
         "name": "Form the Ise-class!",
         "desc": "Have Ise (\u4f0a\u52e2) and Hyuuga (\u65e5\u5411) in your main fleet."
     },
     "113": {
+        "code": "A13",
         "name": "Form the Main Fleet with BB and CA!",
         "desc": "Have a BB and 2 CA in your main fleet."
     },
     "114": {
+        "code": "A19",
         "name": "Form the Nagumo Task Force!",
         "desc": "Have ONLY Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) and Souryuu (\u84bc\u9f8d) in your main fleet."
     },

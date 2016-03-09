@@ -662,7 +662,7 @@
         "code": "Bd2",
         "name": "Daily Sortie 2",
         "desc": "Defeat the flagship of an abyssal fleet",
-        "unlock": [ 210, 218, 214, 213 ],
+        "unlock": [ 210, 218, 214, 213, 311 ],
         "tracking": [ [0,1] ]
     },
     "210": {
@@ -805,13 +805,14 @@
         "code": "Bm5",
         "name": "Monthly Escort Duty",
         "desc": "Deploy a fleet to [W1-5] and A-rank+ the boss node 10 times",
+        "unlock": [ 628 ],
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
         "name": "Sortie the Aircraft Carrier Task Force to the West",
         "desc": "2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node",
-        "unlock": [ 266 ]
+        "unlock": [ 266, 626 ]
     },
     "266": {
         "code": "Bm7",

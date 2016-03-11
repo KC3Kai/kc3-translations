@@ -414,32 +414,38 @@
     "203": {
         "code": "B2",
         "name": "Protect the Seas of Chinju-Fu!",
-        "desc": "Deploy to World 1-1 and clear the stage."
+        "desc": "Deploy to World 1-1 and clear the stage.",
+        "unlock": [ 501, 502 ]
     },
     "204": {
         "code": "B4",
         "name": "Sortie to the Coast of Nansei Islands!",
-        "desc": "Deploy to World 1-2 and clear the stage."
+        "desc": "Deploy to World 1-2 and clear the stage.",
+        "unlock": [ 201 ]
     },
     "205": {
         "code": "B5",
         "name": "Intercept Approaching Enemy Vanguard Fleet!",
-        "desc": "Deploy to World 1-2 after defeating its boss and clear the stage."
+        "desc": "Deploy to World 1-2 after defeating its boss and clear the stage.",
+        "unlock": [ 206 ]
     },
     "206": {
         "code": "B6",
         "name": "Sortie the Torpedo Squadron!",
-        "desc": "Deploy a fleet with a CL as flagship and 3 DD as escorts."
+        "desc": "Deploy a fleet with a CL as flagship and 3 DD as escorts.",
+        "unlock": [ 207, 255 ]
     },
     "207": {
         "code": "B7",
         "name": "Sortie a Heavy Cruiser!",
-        "desc": "Deploy a fleet with a CA as its flagship."
+        "desc": "Deploy a fleet with a CA as its flagship.",
+        "unlock": [ 208, 416 ]
     },
     "208": {
         "code": "B8",
         "name": "Sortie a Battleship!",
-        "desc": "Deploy a fleet with a BB as its flagship. BBV don't count."
+        "desc": "Deploy a fleet with a BB as its flagship. BBV don't count.",
+        "unlock": [ 209 ]
     },
     "209": {
         "code": "B9",
@@ -449,7 +455,8 @@
     "215": {
         "code": "B3",
         "name": "Second Fleet Sortie!",
-        "desc": "Deploy your 2nd Fleet on a combat mission."
+        "desc": "Deploy your 2nd Fleet on a combat mission.",
+        "unlock": [ 117 ]
     },
     "217": {
         "code": "B10",
@@ -474,7 +481,8 @@
     "224": {
         "code": "B14",
         "name": "Sortie the Nishimura Fleet!",
-        "desc": "Deploy a fleet with Fusou, Yamashiro, Mogami, Shigure and any 2 ships. Score a victory against World 2-3 Boss."
+        "desc": "Deploy a fleet with Fusou, Yamashiro, Mogami, Shigure and any 2 ships. Score a victory against World 2-3 Boss.",
+        "unlock": [ 147, 148, 155 ]
     },
     "225": {
         "code": "B15",
@@ -484,7 +492,8 @@
     "227": {
         "code": "B16",
         "name": "Sortie the New Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu. Score a victory against World 2-3 Boss."
+        "desc": "Deploy a fleet with Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu. Score a victory against World 2-3 Boss.",
+        "unlock": [ 152, 154 ]
     },
     "231": {
         "code": "B17",
@@ -499,17 +508,20 @@
     "233": {
         "code": "B19",
         "name": "Sortie the Cruiser Division 6!",
-        "desc": "Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss."
+        "desc": "Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss.",
+        "unlock": [ 263 ]
     },
     "239": {
         "code": "B20",
         "name": "Sortie the Destroyer Division 8!",
-        "desc": "Deploy a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships. Score a victory against World 2-3 Boss."
+        "desc": "Deploy a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships. Score a victory against World 2-3 Boss.",
+        "unlock": [ 132, 264, 412 ]
     },
     "240": {
         "code": "B21",
         "name": "Sortie the Destroyer Division 18!",
-        "desc": "Deploy a fleet with Kasumi, Arare, Kagerou, Shiranui and 2 additional ships. Score a victory against World 3-1 Boss."
+        "desc": "Deploy a fleet with Kasumi, Arare, Kagerou, Shiranui and 2 additional ships. Score a victory against World 3-1 Boss.",
+        "unlock": [ 265 ]
     },
     "244": {
         "code": "B22",
@@ -534,12 +546,14 @@
     "248": {
         "code": "B24",
         "name": "30th Destroyer Fleet's Anti-Submarine Patrol",
-        "desc": "Deploy Mutsuki, Yayoi, Uzuki and Mochizuki to World 1-5 and reach the boss, scoring at least a C rank."
+        "desc": "Deploy Mutsuki, Yayoi, Uzuki and Mochizuki to World 1-5 and reach the boss, scoring at least a C rank.",
+        "unlock": [ 137, 252 ]
     },
     "250": {
         "code": "B25",
         "name": "Deploy the 2nd Carrier Division",
-        "desc": "Deploy Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the flagship, Souryuu (\u84bc\u9f8d) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss."
+        "desc": "Deploy Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the flagship, Souryuu (\u84bc\u9f8d) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss.",
+        "unlock": [ 141, 614, 615 ]
     },
     "251": {
         "code": "B26",
@@ -554,7 +568,8 @@
     "253": {
         "code": "B28",
         "name": "Deploy the 601 Air Group",
-        "desc": "Deploy a fleet with Unryuu Kai (\u96f2\u9f8d\u6539) as the flagship to World 5-2 and score an S rank victory against the boss."
+        "desc": "Deploy a fleet with Unryuu Kai (\u96f2\u9f8d\u6539) as the flagship to World 5-2 and score an S rank victory against the boss.",
+        "unlock": [ 616 ]
     },
     "254": {
         "code": "B29",
@@ -564,17 +579,20 @@
     "255": {
         "code": "B30",
         "name": "Deploy a Torpedo Squadron to Bashi Islands",
-        "desc": "Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship."
+        "desc": "Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship.",
+        "unlock": [ 256 ]
     },
     "258": {
         "code": "B31",
         "name": "Sortie the 2nd Squadron",
-        "desc": "Deploy Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node."
+        "desc": "Deploy Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.",
+        "unlock": [ 145 ]
     },
     "260": {
         "code": "B32",
         "name": "Deploy the Battleship Squadron in the Northern Waters",
-        "desc": "Deploy two battleships, a light aircraft carrier and up to three additional ships to World 3-5 and score an S rank victory at the boss node."
+        "desc": "Deploy two battleships, a light aircraft carrier and up to three additional ships to World 3-5 and score an S rank victory at the boss node.",
+        "unlock": [ 285 ]
     },
     "262": {
         "code": "B33",
@@ -589,7 +607,8 @@
     "267": {
         "code": "B35",
         "name": "Deploy the 11th Destroyer Division",
-        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) and up to 2 additional ships to World 2-3 and score a victory at the boss node."
+        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) and up to 2 additional ships to World 2-3 and score a victory at the boss node.",
+        "unlock": [ 150 ]
     },
     "268": {
         "code": "B36",
@@ -599,7 +618,8 @@
     "269": {
         "code": "B37",
         "name": "Deploy the 21st Destroyer Division",
-        "desc": "Deploy Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node."
+        "desc": "Deploy Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.",
+        "unlock": [ 271 ]
     },
     "270": {
         "code": "B39",
@@ -609,12 +629,14 @@
     "271": {
         "code": "B38",
         "name": "Deploy Nachi's Squadron",
-        "desc": "Sortie a fleet with Nachi (\u90a3\u667a) as flagship, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) and one additional ship to world 2-2 and score an S rank victory at the boss node."
+        "desc": "Sortie a fleet with Nachi (\u90a3\u667a) as flagship, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) and one additional ship to world 2-2 and score an S rank victory at the boss node.",
+        "unlock": [ 151 ]
     },
     "272": {
         "code": "B40",
         "name": "Deploy the Remodelled Anti-Aircraft Heavy Cruiser",
-        "desc": "Sortie a fleet with Maya (\u6469\u8036) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node."
+        "desc": "Sortie a fleet with Maya (\u6469\u8036) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.",
+        "unlock": [ 417 ]
     },
     "273": {
         "code": "B41",
@@ -624,7 +646,8 @@
     "274": {
         "code": "B42",
         "name": "6th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma and Ikazuchi to 1-5. C-Rank+ the boss"
+        "desc": "Deploy Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma and Ikazuchi to 1-5. C-Rank+ the boss",
+        "unlock": [ 153, 277 ]
     },
     "275": {
         "code": "B43",
@@ -644,7 +667,8 @@
     "278": {
         "code": "B46",
         "name": "Rush the 1st Torpedo Squadron to Operation KE",
-        "desc": "Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss"
+        "desc": "Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss",
+        "unlock": [ 309 ]
     },
     "279": {
         "code": "B47",
@@ -664,7 +688,8 @@
     "287": {
         "code": "B50",
         "name": "Sortie the 5th Carrier Division to the Southern Sea Coral Islands",
-        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss"
+        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss",
+        "unlock": [ 169, 622, 623, 420 ]
     },
     "288": {
         "code": "B51",
@@ -674,27 +699,32 @@
     "289": {
         "code": "B52",
         "name": "Sortie the 16th Squadron (First Generation)",
-        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss"
+        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss",
+        "unlock": [ 168 ]
     },
 	"293": {
         "code": "B53",
         "name": "3rd Carrier Division: defend the Nansei Islands",
-        "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss"
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss",
+        "unlock": [ 165 ]
     },
 	"294": {
         "code": "B54",
         "name": "Sortie the Ozawa's fleet",
-        "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss"
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss",
+        "unlock": [ 626 ]
     },
 	"295": {
         "code": "B55",
         "name": "Sortie the 16th Squadron (Second Generation)",
-        "desc": "Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss"
+        "desc": "Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss",
+        "unlock": [ 169 ]
     },
 	"296": {
         "code": "B56",
         "name": "Sortie the New Carrier Division to the North",
-        "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss"
+        "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss",
+        "unlock": [ 170 ]
     },
 	"297": {
         "code": "B57",
@@ -704,7 +734,8 @@
     "805": {
         "code": "B58",
         "name": "Send Kasumi to Patrol the Northern Sea",
-        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to World 3-1 and S-Rank at the boss"
+        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to World 3-1 and S-Rank at the boss",
+        "unlock": [ 806 ]
     },
     "806": {
         "code": "B59",
@@ -920,17 +951,20 @@
     "307": {
         "code": "C5",
         "name": "Improve the Efficiency of the Fleet",
-        "desc": "Get 3 victories in practice mode within the same day"
+        "desc": "Get 3 victories in practice mode within the same day",
+        "unlock": [ 273 ]
     },
     "308": {
         "code": "C6",
         "name": "Improve the Efficiency of the Fleet One More Time",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "desc": "Get 4 victories in practice mode within the same day",
+        "unlock": [ 419 ]
     },
     "309": {
         "code": "C7",
         "name": "Extra Training in Preparation for Another Rush to the Northern Sea",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "desc": "Get 4 victories in practice mode within the same day",
+        "unlock": [ 157 ]
     },
     "311": {
         "code": "C8",
@@ -968,17 +1002,20 @@
     "405": {
         "code": "D5",
         "name": "The First Submarine Operation",
-        "desc": "Complete Expedition 30"
+        "desc": "Complete Expedition 30",
+        "unlock": [ 406 ]
     },
     "406": {
         "code": "D6",
         "name": "The Second Submarine Operation",
-        "desc": "Complete Expedition 30 one more time"
+        "desc": "Complete Expedition 30 one more time",
+        "unlock": [ 408 ]
     },
     "408": {
         "code": "D7",
         "name": "Continuation of Submarine Operations",
-        "desc": "Complete Expedition 30 two more times"
+        "desc": "Complete Expedition 30 two more times",
+        "unlock": [ 409 ]
     },
     "409": {
         "code": "D8",
@@ -989,13 +1026,14 @@
         "code": "D9",
         "name": "Weekly Expedition 2",
         "desc": "(Weekly) Complete expedition 37 or 38",
-        "unlock": [ 411 ],
+        "unlock": [ 411, 420 ],
         "tracking": [ [0,1] ]
     },
     "412": {
         "code": "D10",
         "name": "Strengthen the Operation of the BBV",
-        "desc": "Complete expedition 23"
+        "desc": "Complete expedition 23",
+        "unlock": [ 247, 413 ]
     },
     "411": {
         "code": "D11",
@@ -1011,12 +1049,14 @@
     "414": {
         "code": "D13",
         "name": "Blue Waters Submarine Operation",
-        "desc": "Complete expedition 39"
+        "desc": "Complete expedition 39",
+        "unlock": [ 415 ]
     },
     "415": {
         "code": "D14",
         "name": "Blue Waters Extended Submarine Operation",
-        "desc": "Complete expedition 39 two more times"
+        "desc": "Complete expedition 39 two more times",
+        "unlock": [ 272 ]
     },
     "416": {
         "code": "D15",
@@ -1026,7 +1066,8 @@
     "417": {
         "code": "D16",
         "name": "Deploy the Decoy Task Force",
-        "desc": "Complete expedition 15"
+        "desc": "Complete expedition 15",
+        "unlock": [ 308 ]
     },
     "418": {
         "code": "D17",
@@ -1041,7 +1082,8 @@
     "420": {
         "code": "D19",
         "name": "Enhance the Use of the Task Force",
-        "desc": "Complete Expeditions 35 and 26"
+        "desc": "Complete Expeditions 35 and 26",
+        "unlock": [ 624 ]
     },
     
     

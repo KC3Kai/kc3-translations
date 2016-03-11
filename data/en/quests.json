@@ -193,7 +193,7 @@
     },
     "133": {
         "code": "A33",
-        "name": "Form the Destroyer Division 30 (Gen-1)!",
+        "name": "Form the Destroyer Division 30 (First Generation)!",
         "desc": "Have ONLY Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) and Mochizuki (\u671b\u6708) in your fleet.",
         "unlock": [ 136, 244 ]
     },
@@ -211,7 +211,7 @@
     },
     "136": {
         "code": "A34",
-        "name": "Form the 30th Destroyer Fleet (Gen.2)",
+        "name": "Form the 30th Destroyer Fleet (Second Generation)",
         "desc": "Have only Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) and Mochizuki (\u671b\u6708) in your fleet.",
         "unlock": [ 152, 248 ]
     },
@@ -348,7 +348,7 @@
     "162": {
         "code": "A57",
         "name": "Prepare the New 21st Squadron for Sortie",
-        "desc": "Have Nachi(Kai-2), Ashigara(Kai-2), Tama and Kiso in your main fleet",
+        "desc": "Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet",
         "unlock": [ 288 ]
     },
     "163": {
@@ -401,8 +401,13 @@
     },
     "171": {
         "code": "A66",
-        "name": "Form the 31st Destroyer Division (First Gen)",
-        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni as Flagship and which contains both Satsuki Kai Ni and Uzuki Kai"
+        "name": "Form the 31st Destroyer Division (First Generation)",
+        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni (\u4E94\u5341\u9234\u6539\u4E8C) as Flagship and which contains both Satsuki Kai Ni (\u7690\u6708\u6539\u4E8C) and Uzuki Kai (\u536F\u6708\u6539)"
+    },
+    "172":{
+        "code": "A67",
+        "name": "Form the 27th Destroyer Division (Second Generation)",
+        "desc": "Have Shiratsuyu Kai (\u767D\u9732\u6539) as flagship, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) and Samidare (\u4E94\u6708\u96E8) in your fleet"
     },
     
     
@@ -525,7 +530,7 @@
     },
     "244": {
         "code": "B22",
-        "name": "Deploy the Destroyer Division 30 (Gen-1)",
+        "name": "Deploy the Destroyer Division 30 (First Generation)",
         "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs or 1 DD with 1 CL as flagship to world 3-2 and encounter the boss. C rank or above is required."
     },
     "245": {

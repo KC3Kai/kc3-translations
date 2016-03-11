@@ -1118,56 +1118,63 @@
     
     
     "605": {
-        "code": "F1",
+        "code": "F5",
         "name": "Daily Development 1",
         "desc": "Craft a piece of equipment (Failures are OK)",
         "unlock": [ 606 ],
         "tracking": [ [0,1] ]
     },
     "606": {
-        "code": "F2",
+        "code": "F6",
         "name": "Daily Construction 1",
         "desc": "Craft a ship",
         "unlock": [ 607 ],
         "tracking": [ [0,1] ]
     },
     "607": {
-        "code": "F3",
+        "code": "F7",
         "name": "Daily Development 2",
         "desc": "Craft 3 pieces of equipment (Failures are OK)",
         "unlock": [ 608 ],
         "tracking": [ [0,3] ]
     },
      "608": {
-        "code": "F4",
+        "code": "F8",
         "name": "Daily Construction 2",
         "desc": "Craft 3 ships",
-        "unlock": [ 609, 619 ],
+        "unlock": [ 609, 617, 619 ],
         "tracking": [ [0,3] ]
     },
      "609": {
-        "code": "F5",
+        "code": "F9",
         "name": "Daily Dismantlement",
         "desc": "Scrap 2 ships",
         "tracking": [ [0,2] ]
     },
+    "619": {
+        "code": "F18",
+        "name": "Daily Equipment Modernisation",
+        "desc": "Perform equipment modernisation once",
+        "tracking": [ [0,1] ]
+    },
+    
     "601": {
-        "code": "F6",
+        "code": "F1",
         "name": "First Construction",
         "desc": "Craft a ship"
     },
     "602": {
-        "code": "F7",
+        "code": "F2",
         "name": "First Development",
         "desc": "Craft a piece of equipment"
     },
     "603": {
-        "code": "F8",
+        "code": "F3",
         "name": "First Dismantlement",
         "desc": "Dismantle a ship"
     },
     "604": {
-        "code": "F9",
+        "code": "F4",
         "name": "First Disposal",
         "desc": "Scrap a piece of equipment"
     },
@@ -1215,13 +1222,8 @@
     "618": {
         "code": "F17",
         "name": "First Equipment Modernisation",
-        "desc": "Perform equipment modernisation once"
-    },
-    "619": {
-        "code": "F18",
-        "name": "Daily Equipment Modernisation",
         "desc": "Perform equipment modernisation once",
-        "tracking": [ [0,1] ]
+        "unlock": [ 619 ]
     },
     "622": {
         "code": "F19",
@@ -1241,17 +1243,20 @@
     "625": {
         "code": "F22",
         "name": "Addition to Prototype Aviation Equipment",
-        "desc": "Scrap equipment 9 times"
+        "desc": "Scrap equipment 9 times",
+        "unlock": [ 627, 630 ]
     },
     "626": {
         "code": "F23",
         "name": "Reorganisation of the elite fighter squad",
-        "desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter"
+        "desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter",
+        "unlock": [ 632 ]
     },
     "627": {
         "code": "F24",
         "name": "Model Conversion: Type 0 Fighter Model 21 (Skilled)",
-        "desc": "Equip a Type 0 Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Type 0 Fighter Model 52"
+        "desc": "Equip a Type 0 Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Type 0 Fighter Model 52",
+        "unlock": [ 628, 629 ]
     },
     "628": {
         "code": "F25",
@@ -1261,12 +1266,14 @@
     "629": {
         "code": "F26",
         "name": "Reorganize the Fighter Force: Type 0 Fighter Model 52 (Skilled)",
-        "desc": "Equip Rank 7 Type 0 Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap Zero Fighter Model 52C (601 Air Group)"
+        "desc": "Equip Rank 7 Type 0 Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap Zero Fighter Model 52C (601 Air Group)",
+        "unlock": [ 631 ]
     },
     "630": {
         "code": "F28",
         "name": "Model Conversion & Reorganization: Type 0 Fighter Model 21 (Skilled)",
-        "desc": "Equip a rank 7 Type 0 Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 21"
+        "desc": "Equip a rank 7 Type 0 Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 21",
+        "unlock": [ 632 ]
     },
     "631": {
         "code": "F27",
@@ -1276,7 +1283,8 @@
     "632": {
         "code": "F29",
         "name": "Model Conversion: Zero Fighter Model 21 (w/ Iwamoto Flight)",
-        "desc": "Equip a rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 52"
+        "desc": "Equip a rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 52",
+        "unlock": [ 167 ]
     },
     "633": {
         "code": "F30",

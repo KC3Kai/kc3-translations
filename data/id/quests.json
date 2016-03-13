@@ -279,6 +279,12 @@
         "name": "Bentuk Kapal Perusak Divisi ke-31 (Generasi Pertama)", 
         "desc": "Bentuk Armada Anti Kapal Selam Ringan dengan Isuzu Kai Ni sebagai Flagship dan terdapat Satsuki Kai Ni dengan Uzuki Kai"
     },
+    "172":{
+        "code": "A67",
+        "name": "Bentuk Kapal Penghancur Divisi ke-27 (Generasi Kedua)",
+        "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu",
+        "unlock": [ 808 ]
+    },
 	
 	
     "202": {
@@ -548,6 +554,16 @@
         "code": "B59",
         "name": "Sorti Kasumi dan Kalahkan Armada Musuh",
         "desc": "Sorti dengan Kasumi Kai Ni sebagai kapal pemimpin, 2 DD dan 3 kapal tambahan ke W2-5 dan S-Rank pada boss node"
+    },
+    "807": {
+        "code": "B60",
+        "name": "Sorti Divisi ke-31",
+        "desc": "Sorti Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai dan maks 3 kapal lagi ke World 1-6 sampai node terakhir"
+    },
+    "808": {
+        "code": "B61",
+        "name": "Sorti Kapal Penghancur Divisi ke-27",
+        "desc": "Sorti Shiratsuyu Kai sebagai pemimpin, Shigure, Harusame, Samidare dan maks 2 kapal lagi ke World 2-3 dan dapatkan S-Rank di boss node"
     },
     
 	

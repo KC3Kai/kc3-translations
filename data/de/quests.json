@@ -231,13 +231,48 @@
         "name": "Stelle die 5. Flugzeugträger-Division neu zusammen!",
         "desc": "Habee Shoukaku, Zuikaku, Oboro und Akigumo in deiner Flotte."
     },
-    "162": {
+  "162": {
         "name": "Bereite die neue 21. Kreuzer-Division für einen Ausfall vor!",
         "desc": "Habe Nachi Kai-2, Ashigara Kai-2, Tama und Kiso in deiner Flotte."
     },
-    "163": {
+  "163": {
         "name": "Stelle die 16. Kreuzer-Division (Erste Generation) zusammen!",
         "desc": "Habe Ashigara als Flaggschiff zusammen mit Kuma und Nagara in deiner Flotte."
+    },
+	"164": {
+		"code": "A59",
+        "name": "Organisiere die 3. Flugzeugträgerdivision",
+        "desc": "Habe Zuikaku Kai als Flaggschiff und Zuihou, Chitose (beide CVL) in deiner Hauptflotte"
+    },
+	"165": {
+		"code": "A60",
+        "name": "Organisiere die 4. Flugzeugträgerdivision",
+        "desc": "Habe Ise Kai und Hyuuga Kai in deiner Haupflotte"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Organisiere Ozawas Flotte",
+        "desc": "Habe Zuikaku Kai als Flaggschiff und Zuihou, Chitose (beide CVL) in deiner Hauptflotte"
+    },
+    "167": {
+		"code": "A62",
+        "name": "Organisiere eine neue Flugzeugträgerdivision",
+        "desc": "Habe Zuikaku Kai Ni, Shoukaku Kai Ni und zwei Zerstörer in deiner Hauptfltte"
+    },
+	"168": {
+		"code": "A63",
+        "name": "Organisiere das 16. Geschwader (zweite Generation)",
+        "desc": "Habe Natori als Flaggschiff und Isuzu und Kinu in deiner Flotte"
+    },
+	"169": {
+		"code": "A64",
+        "name": "Organisiere eine neue Flugzeugträgerdivision",
+        "desc": "Habe 2 CV, 2 BBV/CAV und 2 DD in deiner Flotte"
+    },
+	"170": {
+		"code": "A65",
+        "name": "Verstärke den Oberflächengegenangriff",
+        "desc": "Habe Kasumi als Flaggschiff und Ashigara, Ooyodo und Kiyoshimo in deiner Flotte"
     },
 	
 	
@@ -416,7 +451,7 @@
         "desc": "Schicke eine Flotte mit Maya (\u6469\u8036) Kai or Kai2, einem leichten Kreuzer, zwei Zerstörern und bis zu zwei weiteren Schiffen zu Welt [W2-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
     "273": {
-        "name": "Deploy the Mikawa Flotte to Solomon Islunds",
+        "name": "Sende die Mikawa Flotte zu den Solomon Inseln",
         "desc": "Erstelle eine Flotte mit Choukai Kai-2 (\u9ce5\u6d77\u6539\u30cb) als Flaggschiff und suche dir von den Schiffen Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d), Yuubari (\u5915\u5f35) fünf als Begleitschiffe aus. Schicke diese Flotte zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
     "274": {
@@ -448,7 +483,7 @@
         "desc": "Schicke eine Flotte mit einem Flugzeugträger als Flaggschiff zu Welt [W3-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
 	"286": {
-        "name": "Verstärke die Anti-U-Boot Patrouille in den Gewässern vor der Marinebasis!",
+        "name": "Verstärke die Anti-U-Boot Patrouille vor der Marinebasis!",
         "desc": "Schicke eine Flotte zu Welt [W1-5] und erziele viermal mindestends einen A-Rang bei der Bossgegner-Flotte."
     },
     "287": {
@@ -462,6 +497,31 @@
     "289": {
         "name": "Sende die 16. Kreuzer-Division (erste Generation) aus!",
         "desc": "Schicke eine Flotte mit Ashigara als Flaggschiff zusammen mit Kuma, Nagara and bis zu drei weiteren Schiffen zu Welt [W2-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"293": {
+		"code": "B53",
+        "name": "3rd Carrier Division: Verteidigie die Nansei Inseln",
+        "desc": "Sende eine Flotte mit Zuikaku Kai als Flaggschiff, Zuihou, Chitose and Chiyoda (CVL) und zwei weiteren Schiffen zu 1-4 und erreiche einen S-Rank bei dem Boss"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Sende Ozawas flotte aus",
+        "desc": "Sende eine Flotte mit Zuikaku Kei als Flaggschif, Zuihou Kai, Chitose und Chiyoda (beide CLV), Ise Kai und Hyuuga zu Welt 2-4 und erreihe einen S-Rank beim boss"
+    },
+	"295": {
+		"code": "B55",
+        "name": "Sende das 16. Geschwader (Zweite Generation) aus",
+        "desc": "Sende Natori als Flaggschif mit Isuzu, Kinu und bis zu 3 weiteren Schiffen zu Welt 2-3 und erreiche einen S-Rank bei dem Boss"
+    },
+	"296": {
+		"code": "B56",
+        "name": "Sende neue Flugzeugträger-Flotte in den Norden",
+        "desc": "Sende eine Flotte mit 2 CV, 2 BBV/CAV und 2 DD zu Welt 3-3 und erreiche einen S-Rank bei dem Boss"
+    },
+	"297": {
+		"code": "B57",
+        "name": "Operation Rei-Gou!",
+        "desc": "Sende eine Flotte mit Kasumi als Flaggschiff, Ashigara  Ooyodo, Asashimo, Kiyoshimo und einem weiterem Schiff zu Welt 2-5 und Erreiche einen S-Rank bei dem Boss"
     },
 	
 	
@@ -937,6 +997,51 @@
         "name": "Vorbereitung der Prototyp-Ausrüstung",
         "desc": "Verschrotte 7-mal Ausrüstungsgegenstände."
     },
+    "625": {
+    	"code": "F22",
+    	"name": "Neue Luftfahrtausrüstung (Prototyp)",
+    	"desc": "Verschrotte neun mal Ausrüstung"
+    },
+    "626": {
+    	"code": "F23",
+    	"name": "Neuorganisierung des Elitekämpfer-squads",
+    	"desc": "Besitze erfahrende Crew-mitglieder und Rüste dein Houshou-Sekretärschiff mit einem Rank 7 Typ 0 Jagdflugzeug aus und verschrotte anschließend 2 Typ 0 Modell 21 Jagdflugzeuge und einen Typ 96 Jagdflugzeug"
+    },
+    "627": {
+        "code": "F24",
+        "name": "Modell-Konvertierung (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Flugzeugträger-Sekretärschiff mit einem Typ 0 Modell 21 Jagdflugzeug aus und verschrotte 2 Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "628": {
+        "code": "F25",
+        "name": "Modell-Konvertierung (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Flugzeugträger-Sekretärschiff mit einem Rank 7 Typ 0 Modell 21 Jagdflugzeug aus und verschrotte 2 Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "629": {
+        "code": "F26",
+        "name": "Neuorganiesierung der Jäger (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52 Jagdflugzeug aus und verschrotte ein Typ Null Model C (Flugzeuggruppe 601) Jagdflugzeug"
+    },
+    "630": {
+        "code": "F28",
+        "name": "Modell-Konvertierung und Neuorganisierung (-->Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Erfahrenem Rank 7 Typ 0 Modell 21 Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "631": {
+        "code": "F27",
+        "name": "Modell-Konvertierung und Neuorganisierung (--> Typ Null Modell 52C Iwai-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52C Iwai Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 62 Jagdbomber"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Modell-Konvertierung (--> Typ Null Typ 21 Iwamoto-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 21 Iwamoto-Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 52 Jagdbomber"
+    },
+    "633": {
+        "code": "F30",
+        "name": "Modell-Konvertierung und Neuorganisation (--> Typ Null Typ 52A Iwamoto-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52A Iwamoto-Jagdflugzeug aus und verschrotte zwei Saiun"
+    },
 	
     
 	
@@ -976,6 +1081,26 @@
 	"306": {
         "name": "Im Namen der Liebe! (Teil 2)",
         "desc": "Gewinne gegen zwei Spieler als Zeichen deiner Hingabe!"
+    },
+    "801": {
+        "code": "NY1",
+        "name": "Frohes neues Jahr! Torpedo-Geschwader, auf zum Einsatz!",
+        "desc": "Gewinne einen Einsatz in Welt 1-3 mit einem Torpedo-Geschwader (1 CL, 3-5 DD)"
+    },
+    "802": {
+        "code": "NY2",
+        "name": "Hilf Irako während Neujahr!",
+        "desc": "Schaffe Welt 2-3 dreimal mit einem S-Rank"
+    },
+    "803": {
+        "code": "NY3",
+        "name": "Die Seele der Kriegsschiffe! Ein neues Jahr mit großen Geschützen!",
+        "desc": "Gewinne Welt 4-2 zweimal mit vier BBs"
+    },
+    "804": {
+        "code": "NY4",
+        "name": "Frohes neues! Flugzeugträger-Kriegsflotte!",
+        "desc": "Gewinne Welt 6-2 zweimal mit zwei CVs"
     }
 	
 }

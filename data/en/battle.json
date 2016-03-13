@@ -14,7 +14,8 @@
 		["AS+", "good", "Air Supremacy"],
 		["AS", "good", "Air Superiority"],
 		["AI", "bad", "Air Incapability"],
-		["AD", "bad", "Air Denial"]
+		["AD", "bad", "Air Denial"],
+		["None", "", "No Air Battle"]
 	],
 	
 	"engagement" : [
@@ -23,6 +24,24 @@
 		["HdOn", "", "Head-on"],
 		["Gr-T", "good", "Green T"],
 		["Rd-T", "bad", "Red T"]
-	]
+	],
 	
+	"formation" : [
+		"",
+		"Line Ahead",
+		"Double Line",
+		"Diamond",
+		"Echelon",
+		"Line Abreast",
+		"","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)",
+		"","","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)"
+	]
 }

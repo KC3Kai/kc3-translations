@@ -14,7 +14,8 @@
 		["ชนะขาด", "good", "Air Supremacy"],
 		["ชนะ", "good", "Air Superiority"],
 		["แพ้", "bad", "Air Incapability"],
-		["แพ้ขาด", "bad", "Air Denial"]
+		["แพ้ขาด", "bad", "Air Denial"],
+		["ไม่มี", "", "No Air Battle"]
 	],
 	
 	"engagement" : [
@@ -23,6 +24,24 @@
 		["HdOn", "", "สวนทาง"],
 		["Gr-T", "good", "T เขียว"],
 		["Rd-T", "bad", "T แดง"]
-	]
+	],
 	
+	"formation" : [
+		"",
+		"Line Ahead",
+		"Double Line",
+		"Diamond",
+		"Echelon",
+		"Line Abreast",
+		"","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)",
+		"","","","","","",
+		"Cruising Formation 1 (anti-sub)",
+		"Cruising Formation 2 (forward)",
+		"Cruising Formation 3 (diamond)",
+		"Cruising Formation 4 (battle)"
+	]
 }

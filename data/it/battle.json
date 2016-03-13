@@ -1,5 +1,5 @@
 {
-	"localizzazione" : [
+	"detection" : [
 		["", ""],
 		["OK", "buona"],
 		["OK-", "buona"],
@@ -9,20 +9,40 @@
 		["NO+", "pessima"]
 	],
 	
-	"battaglia aerea" : [
+	"airbattle" : [
 		["AP", "", "Parità Aerea"],
 		["AS+", "good", "Vittoria Aerea"],
 		["AS", "good", "Vantaggio Aereo"],
 		["AI", "bad", "Svantaggio Aereo"],
-		["AD", "bad", "Sconfitta Aerea"]
+		["AD", "bad", "Sconfitta Aerea"],
+		["No", "", "Nessuna Battaglia Aerea"]
 	],
 	
-	"ingaggio" : [
+	"engagement" : [
 		["", "", ""],
 		["Prll", "", "Parallelo"],
 		["HdOn", "", "Frontale"],
 		["Gr-T", "good", "T Verde"],
 		["Rd-T", "bad", "T Rosso"]
+	],
+	
+	"formation" : [
+		"",
+		"In Fila",
+		"Doppia Fila",
+		"Diamante",
+		"Echelon",
+		"Affiancate",
+		"","","","","",
+		"Formazione di Crociera 1 (anti-sub)",
+		"Formazione di Crociera 2 (attacco)",
+		"Formazione di Crociera 3 (diamante)",
+		"Formazione di Crociera 4 (battaglia)",
+		"","","","","","",
+		"Formazione di Crociera 1 (anti-sub)",
+		"Formazione di Crociera 2 (attacco)",
+		"Formazione di Crociera 3 (diamante)",
+		"Formazione di Crociera 4 (battaglia)"
 	]
 	
 }

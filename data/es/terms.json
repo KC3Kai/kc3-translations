@@ -35,14 +35,58 @@
 	"MenuRefreshAPIDesc" : "Abre la pagina de DMM, para obtener tu nuevo link API",
 	"MenuPlayDMMName" : "Jugar en la pagina de DMM",
 	"MenuPlayDMMDesc" : "Jugar en la pagina de DMM, para los más cuidadosos. Totalmente seguro.",
+	
+	"MenuPlayDMMFName" : "Jugar via DMM con Marco",
+	"MenuPlayDMMFDesc" : "La pagina de DMM es enmarcada en KC3改 para personalizaciones",
+	"MenuPlayOSAPIName" : "Jugar via OSAPI",
+	"MenuPlayOSAPIDesc" : "Link de segundo nivel que dura un poco mas que el Link API. No se puede personalizar.",
+	
 	"MenuCookiesName" : "Activar Cookies",
 	"MenuCookiesDesc" : "Usa esto cada vez que aparezca \"Error Area\" en DMM.com",
 	"MenuStrategyName" : "Habitación Táctica",
 	"MenuStrategyDesc" : "Multiples herramientas que te ayudarán a analizar y planear, o simplemente para administrar tu flota",
 	"MenuSettingsDesc" : "Configuración de KC3改. Los cambios se aplican despues de reiniciar la aplicacion. ",
 	"MenuAboutDesc" : "Información de KC3改 y su equipo de desarrolladores, escritores y testers.",
-	"MenuChecking" : "Checando la siguiente actualización de KC3改...",
+	"MenuFBName" : "Danos un Me Gusta en Facebook!",
+	"MenuFBDesc" : "Obten información más reciente, vistas previas de nuevas funciones, y anuncios!",
+	
+	"MenuVersion" : "Version Instalada",
+	"MenuChangelog" : "(Cambios)",
+	"MenuUpdate" : "Actualizacion de KC3改",
 	"MenuOnLatest" : "Estas usando la última versión!",
+	"MenuScheduledNow" : "Programado ahora",
+	"MenuPvPReset" : "Nuevo PvP en:",
+	"MenuQuestReset" : "Reinicio de Busquedas en:",
+	
+	"GameDMMRedirect" : "Serás redirigido a jugar directamente en la pagina de DMM",
+	"GameDMMFrame" : "Esto abrira la pagina de KanColle en DMM en un Marco",
+	
+	"GameAPIRemoveTitle" : "Remover link API",
+	"GameAPIRemoveDesc" : "Si por cualquier motivo quieres remover tu link API de esta extension:",
+	"GameAPIRemoveBtn" : "Olvidar link API",
+	
+	"GameAPINoExist" : "No tienes Links API guardados",
+	"GameAPIGetTitle" : "Para obtener un nuevo Link API",
+	"GameAPIGetDesc" : "Usa <img src=\"../popup/img/refresh.png\" /> <strong>Actualizar Link API</strong> del <img src=\"../../assets/img/logo/16.png\" /> <strong>menu de KC3改</strong> en la esquina superior derecha de tu navegador.",
+	"GameAPIExistTitle" : "Usar Link API existente",
+	"GameAPIExistDesc" : "Si tienes un Link API a la mano, puedes escribirlo aqui:",
+	"GameAPIExistBtn" : "Usar Link API",
+	"GameAPIWhatTitle" : "Que es un Link API?",
+	"GameAPIWhatDesc" : "Son links directos, <em> reconocidos como </em> o <em> asociados con</em> tu cuenta. Mientras tengas este link, estaras automaticamente \"logueado\" y puedes pasarte el inicio via DMM, eliminando la necesidad de usar VPN cada vez que entres al juego.",
+	"GameAPIRemindTitle" : "Recordatorio para nuevos Jugadores",
+	"GameAPIRemindDesc" : "No uses KC3改 si no has pasado la loteria. Esta APP asume que tu ya te registraste adecuadamente para extraer el Link API. Una vez que te hayas unido a un servidor, necesitaras introducir tu nombre de jugador, el cual no funcionara si estas usando un Link API.",
+	"GameAPIAltTitle" : "Alternativas",
+	"GameAPIAltDesc" : "Si no quieres usar Links API links y quieres jugar KanColle normalmente en la pagina de DMM, el <img src=\"../popup/img/dmm.png\" /> <strong>Jugar en la pagina de DMM</strong> del <img src=\"../../assets/img/logo/16.png\" /> <strong>menu de KC3改</strong> tambien soporta <kbd class=\"light\">F12</kbd> para abir el panel.",
+	
+	"GameStartDashTitle" : "Iniciar con el panel de Ayuda",
+	"GameStartDashDesc" : "Inicia el panel y obten informacion critica y el status de tu Flota. Te muestra Informacion cono tu Nivel, Barcos, Equipos, Velocidad de la Flota, Etc. Activalo via:",
+	"GameStartDashWin" : "Para Windows / Linux",
+	"GameStartDashOr" : "o",
+	"GameStartDashMac" : "Si usas Mac",
+	"GameStartDashChrome" : "Cuando el panel de desarrollador aparezca, debe haber una pestaña llamada: \"<strong>KanColle</strong>\", Haz click ahi.",
+	"GameStartNowTitle" : "Solo dejame jugar ya",
+	"GameStartNowDesc" : "Si quieres iniciar sin estas herramientas y solo quieres iniciar el juego...",
+	"GameStartNowBtn" : "Iniciar de todas formas",
 	
 	"AboutTitle" : "Sobre los desarrolladores de KC3改",
 	"Version" : "Versión",
@@ -51,7 +95,7 @@
 	"AboutWiki" : "Wiki y FAQ",
 	"AboutReport" : "Reportar Bugs",
 	"AboutHelpCommunity" : "Tu puedes ayudar",
-	"AboutHelpLearnMore" : "No necesitas programar! Aprende más sobre como hacerlo >",
+	"AboutHelpLearnMore" : "No necesitas programar, Aprende más sobre como hacerlo >",
 	
 	"AboutCoders" : "Coders",
 	"AboutProjectHead" : "Encargado de Proyecto",
@@ -68,6 +112,13 @@
 	"AboutReporters" : "Sobre reporteros",
 	"AboutReporter" : "Reporteros de Github",
 	
+	"AboutOtherSources" : "Otras fuentes",
+	"AboutLicense" : "Licencia",
+	"AboutLicenseDisclaimer" : "El siguiente texto representa la ultima copia del archivo de la licencia, asi como la version instalada. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Ver el archivo de la licencia para saber los ultimos cambios.</a>",
+	
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> Para ver las busquedas en <strong>Chino Simplificado</strong> ",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Efecto de Sonido \"Latido\"</a> by Mike Koenig",
+	
 	"SettingsTitle" : "Opciones de KC3改",
 	
 	"SettingsGlobal" : "Global",
@@ -80,6 +131,10 @@
 	"SettingsHQExpLeft"    : "EXP Restante",
 	"SettingsHQExpCurrent" : "Nivel Actual",
 	"SettingsHQExpTotal"   : "Total Acumulado",
+	"SettingsTimerDisplayType" : "Tipo de tiempo desplegado",
+	"SettingsTimeRemaining" : "Restante",
+	"SettingsTimeFinished" : "Terminado",
+	"SettingsCheckLiveQuests" : "Checar nuevas Busquedas trducidas",
 	
 	"SettingsGameInfo" : "Información del Juego",
 	"SettingsDropFaces" : "Iconos de Drops en Despliegues",
@@ -91,6 +146,8 @@
 	"SettingsBossComp" : "Composición del Jefe",
 	"SettingsYasenTroll" : "Comentarios Troll de KC3改",
 	"SettingsHQDelta" : "Exp. obtenida en Despliegues",
+	"SettingsFleetStatus" : "Resumen del estado de la flota",
+	"SettingsAutoExpedTab" : "Abrir automaticamente la pestaña Expedicion",
 	
 	"SettingsScreenshot" : "Captura de Pantalla",
 	"SettingsSSOutput" : "Guardar en:",
@@ -98,17 +155,25 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "Nueva Pestaña",
 	"SettingsSSFileType" : "Tipo de Archivo",
+	"SettingsSSDirectory" : "Directorio de Descarga",
 	
 	"SettingsAlerts" : "Alertas",
 	"SettingsTimeDiff" : "Diferencia de tiempo",
 	"SettingsMoraleNotif" : "Notificación de Moral",
 	"SettingsMoraleValue" : "Moral Mínima",
+	"SettingsSupplyRate" : "Abastecimiento Minimo",
+	"SettingsSupplyExped" : "Advertencia de Abastecimiento",
+	"SettingsSupplyBarLabel" : "Barras",
 	"SettingsSeconds" : "segundos",
 	"SettingsSoundType" : "Tipo de aviso",
 	"SettingsDing" : "DING!",
 	"SettingsCustom" : "Personalizado",
 	"SettingsCustomSound" : "Dir. sonido personalizado",
 	"SettingsDesktopNotif" : "Notificación en Escritorio",
+	"SettingsIdleWarning" : "Tiempo de espera",
+	"SettingsHideCounter" : "Esconder contador",
+	"SettingsShowCounter" : "Mostrar contador",
+	"SettingsTaihaAlert" : "Alerta MOLESTA de daño grave",
 	
 	"SettingsAPIGameScreen" : "Ventana de Juego",
 	"SettingsQuestOverlay" : "Traducción de Busquedas",
@@ -130,9 +195,21 @@
 	"SettingsDMMCustomize" : "Aplicar Personalizaciones ",
 	"SettingsDMMForceCookies" : "Forzar Cookie Hack",
 	
+	"SettingsDBSubmission" :"Enviar tus datos a Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsEnableDBSubmission" : "Habilitar esta Opcion",
+	"SettingsDBSubmissionKey" : "Clave de Acceso",
+
+	"SettingsPoiDBSubmission" :"Enviar tus datos a poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsEnablePoiDBSubmission" : "Habilitar esta Opcion",
+	
+	"SettingsKC3DBSubmission" :"Enviar tus datos a KC3改 (http://kc3.jetri.co)",
+	"SettingsEnableKC3DBSubmission" : "Habilitar esta Opcion y ayuda",
+	
 	"SettingsPanelSize" : "Tamaño de Panel",
 	"SettingsPanelOpacity" : "Transparencia de Interfaz",
 	"SettingsGearHolder" : "Color de fondo",
+	
+	"SettingsLegacyPanel" : "Panel: Legacy",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Estás seguro que deseas cambiar esto?\nCualquier riesgo que tomes no es responsabilidad de KC3改.\n\nEs mejor que sepas lo que haces.",
 	"SettingsErrorNG" : "Guardado!",
@@ -155,8 +232,9 @@
 	"Saved" : "Guardado!",
 	
 	"UnwantedExit" : "Estas a punto de salir del juego, estas Seguro? ",
+	"UnwantedExitDMM" : "***You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
 	"APIWaitToggle" : "Carga el panel de KC3Kai primero",
-	"APIConcealExpl" : "Pasa el puntero para mostrar tu link API",
+	"APIConcealExpl" : "Pasa el puntero para mostrar tu Link API",
 	
 	"SpeedFast" : "Rápido",
 	"SpeedSlow" : "Lento",
@@ -179,11 +257,7 @@
 	"EventHistoryRank1"  : "FACIL",
 	"EventHistoryRank2"  : "NORMAL",
 	"EventHistoryRank3"  : "DIFICIL",
-	"EventHistoryRank1X" : "NIÑITA",
-	"EventHistoryRank2X" : "INFIERNO EN LA TIERRA",
-	"EventHistoryRank3X" : "NO HAY ESCAPE",
 	"StrategyEventGo"    : "Evento",
-	"StrategyEventGoP"   : "#Sufrimiento",
 	
 	"PanelDocking" : "Muelles",
 	"PanelAkashi" : "Akashi",
@@ -193,14 +267,25 @@
 	"PanelHighestAkashi" : "Tiempo más alto con Akashi",
 	
 	"PanelHasTaiha" : "Critico",
+	"PanelFSTaiha" : "Barco Insignia",
+	"PanelEscortChuuha" : "Insignia de la Escolta",
 	"PanelNoTaiha" : "HP OK",
 	"PanelSupplied" : "Suministros OK",
 	"PanelNotSupplied" : "Reabastecer",
+	"PanelUnderSupplied" : "Necesita Reabastecimiento",
+	"PanelEmptySupply" : "Vacio",
 	"PanelGreatMorale" : "Moral Alta",
 	"PanelGoodMorale" : "Moral Buena",
 	"PanelSupportPower" : "Bombardeo Expedición de Soporte",
 	"PanelPlanesFighter" : "Aviones uniéndose a fase de batalla aérea",
 	"PanelPlanesBomber" : "Aviones uniéndose a fase de bombardeo",
+	
+	"MissionLabelActivity" : "Status",
+	"MissionGetItems" : "Item Obtenido:",
+	"MissionActivity0" : "Cancelado",
+	"MissionActivity1" : "Intento fallido",
+	"MissionActivity2" : "Exito",
+	"MissionActivity3" : "Gran Exito",
 	
 	"CombinedCarrier" : "Flota Combinada Aerea",
 	"CombinedSurface" : "Flota Combinada Superficial",
@@ -210,12 +295,28 @@
 	"LevelShort" : "Lv.",
 	"LevelNext" : "Siguiente",
 	"Screenshot" : "Captura de Pantalla",
+	"Expedition" : "Expedicion",
 	"UntranslatedQuest" : "Busqueda sin traducir",
 	
 	"StrategyEvents1HP" : "Última!",
 	
 	"PanelWaitActions" : "Esperando a que inicie el juego...",
 	"PanelErrorStorage" : "El almacenamiento local de Chrome esta desactivado. KC3改 necesita esta caracteristica. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Como habilitar esto</a>.",
+	
+	"NatsuiroBasic" : "Basico",
+	"NatsuiroBattle" : "Batalla",
+	"NatsuiroExped" : "Exped.",
+	"NatsuiroActivity" : "Actividad",
+	
+	"Expedition #1" : "Expedicion #1",
+	"ExpedEstmTime" : "Tiempo Estimado",
+	"ExpedIncome" : "Ingreso neto",
+	"ExpedFSLv" : "Nivel de Insignia",
+	"ExpedFleet" : "Flota:",
+	"ExpedShips" : "Barcos",
+	"ExpedTotalLv" : "Nivel Total",
+	"ExpedCanister" : "Barriles en",
+	"ExpedCheckReq" : "Checar Requerimientos",
 	
 	"Dummy" : "Dummy"
 }

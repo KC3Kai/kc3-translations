@@ -239,10 +239,31 @@
         "name": "Organiseer de 16de Groep (1ste Generatie)",
         "desc": "Gebruik Ashigara als vlaggenschip met Kuma en Nagara in de hoofdvloot"
     },
+    "164": {
+		"code": "A59",
+        "name": "Organiseer de 3de Vliegkampschip Divisie",
+        "desc": "Gebruik Zuikaku Kai als vlaggenschip, Zuihou, Chitose en Chiyoda (Allebei als CVL, en niet als AV) in de hoofdvloot"
+    },
+	"165": {
+		"code": "A60",
+        "name": "Organiseer de 4de Vliegkampschip Divisie",
+        "desc": "Gebruik Ise Kai en Hyuuga Kai in de hoofdvloot"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Organiseer Ozawa's Vloot",
+        "desc": "Gebruik Zuikaku Kai als vlaggenschip, Zuihou Kai, Chitose, Chiyoda　(beide als CVL), Ise Kai en Hyuuga Kai in de hoofdvloot"
+    },
+	"167": {
+	"code": "A62",
+        "name": "Organiseer de Nieuwe Vliegkampschip Divisie",
+        "desc": "Gebruik Zuikaku Kai Ni, Shoukaku Kai Ni en twee torpedobootjagers in de floot"
+    },
     
     
     
-    "202": {
+	
+	"202": {
         "name": "Eerste Gevecht!",
         "desc": "Zet de hoofdvloot in op een aanvalsmissie."
     },
@@ -436,7 +457,7 @@
     },
     "279": {
         "name": "Zet de 1ste Torpedo Groep nog een Keer Snel in bij Operatie KE",
-        "desc": "Zet een vloot uit met Abukuma Kai-2 als vlaggenschip met Hibiki/Вер, Yuugumo, Naganami, Akigumo en Shimakaze naar Wereld 3-2. Behaal een B-Rank+ tegen de baas."
+        "desc": "Zet een vloot uit met Abukuma Kai-2 als vlaggenschip met Hibiki/Вер, Yuugumo, Naganami, Akigumo en Shimakaze naar Wereld 3-2. Behaal een S-Rank tegen de baas."
     },
     "285": {
         "name": "\"Vliegkampschip Aanvalsvloot\", Op naar de Noordelijke Zee!",
@@ -458,20 +479,37 @@
         "name": "Gevecht met de 16de Groep (Eerste Generatie)",
         "desc": "Zet een vloot uit met Ashigara als vlaggenschip, Kuma, Nagara en tot 3 andere schepen naar Wereld 2-2. Behaal een S-Rank tegen de baas."
     },
-    "290": {
-        "name": "Japanse Makreel Vissen: Laten we wat Makreel Vangen!",
-        "desc": "Overwin van de vijandelijke vloot gepositioneerd in de omgeving van de noordelijke visserij wateren en vang 3 makreel!"
-    },
-    "291": {
-        "name": "Japanse Makreel Vissen: We Moeten nog meer Makreel Vangen!",
-        "desc": "Het is een beetje vermoeiend, Maar je moet de visserij veiligstellen vang 10 makreel!"
-    },
-    "292": {
-        "name": "Japanse Makreel Vissen: We kunnen het nog Beter Proberen!",
-        "desc": "Het is heel Moeilijk, Maar je moet proberen de makreel nog ijveriger te vangen!"
-    },
+	
     
-    "201": {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"293": {
+		"code": "B53",
+        "name": "3de Vliegkampschip Divisie: Verdedig de Nansei Eilanden",
+        "desc": "Zet een vloot uit met Zuikaku Kai als vlaggenschip, Zuihou, Chitose en Chiyoda (beide als CVL) (+2 andere schepen) naar wereld 1-4 en scoor een S-Rank tegen de baas"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Gevecht met Ozawa's Vloot",
+        "desc": "Zet een vloot uit met Zuikaku Kai als vlaggenschip, Zuihou Kai, Chitose, Chiyoda (beide als CVL), Ise Kai en Hyuuga Kai naar wereld 2-4 en scoor een S-Rank tegen de baas"
+    },
+	
+    
+    
+	
+	
+	
+	"201": {
         "code": "Bd1",
         "name": "Dagelijks Gevecht 1",
         "desc": "win van een abyssal Vloot",
@@ -941,10 +979,57 @@
         "name": "Voorberijding van de Prototype Uitrusting",
         "desc": "Sloop uitrusting 7 keer"
     },
+    "625": {
+        "code": "F22",
+        "name": "Uitbreiding naar de Prototype Lucht Uitrusting",
+        "desc": "Sloop uitrusting 9 keer"
+    },
+    "626": {
+        "code": "F23",
+        "name": "Herorganisatie van het elite Jachtvliegtuig Divisie",
+        "desc": "Gebruik een bekwame bemanningslid,Rust Houshou als secretaresse uit met een rank 7 Zero Type 21 Jachtvliegtuig Divisie, en sloop vervolgens 2 Model Zero Type 21 Jachtvliegtuig eskaders en een Model 96 Jachtvliegtuig eskaders"
+    },
+	    "627": {
+        "code": "F24",
+        "name": "Model Conversie: Model 0 Fighter Type 21 (Bekwaam)",
+        "desc": "Rust een Vliegkampschip secretaresse schip uit met een Model 0 Jachtvliegtuig Type 21 (Bekwaam), en sloop vervolgens 2 Model 0 Jachtvliegtuig Type 52 eskaders"
+    },
+    "628": {
+        "code": "F25",
+        "name": "Model Conversie: Model 0 Fighter Type 21 (Bekwaam)",
+        "desc": "Rust een Vliegkampschip secretaresse schip uit met een rank 7 Model 0 Jachtvliegtuig Type 21 (Bekwaam), en sloop vervolgens 2 Model 0 Jachtvliegtuig Type 52 eskaders"
+    },
+    "629": {
+        "code": "F26",
+        "name": "Herorganiseer de Jachtvliegtuig Macht: Model 0 Jachtvliegtuig Type 52 (Bekwaam)",
+        "desc": "Rust Zuikaku als secretaresse schip uit met een rank 7 Model 0 Jachtvliegtuig Type 52 (Bekwaam), en sloop vervolgens een Zero Jachtvliegtuig Type 52C (601 Eskader)"
+    },
+    "630": {
+        "code": "F28",
+        "name": "Model Conversie & Herorganiseer: Model 0 Jachtvliegtuig Type 21 (Bekwaam)",
+        "desc": "Rust Zuikaku als secretaresse schip uit met een rank 7 Type 0 Jachtvliegtuig Type 21 (Bekwaam), sloop vervolgens 2 Model 0 Jachtvliegtuig Type 21 eskaders"
+    },
+    "631": {
+        "code": "F27",
+        "name": "Model Conversie & Herorganiseer: Zero Jachtvliegtuig Type 52C (w/ Iwai Flight)",
+        "desc": "Rust Zuikaku als secretaresse schip uit met een rank 7 Zero Jachtvliegtuig Type 52C (w/ Iwai Flight), sloop vervolgens 2 Model 0 Jachtvliegtuig Type 62 (Jachtbommenwerper) eskaders"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Model Conversie: Zero Jachtvliegtuig Type 21 (w/ Iwamoto Flight)",
+        "desc": "Rust Zuikaku als secretaresse schip uit met een rank 7 Zero Jachtvliegtuig Type 21 (w/ Iwamoto Flight), sloop vervolgens 2 Model 0 Jachtvliegtuig Type 52 eskaders"
+    },
+    "633": {
+        "code": "F30",
+        "name": "Model Conversie & Herorganisatie: Zero Fighter Type 52A (w/ Iwamoto Flight)",
+        "desc": "Rust Zuikaku als secretaresse schip uit met een rank 7 Zero Jachtvliegtuig Type 52A (w/ Iwamoto Flight), sloop vervolgens 2 Saiun eskaders"
+
+    },
     
     
-    
-    "701": {
+	
+	
+	"701": {
         "code": "G1",
         "name": "Eerste Modernisering",
         "desc": "Voltooi een succesvolle modernisering"
@@ -966,73 +1051,5 @@
         "code": "G4",
         "name": "Voorbereiding voor LSC (Deel 1)",
         "desc": "Voltooi 4 succesvolle moderniserings"
-    },
-    
-    
-    
-    "611": {
-        "name": "Voorbereiding voor Liefde! (Deel 1)",
-        "desc": "Sloop twee paar uitrusting om je liefde te tonen!"
-    },
-    "306": {
-        "name": "Voorbereiding voor Liefde! (Deel 2)",
-        "desc": "Toon je liefde door twee overwinningen te behalen in oefenmodus."
-    },
-    
-    "280": {
-        "code": "SN01",
-        "name": "Tweede SN Strategie, Eerste Operatie",
-        "desc": "Voltooi map 2 van het 2015 zomer Event"
-    },
-    "620": {
-        "code": "SN02",
-        "name": "Het Arsenaal Opruimen",
-        "desc": "Sloop uitrusting 5 keer"
-    },
-    "281": {
-        "code": "SN03",
-        "name": "Voer een Patrouille uit voor de Hoofdvloot haar Route",
-        "desc": "Sink 6 abyssal onderzeeërs"
-    },
-    "158": {
-        "code": "SN04",
-        "name": "Wijs het Murata Eskader Torpedobommenwerper toe aan Akagi",
-        "desc": "Gebruik Akgaki als Secretary Schip en geef haar een Model 97 Torpedobommenwerper (Murata Eskader)"
-    },
-    "282": {
-        "code": "SN05",
-        "name": "Verkrijg de Superioriteit in de Lucht in het Solomon Zee Gebied",
-        "desc": "Voltooi map 4 van het 2015 zomer Event"
-    },
-    "159": {
-        "code": "SN06",
-        "name": "Wijs het Murata Eskader Torpedobommenwerper toe aan Shoukaku",
-        "desc": "Gebruik Shoukaku als Secretary schip en geef haar een Model 97 Torpedobommenwerper (Murata Eskader)"
-    },
-    "310": {
-        "code": "SN07",
-        "name": "Marine Oefening als Voorbereiding van Operatie FS",
-        "desc": "Verkrijg 4 Overwinningen in oefenmodus"
-    },
-    "621": {
-        "code": "SN08",
-        "name": "Model Conversie (Murata Eskader naar Tenzan)",
-        "desc": "Gebruik Shoukaku als Secretary schip en geef haar een Model 97 Torpedobommenwerper (Murata Eskader), Sloop vervolgens 2 Tenzan"
-    },
-    "160": {
-        "code": "SN09",
-        "name": "Organiseer de 3de Eskader van de Aanvalsvloot",
-        "desc": "Creëer een vliegkampschip aanvalsvloot (Gecombineerde Vloot) met Shoukaku, Zuikaku en Zuihou in de hoofdvloot"
-    },
-    "284": {
-        "code": "SN10",
-        "name": "Creëer een Burggenhoofd voor Operatie FS",
-        "desc": "Sink 10 Abyssal CV(L)"
-    },
-    "283": {
-        "code": "SN11",
-        "name": "Stuur een Vloot naar het Oosterlijk Gebied, Gevecht!",
-        "desc": "Voltooi map 5 van het 2015 zomer Event"
     }
-    
 }

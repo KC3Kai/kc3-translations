@@ -238,8 +238,53 @@
     "163": {
         "name": "Kelola Skuadron Penjelajah Divisi ke-16 (Generasi Pertama)",
         "desc": "Miliki Ashigara sebagai kapal pemimpin, Kuma dan Nagara di Armada Utama"
+    },	
+    "164": {
+		"code": "A59",
+        "name": "Kelola Kapal induk Divisi ke-3",
+        "desc": "Jadikan ZUikaku sebagai kapal pemimpin , Zuihou, Chitose, dan Chiyoda(Keduanya sebagai CVL, bukan AV) di armada"
     },
-	
+	"165": {
+		"code": "A60",
+        "name": "Kelola Kapal Induk Divisi ke-4",
+        "desc": "Miliki Ise Kai dan Hyuuga Kai di armada utama"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Kelola armada Ozawa",
+        "desc": "Jadikan Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai di armada utama"
+    },	
+     	"167": {
+		"code": "A62",
+        "name": "Kelola Kapal Induk Divisi Baru",
+        "desc": "Miliki Zuikaku Kai Ni, Shoukaku Kai Ni dan 2 DD di armada"
+     },
+      	"168": {
+		"code": "A63",
+        "name": "Kelola Skuadron ke-16 (Generasi Kedua)",
+        "desc": "Miliki Natori sebagai kapal pemimpin, Isuzu and Kinu di armada"
+     },
+      	"169": {
+		"code": "A64",
+        "name": "Kelola Kapal Induk Divisi Baru", 
+        "desc": "Miliki 2 CV, 2 BBV/CAV dan 2 DD di armada" 
+     },
+        "170": {
+		"code": "A65",
+        "name": "Perkuat Serangan Balik Armada Permukaan",  
+        "desc": "Miliki Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo dan Kiyoshimo di armada" 
+     },
+	"171": {
+		"code": "A66",
+        "name": "Bentuk Kapal Perusak Divisi ke-31 (Generasi Pertama)", 
+        "desc": "Bentuk Armada Anti Kapal Selam Ringan dengan Isuzu Kai Ni sebagai Flagship dan terdapat Satsuki Kai Ni dengan Uzuki Kai"
+    },
+    "172":{
+        "code": "A67",
+        "name": "Bentuk Kapal Penghancur Divisi ke-27 (Generasi Kedua)",
+        "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu",
+        "unlock": [ 808 ]
+    },
 	
 	
     "202": {
@@ -441,7 +486,7 @@
     
 	"279": {
         "name": "Penyerbuan Skuadron Torpedo Pertama ke Operasi 'KE' Sekali Lagi!",
-        "desc": "Sorti Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze ke World 3-2. Dapatkan B-Rank+ pada Bos Node."
+        "desc": "Sorti Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze ke World 3-2. Dapatkan S-Rank pada Bos Node."
     },
 	"285": {
         "name": "\"Carrier Task Force\", Menuju Laut Utara!",
@@ -475,7 +520,52 @@
         "name": "Memancing Ikan Sauri: Kau pasti bisa berusuha lebih keras lagi!",
         "desc": "Akan sangat menyulitkan, tapi coba tangkaplah ikan sauri lebih banyak lagi!"
     },
-	
+	"293": {
+		"code": "B53",
+        "name": "Kapal Induk divisi ke-3: Lindungi Pulau Nensei",
+        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL) dan Chiyoda(CVL) tambahan (2 kapal lain) ke world 1-4 dan dapatkan S-Rank pada boss node"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Sorti armada Ozawa",
+        "desc": "Sorti Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke world 2-4 dan dapatkan S-rank pada boss node"
+    },
+    	"295": {
+		"code": "B55",
+        "name": "Sorti dengan Skuadron ke-16 (Generasi Kedua)",
+        "desc": "Sorti dengan Natori sebagai kapal pemimpin, Isuzu , Kinu dan 3 kapal tambahan ke World 2-3 dan dapatkan S-rank pada boss node"
+    },
+    	"296": {
+		"code": "B56",
+        "name": "Sorti Divisi kapal induk baru ke Utara", 
+        "desc": "Sortie dengan 2 CV, 2 BBV/CAV dan 2 DD ke W3-3 dan S-rank pada boss nodes"
+    },
+    	"297": {
+		"code": "B57",
+        "name": "Jalankan Operasi Rei-Gou!", 
+        "desc": "Sorti dengan Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo, Kiyoshimo dan 1 kapal tambahan ke W2-5 dan S-Rank pada boss node" 
+    },
+    	"805": {
+	"code": "B58",
+        "name": "Kirim Kasumi untuk patroli ke Laut Utara",
+        "desc": "Sorti dengan Kasumi Kai Ni sebagai kapal pemimpin, 3 DD dan 2 kapal tambahan ke W3-1 dan S-Rank pada boss node"
+    },
+    	"806": {
+        "code": "B59",
+        "name": "Sorti Kasumi dan Kalahkan Armada Musuh",
+        "desc": "Sorti dengan Kasumi Kai Ni sebagai kapal pemimpin, 2 DD dan 3 kapal tambahan ke W2-5 dan S-Rank pada boss node"
+    },
+    "807": {
+        "code": "B60",
+        "name": "Sorti Divisi ke-31",
+        "desc": "Sorti Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai dan maks 3 kapal lagi ke World 1-6 sampai node terakhir"
+    },
+    "808": {
+        "code": "B61",
+        "name": "Sorti Kapal Penghancur Divisi ke-27",
+        "desc": "Sorti Shiratsuyu Kai sebagai pemimpin, Shigure, Harusame, Samidare dan maks 2 kapal lagi ke World 2-3 dan dapatkan S-Rank di boss node"
+    },
+    
 	
 	"201": {
         "code": "Bd1",
@@ -949,7 +1039,51 @@
         "name": "Persiapan Persenjataan Prototipe",
         "desc": "Hancurkan Persenjataan 7 Kali"
     },
-
+	"625": {
+        "code": "F22",
+        "name": "Penambahan prototipe persenjataan aviasi",
+        "desc": "Hancurkan persenjataan 9 kali"
+    },
+    "626": {
+        "code": "F23",
+        "name": "Kelola kembali skuad elit fighter",
+        "desc": "Jadikan Emak Houshou kapal sekretaris dan miliki Skilled Crew Member ,pasang Zero 21 Fighter rank(bintang) 7 ke Emak Houshou, lalu hancurkan 2 Zero 21 Fighter dan Type 96 Fighter"
+    },
+    "627": {
+	"code": "F24",
+	"name": "Koneversi Model : Type 0 Fighter Model 21 (Skilled)",
+	"desc": "Gunakan Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+    "628": {
+	"code": "F25",
+	"name": "Konversi Model: Type 0 Fighter Model 21 (Skilled)",
+	"desc": "Gunakan Rank 7 Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+     "629": {
+	"code": "F26",
+	"name": "Kelola kembali Fighter Force: Type 0 Fighter Model 52 (Skilled)",
+	"desc": "Gunakan Rank 7 Type 0 Fighter Model 52 (Skilled) Pada Zuikaku sebagai sekretaris, kemudian hancurkan Zero Fighter Model 52C (601 Air Group)"
+	},
+     "630": {
+	"code": "F28",
+	"name": "Konversi Model & Kelola kembali: Type 0 Fighter Model 21 (Skilled)",
+	"desc": "Gunakan rank 7 Type 0 Fighter Model 21 (Skilled) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 21"
+	},
+     "631": {
+	"code": "F27",
+	"name": "Konversi Model & Kelola kembali: Zero Fighter Model 52C (w/ Iwai Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 52C (w/ Iwai Flight) pada Zuikaku sebagi sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 62 (Fighter-bomber)"
+	},
+     "632": {
+	"code": "F29",
+	"name": "Konversi Model : Zero Fighter Model 21 (w/ Iwamoto Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
+	},
+     "633": {
+	"code": "F30",
+	"name": "Konversi Model & Keloa kembali: Zero Fighter Model 52A (w/ Iwamoto Flight)",
+	"desc": "Gunakan rank 7 Zero Fighter Model 52A (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Saiun"
+	},
     
 	
 	

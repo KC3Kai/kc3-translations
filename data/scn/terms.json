@@ -80,8 +80,8 @@
     "GameAPIRemindDesc" : "在抢号并成功登录前请不要使用KC3改，本插件需要在你成功登录游戏之后才可获取正确的API链接。注意：在你选择并加入服务器后，你需要输入提督名，但这个名字并非API链接。",
     "GameAPIAltTitle" : "其他方式",
     "GameAPIAltDesc" : "若比起API链接，你更希望直接在DMM网站上进行游戏，可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中选择 <img src=\"../popup/img/dmm.png\" /> <strong>DMM网页模式</strong>，这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板。",
-
-
+    "GameAPIExpiredAlert" : "您当前的API会话已过期",
+    "GameAPIExpiredExplanation" : "KC3改检测到您当前使用的API链接可能已使用20分钟或是曾被使用过。<br>为确保不使用过期的API链接访问此标签，<br>您可以通过弹出菜单或下面的按钮来刷新当前API链接。",
     "GameStartDashTitle" : "开启KC3改数据面板并开始游戏",
     "GameStartDashDesc" : "通过KC3改数据面板你可以浏览镇守府和舰队状态相关的状态情报，如：镇守府等级、舰娘装备、索敌值、制空值、舰队速度、士气值等。请使用下列方法启动这一功能：",
     "GameStartDashWin" : "Windows / Linux 用户可以使用热键",
@@ -115,6 +115,11 @@
     "AboutFairy" : "妖精设计",
     "AboutReporters" : "活跃的Git汇报者",
     "AboutReporter" : "Git汇报者",
+    "AboutManagers" : "管理人",
+    "AboutManager" : "管理人",
+    "AboutChannel" : "项目讨论频道",
+    "AboutDevBattleReplay" : "对战重放与模拟",
+    "AboutDevBadgeGen" : "签名生成",
 
     "AboutOtherSources" : "其他信息来源",
     "AboutLicense" : "许可",
@@ -148,12 +153,14 @@
     "SettingsCompass" : "战斗结果预测",
     "SettingsBattleData" : "剩余血量预测",
     "SettingsBattleStamp" : "舰娘疲劳值",
+    "SettingsSaltyShip" : "KC3改 Salt Treatment",
     "SettingsBossComp" : "Boss配置",
     "SettingsYasenTroll" : "KC3改 Troll Comments",
     "SettingsHQDelta" : "出击时提督经验经验值变化",
     "SettingsFleetStatus" : "舰队状态概览",
     "SettingsAutoExpedTab": "自动切换远征信息页",
     "SettingsEnglishShipType": "使用英文舰种缩写",
+    "SettingsJapaneseShipItem": "使用日文舰名",
 
     "SettingsScreenshot" : "截图",
     "SettingsSSOutput" : "输出方式",
@@ -236,6 +243,7 @@
     "None" : "无",
     "LearnMore" : "了解更多",
     "Saved" : "已保存",
+    "TimerComplete" : "完成！",
 
     "UnwantedExit" : "(´・ω・｀)真的打算就这样离我而去吗？",
     "UnwantedExitDMM" : "确定退出吗？（与API链接不同，在网页模式下刷新不会导致无限猫）",
@@ -264,16 +272,33 @@
     "SpeedSlow" : "低速",
 
     "HQText" : "提督",
+    "HQAdmiralLv"  : "等级",
     "HQExpAbbrev1" : "还需",
     "HQExpAbbrev2" : "当前",
     "HQExpAbbrev3" : "总计",
+    "HQRankPoints" : " 战果",
 
-    "BattleDetection" : "索敌",
-    "BattleEngangement" : "航向",
-    "BattleContact" : "接触",
-    "BattleAirBattle" : "航空战",
-    "BattleFriendly" : "我方",
-    "BattleEnemy" : "敌方",
+    "BattleMapWorldPvP"  : "演习",
+    "BattleMapCleared"   : "海域解放",
+    "BattleMapNotClear"  : "攻略中",
+    "BattleMapKills"     : " 次",
+    "BattleMapNoHpGauge" : "无血槽",
+    "BattleSupportExped" : "远征支援舰队到达？",
+    "BattleItemDrop"     : "特殊物品掉落？",
+    "BattleNightNeeded"  : "能否夜战？",
+    "BattleRating"       : "战斗评价",
+    "BattleAvoided"      : "战斗回避",
+    "BattleSelect"       : "选择分歧: ",
+    "BattleSelectNodes"  : "{0} 或 {1}",
+    "BattleDetection"    : "索敌",
+    "BattleEngangement"  : "航向",
+    "BattleContact"      : "接触",
+    "BattleAirBattle"    : "航空战",
+    "BattleFriendly"     : "我方",
+    "BattleEnemy"        : "敌方",
+    "BattleContactVs"    : " vs ",
+    "BattleContactYes"   : "有",
+    "BattleContactNo"    : "无",
 
     "ShipFire"    : "火力： ",
     "ShipTorpedo" : "雷装： ",
@@ -283,10 +308,14 @@
     "PredictionStampSortie" : "击沉",
     "PredictionStampPvP" : "出局",
 
+    "EventRankHardAbbr"    : "甲",
+    "EventRankNormalAbbr"  : "乙",
+    "EventRankEasyAbbr"    : "丙",
     "EventHistoryRank1"  : "丙",
     "EventHistoryRank2"  : "乙",
     "EventHistoryRank3"  : "甲",
     "StrategyEventGo"    : "期间限定海域",
+    "StrategyEvents1HP" : "斩杀！",
 
     "PanelDocking" : "入渠",
     "PanelAkashi" : "明石",
@@ -294,6 +323,12 @@
     "PanelCantRepair" : "无法修理",
     "PanelHighestDocking" : "最长的入渠修理时间",
     "PanelHighestAkashi" : "最长的明石修理时间",
+
+    "PanelRepairMoreDays"  : "多于24小时",
+    "PanelRepairing"       : "修理中...",
+    "PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
+    "PanelNextRemodelLv"   : "改造等级",
+    "PanelPossibleRemodel" : "可能改造",
 
     "PanelHasTaiha" : "大破",
     "PanelFSTaiha" : "旗舰",
@@ -305,6 +340,7 @@
     "PanelEmptySupply" : "没有补给",
     "PanelGreatMorale" : "士气高昂",
     "PanelGoodMorale" : "疲劳良好",
+    "PanelRecoveredMorale" : "士气已恢复",
     "PanelSupportPower" : "支援射击火力",
     "PanelPlanesFighter" : "参与制空权抢夺的舰载机",
     "PanelPlanesBomber" : "参与开幕轰炸的舰载机",
@@ -316,6 +352,7 @@
     "MissionActivity2" : "成功",
     "MissionActivity3" : "大成功",
 
+    "CombinedFleet" : "联合舰队",
     "CombinedCarrier" : "空母机动部队",
     "CombinedSurface" : "水上打击部队",
     "CombinedTransport" : "海上输送部队",
@@ -327,8 +364,9 @@
     "Screenshot" : "截图",
     "Expedition" : "远征",
     "UntranslatedQuest" : "未翻译的任务",
-
-    "StrategyEvents1HP" : "斩杀！",
+    "PanelToggleSounds" : "声音开关",
+    "PanelFitWindow"    : "窗口大小适配",
+    "PanelExportToKCDB" : "导出至Kancolle-calc DeckBuilder",
 
     "PanelWaitActions" : "正在等待游戏响应……",
     "PanelErrorStorage" : "Chrome本地存储（LocalStorage）功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",
@@ -404,6 +442,9 @@
     "LodgeRatingNG3" : "Not-so-safe consumerism",
     "LodgeRatingNG4" : "RNG Worshipping?",
     "LodgeRatingNG5" : "Excessive Consumption",
+
+    "MasterShipSaltCheck" : "Existence Accept",
+    "MasterShipSaltUnCheck" : "Existence Deny",
 
     "Dummy" : "Dummy"
    

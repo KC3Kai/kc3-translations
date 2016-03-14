@@ -160,7 +160,7 @@
     "SettingsFleetStatus" : "舰队状态概览",
     "SettingsAutoExpedTab": "自动切换远征信息页",
     "SettingsEnglishShipType": "使用英文舰种缩写",
-    "SettingsJapaneseShipItem": "使用日文舰名",
+    "SettingsJapaneseShipItem": "使用日文舰名、装备名",
 
     "SettingsScreenshot" : "截图",
     "SettingsSSOutput" : "输出方式",
@@ -271,8 +271,8 @@
     "SpeedFast" : "高速",
     "SpeedSlow" : "低速",
 
-    "HQText" : "提督",
-    "HQAdmiralLv"  : "等级",
+    "HQText" : "司令部",
+    "HQAdmiralLv"  : "提督",
     "HQExpAbbrev1" : "还需",
     "HQExpAbbrev2" : "当前",
     "HQExpAbbrev3" : "总计",
@@ -300,10 +300,10 @@
     "BattleContactYes"   : "有",
     "BattleContactNo"    : "无",
 
-    "ShipFire"    : "火力： ",
-    "ShipTorpedo" : "雷装： ",
-    "ShipAntiAir" : "对空： ",
-    "ShipArmor"   : "装甲： ",
+    "ShipFire"    : "火力：",
+    "ShipTorpedo" : "雷装：",
+    "ShipAntiAir" : "对空：",
+    "ShipArmor"   : "装甲：",
 
     "PredictionStampSortie" : "击沉",
     "PredictionStampPvP" : "出局",
@@ -314,7 +314,7 @@
     "EventHistoryRank1"  : "丙",
     "EventHistoryRank2"  : "乙",
     "EventHistoryRank3"  : "甲",
-    "StrategyEventGo"    : "期间限定海域",
+    "StrategyEventGo"    : "活动海域",
     "StrategyEvents1HP" : "斩杀！",
 
     "PanelDocking" : "入渠",
@@ -328,7 +328,7 @@
     "PanelRepairing"       : "修理中...",
     "PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
     "PanelNextRemodelLv"   : "改造等级",
-    "PanelPossibleRemodel" : "可能改造",
+    "PanelPossibleRemodel" : "改造可能",
 
     "PanelHasTaiha" : "大破",
     "PanelFSTaiha" : "旗舰",
@@ -342,8 +342,8 @@
     "PanelGoodMorale" : "疲劳良好",
     "PanelRecoveredMorale" : "士气已恢复",
     "PanelSupportPower" : "支援射击火力",
-    "PanelPlanesFighter" : "参与制空权抢夺的舰载机",
-    "PanelPlanesBomber" : "参与开幕轰炸的舰载机",
+    "PanelPlanesFighter" : "参与制空权抢夺的战斗机",
+    "PanelPlanesBomber" : "参与开幕轰炸的攻击机",
 
     "MissionLabelActivity" : "远征",
     "MissionGetItems" : "获得物品：",
@@ -364,6 +364,7 @@
     "Screenshot" : "截图",
     "Expedition" : "远征",
     "UntranslatedQuest" : "未翻译的任务",
+    "UntranslatedQuestTip" : "该任务还没有翻译数据，在数据更新之前只能在游戏内查看。",
     "PanelToggleSounds" : "声音开关",
     "PanelFitWindow"    : "窗口大小适配",
     "PanelExportToKCDB" : "导出至Kancolle-calc DeckBuilder",
@@ -404,8 +405,8 @@
     "DesktopNotifyMoraleTitle" : "舰队疲劳度恢复！",
     "DesktopNotifyMoraleMessage" : "当前所选舰队的所有舰娘疲劳度皆已恢复！",
 
-    "LodgerPageStepRw"  : "Prev 1 step",
-    "LodgerPageStepFw"  : "Next 1 step",
+    "LodgerPageStepRw"  : "上一区间",
+    "LodgerPageStepFw"  : "下一区间",
     "LodgerPageRefresh" : "应用",
     
     "LodgerTimeWhole"   : "完整历史",

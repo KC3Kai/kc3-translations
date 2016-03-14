@@ -1883,7 +1883,8 @@
 		"21": "Guh, I got hit for a good one. I can still keep going, so don't underestimate me!",
 		"22": "I wonder if I ran wild enough this time round. A ship really sinks when they're sunk, huh. Bye bye.",
 		"29": "Umm... the canal, can we go to the canal?"
-	},/* Have 2 Quotes */
+	}, 
+	/* Have 2 Quotes */
 	"156" : {
 		"1": "อรุณสวัสดิ์ค่ะ! ไทโฮที่ได้รับการปรับปรุงสมรรถนะค่ะ! เกราะตรงดาดฟ้าเรือก็ปรับให้แข็งแกร่งขึ้น! ด้านพลังป้องกันก็พัฒนาขึ้น! เพื่อพลเรือเอกในการเปิดน่านฟ้า เหล่าเครื่องบินพร้อมทำการสนับสนุนแล้วค่ะ!",
 		"25": "เรือบรรทุกเครื่องบิน  ไทโฮค่ะเป็นเรือบรรทุกเครื่องบินมาตรฐานรุ่นใหม่ที่ได้รับการเสริมเกราะที่ลานบินค่ะ โรงเก็บเครื่องบินแบบปิดก็วิเศษใช่ไหมล่ะ? เอ๋? แก๊สสะสมกันได้ง่าย…เหรอคะ เสียมารยาทนะ ค..ครั้งนี้น่ะไม่เป็นไรแล้วล่ะ!",
@@ -8965,11 +8966,7 @@
 		"22": "I can't...resurface anymore... I want to go back to Maizuru... back home... once more...",
 		"29": "?… Admiral. Is Yuu... doing everything right? Oh... ...danke!"
 	}
-	
-	/*
-	// สำหรับเรือที่ยังไม่มีในรายการ
-	// บทพูด 6 ไม่มีในรายการ
-	
+	/* สำหรับเรือที่ยังไม่มีในรายการ + บทพูด 6 ไม่มีในรายการ
 	"Mockup" : {
 		"1": "Introduction",
 		"25": "Library Intro",
@@ -9001,6 +8998,5 @@
 		"29": "Secretary(idle)"
 		"6": "Docking complete",
 	},
-	
 	*/
 }

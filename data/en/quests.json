@@ -538,12 +538,14 @@
     "245": {
         "code": "WB01",
         "name": "In Preparation of Love! (Final)",
-        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss."
+        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.",
+        "unlock": [ 135 ]
     },
     "246": {
         "code": "WB02",
         "name": "Your First Mission Together!",
-        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.",
+        "unlock": [ 142 ]
     },
     "247": {
         "code": "B23",
@@ -963,7 +965,8 @@
     "306": {
         "code": "WC01",
         "name": "In Preparation of Love (Part 2)",
-        "desc": "Show your love by getting 2 victories in practice mode."
+        "desc": "Show your love by getting 2 victories in practice mode.",
+        "unlock": [ 134 ]
     },
     "307": {
         "code": "C5",
@@ -1203,7 +1206,8 @@
     "611": {
         "code": "WF01",
         "name": "In Preparation of Love! (Part 1)",
-        "desc": "Scrap equipment 2 times to show your love!"
+        "desc": "Scrap equipment 2 times to show your love!",
+        "unlock": [ 306 ]
     },
     "612": {
         "code": "F11",

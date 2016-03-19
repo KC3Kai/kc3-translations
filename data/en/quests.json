@@ -761,7 +761,11 @@
         "name": "Sortie the 27th Destroyer Division",
         "desc": "Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships to World 2-3 and obtain an S-Rank at the boss"
     },
-    
+    "809": {
+        "code": "B62",
+        "name": "Bolster the Capability for Amphibious Assault Operations!",
+        "desc": "Sortie to World 6-3 and obtain an B-Rank or better at the boss"
+    },
     
     
     
@@ -880,6 +884,7 @@
         "code": "Bw9",
         "name": "Weekly Sortie 9",
         "desc": "Sortie to [W5-2] and S-rank the boss node 2 times",
+        "unlock": [ 809 ],
         "tracking": [ [0,2] ]
     },
     "261": {

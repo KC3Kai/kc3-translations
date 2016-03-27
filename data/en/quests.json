@@ -538,12 +538,14 @@
     "245": {
         "code": "WB01",
         "name": "In Preparation of Love! (Final)",
-        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss."
+        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.",
+        "unlock": [ 135 ]
     },
     "246": {
         "code": "WB02",
         "name": "Your First Mission Together!",
-        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.",
+        "unlock": [ 142 ]
     },
     "247": {
         "code": "B23",
@@ -759,7 +761,11 @@
         "name": "Sortie the 27th Destroyer Division",
         "desc": "Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships to World 2-3 and obtain an S-Rank at the boss"
     },
-    
+    "809": {
+        "code": "B62",
+        "name": "Bolster the Capability for Amphibious Assault Operations!",
+        "desc": "Sortie to World 6-3 and obtain an B-Rank or better at the boss"
+    },
     
     
     
@@ -878,6 +884,7 @@
         "code": "Bw9",
         "name": "Weekly Sortie 9",
         "desc": "Sortie to [W5-2] and S-rank the boss node 2 times",
+        "unlock": [ 809 ],
         "tracking": [ [0,2] ]
     },
     "261": {
@@ -963,7 +970,8 @@
     "306": {
         "code": "WC01",
         "name": "In Preparation of Love (Part 2)",
-        "desc": "Show your love by getting 2 victories in practice mode."
+        "desc": "Show your love by getting 2 victories in practice mode.",
+        "unlock": [ 134 ]
     },
     "307": {
         "code": "C5",
@@ -1203,7 +1211,8 @@
     "611": {
         "code": "WF01",
         "name": "In Preparation of Love! (Part 1)",
-        "desc": "Scrap equipment 2 times to show your love!"
+        "desc": "Scrap equipment 2 times to show your love!",
+        "unlock": [ 306 ]
     },
     "612": {
         "code": "F11",

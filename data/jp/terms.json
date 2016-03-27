@@ -50,16 +50,16 @@
 	"MenuFBName" : "Facebookでいいね！",
 	"MenuFBDesc" : "最新情報、新しい特性、お知らせを常に",
 
-	"MenuVersion" : "バージョン",
+	"MenuVersion"      : "バージョン",
+	"MenuUpdate"       : "アップデート",
+	"MenuPvPReset"     : "次の演習リセット",
+	"MenuQuestReset"   : "デイリーリセット",
 	"MenuChangelog" : "(変更履歴)",
-	"MenuUpdate" : "アップデート",
 	"MenuOnLatest" : "すでに最新",
-	"MenuScheduledNow" : "アップデートあり",
-	"MenuPvPReset" : "演習リセット",
-	"MenuQuestReset" : "デイリーリセット",
+	"MenuScheduledNow" : "予定間もなく",
 	"MenuServerMaintenance" : "メンテナンス状況",
-	"MenuTimeUnknown": "次回未定",
-	"MaintenanceComplete": "予定完了",
+	"MenuTimeUnknown" : "次回未定",
+	"MaintenanceComplete": "お知らせ待ち",
 
 	"GameDMMRedirect" : "一番下にある艦これを起動するを押すことで、DMMで艦これページに飛べます",
 	"GameDMMFrame" : "DMMサイトのゲームページをiFrameで表示します。",
@@ -126,9 +126,11 @@
 	"AboutLicense" : "License",
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
-	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> by Mike Koenig",
-	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> by Diablohu, for Strategy Room Ship Database",
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> の<strong>中国語簡体字</strong>任務翻訳を使っています",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> (心拍音声)は<strong>Mike Koenig</strong>からの提供です",
+	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> は<strong>Diablohu</strong>からの提供で艦娘データベースに使っています",
+	"AboutSourceGakadaVoices": "<strong>gakada</strong> の提案 (<a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">coming up with breakthroughs</a>) で艦娘のセリフ音声解析できます",
+	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> の最新英語版艦娘セリフ (<a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">scraping kancolle wikia</a>) を字幕に使っています",
 
 	"SettingsTitle" : "KC3改の設定",
 
@@ -137,7 +139,8 @@
 	"SettingsELosFormula" : "索敵値計算式",
 	"SettingsELosSum" : "合計",
 	"SettingsELosOld" : "2-5式旧",
-	"SettingsELosNew" : "2-5式新",
+	"SettingsELosNew" : "2-5式秋",
+	"SettingsELosF33" : "2-5判定式33",
 	"SettingsHQExpDetail"  : "提督経験値表示",
 	"SettingsHQExpLeft"    : "残り",
 	"SettingsHQExpCurrent" : "現在",
@@ -155,7 +158,7 @@
 	"SettingsCompass" : "羅針盤・戦闘データ",
 	"SettingsBattleData" : "戦闘結果予想",
 	"SettingsBattleStamp" : "戦闘轟沈表記",
-	"SettingsSaltyShip" : "KC3改 Salt Treatment",
+	"SettingsSaltyShip" : "KC3改の乱数偏り標記",
 	"SettingsYasenTroll" : "KC3改のツッコミ(英語)",
 	"SettingsHQDelta" : "出撃提督経験値差分",
 	"SettingsFleetStatus" : "艦隊状態概要",
@@ -204,6 +207,11 @@
 	"SettingsBGPosition" : "背景位置",
 	"SettingsBGPositionDesc" : "background-positionのCSSプロパティを参照してください。",
 	"SettingsPlayerScale" : "ゲーム画面サイズ",
+	"SettingsSubtitles" : "画面に字幕が付与",
+	"SettingsSubtitleFont": "字幕フォントファミリー",
+	"SettingsSubtitleFontDesc": "font-familyのCSSプロパティをwww.cssfontstack.comにて参照してください。",
+	"SettingsSubtitleSize": "字幕フォントのサイズ",
+	"SettingsSubtitleBold": "字幕フォントを太くする",
 
 	"SettingsDMMGameplay" : "DMMゲーム画面",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
@@ -443,8 +451,8 @@
 	"LodgeRatingNG4" : "使い切り主義なの？",
 	"LodgeRatingNG5" : "超赤字だぜ",
 
-	"MasterShipSaltCheck" : "Existence Accept",
-	"MasterShipSaltUnCheck" : "Existence Deny",
+	"MasterShipSaltCheck" : "この艦を許してる",
+	"MasterShipSaltUnCheck" : "この艦を許さん！",
 
 	"Dummy" : "ダミー"
 

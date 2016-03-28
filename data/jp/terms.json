@@ -270,7 +270,7 @@
 	"CatBombServerCommErrorTitle" : "サーバー通信エラー",
 	"CatBombServerCommErrorMsg"   : "[{0}]する時、サーバーとの通信が失敗しました。あなたのAPIリンクの問題ではありませんが、接続環境や混雑の問題でしょう。",
 	"CatBombHardAPIErrorTitle" : "APIリンクエラー",
-	"CatBombHardAPIErrorMsg"   : "あなたのAPIリンクが使えなくなるのをサーバーから報告されました。たぶんAPIリンクが期限切れやサーバーがメンテナンスに入たのせいでしょう。APIリンクを更新して、公式や<a href=\"http://kancolle.wikia.com/wiki/Recent_Updates#Future_updates\" target=\"_blank\">Wikiaの通知</a>とか確認を。",
+	"CatBombHardAPIErrorMsg"   : "あなたのAPIリンクが使えなくなるのをサーバーから報告されました。たぶん期限切れやメンテナンスに入たのせいでしょう。APIリンクを更新して、公式や<a href=\"http://kancolle.wikia.com/wiki/Recent_Updates#Future_updates\" target=\"_blank\">Wikiaの通知</a>とか確認を。",
 	"CatBombWrongComputerClockTitle" : "パソコンの時計がずれてる",
 	"CatBombWrongComputerClockMsg"   : "あなたのパソコンの時計を正しく設定して下さい。日本の時間帯を使わなくでもいいがサーバーとの時刻差が大きすぎないように。今差が{0}分です。",
 	"CatBombErrorOnHomePortTitle" : "母港入るときエラーが…",

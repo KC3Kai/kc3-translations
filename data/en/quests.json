@@ -766,7 +766,26 @@
         "name": "Bolster the Capability for Amphibious Assault Operations!",
         "desc": "Sortie to World 6-3 and obtain an B-Rank or better at the boss"
     },
-    
+    "810": {
+        "code": "B63",
+        "name": "Lets defend the Refinery Area!",
+        "desc": "Sortie to 1-3 three times with a Torpedo Squadron (1CL+5DD) and beat the boss."
+    },
+    "811x": {
+        "code": "B64",
+        "name": "Strengthen our lines at Southwestern Islands Area!",
+        "desc": "Sortie to 1-4 five times and beat the boss."
+    },
+    "812x": {
+        "code": "B65",
+        "name": "Secure Control of the Orel Sea!",
+        "desc": "Sortie to 2-3 six times with Ooshio as flagship and get S-Rank from the boss."
+    },
+    "813x": {
+        "code": "B66",
+        "name": "Sortie the flagship \"Ooshio\"!",
+        "desc": "Sortie to 3-5 with Ooshio Kai Ni as flagship and get S-Rank from the boss."
+    },
     
     
     "201": {
@@ -780,7 +799,7 @@
         "code": "Bd2",
         "name": "Daily Sortie 2",
         "desc": "Defeat the flagship of an abyssal fleet",
-        "unlock": [ 172, 210, 218, 214, 213, 311 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
@@ -1317,7 +1336,11 @@
         "name": "Model Conversion & Reorganization: Zero Fighter Model 52A (w/ Iwamoto Flight)",
         "desc": "Equip a rank 7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun"
     },
-    
+    "634": {
+        "code": "F31",
+        "name": "Preparing for new furniture",
+        "desc": "Scrap 9 pieces of equipment"
+    },
     
     
     

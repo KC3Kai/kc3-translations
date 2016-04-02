@@ -162,8 +162,10 @@
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
 	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
-	"SettingsEnglishShipType": "Use English Ship Type Abbr.",
-	"SettingsJapaneseShipItem": "Use Japanese Ship Name",
+	"SettingsEnglishShipType": "English Ship Type Codes",
+	"SettingsShipNamesLang": "Ship Names Language",
+	"SettingsShipNamesGlobal": "Follow global",
+	"SettingsBlinkGauge": "Blink Gauge on Last Kill",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -172,6 +174,9 @@
 	"SettingsSSNewTab" : "New Tab",
 	"SettingsSSFileType" : "Filetype",
 	"SettingsSSDirectory" : "Download Sub-directory",
+	"SettingsSSDirDesc" : "Specify subfolder of /Downloads/",
+	"SettingsSSDppx": "Device Pixel Ratio",
+	"SettingsNormal": "Normal",
 	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",

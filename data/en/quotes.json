@@ -1,4 +1,8 @@
 {
+	"timing": {
+		"baseMillisVoiceLine" : 2000,
+		"extraMillisPerChar" : 50
+	},
 	"npc" : {
 		"1" : "I'm looking forward to working with you.",
 		"2" : "Thank you very much.",
@@ -8992,7 +8996,7 @@
 		"20": "Aaah! That...hurts...!",
 		"21": "I got beat. This isn't good. Yuu feels like she wants to resurface...",
 		"22": "I can't...resurface anymore... I want to go back to Maizuru... back home... once more...",
-		"29": "?… Admiral. Is Yuu... doing everything right? Oh... ...danke!"
+		"29": "?\u2026Admiral. Is Yuu... doing everything right? Oh... ...danke!"
 	},
     "151": {
         "1": "Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you.",
@@ -12898,7 +12902,7 @@
 		"20": "Aaah! That...hurts...!",
 		"21": "I got beat. This isn't good. Yuu feels like she wants to resurface...",
 		"22": "I can't...resurface anymore... I want to go back to Maizuru... back home... once more...",
-		"29": "?… Admiral. Is Yuu... doing everything right? Oh... ...danke!"
+		"29": "?\u2026Admiral. Is Yuu... doing everything right? Oh... ...danke!"
 	},
     "432": {
         "1": "Good morning. I am the carrier, Graf Zeppelin. You are the Admiral overseeing this fleet, yes? Is that so? Roger.",

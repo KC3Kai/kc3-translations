@@ -766,25 +766,24 @@
         "name": "Bolster the Capability for Amphibious Assault Operations!",
         "desc": "Sortie to World 6-3 and obtain an B-Rank or better at the boss"
     },
-    
-    "810x": {
+    "810": {
         "code": "B63",
         "name": "Lets defend the Refinery Area!",
-        "desc": "Sortie to 1-3 three times with a Torpedo Squadron and beat the boss. (This is clearable with 1CL 5DD)"
+        "desc": "Sortie to 1-3 three times with a Torpedo Squadron (1CL+5DD) and beat the boss."
     },
     "811x": {
         "code": "B64",
-        "name": "Strengthen our lines at Southwestern islands Area!",
+        "name": "Strengthen our lines at Southwestern Islands Area!",
         "desc": "Sortie to 1-4 five times and beat the boss."
     },
     "812x": {
         "code": "B65",
-        "name": "オリョール海の制海権を確保せよ！",
+        "name": "Secure Control of the Orel Sea!",
         "desc": "Sortie to 2-3 six times with Ooshio as flagship and get S-Rank from the boss."
     },
     "813x": {
         "code": "B66",
-        "name": "旗艦「大潮」出撃せよ！",
+        "name": "Sortie the flagship \"Ooshio\"!",
         "desc": "Sortie to 3-5 with Ooshio Kai Ni as flagship and get S-Rank from the boss."
     },
     
@@ -800,7 +799,7 @@
         "code": "Bd2",
         "name": "Daily Sortie 2",
         "desc": "Defeat the flagship of an abyssal fleet",
-        "unlock": [ 172, 210, 218, 214, 213, 311 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {

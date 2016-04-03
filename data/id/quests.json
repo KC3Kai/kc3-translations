@@ -570,6 +570,26 @@
         "name": "Tingkatkan Potensi dari Operasi Serangan Darat!",
         "desc": "Sorti ke World 6-3 dan dapatkan B-Rank atau lebih di boss node"
     },
+     "810": {
+        "code": "B63",
+        "name": "Ayo Pertahankan Area Kilang Minyak!",
+        "desc": "Sorti ke World 1-3 dan kalahkan Boss 3 kali dengan Torpedo Skuadron (1CL + 5DD)"
+    },
+     "811x": {
+        "code": "B64",
+        "name": "Perkuat Pertahanan Pulau-Pulau Di Daerah Barat Daya!",
+        "desc": "Sorti ke World 1-4 dan kalahkan boss 5 kali"
+    },
+     "812x": {
+        "code": "B65",
+        "name": "Amankan Kendali Di Lautan Orel!",
+        "desc": "Sorti ke World 2-3 dengan Ooshio sebagai pemimpin dan dapatkan S-Rank di boss node 6 kali"
+    },
+     "813x": {
+        "code": "B66",
+        "name": "Sorti Si Pemimpin \"Ooshio\"!",
+        "desc": "Sorti ke World 3-5 dengan Ooshio Kai Ni sebagai pemimpin dan dapatkan S-Rank di boss node"
+    },
     
 	
 	"201": {
@@ -583,7 +603,7 @@
 		"code": "Bd2",
 		"name": "Sorti Harian 2",
 		"desc": "Kalahkan Kapal Pemimpin Armada Abyssal",
-		"unlock": [ 210, 218, 214, 213 ],
+		"unlock": [ 210, 218, 214, 213, 311, 810 ],
 		"tracking": [ [0,1] ]
 	},
 	"210": {

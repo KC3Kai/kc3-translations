@@ -181,7 +181,6 @@
 	"SettingsSSDppx"      : "デバイスピクセル比",
 	"SettingsNormal"      : "普通",
 
-
 	"SettingsAlerts"         : "警報と通知",
 	"SettingsTimeDiff"       : "タイマー調整",
 	"SettingsMoraleNotif"    : "疲労回復デスクトップ通知",
@@ -330,10 +329,20 @@
 	"BattleContactYes"   : "有り",
 	"BattleContactNo"    : "無し",
 
-	"ShipFire"    : "火力：",
-	"ShipTorpedo" : "雷装：",
-	"ShipAntiAir" : "対空：",
-	"ShipArmor"   : "装甲：",
+	"ShipHp"      : "耐久",
+	"ShipFire"    : "火力",
+	"ShipTorpedo" : "雷装",
+	"ShipAntiAir" : "対空",
+	"ShipArmor"   : "装甲",
+	"ShipEvasion" : "回避",
+	"ShipAsw"     : "対潜",
+	"ShipLos"     : "索敵",
+	"ShipLuck"    : "運　",
+	"ShipCarry"   : "搭載",
+	"ShipSpeed"   : "速力",
+	"ShipLength"  : "射程",
+	"ShipMorale"  : "士気",
+	"ShipYasenFp" : "夜戦",
 
 	"PredictionStampSortie" : "轟　　沈",
 	"PredictionStampPvP"    : "行動不能",

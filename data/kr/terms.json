@@ -127,9 +127,16 @@
 	"AboutLicenseDisclaimer" : "아래 문구는 현재 설치된 버전의 최신 라이선스 파일의 내용입니다. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">최신의 공식 내용을 보기 위해선 repository의 라이선스 파일을 참고해주세요.</a>",
 	
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> for <strong>Simplified Chinese</strong> quest translations",
+	"AboutSourceZHKcWikiQuests" : "for Simplified Chinese quest translations",
+	"AboutSourceZHKcWikiSubtitles" : "for Simplified Chinese subtitle quotes",
   "AboutSourceHeartSound": "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Heartbeat Sound Effect</a> by Mike Koenig",
 	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> by Diablohu, for Strategy Room Ship Database",
-
+	"AboutSourceGakadaVoices": "<strong>gakada</strong> for <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">coming up with breakthroughs</a> on voice line decoding",
+	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> for <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">scraping kancolle wikia</a> of the latest shipgirl quotes",
+	"AboutSourceApaapaTranslations": "<strong>阿帕</strong> for providing <a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">tcn subtitle quotes</a>",
+	"AboutSubtitleContributors": "Thanks to the contributors on the <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">subtitle verification</a> with some even doing the fixes themselves",
+	"AboutSubtitleContributorsOther": "and others who didn't specify their name",
+	
 	"SettingsTitle" : "KC3改 설정",
 	
 	"SettingsGlobal" : "글로벌",
@@ -161,8 +168,10 @@
 	"SettingsFleetStatus": "함대 현황 개요",
 	"SettingsAutoExpedTab" : "원정 탭 자동 열기",
 	"SettingsEnglishShipType": "영자 약어 활용",
-  "SettingsJapaneseShipItem": "일어 함선명 활용",
-  	
+	"SettingsShipNamesLang": "Ship Names Language",
+	"SettingsShipNamesGlobal": "Follow global",
+	"SettingsBlinkGauge": "Blink Gauge on Last Kill",
+	
 	"SettingsScreenshot" : "스크린샷",
 	"SettingsSSOutput" : "출력모드",
 	"SettingsSSDownload" : "다운로드",
@@ -170,6 +179,9 @@
 	"SettingsSSNewTab" : "새로운 탭",
 	"SettingsSSFileType": "파일 형식",
 	"SettingsSSDirectory" : "서브디렉토리 다운로드",
+	"SettingsSSDirDesc" : "/Downloads/ 서브디렉토리를 정하세요",
+	"SettingsSSDppx": "기기 픽셀 비율",
+	"SettingsNormal": "기본",
 	
 	"SettingsAlerts" : "경보음",
 	"SettingsTimeDiff" : "타이머 여유",
@@ -193,7 +205,7 @@
 	"SettingsQuestOverlay" : "퀘스트 번역",
 	"SettingsQuestTracking" : "퀘스트 추적",
 	"SettingsPanelRequirement" : "플레이하기 위하여 패널이 필요",
-	"SettingsDirectRefresh" : "페이지 내에서 다시바꿈 (위험)",
+	"SettingsDirectRefresh" : "페이지 내에서 새로고침 (위험)",
 	"SettingsConfirmExit" : "종료 확인",
 	"SettingsScreenMargin" : "상단 여백",
 	"SettingsBGColor" : "배경색",
@@ -204,6 +216,11 @@
 	"SettingsBGPosition" : "배경 위치",
 	"SettingsBGPositionDesc" : "background-position의 CSS 속성을 참조해주세요. [Needs Clarification]",
 	"SettingsPlayerScale" : "게임 플레이어 비율 조절",
+	"SettingsSubtitles" : "On-screen Subtitles",
+	"SettingsSubtitleFont": "Subtitle Font Family",
+	"SettingsSubtitleFontDesc": "CSS-valid font family. See http://www.cssfontstack.com",
+	"SettingsSubtitleSize": "Subtitle Font Size",
+	"SettingsSubtitleBold": "Subtitle Bold Font",
 	
 	"SettingsDMMGameplay" : "DMM 옵션",
 	"SettingsDMMCustomize" : "커스터마이징 적용",
@@ -217,7 +234,7 @@
 	"SettingsEnablePoiDBSubmission": "이 기능 활성화",
 	
 	"SettingsKC3DBSubmission" :"KC3改에 데이터 전송 (http://kc3.jetri.co)",
-	"SettingsEnableKC3DBSubmission" : "활성화해서 도움을 주십시오",
+	"SettingsEnableKC3DBSubmission" : "활성화해서 돕기",
 	
 	"SettingsPanelSize" : "패널 크기",
 	"SettingsPanelOpacity" : "UI 불투명도",
@@ -273,7 +290,7 @@
 	"SpeedSlow" : "저속",
 
   "HQText": "사령부",
-	"HQAdmiralLv"  : "제독 레벨",
+	"HQAdmiralLv"  : "레벨",
 	"HQExpAbbrev1" : "다음",
 	"HQExpAbbrev2" : "현재",
 	"HQExpAbbrev3" : "총",
@@ -301,10 +318,20 @@
 	"BattleContactYes"   : "조우",
 	"BattleContactNo"    : "미조우",
 
+	"ShipHp"      : "체력",
 	"ShipFire"    : "화력",
 	"ShipTorpedo" : "뇌장",
 	"ShipAntiAir" : "대공",
 	"ShipArmor"   : "장갑",
+	"ShipEvasion" : "회피",
+	"ShipAsw"     : "대잠",
+	"ShipLos"     : "색적",
+	"ShipLuck"    : "운",
+	"ShipCarry"   : "함재기",
+	"ShipSpeed"   : "속도",
+	"ShipLength"  : "사거리",
+	"ShipMorale"  : "피로도",
+	"ShipYasenFp" : "야전",
 
 	"PredictionStampSortie" : "굉침",
 	"PredictionStampPvP" : "제압됨",
@@ -367,6 +394,7 @@
 	"Screenshot": "스크린샷",
 	"Expedition" : "원정",
 	"UntranslatedQuest" : "번역되지 않은 퀘스트",
+	"UntranslatedQuestTip" : "등록 혹은 번역되지 않은 퀘스트입니다. 이곳에서 확인할 수 없으니, 게임 내에서 확인하시기 바랍니다..",
 	
 	"StrategyEvents1HP" : "마지막 킬!(막트)",
 	

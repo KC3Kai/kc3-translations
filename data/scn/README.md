@@ -22,7 +22,7 @@ cd tools
 # fetch
 wget http://api.kcwiki.moe/subtitles -o subtitles.json
 # update existing quotes
-./kcwikizh-subtitle-merge.py subtitles ../data/scn/quotes.json tmp1.json
+./kcwikizh-subtitle-merge.py subtitles.json ../data/scn/quotes.json tmp1.json
 # minimize quotes.json file
 ./quotes-minify.py remodelGroups.json tmp1.json tmp2.json
 # overwrite old file

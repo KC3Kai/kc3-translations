@@ -36,8 +36,8 @@
 	"MenuPlayDMMName" : "เล่นผ่าน DMM",
 	"MenuPlayDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติ",
 
-	"MenuPlayDMMFName" : "เล่นผ่าน DMM Frame",
-	"MenuPlayDMMFDesc" : "เล่นผ่าน DMM Frame โดยใช้การเข้าหน้าเว็บ DMM โดยตรง",
+	"MenuPlayDMMFName" : "เล่นผ่าน DMM เฟรม (แนะนำ)",
+	"MenuPlayDMMFDesc" : "เล่นผ่าน DMM เฟรม จะใช้งาน KC3Kai ได้เต็มรูปแบบ",
 	"MenuPlayOSAPIName" : "เล่นผ่าน OSAPI",
 	"MenuPlayOSAPIDesc" : "ขณะนี้ไม่เปิดให้ใช้งาน",
 
@@ -148,6 +148,7 @@
 	"SettingsTimeRemaining" : "เวลานับถอยหลัง",
 	"SettingsTimeFinished" : "บอกเวลาที่เสร็จ",
 	"SettingsCheckLiveQuests" : "ตรวจสอบอัพเดทคำแปลใหม่",
+	"SettingsDevOnlyPages" : "ห้องผู้การพิเศษ (ทีมพัฒนาเท่านั้น)",
 	
 	"SettingsGameInfo" : "ข้อมูลภายในเกม",
 	"SettingsDropFaces" : "การดรอปเรือ",
@@ -160,11 +161,12 @@
 	"SettingsYasenTroll" : "แจ้งเตือนโดนโทรลล์",
 	"SettingsHQDelta" : "แสดง HQ EXP รวมที่ได้รับ",
 	"SettingsFleetStatus" : "แจ้งสถานะเรือ",
-	"SettingsAutoExpedTab" : "เปิดใช้งานการจัดกองสำรวจ",
+	"SettingsAutoExpedTab" : "ระบบการจัดกองสำรวจ",
 	"SettingsEnglishShipType": "ประเภทเรือภาษาอังกฤษ",
 	"SettingsShipNamesLang": "เลือกภาษาชื่อเรือ",
 	"SettingsShipNamesGlobal": "ใช้ตามภาษาที่เลือก",
-
+	"SettingsBlinkGauge": "แจ้งเตือนเกจสุดท้าย",
+	
 	"SettingsScreenshot" : "การถ่ายภาพหน้าจอเกม",
 	"SettingsSSOutput" : "รูปแบบที่ใช้งาน",
 	"SettingsSSDownload" : "ดาวน์โหลด",
@@ -177,7 +179,7 @@
 	"SettingsNormal": "ปกติ",
 	
 	"SettingsAlerts" : "การแจ้งเตือน",
-	"SettingsTimeDiff" : "แจ้งเตือนเผื่อล่วงหน้า",
+	"SettingsTimeDiff" : "แจ้งเตือนล่วงหน้า",
 	"SettingsMoraleNotif" : "แจ้งเตือนกำลังใจกองเรือ",
 	"SettingsMoraleValue" : "ค่ากำลังใจที่ต้องการ",
 	"SettingsSupplyRate" : "ค่ายุทธปัจจัย",
@@ -210,7 +212,7 @@
 	"SettingsBGPositionDesc" : "ดู CSS ตำแหน่งของภาพพื้นหลัง",
 	"SettingsPlayerScale" : "ขนาดของหน้าจอเกม",
 	"SettingsSubtitles" : "เปิดซับไตเติ้ล",
-	"SettingsSubtitleFont": "ฟอนต์ซับไตเติ้ล",
+	"SettingsSubtitleFont": "ชุดฟอนต์ซับไตเติ้ล",
         "SettingsSubtitleFontDesc": "แบบฟอนต์ที่ใช้งานได้ ดูที่นี่ http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "ปรับขนาดของซับไตเติ้ล",
 	"SettingsSubtitleBold": "ปรับตัวหนาของซับไตเติ้ล",
@@ -323,8 +325,8 @@
 	
 	"PanelDocking" : "อู่ซ่อมเรือ",
 	"PanelAkashi" : "อาคาชิ",
-	"PanelNoRepair" : "ยังไม่จำเป็นต้องซ่อม",
-	"PanelCantRepair" : "ซ่อมแซมไม่ได้",
+	"PanelNoRepair" : "ยังไม่จำเป็นต้องซ่อมบำรุง",
+	"PanelCantRepair" : "ซ่อมบำรุงไม่ได้",
 	"PanelHighestDocking" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อู่ซ่อมเรือ",
 	"PanelHighestAkashi" : "เวลารวมที่ต้องใช้ในการซ่อมเรือโดย อาคาชิ",
         "PanelRepairMoreDays" : "ซ่อมนานกว่า 1 วัน",
@@ -350,6 +352,7 @@
 	"PanelToggleSounds" : "ปิดเสียง",
 	"PanelFitWindow" : "ปรับขนาดหน้าจอ",
 	"PanelExportToKCDB" : "ส่งข้อมูลไป Kancolle-calc DeckBuilder",
+	"PanelToggleQuestComplete" : "ปรับสถานะตัวนับเควส",
 	
 	"MissionLabelActivity" : "สถานะ",
 	"MissionGetItems" : "รางวัล:",

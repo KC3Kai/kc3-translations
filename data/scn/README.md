@@ -11,6 +11,26 @@
 * 修改已有翻译超过三条请尽量发Pull Request 并 @ 其他scn翻译者 （目前主要活跃的翻译者为： @Javran @Diablohu ）
 * 其他情况下自行判断
 
+## 编辑中文字幕
+
+请勿直接编辑 `quotes.json` 中以舰娘id为索引的数据。这一部分是不定期从[舰娘百科](http://zh.kcwiki.moe/wiki/%E8%88%B0%E5%A8%98%E7%99%BE%E7%A7%91)数据库中获取的，故对此部分的修订请通过编辑舰娘百科中相应条目的方法完成。
+
+附中文字幕更新方法:
+
+```bash
+cd tools
+# fetch
+wget http://api.kcwiki.moe/subtitles -o subtitles.json
+# update existing quotes
+./kcwikizh-subtitle-merge.py subtitles.json ../data/scn/quotes.json tmp1.json
+# minimize quotes.json file
+./quotes-minify.py remodelGroups.json tmp1.json tmp2.json
+# overwrite old file
+mv tmp2.json ../data/scn/quotes.json
+# cleanup
+rm subtitles.json tmp1.json
+```
+
 ## 声明
 
 * 部分翻译来自 [@Diablohu](http://diablohu.com)

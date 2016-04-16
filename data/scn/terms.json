@@ -145,6 +145,7 @@
 	"SettingsTimeRemaining" : "剩余时间",
 	"SettingsTimeFinished" : "已经过",
 	"SettingsCheckLiveQuests" : "自动检查新任务的翻译",
+	"SettingsDevOnlyPages" : "显示调试辅助页面",
 
 	"SettingsGameInfo" : "游戏信息",
 	"SettingsDropFaces" : "揭示掉落的舰娘",
@@ -152,16 +153,19 @@
 	"SettingsCraftBox" : "揭示开发结果",
 	"SettingsCompass" : "战斗结果预测",
 	"SettingsBattleData" : "剩余血量预测",
+	"SettingsBattleRank" : "战斗评价预测",
 	"SettingsBattleStamp" : "舰娘疲劳值",
 	"SettingsBossComp" : "Boss配置",
 	"SettingsSaltyShip" : "KC3改 Salt Treatment",
 	"SettingsYasenTroll" : "显示KC3改的嘲讽(英语)",
 	"SettingsHQDelta" : "出击时提督经验经验值变化",
+	"SettingsBlinkGauge" : "在斩杀阶段闪烁Boss血槽",
 	"SettingsFleetStatus" : "舰队状态概览",
 	"SettingsAutoExpedTab": "自动切换远征信息页",
 	"SettingsEnglishShipType": "使用英文舰种缩写",
-	"SettingsJapaneseShipItem": "使用日文舰名、装备名",
-
+	"SettingsShipNamesLang" : "舰名与装备名使用语言",
+	"SettingsShipNamesGlobal" : "按照语言设定",
+	
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
 	"SettingsSSDownload" : "保存到下载目录",
@@ -169,6 +173,7 @@
 	"SettingsSSNewTab" : "打开新标签页",
 	"SettingsSSFileType" : "文件格式",
 	"SettingsSSDirectory" : "子目录名",
+	"SettingsSSDppx" : "设备像素比",
 
 	"SettingsAlerts" : "提醒",
 	"SettingsTimeDiff" : "倒计时提前",
@@ -204,6 +209,9 @@
 	"SettingsBGPositionDesc" : "请查阅 CSS background-position 属性",
 	"SettingsPlayerScale" : "游戏窗口缩放",
 	"SettingsSubtitles" : "游戏字幕",
+	"SettingsSubtitleBold" : "加粗字幕",
+	"SettingsSubtitleFont" : "字幕字体",
+	"SettingsSubtitleSize" : "字幕大小",
 
 	"SettingsDMMGameplay" : "网页模式",
 	"SettingsDMMCustomize" : "允许自定义",

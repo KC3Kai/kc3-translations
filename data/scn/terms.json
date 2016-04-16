@@ -125,9 +125,16 @@
 	"AboutLicense" : "许可",
 	"AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
 
-	"AboutSourceZHKcWiki" : "<strong>简体中文</strong>任务使用了部分来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>的翻译，有少许改动。",
+	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
+	"AboutSourceZHKcWikiQuests" : "任务翻译来自舰娘百科",
+	"AboutSourceZHKcWikiSubtitles" : "字幕翻译来自舰娘百科",
 	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">心跳音效</a> (Mike Koenig)",
 	"AboutSourceWhoCallsTheFleet" : "使用了<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">是谁呼叫舰队</a>的数据文件 (Diablohu)",
+	"AboutSourceGakadaVoices": "感谢<strong>gakada</strong><a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">为字幕解码带来的突破</a>",
+	"AboutSourceMdmsScottQuotes": "感谢<strong>mdms-scott</strong><a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">从英文Wikia百科抓取最新字幕</a>",
+	"AboutSourceApaapaTranslations" : "<strong>阿帕</strong> 提供了 <a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">繁体中文台词翻译</a>",
+	"AboutSubtitleContributors": "感谢下列贡献者<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">参与字幕的校验和修订工作</a>：",
+	"AboutSubtitleContributorsOther": "以及其他未透露姓名的贡献者！",
 
 	"SettingsTitle" : "KC3改 - 设置",
 

@@ -411,6 +411,12 @@
         "desc": "Have Shiratsuyu Kai (\u767D\u9732\u6539) as flagship, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) and Samidare (\u4E94\u6708\u96E8) in your fleet",
         "unlock": [ 808 ]
     },
+    "173":{
+        "code": "A68",
+        "name": "Organise a Forced High-speed Transport Fleet!",
+        "desc": "Have Sendai Kai Ni as flagship, Kawakaze Kai Ni, Shigure Kai Ni and two other destroyers in your fleet.",
+        "unlock": []
+    },
     
     
     "202": {
@@ -790,6 +796,21 @@
         "name": "Sortie the flagship \"Ooshio\"!",
         "desc": "Sortie to 3-5 with Ooshio Kai Ni as flagship and obtain an S-Rank from the boss."
     },
+    "814": {
+        "code": "B68",
+        "name": "Forced High-speed Transport Fleet, sortie!",
+        "desc": "Sortie a fleet with Sendai K2 as flagship, Kawakaze K2, Shigure K2 +2DD and up to one wildcard to W4-1 and obtain at least an A-Rank at the boss."
+    },
+    "815": {
+        "code": "B69",
+        "name": "\"1st Carrier Division\", into the West!",
+        "desc": "Sortie a fleet with Akagi Kai as flagship, Kaga Kai and up to four wildcards to World 4-5 and obtain an S-Rank at the boss."
+    },
+    "816": {
+        "code": "B67",
+        "name": "Fleet, Third Anniversary!",
+        "desc": "Sortie a fleet to World 2-2 and World 2-3 and obtain an S-Rank at both bosses."
+    },
     
     
     "201": {
@@ -1020,7 +1041,12 @@
         "desc": "Get 7 victories in Exercises within the same day",
         "tracking": [ [0,7] ]
     },
-    
+    "312": {
+        "code": "C9",
+        "name": "Landing Force Practice",
+        "desc": "Get 4 victories in Exercises within the same day",
+        "tracking": [ [0,4] ]
+    },
     
     
     "401": {
@@ -1346,8 +1372,17 @@
         "desc": "Scrap 9 pieces of equipment",
         "unlock": [ 811 ]
     },
-    
-    
+    "635": {
+        "code": "F32",
+        "name": "Preparations for New Equipment",
+        "desc": "Scrap 5 pieces of equipment",
+        "tracking": [ [0,5] ]
+    },
+    "636": {
+        "code": "F33",
+        "name": "Supply of New Landing Force Equipment",
+        "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns"
+    },
     
     "701": {
         "code": "G1",

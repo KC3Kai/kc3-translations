@@ -35,3 +35,5 @@ rm subtitles.json tmp1.json
 
 * 部分翻译来自 [@Diablohu](http://diablohu.com)
 * 部分翻译（任务翻译以及中文简体字幕）来自 [舰娘百科](http://zh.kcwiki.moe)，有少许修改。
+* 部分台词翻译参考自[萌娘百科](https://zh.moegirl.org)
+    - NPC 台词参照来源： [舰队Collection:明石](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E6%98%8E%E7%9F%B3) [舰队Collection:大淀](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%A4%A7%E6%B7%80)

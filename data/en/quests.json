@@ -415,7 +415,7 @@
         "code": "A68",
         "name": "Organise a Forced High-speed Transport Fleet!",
         "desc": "Have Sendai Kai Ni as flagship, Kawakaze Kai Ni, Shigure Kai Ni and two other destroyers in your fleet.",
-        "unlock": []
+        "unlock": [ 814 ]
     },
     
     
@@ -799,7 +799,8 @@
     "814": {
         "code": "B68",
         "name": "Forced High-speed Transport Fleet, sortie!",
-        "desc": "Sortie a fleet with Sendai K2 as flagship, Kawakaze K2, Shigure K2 +2DD and up to one wildcard to W4-1 and obtain at least an A-Rank at the boss."
+        "desc": "Sortie a fleet with Sendai K2 as flagship, Kawakaze K2, Shigure K2 +2DD and up to one wildcard to W4-1 and obtain at least an A-Rank at the boss.",
+        "unlock": [ 815 ]
     },
     "815": {
         "code": "B69",
@@ -1045,7 +1046,8 @@
         "code": "C9",
         "name": "Landing Force Practice",
         "desc": "Get 4 victories in Exercises within the same day",
-        "tracking": [ [0,4] ]
+        "tracking": [ [0,4] ],
+        "unlock": [ 636 ]
     },
     
     
@@ -1376,12 +1378,14 @@
         "code": "F32",
         "name": "Preparations for New Equipment",
         "desc": "Scrap 5 pieces of equipment",
-        "tracking": [ [0,5] ]
+        "tracking": [ [0,5] ],
+        "unlock": [ 312 ]
     },
     "636": {
         "code": "F33",
         "name": "Supply of New Landing Force Equipment",
-        "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns"
+        "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns",
+        "unlock": [ 815 ]
     },
     
     "701": {

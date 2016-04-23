@@ -285,6 +285,11 @@
         "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu",
         "unlock": [ 808 ]
     },
+      "173":{
+        "code": "A68",
+        "name": "Bentuk Armada Transport Berkecepatan Tinggi yang Terpaksa",
+        "desc": "Miliki Sendai Kai Ni sebagai kapal pemimpin, Kawakaze Kai Ni, Shigure Kai Ni dan 2 DD di armada."
+    },
 	
 	
     "202": {
@@ -592,7 +597,7 @@
     },
      "814": {
         "code": "B68",
-        "name": "Paksa armada transport berkecepatan tinggi, sorti!",
+        "name": "Armada Transport Berkecepatan Tinggi yang Terpaksa, sorti!",
         "desc": "Sorti dengan Sendai Kai Ni sebagai pemimpin, Kawakaze Kai Ni, Shigure Kai Ni, 2 DD dan 1 kapal tambahan ke World 4-1 dan dapatkan setidaknya A-Rank di boss node."
     },
       "815": {
@@ -814,7 +819,7 @@
         "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
     },
 	"309": {
-		"code": "C7",
+	"code": "C7",
         "name": "Upaya Meningkatkan Level Latihan Untuk Menanggulangi Operasi 'KE'",
         "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
     },
@@ -823,6 +828,11 @@
         "name": "Latihan Armada Elit",
         "desc": "Dapatkan 7 Kemenangan pada mode latihan di hari yang sama",
 		"tracking": [ [0,7] ]
+    },
+	"312": {
+        "code": "C9",
+        "name": "Latihan Angkatan Pendaratan",
+        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama "
     },
 	
 	
@@ -1129,8 +1139,16 @@
         "name": "Persiapan untuk furnitur baru",
         "desc": "Hancurkan 9 equipment"
     },
-    
-	
+       "635": {
+        "code": "F32",
+        "name": "Persiapan untuk senjata baru",
+        "desc": "Hancurkan 5 equipment"
+       },
+ 	"636": {
+        "code": "F33",
+        "name": "Pasokan dari senjata angkatan pendaratan yang baru",
+        "desc": "Hancurkan 2 7.7mm Machine Guns dan 2 12.7mm Machine Guns"
+    },	
 	
     "701": {
 		"code": "G1",

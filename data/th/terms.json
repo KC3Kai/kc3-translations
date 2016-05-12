@@ -160,7 +160,7 @@
 	"SettingsBattleRank" : "ระบบบอกผลระดับล่วงหน้า",
 	"SettingsBattleStamp" : "แสตมป์บอกสภาพเรือ",
 	"SettingsBossComp" : "รูปแบบ Boss",
-	"SettingsSaltyShip" : "ระบบป้องกันเรือเกลือ",
+	"SettingsSaltyShip" : "ตรวจสอบเรือที่ยังไม่มี",
 	"SettingsYasenTroll" : "แจ้งเตือนโดนโทรลล์",
 	"SettingsHQDelta" : "แสดง HQ EXP รวมที่ได้รับ",
 	"SettingsFleetStatus" : "แจ้งสถานะเรือ",
@@ -458,8 +458,9 @@
 	"LodgeRatingNG4" : "ต้องบูชาเทพแมว?",
 	"LodgeRatingNG5" : "ใครกินทรัพย์ฯ ของฉันไป",
 	
-	"MasterShipSaltCheck" : "ที่นี่มีเกลือ",
-	"MasterShipSaltUnCheck" : "ไม่มีเกลือแล้ว",
+	"MasterShipSaltCheck" : "ไม่มีเรือลำนี้",
+	"MasterShipSaltUnCheck" : "มีเรือลำนี้แล้ว",
+	"MasterShipGoQuotes" : "ตรวจบทพูด",
 	
 	"Dummy" : "Dummy"
 }

@@ -54,12 +54,13 @@
 	"MenuUpdate"       : "アップデート",
 	"MenuPvPReset"     : "次の演習リセット",
 	"MenuQuestReset"   : "デイリーリセット",
-	"MenuChangelog" : "(変更履歴)",
-	"MenuOnLatest" : "すでに最新",
-	"MenuScheduledNow" : "予定間もなく",
+	"MenuChangelog"    : "(変更履歴)",
+	"MenuOnLatest"     : "すでに最新",
+	"MenuScheduledNow" : "間もなく",
+	"MenuScheduledSoon": "予定待ち",
 	"MenuServerMaintenance" : "メンテナンス状況",
-	"MenuTimeUnknown" : "次回未定",
-	"MaintenanceComplete": "お知らせ待ち",
+	"MenuTimeUnknown"       : "次回未定",
+	"MaintenanceComplete"   : "お知らせ待ち",
 
 	"GameDMMRedirect" : "一番下にある艦これを起動するを押すことで、DMMで艦これページに飛べます",
 	"GameDMMFrame" : "DMMサイトのゲームページをiFrameで表示します。",
@@ -320,6 +321,7 @@
 	"BattleMapKills"     : " 回",
 	"BattleMapNoHpGauge" : "ゲージなし",
 	"BattleSupportExped" : "遠征支援艦隊が到着？",
+	"BattleSupportTips"  : "第{0}支援艦隊が到着しました！\n支援{1}、開始！",
 	"BattleAntiAirCutIn" : "対空カットインが発動？",
 	"BattleItemDrop"     : "期間限定アイテムドロップ",
 	"BattleNightNeeded"  : "夜戦が必要？",
@@ -479,6 +481,7 @@
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",
+	"MasterShipGoQuotes" : "字幕セリフチェック",
 
 	"Dummy" : "ダミー"
 

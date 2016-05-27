@@ -14,7 +14,8 @@
 		["AS+", "good", "Lucht Oppermacht"],
 		["AS", "good", "Lucht Superioriteit"],
 		["AI", "bad", "Lucht Onbekwaamheid"],
-		["AD", "bad", "Lucht Ontkenning"]
+		["AD", "bad", "Lucht Ontkenning"],
+		["Geen", "", "geen luchtgevecht"]
 	],
 	
 	"engagement" : [
@@ -23,6 +24,31 @@
 		["HdOn", "", "Frontale Aanval"],
 		["Gr-T", "good", "Groene T"],
 		["Rd-T", "bad", "Rode T"]
-	]
+	],
 	
+	"formation" : [
+		"",
+		"Enkele lijn",
+		"Dubble lijn",
+		"Diamand",
+		"Echelon",
+		"Zij aan zij",
+		"","","","","",
+		"Cruising Formatie 1 (anti-sub)",
+		"Cruising Formatie 2 (forward)",
+		"Cruising Formatie 3 (diamand)",
+		"Cruising Formatie 4 (Gevechts)",
+		"","","","","","",
+		"Cruising Formatie 1 (anti-sub)",
+		"Cruising Formatie 2 (forward)",
+		"Cruising Formatie 3 (diamand)",
+		"Cruising Formatie 4 (Gevechts)"
+	],
+	
+	"support" : [
+		"",
+		"lucht aanval",
+		"artillerievuur aanval",
+		"Torpedo aanval"
+	]	
 }

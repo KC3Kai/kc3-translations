@@ -35,7 +35,7 @@
 	"MenuRefreshAPIDesc" : "打开DMM网页并自动获取新的API链接",
 	"MenuPlayDMMName" : "开始游戏（网页模式）",
 	"MenuPlayDMMDesc" : "使用DMM网页进行游戏，最为安全，不存在封号危险",
-	
+
 	"MenuPlayDMMFName" : "开始游戏（框架模式）",
 	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现自定义功能",
 	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
@@ -55,7 +55,7 @@
 	"MenuUpdate" : "版本状态",
 	"MenuOnLatest" : "目前是最新版本！",
 	"MenuScheduledNow" : "有新版本！",
-	"MenuScheduledSoon" : "敬请期待……",
+	"MenuScheduledSoon" : "敬请期待…",
 	"MenuPvPReset" : "距演习对手刷新还有",
 	"MenuQuestReset" : "距日常任务刷新还有",
 	"MenuServerMaintenance" : "距下次服务器维护还有",
@@ -175,7 +175,7 @@
 	"SettingsEnglishShipType": "使用英文舰种缩写",
 	"SettingsShipNamesLang" : "舰名与装备名使用语言",
 	"SettingsShipNamesGlobal" : "按照语言设定",
-	
+
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
 	"SettingsSSDownload" : "保存到下载目录",
@@ -236,7 +236,7 @@
 
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
-	
+
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
 
@@ -412,7 +412,7 @@
 	"NatsuiroBattle" : "战斗",
 	"NatsuiroExped" : "远征",
 	"NatsuiroActivity" : "动态",
-	
+
 	"ExpedNumLabel" : "远征 #",
 	"ExpedEstmTime" : "时间",
 	"ExpedIncome" : "净收入",
@@ -444,14 +444,14 @@
 	"LodgerPageStepRw"	: "前1小时",
 	"LodgerPageStepFw"	: "后1小时",
 	"LodgerPageRefresh" : "应用",
-	
+
 	"LodgerTimeWhole"	: "完整历史",
 	"LodgerTimeDaily"	: "按日",
 	"LodgerTimeWeekly"	: "按周",
 	"LodgerTimeMonthly" : "按月",
 	"LodgerTimeYearly"	: "按年",
 	"LodgerLabel"  : "从 %DATE1 至 %DATE2 的资源变化一览",
-	
+
 	"LodgerSortie" : "出击",
 	"LodgerPvp"	   : "演习",
 	"LodgerExped"  : "远征",
@@ -459,7 +459,7 @@
 	"LodgerAkashi" : "泊地修理",
 	"LodgerRegen"  : "自然恢复",
 	"LodgerUseitem": "道具使用",
-	
+
 	"LodgerCrship" : "建造",
 	"LodgerCritem" : "开发",
 	"LodgerDsship" : "解体",
@@ -472,7 +472,7 @@
 	"LodgeRatingOK4" : "优秀收入",
 	"LodgeRatingOK3" : "中等收入",
 	"LodgeRatingOK2" : "少量收入",
-	"LodgeRatingOK1" : "一点微小的收入",	
+	"LodgeRatingOK1" : "一点微小的收入",
 	"LodgeRatingOK0" : "均衡",
 	"LodgeRatingNG1" : "一点微小的消耗",
 	"LodgeRatingNG2" : "少量消耗",
@@ -482,8 +482,7 @@
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
-
+	"MasterShipGoQuotes" : "查看台词",
 	"Dummy" : "Dummy"
-	
-	
+
 }

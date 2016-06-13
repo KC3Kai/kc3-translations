@@ -93,7 +93,7 @@
         "code": "A9",
         "name": "Ready a Seaplane Tender",
         "desc": "Have an Seaplane Tender in your main fleet.",
-        "unlock": [ 120, 146 ]
+        "unlock": [ 120, 146, 174 ]
     },
     "117": {
         "code": "A11",
@@ -416,6 +416,12 @@
         "name": "Organise a Forced High-speed Transport Fleet!",
         "desc": "Have Sendai Kai Ni as flagship, Kawakaze Kai Ni, Shigure Kai Ni and two other destroyers in your fleet.",
         "unlock": [ 814 ]
+    },
+    "174":{
+        "code": "A69",
+        "name": "Organise a New Torpedo Squadron",
+        "desc": "Have a CL/CLT/CT as the flagship and 4 DD in any of your fleets.",
+        "unlock": [ 817 ]
     },
     
     
@@ -811,6 +817,17 @@
         "code": "B67",
         "name": "Fleet, Third Anniversary!",
         "desc": "Sortie a fleet to World 2-2 and World 2-3 and obtain an S-Rank at both bosses."
+    },
+    "817": {
+        "code": "B70",
+        "name": "Set Sail Towards the Nansei Islands Defence Line",
+        "desc": "Sortie a fleet with a CL/CLT/CT flagship, 4 DD, and up to 1 additional ship to World 1-4 and obtain an A-Rank at the boss.",
+        "unlock": [ 818 ]
+    },
+    "818": {
+        "code": "B71",
+        "name": "Ensure the Safety of the Naval Base's Nearby Routes",
+        "desc": "Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship to World 1-6 and complete the map."
     },
     
     
@@ -1318,13 +1335,13 @@
         "desc": "Scrap equipment 7 times"
     },
     "625": {
-        "code": "F22",
+        "code": "F23",
         "name": "Addition to Prototype Aviation Equipment",
         "desc": "Scrap equipment 9 times",
         "unlock": [ 627, 630 ]
     },
     "626": {
-        "code": "F23",
+        "code": "F22",
         "name": "Reorganisation of the elite fighter squad",
         "desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter",
         "unlock": [ 632 ]

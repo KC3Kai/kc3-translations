@@ -54,12 +54,13 @@
 	"MenuUpdate"       : "アップデート",
 	"MenuPvPReset"     : "次の演習リセット",
 	"MenuQuestReset"   : "デイリーリセット",
-	"MenuChangelog" : "(変更履歴)",
-	"MenuOnLatest" : "すでに最新",
-	"MenuScheduledNow" : "予定間もなく",
+	"MenuChangelog"    : "(変更履歴)",
+	"MenuOnLatest"     : "すでに最新",
+	"MenuScheduledNow" : "間もなく",
+	"MenuScheduledSoon": "予定待ち",
 	"MenuServerMaintenance" : "メンテナンス状況",
-	"MenuTimeUnknown" : "次回未定",
-	"MaintenanceComplete": "お知らせ待ち",
+	"MenuTimeUnknown"       : "次回未定",
+	"MaintenanceComplete"   : "お知らせ待ち",
 
 	"GameDMMRedirect" : "一番下にある艦これを起動するを押すことで、DMMで艦これページに飛べます",
 	"GameDMMFrame" : "DMMサイトのゲームページをiFrameで表示します。",
@@ -377,6 +378,7 @@
 	"PanelCombinedShipBarsHint" : "次のLvまで：{0} exp\n残り燃料：{1}%、弾薬：{2}%",
 	"PanelNextRemodelLv"   : "次の改造可能Lv",
 	"PanelPossibleRemodel" : "すでに改造可能",
+	"PanelResupplyCosts"   : "補給する資材\n燃料：{0}、弾薬：{1}、ボーキ：{2}",
 
 	"PanelHasTaiha"      : "大破あり",
 	"PanelFSTaiha"       : "旗艦大破",
@@ -480,6 +482,7 @@
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",
+	"MasterShipGoQuotes" : "字幕セリフチェック",
 
 	"Dummy" : "ダミー"
 

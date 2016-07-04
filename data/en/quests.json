@@ -873,7 +873,7 @@
     "226": {
         "code": "Bd7",
         "name": "Daily Sortie 7",
-        "desc": "Defeat 5 bosses in horned nodes in World 2",
+        "desc": "Defeat 5 boss nodes in World 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
@@ -925,7 +925,7 @@
     "229": {
         "code": "Bw6",
         "name": "Weekly Sortie 6",
-        "desc": "Defeat 12 bosses in horned nodes in World 4",
+        "desc": "Defeat 12 boss nodes in World 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
@@ -1248,6 +1248,7 @@
         "code": "F18",
         "name": "Daily Equipment Modernisation",
         "desc": "Perform equipment modernisation once",
+        "unlock": [ 638 ],
         "tracking": [ [0,1] ]
     },
     
@@ -1403,6 +1404,12 @@
         "name": "Supply of New Landing Force Equipment",
         "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns",
         "unlock": [ 815 ]
+    },
+    "638": {
+        "code": "F34",
+        "name": "Anti-Air Gun Mass Production",
+        "desc": "(Weekly) Scrap Anti-Air Guns 6 times",
+        "tracking": [ [0,6] ]
     },
     
     "701": {

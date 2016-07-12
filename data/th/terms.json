@@ -192,8 +192,15 @@
 	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
 	"SettingsHideCounter" : "ซ่อนการจับเวลา",
 	"SettingsShowCounter" : "โชว์การจับเวลา",
+	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
-
+	"SettingsScreenBlur" : "เบลอหน้าจอ",
+	"SettingsScreenBlood" : "เลือดสาด",
+	"SettingsAppearOnScreenshots" : "แสดงในถ่ายภาพหน้าจอ",
+	"SettingsHeartbeatSound" : "เสียงหัวใจเต้น",
+	"SettingsDisplayOnPvP" : "แสดงใน PvP",
+	"SettingsRedShadeOnPanel" : "แสดงแถบแดงในแผงควบคุม",
+	
 	"SettingsAPIGameScreen" : "หน้าจอเกม",
 	"SettingsQuestOverlay" : "แปลข้อมูลเควส",
 	"SettingsQuestTracking" : "นับการทำเควส",
@@ -244,6 +251,7 @@
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"Enabled" : "เปิดใช้งาน",
 	"Small" : "ขนาดเล็ก",
 	"Big" : "ขนาดใหญ่",
 	"Black" : "สีดำ",

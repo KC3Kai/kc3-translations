@@ -423,7 +423,16 @@
         "desc": "Have a CL/CLT/CT as the flagship and 4 DD in any of your fleets.",
         "unlock": [ 817 ]
     },
-    
+    "175": {
+        "code": "A70",
+        "name": "Reorganise the New 8th Destroyer Division!",
+        "desc": "Have Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio and Arashio in your fleet."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Elite! DesDiv 8, 1st platoon!",
+        "desc": "Have Asashio Kai Ni D and Ooshio Kai Ni in your fleet."
+    },
     
     "202": {
         "code": "B1",
@@ -828,6 +837,26 @@
         "code": "B71",
         "name": "Ensure the Safety of the Naval Base's Nearby Routes",
         "desc": "Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship to World 1-6 and complete the map."
+    },
+    "819": {
+        "code": "B72",
+        "name": "31st Cruiser Division, suppress the enemy submarines!",
+        "desc": "Sortie a fleet with Isuzu Kai Ni as flagship, Satsuki Kai Ni, Uzuki Kai, and three others to World 1-6 and complete the map twice."
+    },
+    "820": {
+        "code": "B73",
+        "name": "New 8th Destroyer Division, sortie!",
+        "desc": "Sortie a fleet with Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio, Arashio, and two others to World 1-6 and complete the map."
+    },
+    "821": {
+        "code": "B74",
+        "name": "Elite 8th Destroyer Division on ASW patrol!",
+        "desc": "Sortie a fleet that includes Asashio Kai Ni D and Ooshio Kai Ni to World 1-5 and score two S-Ranks at the boss node."
+    },
+    "822": {
+        "code": "Bq1",
+        "name": "(Quarterly) Okinoshima Sea Counter Attack",
+        "desc": "Sortie a fleet to World 2-4 and obtain two S-Ranks at the boss node."
     },
     
     
@@ -1410,6 +1439,11 @@
         "name": "Anti-Air Gun Mass Production",
         "desc": "(Weekly) Scrap Anti-Air Guns 6 times",
         "tracking": [ [0,6] ]
+    },
+    "640": {
+        "code": "SF",
+        "name": "(Limited time) Early Summer Cleanup",
+        "desc": "Scrap 5 pieces of equipment."
     },
     
     "701": {

@@ -204,7 +204,14 @@
 	"SettingsIdleWarning"    : "放置時間",
 	"SettingsHideCounter"    : "非表示",
 	"SettingsShowCounter"    : "表示",
-	"SettingsTaihaAlert"     : "大破警告エフェクト",
+
+	"SettingsTaihaAlert"      : "大破警告エフェクト",
+	"SettingsScreenBlur"      : "画面ぼかし",
+	"SettingsScreenBlood"     : "画面血塗れ",
+	"SettingsAppearOnScreenshots" : "スクショにも",
+	"SettingsHeartbeatSound"  : "心拍音",
+	"SettingsDisplayOnPvP"    : "演習にも",
+	"SettingsRedShadeOnPanel" : "下パネルに赤い枠",
 
 	"SettingsAPIGameScreen" : "APIゲーム画面",
 	"SettingsQuestOverlay" : "任務翻訳に改造(他の言語用)",
@@ -256,6 +263,7 @@
 	"SettingsErrorValue" : "値",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"Enabled" : "有効",
 	"Small" : "小",
 	"Big" : "大",
 	"Black" : "黒",
@@ -385,7 +393,7 @@
 	"PanelEscortChuuha"  : "第2艦隊旗艦",
 	"PanelNoTaiha"       : "耐久良好",
 	"PanelSupplied"      : "補給満タン",
-	"PanelNotSupplied"   : "補給出来る",
+	"PanelNotSupplied"   : "補給可能",
 	"PanelUnderSupplied" : "補給必要",
 	"PanelEmptySupply"   : "出撃不可能",
 	"PanelGreatMorale"   : "キラ状態",

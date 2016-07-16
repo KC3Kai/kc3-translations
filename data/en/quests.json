@@ -858,6 +858,16 @@
         "name": "(Quarterly) Okinoshima Sea Counter Attack",
         "desc": "Sortie a fleet to World 2-4 and obtain two S-Ranks at the boss node."
     },
+    "823": {
+        "code": "B75",
+        "name": "Torpedo Squadron, repeatedly sortie to the Nansei Islands defence line!",
+        "desc": "Sortie a fleet with CL/CLT/CT as flagship, 4 DD and 1 other ship to World 1-4 and score two S-Ranks at the boss node."
+    },
+    "824": {
+        "code": "B76",
+        "name": "Patrol the Coastal Refinery Zone!",
+        "desc": "Sortie a fleet with a CVL as flagship, 3 DD and 2 other ships to World 1-3 and score an S-Rank at the boss node."
+    },
     
     
     "201": {
@@ -1439,6 +1449,16 @@
         "name": "Anti-Air Gun Mass Production",
         "desc": "(Weekly) Scrap Anti-Air Guns 6 times",
         "tracking": [ [0,6] ]
+    },
+    "637": {
+        "code": "F35",
+        "name": "Skilled Crew Member Training",
+        "desc": "Set Houshou as flagship and equip her with a Type 96 Fighter that is both rank 7 and \u2605MAX. Consumes 2 medals and the fighter."
+	},
+	"639": {
+        "code": "F36",
+        "name": "Development of a New Torpedo Armament",
+        "desc": "Set Shimakaze as flagship and equip her with a \u2605MAX 61cm Quint. Oxygen Torpedo and a \u2605MAX 61cm Triple Oxygen Torpedo. Consumes 2 medals and the torpedoes."
     },
     "640": {
         "code": "SF",

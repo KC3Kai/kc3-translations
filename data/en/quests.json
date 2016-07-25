@@ -423,7 +423,16 @@
         "desc": "Have a CL/CLT/CT as the flagship and 4 DD in any of your fleets.",
         "unlock": [ 817 ]
     },
-    
+    "175": {
+        "code": "A70",
+        "name": "Reorganise the New 8th Destroyer Division!",
+        "desc": "Have Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio and Arashio in your fleet."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Elite! DesDiv 8, 1st platoon!",
+        "desc": "Have Asashio Kai Ni D and Ooshio Kai Ni in your fleet."
+    },
     
     "202": {
         "code": "B1",
@@ -829,6 +838,36 @@
         "name": "Ensure the Safety of the Naval Base's Nearby Routes",
         "desc": "Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship to World 1-6 and complete the map."
     },
+    "819": {
+        "code": "B72",
+        "name": "31st Cruiser Division, suppress the enemy submarines!",
+        "desc": "Sortie a fleet with Isuzu Kai Ni as flagship, Satsuki Kai Ni, Uzuki Kai, and three others to World 1-6 and complete the map twice."
+    },
+    "820": {
+        "code": "B73",
+        "name": "New 8th Destroyer Division, sortie!",
+        "desc": "Sortie a fleet with Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio, Arashio, and two others to World 1-6 and complete the map."
+    },
+    "821": {
+        "code": "B74",
+        "name": "Elite 8th Destroyer Division on ASW patrol!",
+        "desc": "Sortie a fleet that includes Asashio Kai Ni D and Ooshio Kai Ni to World 1-5 and score two S-Ranks at the boss node."
+    },
+    "822": {
+        "code": "Bq1",
+        "name": "(Quarterly) Okinoshima Sea Counter Attack",
+        "desc": "Sortie a fleet to World 2-4 and obtain two S-Ranks at the boss node."
+    },
+    "823": {
+        "code": "B75",
+        "name": "Torpedo Squadron, repeatedly sortie to the Nansei Islands defence line!",
+        "desc": "Sortie a fleet with CL/CLT/CT as flagship, 4 DD and 1 other ship to World 1-4 and score two S-Ranks at the boss node."
+    },
+    "824": {
+        "code": "B76",
+        "name": "Patrol the Coastal Refinery Zone!",
+        "desc": "Sortie a fleet with a CVL as flagship, 3 DD and 2 other ships to World 1-3 and score an S-Rank at the boss node."
+    },
     
     
     "201": {
@@ -873,7 +912,7 @@
     "226": {
         "code": "Bd7",
         "name": "Daily Sortie 7",
-        "desc": "Defeat 5 bosses in horned nodes in World 2",
+        "desc": "Defeat 5 boss nodes in World 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
@@ -925,7 +964,7 @@
     "229": {
         "code": "Bw6",
         "name": "Weekly Sortie 6",
-        "desc": "Defeat 12 bosses in horned nodes in World 4",
+        "desc": "Defeat 12 boss nodes in World 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
@@ -1248,6 +1287,7 @@
         "code": "F18",
         "name": "Daily Equipment Modernisation",
         "desc": "Perform equipment modernisation once",
+        "unlock": [ 638 ],
         "tracking": [ [0,1] ]
     },
     
@@ -1403,6 +1443,27 @@
         "name": "Supply of New Landing Force Equipment",
         "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns",
         "unlock": [ 815 ]
+    },
+    "638": {
+        "code": "F34",
+        "name": "Anti-Air Gun Mass Production",
+        "desc": "(Weekly) Scrap Anti-Air Guns 6 times",
+        "tracking": [ [0,6] ]
+    },
+    "637": {
+        "code": "F35",
+        "name": "Skilled Crew Member Training",
+        "desc": "Set Houshou as flagship and equip her with a Type 96 Fighter that is both rank 7 and \u2605MAX. Consumes 2 medals and the fighter."
+	},
+	"639": {
+        "code": "F36",
+        "name": "Development of a New Torpedo Armament",
+        "desc": "Set Shimakaze as flagship and equip her with a \u2605MAX 61cm Quint. Oxygen Torpedo and a \u2605MAX 61cm Triple Oxygen Torpedo. Consumes 2 medals and the torpedoes."
+    },
+    "640": {
+        "code": "SF",
+        "name": "(Limited time) Early Summer Cleanup",
+        "desc": "Scrap 5 pieces of equipment."
     },
     
     "701": {

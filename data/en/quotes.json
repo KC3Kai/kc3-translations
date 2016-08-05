@@ -842,7 +842,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's been raining almost everyday. It's the rainy season. Rainy days at the homeport sure are serene. Ehehe.",
         "EarlySummer 6547": "Admiral, it's getting hot. So, summer is coming... Ah, what should I do about my swimsuit?",
-        "6547": " "
+        "6547": "It's summer. Admiral, want to go have some shaved ice together? I'll have... strawberry milk! Admiral? What flavor do you want?"
     },
     "117": {
         "1": "I'm Zuihou. How do my remodeled clothes look? I'll still do my best!",
@@ -1065,7 +1065,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy days are continuing nonstop. I'm a little bad with this kind of season. For some reason, this time of year brings a melancholy feeling with it. I can't go on like this, can I?",
         "6547": "I wonder what Mogamin is going to do for her swimsuit this year. I want to have new matching swimsuits.",
-        "1471": " "
+        "1471": "In the end, we couldn't buy matching swimsuits. Eh? Admiral, you want to play beach volleyball? Kumarinko is... I'm fine."
     },
     "121": {
         "1": "Admiral, I've attained a new form!",
@@ -1728,7 +1728,7 @@
         "52": "2200. Goya's going to sleep...",
         "53": "2300. Sleepy...",
         "Rainy 6547": "It's a season with a lot of rain, dechi! But! If I dive underwater... it doesn't matter anymore, dechi!",
-        "6547": " "
+        "6547": "Hello from beneath the sea! It's summer, dechi!! Is it time for Goya and the others to have their summer vacation, dechi? Admiral?! Where did you go?!"
     },
     "128": {
         "1": "Guten Tag ... ah, my mistake... sorry, please call me \"hachi\".",
@@ -1787,7 +1787,7 @@
         "Anniversary 6547": "Three years. Amazing, isn't it? It's the third anniversary! Hacchan is a little surprised too. It's a celebration.",
         "Rainy 6547": "It feels so humid. After all, it's the rainy season. Hacchan is still fine even in rainy season, you know?",
         "EarlySummer 6547": "Eh? A swimsuit? Hacchan is fine staying with this swimsuit, but if you insist on a change... Glasses. Wouldn't you like to see me with new glasses?",
-        "6547": " "
+        "6547": "It's summer. Acht-acht! It's already August and we haven't gone swimming together. Ah, Hacchan goes swimming every day, of course. Would you like to go swimming, too?"
     },
     "129": {
         "1": "I'm Suzuya! What a lively fleet it is. I'll be in your care!",
@@ -2356,59 +2356,8 @@
         "53": "23 o'clock. Oh well, I guess I'll go to Onee-sama's room... Onee-... Commander! Why are you here?!"
     },
     "211": {
-        "1": "Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you.",
-        "25": "I'm the fast battleship, Haruna. I was equipped with a set of four domestically made 36cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base till the end. Please remember Haruna who, of all four fast battleship sisters, had fought till the bitter end.",
-        "2": "Yes, Haruna is just fine.",
-        "3": "Yes, if you're fine with Haruna, I'll be your partner any time.",
-        "4": "The admiral is very kind. Haruna appreciates your consideration.",
-        "29": "Haruna, accepting orders to standby...",
-        "28": "Admiral...being this nice to me, Haruna, will never be able to repay you enough...",
-        "24": "What is it... this desire to protect... is overflowing. My comrades... and the admiral... you too...",
-        "8": "Admiral, a report has come in.",
-        "13": "Haruna, is now sortieing!",
-        "9": "I can feel the power. Thank you for your thoughtfulness.",
-        "10": "This is... amazing! It feels a little heavy, but, I'll do my best!",
-        "26": "Haruna appreciates this!",
-        "27": "Thaaaank you Admiral, Haruna can fight again!",
-        "11": "Are you sure it's alright? For Haruna to rest.",
-        "12": "You noticed how tired I am...Admiral, thank you. I will rest.",
-        "6": "A ship has been fully repaired.",
-        "5": "A new ship has been born.",
-        "7": "Here is the after action report. Would you like to read it?",
-        "14": "Victory! For the admiral!",
-        "15": "Main guns! Commence firing!",
-        "16": "Haruna will give it all she's got!",
-        "18": "Night battle? I can't wait",
-        "17": "This selfishness, Haruna, will not forgive!",
-        "23": "I'm just doing what is natural. Haruna doesn't deserve such special treatment.",
-        "19": "Kyaaa!?",
-        "20": "Oh no! I'm hit!?",
-        "21": "No...like this...but I can still continue!",
-        "22": "If this is my fate...I'll accept it...I'm sorry...",
-        "30": "0000 hours. Admiral, thank you for your hard work with late night missions.",
-        "31": "Nn... 0100 hours. Haruna will accompany you! I'm not sleepy at all!",
-        "32": "0200 hours. Admiral, you must not lose focus! Haruna will do her best too!",
-        "33": "0300 hours. Admiral, Haruna will... stand guard... so you can go to sleep first...",
-        "34": "0400... hours. Admiral... Haruna also wants to rest with you... but then the base defenses...",
-        "35": "0500 hours. A single futon is a bit crowded as expected... but, Haruna is warm.",
-        "36": "0600 hours. Admiral, it's morning! How are you feeling?",
-        "37": "0700 hours. It's completely morning! The admiral seems to be full of energy. Haruna will also do her best!",
-        "38": "0800 hours. Can Haruna join you for breakfast?",
-        "39": "0900 hours! Admiral, the sortie preparations are ready!",
-        "40": "1000 hours. Please leave today's operation schedule to Haruna!",
-        "41": "1100 hours. Admiral, this is Haruna's plan for the day. How about taking a short rest?",
-        "42": "1200 hours. You should take a break, Admiral, you're too busy. Please, for Haruna.",
-        "43": "1300 hours. Admiral, leisurely having lunch with Haruna like this... is also an important duty...",
-        "44": "1400 hours. The kanmusus' morale is rising! Let's all launch at once!",
-        "45": "1500 hours. Admiral, the rankings have been updated. How about checking them with Haruna?",
-        "46": "1600 hours. Admiral, update the fleet command's comments with Haruna as well!",
-        "47": "1700 hours. Haruna is interested in the comments of the admirals around My Rank.",
-        "48": "1800 hours. Admiral, it's getting late. It will be night soon.",
-        "49": "1900 hours. The night view from the admiral's office... Haruna loves this.",
-        "50": "2000 hours. The hardworking cranes at the dock... Haruna thinks it's kind of romantic.",
-        "51": "2100 hours. Haruna will also work hard like the cranes so that she can support the admiral and the fleet!",
-        "52": "2200 hours. Haruna said a bit too much tonight. Please forgive me.",
-        "53": "2300 hours. Admiral, you should go to bed early sometimes. Please, for Haruna."
+        "29": "Haruna... standing by as instructed... roger...",
+        "27": "...Thank you so much! I can fight once again!"
     },
     "212": {
         "1": "Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.",
@@ -2682,7 +2631,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy season is so boring... eh? What? So everyone is making teru teru bozu? Then I'll make some from scratch. Now, for the paint...",
         "EarlySummer 6547": "Hoho, it's almost summer. What's everyone up to? Getting their swimsuits ready? I have to prepare! Time to stock up on drawing materials at the base exchange, hehe!",
-        "6547": " "
+        "6547": "Ah, that pose is good. That angle... don't move... Oh, right there works\u266a Just a minute, I'll take a reference picture... uhhyoyo~\u266a It's here\u2014 summer!"
     },
     "220": {
         "1": "Fourth ship of the Nagara-class Light Cruisers, 'Yura'. Pleased to make your acquaintance!",
@@ -2998,7 +2947,7 @@
         "53": "11 P.M. hmm? Admiral, let us retire early today.",
         "Anniversary 6547": " ",
         "Rainy 6547": "Oh, my. Hehehe... Makigumo-san, what kind of teru teru bozu is that? It looks a bit too unique. Let me borrow that. There. Now it looks cute, doesn't it?",
-        "6547": " "
+        "6547": "Hey now, Akigumo-san. Please stop. Geez... don't scrutinize me so intently. I'm begging you, ok?"
     },
     "230": {
         "1": "I'm the Ayanami-class destroyer Oboro. I won't lose to anyone. Probably.",
@@ -3125,22 +3074,22 @@
     "234": {
         "29": "*fidget* *fidget* ...I can wait for as long as it takes!",
         "27": "As a first-class lady, I shall accept it.",
-        "30": "It's 0000. The base is so quiet... whoa... and dark...",
+        "30": "It's 0000. The base is so quiet... weh... and dark...",
         "31": "0100. If she doesn't go to bed early, a lady's beauty will be tarnished, you know!",
-        "32": "0200. Co-Commander.... I'm a little concerned about the hallway. Shall we go and patrol it together?",
-        "33": "0300. It's not like I needed to go to the bathroom or anything!",
-        "34": "04... 00... A lady can even pull an all-nighter perfectly, you know?",
+        "32": "0200. Co-Commander... I'm a little concerned about the hallway. Shall we go and patrol it together?",
+        "33": "0300. It's not like I asked because I needed to go to the bathroom or anything!",
+        "34": "04... 00... A lady can even pull an all-nighter flawlessly, you see?",
         "35": "05... 0... 0... zzzZZZzzz... zzzZZZZzz...",
         "36": "0... 6... 00... Ah...? \"A well-rested child is a healthy child,\" they say...!",
         "37": "07... 00... Eh? No way! I'm really late, aren't I?!",
         "38": "0800. Commander, you dummy, dummy, dummy! Why didn't you wake me up?! Huh? Commaaander!",
         "39": "0900. A lady prepares for the morning promptly.",
-        "40": "1000. Wha...! There's nobody here at all!",
-        "41": "1100. Ah, they're back...! You're all so rude, going off on expeditions like that!",
+        "40": "1000. Wehhh...! There's nobody here at all!",
+        "41": "1100. Ah, you're back...! You're all so rude, going off on expeditions like that!",
         "42": "1200. Ahem! While you all were away, I looked after the base all by myself!",
-        "43": "1300. Well then, you may now to treat me to an elegant lunch, ok?",
-        "44": "1400. Ho-nest-ly!! Why does an extravagant lunch have a flag standing in it?! ...Well in any case, I do enjoy fried prawns, hamburger and spaghetti.",
-        "45": "1500. \"My, how extravagant.\" Yeah right! So annoying!",
+        "43": "1300. Well then, you may now to treat me to an extravagant lunch, ok?",
+        "44": "1400. Ho-nest-ly!! Why does an extravagant lunch have a flag standing in it?! ...Well, I do enjoy fried prawns, hamburger and spaghetti.",
+        "45": "1500. \"My, how extravagant.\" Yeah, right! So annoying!",
         "46": "1600. Well then, I, as a fully-fledged lady, shall make a name for myself.",
         "47": "1700. Now then, let's go the extra mile.",
         "48": "1800. *whew* Rest is essential for a lady, too, you know?",
@@ -3148,7 +3097,7 @@
         "50": "2000. Akatsuki's do-your-best curry is done! How is it, how is it?",
         "51": "2100. Eh? It's mild, you say? But I tried to make it as spicy as I could...",
         "52": "2200. Now then, it's time for adults only\u2014 the time for a lady!",
-        "53": "23...00... zzZZZZzZZZZZZzzz"
+        "53": "23... 00... zzZZZZzZZZZZZzzz"
     },
     "235": {
     },
@@ -3277,7 +3226,7 @@
         "53": "11 o'clock~. Commander-sama~, Makigumo, is all sleepy~...",
         "Anniversary 6547": " ",
         "Rainy 6547": "It's doing nothing but raining. Let's change the mood by making teru teru bozu. This one is going to be like Yuugumo nee-san! So I do this, and... this! Eh, or is it like this? Huh??",
-        "6547": " "
+        "6547": "Akigumo? Why did you bring something like that to the beach? Geez~ don't make sketches in a place like this! Geez~ ...ah, hey, don't draw Yuugumo Nee-san!"
     },
     "240": {
         "1": "Destroyer, Wakaba.",
@@ -4261,8 +4210,8 @@
         "Rainy 6547": "Rain... it's been raining so much lately. Ah, I know! It's because of the rainy season! Noshiro, it's the rainy season right now! Ufufu!"
     },
     "270": {
-        "28": "Ufufu... Admiral, what's wrong? Huh? Are your shoulders stiff? What a coincidence. Mine are stiff, too! Oh... you're going to massage them? Haa... that feels good...! Admiral, you're good at this. It feels really good! I'll let Takao give it a try next time as well! Ah~ right there...",
-        "24": "Eh? This is for me... is it? Really? I'm... very, very serious when it comes to these things! That's fine? I see... then... please place it onto this finger! Ufufu...! It's beautiful...! Admiral, thank you! I will always, always treasure it.",
+        "28": "Ufufu... Admiral, what's wrong? Huh? Are your shoulders stiff? What a coincidence\u2014 mine are stiff, too! Oh... you're going to massage them? Hah... that feels good...! Admiral, you're good at this. It feels really good! I'll let Takao give it a try next time as well! Ahhh~ right there...",
+        "24": "Eh? This is for me... is it? Really? I'm... very, very serious about these things! That's fine? I see... then... please place it onto this finger! Ufufu...! It's beautiful...! Admiral, thank you! I will always, always treasure it.",
         "26": "Pan-pakapakapakapaka-paaan!! Ufufu\u266a"
     },
     "271": {
@@ -7319,8 +7268,7 @@
         "50": "20...0-0. \"Hot pot\"... Is this similar to a pot-au-feu? Why is everyone surrounding the hot pot? Taihou, teach me. How should I eat it?",
         "51": "21...0-0. That was a strange banquet. However... mm, I found it quite enjoyable. Admiral, this fleet is... I believe I will enjoy it here.",
         "52": "22...0-0. Admiral, the evening has advanced to night. Now then, let us begin drawing today's work to a close. Shall I make some coffee?",
-        "53": "23...0-0. Admiral, today was quite a day, yes? Let us work hard tomorrow as well. Gute nacht.",
-        "Anniversary 6547": " "
+        "53": "23...0-0. Admiral, today was quite a day, yes? Let us work hard tomorrow as well. Gute nacht."
     },
     "354": {
         "1": "Commander, take care of me, 'kay! It's great 'ta meet 'ya!",
@@ -8266,35 +8214,6 @@
 		"29": "?\u2026Admiral. Is Yuu... doing everything right? Oh... ...danke!"
 	},
     "151": {
-        "1": "Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you.",
-        "25": "I'm the fast battleship, Haruna. I was equipped with a set of four domestically made 36cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base till the end. Please remember Haruna who, of all four fast battleship sisters, had fought till the bitter end.",
-        "2": "Yes, Haruna is just fine.",
-        "3": "Yes, if you're fine with Haruna, I'll be your partner any time.",
-        "4": "The admiral is very kind. Haruna appreciates your consideration.",
-        "29": "Haruna, accepting orders to standby...",
-        "28": "Admiral...being this nice to me, Haruna, will never be able to repay you enough...",
-        "24": "What is it... this desire to protect... is overflowing. My comrades... and the admiral... you too...",
-        "8": "Admiral, a report has come in.",
-        "13": "Haruna, is now sortieing!",
-        "9": "I can feel the power. Thank you for your thoughtfulness.",
-        "10": "This is... amazing! It feels a little heavy, but, I'll do my best!",
-        "26": "Haruna appreciates this!",
-        "27": "Thaaaank you Admiral, Haruna can fight again!",
-        "11": "Are you sure it's alright? For Haruna to rest.",
-        "12": "You noticed how tired I am...Admiral, thank you. I will rest.",
-        "6": "A ship has been fully repaired.",
-        "5": "A new ship has been born.",
-        "7": "Here is the after action report. Would you like to read it?",
-        "14": "Victory! For the admiral!",
-        "15": "Main guns! Commence firing!",
-        "16": "Haruna will give it all she's got!",
-        "18": "Night battle? I can't wait",
-        "17": "This selfishness, Haruna, will not forgive!",
-        "23": "I'm just doing what is natural. Haruna doesn't deserve such special treatment.",
-        "19": "Kyaaa!?",
-        "20": "Oh no! I'm hit!?",
-        "21": "No...like this...but I can still continue!",
-        "22": "If this is my fate...I'll accept it...I'm sorry...",
         "30": "0000 hours. Admiral, thank you for your hard work with late night missions.",
         "31": "Nn... 0100 hours. Haruna will accompany you! I'm not sleepy at all!",
         "32": "0200 hours. Admiral, you must not lose focus! Haruna will do her best too!",
@@ -9435,7 +9354,7 @@
         "24": "Admiral, you said you needed something? Wha- t-this is for me? U-Umm, Bismarck Onee-sama is... a-ah... u-um... da... danke! I'll treasure it!!",
         "8": "Fleet intelligence, right? Wait just a moment... Oh... oh, oh.... so that's how it is?",
         "13": "Heavy cruiser Prinz Eugen, setting off!",
-        "9": "Danke! Danke!",
+        "9": "Danke, danke!",
         "10": "Danke gut!",
         "26": "Viel gl\u00fcck.",
         "27": "Da~nke. I appreciate it!",
@@ -9738,7 +9657,7 @@
         "52": "2200 S-She finally left... Geez... What's wrong with her!",
         "53": "2300 The day is ending soon. Good job, see you tomorrow.",
         "EarlySummer 6547": "Hmmm... it's hot and windless. It's almost summer... eh?! A swimsuit?! I won't wear one!",
-        "6547": " "
+        "6547": "Geez, it's midsummer. It's so hot... Shimakaze, how does the heat never seem to get to you? Well, good for you."
     },
     "182": {
         "1": "I'm Repair ship Akashi. If you take a little damage, I can fix you up in the base. Just leave it to me!",
@@ -9796,7 +9715,7 @@
         "53": "2300 Admiral? Thank you for your hard work for today!",
         "Anniversary 6547": "Admiral, isn't today our anniversary? It's great, isn't it? Are you making anything to commemorate the occasion?",
         "Rainy 6547": "It's the rainy season. The arsenal is going to rust.... I should run a good maintenance on it and oil the equipment.",
-        "6547": "It's summer, isn't it! I want to dress up in a swimsuit, too! Admiral, you can buy me one! *sparkle* Ehe."
+        "6547": "It's summer, isn't it! I want to wear a swimsuit, too! Admiral, you can buy me one! *sparkle* Ehe."
     },
     "183": {
         "1": "Admiral, Light Cruiser Ooyodo has joined the battle lines. Please leave the fleet administration & supervision to me.",
@@ -11692,7 +11611,7 @@
         "Anniversary 6547": "So this fleet is now three years old. That's impressive. I'll give my greetings as well. Congratulations, Admiral.",
         "Rainy 6547": "It's still raining. It seems my body is getting a little stiff. Guess I'll arrange my canned food on a day like this. Ah, this one is inflated. It's... no good.",
         "EarlySummer 6547": "It's almost summer... Do you know the meaning of my name? Yeah, that's right! Not that it has any significance.",
-        "6547": " "
+        "6547": "This time of year... I can't say I dislike it. Certain sections of the other ships seem like they have an issue with armor deficiency, though. I'm concerned."
     },
     "424": {
         "1": "I'm the 6th of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -11911,58 +11830,32 @@
     },
     "79": {
         "1": "Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you.",
-        "25": "I'm the fast battleship, Haruna. I was equipped with a set of four domestically made 36cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base till the end. Please remember Haruna who, of all four fast battleship sisters, had fought till the bitter end.",
-        "2": "Yes, Haruna is just fine.",
-        "3": "Yes, if you're fine with Haruna, I'll be your partner any time.",
-        "4": "The admiral is very kind. Haruna appreciates your consideration.",
-        "29": "Haruna, accepting orders to standby...",
-        "28": "Admiral...being this nice to me, Haruna, will never be able to repay you enough...",
-        "24": "What is it... this desire to protect... is overflowing. My comrades... and the admiral... you too...",
-        "8": "Admiral, a report has come in.",
-        "13": "Haruna, is now sortieing!",
-        "9": "I can feel the power. Thank you for your thoughtfulness.",
-        "10": "This is... amazing! It feels a little heavy, but, I'll do my best!",
-        "26": "Haruna appreciates this!",
-        "27": "I can feel the power. Thank you for your thoughtfulness. ",
-        "11": "Are you sure it's alright? For Haruna to rest.",
-        "12": "You noticed how tired I am...Admiral, thank you. I will rest.",
-        "6": "A ship has been fully repaired.",
-        "5": "A new ship has been born.",
-        "7": "Here is the after action report. Would you like to read it?",
+        "25": "I'm the fast battleship, Haruna. I was equipped with a set of four domestically-made 36cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base 'til the very end. Please remember I, Haruna, who, of all four fast battleship sisters, was able to fight 'til the bitter end, okay?.",
+        "2": "Yes, I'm just fine.",
+        "3": "Sure, if you're fine with me, I'll keep you company any time.",
+        "4": "You're so affectionate, aren't you? Thank you for thinking of me.",
+        "28": "Admiral... I don't think I can ever repay you... for being this nice to me...",
+        "24": "What is this... this desire to protect is so overwhelming. My comrades... and now, Admiral... you as well...",
+        "8": "Admiral, a message has arrived.",
+        "13": "Haruna... will now... start the sortie!",
+        "9": "I can feel how powerful it is. Thank you very much for thinking of me.",
+        "10": "This is... so wonderful! It feels a little heavy, but I'll do my best!",
+        "26": "I... feel so motivated!",
+        "27": "I can feel how powerful it is. Thank you very much for thinking of me.",
+        "11": "Is it really okay? ...For me to rest...",
+        "12": "You saw through to how tired I really was... Admiral, thank you very much. I'll be turning in, then.",
+        "5": "A new ship was born.",
+        "7": "Here is the post-mission report. Would you like to read it?",
         "14": "Victory! For the admiral!",
         "15": "Main guns! Commence firing!",
-        "16": "Haruna will give it all she's got!",
-        "18": "Night battle? I can't wait",
-        "17": "This selfishness, Haruna, will not forgive!",
-        "23": "I'm just doing what is natural. Haruna doesn't deserve such special treatment.",
-        "19": "Kyaaa!?",
-        "20": "Oh no! I'm hit!?",
-        "21": "No...like this...but I can still continue!",
-        "22": "If this is my fate...I'll accept it...I'm sorry...",
-        "30": "0000 hours. Admiral, thank you for your hard work with late night missions.",
-        "31": "Nn... 0100 hours. Haruna will accompany you! I'm not sleepy at all!",
-        "32": "0200 hours. Admiral, you must not lose focus! Haruna will do her best too!",
-        "33": "0300 hours. Admiral, Haruna will... stand guard... so you can go to sleep first...",
-        "34": "0400... hours. Admiral... Haruna also wants to rest with you... but then the base defenses...",
-        "35": "0500 hours. A single futon is a bit crowded as expected... but, Haruna is warm.",
-        "36": "0600 hours. Admiral, it's morning! How are you feeling?",
-        "37": "0700 hours. It's completely morning! The admiral seems to be full of energy. Haruna will also do her best!",
-        "38": "0800 hours. Can Haruna join you for breakfast?",
-        "39": "0900 hours! Admiral, the sortie preparations are ready!",
-        "40": "1000 hours. Please leave today's operation schedule to Haruna!",
-        "41": "1100 hours. Admiral, this is Haruna's plan for the day. How about taking a short rest?",
-        "42": "1200 hours. You should take a break, Admiral, you're too busy. Please, for Haruna.",
-        "43": "1300 hours. Admiral, leisurely having lunch with Haruna like this... is also an important duty...",
-        "44": "1400 hours. The kanmusus' morale is rising! Let's all launch at once!",
-        "45": "1500 hours. Admiral, the rankings have been updated. How about checking them with Haruna?",
-        "46": "1600 hours. Admiral, update the fleet command's comments with Haruna as well!",
-        "47": "1700 hours. Haruna is interested in the comments of the admirals around My Rank.",
-        "48": "1800 hours. Admiral, it's getting late. It will be night soon.",
-        "49": "1900 hours. The night view from the admiral's office... Haruna loves this.",
-        "50": "2000 hours. The hardworking cranes at the dock... Haruna thinks it's kind of romantic.",
-        "51": "2100 hours. Haruna will also work hard like the cranes so that she can support the admiral and the fleet!",
-        "52": "2200 hours. Haruna said a bit too much tonight. Please forgive me.",
-        "53": "2300 hours. Admiral, you should go to bed early sometimes. Please, for Haruna.",
+        "16": "I will give it everything I've got!",
+        "18": "Night battle? I can't wait to test myself!",
+        "17": "Such selfishness... I will... never allow!",
+        "23": "I'm only doing what comes naturally. I don't deserve such special treatment.",
+        "19": "Haaaah?!",
+        "20": "Oh, no! I was hit?!",
+        "21": "No way... this is... but still... I can keep going!",
+        "22": "If this is my fate... I'll accept it... ...I'm so sorry...",
         "Anniversary 6547": "Admiral, Thank you so much for being with me, Haruna for three years. I felt inspired by it, Admiral."
     },
     "430": {
@@ -12082,7 +11975,7 @@
         "21": "Tch! They got me. And yet, my cannons still function! If it comes to a night battle... Admiral!",
         "22": "I'm... sinking in a fleet battle... am I? Ha...hah...! So be it! ...Just what is... this feeling... ha... heheh...",
         "Rainy 6547": "It has been raining quite a bit lately. I remember that it was at this time of year that they initially decided to halt my construction. It was infuriating. Ah, no. It's ancient history. Please forget it.",
-        "6547": " "
+        "6547": "So this is what this country's summer is like? This so-called \"watermon-splitting\" fighting style is of interest to me. One day I must experience it."
     },
     "434": {
         "8": "Oyo? Do you want to look at the data nya? Okay, I'll prepare it!",
@@ -12156,11 +12049,11 @@
         "53": "23:00 Admiral! Thank for your hard work today! Let us do our best tomorrow! Gute Nacht.",
         "Anniversary 6547": "Admiral, you did it! Today is a festival, right? Ro is happy, too! Yup!",
         "EarlySummer 6547": "It's gotten hot. Admiral! You should a wear swimsuit, too. I want to see it!",
-        "6547": "I heard that summer is here! We're going swimming! Splash! Splaaash! Shioi's the one who told me!"
+        "6547": "She said summer is here! She said we're going swimming! Splash! Splaaash! Shioi's the one who told me!"
     },
     "437": {
         "3": "Don't pat my head like that! Didn't I say that I'm not a child anymore?",
-        "4": "Commander, if you gaze so intently at me, I'll... I'll...! Hey! What do you mean my hat's slipping off!? Geez!"
+        "4": "Commander, if you gaze so intently at me, I... I...! Hey! What do you mean my hat's slipping off?! Geez!"
     },
     "85": {
         "1": "Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.",
@@ -12389,7 +12282,7 @@
         "53": "Admiraaal! 2300~! Today was a good day~ Let's do our best for tomorrow, too!",
         "Anniversary 6547": "I'm going to celebrate our third anniversary. Congratulations, Admiral! Hehehe~",
         "Rainy 6547": "Rain! Rain, rain, rain! Isn't this \"Tsuuyou\" season nothing but rain? So it's that kind of a season.",
-        "6547": " "
+        "6547": "So this is summer in Japan. It's so hot, of course. However, I love this ramune\u266a I love this shaved ice\u266a Ah, Libe will have strawberry ice! Strawberry!"
     },
     "445": {
         "1": "I'm Seaplane Tender Akitsushima! Make sure to remember me along with this Taitei-chan, alright!",
@@ -12646,7 +12539,7 @@
         "22": "Even I... sink as well, huh...",
         "Anniversary 6547": " ",
         "Rainy 6547": "It's raining again. It's troubling that it might rain and ruin the food. There's also the laundry to take care of. What should I do...?",
-        "6547": " "
+        "6547": "That's true\u2014 to help the ship girls and the admiral at the beach, we can open a seaside teahouse. Mamiya-san? Irako-san?"
     },
     "450": {
         "1": "I'm Seaplane Tender Akitsushima! Have you already remembered Taitei-chan and I?",
@@ -12758,7 +12651,7 @@
         "Anniversary 6547": "Admiral, it is the third anniversary. Congratulations. I, too, am happy for it.",
         "Rainy 6547": "This season feels a bit melancholic, doesn't it? Because of submarines? Maybe so... even now, I still feel a bit conflicted about them...",
         "EarlySummer 6547": "It's getting hotter and hotter. This year... summer is back for the year... Mizuho thinks summer is too much...",
-        "6547": " "
+        "6547": "What a strong heat wave this is. Admiral, how are you feeling? So I see. You're so energetic... aren't you?"
     },
     "452": {
         "1": "As the fourteenth ship of the Yuugumo-class Destroyers, I'm Okinami. Umm... Yes, I'll do my best. Pleased to meet you!",
@@ -12932,7 +12825,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Gosh... it's still raining. If it keeps on raining, I feel like my body will rust. How are you holding up, Commander?",
         "EarlySummer 6547": "Woah. Mai, you seem so energetic. Eh? You're going to buy swimsuits with Nowacchi? Hmmmm...",
-        "6547": " "
+        "6547": "Hagi, what's up? Eh... wear a swimsuit... to the beach? Sure, count me in. Commander, you coming, too?"
     },
     "455": {
         "1": "Hagikaze, 17th Ship of the Kagerou-class Destroyer, reporting! Commander, please give me your orders! Hagikaze, 4th Destroyer Division, in position. Commander, please give me your orders!",
@@ -12990,7 +12883,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "I... really love it... the color of the Hydrangea flowers. Even though they're so pretty, I've heard that Hydrangeas have poison in them. How intriguing, isn't it, Commander? Commander?",
         "EarlySummer 6547": "Maikaze, you're going to buy a swimsuit? With Nowaki? I should go with Arashi... On second thought, she probably has no interest...",
-        "6547": " "
+        "6547": "Arashi, you're not coming to the beach along with the Commander? It's summer, so why not wear a swimsuit? Ehhhh... not interested?!"
     },
     "458": {
         "1": "I am Umikaze, the Seventh of the Shiratsuyu-class Destroyer, and the First of the Revised Shiratsuyu-class. I'll be in your care, Admiral!",
@@ -13048,7 +12941,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It rains pretty often at this time of year, doesn't it? But it's quiet... it's nice. I... like the rainy days, too. ",
         "EarlySummer 6547": "It's getting hotter. Admiral, it's going to be summer soon. What should I do for this year's swimsuit? Should I buy a new one?",
-        "6547": " "
+        "6547": "Admiral, it's summer. The sunlight is really strong, isn't it? Oh, I'll be fine. I'll put on sunscreen just in case. Ehehe\u266a"
     },
     "459": {
         "1": "The 9th Shiratsuyu-class Destroyer, Kawakaze of the revised Shiratsuyu-class. Nice to meet you! Ah, about the reading of my name, do not get it wrong!",
@@ -13106,7 +12999,7 @@
         "Anniversary 6547": "Hm? It's the third anniversary, isn't it? Way to go! That's quite a shocker! Yay~!",
         "Rainy 6547": "Hmm... It's been raining for days. It's the rainy season, after all. Oh well, time to relax.",
         "EarlySummer 6547": "Hnnnaaa... It's so damn hot. I can't stand it. I should put on something cooler like a swimsuit. Ahh, can I get away with it? Can I wear a swimsuit around the base?",
-        "6547": " "
+        "6547": "It's summertime?! Ku~ it's so damn hot!! What a shame! It'd a waste not to wear a swimsuit now, am I right? Admiral, you can strip down, too."
     },
     "26": {
         "1": "Of the two Fusou-class super-dreadnought battleships, I am the elder sister, Fusou. Please take care of me and my younger sister Yamashiro.",
@@ -13197,7 +13090,7 @@
         "53": "2300. Admiral, good work today as well. Let's do our best tomorrow too! Yes!",
         "Anniversary 6547": "It's the third anniversary Admiral! Amazing! Hayasui is very happy.",
         "Rainy 6547": "The rainy season is humid, so I don't really like it. But, don't worry! I will always support the fleet and the admiral! You bet!",
-        "6547": " "
+        "6547": "Summer is here for the year. Every year, when this season comes around, I get stomach aches. U... hehehe... I wonder why...?"
     },
     "461": {
         "1": "I'm Shoukaku, the first of the Shoukaku-class carriers. Alongside Zuikaku as remodeled Shoukaku-class, I'm hoping to be a useful source of strength for the admiral.",
@@ -13717,7 +13610,7 @@
         "Anniversary 6547": "Apparently, today's a special day. But to me, every day's a special day if I'm with you, Commander....",
         "Rainy 6547": "The season of May.... Eheh, it's my season, isn't it? Ufufufu!",
         "EarlySummer 6547": "Its getting hot, Commander! I'll bring you something to cool you down!",
-        "6547": " "
+        "6547": "Commander, splitting watermelon with everyone is fun! Eh... you gonna challenge me? Hehe, ain't that cute of ya\u266a"
     },
     "29": {
         "1": "I'm Fumizuki. Nice to meet you~",
@@ -13751,7 +13644,7 @@
         "22": "Fumizuki... will not go down... like this...",
         "Anniversary 6547": "Commander, for days like this, I have to be next to you. Because it's special, isn't it?",
         "EarlySummer 6547": "Summer's soon! Those impatient cicadas have already started chirping~.",
-        "6547": " ",
+        "6547": "Huuhh? Splitting watermelon? I'll give it a tryyy\u266a I'm really good at thiiis. Ready? Eii~\u266a Wha?!",
         "1471": "Com~man~der, aren't you thirsty~? I'll bring some barley tea~. You'll drink it, right?"
     },
     "6": {
@@ -13786,7 +13679,7 @@
         "22": "Sorry everyone... looks like this is as far as I'll go.",
         "Anniversary 6547": "Commander, it looks like today is a special day.",
         "EarlySummer 6547": "Sorry, Commander, I don't like this season. Why?... Uuu.. I don't really know.",
-        "6547": " "
+        "6547": "Alright! I'm feeling good enough to get back out there. Yeah... the middle of summer is when I'm at my best, so leave everything to me."
     },
     "30": {
         "1": "I'm Kikuzuki, let's move out together",
@@ -13820,7 +13713,7 @@
         "22": "Let's meet at the sakura tree on that hill",
         "Anniversary 6547": "Commander, it seems today is a special day.... It'd be good if we could celebrate it together....",
         "EarlySummer 6547": "It's hot... It's almost summer. Once again, summer is coming...",
-        "6547": " "
+        "6547": "Ah, a watermelon. Sounds good. When it comes to splitting watermelon... I, Kikuzuki, will never lose."
     },
     "7": {
         "1": "You're the commander, right? I'm Mikazuki. I hope you welcome me warmly into your fleet.",
@@ -13854,7 +13747,7 @@
         "22": "Commander...I wanted to continue fighting together with you...",
         "Anniversary 6547": "Commander, today is a very special day. This Mikazuki will firmly escort you.",
         "EarlySummer 6547": "Commander, it's bad! Summer is getting closer... I'll make sure to be careful!",
-        "6547": " "
+        "6547": "*sigh* I'll to get through summer this year somehow. Commander, thanks. Okay!"
     },
     "31": {
         "1": "Hmm? Ah, I'm Mochizuki.",
@@ -13889,7 +13782,7 @@
         "Anniversary 6547": "Woah, the third anniversary is here? Amazing, unbelieveable. Ah, well, nap time I guess?",
         "Rainy 6547": "I'm sleepy.... Rainy season, huh... The sound of rain is really lulling.... Commander, let's sleep.... zzZZzzz...",
         "EarlySummer 6547": "Ahh~... It's getting a bit hot~ I'm feeling sluggish... isn't there any ice cream~? Ice cream...",
-        "6547": " "
+        "6547": "*sigh* It's seriously hot. It's no good... no good... Ramune's all gone... ice cream all gone... no good at all!"
     },
     "99": {
         "1": "Kumaa. Nice to meet you, kuma.",
@@ -14307,7 +14200,7 @@
         "53": "11 P.M. Admiral, staying up late every day is bad. Go to bed early today...",
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy season. The number of clear days are decreasing... but on these days, having a light drink in the room sounds good, doesn't it? Ufu~",
-        "6547": "Chiyoda, little by little, it's getting hot. Summer is on the way."
+        "6547": "Chiyoda, it's getting hot little by little. Summer is on the way."
     },
     "20": {
         "1": "The eighth ship of Kagerou-class destroyer, I'm Yukikaze. I'll be in your care!",
@@ -14456,7 +14349,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Mikuma, what's wrong? You don't look too great there. Ah I know, shall we invite Suzuya and Kumano and have a tea party or something? 'Kay?",
         "Rainy 1471": "Admiral, hold still for a bit. See? Wearing your hat this way is cooler!",
-        "6547": " "
+        "6547": "Mikuma, what's wrong? Why the long face? Ah, I know! How about we get some ramune? My treat."
     },
     "59": {
         "1": "I'm Furutaka. I'll be happy to show how all the good points of heavy cruisers.",
@@ -14489,7 +14382,7 @@
         "21": "Ah, they got me... I'm not sunk yet!",
         "22": "Kako, sorry.... I'm going ahead...",
         "Anniversary 6547": "Today is a wonderful day, Admiral! Furutaka is honored to be with you! Thanks as always!",
-        "6547": "Summer is really coming along this year, isn't it? I wonder where a good place would be to buy a new swimsuit with Kako."
+        "EarlySummer 6547": "Summer is really coming along this year, isn't it? I wonder where a good place would be to buy a new swimsuit with Kako."
     },
     "60": {
         "1": "Second Furutaka Class Heavy Cruiser, name's Kako! Nice to meetcha!",
@@ -14523,7 +14416,7 @@
         "22": "Yeah, Furutaka always scolded me for getting carried away too much...",
         "Anniversary 6547": "To be able to spend such a day with the admiral\u2014 I'm happy!",
         "EarlySummer 6547": "Finally, it's gotten hot out, hasn't it? Summer is coming, isn't it? Ehehehe. That's great. Summer. Awesome!",
-        "6547": "Great! Summer has arrived! Alright, I'm gonna take lots of naps! Ehh... I can't? "
+        "6547": "Great! Summer has arrived! Alright, I'm gonna take lots of naps! Ehh... I can't?"
     },
     "61": {
         "1": "Hi, thanks for your time, I'm Aoba! Please can I have some words!",
@@ -14556,8 +14449,8 @@
         "22": "Sunk, huh... I wanted to sink at Kure....",
         "Anniversary 6547": " ",
         "Rainy 6547": "Oh, Gassa! That dejected expression of yours looks nice. Yoink! Huh? Hey, give me my camera back! Why are you taking pics of me!? Ones of me are no good!",
-        "6547": "It's getting hotter and hotter. So summer is coming back for the year. This season reminds me a little of the last summer at Kure.",
-        "6547": " "
+        "EarlySummer 6547": "It's getting hotter and hotter. So summer is coming back for the year. This season reminds me a little of the last summer at Kure.",
+        "6547": "Oh...! It's the middle of summer! So many ship girls are out wearing fashionable swimsuits...! Great, huh? How flashy! Eh, 'Gasa? Ah, I should, too? No, I'm good...!"
     },
     "62": {
         "1": "I am Myoukou, of the Myoukou-class Heavy Cruisers. Let us work on this together.",
@@ -14773,7 +14666,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's been raining a lot lately, hasn't it? I tell you, this surely is the rainy season! Ah, I-I'm sorry.",
         "EarlySummer 6547": "Hgnnn... Summer is coming soon. Eh? Ah, well, maybe for a bit, I'll go on a diet. Hgnnn...",
-        "6547": " "
+        "6547": "Atago, why are you so underdressed? Even in summer, you have to dress properly. Look, even the admiral is wearing his commander uniform properly... properly... Ahh... um... Admiral?"
     },
     "83": {
         "1": "I'm the aircraft carrier, Akagi. If you're forming a carrier task force, just leave it to me.",
@@ -14814,7 +14707,7 @@
         "2": "Ufu! What is it?",
         "3": "Let me give you a hand.",
         "4": "Oh, you. You're just a baby on the inside, aren't you?",
-        "29": "Admiral? Well, now... it looks like Takao might be running a little low on calcium. I wonder if she should drink more milk. Ah... ouch! Hey... Takao!",
+        "29": "Admiral? Well, now... it looks like Takao might be running a little low on calcium. I wonder if she should drink more milk. A-ouch! Hey... Takao!",
         "28": "Ufufufufu! I'm all flustered\u266a",
         "24": "As a reward... for a little while, you and I can swap hats... and see how we look. *swap* Ufufufu\u266a",
         "8": "Admiral, there's a letter.",
@@ -14824,24 +14717,24 @@
         "26": "Pan-paka-paan!",
         "27": "Admiral, thank you... very much.",
         "11": "I'm just going to take a quick break, okay?",
-        "12": "My tanks are so large, they make my shoulders stiff, you know?",
+        "12": "My tanks are so big. They make my shoulders stiff, you know?",
         "6": "A repair is completed.",
         "5": "My, my. Looks like our circle of friends has increased!",
         "7": "Operation complete. How wonderful!",
         "14": "Straight ahead~!",
         "15": "Lots of enemies found! Commence attack, ok?",
         "16": "Main cannons, fiiire!",
-        "18": "A night battle.... this is my specialty!",
+        "18": "A night battle... this is my specialty!",
         "17": "Eat this!",
         "23": "Do you understand what I'm capable of now?",
         "19": "Nooo!",
         "20": "Ahn! Stop doing that!",
         "21": "Wait... aren't you overdoing it?",
-        "22": "My, my, what a shame.... I wonder if Takao is taking this seriously...",
+        "22": "My, my.... what a shame.... I wonder if Takao is taking this seriously...",
         "Anniversary 6547": " ",
         "Rainy 6547": "Such a downpour. This is the perfect time for hot milk. No, really. Want to try some?",
         "EarlySummer 6547": "Oh, my, Takao. You started dieting for the summer? It must be hard. Me? I don't need to.",
-        "6547": " "
+        "6547": "This summer is as hot as always~ When it's this hot, I'll be more comfortable doing my job if I dress down some, right? Uu... uwa~n! So much better~\u266a"
     },
     "68": {
         "1": "Yo! Name's Maya, nice to meet you.",
@@ -15229,8 +15122,8 @@
         "3": "Today is certainly an auspicious day.",
         "4": "Don't pat my head like that! Didn't I say that I'm not a child anymore?",
         "28": "C-Co-Co-Commander! For working so hard, I shall offer you my praise. Please lower your head.",
-        "24": "To dine with the commander\u2014 just the two of us, as a lady.... Wait! Why do I only have juice? Furthermore, why does the pilaf have a flag on it...!",
-        "8": "A telegram for the commander. Please read it quickly.",
+        "24": "To dine alone with the commander, as a lady... Wait! Why do I only have juice? Furthermore, why does the pilaf have a flag on it...!",
+        "8": "A telegram for the commander. Hurry and read it.",
         "13": "It is my turn now, yes? Please observe.",
         "9": "Thank you. You have my regards.",
         "10": "You say that this equipment is a bit big? It's obviously just the right size!",
@@ -15241,10 +15134,10 @@
         "5": "A new ship has been finished.",
         "7": "The fleet's returned, as you can see. *whew*",
         "14": "Akatsuki, torpedo squadron, sortieing.",
-        "15": "Let us begin the assault.",
+        "15": "I shall attack now.",
         "16": "Yaa!",
         "18": "We have no choice but to charge!",
-        "17": "Don't say I'm a child!",
+        "17": "Don't call me a child!",
         "23": "No matter how you look at it, it's clear that I'm the best!",
         "19": "I'm not concerned!",
         "20": "Kya...!",
@@ -15252,7 +15145,7 @@
         "22": "To sink in a place like this... I can't stand it...",
         "Anniversary 6547": "Commander, congratulation for the third anniversary. I shall celebrate it as a first class lady.",
         "Rainy 6547": "So it's the rainy season. It feels a little disheartening... Ah, Inazuma, is that a teru teru bozu? Not half bad!",
-        "6547": "Geez! Building a sandcastle is no joke, you know! It is a way to practice building an elegant coastal fortification."
+        "6547": "Geez! Building a sandcastle is no joke, you know! It's a way to practice building an elegant coastal fortification."
     },
     "35": {
         "1": "I'm Hibiki. I'm also referred to as \"The Phoenix\" from my exploits.",
@@ -15305,7 +15198,7 @@
         "12": "Looks like repairs might take a while. Sorry!",
         "5": "A new ship is ready to go. Let's throw her into live combat right away.",
         "7": "The fleet's back. Thanks for the hard work!",
-        "14": "I'm gonna go do a sortie for the commander!",
+        "14": "I'm gonna go do a sortie for the commander.",
         "15": "Fiiiire!",
         "16": "You think an attack like that's gonna hit?",
         "18": "Compared to running Tokyo Express, combat is way better!",
@@ -15317,7 +15210,7 @@
         "22": "Commander... where are you...? I can't hear your voice anymore...",
         "Anniversary 6547": "It's the third anniversary, Commander! It's fine for you to rely on me more and more and mooore from now on too, you know!",
         "Rainy 6547": "Inazuma, you're making a teru teru bozu? That's cute! Teach me how to do it. I see... got it!",
-        "6547": "Akatsuki, that kind of wall you built can be easily crushed by the waves, you know? That's no good at all! Ah, told ya."
+        "6547": "Akatsuki, the kind of wall you built can be crushed easily by the waves, you know? That's no good at all! Ah, told ya."
     },
     "37": {
         "1": "I'm Inazuma. Pleased to meet you.",
@@ -15752,7 +15645,7 @@
         "22": "To attack me when I'm on a rescue operation... coward...!",
         "Anniversary 6547": " ",
         "Rainy 6547": "Commander! The rainy days continue! Would you like the 8th Destroyer Division to start on a teru teru bozu production mission!?",
-        "6547": " "
+        "6547": "Commander, it's summer! Would you like a chilled ramune from the canteen? Just give me the order!!"
     },
     "96": {
         "1": "Destroyer Ooshio reporting in! A small body with large torpedoes! Leave it to me.",
@@ -15785,7 +15678,7 @@
         "22": "Oh no... I guess... this is my limit...",
         "Anniversary 6547": " ",
         "Rainy 6547": "You're asking if it's hard to get fired up during the rainy season? No way, not even a little! I'm always fired up!",
-        "6547": " "
+        "6547": "Commander, the burning summer is here! The 8th Destroyer Division is also eating shaved ice to get fired up! *brain freeze*"
     },
     "97": {
         "1": "Michishio here. Why did I get assigned to such a fleet?",
@@ -15820,7 +15713,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's raining quite a bit. Well, watching these rainy days go by isn't bad for once. Oh, please don't use my umbrella without permission. I have it marked with a seal.",
         "EarlySummer 6547": "It's slowly getting hotter... it's almost summer... Eh? A swimsuit? Huh?! Of course I don't need one! What are you saying?!",
-        "6547": " "
+        "6547": "It's midsummer. Every day is so hot. Eh? I should wear a swimsuit... you said? Huh?! What are you talking about? Are you trying to get me killed?! Idiot!"
     },
     "98": {
         "1": "Oh, I haven't introduced myself yet, have I? My name is Arashio.",
@@ -16526,7 +16419,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy season is all damp and humid. It's unpleasant, isn't it? We have to take out the laundry while the weather's still clear. Now, Admiral. I'll be washing that, so take it off.",
         "EarlySummer 6547": "Akizuki-nee, it's almost summer! Let's go buy new swimsuits! Eh? That?! You're going to wear that again? Umm, I think...",
-        "6547": "It's summer! Yay! I wants to split watermelons! Watermelon splitting! I'll cover my eyes... and strike! This... sensation... Huh?! Admiral!! "
+        "6547": "It's summer! Yay! I want to split watermelons! Watermelon splitting! I'll cover my eyes... and strike! This... sensation... Huh?! Admiral!! "
     },
     "305": {
         "1": "Hello~! I'm the latest light cruiser Agano~. *giggle*",

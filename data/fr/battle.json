@@ -1,28 +1,54 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "bonne"],
+		["OK-", "bonne"],
+		["-", "mauvaise"],
+		["NO", "mauvaise"],
+		["OK+", "bonne"],
+		["NO+", "mauvaise"]
 	],
 	
 	"airbattle" : [
 		["AP", "", "Parité Aérienne"],
-		["AS+", "good", "Suprématie Aérienne"],
-		["AS", "good", "Supériorité Aérienne"],
-		["AI", "bad", "Incapacité Aérienne"],
-		["AD", "bad", "Déni Aérien"]
+		["AS+", "bon", "Suprématie Aérienne"],
+		["AS", "bon", "Supériorité Aérienne"],
+		["AI", "mauvais", "Incapacité Aérienne"],
+		["AD", "mauvais", "Déni Aérien"],
+		["None", "", "Pas de Bataille Aérienne"]
 	],
 	
 	"engagement" : [
   		["", "", ""],
 		["Prll", "", "Parallèle"],
  		["HdOn", "", "De Front"],
-		["Gr-T", "good", "T Vert"],
-		["Rd-T", "bad", "T Rouge"]
-	]
+		["Gr-T", "bon", "T Vert"],
+		["Rd-T", "mauvais", "T Rouge"]
+	],
 	
+	"formation" : [
+		"",
+		"Ligne Avant",
+		"Double Ligne",
+		"Diamant",
+		"Echelon",
+		"Ligne Côte à Côté",
+		"","","","","",
+		"Formation de Croisière 1 (anti-sous-marin)",
+		"Formation de Croisière 2 (avant)",
+		"Formation de Croisière 3 (diamant)",
+		"Formation de Croisière 4 (bataille)",
+		"","","","","","",
+		"Formation de Croisière 1 (anti-sous-marin)",
+		"Formation de Croisière (avant)",
+		"Formation de Croisière (diamant)",
+		"Formation de Croisière4 (bataille)"
+	],
+	
+	"support" : [
+		"",
+		"Attaque aérienne",
+		"Attaque de feu",
+		"Attaque de torpille"
+	]
 }

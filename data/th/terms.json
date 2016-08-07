@@ -127,6 +127,17 @@
 	"AboutLicense" : "License",
 	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
 
+	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\"><strong>http://zh.kcwiki.moe</a></strong>",
+	"AboutSourceZHKcWikiQuests" : "สำหรับคำแปลเควส ภาษาจีนตัวย่อ",
+	"AboutSourceZHKcWikiSubtitles" : "สำหรับแปลบทพูด ภาษาจีนตัวย่อ",
+	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">เสียงเอฟเฟคหัวใจเต้น</a> โดย <strong>Mike Koenig</strong>",
+	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> โดย <strong>Diablohu</strong>, สำหรับฐานข้อมูลเรือในห้องผู้การ",
+	"AboutSourceGakadaVoices": "<strong>gakada</strong> สำหรับ <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">วิธีการ</a> การถอดรหัสบทพูด",
+	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> สำหรับ <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">การรวบรวม</a> บทพูดจากใน Wikia",
+	"AboutSubtitleContributors": "ขอบคุณผู้ร่วม <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">ตรวจสอบคำแปลบทพูด</a> และช่วยแก้ไขบทพูด",
+	"AboutSubtitleContributorsOther": "และคนอื่นๆ ที่ยังไม่ได้กล่าวถึง",
+	"AboutSubtitleTranslators": "ขอบคุณผู้ร่วมแปลบทพูดในภาษาต่างๆ",
+	
 	"SettingsTitle" : "ตั้งค่า KC3Kai",
 
 	"SettingsGlobal" : "ตั้งค่าทั่วไป",
@@ -192,8 +203,15 @@
 	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
 	"SettingsHideCounter" : "ซ่อนการจับเวลา",
 	"SettingsShowCounter" : "โชว์การจับเวลา",
+	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
-
+	"SettingsScreenBlur" : "เบลอหน้าจอ",
+	"SettingsScreenBlood" : "เลือดสาด",
+	"SettingsAppearOnScreenshots" : "แสดงในถ่ายภาพหน้าจอ",
+	"SettingsHeartbeatSound" : "เสียงหัวใจเต้น",
+	"SettingsDisplayOnPvP" : "แสดงใน PvP",
+	"SettingsRedShadeOnPanel" : "แสดงแถบแดงในแผงควบคุม",
+	
 	"SettingsAPIGameScreen" : "หน้าจอเกม",
 	"SettingsQuestOverlay" : "แปลข้อมูลเควส",
 	"SettingsQuestTracking" : "นับการทำเควส",
@@ -233,8 +251,9 @@
 	"SettingsPanelOpacity" : "ความโปร่งใส",
 	"SettingsGearHolder" : "สีพื้นหลังของอุปกรณ์",
 
-	"SettingsLegacyPanel" : "แผงควบคุม : ธีม Legacy",
-
+	"SettingsStrategyRoom" : "ห้องผู้การ",
+	"SettingsLevellingDifference" : "ไฮไลท์เลเวลต่างกัน",
+	
 	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "บันทึกการตั้งค่า!",
 	"SettingsErrorSuper" : "การตั้งค่าผิดพลาด!",
@@ -244,6 +263,7 @@
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"Enabled" : "เปิดใช้งาน",
 	"Small" : "ขนาดเล็ก",
 	"Big" : "ขนาดใหญ่",
 	"Black" : "สีดำ",
@@ -350,7 +370,8 @@
 	"PanelCombinedShipBarsHint" : "เหลือ Exp = {0}, น้ำมัน = {1}%, กระสุน = {2}%",
 	"PanelNextRemodelLv" : "รีโมเดล",
 	"PanelPossibleRemodel" : "รีโมเดลได้แล้ว",
-
+	"PanelResupplyCosts" : "ต้องใช้ น้ำมัน = {0}, กระสุน = {1}, บอกไซต์ = {2}",
+	
 	"PanelHasTaiha" : "เสียหายหนัก",
 	"PanelFSTaiha" : "เสียหายหนัก",
 	"PanelEscortChuuha" : "เรือเสียหาย",

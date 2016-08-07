@@ -203,7 +203,14 @@
 	"SettingsIdleWarning" : "Idle Timer",
 	"SettingsHideCounter" : "Hide Counter",
 	"SettingsShowCounter" : "Show Counter",
+	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
+	"SettingsScreenBlur" : "Screen Blur",
+	"SettingsScreenBlood" : "Screen Blood",
+	"SettingsAppearOnScreenshots" : "Appear on Screenshots",
+	"SettingsHeartbeatSound" : "Heartbeat Sound",
+	"SettingsDisplayOnPvP" : "Display even on PvP",
+	"SettingsRedShadeOnPanel" : "Red shade on Panel",
 	
 	"SettingsAPIGameScreen" : "Game Window",
 	"SettingsQuestOverlay" : "Quest Translations",
@@ -244,7 +251,8 @@
 	"SettingsPanelOpacity" : "Interface Opacity",
 	"SettingsGearHolder" : "Gear Background Color",
 	
-	"SettingsLegacyPanel" : "Panel: Legacy Theme",
+	"SettingsStrategyRoom" : "Strategy Room",
+	"SettingsLevellingDifference" : "Highlight leveling difference",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
@@ -255,6 +263,7 @@
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
+	"Enabled" : "Enabled",
 	"Small" : "Small",
 	"Big" : "Big",
 	"Black" : "Black",
@@ -362,6 +371,7 @@
 	"PanelCombinedShipBarsHint" : "Remaining Exp = {0}, Fuel = {1}%, Ammo = {2}%",
 	"PanelNextRemodelLv" : "Next Remodel",
 	"PanelPossibleRemodel" : "Possible Remodel",
+	"PanelResupplyCosts" : "Will cost Fuel = {0}, Ammo = {1}, Bauxite = {2}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",

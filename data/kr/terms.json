@@ -134,7 +134,6 @@
   "AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> by Diablohu, 전략실 데이터베이스를 위하여",
   "AboutSourceGakadaVoices": "<strong>gakada</strong>, 칸무스 대사 코드 분석 <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">해결법을</a> 제시해주는 것에 대하여",
   "AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong>, <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">칸코레 위키아를 퍼온</a>것에 대하여 ",
-  "AboutSourceApaapaTranslations": "<strong>阿帕</strong> for providing <a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">tcn subtitle quotes</a>",
   "AboutSubtitleContributors": "<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">자막 검증</a>과 직접 수정에 참여해주신 분들께 감사드립니다.",
   "AboutSubtitleContributorsOther": "이외 익명으로 활동해주신 분들",
   "AboutSubtitleTranslators": "자막 번역에 힘써주신 번역가 분들께 감사드립니다.",
@@ -173,9 +172,9 @@
   "SettingsFleetStatus": "함대 현황 개요",
   "SettingsAutoExpedTab": "원정 탭 자동 열기",
   "SettingsEnglishShipType": "영자 약어 활용",
-  "SettingsShipNamesLang": "Ship Names Language",
-  "SettingsShipNamesGlobal": "Follow global",
-  "SettingsBlinkGauge": "Blink Gauge on Last Kill",
+  "SettingsShipNamesLang": "칸무스 이름 표시 언어",
+  "SettingsShipNamesGlobal": "기본 설정과 동일",
+  "SettingsBlinkGauge": "막트일 경우 게이지 점멸",
 
   "SettingsScreenshot": "스크린샷",
   "SettingsSSOutput": "출력모드",
@@ -204,7 +203,14 @@
   "SettingsIdleWarning": "잠수 시간",
   "SettingsHideCounter": "카운터 비표시",
   "SettingsShowCounter": "카운터 표시",
+
   "SettingsTaihaAlert": "요란한 대파 경고",
+	"SettingsScreenBlur" : "대파시 게임 화면 흐리게",
+	"SettingsScreenBlood" : "대파시 게임 화면에 혈흔",
+	"SettingsAppearOnScreenshots" : "스크린샷에 대파 경고 표시",
+	"SettingsHeartbeatSound" : "경고 심장음",
+	"SettingsDisplayOnPvP" : "연습에서도 표시",
+	"SettingsRedShadeOnPanel" : "대파시 패널에 적색 점멸",
 
   "SettingsAPIGameScreen": "API 게임 화면",
   "SettingsQuestOverlay": "퀘스트 번역",
@@ -245,7 +251,8 @@
   "SettingsPanelOpacity": "UI 불투명도",
   "SettingsGearHolder": "기어 배경색",
 
-  "SettingsLegacyPanel": "패널: 레거시 테마",
+	"SettingsStrategyRoom" : "전략실",
+	"SettingsLevellingDifference" : "레벨간 스탯 차이 표시",
 
   "SettingsChuuiWarningDangerousFeature": "정말로 이 내용을 변경하실 건가요?\n이로 인한 위험은 KC3개의 책임 외의 사항입니다.\n\n주의하시기 바랍니다.",
   "SettingsErrorNG": "저장 완료!",
@@ -256,6 +263,7 @@
   "SettingsErrorValue": "값",
   "SettingsErrorOrder": "%TYP %CMP %VAL",
 
+	"Enabled" : "활성화",
   "Small": "소",
   "Big": "대",
   "Black": "검정색",

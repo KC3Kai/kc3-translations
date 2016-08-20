@@ -183,6 +183,7 @@
 	"SettingsSSImgur" : "上传至Imgur",
 	"SettingsSSNewTab" : "打开新标签页",
 	"SettingsSSFileType" : "文件格式",
+	"SettingsSSQuality"   : "画质",
 	"SettingsSSDirectory" : "子目录名",
 	"SettingsSSDirDesc"   : "指定 /Downloads/ 下的子目录",
 	"SettingsSSDppx" : "设备像素比",
@@ -403,6 +404,15 @@
 	"CombinedSurface" : "水上打击部队",
 	"CombinedTransport" : "海上输送部队",
 	"CombinedNone" : "非联合舰队",
+
+	"LandBaseActionWaiting" : "待机",
+	"LandBaseActionSortie" : "出击",
+	"LandBaseActionDefend" : "防空",
+	"LandBaseActionRetreat" : "退避",
+	"LandBaseActionRest" : "休息",
+	"LandBaseTipFighterPower" : "常规对空战力",
+	"LandBaseTipInterceptFighters" : "迎击补正",
+	"LandBaseTipInterceptBombers" : "对爆补正",
 
 	"LevelText" : "等级",
 	"LevelShort" : "Lv.",

@@ -404,6 +404,15 @@
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Not combined",
 	
+	"LandBaseActionWaiting" : "Waiting",
+	"LandBaseActionSortie" : "Sortie",
+	"LandBaseActionDefend" : "Defend",
+	"LandBaseActionRetreat" : "Retreat",
+	"LandBaseActionRest" : "Rest",
+	"LandBaseTipFighterPower" : "Regular Fighter power",
+	"LandBaseTipInterceptFighters" : "Interception against fighters",
+	"LandBaseTipInterceptBombers" : "Interception against bombers",
+	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "Next",

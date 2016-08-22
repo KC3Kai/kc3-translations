@@ -1,484 +1,756 @@
 {
     "101": {
-        "name": "Première Formation!",
-        "desc": "Avoir 2 Fille-navires dans ta flotte principale."
+        "code": "A1",
+        "name": "Première formation.",
+        "desc": "Avoir 2 navires dans la flotte principale."
+        "unlock": [ 102 ]
     },
     "102": {
-        "name": "Forme un Escadron de Destroyers!",
-        "desc": "Avoir 4 DD dans ta flotte principale."
+        "code": "A2",
+        "name": "Constituer une escadre de destroyers.",
+        "desc": "Avoir 4 DD dans la flotte principale.",
+        "unlock": [ 103 ]
     },
     "103": {
-        "name": "Forme un Escadron de Torpilleurs!",
-        "desc": "Avoir un CL en tant que Navire Amiral et 5 DD dans ta flotte principale."
+        "code": "A3",
+        "name": "Constituer une escadre de torpilleurs.",
+        "desc": "Avoir un CL comme navire amiral et 5 DD dans la flotte principale."
+        "unlock": [ 104, 105 ]
     },
     "104": {
-        "name": "Forme une flotte de 6 Fille-navires!",
-        "desc": "Avoir 6 Fille-navires dans ta flotte principale."
+        "code": "A4",
+        "name": "Constituer une flotte de 6 navires.",
+        "desc": "Avoir 6 navires dans la flotte principale."
     },
     "105": {
-        "name": "Forme un Escadron avec 2 Croiseurs Légers!",
-        "desc": "Avoir 2 CL dans ta flotte principale."
+        "code": "A5",
+        "name": "Constituer une escadre avec 2 croiseurs légers.",
+        "desc": "Avoir 2 CL dans la flotte principale."
     },
     "106": {
-        "name": "Forme un Escadron de Croiseurs Lourds!",
-        "desc": "Avoir 2 CA dans ta flotte principale."
+        "code": "A6",
+        "name": "Constituer une escadre de croiseurs lourds.",
+        "desc": "Avoir 2 CA dans la flotte principale."
     },
     "107": {
-        "name": "Forme une Force Opérationnelle de Porte-avions!",
-        "desc": "Avoir un CV/CVL en tant que Navire Amiral et 3 DD dans ta flotte principale."
+        "code": "A7",
+        "name": "Constituer une force opérationnelle de porte-avions.",
+        "desc": "Avoir un CV/CVL comme navire amiral et 3 DD dans la flotte principale."
     },
     "108": {
-        "name": "Forme la classe Tenryuu!",
-        "desc": "Avoir Tenryuu et Tatsuta dans ta flotte principale."
+        "code": "A8",
+        "name": "Constituer la classe Tenryuu.",
+        "desc": "Avoir Tenryuu et Tatsuta dans la flotte principale."
     },
     "109": {
-        "name": "Forme la classe Sendai!",
-        "desc": "Avoir Sendai, Jintsuu et Naka dans ta flotte principale."
+        "name": "Constituer la classe Sendai.",
+        "desc": "Avoir Sendai, Jintsuu et Naka dans la flotte principale."
     },
     "110": {
-        "name": "Forme la classe Myoukou!",
-        "desc": "Avoir Myoukou, Nachi, Ashigara et Haguro dans ta flotte principale."
+        "name": "Constituer la classe Myoukou.",
+        "desc": "Avoir Myoukou, Nachi, Ashigara et Haguro dans la flotte principale."
     },
     "111": {
-        "name": "Forme la classe Fusou!",
-        "desc": "Avoir Fusou et Yamashiro dans ta flotte principale."
+        "name": "Constituer la classe Fusou.",
+        "desc": "Avoir Fusou et Yamashiro dans la flotte principale."
     },
     "112": {
-        "name": "Forme la classe Ise!",
-        "desc": "Avoir Ise et Hyuuga dans ta flotte principale."
+        "name": "Constituer la classe Ise.",
+        "desc": "Avoir Ise et Hyuuga dans la flotte principale."
     },
     "113": {
-        "name": "Forme la flotte principale avec un cuirassés et des croiseurs lourds!",
-        "desc": "Avoir un BB et 2 CA dans ta flotte principale."
+        "name": "Constituer une flotte principale avec un cuirassé et des croiseurs lourds.",
+        "desc": "Avoir un BB et 2 CA dans la flotte principale."
     },
     "114": {
-        "name": "Forme la Force Opérationnelle Nagumo!",
-        "desc": "Avoir UNIQUEMENT Akagi, Kaga, Hiryuu et Souryuu dans ta flotte principale."
+        "name": "Constituer la force opérationnelle Nagumo.",
+        "desc": "Avoir uniquement Akagi, Kaga, Hiryuu et Souryuu dans la flotte principale."
     },
     "115": {
-        "name": "Forme la Seconde Flotte!",
-        "desc": "Avoir un Navire Amiral dans ta seconde flotte."
+        "name": "Constituer la seconde flotte.",
+        "desc": "Avoir un navire dans la seconde flotte."
     },
     "116": {
-        "name": "Déploie un Transport d'Hydravions!",
-        "desc": "Avoir un AV dans ta flotte principale."
+        "name": "Déployer un transport d'hydravions.",
+        "desc": "Avoir un AV dans la flotte principale."
     },
     "117": {
-        "name": "Forme une Force Opérationnelle de Porte-avions dans la seconde flotte!",
-        "desc": "Avoir un CV/CVL et 3 DD dans ta seconde flotte."
+        "name": "Constituer une force opérationnelle de porte-avions dans la seconde flotte.",
+        "desc": "Avoir un CV/CVL et 3 DD dans la seconde flotte."
     },
     "118": {
-        "name": "Forme la classe Kongou!",
-        "desc": "Avoir Kongou, Hiei, Haruna et Kirishima dans ta flotte principale."
+        "name": "Constituer la classe Kongou.",
+        "desc": "Avoir Kongou, Hiei, Haruna et Kirishima dans la flotte principale."
     },
     "119": {
-        "name": "Forme la flotte de Mikawa!",
-        "desc": "Avoir Choukai, Aoba, Kako, Furutaka, Tenryuu et une Fille-navire rapide dans ta flotte principale."
+        "name": "Constituer la flotte de Mikawa.",
+        "desc": "Avoir Choukai, Aoba, Kako, Furutaka, Tenryuu et un navire rapide dans la flotte principale."
     },
     "120": {
-        "name": "Forme la 6ème Division de Destroyers!",
-        "desc": "Avoir UNIQUEMENT Akatsuki, Hibiki, Inazuma et Ikazuchi dans ta flotte principale."
+        "name": "Constituer la 6e escadre de destroyers.",
+        "desc": "Avoir uniquement Akatsuki, Hibiki, Inazuma et Ikazuchi dans la flotte principale."
     },
     "121": {
-        "name": "Forme la 4ème Division de Croiseurs!",
-        "desc": "Avoir Atago, Takao, Choukai et Maya dans ta flotte principale."
+        "name": "Constituer la 4e escadre de croiseurs.",
+        "desc": "Avoir Atago, Takao, Choukai et Maya dans la flotte principale."
     },
     "122": {
-        "name": "Forme la flotte de Nishimura!",
-        "desc": "Avoir Fusou, Yamashiro, Mogami et Shigure dans ta flotte principale."
+        "name": "Constituer la flotte de Nishimura.",
+        "desc": "Avoir Fusou, Yamashiro, Mogami et Shigure dans la flotte principale."
     },
     "123": {
-        "name": "Forme la 5ème Division de Porte-avions!",
-        "desc": "Avoir Shoukaku, Zuikaku et 2 DD dans ta flotte principale."
+        "name": "Constituer la 5e escadre de porte-avions.",
+        "desc": "Avoir Shoukaku, Zuikaku et 2 DD dans la flotte principale."
     },
     "124": {
-        "name": "Forme la nouvelle flotte de Mikawa!",
-        "desc": "Avoir Choukai, Aoba, Kinugasa, Kako, Furutaka et Tenryuu dans ta flotte principale."
+        "name": "Constituer la nouvelle flotte de Mikawa.",
+        "desc": "Avoir Choukai, Aoba, Kinugasa, Kako, Furutaka et Tenryuu dans la flotte principale."
     },
     "125": {
-        "name": "Forme une flotte de Sous-marins!",
-        "desc": "Avoir 2 SS dans ta flotte principale"
+        "name": "Constituer une flotte de sous-marins.",
+        "desc": "Avoir 2 SS dans la flotte principale"
     },
     "126": {
-        "name": "Forme une Force Aéronavale!",
-        "desc": "Avoir 2 BBV et 2 CAV dans ta flotte principale."
+        "name": "Constituer une force aéronavale.",
+        "desc": "Avoir 2 BBV et 2 CAV dans la flotte principale."
     },
     "127": {
-        "name": "Forme une flotte de Sous-marins de Taille Moyenne!",
-        "desc": "Avoir 3 SS dans ta flotte principale."
+        "name": "Constituer une flotte de sous-marins de taille moyenne.",
+        "desc": "Avoir 3 SS dans la flotte principale."
     },
     "128": {
-        "name": "Forme la 6ème Division de Croiseurs",
-        "desc": "Avoir Furutaka, Kako, Aoba et Kinugasa dans ta flotte principale."
+        "name": "Constituer la 6e escadre de croiseurs.",
+        "desc": "Avoir Furutaka, Kako, Aoba et Kinugasa dans la flotte principale."
     },
     "129": {
-        "name": "Forme la 5ème Flotte!",
-        "desc": "Avoir Nachi, Ashigara, Tama, et Kiso dans ta flotte principale."
+        "name": "Constituer la 5e flotte.",
+        "desc": "Avoir Nachi, Ashigara, Tama et Kiso dans la flotte principale."
     },
     "130": {
-        "name": "Forme le 1er Escadron de Torpilleurs!",
-        "desc": "Avoir Abukuma, Akebono, Ushio, Kasumi et Shiranui dans ta flotte principale."
+        "name": "Constituer la 1re escadre de torpilleurs.",
+        "desc": "Avoir Abukuma, Akebono, Ushio, Kasumi et Shiranui dans la flotte principale."
     },
     "131": {
-        "name": "Forme la 8ème Division de Destroyers!",
-        "desc": "Avoir Asashio, Michishio, Ooshio et Arashio dans ta flotte principale."
+        "name": "Constituer la 8e escadre de destroyers.",
+        "desc": "Avoir Asashio, Michishio, Ooshio et Arashio dans la flotte principale."
     },
     "132": {
-        "name": "Forme la 18ème Division de Destroyers!",
-        "desc": "Avoir UNIQUEMENT Kasumi, Arare, Kagerou et Shiranui dans ta flotte principale."
+        "name": "Constituer la 18e escadre de destroyers.",
+        "desc": "Avoir uniquement Kasumi, Arare, Kagerou et Shiranui dans la flotte principale."
     },
     "133": {
-        "name": "Forme la 30ème Division de Destroyers (1ère Génération)!",
-        "desc": "Avoir UNIQUEMENT Mutsuki, Kisaragi, Yayoi et Mochizuki dans ta flotte principale."
+        "name": "Constituer la 30e escadre de destroyers (première génération).",
+        "desc": "Avoir uniquement Mutsuki, Kisaragi, Yayoi et Mochizuki dans la flotte principale."
     },
     "134": {
-        "name": "Préparation de la Cérémonie (Partie 3)",
-        "desc": "Développe tes sentiments et déploie une flotte avec un Navire Amiral au niveau élevé (Niv.90-99)!"
+        "name": "Préparation de la cérémonie (3e partie).",
+        "desc": "Déployer une flotte avec un navire amiral de niveau élevé (90-99)."
     },
     "135": {
-        "name": "Un Nouveau Voyage",
-        "desc": "Forme une flotte de 6 Fille-navires en incluant ton Fille-navire niveau 100 ou plus en tant que Navire Amiral."
+        "name": "Un nouveau voyage.",
+        "desc": "Constituer une flotte de 6 navires composée d'un navire de niveau 100 ou plus comme navire amiral."
     },
     "136": {
-        "name": "Forme la 30ème Division de Destroyers (2ème Génération)!",
-        "desc": "Avoir UNIQUEMENT Mutsuki, Yayoi, Uzuki et Mochizuki dans ta flotte principale."
+        "name": "Constituer la 30e escadre de destroyers (deuxième génération).",
+        "desc": "Avoir uniquement Mutsuki, Yayoi, Uzuki et Mochizuki dans la flotte principale."
     },
     "137": {
-        "name": "Forme la 5ème Division de Croiseurs!",
-        "desc": "Avoir Myoukou, Nachi et Haguro dans ta flotte principale."
+        "name": "Constituer la 5e escadre de croiseurs.",
+        "desc": "Avoir Myoukou, Nachi et Haguro dans la flotte principale."
     },
     "138": {
-        "name": "Forme la Nouvelle 2nde Division de Porte-Avions! ",
-        "desc": "Avoir Hiryuu Kai Ni en tant que Navire Amiral, Souryuu et 2 Destroyers dans ta flotte principale."
+        "name": "Constituer la nouvelle 2de escadre de porte-avions.",
+        "desc": "Avoir Hiryuu Kai Ni comme navire amiral, Souryuu et 2 destroyers dans la flotte principale."
     },
     "139": {
-        "name": "Forme la 6ème flotte de Sous-marins!",
-        "desc": "Avoir un AS en tant que Navire Amiral et 4 Sous-marins (ou plus) dans ta flotte principale."
+        "name": "Constituer la 6e flotte de sous-marins.",
+        "desc": "Avoir un AS comme navire amiral et 4 SS (ou plus) dans la flotte principale."
     },
     "140": {
-        "name": "Teste le nouveau Radar!",
-        "desc": "Avoir Myoukou Kai Ni en tant que Navire Amiral de ta flotte principale."
+        "name": "Tester le nouveau radar.",
+        "desc": "Avoir Myoukou Kai Ni comme navire amiral de la flotte principale."
     },
     "141": {
-        "name": "Reforme la 2nde Division de Porte-Avions!",
-        "desc": "Avoir Souryuu Kai Ni en tant que Navire Amiral accompagnée de Hiryuu Kai Ni plus 2 DD dans ta flotte principale."
+        "name": "Reformer la 2de escadre de porte-avions.",
+        "desc": "Avoir Souryuu Kai Ni comme navire amiral, Hiryuu Kai Ni et 2 DD dans la flotte principale."
     },
     "142": {
-        "name": "Rassemble tous les navires de la 3ème Division d'Élite de Cuirassés!",
-        "desc": "Avoir tous les Cuirassés classe Kongou en modèle Kai Ni dans ta flotte principale."
+        "name": "Constituer la force d'élite de cuirassés, la  « troisième escadre ».",
+        "desc": "Avoir Kongou Kai Ni, Hiei Kai Ni, Haruna Kai Ni et Kirishima Kai Ni dans la flotte principale."
     },
     "143": {
-        "name": "Déploie la nouvelle classe de Porte-Avions!",
-        "desc": "Avoir Unryuu en tant que Navire Amiral dans ta flotte principale."
+        "name": "Déployer la nouvelle classe de porte-avions.",
+        "desc": "Avoir Unryuu comme navire amiral dans la flotte principale."
     },
     "144": {
-        "name": "Forme la force principale de Cuirassés: Le 2ème Escadron!",
-        "desc": "Avoir UNIQUEMENT les BB de classe Nagato et Fusou dans ta flotte principale."
+        "name": "Constituer la force principale de cuirassés, la « deuxième escadre ».",
+        "desc": "Avoir uniquement Nagato, Mutsu, Fusou et Yamashiro dans la flotte principale."
     },
     "145": {
-        "name": "Forme une Flotte d'Attaque de Surface en comprenant la Force Principale!",
-        "desc": "Avoir 3 BB parmis les classes Nagato, Ise, Fusou ou Yamato plus 1 CL dans ta flotte principale."
+        "name": "Constituer une flotte d'attaque de surface composée de la force principale.",
+        "desc": "Avoir 3 BB de classe Nagato, Ise, Fusou ou Yamato et 1 CL dans la flotte principale."
     },
     "146": {
-        "name": "Prépare l'Amélioration de Ton Arsenal!",
-        "desc": "Avoir Akashi en tant que Navire Amiral dans ta flotte principale."
+        "name": "Préparer l'arsenal de rénovation.",
+        "desc": "Avoir Akashi comme navire amiral dans la flotte principale."
     },
     "147": {
-        "name": "Reforme la flotte de Nishimura!",
-        "desc": "Avoir Fusou, Yamashiro, Mogami, Shigure et Michishio dans ta flotte principale."
+        "name": "Reformer la flotte de Nishimura.",
+        "desc": "Avoir Fusou, Yamashiro, Mogami, Shigure et Michishio dans la flotte principale."
     },
     "148": {
-        "name": "Forme une Flotte Légère de Contre-Attaque en Surface!",
-        "desc": "Avoir Kasumi comme Navire amiral, Ashigara, 1 CL et 3 DD dans ta flotte principale."
+        "name": "Constituer une flotte légère de contre-attaque de surface.",
+        "desc": "Avoir Kasumi comme navire amiral, Ashigara, 1 CL et 3 DD dans la flotte principale."
     },
     "149": {
-        "name": "Forme la 11ème Division de Destroyers!",
-        "desc": "Avoir les 4 DD Spéciaux: Fubuki, Shirayuki, Hatsuyuki et Murakumo dans ta flotte principale. Une d'entre elles doit être Navire Amiral."
+        "name": "Constituer la 11e escadre de destroyers.",
+        "desc": "Avoir uniquement Fubuki, Shirayuki, Hatsuyuki et Murakumo dans la flotte principale."
     },
     "150": {
-        "name": "Forme la 21ème division de Destroyers!",
-        "desc": "Avoir UNIQUEMENT Hatsuharu, Nenohi, Wakaba et Hatsushimo dans ta flotte principale."
+        "name": "Constituer la 21e escadre de destroyers.",
+        "desc": "Avoir uniquement Hatsuharu, Nenohi, Wakaba et Hatsushimo dans la flotte principale."
     },
     "151": {
-        "name": "Forme la 22ème Division de Destroyers!",
-        "desc": "Avoir UNIQUEMENT Satsuki, Fumizuki, Nagatsuki et un autre DD dans ta flotte principale."
+        "name": "Constituer la 22e escadre de destroyers.",
+        "desc": "Avoir uniquement Satsuki, Fumizuki, Nagatsuki et un autre DD dans la flotte principale."
     },
     "152": {
-        "name": "Forme la nouvelle composition de la flotte de Mikawa!",
-        "desc": "Avoir Choukai Kai Ni en tant que Navire Amiral et 5 autres parmi Aoba, Kinugasa, Kako, Furutaka, Tenryuu, et Yuubari dans ta flotte principale."
+        "name": "Constituer la nouvelle version de la flotte de Mikawa.",
+        "desc": "Avoir Choukai Kai Ni comme navire amiral et 5 autres parmi Aoba, Kinugasa, Kako, Furutaka, Tenryuu et Yuubari dans la flotte principale."
     },
     "153": {
-        "name": "Reforme le 18ème Escadron!",
-        "desc": "Avoir Tenryuu, Tatsuta et 2 Fille-navires (ou plus) dans ta flotte principale."
+        "name": "Reformer la 18e escadre.",
+        "desc": "Avoir Tenryuu, Tatsuta et au moins 2 autres navires dans la flotte principale."
     },
-        "154": {
-        "name": "Forme la flotte de Raid de Surface!",
-        "desc": "Avoir Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, et Inazuma dans ta flotte principale."
+	"154": {
+        "name": "Constituer une flotte de raid de surface.",
+        "desc": "Avoir Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi et Inazuma dans la flotte principale."
     },
-        "155": {
-        "name": "Forme la nouvelle 6ème Division de Destroyers!",
-        "desc": "Avoir Akatsuki Kai Ni en tant que Navire Amiral accompagnée de Hibiki/Verniy, Ikazuchi, et Inazuma dans ta flotte principale."
+	"155": {
+        "name": "Constituer la nouvelle 6e escadre de destroyers.",
+        "desc": "Avoir Akatsuki Kai Ni comme navire amiral, Hibiki/Verniy, Ikazuchi et Inazuma dans la flotte principale."
     },
 	"156": {
-        "name": "1er Escadron de Torpilleurs, Prépare-toi pour le raid vers la Mer du Nord!",
-        "desc": "Avoir Abukuma en tant que Navire Amiral accompagnée de Hibiki/Verniy, Hatsushimo, Wakaba, Samidare et Shimakaze dans ta flotte principale."
+        "name": "1re escadre de torpilleurs, prépare-toi pour un raid dans les mers du nord.",
+        "desc": "Avoir Abukuma comme navire amiral, Hibiki/Verniy, Hatsushimo, Wakaba, Samidare et Shimakaze dans la flotte principale."
     },
 	"157": {
-        "name": "1er Escadron de Torpilleurs, Prépare-toi pour un autre raid vers la Mer du Nord!",
-        "desc": "Avoir Abukuma Kai Ni en tant que Navire Amiral accompagnée de Hibiki/Verniy, Yuugumo, Naganami, Akigumo et Shimakaze dans ta flotte principale."
+        "name": "1re escadre de torpilleurs, prépare-toi pour un autre raid dans les mers du nord.",
+        "desc": "Avoir Abukuma Kai Ni comme navire amiral, Hibiki/Verniy, Yuugumo, Naganami, Akigumo et Shimakaze dans la flotte principale."
     },
+    "161": {
+        "code": "A56",
+        "name": "Réorganiser la 5e escadre de porte-avions.",
+        "desc": "Avoir Shoukaku, Zuikaku, Oboro et Akigumo dans la flotte principale.",
+        "unlock": [ 287 ]
+    },
+    "162": {
+        "code": "A57",
+        "name": "Préparer la nouvelle 21e escadre pour une sortie.",
+        "desc": "Avoir Nachi Kai Ni, Ashigara Kai Ni, Tama et Kiso dans la flotte principale.",
+        "unlock": [ 288 ]
+    },
+    "163": {
+        "code": "A58",
+        "name": "Organiser la 16e escadre (première génération).",
+        "desc": "Avoir Ashigara comme navire amiral, Kuma et Nagara dans la flotte principale.",
+        "unlock": [ 289 ]
+    },
+    "164": {
+        "code": "A59",
+        "name": "Organiser la 3e escadre de porte-avions.",
+        "desc": "Avoir Zuikaku Kai comme navire amiral, Zuihou, Chitose et Chiyoda (les deux comme CVL) dans la flotte principale.",
+        "unlock": [ 293, 627 ]
+    },
+    "165": {
+        "code": "A60",
+        "name": "Organiser la 4e escadre de porte-avions.",
+        "desc": "Avoir Ise Kai et Hyuuga Kai dans la flotte principale.",
+        "unlock": [ 166 ]
+    },
+    "166": {
+        "code": "A61",
+        "name": "Organiser la flotte d'Ozawa.",
+        "desc": "Avoir Zuikaku Kai comme navire amiral, Zuihou Kai, Ise Kai, Hyuuga Kai, Chitose et Chiyoda (les deux comme CVL) dans la flotte principale.",
+        "unlock": [ 294 ]
+    },
+    "167": {
+        "code": "A62",
+        "name": "Organiser la nouvelle escadre de porte-avions.",
+        "desc": "Avoir Zuikaku Kai Ni, Shoukaku Kai Ni et 2 DD dans la flotte.",
+        "unlock": [ 633 ]
+    },
+    "168": {
+        "code": "A63",
+        "name": "Organiser la 16e escadre (seconde génération).",
+        "desc": "Avoir Natori comme navire amiral, Isuzu et Kinu dans la flotte.",
+        "unlock": [ 295 ]
+    },
+    "169": {
+        "code": "A64",
+        "name": "Organiser la nouvelle escadre de porte-avions.",
+        "desc": "Avoir 2 CV, 2 BBV/CAV et 2 DD dans la flotte.",
+        "unlock": [ 296 ]
+    },
+    "170": {
+        "code": "A65",
+        "name": "Fortifier la flotte de contre-attaque de surface.",
+        "desc": "Avoir Kasumi comme navire amiral, Ashigara, Ooyodo, Asashimo et Kiyoshimo dans la flotte.",
+        "unlock": [ 297 ]
+    },
+    "171": {
+        "code": "A66",
+        "name": "Organiser la 31e escadre (première génération).",
+        "desc": "Avoir Isuzu Kai Ni comme navire amiral, Satsuki Kai Ni et Uzuki Kai dans la flotte",
+        "unlock": [ 807 ]
+    },
+    "172":{
+        "code": "A67",
+        "name": "Organiser la 27e escadre de destroyers (seconde génération).",
+        "desc": "Avoir Shiratsuyu Kai comme navire amiral, Shigure, Harusame et Samidare dans la flotte.",
+        "unlock": [ 808 ]
+    },
+    "173":{
+        "code": "A68",
+        "name": "Organiser les troupes de transport à grande vitesse.",
+        "desc": "Avoir Sendai Kai Ni comme navire amiral, Kawakaze Kai Ni, Shigure Kai Ni et 2 DD dans la flotte.",
+        "unlock": [ 814 ]
+    },
+    "174":{
+        "code": "A69",
+        "name": "Organiser une nouvelle escadre de torpilleurs.",
+        "desc": "Avoir un CL/CLT/CT comme navire amiral et 4 DD dans la flotte.",
+        "unlock": [ 817 ]
+    },
+    "175": {
+        "code": "A70",
+        "name": "Réorganiser la nouvelle 8e escadre de destroyers.",
+        "desc": "Avoir Asashio Kai Ni (ou Kai Ni D) comme navire amiral, Michishio, Ooshio et Arashio dans la flotte."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Élite ! Premier peloton d'Hachika.",
+        "desc": "Avoir Asashio Kai Ni D et Ooshio Kai Ni dans la flotte."
+    },
+	
+	
        
        
        
     "202": {
-        "name": "Première Sortie!",
-        "desc": "Déploie ta flotte principale dans une mission de combat."
+        "name": "Première sortie.",
+        "desc": "Déployer la flotte principale dans une mission de combat."
     },
     "203": {
-        "name": "Protège les Mers de Chinju-Fu!",
-        "desc": "Déploie votre flotte au monde 1-1 et complètes le niveau."
+        "name": "Protéger les mers de Chinju-Fu.",
+        "desc": "Terminer le monde 1-1."
     },
     "204": {
-        "name": "Dirige-toi vers les Côtes des Îles de Nansei!",
-        "desc": "Déploie ta flotte au monde 1-2 et complètes le niveau."
+        "name": "Se rendre près des côtes des îles de Nansei.",
+        "desc": "Terminer le monde 1-2."
     },
     "205": {
-        "name": "Interceptez la Flotte d'Avant-Garde Ennemie!",
-        "desc": "Déploie ta flotte au monde 1-2 et complètes le niveau une seconde fois."
+        "name": "Intercepter la flotte d'avant-garde ennemie.",
+        "desc": "Terminer le monde 1-2 une seconde fois."
     },
     "206": {
-        "name": "Sort un Escadron de Torpilleurs!",
-        "desc": "Déploie une flotte qui possède un CL en tant que Navire Amiral et 3 DD servant d'escorte."
+        "name": "Déployer une escadre de torpilleurs.",
+        "desc": "Déployer une flotte avec 1 CL comme navire amiral et 3 DD."
     },
     "207": {
-        "name": "Sort un Croiseur Lourd!",
-        "desc": "Déploie une flotte qui possède un CA comme Navire amiral."
+        "name": "Déployer un croiseur lourd.",
+        "desc": "Déployer une flotte avec 1 CA comme navire amiral."
     },
     "208": {
-        "name": "Sort un Cuirassé!",
-        "desc": "Déploie une flotte qui possède un Cuirassé comme Navire amiral."
+        "name": "Déployer un cuirassé.",
+        "desc": "Déployer une flotte avec 1 BB comme navire amiral."
     },
     "209": {
-        "name": "Déploie une Force Opérationnelle de Porte-avions!",
-        "desc": "Déploie une flotte qui possède un CV(L) comme Navire amiral et 5 autres Fille-navires (DD/CL/AV) servant d'escorte."
+        "name": "Déployer une force opérationnelle de porte-avions.",
+        "desc": "Déployer une flotte avec 1 CV(L) comme navire amiral et 5 autres navires (DD/CL/AV)."
     },
     "215": {
-        "name": "Sort la Seconde Flotte!",
-        "desc": "Déploie votre seconde flotte dans une mission de combat."
+        "name": "Déployer la seconde flotte.",
+        "desc": "Déployer la seconde flotte dans une mission de combat."
     },
     "217": {
-        "name": "Élimine un Porte-avion ennemi!",
-        "desc": "Coule un CV(L) abyssale."
+        "name": "Éliminer un porte-avion ennemi.",
+        "desc": "Couler un CV(L) ennemi."
     },
     "219": {
-        "name": "Sort la flotte de Mikawa!",
-        "desc": "Déploie une flotte qui inclut Choukai, Aoba, Kako, Furutaka, Tenryuu et un autre Fille-navire rapide."
+        "name": "Déployer la flotte de Mikawa.",
+        "desc": "Déployer une flotte composée de Choukai, Aoba, Kako, Furutaka, Tenryuu et d'un autre navire rapide."
     },
     "222": {
-        "name": "Sort la 6ème Division de Destroyers!",
-        "desc": "Déploie une flotte qui inclut UNIQUEMENT Akatsuki, Hibiki, Inazuma, et Ikazuchi."
+        "name": "Déployer la 6e escadre de destroyers.",
+        "desc": "Déployer une flotte composée d'uniquement Akatsuki, Hibiki, Inazuma et Ikazuchi."
     },
     "223": {
-        "name": "Sort la 4ème Division de Croiseurs!",
-        "desc": "Déploie une flotte qui inclut Atago, Takao, Choukai, Maya plus 2 autres Fille-navires et obtiens une victoire face au Boss du monde 2-2."
+        "name": "Déployer la 4e escadre de croiseurs.",
+        "desc": "Déployer une flotte composée de Atago, Takao, Choukai, Maya et 2 autres navires, puis obtenir une victoire contre le boss du monde 2-2."
     },
     "224": {
-        "name": "Sort la flotte de Nishimura!",
-        "desc": "Déploie une flotte qui inclut Fusou, Yamashiro, Mogami, Shigure plus 2 autres Fille-navires et obtiens une victoire face au Boss du monde 2-3."
+        "name": "Déployer la flotte de Nishimura.",
+        "desc": "Déployer une flotte composée de Fusou, Yamashiro, Mogami, Shigure et 2 autres navires, puis obtenir une victoire contre le boss du monde 2-3."
     },
     "225": {
-        "name": "Sort la 5ème Division de Porte-Avions!",
-        "desc": "Déploie une flotte qui inclut Shoukaku, Zuikaku plus 4 autres Fille-navires et obtiens une victoire face au Boss du monde 3-1."
+        "name": "Déployer la 5e escadre de porte-avions.",
+        "desc": "Déployer une flotte composée de Shoukaku, Zuikaku et 4 autres navires, puis obtenir une victoire contre le boss du monde 3-1."
     },
     "227": {
-        "name": "Sort la nouvelle flotte de Mikawa!",
-        "desc": "Rassemble une flotte qui compose de Choukai, Aoba, Kinugasa, Kako, Furutaka et Tenryuu et obtiens une victoire face au Boss du monde 2-3."
+        "name": "Déployer la nouvelle flotte de Mikawa.",
+        "desc": "Déployer une flotte composée de Choukai, Aoba, Kinugasa, Kako, Furutaka et Tenryuu, puis obtenir une victoire contre le boss du monde 2-3."
     },
     "231": {
-        "name": "Sort une flotte de Sous-marins!",
-        "desc": "Déploie une flotte qui inclut 2 Sous-marins plus 4 autres navires et obtiens une victoire face au Boss du monde 2-3."
+        "name": "Déployer une flotte de sous-marins.",
+        "desc": "Déployer une flotte composée de 2 SS et 4 autres navires, puis obtenir une victoire contre le boss du monde 2-3."
     },
     "232": {
-        "name": "Sort une flotte Aéronavale!",
-        "desc": "Déploie une flotte qui inclut 2 BBV, 2 CAV plus 2 autres navires et obtiens une victoire face au Boss du monde 4-2."
+        "name": "Déployer une flotte aéronavale.",
+        "desc": "Déployer une flotte composée de 2 BBV, 2 CAV et 2 autres navires, puis obtenir une victoire contre le boss du monde 4-2."
     },
     "233": {
-        "name": "Sort la 6ème Division de Croiseurs!",
-        "desc": "Déploie une flotte qui inclut Furutaka, Kako, Kinugasa, Aoba plus 2 autres Fille-navires et obtiens un rang S face au Boss du monde 2-3."
+        "name": "Déployer la 6e escadre de croiseurs.",
+        "desc": "Déployer une flotte composée de Furutaka, Kako, Kinugasa, Aoba et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 2-3."
     },
     "239": {
-        "name": "Sort la 8ème Division de Destroyers!",
-        "desc": "Déploie une flotte qui inclut Asashio, Michishio, Ooshio, Arashio plus 2 autres Fille-navires et obtiens une victoire face au Boss du monde 2-3."
+        "name": "Déployer la 8e escadre de destroyers.",
+        "desc": "Déployer une flotte composée de Asashio, Michishio, Ooshio, Arashio et 2 autres navires, puis obtenir une victoire contre le boss du monde 2-3."
     },
     "240": {
-        "name": "Sort la 18ème Division de Destroyers!",
-        "desc": "Déploie une flotte qui inclut Kasumi, Arare, Kagerou, Shiranui plus 2 autres Fille-navires et obtiens une victoire face au Boss du monde 3-1."
+        "name": "Déployer la 18e escadre de destroyers.",
+        "desc": "Déployer une flotte composée de Kasumi, Arare, Kagerou, Shiranui et 2 autres navires, puis obtenir une victoire contre le boss du monde 3-1."
     },
     "244": {
-        "name": "Déploie la 30ème Division de Destroyers (Génération 1)!",
-        "desc": "Déploie une flotte qui inclut Mutsuki, Kisaragi, Yayoi, Mochizuki + 2 autres Fille-navires (DD + 1CL comme Navire amiral) au monde 3-2 et obtiens au moins un rang C face au Boss."
+        "name": "Déployer la 30e escadre de destroyers (première génération).",
+        "desc": "Déployer une flotte composée de Mutsuki, Kisaragi, Yayoi, Mochizuki et 2 autres navires (2 DD ou 1 DD + 1 CL comme navire amiral), puis obtenir un rang C ou mieux contre le boss du monde 3-2."
     },
     "245": {
-        "name": "Préparation de la Cérémonie (Final)",
-        "desc": "Déploie une flotte qui inclut un Fille-navire de niveau élevé (Niv.90-99) comme Navire amiral et obtiens un rang S au Boss du monde 2-3."
+        "name": "Préparation de la cérémonie (final).",
+        "desc": "Déployer une flotte composée d'un navire de niveau élevé (90-99) comme navire amiral, puis obtenir une victoire de rang S contre le boss du monde 2-3."
     },
     "246": {
-        "name": "Notre Première Mission Ensemble!",
-        "desc": "Déploie une flotte au monde 4-3 avec une Navire Amiral marié de niveau 100+ et obtiens un rang S face au Boss."
+        "name": "Notre première mission ensemble.",
+        "desc": "Déployer une flotte avec un navire amiral marié de niveau 100 ou plus, puis obtenir une victoire de rang S contre le boss du monde 4-3."
     },
     "247": {
-        "name": "Sort une flotte de Cuirassés d'Aviation!",
-        "desc": "Avoir 2 BBV dans ta flotte principale et obtiens une victoire au Boss du monde 4-4."
+        "name": "Déployer une flotte de cuirassés d'aviation.",
+        "desc": "Déployer la flotte principale avec 2 BBV, puis obtenir une victoire contre le boss du monde 4-4."
     },
     "248": {
-        "name":  "Patrouille Anti-Sous-Marine de la 30ème Div. de Destroyers",
-        "desc": "Déploie Mutsuki, Yayoi, Uzuki et Mochizuki au monde 1-5 et obtiens au moins un rang C face au Boss."
+        "name": "Patrouille anti-sous-marine de la 30e escadre de destroyers.",
+        "desc": "Déployer Mutsuki, Yayoi, Uzuki et Mochizuki, puis obtenir un rang C ou mieux contre le boss du monde 1-5."
     },
     "250": {
-        "name": "Déploie la 2nde Division de Porte-avions!",
-        "desc": "Déploie Hiryuu Kai Ni comme Navire amiral, Souryuu et 2 DD au monde 5-2 plus 2 autres Fille-navires et obtiens un rang S face au Boss."
+        "name": "Déployer la 2de escadre de porte-avions.",
+        "desc": "Déployer Hiryuu Kai Ni comme navire amiral, Souryuu, 2 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 5-2."
     },
     "251": {
-        "name": "Déploie la 2nde Division d'Élite de Porte-avions!",
-        "desc": "Déploie Souryuu Kai Ni comme Navire amiral, Hiryuu Kai Ni et 2 DD au monde 4-3 plus 2 autres Fille-navires et obtiens un rang S face au Boss."
+        "name": "Déployer la 2de escadre d'élite de porte-avions.",
+        "desc": "Déployer Souryuu Kai Ni comme navire amiral, Hiryuu Kai Ni, 2 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 4-3."
     },
     "252": {
-        "name": "Déploie le Cuirassé Haruna!",
-        "desc": "Déploie une flotte qui inclut Haruna Kai Ni en tant que Navire Amiral + 5 Fille-navires au monde 5-1 et obtiens un rang S face au Boss."
+        "name": "Déployer le cuirassé Haruna.",
+        "desc": "Déployer une flotte composée de Haruna Kai Ni comme navire amiral et 5 autres navires, puis obtenir une victoire de rang S contre le boss du monde 5-1."
     },
     "253": {
-        "name": "Déploie le Groupe Aérien 601!",
-        "desc": "Déploie une flotte avec Unryuu Kai en tant que Navire Amiral au monde 5-2 et obtiens un rang S face au boss."
+        "name": "Déployer le groupe aérien 601.",
+        "desc": "Déployer une flotte avec Unryuu Kai comme navire amiral, puis obtenir une victoire de rang S contre le boss du monde 5-2."
     },
     "254": {
-        "name": "Déploie un petit Escadron de Porte-avions!",
-        "desc": "Déploie une flotte constituée de 1-2 CVL, 1 CL et 3-4 DD au monde 2-1 et obtiens un S rank face au Boss."
+        "name": "Déployer une petite escadre de porte-avions.",
+        "desc": "Déployer une flotte constituée de 1-2 CVL, 1 CL et 3-4 DD, puis obtenir une victoire de rang S contre le boss du monde 2-1."
     },
     "255": {
-        "name": "Déploie un Escadron de Torpilleurs aux Îles Bashi!",
-        "desc": "Déploie une flotte de 1-2 CL (Un d'entre eux doit être Navire Amiral) et 4-5 DD en 2-2 et obtiens une victoire au Boss en coulant le Navire Amiral Abyssal."
+        "name": "Déployer une escadre de torpilleurs aux îles Bashi.",
+        "desc": "Déployer une flotte de 1-2 CL (l'un d'entre eux doit être navire amiral) et 4-5 DD, puis obtenir une victoire contre le boss du monde 2-2 en coulant le navire amiral ennemi."
     },
     "258": {
-        "name": "Sort le 2ème Escadron!",
-        "desc": "Déploie Nagato, Mutsu, Fusou, Yamashiro + 2 Fille-navires au monde 4-2 et obtiens 2 rangs S face au Boss."
+        "name": "Déployer la 2de escadre.",
+        "desc": "Déployer Nagato, Mutsu, Fusou, Yamashiro et 2 autres navires, puis obtenir 2 victoires de rang S contre le boss du monde 4-2."
     },
     "260": {
-        "name": "Déploie un escadron de Cuirassés d'Aviation dans la Mer du Nord!",
-        "desc": "Déploie 2 BBV, un CVL + 3 Fille-navires au monde 3-5 et obtiens un rang S face au Boss."
+        "name": "Déployer un escadron de cuirassés d'aviation dans les mers du nord.",
+        "desc": "Déployer 2 BBV, 1 CVL et 3 autres navires, puis obtenir une victoire de rang S contre le boss du monde 3-5."
     },
     "262": {
-        "name": "Déploie la flotte de Nishimura dans les Mers du Sud!",
-        "desc": "Déploie Fusou, Yamashiro, Mogami, Shigure et Michishio + 1 Fille-navire au monde 5-1 et obtiens un rang S face au Boss."
+        "name": "Déployer la flotte de Nishimura dans les mers du sud.",
+        "desc": "Déployer Fusou, Yamashiro, Mogami, Shigure, Michishio et un autre navire, puis obtenir une victoire de rang S contre le boss du monde 5-1."
     },
     "263": {
-        "name": "Déploie le 6ème Escadron dans les Mers du Sud-Ouest!",
-        "desc": " Déploie Furutaka, Kako, Aoba, Kinugasa + 2 Fille-navires au monde 2-5 et obtiens un rang S face au boss."
+        "name": "Déployer la 6e escadre dans les mers du sud-ouest.",
+        "desc": "Déployer Furutaka, Kako, Aoba, Kinugasa et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 2-5."
     },
     "267": {
-        "name": "Déploie la 11ème Division de Destroyers!",
-        "desc": "Déploie Fubuki, Shirayuki, Hatsuyuki, Murakumo + 2 Fille-navires au monde 2-3 et obtiens une victoire au Boss."
+        "name": "Déployer la 11e escadre de destroyers.",
+        "desc": "Déployer Fubuki, Shirayuki, Hatsuyuki, Murakumo et 2 autres navires, puis obtenir une victoire contre le boss du monde 2-3."
     },
     "268": {
-        "name": "Patrouille Anti-Sous-marine de la 11ème Div. de Destroyers",
-        "desc": "Déploie Fubuki, Shirayuki, Hatsuyuki et Murakumo au monde 1-5 et obtiens au moins un rang C face au Boss."
+        "name": "Patrouille anti-sous-marine de la 11e escadre de destroyers.",
+        "desc": "Déployer Fubuki, Shirayuki, Hatsuyuki et Murakumo, puis obtenir un rang C ou mieux contre le boss du monde 1-5."
     },
     "269": {
-        "name": "Déploie la 21ème Division de Destroyers!",
-        "desc": "Déploie Hatsuharu, Nenohi, Wakaba, Hatsushimo + 2 Fille-navires au monde 3-1 et obtiens un rang S face au Boss."
+        "name": "Déployer la 21e escadre de destroyers.",
+        "desc": "Déployer Hatsuharu, Nenohi, Wakaba, Hatsushimo et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 3-1."
     },
     "270": {
-        "name": "Déploie la 22ème Division de Destroyers!",
-        "desc": "Déploie Satsuki, Fumizuki, Nagatsuki, un 4ème DD + 2 Fille-navires au monde 1-4 et obtiens un rang S face au Boss."
+        "name": "Déployer la 22e escadre de destroyers.",
+        "desc": "Déployer Satsuki, Fumizuki, Nagatsuki, 1 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 1-4."
     },
     "271": {
-        "name": "Déployez l'Escadron de Nachi.",
-        "desc": "Rassemble une flotte qui compose de Nachi en tant que Navire Amiral, Hatsushimo, Kasumi, Ushio, Akebono + 1 Fille-navires au monde 2-2 et obtiens un rang S face au Boss."
+        "name": "Déployer l'escadre de Nachi.",
+        "desc": "Déployer une flotte composée de Nachi comme navire amiral, Hatsushimo, Kasumi, Ushio, Akebono et d'un autre navire, puis obtenir une victoire de rang S contre le boss du monde 2-2."
     },
     "272": {
-        "name": "Déployez le Croiseur Lourd Anti-Air Reconstruit!",
-        "desc": "Sortez une flotte incluant Maya (Kai ou Kai Ni), 1 CL, 2 DD plus 2 autres navires au monde 2-3. Obtenez un rang S face au Boss."
+        "name": "Déployer le croiseur lourd antiaérien modernisé.",
+        "desc": "Déployer une flotte composée de Maya (Kai ou Kai Ni), 1 CL, 2 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 2-3."
     },
     "273": {
-        "name": "Déployez la nouvelle flotte de Mikawa dans les Mers de Salomon!",
-        "desc": "Déployez une flotte incluant Choukai Kai Ni comme Navire amiral et 5 navires parmi Aoba, Kinugasa, Kako et Furutaka au monde 5-1. Obtenez un rang S face au Boss."
+        "name": "Déployer la nouvelle flotte de Mikawa dans les mers de Salomon.",
+        "desc": "Déployer une flotte composée de Choukai Kai Ni comme navire amiral, Aoba, Kinugasa, Kako, Furutaka et un autre navire, puis obtenir une victoire de rang S contre le boss du monde 5-1."
     },
     "274": {
-        "name": "Patrouille Anti-Sous-marine de la 6ème Div. de Destroyers",
-        "desc": "Déployez Akatsuki, Hibiki/Verniy, Inazuma et Ikazuchi au monde 1-5. Obtenez au moins un rang C face au Boss."
+        "name": "Patrouille anti-sous-marine de la 6e escadre de destroyers.",
+        "desc": "Déployer Akatsuki, Hibiki/Verniy, Inazuma et Ikazuchi, puis obtenir un rang C ou mieux contre le boss du monde 1-5."
     },
     "275": {
-        "name": "Déployez le 18ème Escadron!",
-        "desc": "Déployez Tenryuu, Tatsuta et au moins 2 autres navires au monde 2-3. Obtenez une victoire face au Boss."
+        "name": "Déployer la 18e escadre.",
+        "desc": "Déployer Tenryuu, Tatsuta et au moins 2 autres navires, puis obtenir une victoire contre le boss du monde 2-3."
     },
-        "276": {
-        "name": "Sortez la flotte de Raid de Suface!",
-        "desc": "Déployez une flotte constituée de Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi et Inazuma au monde 5-1. Obtenez un rang S face au Boss."
+	"276": {
+        "name": "Déployer la flotte de raid de suface.",
+        "desc": "Déployer Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi et Inazuma, puis obtenir une victoire de rang S contre le boss du monde 5-1."
     },
-        "277": {
-        "name": "La Patrouille Sous-Marine Approfondie de la 6ème Div. de Destroyers",
-        "desc": "Sortez Akatsuki Kai Ni , Hibiki/Verniy, Ikazuchi, Inazuma au monde 1-5 et obtenez au moins un rang A face au Boss."
+	"277": {
+        "name": "Patrouille sous-marine de la 6e escadre de destroyers.",
+        "desc": "Déployer Akatsuki Kai Ni, Hibiki/Verniy, Ikazuchi, Inazuma et obtenir une victoire de rang A contre le boss du monde 1-5."
     },
-        "278": {
-        "name": "Le Traversée du 1er Escadron de Torpilleurs à l'Opération Ke",
-        "desc": "Déployez Abukuma comme Navire amiral accompagnée de Hibiki/Verniy, Hatsushimo, Wakaba, Samidare et Shimakaze au monde 3-2. Obtenez au moins un rang B face au Boss."
+	"278": {
+        "name": "La 1re escadre de torpilleurs précipite les évènements à l'opération KE.",
+        "desc": "Déployer Abukuma comme navire amiral, Hibiki/Verniy, Hatsushimo, Wakaba, Samidare et Shimakaze, puis obtenir une victoire de rang B ou mieux contre le boss du monde 3-2."
     },
-        "279": {
-        "name": "La Traversée du 1er Escadron de Torpilleurs à l'Opération Ke (bis)",
-        "desc": "Déployez Abukuma Kai Ni comme Navire amiral accompagnée de Hibiki/Verniy, Yuugumo, Naganami, Akigumo et Shimakaze au monde 3-2. Obtenez au moins un rang B face au Boss."
+	"279": {
+        "name": "La 1re escadre de torpilleurs précipite les évènements à l'opération KE (bis).",
+        "desc": "Déployer Abukuma Kai Ni comme navire amiral, Hibiki/Verniy, Yuugumo, Naganami, Akigumo et Shimakaze, puis obtenir une victoire de rang B ou mieux contre le boss du monde 3-2."
     },
+    "285": {
+        "code": "B49",
+        "name": "« Flotte de porte-avions », rejoins les mers du nord.",
+        "desc": "Déployer une flotte avec un porte-avions comme navire amiral, puis obtenir une victoire de rang S contre le boss du monde 3-5."
+    },
+    "286": {
+        "code": "B48",
+        "name": "Renforcer la patrouille anti-sous-marine en face de la base navale.",
+        "desc": "Obtenir 4 victoires de rang A ou mieux contre le boss du monde 1-5."
+    },
+    "287": {
+        "code": "B50",
+        "name": "Déployer la 5e escadre de porte-avions vers les Îles de Corail dans les mers du sud.",
+        "desc": "Déployer Shoukaku, Zuikaku, Oboro, Akigumo et jusqu'à 2 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 5-2.",
+        "unlock": [ 169, 622, 623, 420 ]
+    },
+    "288": {
+        "code": "B51",
+        "name": "Déployer la nouvelle 21e escadre vers le nord.",
+        "desc": "Déployer Nachi Kai Ni, Ashigara Kai Ni, Tama, Kiso et jusqu'à 2 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 3-1."
+    },
+    "289": {
+        "code": "B52",
+        "name": "Déployer la 16e escadre (première génération).",
+        "desc": "Déployer Ashigara comme navire amiral, Kuma, Nagara et jusqu'à 3 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 2-2.",
+        "unlock": [ 168 ]
+    },
+    "293": {
+        "code": "B53",
+        "name": "« 3e escadre de porte-avions », défendez les îles Nansei.",
+        "desc": "Déployer Zuikaku Kai comme navire amiral, Zuihou, Chitose et Chiyoda (les deux comme CVL) et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 1-4.",
+        "unlock": [ 165 ]
+    },
+    "294": {
+        "code": "B54",
+        "name": "Déployer la flotte d'Ozawa.",
+        "desc": "Déployer Zuikaku Kai comme navire amiral, Zuihou Kai, Ise Kai, Hyuuga Kai, Chitose et Chiyoda (les deux comme CVL), puis obtenir une victoire de rang S contre le boss du monde 2-4.",
+        "unlock": [ 626 ]
+    },
+    "295": {
+        "code": "B55",
+        "name": "Déployer la 16e escadre (seconde génération)",
+        "desc": "Déployer Natori comme navire amiral, Isuzu, Kinu et jusqu'à 3 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 2-3.",
+        "unlock": [ 169 ]
+    },
+    "296": {
+        "code": "B56",
+        "name": "Déployer la nouvelle escadre de porte-avions vers le nord.",
+        "desc": "Déployer 2 CV, 2 BBV/CAV et 2 DD, puis obtenir une victoire de rang S contre le boss du monde 3-3.",
+        "unlock": [ 170 ]
+    },
+    "297": {
+        "code": "B57",
+        "name": "Mener à bien l'opération Rei-Gou.",
+        "desc": "Déployer Kasumi comme navire amiral, Ashigara, Ooyodo, Asashimo, Kiyoshimo et un autre navire, puis obtenir une victoire de rang S contre le boss du monde 2-5."
+    },
+    "805": {
+        "code": "B58",
+        "name": "Envoyer Kasumi patrouiller les mers du nord.",
+        "desc": "Déployer une flotte avec Kasumi Kai Ni comme navire amiral, 3 DD et jusqu'à 2 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 3-1.",
+        "unlock": [ 806 ]
+    },
+    "806": {
+        "code": "B59",
+        "name": "Déployer Kasumi et vaincre la flotte ennemie.",
+        "desc": "Déployer une flotte avec Kasumi Kai Ni comme navire amiral, 2 DD et jusqu'à 3 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 2-5.",
+        "unlock": [ 813 ]
+    },
+    "807": {
+        "code": "B60",
+        "name": "Déployer la 31e escadre.",
+        "desc": "Déployer Isuzu Kai Ni comme navire amiral, Satsuki Kai Ni, Uzuki Kai et jusqu'à 3 navires supplémentaires dans le monde 1-6 et terminer la carte."
+    },
+    "808": {
+        "code": "B61",
+        "name": "Déployer la 27e escadre de destroyers.",
+        "desc": "Déployer Shiratsuyu Kai comme navire amiral, Shigure, Harusame, Samidare et jusqu'à 2 navires supplémentaires, puis obtenir une victoire de rang S contre le boss du monde 2-3."
+    },
+    "809": {
+        "code": "B62",
+        "name": "Améliorer la flotte pour les débarquements.",
+        "desc": "Obtenir une victoire de rang B ou mieux contre le boss du monde 6-3."
+    },
+    "810": {
+        "code": "B63",
+        "name": "Défendre les alentours de la raffinerie.",
+        "desc": "Déployer 1 CL et 5 DD, puis obtenir 3 victoires contre le boss du monde 1-3.",
+        "unlock": [ 811 ]
+    },
+    "811": {
+        "code": "B64",
+        "name": "Renforcer les lignes aux alentours des îles du sud-ouest.",
+        "desc": "Obtenir 5 victoires de rang S contre le boss du monde 1-4.",
+        "unlock": [ 812 ]
+    },
+    "812": {
+        "code": "B65",
+        "name": "Assurer la suprématie en Mer d'Orel.",
+        "desc": "Déployer Ooshio comme navire amiral, puis obtenir 6 victoires de rang S contre le boss du monde 2-3.",
+        "unlock": [ 813 ]
+    },
+    "813": {
+        "code": "B66",
+        "name": "Déployer le navire amiral Ooshio.",
+        "desc": "Déployer Ooshio Kai Ni comme navire amiral, puis obtenir une victoire de rang S contre le boss du monde 3-5."
+    },
+    "814": {
+        "code": "B68",
+        "name": "Sortie de la flotte à grande vitesse.",
+        "desc": "Déployer une flotte avec Sendai Kai Ni comme navire amiral, Kawakaze Kai Ni, Shigure Kai Ni, 2 DD et éventuellement un autre navire, puis obtenir une victoire de rang A ou mieux contre le boss du monde 4-1.",
+        "unlock": [ 815 ]
+    },
+    "815": {
+        "code": "B69",
+        "name": "« 1re flotte de porte-avions », à l'ouest, toute.",
+        "desc": "Déployer une flotte avec Akagi Kai comme navire amiral, Kaga Kai et jusqu'à 4 autres navires, puis obtenir une victoire de rang S contre le boss du monde 4-5."
+    },
+    "816": {
+        "code": "B67",
+        "name": "Troisième anniversaire de la flotte.",
+        "desc": "Déployer une flotte dans le monde 2-2 et 2-3, puis obtenir une victoire de rang S contre les deux bosses."
+    },
+    "817": {
+        "code": "B70",
+        "name": "Flotte Shinpen, rendez-vous à la ligne de défense des îles Nansei.",
+        "desc": "Déployer une flotte avec un CL/CLT/CT comme navire amiral, 4 DD et éventuellement un autre navire, puis obtenir une victoire de rang A ou mieux contre le boss du monde 1-4.",
+        "unlock": [ 818 ]
+    },
+    "818": {
+        "code": "B71",
+        "name": "Assurer la sécurité des routes maritimes aux abords de la base navale.",
+        "desc": "Déployer une flotte avec un CL comme navire amiral, 4 DD et éventuellement un autre navire dans le monde 1-6 et terminer la carte."
+    },
+    "819": {
+        "code": "B72",
+        "name": "« 31e escadre de croiseurs », éliminez les sous-marins ennemis.",
+        "desc": "Déployer une flotte avec Isuzu Kai Ni comme navire amiral, Satsuki Kai Ni, Uzuki Kai et 3 autres navires dans le monde 1-6 et terminer la carte deux fois."
+    },
+    "820": {
+        "code": "B73",
+        "name": "Sortie de la nouvelle 8e escadre de destroyers.",
+        "desc": "Déployer une flotte avec Asashio Kai Ni (ou Kai Ni D) comme navire amiral, Michishio, Ooshio, Arashio et 2 autres navires dans le monde 1-6 et terminer la carte."
+    },
+    "821": {
+        "code": "B74",
+        "name": "Patrouille anti-sous-marine de la 8e escadre de destroyers.",
+        "desc": "Déployer une flotte composée de Asashio Kai Ni D et Ooshio Kai Ni, puis obtenir 2 victoires de rang S contre le boss du monde 1-5."
+    },
+    "822": {
+        "code": "Bq1",
+        "name": "Jeu d'interception dans les eaux d'Okinoshima.",
+        "desc": "Obtenir 2 victoires de rang S contre le boss du monde 2-4 au cours du trimestre."
+    },
+    "823": {
+        "code": "B75",
+        "name": "Escadron de torpilleurs, rejoignez encore une fois la ligne de défense îles Nansei.",
+        "desc": "Déployer une flotte avec un CL/CLT/CT comme navire amiral, 4 DD et un autre navire, puis obtenir 2 victoires de rang S contre le boss du monde 1-4."
+    },
+    "824": {
+        "code": "B76",
+        "name": "Patrouiller la côte au large de la raffinerie.",
+        "desc": "Déployer une flotte avec un CVL comme navire amiral, 3 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 1-3."
+    },
+	
+	
        
        
        
    "201": {
-        "code": "Bd1",
-        "name": "Sortie Journalière 1",
-        "desc": "Gagne contre une flotte Abyssale.",
+		"code": "Bd1",
+		"name": "Vaincre une flotte.",
+		"desc": "Vaincre une flotte ennemie.",
 		"unlock": [ 216, 211, 212 ],
 		"tracking": [ [0,1] ]
     },
 	"216": {
-			"code": "Bd2",
-			"name": "Sortie Journalière 2",
-			"desc": "Coule Le Navire Amiral d'une flotte Abyssale.",
-			"unlock": [ 210, 218, 214, 213 ],
-			"tracking": [ [0,1] ]
+		"code": "Bd2",
+		"name": "Couler un navire amiral.",
+		"desc": "Couler le navire amiral d'une flotte ennemie.",
+		"unlock": [ 210, 218, 214, 213 ],
+		"tracking": [ [0,1] ]
 	},
 	"210": {
-			"code": "Bd3",
-			"name": "Sortie Journalière 3",
-			"desc": "Gagne contre 10 flottes Abyssales (Rang B ou plus)",
-			"tracking": [ [0,10] ]
+		"code": "Bd3",
+		"name": "Vaincre 10 flottes.",
+		"desc": "Obtenir 10 victoires de rang B ou mieux dans la journée.",
+		"tracking": [ [0,10] ]
 	},
 	"211": {
-			"code": "Bd4",
-			"name": "Sortie Journalière 4",
-			"desc": "Coule 3 CV(L)s Abyssales.",
-			"tracking": [ [0,3] ]
+		"code": "Bd4",
+		"name": "Couler 3 CV(L).",
+		"desc": "Couler 3 CV(L) ennemis dans la journée.",
+		"tracking": [ [0,3] ]
 	},
 	"218": {
-			"code": "Bd5",
-			"name": "Sortie Journalière 5",
-			"desc": "Coule 3 Tranport Abyssales.",
-			"unlock": [ 226, 220 ],
-			"tracking": [ [0,3] ]
+		"code": "Bd5",
+		"name": "Couler 3 transports.",
+		"desc": "Couler 3 navires de transports ennemis dans la journée.",
+		"unlock": [ 226, 220 ],
+		"tracking": [ [0,3] ]
 	},
 	"212": {
-			"code": "Bd6",
-			"name": "Sortie Journalière 6",
-			"desc": "Coule 5 Transport Abyssales.",
-			"tracking": [ [0,5] ]
+		"code": "Bd6",
+		"name": "Couler 5 transports.",
+		"desc": "Couler 5 navires de transports ennemis dans la journée.",
+		"tracking": [ [0,5] ]
 	},
 	"226": {
-			"code": "Bd7",
-			"name": "Sortie Journalière 7",
-			"desc": "Gagne contre 5 Boss au Monde 2.",
-			"unlock": [ 230 ],
-			"tracking": [ [0,5] ]
+		"code": "Bd7",
+		"name": "Vaincre 5 bosses (W2).",
+		"desc": "Vaincre 5 bosses du monde 2 dans la journée.",
+		"unlock": [ 230 ],
+		"tracking": [ [0,5] ]
 	},
 	"230": {
 		"code": "Bd8",
-		"name": "Sortie Journalière 8",
-		"desc": "Coule 6 SS Abyssales.",
+		"name": "Couler 6 SS.",
+		"desc": "Couler 6 SS ennemis dans la journée.",
 		"tracking": [ [0,6] ]
 	},
        
@@ -486,115 +758,115 @@
        
        
        
-        "214": {
-                "code": "Bw1",
-                "name": "Sortie Hebdomadaire 1",
-                "desc": "Déployez votre flotte 36 fois, affrontez 24 Boss, éliminez 12 Boss et obtenez 6 rangs S.",
-                "unlock": [ 221 ],
-                "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
+	"214": {
+        "code": "Bw1",
+        "name": "Déploiement hebdomadaire.",
+        "desc": "Déployer la flotte 36 fois, affronter 24 bosses, couler 12 bosses et obtenir 6 victoires de rang S au cours de la semaine.",
+        "unlock": [ 221 ],
+        "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
+	},
+	"220": {
+        "code": "Bw2",
+        "name": "Couler 20 CVL.",
+        "desc": "Couler 20 CVL ennemis au cours de la semaine.",
+		"unlock": [ 228 ],
+		"tracking": [ [0,20] ]
+    },
+	"213": {
+		"code": "Bw3",
+		"name": "Couler 20 transports.",
+		"desc": "Couler 20 navires de transport ennemis au cours de la semaine.",
+		"tracking": [ [0,20] ]
         },
-        "220": {
-                "code": "Bw2",
-        "name": "Sortie Hebdomadaire 2",
-        "desc": "Coulez 20 CVL ennemis.",
-                "unlock": [ 228 ],
-                "tracking": [ [0,20] ]
+	"221": {
+		"code": "Bw4",
+        "name": "Couler 50 transports.",
+        "desc": "Couler 50 navires de transport ennemis au cours de la semaine.",
+		"unlock": [ 261, 257, 264 ],
+		"tracking": [ [0,50] ]
     },
-        "213": {
-                "code": "Bw3",
-                "name": "Sortie Hebdomadaire 3",
-                "desc": "Coulez 20 Navires de transport ennemis.",
-                "tracking": [ [0,20] ]
-        },
-        "221": {
-                "code": "Bw4",
-        "name": "Sortie Hebdomadaire 4",
-        "desc": "Coulez 50 Navires de transport ennemis.",
-                "unlock": [ 261, 257, 264 ],
-                "tracking": [ [0,50] ]
+	"228": {
+		"code": "Bw5",
+        "name": "Couler 15 SS.",
+        "desc": "Couler 15 SS ennemis au cours de la semaine.",
+		"unlock": [ 229, 241, 613 ],
+		"tracking": [ [0,15] ]
     },
-        "228": {
-                "code": "Bw5",
-        "name": "Sortie Hebdomadaire 5",
-        "desc": "Coulez 15 SS ennemis.",
-                "unlock": [ 229, 241, 613 ],
-                "tracking": [ [0,15] ]
+	"229": {
+		"code": "Bw6",
+        "name": "Vaincre 12 bosses (monde 4)",
+        "desc": "Vaincre 12 bosses au monde 4 au cours de la semaine.",
+		"unlock": [ 242 ],
+		"tracking": [ [0,12] ]
     },
-        "229": {
-                "code": "Bw6",
-        "name": "Sortie Hebdomadaire 6",
-        "desc": "Vaincre 12 Boss au monde 4.",
-                "unlock": [ 242 ],
-                "tracking": [ [0,12] ]
-    },
-        "241": {
-                "code": "Bw7",
-        "name": "Sortie Hebdomadaire 7",
-        "desc": "Vaincre 5 Boss aux mondes 3-3, 3-4 et 3-5.",
-                "tracking": [ [0,5] ]
+	"241": {
+		"code": "Bw7",
+        "name": "Vaincre 5 bosses (3-3, 3-4, 3-5)",
+        "desc": "Vaincre 5 bosses aux mondes 3-3, 3-4 ou 3-5 au cours de la semaine.",
+		"tracking": [ [0,5] ]
     },
     "242": {
-                "code": "Bw8",
-        "name": "Sortie Hebdomadaire 8",
-        "desc": "Vaincre une fois le Boss du monde 4-4.",
-                "unlock": [ 243 ],
-                "tracking": [ [0,1] ]
+		"code": "Bw8",
+        "name": "Vaincre le boss (4-4)",
+        "desc": "Vaincre le boss du monde 4-4.",
+		"unlock": [ 243 ],
+		"tracking": [ [0,1] ]
     },
     "243": {
-                "code": "Bw9",
-        "name": "Sortie Hebdomadaire 9",
-        "desc": "Obtenir 2 rangs S face au Boss du monde 5-2.",
-                "tracking": [ [0,2] ]
+		"code": "Bw9",
+        "name": "Vaincre le boss (5-2).",
+        "desc": "Obtenir 2 victoires de rang S contre le boss du monde 5-2 au cours de la semaine.",
+		"tracking": [ [0,2] ]
     },
-        "261": {
-                "code": "Bw10",
-        "name": "Sortie Hebdomadaire 10",
-        "desc": "Obtenez au moins 3 rangs A face au Boss du monde 1-5.",
-                "tracking": [ [0,3] ]
+	"261": {
+		"code": "Bw10",
+        "name": "Vaincre le boss (1-5).",
+        "desc": "Obtenir 3 victoires de rang A ou mieux contre le boss du monde 1-5 au cours de la semaine.",
+		"tracking": [ [0,3] ]
     },
        
        
        
        
        
-        "249": {
-                "code": "Bm1",
-        "name": "Déployez le 5ème Escadron!",
-        "desc": "Déployez Myoukou, Nachi, Haguro plus 3 autres navires en 2-5 et obtenez un rang S face au Boss.",
-                "unlock": [ 265 ]
+	"249": {
+		"code": "Bm1",
+        "name": "Déployer la 5e escadre.",
+        "desc": "Déployer Myoukou, Nachi, Haguro et 3 autres navires et obtenir une victoire de rang S contre le boss du monde 2-5.",
+		"unlock": [ 265 ]
     },
-        "256": {
-                "code": "Bm2",
-        "name": "Déployez une flotte Sous-marine au monde 6-1!",
-        "desc": "Obtenez 3 rangs S face au Boss du monde 6-1.",
-                "tracking": [ [0,3] ]
+	"256": {
+		"code": "Bm2",
+        "name": "Vaincre le boss (6-1).",
+        "desc": "Obtenir 3 victoires de rang S contre le boss du monde 6-1 au cours du mois.",
+		"tracking": [ [0,3] ]
     },
-        "257": {
-                "code": "Bm3",
-        "name": "Déployez un Escadron de Torpilleurs!",
-        "desc": "Déployez une flotte incluant 1-3 CL, (Un d'entre eux doit être Navire amiral) 3-5 DD et obtenez un rang S face au Boss du monde 1-4."
+	"257": {
+		"code": "Bm3",
+        "name": "Déployer une escadre de torpilleurs.",
+        "desc": "Déployer une flotte composée de 1-3 CL, (l'un d'entre eux étant navire amiral) 3-5 DD, puis obtenir une victoire de rang S contre le boss du monde 1-4."
     },
-        "259": {
-                "code": "Bm4",
-        "name": "Déployez un Escadron de Cuirassés!",
-        "desc": "Déployez 3 Cuirassés à vitesse Lente (BBV inclus), 1 CL plus 3 autres Navires au monde 5-1"
+	"259": {
+		"code": "Bm4",
+        "name": "Déployer une escadre de cuirassés.",
+        "desc": "Déployer 3 BB de vitesse lente (BBV inclus), 1 CL et 3 autres navires dans le monde 5-1"
     },
-        "265": {
-                "code": "Bm5",
-        "name": "Renforcement mensuel de l'Escorte Marine",
-        "desc": "Obtenez un total d'au moins 10 rangs A face au Boss du monde 1-5.",
-                "tracking": [ [0,10] ]
+	"265": {
+		"code": "Bm5",
+        "name": "Vaincre le boss (1-5).",
+        "desc": "Obtenir 10 victoires de rang A ou mieux contre le boss du monde 1-5 au cours du mois.",
+		"tracking": [ [0,10] ]
     },
-        "264": {
-                "code": "Bm6",
-        "name": "Déployez une Force Opérationnelle de Porte-avions vers l'Ouest!",
-        "desc": "Déployez une flotte incluant 2 CV, 2 DD plus 2 autres Navires au monde 4-2. Obtenez un rang S face au Boss.",
-                "unlock": [ 266 ]
+	"264": {
+		"code": "Bm6",
+        "name": "Déployer une force opérationnelle de porte-avions vers l'ouest.",
+        "desc": "Déployer une flotte composée de 2 CV, 2 DD et 2 autres navires, puis obtenir une victoire de rang S contre le boss du monde 4-2.",
+		"unlock": [ 266 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Déployez un Escadron de Contre-attaque de Surface!",
-        "desc": "Déployez 4 DD (Un d'entre eux doit être Navire amiral), 1 CA (CAV non inclus) et 1 CL au monde 2-5. Obtenez un rang S face au Boss."
+        "name": "Déployer une escadre de contre-attaque de surface.",
+        "desc": "Déployer 4 DD (l'un d'entre eux étant navire amiral), 1 CA (CAV non inclus) et 1 CL, puis obtenir une victoire de rang S contre le boss du monde 2-5."
     },
        
        
@@ -602,144 +874,169 @@
        
        
     "301": {
-                "code": "C1",
-        "name": "Premier Exercice!",
-        "desc": "Combattre une flotte d'un autre joueur en mode PvP."
+		"code": "C1",
+        "name": "Premier exercice.",
+        "desc": "Combattre la flotte d'un autre joueur en PvP."
     },
-         "303": {
-                "code": "C2",
-        "name": "Exercices Journaliers 1",
-        "desc": "Combattre 3 flottes d'autres joueurs en mode PvP.",
-                "unlock": [ 304, 302 ],
-                "tracking": [ [0,3] ]
+	"303": {
+		"code": "C2",
+        "name": "Combattre 3 flottes en PvP.",
+        "desc": "Combattre 3 flottes d'autres joueurs en PvP.",
+		"unlock": [ 304, 302 ],
+		"tracking": [ [0,3] ]
     },
-        "304": {
-                "code": "C3",
-        "name": "Exercices Journaliers 2",
-        "desc": "Obtenir 5 victoires en mode PvP dans la même journée.",
-                "tracking": [ [0,5] ]
+	"304": {
+		"code": "C3",
+        "name": "5 victoires en PvP.",
+        "desc": "Obtenir 5 victoires en PvP dans la journée.",
+		"tracking": [ [0,5] ]
     },
     "302": {
-                "code": "C4",
-        "name": "Exercices Hebdomadaires",
-        "desc": "Obtenir 20 victoires en mode PvP.",
-                "tracking": [ [0,20] ]
+		"code": "C4",
+        "name": "20 victoires en PvP.",
+        "desc": "Obtenir 20 victoires en PvP au cours de la semaine.",
+		"tracking": [ [0,20] ]
+    },
+    "306": {
+        "code": "WC01",
+        "name": "Préparation de la cérémonie (2e partie)",
+        "desc": "Montrer votre amour en obtenant deux victoires en PvP.",
+        "unlock": [ 134 ]
     },
     "307": {
-                "code": "C5",
-        "name": "Améliorer l'Efficacité de la Flotte",
-        "desc": "Obtenir 3 victoires en mode PvP dans la même journée."
+		"code": "C5",
+        "name": "Améliorer l'efficacité de la flotte.",
+        "desc": "Obtenir 3 victoires en PvP dans la même journée."
     },
     "308": {
-                "code": "C6",
-        "name": "Améliorer l'Efficacité de la flotte encore une fois!",
-        "desc": "Obtenir 4 victoires en mode PvP dans la même journée."
+		"code": "C6",
+        "name": "Améliorer l'efficacité de la flotte encore une fois.",
+        "desc": "Obtenir 4 victoires en PvP dans la même journée."
     },
-        "309": {
-                "code": "C7",
-        "name": "Lutte pour augmenter le Niveau d'Entraînement de la Flotte en vue d'un autre Raid vers la Mer du Nord",
-        "desc": "Obtenir 4 Victoires en mode PvP dans la même journée."
+	"309": {
+		"code": "C7",
+        "name": "Lutter pour augmenter le niveau d'entraînement de la flotte en vue d'un autre raid vers les mers du nord.",
+        "desc": "Obtenir 4 victoires en PvP dans la même journée."
     },
-       
+    "311": {
+        "code": "C8",
+        "name": "7 victoires en PvP.",
+        "desc": "Obtenir 7 victoires en PvP dans la même journée.",
+        "tracking": [ [0,7] ]
+    },
+    "312": {
+        "code": "C9",
+        "name": "4 victoires en PvP.",
+        "desc": "Obtenir 4 victoires en PvP dans la même journée.",
+        "tracking": [ [0,4] ],
+        "unlock": [ 636 ]
+    },
+           
        
        
        
     "401": {
-                "code": "D1",
-        "name": "La Première Expédition",
+		"code": "D1",
+        "name": "Première expédition.",
         "desc": "Effectuer une expédition."
     },
     "402": {
-                "code": "D2",
-        "name": "Expéditions Journalières 1",
+		"code": "D2",
+        "name": "Réussir 3 expéditions.",
         "desc": "Réussir 3 expéditions dans la même journée.",
-                "unlock": [ 403 ],
-                "tracking": [ [0,3] ]
+		"unlock": [ 403 ],
+		"tracking": [ [0,3] ]
     },
     "403": {
-                "code": "D3",
-        "name": "Expéditions Journalières 2",
-        "desc": "Réussir 10 expéditions dans la même journée.",
-                "tracking": [ [0,10] ]
+		"code": "D3",
+        "name": "Réussir 10 expéditions.",
+        "desc": "Réussir 10 expéditions dans la journée.",
+		"tracking": [ [0,10] ]
     },
     "404": {
-                "code": "D4",
-        "name": "Expéditions Hebdomadaires 1",
-        "desc": "Réussir 30 expéditions dans la même semaine.",
-                "tracking": [ [0,30] ]
+		"code": "D4",
+        "name": "Réussir 30 expéditions.",
+        "desc": "Réussir 30 expéditions au cours de la semaine.",
+		"tracking": [ [0,30] ]
     },
     "405": {
-                "code": "D5",
-        "name": "La Première Expédition Sous-marine",
-        "desc": "Compléter l'expédition 30."
+		"code": "D5",
+        "name": "Première expédition sous-marine.",
+        "desc": "Effectuer l'expédition 30."
     },
     "406": {
-                "code": "D6",
-        "name": "La Seconde Expédition Sous-marine",
-        "desc": "Compléter l'expédition 30 une seconde fois."
+		"code": "D6",
+        "name": "Seconde expédition sous-marine.",
+        "desc": "Effectuer l'expédition 30 une seconde fois."
     },
     "408": {
-                "code": "D7",
-        "name": "Suite des Expéditions Sous-marines",
-        "desc": "Compléter l'expédition 30 deux fois de plus."
+		"code": "D7",
+        "name": "Poursuite des expéditions sous-marines.",
+        "desc": "Effectuer l'expédition 30 deux fois de plus."
     },
     "409": {
-                "code": "D8",
-        "name": "Réunion Stratégique Sous-marine en Outre-mer",
-        "desc": "Compléter l'expédition 31."
+		"code": "D8",
+        "name": "Contact d'un navire étranger avec une expédition sous-marine.",
+        "desc": "Effectuer l'expédition 31."
     },
     "410": {
-                "code": "D9",
-        "name": "Expéditions Hebdomadaires 2",
-        "desc": "Réussir les expéditions 37 ou 38.",
-                "unlock": [ 411 ],
-                "tracking": [ [0,1] ]
+		"code": "D9",
+        "name": "Expédition 37 ou 38.",
+        "desc": "Réussir l'expédition 37 ou 38 au cours de la semaine.",
+		"unlock": [ 411 ],
+		"tracking": [ [0,1] ]
     },
-        "412": {
-                "code": "D10",
-        "name": "Renforcer l'Opération des BBV",
-        "desc": "Compléter l'expédition 23."
+	"412": {
+		"code": "D10",
+        "name": "Renforcer la puissance de feu des BBV.",
+        "desc": "Effectuer l'expédition 23."
     },
     "411": {
-                "code": "D11",
-        "name": "Expéditions Hebdomadaires 3",
-        "desc": "Réussir les expéditions 37 ou 38 au moins 7 fois.",
-                "tracking": [ [0,6] ]
+		"code": "D11",
+        "name": "Expéditions 37 ou 38.",
+        "desc": "Réussir les expéditions 37 ou 38 sept fois.",
+		"tracking": [ [0,6] ]
     },
     "413": {
         "code": "D12",
-        "name": "Renforcer l'Opération des BBV (Bis)",
-        "desc": "Compléter l'expédition 23 4 fois de plus."
+        "name": "Renforcer la puissance de feu des BBV (bis).",
+        "desc": "Effectuer l'expédition 23 quatre fois de plus."
     },
     "414": {
         "code": "D13",
-        "name": "Opération Sous-marine des Eaux Profondes",
-        "desc": "Compléter l'expédition 39."
+        "name": "Opération sous-marine en eaux profondes.",
+        "desc": "Effectuer l'expédition 39."
     },
     "415": {
-                "code": "D14",
-        "name": "Opération Sous-Marine des Eaux Profondes (Prolongement)",
-        "desc": "Compléter l'expédition 39 deux fois de plus."
+		"code": "D14",
+        "name": "Opération sous-marine en eaux profondes (bis).",
+        "desc": "Effectuer l'expédition 39 deux fois de plus."
     },
     "416": {
-                "code": "D15",
-        "name": "Exercices de Défense Aérienne",
-        "desc": "Compléter l'expédition 6 trois fois."
+		"code": "D15",
+        "name": "Exercices de défense aérienne.",
+        "desc": "Effectuer l'expédition 6 trois fois."
     },
     "417": {
-                "code": "D16",
-        "name": "Effectuer l'Opération de Support des Leurres",
-        "desc": "Compléter l'expédition 15."
+		"code": "D16",
+        "name": "Mener à bien le soutien du groupe spécial de leurre.",
+        "desc": "Effectuer l'expédition 15."
     },
     "418": {
-                "code": "D17",
-        "name": "Effectuer les Répétitions d'Examen naval ",
-        "desc": "Compléter 2 fois l'expédition 7."
+		"code": "D17",
+        "name": "Mise en œuvre des répétitions de la revue navale.",
+        "desc": "Effectuer l'expédition 7 deux fois."
     },
     "419": {
-                "code": "D18",
-        "name": "Exécuter l'exercice Naval",
-        "desc": "Compléter l'expédition 8."
+		"code": "D18",
+        "name": "Exécution de la revue navale.",
+        "desc": "Effectuer l'expédition 8."
+    },	
+    "420": {
+        "code": "D19",
+        "name": "Renforcer l'utilisation du groupe spécial.",
+        "desc": "Effectuer les expéditions 35 et 26",
+        "unlock": [ 624 ]
     },
        
        
@@ -747,173 +1044,270 @@
        
        
     "501": {
-                "code": "E1",
-        "name": "Premier Ravitaillement",
-        "desc": "Ravitailler un Navire."
+		"code": "E1",
+        "name": "Premier ravitaillement.",
+        "desc": "Ravitailler un navire."
     },
     "502": {
-                "code": "E2",
-        "name": "Première Réparation",
-        "desc": "Réparer un Navire."
+		"code": "E2",
+        "name": "Première réparation.",
+        "desc": "Réparer un navire."
     },
     "503": {
-                "code": "E3",
-        "name": "Réparations Journalières",
-        "desc": "Réparer 5 Navires",
-                "unlock": [ 504 ],
-                "tracking": [ [0,5] ]
+		"code": "E3",
+        "name": "Réparer 5 navires.",
+        "desc": "Réparer 5 navires.",
+		"unlock": [ 504 ],
+		"tracking": [ [0,5] ]
     },
     "504": {
-                "code": "E4",
-        "name": "Ravitaillement Journalier",
-        "desc": "Ravitaillez 15 fois vos Navires.",
-                "tracking": [ [0,15] ]
+		"code": "E4",
+        "name": "Ravitailler 15 fois.",
+        "desc": "Ravitailler 15 fois les navires.",
+		"tracking": [ [0,15] ]
     },
        
        
        
        
-       
-        "605": {
-                "code": "F1",
-        "name": "Développement Journalier 1",
-        "desc": "Créer une pièce d'équipement. (Échecs autorisés)",
-                "unlock": [ 606 ],
-                "tracking": [ [0,1] ]
-    },
-        "606": {
-                "code": "F2",
-        "name": "Construction Journalière 1",
-        "desc": "Construire un Navire.",
-                "unlock": [ 607 ],
-                "tracking": [ [0,1] ]
-    },
-        "607": {
-                "code": "F3",
-        "name": "Développement Journalier 2",
-        "desc": "Créer 3 pièces d'équipement. (Échecs autorisés)",
-                "unlock": [ 608 ],
-                "tracking": [ [0,3] ]
-    },
-         "608": {
-                "code": "F4",
-        "name": "Construction Journalière 2",
-        "desc": "Construire 3 navires.",
-                "unlock": [ 609, 619 ],
-                "tracking": [ [0,3] ]
-    },
-         "609": {
-                "code": "F5",
-        "name": "Démontage Journalier",
-        "desc": "Démonter 2 Navires.",
-                "tracking": [ [0,2] ]
-    },
+
     "601": {
-                "code": "F6",
-        "name": "Première Construction",
-        "desc": "Construire un Navire."
+		"code": "F1",
+        "name": "Première construction.",
+        "desc": "Construire un navire."
     },
     "602": {
-                "code": "F7",
-        "name": "Premier Développement",
-        "desc": "Créer une pièce d'équipement."
+		"code": "F2",
+        "name": "Premier développement.",
+        "desc": "Construire une pièce d'équipement."
     },
     "603": {
-                "code": "F8",
-        "name": "Premier Démontage",
-        "desc": "Démonter un Navire."
+		"code": "F3",
+        "name": "Premier démantèlement de navire.",
+        "desc": "Mettre un navire à la casse."
     },
     "604": {
-                "code": "F9",
-        "name": "Première Démolition",
-        "desc": "Détruire une pièce d'équipement"
+		"code": "F4",
+        "name": "Première destruction d'équipement.",
+        "desc": "Démolir une pièce d'équipement"
+    },       
+	"605": {
+		"code": "F5",
+        "name": "Construire un équipement.",
+        "desc": "Construire une pièce d'équipement (échecs autorisés).",
+		"unlock": [ 606 ],
+		"tracking": [ [0,1] ]
+    },
+	"606": {
+		"code": "F6",
+        "name": "Construire un navire.",
+        "desc": "Construire un navire.",
+		"unlock": [ 607 ],
+		"tracking": [ [0,1] ]
+    },
+	"607": {
+		"code": "F7",
+        "name": "Construire 3 équipements.",
+        "desc": "Construire 3 pièces d'équipement (échecs autorisés).",
+		"unlock": [ 608 ],
+		"tracking": [ [0,3] ]
+    },
+	"608": {
+		"code": "F8",
+        "name": "Construire 3 navires.",
+        "desc": "Construire 3 navires.",
+		"unlock": [ 609, 619 ],
+		"tracking": [ [0,3] ]
+    },
+	"609": {
+		"code": "F9",
+        "name": "Démanteler 2 navires.",
+        "desc": "Envoyer 2 navires à la casse.",
+		"tracking": [ [0,2] ]
     },
     "610": {
-                "code": "F10",
-        "name": "Prepérations au LSC",
-        "desc": "Détruire 4 fois de l'équipement"
+		"code": "F10",
+        "name": "Préparation au LSC.",
+        "desc": "Démolir 4 pièces d'équipement."
     },
-        "612": {
-                "code": "F11",
-        "name": "Préparation des Tonneaux de Transport",
-        "desc": "Détruire 3 fois de l'équipement."
+    "611": {
+        "code": "WF01",
+        "name": "Préparation de la cérémonie (1re partie)",
+        "desc": "Démolir 2 pièces d'équipement pour montrer votre amour.",
+        "unlock": [ 306 ]
     },
-         "613": {
-                "code": "F12",
-        "name": "Démolition Hebdo.",
-        "desc": "Détruire 24 fois de l'équipement",
-                "tracking": [ [0,24] ]
+	"612": {
+		"code": "F11",
+        "name": "Préparation des barils de transport.",
+        "desc": "Démolir 3 pièces d'équipement."
     },
-         "614": {
-                "code": "F13",
-        "name": "Conversion de Modèle (Tenzan)",
-        "desc": "Avoir un Navire amiral équipé d'un Bombardier-Torpilleur Modèle 97 (Escadron Tomonaga), puis détruire 2 Tenzan."
+	"613": {
+		"code": "F12",
+        "name": "Destruction hebdomadaire.",
+        "desc": "Démolir 24 pièces d'équipement.",
+		"tracking": [ [0,24] ]
     },
-        "615": {
-                "code": "F14",
-        "name": "Conversion de Modèle (Suisei)",
-        "desc": "Avoir un Navire amiral équipé d'un Bombardier Modèle 99 (Escadron Egusa), puis détruire 2 Suisei."
+	"614": {
+		"code": "F13",
+        "name": "Conversion de modèle (Tenzan).",
+        "desc": "Avoir un navire amiral équipé d'un bombardier-torpilleur modèle 97 (escadre Tomonaga), puis démolir 2 Tenzan."
+    },
+	"615": {
+		"code": "F14",
+        "name": "Conversion de modèle (Suisei).",
+        "desc": "Avoir un navire amiral équipé d'un bombardier modèle 99 (escadre Egusa), puis démolir 2 Suisei."
     },
     "616": {
-                "code": "F15",
-        "name": "Conversion de Modèle (Reppuu)",
-        "desc": "Avoir un Navire amiral équipé d'un Chasseur Type Zero Modèle 52-C (Groupe Aérien 601), puis détruire 2 Reppuu."
+		"code": "F15",
+        "name": "Conversion de modèle (Reppuu).",
+        "desc": "Avoir un navire amiral équipé d'un chasseur type 0 modèle 52-C (groupe aérien 601), puis démolir 2 Reppuu."
     },
-        "617": {
-                "code": "F16",
-        "name": "Préparations pour Irako",
-        "desc": "Détruire 10 fois de l'équipement."
+	"617": {
+		"code": "F16",
+        "name": "Préparations pour Irako.",
+        "desc": "Démolir 10 pièces d'équipement."
     },
-        "618": {
-                "code": "F17",
-        "name": "Première Amélioration d'Équipement",
-        "desc": "Effectuer une fois une modernisation d'équipement"
+	"618": {
+		"code": "F17",
+        "name": "Première modernisation d'équipement.",
+        "desc": "Effectuer une modernisation d'équipement"
     },
     "619": {
-                "code": "F18",
-        "name": "Modernisation d'Équipement Journalière",
-        "desc": "Effectuer une fois une modernisation d'équipement.",
-                "tracking": [ [0,1] ]
+		"code": "F18",
+        "name": "Moderniser un équipement.",
+        "desc": "Effectuer une modernisation d'équipement.",
+		"tracking": [ [0,1] ]
     },
-       
-       
+    "622": {
+        "code": "F19",
+        "name": "Transformation de modèle.",
+        "desc": "Établir Shoukaku comme navire amiral et l'équiper avec un bombardier-torpilleur de type 97(escadre Murata), puis démolir 2 Tenzan (Heavenly Mountain)."
+    },
+    "623": {
+        "code": "F20",
+        "name": "Organiser la force de bombardiers de type 97 d'élite.",
+        "desc": "Établir Shoukaku ou Akagi comme navire amiral, puis démolir 3 bombardiers-torpilleurs de type 97."
+    },
+    "624": {
+        "code": "F21",
+        "name": "Préparation du prototype d'équipement.",
+        "desc": "Démolir 7 pièces d'équipement."
+    },
+    "625": {
+        "code": "F23",
+        "name": "Ajouts au prototype d'équipement.",
+        "desc": "Démolir 9 pièces d'équipement.",
+        "unlock": [ 627, 630 ]
+    },
+    "626": {
+        "code": "F22",
+        "name": "Réorganisation de l'escadron de chasse d'élite.",
+        "desc": "Avoir un membre d'équipage qualifié dans la page d'objets, puis établir Houshou comme navire amiral et l'équiper d'un chasseur type 0 modèle 21 de rang 7, démolir ensuite 2 chasseurs type 0 modèle 21 et 1 chasseur type 96. Consomme le membre d'équipage qualifié.",
+        "unlock": [ 632 ]
+    },
+    "627": {
+        "code": "F24",
+        "name": "Transformation de modèle.",
+        "desc": "Établir un porte-avions comme navire amiral et l'équiper d'un chasseur type 0 modèle 21 (qualifié), puis démolir 2 chasseurs type 0 modèle 52.",
+        "unlock": [ 628, 629 ]
+    },
+    "628": {
+        "code": "F25",
+        "name": "Transformation de modèle.",
+        "desc": "Établir un porte-avions comme navire amiral et l'équiper d'un chasseur type 0 modèle 21 (qualifié) de rang 7, puis démolir 2 chasseurs type 0 modèle 52."
+    },
+    "629": {
+        "code": "F26",
+        "name": "Réorganisation de la force de chasse.",
+        "desc": "Établir Zuikaku comme navire amiral et l'équiper d'un chasseur type 0 modèle 52 (qualifié) de rang 7, puis démolir un chasseur Zéro modèle 52C (groupe aérien 601).",
+        "unlock": [ 631 ]
+    },
+    "630": {
+        "code": "F28",
+        "name": "Réorganisation de la force de chasse.",
+        "desc": "Établir Zuikaku comme navire amiral et l'équiper d'un chasseur type 0 modèle 21 (qualifié) de rang 7, puis démolir 2 chasseurs type 0 modèle 21.",
+        "unlock": [ 632 ]
+    },
+    "631": {
+        "code": "F27",
+        "name": "Conversion et réorganisation de modèle (type 0 modèle 52C avec peloton Iwai).",
+        "desc": "Établir Zuikaku comme navire amiral et l'équiper d'un chasseur type 0 modèle 52C (avec peloton Iwai) de rang 7, puis démolir 2 chasseurs type 0 modèle 62 (chasseur-bombardier)"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Conversion de modèle (Zéro modèle 21 avec peloton Iwamoto).",
+        "desc": "Établir Zuikaku comme navire amiral et l'équiper d'un chasseur Zéro modèle 21 (avec peloton Iwamoto) de rang 7, puis démolir 2 chasseurs type 0 modèle 52.",
+        "unlock": [ 167 ]
+    },
+    "633": {
+        "code": "F30",
+        "name": "Conversion de modèle (Zéro modèle 52A avec peloton Iwamoto)",
+        "desc": "Établir Zuikaku comme navire amiral et l'équiper d'un chasseur Zéro modèle 52A (avec peloton Iwamoto) de rang 7, puis démolir 2 Saiun."
+    },
+    "634": {
+        "code": "F31",
+        "name": "Préparation de nouveaux meubles.",
+        "desc": "Démolir 9 pièces d'équipement.",
+        "unlock": [ 811 ]
+    },
+    "635": {
+        "code": "F32",
+        "name": "Préparation d'un nouvel équipement.",
+        "desc": "Démolir 5 pièces d'équipement.",
+        "tracking": [ [0,5] ],
+        "unlock": [ 312 ]
+    },
+    "636": {
+        "code": "F33",
+        "name": "Nouveaux équipements pour le débarquement.",
+        "desc": "Démolir 2 mitrailleuses de 7,7 mm et 2 mitrailleuses de 12,7 mm.",
+        "unlock": [ 815 ]
+    },
+    "638": {
+        "code": "F34",
+        "name": "Production de masse de mitrailleuses antiaériennes",
+        "desc": "Démolir 6 mitrailleuses antiaériennes au cours de la semaine.",
+        "tracking": [ [0,6] ]
+    },
+    "637": {
+        "code": "F35",
+        "name": "Formation d'équipages qualifiés.",
+        "desc": "Établir Houshou comme navire amiral et l'équiper d'un chasseur type 96 (rang 7 et \u2605 max). Consomme 2 médailles et le chasseur."
+	},
+	"639": {
+        "code": "F36",
+        "name": "Développement des nouvelles torpilles.",
+        "desc": "Établir Shimakaze comme navire amiral et l'équiper de quintuples torpilles à oxygène de 61 cm (\u2605 max) et triples torpilles à oxygène de 61 cm (\u2605 max). Consomme 2 médailles et les torpilles."
+    },
+    "640": {
+        "code": "SF",
+        "name": "Nettoyage estival (durée limitée).",
+        "desc": "Démolir 5 pièces d'équipement."
+    },
    
        
        
     "701": {
-                "code": "G1",
-        "name": "Première Modernisation",
-        "desc": "Réussir une modernisation."
+		"code": "G1",
+        "name": "Première modernisation.",
+        "desc": "Réussir une modernisation de navire."
     },
     "702": {
-                "code": "G2",
-        "name": "Modernisation Journalière",
-        "desc": "Réussir 2 modernisations le même jour.",
-                "unlock": [ 703 ],
-                "tracking": [ [0,2] ]
+		"code": "G2",
+        "name": "Modernisation journalière.",
+        "desc": "Réussir 2 modernisations de navire le même jour.",
+		"unlock": [ 703 ],
+		"tracking": [ [0,2] ]
     },
     "703": {
-                "code": "G3",
-        "name": "Modernisation Hebdomadaire",
-        "desc": "Réussir 15 modernisations la même semaine.",
-                "tracking": [ [0,15] ]
+		"code": "G3",
+        "name": "Modernisation hebdomadaire.",
+        "desc": "Réussir 15 modernisations de navire au cours de la semaine.",
+		"tracking": [ [0,15] ]
     },
     "704": {
-                "code": "G4",
-        "name": "Préparations au LSC",
-        "desc": "Réussir 4 modernisations."
+		"code": "G4",
+        "name": "Préparations au LSC.",
+        "desc": "Réussir 4 modernisations de navire."
     },
-       
-       
-       
-       
-       
-        "611": {
-        "name": "Préparations de la Cérémonie (Partie 1)",
-        "desc": "Montrez votre amour en détruisant 2 fois de l'équipement!"
-    },
-        "306": {
-        "name": "Préparation de la Cérémonie (Partie 2)",
-        "desc": "Montrez votre Amour en obtenant 2 victoires en mode PvP!"
-    }
 }

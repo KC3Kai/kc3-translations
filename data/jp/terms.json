@@ -404,7 +404,8 @@
 
 	"PanelHasTaiha"      : "大破あり",
 	"PanelFSTaiha"       : "旗艦大破",
-	"PanelCombinedFSChuuha" : "旗艦中破",
+	"PanelCombinedFSChuuha" : "旗艦損害",
+	"PanelCombinedFSChuuhaTip" : "旗艦が中破か大破のため、次は出撃できません",
 	"PanelNoTaiha"       : "耐久良好",
 	"PanelSupplied"      : "補給満タン",
 	"PanelNotSupplied"   : "補給可能",

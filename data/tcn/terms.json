@@ -1,8 +1,8 @@
 {
-(Init)
+-Init-
   "available": true,
  
-(AdmStats)
+-AdmStats-
   "SortieWinCount": "出擊勝數",
   "SortieLoseCount": "出擊敗數",
   "SortieWinRate": "出擊勝率",
@@ -31,7 +31,7 @@
   "Experience": "經驗值",
   "Name": "名稱",
   
- (DropDownMenu)
+-DropDownMenu-
   "MenuPlayAPIName": "透過API連結進行遊戲",
   "MenuPlayAPIDesc": "透過上次使用的API連結或者手動輸入API連結來進入遊戲。",
   "MenuRefreshAPIName": "更新API連結",
@@ -56,7 +56,7 @@
   "MenuPvPReset": "距離演習重置剩下",
   "MenuQuestReset": "距離任務重置剩下",
   
- (PanelDesc)
+-PanelDesc-
   "GameDMMRedirect": "你將會被重新定向至艦隊Collection官網喔。離開前請注意：",
   "GameDMMFrame": "你將會被重新定向至艦隊Collection官網，並使用KC3改的面板喔。",
   "GameAPIRemoveTitle": "移除API連結",
@@ -84,7 +84,7 @@
   "GameStartNowDesc": "唉，好吧好吧，如果提督你不想要面板的幫助就開始的話...",
   "GameStartNowBtn": "開始遊戲",
   
-(AboutPage)
+-AboutPage-
   "AboutTitle": "有關KC3改的開發者",
   "Version": "版本",
   "AboutHome": "KC3改主頁",
@@ -113,7 +113,7 @@
   "AboutSourceZHKcWiki": "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> <strong>简体中文</strong>的任务翻译",
   "AboutSourceHeartSound": "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">「心跳聲效」</a> 'by Mike Koenig'",
   
- (SettingsPage)
+-SettingsPage-
   "SettingsTitle": "KC3改設定",
   "SettingsGlobal": "整體設定",
   "SettingsLanguage": "語言選項",
@@ -222,13 +222,13 @@
   "LearnMore": "詳細介紹",
   "Saved": "已儲存！",
 
-(Vertifications)
+-Vertifications-
   "UnwantedExit": "提督！你真的確定要離開你的艦娘嗎？",
   "UnwantedExitDMM": "提督！你真的確定要離開你的艦娘嗎？",
   "APIWaitToggle": "請先載入KC3改面版",
   "APIConcealExpl": "將滑鼠移到這裡以顯示API連結",
   
-(F12Panel)
+-F12Panel-
   "SpeedFast": "高速",
   "SpeedSlow": "低速",
   "HQText": "司令部",
@@ -286,7 +286,7 @@
   "TimerComplete" : "完成！",
   "UntranslatedQuest": "未翻譯的仼務",
   
-(Misc)
+-Misc-
   "StrategyEvents1HP": "斬殺期！",
   "PanelWaitActions": "正在等待遊戲啟動……",
   "PanelErrorStorage": "閣下已在設定中關閉了Chrome的「允許網站儲存本機資料」功能。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。",

@@ -871,7 +871,7 @@
     "825": {
         "code": "B77",
         "name": "Torpedo Squadron, Patrol the Southwestern Seas!",
-        "desc": "Sortie a fleet with a CL as flagship, 4 DD and 1 other ship to World 2-2 and 2-3. Score an S-Rank at the boss nodes of each."
+        "desc": "Sortie a fleet with a CL as flagship, 4 DD and 1 other ship to Worlds 2-2 and 2-3. Score an S-Rank at the boss nodes of each."
     },
     
     
@@ -1470,6 +1470,11 @@
         "name": "Development of a New Torpedo Armament",
         "desc": "Set Shimakaze as flagship and equip her with a \u2605MAX 61cm Quint. Oxygen Torpedo and a \u2605MAX 61cm Triple Oxygen Torpedo. Consumes 2 medals and the torpedoes."
     },
+    "640": {
+        "code": "SF",
+        "name": "(Limited time) Early Summer Cleanup",
+        "desc": "Scrap 5 pieces of equipment."
+    },
     "641": {
         "code": "F37",
         "name": "Advance Preparation for the Airbase Construction",
@@ -1478,18 +1483,12 @@
     "642": {
         "code": "F38",
         "name": "Enhancing the Land Bomber",
-        "desc": "Have 2 Type 99 Dive Bombers Fighters and 2 7.7mm Machine Guns in your inventory. Consumes the equipment."
+        "desc": "Have 2 Type 99 Dive Bombers and 2 7.7mm Machine Guns in your inventory. Consumes the equipment."
     },
     "643": {
         "code": "F39",
         "name": "Producing the Mainstay Land Bomber",
         "desc": "Have 1 Type 96 Land-based Attack Aircraft and 2 Type 97 Torpedo Bombers in your inventory. Scrap 2 Type 21 Zero Fighters. Consumes the equipment."
-    },
-    
-    "640": {
-        "code": "SF",
-        "name": "(Limited time) Early Summer Cleanup",
-        "desc": "Scrap 5 pieces of equipment."
     },
     
     "701": {

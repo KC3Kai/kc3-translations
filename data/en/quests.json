@@ -754,7 +754,7 @@
         "code": "B56",
         "name": "Sortie the New Carrier Division to the North",
         "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss",
-        "unlock": [ 170 ]
+        "unlock": [ 170, 641 ]
     },
     "297": {
         "code": "B57",
@@ -871,7 +871,8 @@
     "825": {
         "code": "B77",
         "name": "Torpedo Squadron, Patrol the Southwestern Seas!",
-        "desc": "Sortie a fleet with a CL as flagship, 4 DD and 1 other ship to Worlds 2-2 and 2-3. Score an S-Rank at the boss nodes of each."
+        "desc": "Sortie a fleet with a CL as flagship, 4 DD and 1 other ship to Worlds 2-2 and 2-3. Score an S-Rank at the boss nodes of each.",
+        "unlock": [ 642 ]
     },
     
     
@@ -1478,12 +1479,14 @@
     "641": {
         "code": "F37",
         "name": "Advance Preparation for the Airbase Construction",
-        "desc": "Have 2 Type 96 Fighters and 2 7.7mm Machine Guns in your inventory and then scrap 2 Drum Canisters. Consumes the equipment."
+        "desc": "Have 2 Type 96 Fighters and 2 7.7mm Machine Guns in your inventory and then scrap 2 Drum Canisters. Consumes the equipment.",
+        "unlock": [ 642 ]
     },
     "642": {
         "code": "F38",
         "name": "Enhancing the Land Bomber",
-        "desc": "Have 2 Type 99 Dive Bombers and 2 7.7mm Machine Guns in your inventory. Consumes the equipment."
+        "desc": "Have 2 Type 99 Dive Bombers and 2 7.7mm Machine Guns in your inventory. Consumes the equipment.",
+        "unlock": [ 643 ]
     },
     "643": {
         "code": "F39",

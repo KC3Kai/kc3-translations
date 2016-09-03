@@ -5,7 +5,7 @@
 		"contents" : [
 			{
 				"id" : "language",
-				"name" : "Language",
+				"name" : "Langue",
 				"type" : "radio"
 			},
 			{
@@ -15,7 +15,7 @@
 				"options" : {
 					"choices" : [
 						[ 1, "Résumé" ],
-						[ 2, "Vieu" ],
+						[ 2, "Ancien" ],
 						[ 3, "Nouveau" ]
 					]
 				}
@@ -46,7 +46,7 @@
 			},
 			{
 				"id" : "info_battle",
-				"name" : "Combat Environment",
+				"name" : "Environnement de combat",
 				"type" : "check",
 				"options" : {}
 			},
@@ -104,8 +104,8 @@
 				"options" : {
 					"choices" : [
 						[ 0, "Rien" ],
-						[ 1, "DING!" ],
-						[ 2, "personalisé" ]
+						[ 1, "DING !" ],
+						[ 2, "personnalisé" ]
 					]
 				}
 			},
@@ -135,7 +135,7 @@
 		"contents" : [
 			{
 				"id" : "api_translation",
-				"name" : "Traduction de quête",
+				"name" : "Traduction des quêtes",
 				"type" : "check",
 				"options" : {}
 			},
@@ -147,37 +147,37 @@
 			},
 			{
 				"id" : "api_askExit",
-				"name" : "Quitter Confirmation",
+				"name" : "Quitter confirmation",
 				"type" : "check",
 				"options" : {}
 			},
 			{
 				"id" : "api_margin",
-				"name" : "Marge supérieur",
+				"name" : "Marge supérieure",
 				"type" : "small_text",
 				"options" : { "label" : "pixels" }
 			},
 			{
 				"id" : "api_bg_color",
-				"name" : "Couleur Background",
+				"name" : "Couleur d'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-color property" }
 			},
 			{
 				"id" : "api_bg_image",
-				"name" : "Background Image",
+				"name" : "Image d'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "http://" }
 			},
 			{
 				"id" : "api_bg_size",
-				"name" : "Taille Background",
+				"name" : "Taille de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-size property" }
 			},
 			{
 				"id" : "api_bg_position",
-				"name" : "Position du Background",
+				"name" : "Position de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-position property" }
 			},
@@ -195,7 +195,7 @@
 		"contents" : [
 			{
 				"id" : "dmm_customize",
-				"name" : "Application des personalisations",
+				"name" : "Application des personnalisations",
 				"type" : "check",
 				"options" : {}
 			},
@@ -213,37 +213,37 @@
 			},
 			{
 				"id" : "dmm_askExit",
-				"name" : "Quitter Confirmation",
+				"name" : "Quitter confirmation",
 				"type" : "check",
 				"options" : {}
 			},
 			{
 				"id" : "dmm_margin",
-				"name" : "Marge supérieur",
+				"name" : "Marge supérieure",
 				"type" : "small_text",
 				"options" : { "label" : "pixels" }
 			},
 			{
 				"id" : "dmm_bg_color",
-				"name" : "Couleur du Background",
+				"name" : "Couleur de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-color property" }
 			},
 			{
 				"id" : "dmm_bg_image",
-				"name" : "Image du Background",
+				"name" : "Image d'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "http://" }
 			},
 			{
 				"id" : "dmm_bg_size",
-				"name" : "Taille du Background",
+				"name" : "Taille de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-size property" }
 			},
 			{
 				"id" : "dmm_bg_position",
-				"name" : "Position du Background",
+				"name" : "Position de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-position property" }
 			}
@@ -255,11 +255,11 @@
 		"contents" : [
 			{
 				"id" : "pan_theme",
-				"name" : "Theme",
+				"name" : "Thème",
 				"type" : "radio",
 				"options" : {
 					"choices" : [
-						[ "default", "Default" ],
+						[ "default", "Défaut" ],
 						[ "dark", "Sombre" ]
 					]
 				}
@@ -277,25 +277,25 @@
 			},
 			{
 				"id" : "pan_bg_color",
-				"name" : "Couleur du Background",
+				"name" : "Couleur de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-color property" }
 			},
 			{
 				"id" : "pan_bg_image",
-				"name" : "Image du Background",
+				"name" : "Image d'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "http://" }
 			},
 			{
 				"id" : "pan_bg_size",
-				"name" : "Taille du Background",
+				"name" : "Taille de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-size property" }
 			},
 			{
 				"id" : "pan_bg_position",
-				"name" : "Position du Background",
+				"name" : "Position de l'arrière plan",
 				"type" : "long_text",
 				"options" : { "placeholder" : "See CSS background-position property" }
 			},

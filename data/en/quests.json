@@ -1181,7 +1181,7 @@
     "411": {
         "code": "D11",
         "name": "Weekly Expedition 3",
-        "desc": "(Weekly) Complete expedition 37 or 38 a total of 7 times",
+        "desc": "(Weekly) Complete expedition 37 or 38 six more times",
         "tracking": [ [0,6] ]
     },
     "413": {
@@ -1490,8 +1490,13 @@
     },
     "643": {
         "code": "F39",
-        "name": "Producing the Mainstay Land Bomber",
+        "name": "Procurement of the Mainstay Land Bomber",
         "desc": "Have 1 Type 96 Land-based Attack Aircraft and 2 Type 97 Torpedo Bombers in your inventory. Scrap 2 Type 21 Zero Fighters. Consumes the equipment."
+    },
+    "644": {
+        "code": "F40",
+        "name": "Procurement of an Improved Performance Land Bomber Model",
+        "desc": "Have 1 Type 1 Land-based Attack Aircraft and 2 Tenzan in your inventory. Consumes the equipment."
     },
     
     "701": {

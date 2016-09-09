@@ -44,7 +44,7 @@
 	"MenuCookiesName" : "Activer les cookies.",
 	"MenuCookiesDesc" : "À utiliser en cas d'erreur de région avec DMM.",
 	"MenuStrategyName" : "Salle de stratégie",
-	"MenuStrategyDesc" : "Outils divers pour aider à élaborer des stratégies et gérer votre flotte.",
+	"MenuStrategyDesc" : "Outils divers pour aider a élaborer des stratégies et gérer votre flotte.",
 	"MenuSettingsDesc" : "Configuration d'extensions diverses s'appliquant à la session suivante.",
 	"MenuAboutDesc" : "Informations sur KC3改 et son équipe.",
 	"MenuFBName" : "Aimer KC3改 sur Facebook !",
@@ -81,8 +81,8 @@
 	"GameAPIRemindDesc" : "N'utilisez pas KC3改 tant que vous n'avez pas passé l'étape de la loterie. KC3改 suppose qu'il est possible de jouer avec le compte connecté lors de l'extraction des liens API. Une fois que vous avez rejoint un serveur, vous devez également entrer votre nom d'amiral avant d'utiliser un lien API.",
 	"GameAPIAltTitle" : "Alternatives",
 	"GameAPIAltDesc" : "Si vous ne préférez pas utiliser de lien API et désirez jouer à KanColle sur le portail DMM, <img src=\"../popup/img/dmm.png\" /> <strong>Jouer sur le site de DMM</strong> dans le <img src=\"../../assets/img/logo/16.png\" /> <strong>menu KC3改</strong> permet également d'utiliser le panneau <kbd class=\"light\">F12</kbd> en l'ouvrant de la même façon.",
-	"GameAPIExpiredAlert" : "Votre session API à expiré.",
-	"GameAPIExpiredExplanation" : "KC3改 à détecté que votre lien API actuel n'a pas été demandé depuis 20 minutes ou plus. Pour vérifier que vous n'avez pas accédé cette onglet directement avec un lien API expiré.<br>Vous avez peut-être besoin de rafraîchir votre lien API grâce au menu pop-up ou avec ce bouton.",
+	"GameAPIExpiredAlert" : "Votre session API a expiré.",
+	"GameAPIExpiredExplanation" : "KC3改 a détecté que votre lien API actuel n'a pas été demandé depuis 20 minutes ou plus. Pour vérifier que vous n'avez pas accédé cette onglet directement avec un lien API expiré.<br>Vous avez peut-être besoin de rafraîchir votre lien API grâce au menu pop-up ou avec ce bouton.",
 	
 	"GameStartDashTitle" : "Démarrer le jeu avec le tableau de bord de l'amiral.",
 	"GameStartDashDesc" : "Pour démarrer le jeu et obtenir des informations sur votre QG et sur le statut de votre flotte, il suffit d'ouvrir le tableau de bord. Vous aurez des informations comme le rang de votre QG, vos flottes, vos équipements, votre LoS, votre puissance aérienne, la vitesse de votre flotte, le moral, etc. Pour obtenir le panneau du tableau de bord :",
@@ -284,7 +284,7 @@
 	"GameUpdateEquips" : "Il y a des <strong>{0} nouveaux équiepements</strong>! Appuyez ici pour en savoir plus dans la salle de stratégie !",
 	
 	"CatBombServerCommErrorTitle" : "Erreur de communication avec le serveur.",
-	"CatBombServerCommErrorMsg" : "[{0}] n'a pas réussi à communiquer avec le serveur. Ce n'est pas un problème de lien API, mais en plutôt de votre connectivité ou de votre environnement.",
+	"CatBombServerCommErrorMsg" : "[{0}] n'a pas réussi a communiquer avec le serveur. Ce n'est pas un problème de lien API, mais en plutôt de votre connectivité ou de votre environnement.",
 	"CatBombHardAPIErrorTitle" : "Erreur matérielle de l'API.",
 	"CatBombHardAPIErrorMsg" : "Erreur pour d'appels API. Vous utilisez peut-être un lien d'API expiré, ou il s'agit probablement d'une maintenance. Vous pouvez <a href=\"http://kancolle.wikia.com/wiki/Recent_Updates#Future_updates\" target=\"_blank\">vérifier sur le wikia pour plus de renseignements</a>, ou rafraîchir votre lien API.",
 	"CatBombWrongComputerClockTitle" : "Horloge incorrecte !",
@@ -292,7 +292,7 @@
 	"CatBombErrorOnHomePortTitle" : "Erreur lors du chargement.",
 	"CatBombErrorOnHomePortMsg" : "Merci de recharger le jeu.",
 	"CatBombAPIDataErrorTitle" : "Erreur de données API.",
-	"CatBombAPIDataErrorMsg" : "L'action la plus récente permis de communiquer avec le serveur, mais à retourné une erreur. Vérifiez si une maintenance est en cours, ou si votre lien d'API fonctionne toujours.",
+	"CatBombAPIDataErrorMsg" : "La dernière action a permis de communiquer avec le serveur, mais a retourné une erreur. Vérifiez si une maintenance est en cours, ou si votre lien d'API fonctionne toujours.",
 	"CatBombMissingServerTimeTitle" : "Impossible de récupérer l'heure du serveur.",
 	"CatBombMissingServerTimeMsg" : "Quelque chose ne va pas avec la communication avec le serveur (ou avec le proxy). Tout va bien si l'horloge de votre ordinateur est correcte, sinon, certaines fonctionnalités pourraient ne pas fonctionner.",
 	
@@ -438,7 +438,7 @@
 	
 	"CraftEquipNoteFirst" : "C'est la première fois que vous obtenez cet équipement !",
 	"CraftEquipNoteExists" : "Vous avez maintenant <strong>{0}</strong> fois cet équipement !",
-	"CraftEquipNotePenguin" : "La fabrication d'équipement à échoué...",
+	"CraftEquipNotePenguin" : "La fabrication d'équipement a échoué...",
 	
 	"ModernizationResultLeft" : "{0} restant.",
 	"ModernizationResultNote" : "Les statistiques indiquées sont les valeurs sans équipement.",
@@ -448,7 +448,7 @@
 	"DesktopNotifyRepairCompleteTitle" : "Réparations achevées !",
 	"DesktopNotifyRepairCompleteMessage" : "{0} est sortie du quai de réparation !",
 	"DesktopNotifyConstrCompleteTitle" : "Construction achevée !",
-	"DesktopNotifyConstrCompleteMessageFaced" : "{0} à été construite !",
+	"DesktopNotifyConstrCompleteMessageFaced" : "{0} a été construite !",
 	"DesktopNotifyConstrCompleteMessageUnknown" : "Une nouvelle fille-navire est disponible sur le quai de construction !",
 	"DesktopNotifyMoraleTitle" : "Moral de la flotte rétabli !",
 	"DesktopNotifyMoraleMessage" : "Tout le monde dans la flotte actuellement sélectionnée s'est rétabli de sa fatigue.",

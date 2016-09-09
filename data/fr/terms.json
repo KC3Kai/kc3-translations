@@ -34,10 +34,10 @@
 	"MenuRefreshAPIName" : "Rafraîchir le lien API.",
 	"MenuRefreshAPIDesc" : "Ouvre la page DMM où votre lien API sera extrait automatiquement.",
 	"MenuPlayDMMName" : "Jouer sur le site DMM.",
-	"MenuPlayDMMDesc" : "Jeu normal sur le portail DMM pour plus de précautions. Complètement sûr.",
+	"MenuPlayDMMDesc" : "Jeu normal sur le portail DMM pour plus de précautions.",
 	
 	"MenuPlayDMMFName" : "Jouer avec DMM encadré.",
-	"MenuPlayDMMFDesc" : "Jouer avec la page DMM encadrée dans la page KC3改 pour permettre sa personnalisation.",
+	"MenuPlayDMMFDesc" : "Jouer avec la page DMM encadrée dans la page KC3改.",
 	"MenuPlayOSAPIName" : "Jouer avec OSAPI.",
 	"MenuPlayOSAPIDesc" : "Lien de second niveau durant un peu plus longtemps qu'un lien API. Pas de personnalisation possible pour le moment.",
 	
@@ -46,9 +46,9 @@
 	"MenuStrategyName" : "Salle de stratégie",
 	"MenuStrategyDesc" : "Outils divers pour aider à élaborer des stratégies et gérer votre flotte.",
 	"MenuSettingsDesc" : "Configuration d'extensions diverses s'appliquant à la session suivante.",
-	"MenuAboutDesc" : "Informations sur KC3改, son équipe de développeurs, d'auteurs et de testeurs.",
+	"MenuAboutDesc" : "Informations sur KC3改 et son équipe.",
 	"MenuFBName" : "Aimer KC3改 sur Facebook !",
-	"MenuFBDesc" : "Obtenez les dernières informations de mise à jour, les avant-premières des fonctionnalités, et les annonces!",
+	"MenuFBDesc" : "Obtenez les dernières informations de mise à jour, les avant-premières des fonctionnalités et les annonces.",
 	
 	"MenuVersion" : "Version",
 	"MenuChangelog" : "(notes de version)",
@@ -94,7 +94,7 @@
 	"GameStartNowDesc" : "Si vous n'avez pas besoin de ces fonctionnalités et que vous voulez juste lancer le jeu.",
 	"GameStartNowBtn" : "Lancer le jeu quand même.",
 	
-	"AboutTitle" : "À propos des développeurs de KC3改.",
+	"AboutTitle" : "À propos des développeurs.",
 	"Version" : "Version",
 	"AboutHome" : "Page d'accueil",
 	"AboutSource" : "Source",
@@ -240,15 +240,15 @@
 	"SettingsPanelSize" : "Taille du panneau",
 	"SettingsPanelOpacity" : "Opacité de l'interface",
 	
-	"SettingsDBSubmission" : "Envoyer des données à <a href=\"http://kancolle-db.net/login.php\" target=\"_blank\">Kancolle database</a>", 
-	"SettingsEnableDBSubmission" : "Activer cette fonctionnalité",
+	"SettingsDBSubmission" : "Envoyer des données à kancolle-db.net", 
+	"SettingsEnableDBSubmission" : "Activer",
 	"SettingsDBSubmissionKey" : "Clé d'accès",
 	
-	"SettingsPoiDBSubmission" : "Envoyer des données à <a href=\"http://db.kcwiki.moe\" target=\"_blank\">Poi-statistics</a>",
-	"SettingsEnablePoiDBSubmission" : "Activer cette fonctionnalité",
+	"SettingsPoiDBSubmission" : "Envoyer des données à db.kcwiki.moe",
+	"SettingsEnablePoiDBSubmission" : "Activer",
 	
-	"SettingsKC3DBSubmission" : "Envoyer des données à <a href=\"http://kc3.jetri.co\" target=\"_blank\">KC3改</a>",
-	"SettingsEnableKC3DBSubmission" : "Activer cette fonctionnalité et donner un coup de main",
+	"SettingsKC3DBSubmission" : "Envoyer des données à kc3.jetri.co",
+	"SettingsEnableKC3DBSubmission" : "Activer",
 	
 	"SettingsGearHolder" : "Couleur de fond des équipements",
 	

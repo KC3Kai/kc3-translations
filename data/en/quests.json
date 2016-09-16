@@ -1038,7 +1038,7 @@
         "code": "Bm6",
         "name": "Monthly Sortie the Aircraft Carrier Task Force to the West",
         "desc": "2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node",
-        "unlock": [ 266, 626 ]
+        "unlock": [ 266, 626, 822 ]
     },
     "266": {
         "code": "Bm7",
@@ -1298,7 +1298,7 @@
         "code": "F18",
         "name": "Daily Equipment Modernisation",
         "desc": "Perform equipment modernisation once",
-        "unlock": [ 638 ],
+        "unlock": [ 637, 638 ],
         "tracking": [ [0,1] ]
     },
     

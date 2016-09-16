@@ -433,6 +433,11 @@
         "name": "Elite! DesDiv 8, 1st platoon!",
         "desc": "Have Asashio Kai Ni D and Ooshio Kai Ni in your fleet."
     },
+    "177": {
+        "code": "A72",
+        "name": "Organize the 19th Destroyer Division!",
+        "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet."
+    },
     
     "202": {
         "code": "B1",
@@ -855,7 +860,7 @@
     },
     "822": {
         "code": "Bq1",
-        "name": "(Quarterly) Okinoshima Sea Counter Attack",
+        "name": "Quarterly Okinoshima Sea Counterattack",
         "desc": "Sortie a fleet to World 2-4 and obtain two S-Ranks at the boss node."
     },
     "823": {
@@ -873,6 +878,16 @@
         "name": "Torpedo Squadron, Patrol the Southwestern Seas!",
         "desc": "Sortie a fleet with a CL as flagship, 4 DD and 1 other ship to Worlds 2-2 and 2-3. Score an S-Rank at the boss nodes of each.",
         "unlock": [ 642 ]
+    },
+    "826": {
+        "code": "B78",
+        "name": "Sortie the 19th Destroyer Division!",
+        "desc": "Sortie a fleet with Isonami, Uranami, Ayanami and Shikinami to World 1-5 and score an A-Rank at the boss node."
+    },
+    "827": {
+        "code": "B79",
+        "name": "19th Destroyer Division, Rush to Engage the Enemy's Main Forces!",
+        "desc": "Sortie a fleet with Isonami, Uranami, Ayanami and Shikinami and up to 2 other ships to World 2-5 and score an A-Rank at the boss node."
     },
     
     
@@ -1463,7 +1478,7 @@
     },
     "637": {
         "code": "F35",
-        "name": "Skilled Crew Member Training",
+        "name": "Quarterly Skilled Crew Member Training",
         "desc": "Set Houshou as flagship and equip her with a Type 96 Fighter that is both rank 7 and \u2605MAX. Consumes 2 medals and the fighter."
 	},
 	"639": {
@@ -1490,13 +1505,23 @@
     },
     "643": {
         "code": "F39",
-        "name": "Procurement of the Mainstay Land Bomber",
+        "name": "Quarterly Procurement of the Mainstay Land Bomber",
         "desc": "Have 1 Type 96 Land-based Attack Aircraft and 2 Type 97 Torpedo Bombers in your inventory. Scrap 2 Type 21 Zero Fighters. Consumes the equipment."
     },
     "644": {
         "code": "F40",
         "name": "Procurement of an Improved Performance Land Bomber Model",
         "desc": "Have 1 Type 1 Land-based Attack Aircraft and 2 Tenzan in your inventory. Consumes the equipment."
+    },
+    "645": {
+        "code": "F41",
+        "name": "Monthly Procurement of Maritime Supply Goods",
+        "desc": "Have 750 fuel, 750 ammo, 2 Drum Canisters, 1 Type 3 Shell and 1 Type 91 AP Shell in your inventory. Consumes the equipment and resources."
+    },
+    "646": {
+        "code": "F42",
+        "name": "Procurement of Custom-Made Furniture",
+        "desc": "Have 5000 Furniture Coins, two 25mm Twin AC Mounts and two 25mm Triple AC Mounts in your inventory. Scrap one 25mm Single AC Mount. Consumes the items."
     },
     
     "701": {

@@ -55,6 +55,7 @@
 	"MenuUpdate" : "Pembaruan KC3改",
 	"MenuOnLatest" : "Terbaru!",
 	"MenuScheduledNow" : "Dijadwalkan",
+	"MenuScheduledSoon" : "Akan datang...",
 	"MenuPvPReset" : "Waktu reset PvP",
 	"MenuQuestReset" : "Waktu reset Quest",
 	"MenuServerMaintenance" : "Maintenance Server Berikutnya",
@@ -141,10 +142,9 @@
 
 	"SettingsGlobal" : "Global",
 	"SettingsLanguage" : "Bahasa",
-	"SettingsELosFormula" : "Efektivitas Formula LoS",
-	"SettingsELosSum" : "Jumlah",
-	"SettingsELosOld" : "Lama",
-	"SettingsELosNew" : "Baru",
+	"SettingsReset" : "Reset Default",
+	"SettingsResetAll" : "Reset Defaults",
+		
 	"SettingsHQExpDetail"  : "Info Exp HQ",
 	"SettingsHQExpLeft"	: "EXP Tersisa",
 	"SettingsHQExpCurrent" : "Level Saat Ini",
@@ -168,11 +168,26 @@
 	"SettingsYasenTroll" : "Komentar Hiburan KC3改",
 	"SettingsHQDelta" : "Selisih HQ EXP saat Sorti",
 	"SettingsFleetStatus" : "Indikator Status Armada",
-	"SettingsAutoExpedTab" : "Auto-Open Tab Ekspedisi",
+	"SettingsAutoExpedTab" : "Buka Otomatis Tab Ekspedisi",
+	"SettingsAutoSwitchFleetView" : "Ganti Otomatis Tampilan Armada",
 	"SettingsEnglishShipType": "Gunakan Tipe Kapal B.Inggris",
 	"SettingsShipNamesLang": "Nama Kapal Berbahasa",
 	"SettingsShipNamesGlobal": "Sesuai global",
 	"SettingsBlinkGauge": "Kedipkan gauge saat last kill",
+	
+	"SettingsFormulas" : "Formula Game",
+	"SettingsELosFormula" : "Efektivitas Formula LoS",
+	"SettingsELosSum" : "Jumlah",
+	"SettingsELosOld" : "Lama",
+	"SettingsELosNew" : "Baru",
+	"SettingsELosF33" : "Formula 33",
+	"SettingsAirFormula" : "Formula Udara",
+	"SettingsAFPNoBonus" : "Tidak ada Proposional",
+	"SettingsAFPVeteran" : "Jumlah Proposional",
+	"SettingsAFPRange" : "Min-Max Proficiency",
+	"SettingsIntercept" : "Min+Penangkapan",
+	"SettingsAFPAverage" : "Seluruh Angka Bonus Udara",
+	"SettingsAFPBounds" : "Mix-Max Bonus Udara",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Hasil Screenshot",
@@ -180,6 +195,7 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "Tab Baru",
 	"SettingsSSFileType" : "Format File",
+	"SettingsSSQuality" : "Kualitas Gambar",
 	"SettingsSSDirectory" : "Direktori Screenshot",
 	"SettingsSSDirDesc" : "Tulis subfolder dalam /Downloads/",
 	"SettingsSSDppx": "Rasio Pixel Perangkat",
@@ -201,8 +217,15 @@
 	"SettingsIdleWarning" : "Penghitung Waktu Diam",
 	"SettingsHideCounter" : "Sembunyikan Penghitung",
 	"SettingsShowCounter" : "Tampilkan Penghitung",
+	
 	"SettingsTaihaAlert" : "Peringatan Taiha Berlebihan",
-
+	"SettingsScreenBlur" : "Blur Layar",
+	"SettingsScreenBlood" : "Layar Darah",
+	"SettingsAppearOnScreenshots" : "Tampil di Screenshots",
+	"SettingsHeartbeatSound" : "Suara Detak Jantung",
+	"SettingsDisplayOnPvP" : "Tampilkan bahkan di PvP",
+	"SettingsRedShadeOnPanel" : "Bayangan merah di Panel",
+	
 	"SettingsAPIGameScreen" : "Tampilan Game",
 	"SettingsQuestOverlay" : "Terjemahan Quest",
 	"SettingsQuestTracking" : "Penanda Quest",
@@ -241,9 +264,7 @@
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsGearHolder" : "Warna Latar Belakang Equip",
-	
-	"SettingsLegacyPanel" : "Panel: Tema Legacy",
-	
+		
 	"SettingsChuuiWarningDangerousFeature" : "Anda yakin ingin menggunakan fitur ini?\nSemua resiko yang anda alami bukan tanggung jawab KC3改.\n\nPastikan anda tahu apa yang anda lakukan terlebih dahulu.",
 	"SettingsErrorNG" : "Disimpan!",
 	"SettingsErrorSuper" : "Nilai Salah!",
@@ -252,7 +273,8 @@
 	"SettingsErrorLength" : "Panjang",
 	"SettingsErrorValue" : "Nilai",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
-
+	
+	"Enabled" : "Diaktifkan",
 	"Small" : "Kecil",
 	"Big" : "Besar",
 	"Black" : "Hitam",
@@ -304,6 +326,8 @@
 	"BattleMapKills"	 : " tenggelam",
 	"BattleMapNoHpGauge" : "Tdk ada gauge",
 	"BattleSupportExped" : "Ekspedisi Support dipanggil?",
+	"BattleSupportTips"  : "Armada Bantuan {0} Telah datang!\n{1} bantuan terpicu!",
+	"BattleAntiAirCutIn" : "Anti-Air cut-in terpicu?",
 	"BattleItemDrop"	 : "Drop item spesial",
 	"BattleNightNeeded"  : "Night battle diperlukan?",
 	"BattleRating"	   : "Battle Rating",
@@ -311,7 +335,7 @@
 	"BattleSelect"	   : "Pilih: ",
 	"BattleSelectNodes"  : "{0} atau {1}",
 	"BattleDetection"	: "Deteksi",
-	"BattleEngangement"  : "Engage",
+	"BattleEngangement"  : "Melawan",
 	"BattleContact"	  : "Kontak",
 	"BattleAirBattle"	: "Udara",
 	"BattleFriendly"	 : "Sekutu",
@@ -350,6 +374,7 @@
 	"PanelAkashi" : "Akashi",
 	"PanelNoRepair" : "Tak butuh perbaikan",
 	"PanelCantRepair" : "Tak dapat diperbaiki",
+	"PanelTaihaHpLeft" : "Taiha HP = {0}, {1} tersisa",
 	"PanelHighestDocking" : "Waktu Perbaikan",
 	"PanelHighestAkashi" : "Waktu Perbaikan Akashi",
 	"PanelRepairMoreDays" : "Lebih dari 24 jam",
@@ -357,10 +382,13 @@
 	"PanelCombinedShipBarsHint" : "Exp tersisa = {0}, Bensin = {1}%, Pelor = {2}%",
 	"PanelNextRemodelLv" : "Remodel Beriktnya",
 	"PanelPossibleRemodel" : "Kemungkinan Remodel",
+	"PanelResupplyCosts" : "Akan memakan Fuel = {0}, Ammo = {1}, Bauxite = {2}",
 	
 	"PanelHasTaiha" : "Kritis",
 	"PanelFSTaiha" : "Pemimpin",
 	"PanelEscortChuuha" : "Pengawal Pemimpin",
+	"PanelCombinedFSChuuha" : "Pemimpin Sekarat",
+	"PanelCombinedFSChuuhaTip" : "Pemimpin sekarang Chuuha atau Taiha, tidak bisa Sorti selanjutnya!",
 	"PanelNoTaiha" : "HP baik",
 	"PanelSupplied" : "Suplai baik",
 	"PanelNotSupplied" : "Suplai <100%",
@@ -369,13 +397,14 @@
 	"PanelGreatMorale" : "Moral mantap",
 	"PanelGoodMorale" : "Moral baik",
 	"PanelRecoveredMorale" : "Bertambah",
-	"PanelSupportPower" : "Damage ekspedisi support",
+	"PanelSupportPower" : "Damage ekspedisi bantuan",
 	"PanelPlanesFighter" : "Pesawat pada tahap pertempuran",
 	"PanelPlanesBomber" : "Pesawat pada tahap pengeboman",
 	
 	"PanelToggleSounds" : "Alihkan Suara",
 	"PanelFitWindow" : "Sesuaikan window",
 	"PanelExportToKCDB" : "Ekspor ke Kancolle-calc DeckBuilder",
+	"PanelToggleQuestComplete" : "Alihkan Status Quest Selesai",
 	
 	"MissionLabelActivity" : "Hasil",
 	"MissionGetItems" : "Item didapatkan:",
@@ -390,6 +419,15 @@
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Tunggal",
 
+	"LandBaseActionWaiting" : "Menunggu",
+	"LandBaseActionSortie" : "Sortie",
+	"LandBaseActionDefend" : "Bertahan",
+	"LandBaseActionRetreat" : "Mundur",
+	"LandBaseActionRest" : "Istirahat",
+	"LandBaseTipFighterPower" : "Kekuatan Fighter Biasa",
+	"LandBaseTipInterceptFighters" : "Penangkapan terhadap Fighter",
+	"LandBaseTipInterceptBombers" : "Penangkapan terhadap Bomber",
+	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "Tersisa",
@@ -477,6 +515,7 @@
 	
 	"MasterShipSaltCheck" : "#TeamGakBurem",
 	"MasterShipSaltUnCheck" : "#TeamBurem",
+	"MasterShipGoQuotes" : "Cek Subtittle",
 	
 	"Dummy" : "Dummy"
 }

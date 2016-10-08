@@ -1,4 +1,4 @@
-﻿{
+{
     "101": {
         "name": "Formasi Pertama!",
         "desc": "Miliki 2 Kapal di Armada Utama."
@@ -282,13 +282,32 @@
     "172":{
         "code": "A67",
         "name": "Bentuk Kapal Penghancur Divisi ke-27 (Generasi Kedua)",
-        "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu",
-        "unlock": [ 808 ]
+        "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu"
     },
       "173":{
         "code": "A68",
         "name": "Bentuk Armada Transport Berkecepatan Tinggi yang Terpaksa",
         "desc": "Miliki Sendai Kai Ni sebagai kapal pemimpin, Kawakaze Kai Ni, Shigure Kai Ni dan 2 DD di armada."
+    },
+    "174":{
+        "code": "A69",
+        "name": "Bentuk sebuah Skuadron Torpedo baru",
+        "desc": "Miliki CL/CLT/CT sebagai kapal pemimpin dan 4 DD di armada."
+    },
+    "175": {
+        "code": "A70",
+        "name": "Bentuk ulang Kapal Perusak Divisi 8!",
+        "desc": "Miliki Asashio Kai Ni (atau Kai Ni D) sebagai kapal pemimpin, Michishio, Ooshio and Arashio di armada."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Elit! Peleton Pertama, KaPerDiv 8!",
+        "desc": "Miliki Asashio Kai Ni D dan Ooshio Kai Ni di armada."
+    },
+    "177": {
+        "code": "A72",
+        "name": "Bentuk Kapal Perusak Divisi ke-19!",
+        "desc": "Miliki Isonami, Uranami, Ayanami dan Shikinami diarmada."
     },
 	
 	
@@ -650,6 +669,36 @@
         "name": "Patroli Zona Pesisir Kilang Minyak!",
         "desc": "Sorti armada dengan CVL sebagai pemimpin, 3 DD dan 2 kapal lain ke World 1-3 dan dapatkan S-Rank di boss node."
     },
+    "825": {
+        "code": "B77",
+        "name": "Pasukan Torpedo, Patroli bagian Barat Daya Lautan!",
+        "desc": "Sorti armada dengan CL sebagai kapal pemimpim, 4 DD dan 1 kapal lainnya ke World 2-2 dan 2-3. Dapatkan S-Rank Di kedua Boss node."
+    },
+    "826": {
+        "code": "B78",
+        "name": "Sorti Kapal Perusak Divisi ke-19!",
+        "desc": "Sorti armada dengan Isonami, Uranami, Ayanami dan Shikinami ke World 1-5 dan dapatkan setidaknya A-Rank di Boss node."
+    },
+    "827": {
+        "code": "B79",
+        "name": "Kapal Perusak Divisi ke-19, Segera menuju Pasukan Utama Musuh!", 
+        "desc": "Sorti armada dengan Isonami, Uranami, Ayanami dan Shikinami dengan 2 kapal lainnya ke World 2-5 dan dapatkan setidaknya A-Rank di Boss node."
+    },
+    "828": {
+        "code": "B80",
+        "name": "Jalankan persiapan pembangunan Lapangan Terbang!",
+        "desc": "Sorti armada ke World 6-3 dan dapatkan S-Rank di Boss node."
+    },
+    "829": {
+        "code": "B81",
+        "name": "Bergegas di malam hari! Serang Pasukan Darat Musuh!",
+        "desc": "Sorti armada ke World 5-3 dan dapatkan setidaknya A-Rank di Boss node."
+    },
+    "830": {
+        "code": "B82",
+        "name": "Dapatkan \"Cahaya\" yang Menerangi Laut saat Malam!",
+        "desc": "Sorti armada ke World 2-1 dan dapatkan S-Rank di Boss node."
+    },
     
 	
 	"201": {
@@ -872,7 +921,12 @@
 	"312": {
         "code": "C9",
         "name": "Latihan Angkatan Pendaratan",
-        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama "
+        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama"
+    },
+    "313": {
+        "code": "C10",
+        "name": "Latihan Musim Gugur Berskala Besar",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama "
     },
 	
 	
@@ -1208,6 +1262,41 @@
         "code": "SF",
         "name": "(Limited) Bersih-Bersih Awal Musim Panas",
         "desc": "Hancurkan 5 buah senjata."
+    },
+    "641": {
+        "code": "F37",
+        "name": "Persiapan kedepan untuk konstruksi Pangkalan Udara",
+        "desc": "Memiliki 2 Type 96 Fighter dan 2 7.7mm Machine Gun di penyimpanan lalu hancurkan 2 Drum Canister. Senjata akan di hilang."
+    },
+    "642": {
+        "code": "F38",
+        "name": "Memperkuat Land Bomber",
+        "desc": "Memiliki 2 Type 99 Dive Bomber and 2 7.7mm Machine Gun di penyimpanan. Senjata akan hilang."
+    },
+    "643": {
+        "code": "F39",
+        "name": "Penggandaan Land bomber Andalan tiap 3 bulan", 
+        "desc": "Memiliki 1 Type 96 Land-based Attack Aircraft dan 2 Type 97 Torpedo Bomber di penyimpanan. Hancurkan 2 Type 21 Zero Fighter. Senjata akan hilang."
+    },
+    "644": {
+        "code": "F40",
+        "name": "Penggandaan dari Model Land Bomber yang telah ditingkatkan", 
+        "desc": "Memiliki 1 Type 1 Land-based Attack Aircraft dan 2 Tenzan di penyimpanan. Senjata akan hilang."
+    },
+    "645": {
+        "code": "F41",
+        "name": "Penggandaan Bahan per Bulan untuk Pengisian di Jalan",
+        "desc": "Memiliki 750 bensin, 750 peluru, 2 Drum Canister dan 1 Type 91 AP Shell di penyimpanan. Hancurkan 1 Type 3 Shell. Senjata dan Bahan akan hilang."
+    },
+    "646": {
+        "code": "F42",
+        "name": "Penggandaan Furnitur Buatan Sendiri",
+        "desc": "Memiliki 5000 Koin Furnitur, 2 25mm Twin AC Mount dan 2 25mm Triple AC Mount di penyimpanan. Hancurkan 1 25mm Single AC Mount. Item akan hilang."
+    },
+    "647": {
+        "code": "F43",
+        "name": "Sebarkan Pasukan Militer Udara ke Lautan Tengah!", 
+        "desc": "Memiliki 1200 bensin, 3000 bauksit, dan 1 Construction Battalion di penyimpanan. Hancurkan 2 Drum Canister. Item dan Bahan akan hilang."
     },
 
     

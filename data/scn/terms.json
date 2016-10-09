@@ -29,6 +29,9 @@
 	"Experience": "提督经验",
 	"Name": "提督名",
 
+	"MenuDMMLoginName" : "登录DMM",
+	"MenuDMMLoginDesc" : "您还未登录DMM.com，请先通过DMM网站完成登录。",
+
 	"MenuPlayAPIName" : "开始游戏（API模式）",
 	"MenuPlayAPIDesc" : "使用API链接开始游戏，相对节省资源且速度较快",
 	"MenuRefreshAPIName" : "获取新的API",
@@ -274,6 +277,12 @@
 	"SettingsErrorLength" : "值长度",
 	"SettingsErrorValue" : "值",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
+
+	"InstalledTitle": "KC3改 准备就绪！",
+	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
+	
+	"UpdatedTitle": "KC3改 已完成升级！",
+	"UpdateText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
 
 	"Enabled" : "开启",
 	"Small" : "小",

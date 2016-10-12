@@ -271,7 +271,13 @@
   "SettingsErrorLength": "長度過長",
   "SettingsErrorValue": "值",
   "SettingsErrorOrder": "%TYP %CMP %VAL",
-  
+	
+  "InstalledTitle": "KC3改已準備好開始提供服務！",
+  "InstallText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection且獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解如何找到我們。",
+		
+  "UpdatedTitle": "KC3改已經更新！",
+  "UpdateText": "如果你正在遊玩艦隊Collection，某些功能與資料可能會出現錯誤。請關閉遊戲頁籤並重新打開遊戲。如果正在出擊途中，請先結束出擊，請記住在重新開啟遊戲前有可能顯示的是錯誤的資料與預測。",
+	
   "Small": "小",
   "Big": "大",
   "Black": "黑色",
@@ -383,7 +389,6 @@
   
   "PanelHasTaiha": "大破！",
   "PanelFSTaiha": "旗艦大破！",
-  "PanelEscortChuuha": "護衛旗艦大破！",
   "PanelNoTaiha": "健康尚好",
   "PanelSupplied": "補給良好",
   "PanelNotSupplied": "補給未滿",

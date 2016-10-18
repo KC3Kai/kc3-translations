@@ -1490,16 +1490,19 @@
 
 
   "290": {
-    "name": "Saury Fishing: Let's catch some sauries!",
-    "desc": "Defeat the enemy fleet positioned in the fisheries of Northern and Perimeter Zone and obtain 3 sauries!"
+    "code": "SB03",
+    "name": "꽁치잡이: \"꽁치\"를 잡자!",
+    "desc": "진수부 근해 및 북방해역의 어장에 전개한 적 함대를 격파해 \"꽁치\"를 3마리 입수하라!"
   },
   "291": {
-    "name": "Saury Fishing: We need to catch even more sauries!",
-    "desc": "It might be a bit tiring, but you have to secure the safety of the fisheries and get 10 sauries!"
+    "code": "SB04",
+    "name": "꽁치잡이: \"꽁치\"를 더 잡자!",
+    "desc": "조금 힘들겠지만, 어장의 안전을 확보해서 \"꽁치\"를 10마리 확보하지 않으면 안 돼!"
   },
   "292": {
-    "name": "Saury Fishing: You can try even harder!",
-    "desc": "It will be really hard, but you can try to fish sauries even more diligently!"
+    "code": "SB05",
+    "name": "꽁치잡이: 더 열심히 해도 된다구!",
+    "desc": "아주 힘들겠지만, 꽁치잡이, 더 많이 열심히 해도 된다구!"
   },
 
 
@@ -1545,15 +1548,14 @@
 
 
   "234": {
-    "code": "RG01",
-    "name": "水上反撃作戦【礼号作戦】を完遂せよ！",
-    "desc": "カンパン湾より突撃部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！"
+    "code": "OR1",
+    "name": "수상반격작전 [례호 작전]을 완수하라!",
+    "desc": "건빵만에서 돌격부대를 출격시켜, 수상반격작전 [례호 작전]을 완수하라!"
   },
   "421": {
-    "code": "RG02",
-    "name": "親善艦参加観艦式を実施せよ！",
-    "desc": "期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！",
-    "memo": "※遠征(期間限定海域)「親善艦参加観艦式」成功で達成※参加艦艇に、海外艦がなくても大丈夫です。お気に入りの六隻で構いません。"
+    "code": "OR2",
+    "name": "친선함 참가 관함식을 실시하라!",
+    "desc": "기간한정 해역에서 해외에서 친선함을 초빙하여 특별 관함식을 실시하라! 원정(기간한정 해역) \"친선함 참가 관함식\" 성공하여 달성 (무제한 6척 편성으로 원정 성공)"
   },
 
     "640": {

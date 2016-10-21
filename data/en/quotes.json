@@ -157,7 +157,6 @@
         "25": "Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!",
         "2": "Eh? Did Chitose-onee do something again?",
         "3": "Chitose-onee... watch out... ah... A dream?",
-        "4": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
         "29": "Admiral, it's Chiyoda! Did you forget about me?",
         "28": "Admiral, had you not seen Chitose-onee around here? Ah, is that so, hmm... well, then, umm... you look a little worn-out so I'll lend you my lap! I'll let you rest a little!",
         "24": "Admiral, do you need something? Ah- You wanted to know if I'd seen Chitose-onee? I see...",
@@ -323,7 +322,7 @@
         "25": "Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!",
         "2": "Admiral, wha~t?",
         "3": "Flight decks... are great!",
-        "4": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
+        "Default4": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
         "29": "Admiral, it's Chiyoda! Did you forget about me?",
         "28": "Even though I'm worried for just Chitose-onee, the admiral upon that... really, good grief.",
         "24": "Admiral.... I'm happy that you have feeling for me, but still, I'm worried about Chitose-onee...",
@@ -673,8 +672,10 @@
         "Rainy 6547": "Hmm~ As far as the rainy season goes, machinery rusts more easily, so maybe I dislike it a little. Still, let's do our best!",
         "EarlySummer 6547": "*sigh* ...It's gotten a bit hot, hasn't it? It looks like summer has already arrived. That was fast, huh?",
         "Summer 6547": "*sigh* Summer's so hot, isn't it? Admiral, since it's like this, I think I'd like to wear some summery equipment.",
-        "NotFall 6547": "Fall is a season for appetites, isn't it, Admiral? There are so many delicious foods at this time of year...! I don't even know where to begin. *drool*",
-        "6547": "So, can we go to the Fall Festival together? I'd like to go with you... Can't I...? Really!? Great!"
+        "OldFall 6547": "Fall is a season for appetites, isn't it, Admiral? There are so many delicious foods at this time of year...! I don't even know where to begin. *drool*",
+        "Fall 6547": "So, can we go to the Fall Festival together? I'd like to go with you... Can't I...? Really!? Great!",
+        "6547": " ",
+        "1471": " "
     },
     "116": {
         "1": "I'm Zuihou. I'm a light carrier, but with proper experience, I'll be able to show you that I perform as good as an aircraft carrier.",
@@ -953,7 +954,8 @@
         "Rainy 6547": "The rainy days are continuing nonstop. I'm a little bad with this kind of season. For some reason, this time of year brings a melancholy feeling with it. I can't go on like this, can I?",
         "Summer 6547": "I wonder what Mogamin is going to do for her swimsuit this year. I want to have new matching swimsuits.",
         "Summer 1471": "In the end, we couldn't buy matching swimsuits. Eh? Admiral, you want to play beach volleyball? Kumarinko is... I'm fine.",
-        "6547": "Fall! It's a time of year when everything looks so appetizing! No... Mikuma, you can't lose to your appetite here! Mogamin wouldn't like it if you got fat."
+        "Fall 6547": "Fall! It's a time of year when everything looks so appetizing! No... Mikuma, you can't lose to your appetite here! Mogamin wouldn't like it if you got fat.",
+        "6547": " "
     },
     "121": {
         "1": "Admiral, I've attained a new form!",
@@ -1192,7 +1194,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Hmm, somehow these rainy days make me feel down. Ah? Ugh! Now's not the time to take pics of me, Aoba! How about I take some of you instead!",
         "Summer 6547": "Aoba, it's getting hot. Summer is on the way, huh... eh? A swimsuit? Hmmm, what should I do? Hmmmm.",
-        "6547": "Fall, huh? This time of year is just a little... I don't really like it, ya know? I feel like I have to watch the skies. Maybe I'm worrying too much? Ahahaha..."
+        "Fall 6547": "Fall, huh? This time of year is just a little... I don't really like it, ya know? I feel like I have to watch the skies. Maybe I'm worrying too much? Ahahaha...",
+        "6547": " "
     },
     "296": {
         "1": "I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.",
@@ -1227,7 +1230,6 @@
         "25": "Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!",
         "2": "Chitose-onee, Chiyoda will protect you!",
         "3": "Eh? Did Chitose-onee do something again?",
-        "4": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
         "29": "Hey, Admiral~! Have you seen Chitose-onee? Oh, is that so! ...Jeez, I'm kinda bored!",
         "28": "Admiral! Did you see Chitose-onee? Is that so? Then, erm...! Yo... you seem a little tired so I'll lend you my lap to rest on!",
         "24": "Admiral.... I'm happy that you have feeling for me, but still, I'm worried about Chitose-onee...",
@@ -1367,8 +1369,9 @@
         "Rainy 6547": "Ugh... it's all wet and humid... I won't be able to do aaanything in the rainy season.",
         "EarlySummer 6547": "Argh. It's gotten pretty hot. Ugh, it's all hot and humid. Kumano, you don't mind it?",
         "Summer 6547": "It's summer, isn't it! Summer! Kumano, let's go for a swim in our new swimsuits! Hm? Hmhm... are you coming, too, Admiral?",
-        "6547": "Fall, huh? This part of the year is kind of a downer... right, Kumano? Um, Kumano? Are you listening?",
-        "1471": "Ah, that sandwich? Yup, it turned out great, if I do say so myself. Ehehe\u266a I put it together along with Kumano. Should I make more?"
+        "Fall 6547": "Fall, huh? This part of the year is kind of a downer... right, Kumano? Um, Kumano? Are you listening?",
+        "1471": "Ah, that sandwich? Yup, it turned out great, if I do say so myself. Ehehe\u266a I put it together along with Kumano. Should I make more?",
+        "6547": " "
     },
     "125": {
         "1": "Good day to you. I am the heavy cruiser Kumano.",
@@ -1427,7 +1430,8 @@
         "Rainy 6547": "Ah yes, it's the rainy season. At a time like this, I would like to eat a sandwich.",
         "EarlySummer 6547": "Summer is around the corner! Suzuya, I want to go out and buy the latest swimsuits.",
         "Summer 6547": "It's! Summer! I want to go to a resort again this year. Oh? Truk Island? Is that a resort?",
-        "6547": "The season is now autumn, I see. The further into autumn we go... how to put this... the deeper a sense of melancholy grows."
+        "Fall 6547": "The season is now autumn, I see. The further into autumn we go... how to put this... the deeper a sense of melancholy grows.",
+        "6547": " "
     },
     "126": {
         "1": "I'm I-168. What? It's hard to say? OK, just call me Imuya. Nice to meet you!",
@@ -1484,7 +1488,8 @@
         "53": "2300. Commander, thanks for another day's hard work!",
         "Anniversary 6547": "Commander! It's the third anniversary, the third anniversary! So cool! Imuya is a bit surprised too. Please take care of me from now on, too!",
         "Rainy 6547": "It's been raining a lot recently, hasn't it? It's the rainy season, so it can't be helped. Ah, Iku! So you're making a teru teru bozu! Show me, show me! ...That's very unique.",
-        "6547": "Goya... even though fall is a time for eating, if you eat that much, the beautiful and functional swimsuit designated by the admiral won't fit anymore, you know? Is that fine?"
+        "Fall 6547": "Goya... even though fall is a time for eating, if you eat that much, the beautiful and functional swimsuit designated by the admiral won't fit anymore, you know? Is that fine?",
+        "6547": " "
     },
     "127": {
         "1": "Hello! I-58 here! You can call me Goya. I'm not bitter!",
@@ -1541,7 +1546,8 @@
         "53": "2300. Sleepy...",
         "Rainy 6547": "It's a season with a lot of rain, dechi! But! If I dive underwater... it doesn't matter anymore, dechi!",
         "Summer 6547": "Hello from beneath the sea! It's summer, dechi!! Is it time for Goya and the others to have their summer vacation, dechi? Admiral!? Where did you go!?",
-        "6547": "It's fall, dechi! This is the season of delicious food, dechi. But if I eat too much... The swimsuit designated by the admiral might get too tight if I'm not careful, dechi."
+        "Fall 6547": "It's fall, dechi! This is the season of delicious food, dechi. But if I eat too much... The swimsuit designated by the admiral might get too tight if I'm not careful, dechi.",
+        "6547": " "
     },
     "128": {
         "1": "Guten Tag ... ah, my mistake... sorry, please call me \"hachi\".",
@@ -1949,7 +1955,7 @@
         "4": "Umm...? Are you really that interested...? Is it because there are so many secondary guns?",
         "29": "Mm... ah... Admiral, I apologize. Is my main battery getting in the way?",
         "28": "Admiral, aren't you feeling a bit tired?",
-        "24": "Admiral, as always, thank you so much. Even more than serving as flagship of the Combined Fleet... and more than fighting enemy battleships... it's now... this moment... that I love the most. I will... always, Admiral... at your side, I shall do my best.",
+        "24": "Admiral, as always, thank you so much. Even more than serving as flagship of the Combined Fleet... and more than fighting enemy battleships... it's now... this moment... that I love the most. I will... always, Admiral... at my darling's side, I shall do my best.",
         "8": "A communication from Imperial Headquarters?",
         "13": "Battleship Yamato. The Combined Fleet is sortieing!",
         "9": "A remodel, then? You have my thanks!",
@@ -1997,7 +2003,8 @@
         "Anniversary 6547": "Admiral. Our fleet has reached the third year. Congratulations. I, Yamato...I am so happy! Let's make a toast with 'ramune'.",
         "Rainy 6547": "Iowa-san? Ah, isn't that teru teru bozu cute? Say, would you like to make one together? For the ones I make, it goes like...",
         "Summer 6547": "Admiral, please don't stare so much! Maybe red and white was a little too flashy...? I-Is that so? Well then, that's a relief. Admiral, let's go together.",
-        "6547": "Admiral, it's fall. Fall is a time for delicious food. I've also come up with a \"New Full Course\"."
+        "Fall 6547": "Admiral, it's fall. Fall is a time for delicious food. I've also come up with a \"New Full Course\".",
+        "6547": " "
     },
     "136": {
         "1": "First of the Yamato-class battleships, Yamato, now with drastically improved anti-air weaponry.",
@@ -2290,7 +2297,8 @@
         "Rainy 6547": "The rainy season is so boring... eh? What? So everyone is making teru teru bozu? Then I'll make some from scratch. Now, for the paint...",
         "EarlySummer 6547": "Hoho, it's almost summer. What's everyone up to? Getting their swimsuits ready? I have to prepare! Time to stock up on drawing materials at the base exchange, hehe!",
         "Summer 6547": "Ah, that pose is good. That angle... don't move... Oh, right there works\u266a Just a minute, I'll take a reference picture... uhhyoyo~\u266a It's here\u2014 summer!",
-        "6547": "Fall has come around, huuuh? Oh well. The time between summer and winter is short, so you'd better be ready! But I guess fall is an easy time to let your guard doooown\u266a I'll have a potato."
+        "Fall 6547": "Fall has come around, huuuh? Oh well. The time between summer and winter is short, so you'd better be ready! But I guess fall is an easy time to let your guard doooown\u266a I'll have a potato.",
+        "6547": " "
     },
     "220": {
         "1": "Fourth ship of the Nagara-class Light Cruisers, 'Yura'. Pleased to make your acquaintance!",
@@ -2567,7 +2575,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Oh, my. Hehehe... Makigumo-san, what kind of teru teru bozu is that? It looks a bit too unique. Let me borrow that. There. Now it looks cute, doesn't it?",
         "Summer 6547": "Hey now, Akigumo-san. Please stop. Geez... don't scrutinize me so intently. I'm begging you, ok?",
-        "6547": "It's fall. At this time of year, I'd rather not go to the south. Kazagumo-san and Isokaze-san, you two are always so lively."
+        "Fall 6547": "It's fall. At this time of year, I'd rather not go to the south. Kazagumo-san and Isokaze-san, you two are always so lively.",
+        "6547": " "
     },
     "230": {
         "1": "I'm the Ayanami-class destroyer Oboro. I won't lose to anyone. Probably.",
@@ -2770,7 +2779,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's doing nothing but raining. Let's change the mood by making teru teru bozu. This one is going to be like Yuugumo nee-san! So I do this, and... this! Eh, or is it like this? Huh??",
         "Summer 6547": "Akigumo? Why did you bring something like that to the beach? Geez~ don't make sketches in a place like this! Geez~ ...ah, hey, don't draw Yuugumo Nee-san!",
-        "6547": "It's fall, huh~? The time for baked sweet potatoes! Akigumo, what's with all that scrap paper? You're gonna burn it? Okay, let's bake some potatoes! I'll go and gather some dried leaves!"
+        "Fall 6547": "It's fall, huh~? The time for baked sweet potatoes! Akigumo, what's with all that scrap paper? You're gonna burn it? Okay, let's bake some potatoes! I'll go and gather some dried leaves!",
+        "6547": " "
     },
     "240": {
         "1": "Destroyer, Wakaba.",
@@ -3017,8 +3027,9 @@
         "53": "It's 11 PM. I wish we could get the Second Torpedo Squadron together again.",
         "Anniversary 6547": " ",
         "Rainy 6547": "Hey, what's that? Teru teru bozu? Let me borrow that, Makigumo-nee. Check this out. Ain't it cute? Eh? Why are you angry?",
-        "6547": "It's finally arrived... fall has. I don't like the fall... right, Shimakaze? Oh, you sure are energetic. It must be nice to be young. Well I'm young, too, but...",
-        "1471": "Ugh... so it's finally this time of year. I tend to watch the skies a lot... like all the time... E-Enemy aircraft!? Ah, what? It's only a Zuiun... The number of them has increased lately... those Zuiun."
+        "Fall 6547": "It's finally arrived... fall has. I don't like the fall... right, Shimakaze? Oh, you sure are energetic. It must be nice to be young. Well I'm young, too, but...",
+        "1471": "Ugh... so it's finally this time of year. I tend to watch the skies a lot... like all the time... E-Enemy aircraft!? Ah, what? It's only a Zuiun... The number of them has increased lately... those Zuiun.",
+        "6547": " "
     },
     "250": {
         "1": "Michishio here. Why did I get assigned to such a fleet?",
@@ -3597,7 +3608,8 @@
         "22": "Again.... Agano leaves before everyone else? Well, that's okay, I worked pretty hard this time... bye bye.",
         "Anniversary 6547": " ",
         "Rainy 6547": "Rain... it's been raining so much lately. Ah, I know! It's because of the rainy season! Noshiro, it's the rainy season right now! Ufufu!",
-        "6547": "*sigh* Autumn, huh? The amount of delicious looking things is increasing... I'm in a pinch! Eh...? I don't have to eat it all? That's not even an option!"
+        "Fall 6547": "*sigh* Autumn, huh? The amount of delicious looking things is increasing... I'm in a pinch! Eh...? I don't have to eat it all? That's not even an option!",
+        "6547": " "
     },
     "270": {
         "28": "Ufufu... Admiral, what's wrong? Huh? Are your shoulders stiff? What a coincidence\u2014 mine are stiff, too! Oh... you're going to massage them? Hah... that feels great...! Admiral, you're good at this. It feels really nice! I'll let Takao give it a try next time as well! Ahhh~ right there...",
@@ -3874,7 +3886,8 @@
         "53": "11 P.M. Noshiro expresses the opinion that you should go to sleep earlier.",
         "Anniversary 6547": " ",
         "Rainy 6547": "The hydrangeas are pretty... Admiral, what do you think? About this season? It fills me with a sense of tranquility. I like it.",
-        "6547": "Agano-nee, you've enjoyed the fall foods enough. You won't be able to fit in your uniform! Eh? Wearing a yukata is good enough? That's not good at all!!"
+        "Fall 6547": "Agano-nee, you've enjoyed the fall foods enough. You won't be able to fit in your uniform! Eh? Wearing a yukata is good enough? That's not good at all!!",
+        "6547": " "
     },
     "280": {
         "30": "Alright, I'll be in charge of announcing the time today. Now, from the top! Midnight!",
@@ -4238,7 +4251,6 @@
         "25": "Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!",
         "2": "Admiral, wha~t?",
         "3": "Flight decks... are great!",
-        "4": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
         "29": "Admiral, it's Chiyoda! Did you forget about me?",
         "28": "Even though I'm worried for just Chitose-onee, the admiral upon that... really, good grief.",
         "24": "Admiral.... I'm happy that you have feeling for me, but still, I'm worried about Chitose-onee...",
@@ -4704,7 +4716,8 @@
         "53": "11:00P.M. It's already 11 P.M.! Should we do a night battle then go to sleep soon?",
         "Anniversary 6547": " ",
         "Rainy 6547": "Pyaa. So many days of rain, pyaa. I can't go out much during the rainy season. *sigh*",
-        "6547": "Pyaa! It's getting a little cooler, so I'm glad\u266a Commander, what are you doing? Eh? Security and support preparations for the fishing grounds? What is that?"
+        "Fall 6547": "Pyaa! It's getting a little cooler, so I'm glad\u266a Commander, what are you doing? Eh? Security and support preparations for the fishing grounds? What is that?",
+        "6547": " "
     },
     "304": {
         "1": "I'm Naganami, the fourth ship of the Yuugumo-class destroyers. And off we go. Yeah!",
@@ -6086,7 +6099,8 @@
         "53": "11 o'clock PM, huh... Let's take the night battles in moderation too...",
         "Anniversary 6547": "Admiral. We have finally reach the third year. Hehe... To have a reliable friend is reassuring indeed. Here's to another year, partner.",
         "Rainy 6547": "Rain... it's no problem. All the more so since it's the rainy season. A cup of hot sake on such a day is nice, too, huh?",
-        "Summer 6547": "Hm? The sea in summer? Very well, I'll sortie anytime. Huh? What? In a swimsuit? What for?"
+        "Summer 6547": "Hm? The sea in summer? Very well, I'll sortie anytime. Huh? What? In a swimsuit? What for?",
+        "6547": " "
     },
     "350": {
         "1": "I am Umikaze, the Seventh of the Shiratsuyu-class Destroyer, and the First of the Revised Shiratsuyu-class. I'll be in your care, Admiral!",
@@ -6667,7 +6681,8 @@
         "53": "2300. Commander, thanks for your hard work today.",
         "White Day": "Commander, what's this? Return gift? Thank you. I'll take it.",
         "Spring": "Spring, huh. Spring is nice. A winter will always be followed by spring. \u0425\u043e\u0440\u043e\u0448\u043e.",
-        "Rainy 1471": "Commander's hand... is warm. No, it's just that... it's a good kind of hand to have in Russia."
+        "Rainy 1471": "Commander's hand... is warm. No, it's just that... it's a good kind of hand to have in Russia.",
+        "6547": " "
     },
     "148": {
         "1": "The second ship of the Yamato-class battleships, Musashi... Barging in! What do you think of this color? Does this look suit me as well?",
@@ -7271,7 +7286,8 @@
         "Anniversary 6547": "Admiral, congratulations on our fleet's third anniversary. I, Taihou, will celebrate this occasion. Let us do our best for the upcoming year.",
         "Rainy 6547": "If the rain keeps on pouring, it'll hinder our flight drills. I'm worried that the squad will not get adequate training. Hmm...",
         "Rainy 1471": "That's right! I can just use the rain as part of their training. Right! Fellow planes, commencing... huh? Everyone? Huh...?",
-        "6547": "Shoukaku-san, Zuikaku-san, thanks as always. I was going to try to bake some potatoes. How about it? Want to join me? Fiber is good for your body you know?"
+        "Fall 6547": "Shoukaku-san, Zuikaku-san, thanks as always. I was going to try to bake some potatoes. How about it? Want to join me? Fiber is good for your body you know?",
+        "6547": " "
     },
     "154": {
         "1": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -7537,7 +7553,8 @@
         "52": "2200 hours. Thank you for all your hard work today, Admiral.",
         "53": "2300 hours. I feel that we shall meet someone important tomorrow.",
         "Anniversary 6547": "Officer, or rather, Admiral\u2014 congratulations on our third anniversary, sir. I am humbly pleased about it, sir.",
-        "Rainy 6547": "It's the rainy season, sir. It has been raining all day, sir. Today I shall maintain my built-in Daihatsu, sir."
+        "Rainy 6547": "It's the rainy season, sir. It has been raining all day, sir. Today I shall maintain my built-in Daihatsu, sir.",
+        "6547": " "
     },
     "163": {
         "1": "Nice to meet you... Maruyu, reporting for duty. Huh? You haven't heard about it? ...Oh no...!",
@@ -7594,7 +7611,8 @@
         "53": "2300. Sir, friends are nice, aren't they!",
         "Anniversary 6547": "Captain, congratulations on our third anniversary! I, Maruyu, will mogu mogu happily. I will do my best from now on.",
         "Rainy 6547": "Captain, the rain just keeps on pouring, doesn't it? I'll go fetch us an umbrella, ok? Eh? Did you ask what kind of umbrella I like? Hmm... ah! Yamato's umbrella! It's gorgeous. I love it!",
-        "6547": "So it's fall? ...Captain, what is that? You're gathering dry leaves... Ah! You're going to bake sweet potatoes! Roger that! I'll do some mole runs for sweet potatoes."
+        "Fall 6547": "So it's fall? ...Captain, what is that? You're gathering dry leaves... Ah! You're going to bake sweet potatoes! Roger that! I'll do some mole runs for sweet potatoes.",
+        "6547": " "
     },
     "164": {
         "1": "Yayoi, reporting for duty... Pleased to meet you. Please don't be too concerned about me...",
@@ -7627,7 +7645,8 @@
         "22": "I'm... sinking... Mutsuki, I'm... joining you... as well...",
         "Anniversary 6547": "Commander... congrats... on three years. Yayoi... is happy... too. Yes.",
         "Rainy 6547": "Rainy season.... Ah, this teru teru bozu....is cute.... Ah, please....don't mind me....",
-        "6547": "I don't... really like... fall. I'm not... angry. I'm not really... angry, but..."
+        "Fall 6547": "I don't... really like... fall. I'm not... angry. I'm not really... angry, but...",
+        "6547": " "
     },
     "165": {
         "1": "Yay~! I arrived-pyon! My name is Uzuki, you can call me U-chan!",
@@ -7660,7 +7679,8 @@
         "22": "This is farewell... for U-chan pyon? Commander... don't cry, okay?",
         "Anniversary 6547": "Commander~!!! It's third year anniversary pyon! U-chan is happy pyon! Splash!",
         "Rainy 6547": "I don't like rainy days, pyon. Puppukupu....",
-        "6547": "Yayoi is looking down, pyon... At times like this, U-chan will do something funny! Here we go... Pupukupuu! ...Huh? Why are you angry, pyon?"
+        "Fall 6547": "Yayoi is looking down, pyon... At times like this, U-chan will do something funny! Here we go... Pupukupuu! ...Huh? Why are you angry, pyon?",
+        "6547": " "
     },
     "166": {
         "1": "I have enhanced myself for air combat potential, sir. I am now a carrier, sir.",
@@ -7772,7 +7792,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Rain, huh. After all, it's the rainy season. The rain isn't so bad. I wonder... if I can settle down a bit. It really isn't a bad time of year.",
         "NotFall 6547": "Commander, I'm sorry. Forget this happened.",
-        "6547": "It's autumn. Once again, that season has come. Alright, bring it on. I, Isokaze, will show how much better I've become. Whether it's saury or anything else, I'll flay it all!"
+        "Fall 6547": "It's autumn. Once again, that season has come. Alright, bring it on. I, Isokaze, will show how much better I've become. Whether it's saury or anything else, I'll flay it all!",
+        "6547": " "
     },
     "168": {
         "1": "It's me, Urakaze, nice to meet 'ya!",
@@ -7873,7 +7894,8 @@
         "Anniversary 6547": "At last, I~did~it! Commander, congrats on the third anniversary. Ehehe. Ayanami feels delightful.",
         "Rainy 6547": "The rainy season and the sound of the rain. If you think about it, it's actually quite comforting. Don't you think so, Commander?",
         "Summer 6547": "Summer sure is hot. Commander, shall I cut the watermelon that Shikinami brought?",
-        "NotFall 6547": "I always really love this season. Fall was the season I was launched in. Ufufu\u266a"
+        "OldFall 6547": "I always really love this season. Fall was the season I was launched in. Ufufu\u266a",
+        "6547": " "
     },
     "170": {
         "1": "I'm destroyer Hamakaze. Henceforth I shall be assigned to your fleet.",
@@ -8131,7 +8153,7 @@
         "3": "What? Don't touch me so much.",
         "4": "You... does your... conduct have anything to do with an operation? Really? Hmm...? I see.",
         "29": "Umm... is there nothing for me to do? I see... Specifically, are there no operations? Hmm...",
-        "28": "You... haven't you already done more than enough? Let's slow down a bit. It'll be fine.",
+        "28": "Darling... haven't you already done more than enough? Let's slow down a bit. It'll be fine.",
         "24": "So what is this important business? Eh...? This is for me? Y... you... hmm... I-I see... So that's how it is... hmm... danke sch\u00f6n...",
         "8": "Let's confirm the situation.",
         "13": "A sortie, huh? ...Roger.",
@@ -8354,7 +8376,8 @@
         "Anniversary 6547": "Commander, it's the third anniversary! It's a little hard to believe, you know. But still, I'm also a bit happy. I will continue to be in your care, k?",
         "Rainy 6547": "The rainy season makes me not want to go out, so I am not too fond of it. Well, whatever. Yeah.",
         "Summer 6547": "It's summer, Commander. Wanna have some watermelon? Ah, I should bring some to Ayanami too! This is kinda nice.",
-        "NotFall 6547": "*groan* Ugh, another summer is over with. Fall is somehow a little lonely. I'll be fine, though. Really..."
+        "OldFall 6547": "*groan* Ugh, another summer is over with. Fall is somehow a little lonely. I'll be fine, though. Really...",
+        "6547": " "
     },
     "180": {},
     "181": {
@@ -8364,7 +8387,7 @@
         "3": "Just what are you planning to do?",
         "4": "Stop that. Don't touch my hair. You'll knock my streamers out of place.",
         "29": "Eh? I'm... not bored or anything. Even after getting the data for the new boiler, I still have a lot more work to do. I-I really do!",
-        "28": "You... from time to time, go take a break. Breaks are important, too... Ugh! Are you even listening? Geez...",
+        "28": "Dear... from time to time, go take a break. Breaks are important, too... Ugh! Are you even listening? Geez...",
         "24": "You... what... is this? ...Eh!? For me...? Umm... I'm willing if you are, but... you're... really fine with it being me? ...Thank you. I'm truly grateful.",
         "8": "So how are you doing? ...Hmmmm... not too bad.",
         "13": "16th Destroyer Division, Amatsukaze, setting sail!",
@@ -8388,7 +8411,8 @@
         "22": "So I'm the one sinking into the sea this time... It's cold... and dark...",
         "EarlySummer 6547": "Hmmm... it's hot and windless. It's almost summer... eh!? A swimsuit!? I won't wear one!",
         "Summer 6547": "Geez, it's midsummer. It's so hot... Shimakaze, how does the heat never seem to get to you? Well, good for you.",
-        "6547": "The summer heat is still around, but it's getting a little more tolerable. Eh? Baked sweet potatoes? Um, I'm not really all that interested. I really don't care... at all..."
+        "Fall 6547": "The summer heat is still around, but it's getting a little more tolerable. Eh? Baked sweet potatoes? Um, I'm not really all that interested. I really don't care... at all...",
+        "6547": " "
     },
     "182": {
         "1": "I'm Repair ship Akashi. If you take a little damage, I can fix you up in the base. Just leave it to me!",
@@ -8479,7 +8503,9 @@
         "22": "Hurry with the drainage! Eh...? Not working...? It's not working!? Admiral... this is the end of the line... we'll reunite someday, somewhere... surely...",
         "Anniversary 6547": "Admiral, our fleet has now reach its third year of service. Congratulations! Please be of service as well for next year.",
         "Rainy 6547": "It's been raining a lot as of late, but our fleet is ready to deploy at any time. Admiral, how do you plan to utilize the fleet? Eh? You're giving everyone the day off? Really? Admiral, are you sure?",
-        "6547": "Admiral, it's really starting to feel like autumn."
+        "Fall 6547": "Admiral, it's really starting to feel like autumn.",
+        "6547": " ",
+        "1471": " "
     },
     "321": {
         "1": "Admiral, I, Flagship Ooyodo shall accompany you. Please leave the front line fleet administration to me.",
@@ -8551,7 +8577,8 @@
         "22": "Eh... I'm... sinking? So this is what it's like... to be in the water...",
         "EarlySummer 6547": "Ad-mi-ral. Eh? What's that? A swimsuit? I have one prepared, but... Eh? Right now? Please be patient until summer.",
         "Summer 6547": "Ad-mi-ral. Um, I... put on the swimsuit. How do I look? U... um, please don't stare at me so much... hawaaa....",
-        "6547": "Ah, Shigure-san. Nice work out there. Eh, the fall bulge? That's true. Shigure-san should be fine, but I should be careful..."
+        "Fall 6547": "Ah, Shigure-san. Nice work out there. Eh, the fall bulge? That's true. Shigure-san should be fine, but I should be careful...",
+        "6547": " "
     },
     "185": {
         "1": "Carrier Ryuuhou, remodeled from a Submarine Tender. I'll once again try my best as a carrier!",
@@ -9332,7 +9359,8 @@
         "52": "Now is 2200, Admiral. It's completely night and becoming much quieter now.",
         "53": "Admiral, Unryuu reports that it's now 2300. Thank you very much for today.",
         "Anniversary 6547": " ",
-        "Rainy 6547": "I see, so it's raining again today. I'm sure it's fine to take a rest, you know?"
+        "Rainy 6547": "I see, so it's raining again today. I'm sure it's fine to take a rest, you know?",
+        "6547": " "
     },
     "331": {
         "1": "I'm Amagi, an Unryuu-class Carrier. Thanks for your recruitment, Admiral. Amagi will concentrate!",
@@ -9504,7 +9532,8 @@
         "51": "2100. Commander, I'll be washing all this dishes up first. Excuse me.",
         "52": "2200. Commander, it's about time we made plans for tomorrow's transport mission. Uhm...",
         "53": "2300. Oh, uhm, Commander, thanks for the hard work today.",
-        "NotFall 6547": "Forever... at the admiral's side... the second destroyer division will do its best. Yes!"
+        "OldFall 6547": "Forever... at the admiral's side... the second destroyer division will do its best. Yes!",
+        "6547": " "
     },
     "406": {
         "1": "Unryuu class aircraft carrier, Unryuu is here. Admiral, please leave the future of the task force to me.",
@@ -9664,7 +9693,8 @@
         "22": "Admiral... may your fortunes hold... I'll be... watching from Valhalla...",
         "Anniversary 6547": "Hey! Admiral~! It's the third anniversary! Yay~! Congratulations and Burning Love~!!",
         "Rainy 6547": "Oh, it's the rainy Tsuyu season! I don't like it, desu! Uu~!",
-        "Summer 6547": "The summer season! It's here, desu! Hiei, where's my swimwear? Eh... there's nothing?"
+        "Summer 6547": "The summer season! It's here, desu! Hiei, where's my swimwear? Eh... there's nothing?",
+        "6547": " "
     },
     "410": {
         "1": "Hello! Last of the Yuugumo-class, it's Kiyoshimo! I'm a bit late, but I'll be in your care!",
@@ -10038,7 +10068,8 @@
         "51": "It's 21 o'clock. It's been an hour since the commander ran away... Why do you run from Hiei!?",
         "52": "It's now 22 o'clock. *gloom* Looks like the commander got away...",
         "53": "23 o'clock. Oh well, I guess I'll go to Onee-sama's room... Onee-... Commander! Why are you here!?",
-        "Anniversary 6547": "I, Hiei, on the third year of love, will go! With my spirits... Held high! Yeah! *pant*"
+        "Anniversary 6547": "I, Hiei, on the third year of love, will go! With my spirits... Held high! Yeah! *pant*",
+        "6547": " "
     },
     "420": {
         "1": "Commander... well, do your best today. I'll do what I can to help.",
@@ -10166,7 +10197,8 @@
         "Anniversary 6547": "So this fleet is now three years old. That's impressive. I'll give my greetings as well. Congratulations, Admiral.",
         "Rainy 6547": "It's still raining. It seems my body is getting a little stiff. Guess I'll arrange my canned food on a day like this. Ah, this one is inflated. It's... no good.",
         "EarlySummer 6547": "It's almost summer... Do you know the meaning of my name? Yeah, that's right! Not that it has any significance.",
-        "Summer 6547": "This time of year... I can't say I dislike it. Certain sections of the other ships seem like they have an issue with armor deficiency, though. I'm concerned."
+        "Summer 6547": "This time of year... I can't say I dislike it. Certain sections of the other ships seem like they have an issue with armor deficiency, though. I'm concerned.",
+        "6547": " "
     },
     "424": {
         "1": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -10234,7 +10266,8 @@
         "Anniversary 6547": "Yeah! Today is special day! Alright! Commander, let's celebrate together, ok?",
         "Anniversary 1471": "Yo! I heard it's the third anniversary. Dang, that's the bee's knees! Commander, treat me something as a celebration. Come on!",
         "Rainy 6547": "Ahhh, seriously...? It's still raining. Somehow I feel restless just staying indoors. Aarrrgh! What's up with that?",
-        "6547": "Somehow, it's kinda... ah..achooo!"
+        "Fall 6547": "Somehow, it's kinda... ah..achooo!",
+        "6547": " "
     },
     "426": {
         "1": "Thanks for the hard work! Fubuki here! Aye, I'll do my best!",
@@ -10386,7 +10419,8 @@
         "20": "Oh, no! I was hit!?",
         "21": "No way... this is... but still... I can keep going!",
         "22": "If this is to be my fate... then so be it... ...I'm so sorry...",
-        "Anniversary 6547": "Admiral, Thank you so much for being with me, Haruna for three years. I felt inspired by it, Admiral."
+        "Anniversary 6547": "Admiral, Thank you so much for being with me, Haruna for three years. I felt inspired by it, Admiral.",
+        "6547": " "
     },
     "430": {
         "1": "Aircraft carrier Katsuragi, heading forth! Watch what a true standard aircraft carrier is capable of!",
@@ -10506,7 +10540,8 @@
         "22": "I'm... sinking in a fleet battle... am I? Ha...hah...! So be it! ...Just what is... this feeling... ha... heheh...",
         "Rainy 6547": "It has been raining quite a bit lately. I remember that it was at this time of year that they initially decided to halt my construction. It was infuriating. Ah, no. It's ancient history. Please forget it.",
         "Summer 6547": "So this is what this country's summer is like? This so-called \"watermon-splitting\" fighting style is of interest to me. One day I must experience it.",
-        "6547": "Mm. The Autumn Festival? I've heard of it. In my country, we call it Oktoberfest. I shall look forward to it."
+        "Fall 6547": "Mm. The Autumn Festival? I've heard of it. In my country, we call it Oktoberfest. I shall look forward to it.",
+        "6547": " "
     },
     "434": {
         "8": "Oyo? Do you want to look at the data nya? Okay, I'll prepare it!",
@@ -10614,7 +10649,8 @@
         "20": "Ow... this is impossible!",
         "21": "How did...? My combat analysis was...",
         "22": "The sea floor is... surprisingly warm... ... ...",
-        "Anniversary 6547": "Is the mic volume ok? Check. One, two... Right. Today I would like to show my gratitude for reaching our third year. From here on, we're... eh, too long?"
+        "Anniversary 6547": "Is the mic volume ok? Check. One, two... Right. Today I would like to show my gratitude for reaching our third year. From here on, we're... eh, too long?",
+        "6547": " "
     },
     "441": {
         "1": "The second ship of the Vittorio Veneto-class battleships, Littorio. I have confidence in my speed and firepower. Nice to meet ya ~",
@@ -10740,7 +10776,8 @@
         "Anniversary 6547": "I'm going to celebrate our third anniversary. Congratulations, Admiral! Hehehe~",
         "Rainy 6547": "Rain! Rain, rain, rain! Isn't this \"Tsuuyou\" season nothing but rain? So it's that kind of a season.",
         "Summer 6547": "So this is summer in Japan. It's so hot, of course. However, I love this ramune\u266a I love this shaved ice\u266a Ah, Libe will have strawberry ice! Strawberry!",
-        "6547": "That sound I hear... what's making it? An autumn bug? Ah! So it's called a bell cricket. It sounds nice, huh? Eh? Bell crickets eat watermelon? Really?"
+        "Fall 6547": "That sound I hear... what's making it? An autumn bug? Ah! So it's called a bell cricket. It sounds nice, huh? Eh? Bell crickets eat watermelon? Really?",
+        "6547": " "
     },
     "445": {
         "1": "I'm Seaplane Tender Akitsushima! Make sure to remember me along with this Taitei-chan, alright!",
@@ -10965,7 +11002,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "\"Tsuuyou\" is what you call this time of year, right? With such a variety of names based on the season, Japan sure is an interesting place. No, I don't mind it at all.",
         "Summer 6547": "Swimsuit? No, I didn't bring one, but maybe I can buy one? Hmmmm.",
-        "6547": "I like autumn. After all, this is the time of year when I was commissioned. I like how it makes me feel a little at ease. Right, Pola? Wha... you're off drinking! I said you can't!"
+        "Fall 6547": "I like autumn. After all, this is the time of year when I was commissioned. I like how it makes me feel a little at ease. Right, Pola? Wha... you're off drinking! I said you can't!",
+        "6547": " "
     },
     "89": {
         "1": "Aircraft carrier, Houshou here. Although I'm inexperienced, I look forward to your guidance.",
@@ -10998,7 +11036,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's raining again. It's troubling that it might rain and ruin the food. There's also the laundry to take care of. What should I do...?",
         "Summer 6547": "That's true... to help the ship girls and the admiral at the beach, we can open a seaside teahouse. Mamiya-san? Irako-san?",
-        "6547": "It's been a little cooler recently. It must be autumn."
+        "Fall 6547": "It's been a little cooler recently. It must be autumn.",
+        "6547": " "
     },
     "450": {
         "1": "I'm Seaplane Tender Akitsushima! Have you already remembered Taitei-chan and I?",
@@ -11240,7 +11279,8 @@
         "Rainy 6547": "Gosh... it's still raining. If it keeps on raining, I feel like my body will rust. How are you holding up, Commander?",
         "EarlySummer 6547": "Woah. Mai, you seem so energetic. Eh? You're going to buy swimsuits with Nowacchi? Hmmmm...",
         "Summer 6547": "Hagi, what's up? Eh... wear a swimsuit... to the beach? Sure, count me in. Commander, you coming, too?",
-        "6547": "Alriiiight! I made it through the nights in summer! Now I should be fine! Shigure, Sendai-san... I've won!!!!"
+        "Fall 6547": "Alriiiight! I made it through the nights in summer! Now I should be fine! Shigure, Sendai-san... I've won!!!!",
+        "6547": " "
     },
     "455": {
         "1": "Hagikaze, 17th Ship of the Kagerou-class Destroyer, reporting! Commander, please give me your orders!",
@@ -11427,7 +11467,8 @@
         "Anniversary 6547": "Yamashiro, today is a special day. Go on and greet the admiral... Yamashiro? Oh, she's not here. Yamashiro?",
         "Rainy 6547": "Yamashiro, there is indeed a lot of rain in the rainy season.... I wonder if Shigure is well....",
         "Summer 6547": "Yamashiro? It's going to be summer soon. Would you like to go somewhere together? I wonder where would be nice.",
-        "6547": "Autumn... it's that time of year again... Yamashiro, are you prepared? This is the year we'll finally break through."
+        "Fall 6547": "Autumn... it's that time of year again... Yamashiro, are you prepared? This is the year we'll finally break through.",
+        "6547": " "
     },
     "460": {
         "1": "Good morning!\u3000I'm Hayasui, an oiler equipped with seaplanes!\u3000I'll do my best to support everyone!",
@@ -11582,7 +11623,8 @@
         "Anniversary 6547": "Congratulations on the third anniversary, Admiral. It's your third anniversary, isn't it? This make me happy, too. Heheh~",
         "Rainy 6547": "It's raining a lot lately. On a day like this, shall we stay indoors and plan strategies for future operations?",
         "Summer 6547": "It's almost summer. I wonder what Katori-nee will do about her swimsuit? I suppose I should get one as well? What should I do?",
-        "6547": "Mr. Admiral, it's a pleasant fall, isn't it? I was also launched in fall, you know? Ufufu\u266a"
+        "Fall 6547": "Mr. Admiral, it's a pleasant fall, isn't it? I was also launched in fall, you know? Ufufu\u266a",
+        "6547": " "
     },
     "466": {
         "1": "I'm Shoukaku, the first of the Shoukaku-class carriers. Alongside Zuikaku as remodeled Shoukaku-class, I'm hoping to be a useful source of strength for the admiral.",
@@ -11675,7 +11717,8 @@
         "Rainy 6547": "Nee-sama, the rainy season is such a nuisance since it damages our equipment! Really, so... dreadful.",
         "Summer 6547": "Nee-sama, are you making plans for a trip? I think it's a wonderful idea! I'm fine with anywhere, as long as it's with you...!",
         "Summer 1471": "Fusou nee-sama, I agree\u2014 it's a little hot. I'll go bring iced red beans from Mamiya-san...",
-        "6547": "Nee-sama... it's autumn. It will be alright. I will always be by your side. We shall never be apart."
+        "Fall 6547": "Nee-sama... it's autumn. It will be alright. I will always be by your side. We shall never be apart.",
+        "6547": " "
     },
     "51": {
         "1": "My name is Tenryuu. Heheh, ya scared?",
@@ -11805,7 +11848,8 @@
         "Anniversary 6547": "Holy cow, it's the third year! Ain't that a happy occasion. Holy hot dang!",
         "EarlySummer 6547": "Yep, summer is on the way! I tell you, one o' these days, I'm gonna stun everyone out on the beach with a smokin' hot swimsuit! Just you watch...! Ah... one o' these days...",
         "Summer 6547": "What a harsh summer. I'm burnin' up here. Feels like my deck could fry me up some eggs sunny side up.",
-        "6547": "Heck yeah! I made it all the way through summer. I gotta be invincible or somethin'. The almighty invincible aircraft carrier! Come arrow or torpedo, ain't nothin' stoppin' me! Ahahaha... ah... haaa..."
+        "Fall 6547": "Heck yeah! I made it all the way through summer. I gotta be invincible or somethin'. The almighty invincible aircraft carrier! Come arrow or torpedo, ain't nothin' stoppin' me! Ahahaha... ah... haaa...",
+        "6547": " "
     },
     "1": {
         "1": "I'm Mutsuki. Let's work together!",
@@ -11840,7 +11884,8 @@
         "Rainy 6547": "Kisaragi-chan, it's been raining a lot recently. Ah, let's make some teru teru bozus! One for Kisaragi-chan and one for me!",
         "EarlySummer 6547": "Oyoyo? It's almost summer time, nya? Kisaragi-chan, for this year's summer vacation, what should we do? I will~, I will~!",
         "Summer 6547": "Oyo? Admiral, you're going for a dip in the water, nya? I'm coming, too! Swimsuit, swimsuit!",
-        "6547": "Yaaay! I got through summer, nyashii~! Now it'll be relaxing for a little while, nya~! Alright, I'll do my best for fall, nya~! Admiral, expect a lot from me."
+        "Fall 6547": "Yaaay! I got through summer, nyashii~! Now it'll be relaxing for a little while, nya~! Alright, I'll do my best for fall, nya~! Admiral, expect a lot from me.",
+        "6547": " "
     },
     "2": {
         "1": "My name is Kisaragi. Please keep me by your side.",
@@ -11875,7 +11920,8 @@
         "Rainy 6547": "My, Mutsuki-chan's teru teru bozu is cute. There's one for me, too? Thanks!",
         "EarlySummer 6547": "It'll be summer soon~ Maybe I should go buy a new swimsuit.... Hey, which one do you think is good~?",
         "Summer 6547": "Hey, let's go to the beach! Ah, let's take off our rigging and clothes. So? What do you think of my swimsuit?",
-        "6547": "Fall sure is nice. Mutsuki-chan looks a little happy, too. Commander, what does fall mean to you? Is fall for appetites? Or perhaps... ufufufu"
+        "Fall 6547": "Fall sure is nice. Mutsuki-chan looks a little happy, too. Commander, what does fall mean to you? Is fall for appetites? Or perhaps... ufufufu",
+        "6547": " "
     },
     "28": {
         "1": "I'm Satsuki. Good to meet ya!",
@@ -11910,7 +11956,8 @@
         "Rainy 6547": "The season of May.... Eheh, it's my season, isn't it? Ufufufu!",
         "EarlySummer 6547": "Its getting hot, Commander! I'll bring you something to cool you down!",
         "Summer 6547": "Commander, splitting watermelon with everyone is fun! Eh... you gonna challenge me? Hehe, ain't that cute of ya\u266a",
-        "6547": "Ah... it's fall now. Commander, I'm not worried! This is me we're talking about. I'll make it through! Watch me."
+        "Fall 6547": "Ah... it's fall now. Commander, I'm not worried! This is me we're talking about. I'll make it through! Watch me.",
+        "6547": " "
     },
     "29": {
         "1": "I'm Fumizuki. Nice to meet you~",
@@ -11945,7 +11992,8 @@
         "EarlySummer 6547": "Summer's soon! Those impatient cicadas have already started chirping~.",
         "Summer 6547": "Huuhh? Splitting watermelon? I'll give it a tryyy\u266a I'm really good at thiiis. Ready? Eii~\u266a Wha!?",
         "Summer 1471": "Com~man~der, aren't you thirsty~? I'll bring some barley tea~. You'll drink it, right?",
-        "6547": "In fall... I think baked sweet potatoes are really delicious\u266a but... eating too much is dangerous... Fweeh..."
+        "Fall 6547": "In fall... I think baked sweet potatoes are really delicious\u266a but... eating too much is dangerous... Fweeh...",
+        "6547": " "
     },
     "6": {
         "1": "Nagatsuki here. Don't make light of me as destroyers. I'm useful.",
@@ -11978,7 +12026,8 @@
         "22": "Sorry everyone... looks like this is as far as I'll go.",
         "Anniversary 6547": "Commander, it looks like today is a special day.",
         "EarlySummer 6547": "Sorry, Commander, I don't like this season. Why?... Uuu.. I don't really know.",
-        "Summer 6547": "Alright! I'm feeling good enough to get back out there. Yeah... the middle of summer is when I'm at my best, so leave everything to me."
+        "Summer 6547": "Alright! I'm feeling good enough to get back out there. Yeah... the middle of summer is when I'm at my best, so leave everything to me.",
+        "6547": " "
     },
     "30": {
         "1": "I'm Kikuzuki, let's move out together",
@@ -12012,7 +12061,8 @@
         "Anniversary 6547": "Commander, it seems today is a special day.... It'd be good if we could celebrate it together....",
         "EarlySummer 6547": "It's hot... It's almost summer. Once again, summer is coming...",
         "Summer 6547": "Ah, a watermelon. Sounds good. When it comes to splitting watermelon... I, Kikuzuki, will never lose.",
-        "6547": "Ahh... What is it? Since I have so much free time, and we're already near the sea, I may as well go and cast my fishing rod... I guess I will."
+        "Fall 6547": "Ahh... What is it? Since I have so much free time, and we're already near the sea, I may as well go and cast my fishing rod... I guess I will.",
+        "6547": " "
     },
     "7": {
         "1": "You're the commander, right? I'm Mikazuki. I hope you welcome me warmly into your fleet.",
@@ -12045,7 +12095,8 @@
         "22": "Commander...I wanted to continue fighting together with you...",
         "Anniversary 6547": "Commander, today is a very special day. This Mikazuki will firmly escort you.",
         "EarlySummer 6547": "Commander, it's bad! Summer is getting closer... I'll make sure to be careful!",
-        "Summer 6547": "*sigh* I'll to get through summer this year somehow. Commander, thanks. Okay!"
+        "Summer 6547": "*sigh* I'll to get through summer this year somehow. Commander, thanks. Okay!",
+        "6547": " "
     },
     "31": {
         "1": "Hmm? Ah, I'm Mochizuki.",
@@ -12080,8 +12131,9 @@
         "Rainy 6547": "I'm sleepy.... Rainy season, huh... The sound of rain is really lulling.... Commander, let's sleep.... zzZZzzz...",
         "EarlySummer 6547": "Ahh~... It's getting a bit hot~ I'm feeling sluggish... isn't there any ice cream~? Ice cream...",
         "Summer 6547": "*sigh* It's seriously hot. It's no good... no good... Ramune's all gone... ice cream all gone... no good at all!",
-        "NotFall 6547": "It's fall~ Time for the fall harvest~ There's gonna be so much yummy stuff~ I just want to eat and sleep~",
-        "6547": "Well we have a lot of time, so let's go do Operation F. I guess I can fish up dinner in this downtime."
+        "OldFall 6547": "It's fall~ Time for the fall harvest~ There's gonna be so much yummy stuff~ I just want to eat and sleep~",
+        "Fall 6547": "Well we have a lot of time, so let's go do Operation F. I guess I can fish up dinner in this downtime.",
+        "6547": " "
     },
     "99": {
         "1": "Kumaa. Nice to meet you, kuma.",
@@ -12336,9 +12388,10 @@
         "Rainy 6547": "The rainy season. Admiral, would you like to spend some time with me in my room? I'll make you some tea. Well?",
         "EarlySummer 6547": "Admiral. You can really feel the summer when the rainy season ends, can't you? I would like to get... a new swimsuit, too.",
         "Summer 6547": "Admiral, it's summer, right? Right! Ah... Yuudachi-chan. Your swimsuit is cute. Mine will be next year, too.",
-        "NotFall 6547": "Fall, huh? ...The further we go into fall, for some reason, I... start to feel a little more lonely, you know...",
-        "6547": "Admiral, the season is... fall, you know? Hey... would you mind going with me... to the naval base's Fall Festival this year?",
-        "1471": "Admiral, that handbag... is very nice. It's really lovely. I wish I had one, too..."
+        "OldFall 6547": "Fall, huh? ...The further we go into fall, for some reason, I... start to feel a little more lonely, you know...",
+        "Fall 6547": "Admiral, the season is... fall, you know? Hey... would you mind going with me... to the naval base's Fall Festival this year?",
+        "Fall 1471": "Admiral, that handbag... is very nice. It's really lovely. I wish I had one, too...",
+        "6547": " "
     },
     "54": {
         "1": "Sendai, reporting in! You can leave the night battles to me.",
@@ -12478,9 +12531,9 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy season. The number of clear days are decreasing... but on these days, having a light drink in the room sounds good, doesn't it? Ufu~",
         "Summer 6547": "Chiyoda, it's getting hot little by little. Summer is on the way.",
-        "NotFall 6547": "Summer is already over, and the fall has arrived.",
-        "NotFall 1471": "That's right. In fall, drinking sake while eating makes it taste even better.",
-        "NotFall 4": "Chiyoda, baked sweet potatoes are delicious, but don't eat too much or you'll get fat. Look, the admiral can see you!"
+        "Fall 6547": "Summer is already over, and the fall has arrived.",
+        "6547": "That's right. In fall, drinking sake while eating makes it taste even better.",
+        "1471": "Chiyoda, baked sweet potatoes are delicious, but don't eat too much or you'll get fat. Look, the admiral can see you!"
     },
     "20": {
         "1": "The eighth ship of Kagerou-class destroyer, I'm Yukikaze. I'll be in your care!",
@@ -12518,7 +12571,7 @@
         "25": "Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!",
         "2": "Eh? Did Chitose-onee do something again?",
         "3": "Chitose-onee... watch out... ah... A dream?",
-        "4": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
+        "Default4": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
         "29": "Admiral, it's Chiyoda! Did you forget about me?",
         "28": "Admiral, had you not seen Chitose-onee around here? Ah, is that so, hmm... well, then, umm... you look a little worn-out so I'll lend you my lap! I'll let you rest a little!",
         "24": "Admiral, do you need something? Ah- You wanted to know if I'd seen Chitose-onee? I see...",
@@ -12545,9 +12598,9 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Rainy days are a little boring... Chitose-onee... I wonder what she's up to. Ah, I'm off to see her for a bit!",
         "Summer 6547": "Chitose-onee, it's getting so hot. It's almost summer. Onee, aren't you going to buy a swimsuit?",
-        "NotFall 6547": "Chitose-onee, let's make baked sweet potatoes! Fall is a time for baking sweet potatoes. I'll go get some potatoes!",
-        "NotFall 1471": "*nom* These baked sweet potatoes are delicious\u266a",
-        "NotFall 4": "Mmmm... so sweet... these potatoes are really delicious. Chitose-onee, you're not having any?"
+        "6547": "Chitose-onee, let's make baked sweet potatoes! Fall is a time for baking sweet potatoes. I'll go get some potatoes!",
+        "1471": "*nom* These baked sweet potatoes are delicious\u266a",
+        "4": "Mmmm... so sweet... these potatoes are really delicious. Chitose-onee, you're not having any?"
     },
     "70": {
         "1": "I'm Mogami. It's alright, I won't collide with anyone this time. Really!",
@@ -12606,7 +12659,8 @@
         "Rainy 6547": "Mikuma, what's wrong? You don't look too great there. Ah I know, shall we invite Suzuya and Kumano and have a tea party or something? 'Kay?",
         "Rainy 1471": "Admiral, hold still for a bit. See? Wearing your hat this way is cooler!",
         "Summer 6547": "Mikuma, what's wrong? Why the long face? Ah, I know! How about we get some ramune? My treat.",
-        "6547": "So it's fall, huh? Ah, Michishio. This season... doesn't it make you a feel a little tightness in your chest? I wonder why that is."
+        "Fall 6547": "So it's fall, huh? Ah, Michishio. This season... doesn't it make you a feel a little tightness in your chest? I wonder why that is.",
+        "6547": " "
     },
     "59": {
         "1": "I'm Furutaka. I'll be happy to show how all the good points of heavy cruisers.",
@@ -12706,7 +12760,8 @@
         "Rainy 6547": "Oh, Gassa! That dejected expression of yours looks nice. Yoink! Huh? Hey, give me my camera back! Why are you taking pics of me!? Ones of me are no good!",
         "EarlySummer 6547": "It's getting hotter and hotter. So summer is coming back for the year. This season reminds me a little of the last summer at Kure.",
         "Summer 6547": "Oh...! It's the middle of summer! So many ship girls are out wearing fashionable swimsuits...! Great, huh? How flashy! Eh, 'Gasa? Ah, I should, too? No, I'm good...!",
-        "6547": "Somehow it's fall already, isn't it~ Fall is the season for tasty food. Well, isn't that great~"
+        "Fall 6547": "Somehow it's fall already, isn't it~ Fall is the season for tasty food. Well, isn't that great~",
+        "6547": " "
     },
     "62": {
         "1": "I am Myoukou, of the Myoukou-class Heavy Cruisers. Let us work on this together.",
@@ -12922,7 +12977,8 @@
         "Rainy 6547": "It's been raining a lot lately, hasn't it? I tell you, this surely is the rainy season! Ah, I-I'm sorry.",
         "EarlySummer 6547": "Hgnnn... Summer is coming soon. Eh? Ah, well, maybe for a bit, I'll go on a diet. Hgnnn...",
         "Summer 6547": "Atago, why are you so underdressed? Even in summer, you have to dress properly. Look, even the admiral is wearing his commander uniform properly... properly... Ahh... um... Admiral?",
-        "6547": "Fall! Fall is the time of year when the Fourth Squadron can't afford to get careless. Everyone, stay vigilant! In particular, your fall... appetites..."
+        "Fall 6547": "Fall! Fall is the time of year when the Fourth Squadron can't afford to get careless. Everyone, stay vigilant! In particular, your fall... appetites...",
+        "6547": " "
     },
     "83": {
         "1": "I'm the aircraft carrier, Akagi. If you're forming a carrier task force, just leave it to me.",
@@ -12991,7 +13047,8 @@
         "Rainy 6547": "Such a downpour. This is the perfect time for hot milk. No, really. Want to try some?",
         "EarlySummer 6547": "Oh, my, Takao. You started dieting for the summer? It must be hard. Me? I don't need to.",
         "Summer 6547": "This summer is as hot as always~ When it's this hot, I'll be more comfortable doing my job if I dress down some, right? Uu... uwa~h! Much better~\u266a",
-        "6547": "Fall is... let's see... I also get a little sad around now, you know... But! It's a time of year with really tasty food, you know."
+        "Fall 6547": "Fall is... let's see... I also get a little sad around now, you know... But! It's a time of year with really tasty food, you know.",
+        "6547": " "
     },
     "68": {
         "1": "Yo! Name's Maya, nice to meet you.",
@@ -13406,7 +13463,8 @@
         "Anniversary 6547": "Commander, congratulation for the third anniversary. I shall celebrate it as a first class lady.",
         "Rainy 6547": "So it's the rainy season. It feels a little disheartening... Ah, Inazuma, is that a teru teru bozu? Not half bad!",
         "Summer 6547": "Geez! Building a sandcastle is no joke, you know! It's a way to practice building an elegant coastal fortification.",
-        "6547": "In autumn, it's a little scary to go to the restroom late at night... I-It's only at this time of year, you know! How rude!"
+        "Fall 6547": "In autumn, it's a little scary to go to the restroom late at night... I-It's only at this time of year, you know! How rude!",
+        "6547": " "
     },
     "35": {
         "1": "I'm Hibiki. I'm also referred to as the \"Phoenix\" from my exploits.",
@@ -13439,7 +13497,8 @@
         "Anniversary 6547": "Commander, it's the fleet's and our 6th Destroyer Division's third anniversary. Splendid. As expected, this is... pleasant.",
         "Rainy 6547": "Inazuma's teru teru bozu... looks nice. It's cute. As for Akatsuki's... what is it? A monster?",
         "Summer 6547": "Akatsuki, you have to build the breakwater taller. Ah....we can build it again. Let me help you.",
-        "6547": "Autumn... Yukata... No, I'm not really jealous or anything. That's not it. However... I like watching."
+        "Fall 6547": "Autumn... Yukata... No, I'm not really jealous or anything. That's not it. However... I like watching.",
+        "6547": " "
     },
     "36": {
         "1": "I'm Ikazuchi! Don't read my name as \"Kaminari\"! You'll do well to remember that!",
@@ -13472,8 +13531,9 @@
         "Anniversary 6547": "It's the third anniversary, Commander! It's fine for you to rely on me more and more and mooore from now on too, you know!",
         "Rainy 6547": "Inazuma, you're making a teru teru bozu? That's cute! Teach me how to do it. I see... got it!",
         "Summer 6547": "Akatsuki, the kind of wall you built can be crushed easily by the waves, you know? That's no good at all! Ah, told ya.",
-        "NotFall 6547": "I'm gonna work harder and harder for the commander, okay? Eh... aren't you happy?",
-        "6547": "Come on, it's time for the Fall Festival! Commander, I'm gonna keep cheering you on more and mooore, okay!? Let's do this!"
+        "OldFall 6547": "I'm gonna work harder and harder for the commander, okay? Eh... aren't you happy?",
+        "Fall 6547": "Come on, it's time for the Fall Festival! Commander, I'm gonna keep cheering you on more and mooore, okay!? Let's do this!",
+        "6547": " "
     },
     "37": {
         "1": "I'm Inazuma. How... nice to meet you!",
@@ -13506,8 +13566,9 @@
         "Anniversary 6547": "Hawawa! Commander-san, it's the third anniversary nanodesu. It's very amazing; it's a celebration nanodesu. Nanodesu!",
         "Rainy 6547": "I'm making teru teru bozu. You hold it like this, then do this, and... it's done! It's so cute!",
         "Summer 6547": "Ikazuchi-chan, you shouldn't disturb Akatsuki-chan's sandcastle. Ah... please don't fight with each other!",
-        "NotFall 6547": "U-Um... Commander... okay...",
-        "6547": "Commander, I... tried wearing a yukata. Hawawa... Thank you, nanodesu! Desu!"
+        "OldFall 6547": "U-Um... Commander... okay...",
+        "Fall 6547": "Commander, I... tried wearing a yukata. Hawawa... Thank you, nanodesu! Desu!",
+        "6547": " "
     },
     "38": {
         "1": "We are Hatsuharu. We thank you in advance.",
@@ -13668,9 +13729,10 @@
         "Summer 4": "Ah, this? Nah, it's needed for some special summer training on the beach... Nagato-san said so. It's a little early for this, though...",
         "Summer 13": "Eh!? I got sunburnt? Seriously? Oh no, I forgot to apply the cream.... Crap!",
         "Summer 12": "Dah~ ...And that was my favorite swimsuit... unforgivable... straight to the baths I go!",
-        "NotFall 6547": "Hmm, so it's fall. It's started to get a bit chilly out, hasn't it? But short sleeves are still fine!",
-        "6547": "First to wear a yukata! How is it? Let's hurry to the Fall Festival and get the best spot to watch the fireworks, okay? Come on\u266a",
-        "1471": "Festivals are pretty nice, you know. They're fun, you know. Commander, what's the most fun moment of the festival, in your opinion?"
+        "OldFall 6547": "Hmm, so it's fall. It's started to get a bit chilly out, hasn't it? But short sleeves are still fine!",
+        "Fall 6547": "First to wear a yukata! How is it? Let's hurry to the Fall Festival and get the best spot to watch the fireworks, okay? Come on\u266a",
+        "1471": "Festivals are pretty nice, you know. They're fun, you know. Commander, what's the most fun moment of the festival, in your opinion?",
+        "6547": " "
     },
     "90": {
         "1": "I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.",
@@ -13701,7 +13763,8 @@
         "20": "The flight deck is getting bombed? Not good\u2014 it's going to blow...!",
         "21": "Why is the deck getting bombed again!? It really hurts!",
         "22": "The fire on the flight deck... it won't go out... sorry...",
-        "Anniversary 6547": "Congratulations to you, Admiral! And to everybody else, too! We're going to celebrate today, right? Time to open the canteen!"
+        "Anniversary 6547": "Congratulations to you, Admiral! And to everybody else, too! We're going to celebrate today, right? Time to open the canteen!",
+        "6547": " "
     },
     "43": {
         "1": "I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.",
@@ -13736,7 +13799,9 @@
         "Rainy 6547": "Admiral... there's no such thing as an endless rain... so... please don't worry... I will always be there for you. You don't mind if I... stay by your side, right?",
         "Summer 6547": "Summer's closing in this year, huh? A swimsuit? Oh, I have last year's, so I'm fine.",
         "NotFall 6547": "Fall is... a bit lonely, huh? Ah... nah, I'm fine.",
-        "6547": "Admiral, summer has come to an end... I'm fine. Fall is also... a nice season."
+        "Fall 6547": "Admiral, summer has come to an end... I'm fine. Fall is also... a nice season.",
+        "6547": " ",
+        "1471": " "
     },
     "44": {
         "1": "Yes ye~s! I'm the Shiratsuyu-class destroyer 'Murasame'! Everyone, nice to meet you!",
@@ -13773,8 +13838,9 @@
         "Summer 1471": "Admiral, how is it? Do I look good in this swimsuit? Really? Good, good.",
         "Summer 13": "I'll show you one of my best swimsuits. Ta-da! Admiral, how do I look?",
         "Summer 12": "They got me... I finally got to wear this swimsuit, too.... Well, that's alright. I'm going to take a bath.",
-        "NotFall 6547": "Hmhmmm\u266a Fall is fall so I don't mind it, you know. Harusame though, I wonder how she's handling it.",
-        "6547": "Yup, yup! Fall has a lot of tasty food, so it's really hard to pick. I have to be careful about my bulge as well."
+        "OldFall 6547": "Hmhmmm\u266a Fall is fall so I don't mind it, you know. Harusame though, I wonder how she's handling it.",
+        "Fall 6547": "Yup, yup! Fall has a lot of tasty food, so it's really hard to pick. I have to be careful about my bulge as well.",
+        "6547": " "
     },
     "45": {
         "1": "Hi. I'm the Shiratsuyu-class destroyer, Yuudachi. See you around!",
@@ -13942,7 +14008,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "You're asking if it's hard to get fired up during the rainy season? No way, not even a little! I'm always fired up!",
         "Summer 6547": "Commander, the burning summer is here! The Eighth Destroyer Division is also eating shaved ice to get fired up! *brain freeze*",
-        "6547": "Commander! Fall has arrived! The Eighth Destroyer Division will now gather dry leaves and commence our operation, \"bake sweet potatoes\"! Naturally, I'm also fired up for fall!"
+        "Fall 6547": "Commander! Fall has arrived! The Eighth Destroyer Division will now gather dry leaves and commence our operation, \"bake sweet potatoes\"! Naturally, I'm also fired up for fall!",
+        "6547": " "
     },
     "97": {
         "1": "Michishio here. Why did I get assigned to such a fleet?",
@@ -13977,7 +14044,8 @@
         "Rainy 6547": "It's raining quite a bit. Well, watching these rainy days go by isn't bad for once. Oh, please don't use my umbrella without permission. I have it marked with a seal.",
         "EarlySummer 6547": "It's slowly getting hotter... it's almost summer... Eh? A swimsuit? Huh!? Of course I don't need one! What are you saying!?",
         "Summer 6547": "It's midsummer. Every day is so hot. Eh? I should wear a swimsuit... you said? Huh!? What are you talking about? Are you trying to get me killed!? Idiot!",
-        "6547": "Fall... huh. This season is a little depressing. Huh? Say what, Commander? It's not like I wanted to be consoled or anything... I'm fine!"
+        "Fall 6547": "Fall... huh. This season is a little depressing. Huh? Say what, Commander? It's not like I wanted to be consoled or anything... I'm fine!",
+        "6547": " "
     },
     "98": {
         "1": "Oh, I haven't introduced myself yet, have I? My name is Arashio.",
@@ -14011,7 +14079,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy days keep coming. Plip plip... plip plip... ufufu. Rainy days are fun because they're rainy, aren't they?",
         "Summer 6547": "Ufufufu! Little by little, it's been getting so hot lately~... Summer is coming around again~ Summer~! Ufufufu! How exciting~!",
-        "6547": "Ehehe. So it's fall, huh...? Fall makes me feel just a liiittle bit sad... but... I'm not worried! ...You're so sure kind... ehehehe!"
+        "Fall 6547": "Ehehe. So it's fall, huh...? Fall makes me feel just a liiittle bit sad... but... I'm not worried! ...You're so sure kind... ehehehe!",
+        "6547": " "
     },
     "48": {
         "1": "Arare... I won't say 'ncha-'... Look after me...",
@@ -14045,7 +14114,8 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "Rainy season... rain... rain sounds... I don't hate... them.",
         "Summer 6547": "Ahh... it's a bit... hot... It's almost summer... Admiral... ah... it's... it's nothing.",
-        "6547": "So fall has arrived. Yeah... the fall insects are... making noises... aren't they...."
+        "Fall 6547": "So fall has arrived. Yeah... the fall insects are... making noises... aren't they....",
+        "6547": " "
     },
     "91": {
         "1": "Aircraft carrier Hiryuu here. Leave the carrier battles to me. I can fight on against any and all adversity.",
@@ -14076,7 +14146,8 @@
         "20": "Ouch! Are we... still able to land and take off?",
         "21": "I'm hit... suppress any explosions!",
         "22": "So I'm going to sink... then I'll have one final little drink with the moon...",
-        "Anniversary 6547": "So we're gonna celebrate today! Yessss! Hiryuu wants to celebrate with the admiral next year, too.... Okay?"
+        "Anniversary 6547": "So we're gonna celebrate today! Yessss! Hiryuu wants to celebrate with the admiral next year, too.... Okay?",
+        "6547": " "
     },
     "49": {
         "1": "It's Kasumi. I'm charging in. Follow me.",
@@ -14109,7 +14180,8 @@
         "Anniversary 6547": "Why don't you ever tell me something this important beforehand! It's the third anniversary! Third anniversary! ... It's really amazing! Tell me quicker! ... Congrats",
         "Rainy 6547": "It's the rainy season, huh. Even the outside looks foggy with all the rain. We'll be fine as long as the haze remains. Arare, don't worry.",
         "Summer 6547": "What? Kiyoshimo, you're buying a swimsuit? Hmmm. I guess that one is fine. Why don't you try it on...? Eh? Me...? I don't need one... Ehh!? I don't want one!",
-        "6547": "It's fall... and after fall, it's winter... Operation Rei-Go... where I tried so hard as flagship. Why...? I'm remembering it so clearly... Just why..."
+        "Fall 6547": "It's fall... and after fall, it's winter... Operation Rei-Go... where I tried so hard as flagship. Why...? I'm remembering it so clearly... Just why...",
+        "6547": " "
     },
     "17": {
         "1": "We've finally met! I'm Kagerou. Treat me well!",
@@ -14278,7 +14350,6 @@
         "25": "Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!",
         "2": "Eh? Did Chitose-onee do something again?",
         "3": "Chitose-onee... watch out... ah... A dream?",
-        "4": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
         "29": "Admiral, it's Chiyoda! Did you forget about me?",
         "28": "Admiral, had you not seen Chitose-onee around here? Ah, is that so, hmm... well, then, umm... you look a little worn-out so I'll lend you my lap! I'll let you rest a little!",
         "24": "Admiral, do you need something? Ah- You wanted to know if I'd seen Chitose-onee? I see...",
@@ -14670,7 +14741,8 @@
         "21": "Ouch! You've done it now... I'll get you back for this... it's a promise, damn it!",
         "22": "Oh my god... I lost...? The water is... it's hard to see... Admi... ral...",
         "Rainy 6547": "It's raining so much at this time of year. \"To-you\" is what you call it...? As in, \"for you\"? What a romantic season. That's Japan for you.",
-        "6547": "Japan in autumn is... ... ... ...Ah...! This beer is amazing! Eh? There's a kind of beer made just for autumn? Japan... is incredible, isn't it?"
+        "Fall 6547": "Japan in autumn is... ... ... ...Ah...! This beer is amazing! Eh? There's a kind of beer made just for autumn? Japan... is incredible, isn't it?",
+        "6547": " "
     },
     "360": {
         "1": "Hi! I'm the Iowa-class battleship, Iowa. Admiral, how've you been? Doing okay? Well then, let's do our best today! Go! Go!",
@@ -14732,7 +14804,8 @@
         "21": "I'm hit? Where? I-I won't sink!",
         "22": "No way. It can't be! I'm filling with water... No...",
         "Rainy 6547": "Miss Haguro, please be careful at this time of year! Ah, you too, Miss Ashigara! If you're heading somewhere, I'll accompany you.",
-        "6547": "Commander, it's autumn! This time of year makes me feel so excited! Commander, how does autumn make you feel?"
+        "Fall 6547": "Commander, it's autumn! This time of year makes me feel so excited! Commander, how does autumn make you feel?",
+        "6547": " "
     },
     "476": {
         "1": "Commander, I'll do my best! First ship of the Kamikaze-class destroyers, Kamikaze, has arrived. Let's face our battles head-on!",
@@ -14795,7 +14868,8 @@
         "21": "Aaaaah! In this shape I can neither do battle nor escort...",
         "22": "I'm going... to sink here... Asakaze, Matsukaze, Hatakaze, goodbye... surely... somewhere we will...",
         "Rainy 6547": "Rain... I'm well aware that not many are fond of the rainy season, but I love it. It fits well with my umbrella. I adore it so much. Don't you agree?",
-        "6547": "Commander-sama? Autumn is a time of delicious food. If I may, I would like to show you my skill and prepare you some delicious food, okay? Ufufufu."
+        "Fall 6547": "Commander-sama? Autumn is a time of delicious food. If I may, I would like to show you my skill and prepare you some delicious food, okay? Ufufufu.",
+        "6547": " "
     },
     "363": {
         "1": "My name is Harukaze, third ship of the Kamikaze class of destroyers. Commander-sama, I am pleased to make your acquaintance. I will support you until the end.",
@@ -14859,7 +14933,8 @@
         "22": "It's actually colder when you're bare naked... Zara, looks like this is goodbye for me... my...sister...",
         "Rainy 6547": "It's been nothing but rain late~ly... This must be the \"Tswo-yoo\" Zara told me about. Maybe I should go and make some \"Terre-Terre Bouse\".",
         "Summer 6547": "Zara-neesama, what are you doing for this year's swimsuit? I spent all my money on booze, so I'll pass on this year~.",
-        "6547": "Ehh~ Mizuho-san, what's this white wine? Japanese sake? It's got a weird taste and smell~ but it's delicious. Do you want to be friends? Ehehehe~"
+        "Fall 6547": "Ehh~ Mizuho-san, what's this white wine? Japanese sake? It's got a weird taste and smell~ but it's delicious. Do you want to be friends? Ehehehe~",
+        "6547": " "
     },
     "361": {
         "1": "Buon Giornov~. I'm the third ship of the Zara-class heavy cruisers~, Pola~. With the admiral, I'll challenge anything~. I'll do my best.",
@@ -14924,7 +14999,8 @@
         "22": "I'm... going to sink again... Kuroshio... Kagerou nee-san... I'm... so...r...ry...",
         "Rainy 6547": "This season makes my heart sink a little. Commander? Oh, I'm sorry. I'm feeling alright. I don't want to cause any needless worry for the commander. I'll do my best! I'm fine!",
         "Summer 6547": "Kuroshio-san, what are you wearing? Eh? A swimsuit? What purpose does it serve? The sea? We go to the sea everyday, but...? The commander? To show him? Why? Eh? Ehh?",
-        "6547": "Fall has arrived. Taiyou was commissioned at this time of year. I'd like to see her once again. Definitely."
+        "Fall 6547": "Fall has arrived. Taiyou was commissioned at this time of year. I'd like to see her once again. Definitely.",
+        "6547": " "
     },
     "362": {
         "1": "I'm the fourth ship of the Kagerou-class destroyers, Oyashio. Commander, DesDiv15 looks forward to more of your guidance. Please take care of us!",
@@ -14994,7 +15070,8 @@
         "20": "N-Nooooo! Water is... this is bad!",
         "21": "Th-They got me...! Emergency blow! I'm not finished yet! Preparing for surface shelling!",
         "22": "Th-They got me! Emergency blow! To the surface! ...Huh? I'm not rising...? I'm going to sink...? No way... no way...",
-        "6547": "Awww... summer is over. It's fall. This season is... ummmm... Ah, Fusou-san? Eh? Breakthrough training? Ah... ummmm... errr...."
+        "Fall 6547": "Awww... summer is over. It's fall. This season is... ummmm... Ah, Fusou-san? Eh? Breakthrough training? Ah... ummmm... errr....",
+        "6547": " "
     },
     "367": {
         "1": "Hey, hey, hey! Admiral, how are you today? I'm submarine I-26, and I'm doing great, of course! Let's work together again today\u2606",
@@ -15052,7 +15129,8 @@
         "20": "That hurts...! Ugh... I'm getting ticked off!",
         "21": "Owowow... What's up with that? This is the worst! I-I can still move! I won't sink!",
         "22": "Eh...? I'm sinking...? No way... Sacchin... Fumi-chan... sorry...",
-        "6547": "Fall has arrived. Commander, what does fall mean to you? ...For Sacchin, fall is for food. For Fumi-chan, fall is for reading. For Naganaga, fall is for sports, I think. What about you, Commander? Maybe fall is... the season of love?"
+        "Fall 6547": "Fall has arrived. Commander, what does fall mean to you? ...For Sacchin, fall is for food. For Fumi-chan, fall is for reading. For Naganaga, fall is for sports, I think. What about you, Commander? Maybe fall is... the season of love?",
+        "6547": " "
     },
     "366": {
         "1": "Sixth ship of the Mutsuki-class destroyers, Minazuki here. Commander, let's have another lively day. Take care! ...Ehehe\u266a",
@@ -15111,7 +15189,8 @@
         "20": "I said no! You can't hit me there...!",
         "21": "*sigh* The deck has a big hole in it... and the catapult is all bent up. This is bad... bad, bad!",
         "22": "I'll... only come this far...? But... this time... since it's in the middle of the sea... is... this fine...?",
-        "6547": "In autumn, there are so many delicious looking foods~ Admiral, look. Umm... that Autumn Festival stall looks delicious! Wow! Zara has her own pasta stall, too! Fuuu~"
+        "Fall 6547": "In autumn, there are so many delicious looking foods~ Admiral, look. Umm... that Autumn Festival stall looks delicious! Wow! Zara has her own pasta stall, too! Fuuu~",
+        "6547": " "
     },
     "365": {
         "30": "As of now, the time is midnight. Buona sera! Admiral? For today, I'll be assigned as your secretary ship.",
@@ -15168,7 +15247,8 @@
         "20": "Oh my god...",
         "21": "No! ...I'm getting extremely angry.",
         "22": "I'm the one who is sinking? ...So... this is... how I'll fall on the battlefield...",
-        "6547": "Japan in autumn. How pleasant... this atmosphere. I love it. The food is delicious, too."
+        "Fall 6547": "Japan in autumn. How pleasant... this atmosphere. I love it. The food is delicious, too.",
+        "6547": " "
     },
     "364": {
         "30": "Admiral, the date has changed. I shall serve as flagship of the fleet for today.",
@@ -15224,7 +15304,8 @@
         "19": "Noooo...! Stop it!",
         "20": "Stop it... I said stop it...!",
         "21": "Gaa~aa~ah...!! I was hit? Where? From above? J-Jettison anything flammable!",
-        "22": "It looks... like this is as far as I go. Isonami nee-san, Ayanami, Shikinami... ...everyone, where are you?"
+        "22": "It looks... like this is as far as I go. Isonami nee-san, Ayanami, Shikinami... ...everyone, where are you?",
+        "6547": " "
     },
     "368": {
         "1": "The youngest of the Special Type I Fubuki-class destroyers, Uranami here. Commander, I'm looking forward to working with you again today.",

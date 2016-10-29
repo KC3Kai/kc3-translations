@@ -287,7 +287,6 @@
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
 	"SettingsStrategyRoom" : "Strategy Room",
-	"SettingsLevellingDifference" : "Leveling Difference",
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	
 	"InstalledTitle": "KC3改 ready for service!",
@@ -338,7 +337,7 @@
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
 	
 	"Bomb201Title": "Game Error 201",
-	"Bomb201Message": "You have received an error 201 from the game API. This is said to be connected to bot detectors. Please play in moderation. You may ignore this notice but your actions are your responsibility.",
+	"Bomb201Message": "You have received an error 201 from the game API. You could be still logged in on another game client, or this may have something to do with macro-detection. You may ignore this notice but please play in moderation.",
 	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",

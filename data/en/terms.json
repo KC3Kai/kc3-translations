@@ -72,6 +72,13 @@
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
 	"GameAPIRemoveBtn" : "Forget the API Link",
 	
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API Link Whitescreen",
+	"GameAPIPlayFlashNoticeDesc" : "Starting Chrome 54, playing via API Link will just show a whitescreen and not automatically play the game as usual. This is one of Chrome's steps towards deprecating Flash Player. There will be a one-time extra step you have to do to continue playing. We recommend playing via DMM Frame however. If you still wish to proceed, follow the steps below. It is safe. This is a matter of Flash vs Chrome, not related to Kantai Collection game.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Go to: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Look for the section for \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Enable the \"Always allowed to run\" checkbox",
+	"GameAPIPlayFlashNoticeStep4": "Restart browser and run the game",
+	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
 	"GameAPIGetDesc" : "Use the <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",

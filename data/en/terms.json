@@ -330,6 +330,9 @@
 	"APIErrorNoticeTitle": "KC3改 encountered an error with game data",
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
 	
+	"Bomb201Title": "Game Error 201",
+	"Bomb201Message": "You have received an error 201 from the game API. This is said to be connected to bot detectors. Please play in moderation. You may ignore this notice but your actions are your responsibility.",
+	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",
 	

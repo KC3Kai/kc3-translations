@@ -327,6 +327,9 @@
 	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication with server (or via the proxy). It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
 	
+	"APIErrorNoticeTitle": "KC3改 encountered an error with game data",
+	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
+	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",
 	

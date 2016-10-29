@@ -58,7 +58,7 @@
 	"MenuUpdate" : "KC3改 Update",
 	"MenuOnLatest" : "You're on Latest",
 	"MenuScheduledNow" : "Scheduled now",
-	"MenuScheduledSoon" : "Soon...",
+	"MenuScheduledSoon" : "unscheduled",
 	"MenuPvPReset" : "Next PvP Reset",
 	"MenuQuestReset" : "Next Quest Reset",
 	"MenuServerMaintenance" : "Game Maintenance",
@@ -71,6 +71,13 @@
 	"GameAPIRemoveTitle" : "Remove API link",
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
 	"GameAPIRemoveBtn" : "Forget the API Link",
+	
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API Link Whitescreen",
+	"GameAPIPlayFlashNoticeDesc" : "Starting Chrome 54, playing via API Link will just show a whitescreen and not automatically play the game as usual. This is one of Chrome's steps towards deprecating Flash Player. There will be a one-time extra step you have to do to continue playing. We recommend playing via DMM Frame however. If you still wish to proceed, follow the steps below. It is safe. This is a matter of Flash vs Chrome, not related to Kantai Collection game.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Go to: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Look for the section for \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Enable the \"Always allowed to run\" checkbox",
+	"GameAPIPlayFlashNoticeStep4": "Restart browser and run the game",
 	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
@@ -158,6 +165,7 @@
 	"SettingsCheckLiveQuests" : "Check for new Quest TLs",
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
 	"SettingsForceDMMLogin" : "Force DMM login",
+	"SettingsAPIRecorder" : "API Recorder Panel",
 	
 	"SettingsGameInfo" : "Game Information",
 	"SettingsDropFaces" : "Sortie Drop Faces",
@@ -278,11 +286,17 @@
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
+	"SettingsStrategyRoom" : "Strategy Room",
+	"SettingsLevellingDifference" : "Leveling Difference",
+	"SettingsStrategyTheme" : "Strategy Room Theme",
+	
 	"InstalledTitle": "KC3改 ready for service!",
 	"InstallText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
 	
 	"UpdatedTitle": "KC3改 has been updated!",
 	"UpdateText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
+	"NewVerViewChangelogGithub": "View Changelog on GitHub",
+	"NewVerViewWikiGithub": "View Usage Wiki on GitHub",
 	
 	"Enabled" : "Enabled",
 	"Small" : "Small",
@@ -319,6 +333,12 @@
 	"CatBombAPIDataErrorMsg"   : "The most recent action completed the network communication with server but returned an error. Check if it's now maintenance, or if your API link is still working.",
 	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication with server (or via the proxy). It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
+	
+	"APIErrorNoticeTitle": "KC3改 encountered an error with game data",
+	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
+	
+	"Bomb201Title": "Game Error 201",
+	"Bomb201Message": "You have received an error 201 from the game API. This is said to be connected to bot detectors. Please play in moderation. You may ignore this notice but your actions are your responsibility.",
 	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",

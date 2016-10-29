@@ -699,6 +699,21 @@
         "name": "Dapatkan \"Cahaya\" yang Menerangi Laut saat Malam!",
         "desc": "Sorti armada ke World 2-1 dan dapatkan S-Rank di Boss node."
     },
+    "831": {
+        "code": "SB12",
+        "name": "Mancing Mania: Ayo! Bantu Pancing Ikan Kembung!",
+        "desc": "Miliki 3 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]."
+    },
+    "832": {
+        "code": "SB13",
+        "name": "Mancing Mania: Lagi! Pancing Lebih Banyak!",
+        "desc": "Miliki 8 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]. Kau akan diberi pilihan untuk hadiahnya, jadi cek di wiki dulu yah~."
+    },
+    "833": {
+        "code": "SB14",
+        "name": "Mancing Mania: Mantap! Teruskan Mancing Manianya!",
+        "desc": "Miliki 24 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]."
+    },
     
 	
 	"201": {
@@ -849,7 +864,7 @@
 	"259": {
 		"code": "Bm4",
         "name": "Sorti Skuadron Kapal Tempur Pelan",
-        "desc": "Sorti 3 BB(V) (FBB tidak di hitung) + 1 CL + 2 Kapal lain ke [W5-1] . Dapatkan S-Rank pada Bos Node"
+        "desc": "Sorti 3 BB(V) (SELAIN Kapal KELAS Yamato, Nagato, Ise, dan Fusou, TIDAK DIHITUNG) + 1 CL + 2 Kapal lain ke [W5-1] . Dapatkan S-Rank pada Bos Node"
     },
 	"265": {
 		"code": "Bm5",

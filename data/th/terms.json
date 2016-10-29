@@ -58,7 +58,7 @@
 	"MenuUpdate" : "อัพเดท",
 	"MenuOnLatest" : "เวอร์ชั่นล่าสุดแล้ว",
 	"MenuScheduledNow" : "มีเวอร์ชั่นใหม่",
-	"MenuScheduledSoon" : "เร็วๆ นี้",
+	"MenuScheduledSoon" : "ยังไม่ประกาศ",
 	"MenuPvPReset" : "ทีม PVP จะรีเซ็ตในอีก",
 	"MenuQuestReset" : "เควสจะรีเซ็ตในอีก",
 	"MenuServerMaintenance" : "เซิร์ฟเวอร์ปิด",
@@ -72,6 +72,13 @@
 	"GameAPIRemoveDesc" : "ใช้ลบ API ของเดิมที่คุณใช้อยู่ในตอนนี้",
 	"GameAPIRemoveBtn" : "ลบ API",
 
+	"GameAPIPlayFlashNoticeTitle" : "ปัญหาโครม เวอร์ชั่น 54+ กับ API หน้าจอขาว",
+	"GameAPIPlayFlashNoticeDesc" : "ตั้งแต่โครม เวอร์ชั่น 54 เป็นต้นไป คุณผู้การที่ใช้งานเข้าเกมผ่านทาง API อาจพบปัญหาเข้าเกมแล้วหน้าจอค้างสีขาวเป็นเวลานาน ปัญหานี้เป็นเพราะโครมทำการปิดการทำงานของโปรแกรมแฟลช ปัญหาไม่ได้เกี่ยวกับตัวเกมแต่อย่างใด แต่อย่างไรก็ตามทางทีมงานขอแนะนำว่าให้ท่านเปลี่ยนไปใช้การเข้าเล่นเกมผ่านทาง DMM เฟรม แทน แต่ถ้าคุณยังอยากจะใช้งานแบบ API ก็ต้องเพิ่มขั้นตอนการใช้งานโดยการเข้าไปเปิดใช้งาน ตามวิธีการด้านล่างนี้<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "ไปที่: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "เลื่อนลงไปที่หัวข้อ \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "ติ๊กเลือก \"Always allowed to run\" ได้เลย",
+	"GameAPIPlayFlashNoticeStep4": "จากนั้นทำการปิดโปรแกรมโครมและเข้าเกมใหม่อีกครั้ง",
+	
 	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
 	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> ที่อยู่มุมขวา",
@@ -158,6 +165,7 @@
 	"SettingsCheckLiveQuests" : "ตรวจสอบอัพเดทคำแปลใหม่",
 	"SettingsDevOnlyPages" : "ห้องผู้การทดสอบ (Devเท่านั้น)",
 	"SettingsForceDMMLogin" : "บังคับล็อกอินเว็บ DMM",
+	"SettingsAPIRecorder" : "การบันทึก API",
 	
 	"SettingsGameInfo" : "ข้อมูลภายในเกม",
 	"SettingsDropFaces" : "การดรอปเรือ",
@@ -271,6 +279,7 @@
 
 	"SettingsStrategyRoom" : "ห้องผู้การ",
 	"SettingsLevellingDifference" : "ไฮไลท์เลเวลต่างกัน",
+	"SettingsStrategyTheme" : "ธีมของห้องผู้การ",
 	
 	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "บันทึกการตั้งค่า!",
@@ -285,6 +294,8 @@
 	"InstallText": "ขอบคุณนะคะคุณผู้การ ที่ได้มาร่วมใช้งาน KC3Kai! หวังว่าเครื่องมือพวกนี้จะมีส่วนช่วยในการเล่นคังโคเระของคุณผู้การได้! ถ้ามีปัญหาอะไรล่ะก็ แจ้งมาที่พวกเราได้เสมอเลยนะ!",
 	"UpdatedTitle": "KC3Kai อัพเดทเสร็จแล้ว!",
 	"UpdateText": "หลังจากการอัพเดท หากคุณผู้การกำลังเล่นคังโคเระอยู่ บางฟังก์ชันอาจจะหยุดการทำงานไป โปรดทำการเข้าเกมใหม่อีกครั้ง หากคุณผู้การกำลังออกเรืออยู่ ขอให้ออกเรือให้จบก่อนก็ได้ค่ะ แต่บางฟังก์ชัน เช่น การแสดงผลการรบ อาจจะไม่ทำงานจนกว่าคุณจะทำการเข้าเกมใหม่อีกครั้งนะคะ",
+	"NewVerViewChangelogGithub": "ดูรายการอัพเดทใน GitHub",
+	"NewVerViewWikiGithub": "ดูวิธีใช้งานใน Wiki บน GitHub",
 	
 	"Enabled" : "เปิดใช้งาน",
 	"Small" : "ขนาดเล็ก",
@@ -321,6 +332,12 @@
 	"CatBombMissingServerTimeTitle" : "ไม่สามารถตรวจสอบเวลาของเซิร์ฟเวอร์",
 	"CatBombMissingServerTimeMsg" : "พบปัญหาการเชื่อมต่อเซิร์ฟเวอร์หรือ proxy กรุณาตรวจสอบอินเทอร์เน็ต เวลาของเครื่อง ว่าทำงานถูกต้อง",
 
+	"APIErrorNoticeTitle": "KC3Kai ตรวจพบข้อผิดพลาดกับข้อมูลเกม",
+	"APIErrorNoticeMessage": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหาข้อมูลของ {0} อาจเป็นเพราะ API มีการเปลี่ยนแปลง หรือบางระบบทำงานไม่ปกติ",
+	
+	"Bomb201Title": "ปัญหากราบแมว 201",
+	"Bomb201Message": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหากราบแมว 201 เนื่องจากระบบตรวจสอบการใช้งานบอทของเกม อาจเป็นเพราะคุณใช้แรงงานสาวเรือรบหนักเกินไป! พักผ่อนบ้างเถอะนะคะ แต่ถ้าคุณไม่ได้ทำอะไรที่ผิดกฎของเกมก็คงไม่มีอะไรน่าเป็นห่วงหรอกค่ะ",
+	
 	"SpeedFast" : "กองเรือเร็ว",
 	"SpeedSlow" : "กองเรือช้า",
 

@@ -29,6 +29,8 @@
 	"Experience": "提督経験値",
 	"Name": "提督名",
 
+	"MenuDMMLoginName" : "DMMへログイン",
+	"MenuDMMLoginDesc" : "ゲーム始まる前に先ずdmm.comへログインする必要があります",
 	"MenuPlayAPIName" : "KC3改で艦これを起動する",
 	"MenuPlayAPIDesc" : "ウィジェット状態で起動します。ゲーム画面のみの表示です",
 	"MenuRefreshAPIName" : "APIリンクを更新",
@@ -68,6 +70,13 @@
 	"GameAPIRemoveTitle" : "保存されているAPIリンクを削除",
 	"GameAPIRemoveDesc" : "APIリンクを削除するにはこのボタンをクリックしてください",
 	"GameAPIRemoveBtn" : "APIリンクを削除",
+
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+にはゲーム画面が白の場合",
+	"GameAPIPlayFlashNoticeDesc"  : "この「不具合」は Chrome 54 以上のバージョンから Adobe Flash Player の廃止を向けて、無効化を実施したからです。そのために、APIリンクでゲームするには白い画面しか見えなくなったので、一度ユーザー自ら Chrome での Flash を有効に設定して頂けなければなりません。<a href=\"https://helpx.adobe.com/jp/flash-player/kb/cq09042354.html\" target=\"_blank\">Adobe公式の説明</a>や以下の手順をふまえて設定できます：",
+	"GameAPIPlayFlashNoticeStep1" : "このURLを開いて: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2" : "\"Adobe Flash Player\" を見つけて",
+	"GameAPIPlayFlashNoticeStep3" : "\"常に許可する\" を有効にして",
+	"GameAPIPlayFlashNoticeStep4" : "Chromeとゲームを再起動させればOKです。",
 
 	"GameAPINoExist" : "KC3を使用するにはAPIリンクが必要です",
 	"GameAPIGetTitle" : "じゃあどうすればいいの？",
@@ -155,6 +164,8 @@
 	"SettingsCheckUpdateTime" : "次のアップデートをチェック",
 	"SettingsCheckLiveQuests" : "新たな任務説明をチェック",
 	"SettingsDevOnlyPages" : "開発者専用指揮所",
+	"SettingsForceDMMLogin" : "DMMへのログインを強制",
+	"SettingsAPIRecorder" : "API記録パネルを有効",
 
 	"SettingsGameInfo"          : "表示するゲーム情報",
 	"SettingsDropFaces"         : "出撃ドロップ",
@@ -267,7 +278,7 @@
 	"SettingsGearHolder" : "装備背景色",
 
 	"SettingsStrategyRoom" : "戦闘指揮所",
-	"SettingsLevellingDifference" : "点滅する改造までのレベル差",
+	"SettingsStrategyTheme" : "テーマ",
 
 	"SettingsChuuiWarningDangerousFeature" : "\n本当に変更しますか？\n\n",
 	"SettingsErrorNG" : "保存した",
@@ -283,6 +294,8 @@
 
 	"UpdatedTitle": "KC3改がアップデートされました",
 	"UpdateText": "KC3改が自動的に更新されましたので、もし今ゲーム中でしたらいくつかの機能が不具合になってしまった場合があります。一度ゲームとKC3改タップを閉じ、再起動してください。勿論艦隊が出撃中なら母港に帰投してからやってください。",
+	"NewVerViewChangelogGithub": "GitHubで変更履歴を読む",
+	"NewVerViewWikiGithub": "GitHubで説明Wikiを読む",
 
 	"Enabled" : "有効",
 	"Small" : "小",
@@ -322,6 +335,12 @@
 	"CatBombAPIDataErrorMsg"   : "只今の通信にはサーバーからエラーの報告を受けました。ゲームがメンテナンスに入てるか、APIリンクまだ使えるのを確認して、ゲーム再起動してください。",
 	"CatBombMissingServerTimeTitle" : "サーバーの時刻を取れませんでした",
 	"CatBombMissingServerTimeMsg"   : "サーバーから時刻情報を取るのが失敗しました(多分プロキシのせい)。あなたのパソコンの時計がズレてないかぎに問題ないが、そうでないの場合はいくつかの機能が正しく動けません。",
+
+	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
+	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。たぶんゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
+
+	"Bomb201Title": "APIエラーコード201",
+	"Bomb201Message": "APIリスポーンからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めます！",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

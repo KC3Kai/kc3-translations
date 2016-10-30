@@ -335,12 +335,10 @@
 	"CatBombAPIDataErrorMsg"   : "只今の通信にはサーバーからエラーの報告を受けました。ゲームがメンテナンスに入てるか、APIリンクまだ使えるのを確認して、ゲーム再起動してください。",
 	"CatBombMissingServerTimeTitle" : "サーバーの時刻を取れませんでした",
 	"CatBombMissingServerTimeMsg"   : "サーバーから時刻情報を取るのが失敗しました(多分プロキシのせい)。あなたのパソコンの時計がズレてないかぎに問題ないが、そうでないの場合はいくつかの機能が正しく動けません。",
-
-	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
-	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。たぶんゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
-
 	"Bomb201Title": "APIエラーコード201",
 	"Bomb201Message": "APIリスポーンからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めます！",
+	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
+	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。たぶんゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

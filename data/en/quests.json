@@ -907,12 +907,14 @@
     "831": {
         "code": "SB12",
         "name": "Saury Fishing: Light it Up! Saury Fishing Aid!",
-        "desc": "Have 3 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]."
+        "desc": "Have 3 sauries in your inventory. They can be farmed from [W1], [W3], and [W6].",
+        "unlock": [ 832 ]
     },
     "832": {
         "code": "SB13",
         "name": "Saury Fishing: More, More! Keep Fishing for Saury!",
-        "desc": "Have 8 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand."
+        "desc": "Have 8 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand.",
+        "unlock": [ 833 ]
     },
     "833": {
         "code": "SB14",

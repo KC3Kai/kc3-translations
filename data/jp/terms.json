@@ -29,8 +29,8 @@
 	"Experience": "提督経験値",
 	"Name": "提督名",
 
-	"MenuDMMLoginName" : "DMMへログイン",
-	"MenuDMMLoginDesc" : "ゲーム始まる前に先ずdmm.comへログインする必要があります",
+	"MenuDMMLoginName" : "DMMにログイン",
+	"MenuDMMLoginDesc" : "ゲーム始まる前に先ずdmm.comにログインする必要があります",
 	"MenuPlayAPIName" : "KC3改で艦これを起動する",
 	"MenuPlayAPIDesc" : "ウィジェット状態で起動します。ゲーム画面のみの表示です",
 	"MenuRefreshAPIName" : "APIリンクを更新",
@@ -291,11 +291,10 @@
 
 	"InstalledTitle": "KC3改がインストールされました",
 	"InstallText": "KC3改をインストール頂き、誠にありがとうございました！<br/>これで「艦これ」をより快適に遊んでもらえてくれたら嬉しいです！もし何か質問でもあったら「開発者たち」ページにて連絡方法を確認し、問い合わせしに来てください。",
-
+	"NewVerViewWikiGithub": "GitHubで説明Wikiを読む",
 	"UpdatedTitle": "KC3改がアップデートされました",
 	"UpdateText": "KC3改が自動的に更新されましたので、もし今ゲーム中でしたらいくつかの機能が不具合になってしまった場合があります。一度ゲームとKC3改タップを閉じ、再起動してください。勿論艦隊が出撃中なら母港に帰投してからやってください。",
 	"NewVerViewChangelogGithub": "GitHubで変更履歴を読む",
-	"NewVerViewWikiGithub": "GitHubで説明Wikiを読む",
 
 	"Enabled" : "有効",
 	"Small" : "小",
@@ -338,7 +337,7 @@
 	"Bomb201Title": "APIエラーコード201",
 	"Bomb201Message": "APIリスポーンからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めます！",
 	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
-	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。たぶんゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
+	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。多分ゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

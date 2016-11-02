@@ -58,7 +58,7 @@
 	"MenuUpdate" : "Pembaruan KC3改",
 	"MenuOnLatest" : "Terbaru!",
 	"MenuScheduledNow" : "Dijadwalkan",
-	"MenuScheduledSoon" : "Akan datang...",
+	"MenuScheduledSoon" : "terjadwal",
 	"MenuPvPReset" : "Waktu reset PvP",
 	"MenuQuestReset" : "Waktu reset Quest",
 	"MenuServerMaintenance" : "Maintenance Server Berikutnya",
@@ -71,6 +71,13 @@
 	"GameAPIRemoveTitle" : "Hapus API link",
 	"GameAPIRemoveDesc" : "Jika anda ingin menghapus API Link yang telah tersimpan:",
 	"GameAPIRemoveBtn" : "Hapus API Link",
+	
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API Link Whitescreen",
+	"GameAPIPlayFlashNoticeDesc" : "Semenjak Chrome versi 54 keatas, bermain via API Link hanya akan memperlihatkan layar putih dan tidak otomatis seperti biasa. Ini salah satu cara Chrome untuk mencela Flash Player. Akan ada 1 (satu) cara tambahan untuk lanjut bermain, walaupun Kami merekomendasikan bermain via DMM Frame. Jika masih ingin lanjut, silahkan ikuti langkah-langkah berikut. Ini Aman kok, hanya masalah Chrome vs Flash, bukan dari Kancollenya~<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Pergi kesini: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Cari bagian \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Petik dikotak \"Always allowed to run\"",
+	"GameAPIPlayFlashNoticeStep4": "Restart browsernya lalu Kancolle~",
 	
 	"GameAPINoExist" : "Anda tidak memiliki API Link tersimpan",
 	"GameAPIGetTitle" : "Untuk mendapatkan API link baru",
@@ -157,6 +164,8 @@
 	"SettingsTimeFinished" : "Selesai",
 	"SettingsCheckLiveQuests" : "Periksa TL Quest terbaru",
 	"SettingsDevOnlyPages" : "Hal. Strategi Khusus Dev.",
+	"SettingsForceDMMLogin" : "Paksa login DMM",
+	"SettingsAPIRecorder" : "Panel pencatat API",
 
 	"SettingsGameInfo" : "Informasi Game",
 	"SettingsDropFaces" : "Wajah Kapal Yang Didapat",
@@ -249,6 +258,7 @@
 	"SettingsSubtitleFontDesc": "Font family yang sah di CSS. Buka http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "Ukuran Font Subtitle",
 	"SettingsSubtitleBold": "Font Subtitle Tebal",
+	"SettingsGoogleTranslate": "Bantuan Google Translate",
 
 	"SettingsDMMGameplay" : "Pengaturan DMM",
 	"SettingsDMMCustomize" : "Terapkan Pengaturan",
@@ -277,12 +287,16 @@
 	"SettingsErrorValue" : "Nilai",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
+	"SettingsStrategyRoom" : "Ruang Strategy",
+	"SettingsStrategyTheme" : "Tema Ruang Strategy",
+	
 	"InstalledTitle": "KC3改 siap membantu!",
 	"InstallText": "Terima kasih telah memasang KC3改! Kami harap alat ini dapat membantu Anda bermain Kancolle lebih baik! Jangan takut untuk bertanya kepada kami. Periksalah di \"Tentang Pengembang KC3改\" agar dapat kontak dengan kami.",
 	
-	
 	"UpdatedTitle": "KC3改 telah diperbarui!",
 	"UpdateText": "Jika anda sedang bermain KanColle, harap tutup jendela permainan dan mulai kembali permainannya, karena beberapa fitur di panel mungkin akan bug. Jika Anda di tengah pertempuran, selesaikan dahulu, karena beberapa fitur seperti prediksi mungkin tidak akan bekerja seperti biasanya sebelum di buka ulang.",
+	"NewVerViewChangelogGithub": "Lihat daftar perubahan di GitHub",
+	"NewVerViewWikiGithub": "Lihat penggunaan wiki di GitHub",
 	
 	"Enabled" : "Diaktifkan",
 	"Small" : "Kecil",
@@ -319,6 +333,12 @@
 	"CatBombAPIDataErrorMsg"   : "Kegiatan terakhir menutup komunikasi jaringan dengan server namun server merespon error. Cek apakah saat ini ada maintenance, atau cek apakah API Link masih bekerja.",
 	"CatBombMissingServerTimeTitle" : "Tidak Dapat Mengambil Waktu Server",
 	"CatBombMissingServerTimeMsg"   : "Terdapat kesalahan pada komunikasi dengan server (atau proxy). Harap cek apakah jam komputer anda benar, kemunkinan akan menyebabkan beberapa karusakan di game.",
+	
+	"APIErrorNoticeTitle": "KC3改 menemukan error di data permainan",
+	"APIErrorNoticeMessage": "Sepertinya ada error ketika kami mencoba menangani data untuk {0}. API permainan mungkin telah terubah, jadi beberapa fitur mungkin akan rusak atau tidak akurat.",
+	
+	"Bomb201Title": "Binggo~ Error 201~",
+	"Bomb201Message": "Selamat~ Kamu mendapatkan Error 201~ Ini berarti Kamu sudah melakukan hal yang berulang kali secara terus-menerus sehingga Kamu dianggap sebagai BOT. Lakukanlah sorti ditempat yang berbeda, atau lakukan hal lain seperti istirahat atau menghabiskan waktu dengan shipfu-mu \u2665 .",
 	
 	"SpeedFast" : "Cepat",
 	"SpeedSlow" : "Pelan",
@@ -473,6 +493,15 @@
 	"ModernizationResultLeft" : "Tersisa {0}",
 	"ModernizationResultNote" : "Nilai status yang ada tidak ditambah dengan equipment",
 	
+	"FitWeightUnknown": "Tidak diketahui",
+	"FitWeight_-3": "Bonus Ketidakcocokan Besar",
+	"FitWeight_-2": "Bonus Ketidakcocokan Menengah",
+	"FitWeight_-1": "Bonus Ketidakcocokan Kecil",
+	"FitWeight_0": "Netral",
+	"FitWeight_1": "Bonus Kecocokan Kecil",
+	"FitWeight_2": "Bonus Kecocokan Menengah",
+	"FitWeight_3": "Bonus Kecocokan Besar",
+	
 	"DesktopNotifyExpedCompleteTitle" : "Ekspedisi Selesai!",
 	"DesktopNotifyExpedCompleteMessage" : "Armada {0} baru saja kambali dari Ekspedisi #{1}",
 	"DesktopNotifyRepairCompleteTitle" : "Perbaikan Selesai!", 
@@ -527,4 +556,6 @@
 	"MasterShipGoQuotes" : "Cek Subtittle",
 	
 	"Dummy" : "Dummy"
+	
+	
 }

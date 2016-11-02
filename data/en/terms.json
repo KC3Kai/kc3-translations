@@ -493,6 +493,15 @@
 	"ModernizationResultLeft" : "{0} left",
 	"ModernizationResultNote" : "Stats indicated are values without equipment",
 	
+	"FitWeightUnknown": "Unknown",
+	"FitWeight_-3": "Fit Penalty Large",
+	"FitWeight_-2": "Fit Penalty Medium",
+	"FitWeight_-1": "Fit Penalty Small",
+	"FitWeight_0": "Neutral",
+	"FitWeight_1": "Fit Bonus Small",
+	"FitWeight_2": "Fit Bonus Medium",
+	"FitWeight_3": "Fit Bonus Large",
+	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",
 	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",

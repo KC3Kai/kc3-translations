@@ -58,7 +58,7 @@
 	"MenuUpdate" : "版本状态",
 	"MenuOnLatest" : "目前是最新版本！",
 	"MenuScheduledNow" : "有新版本！",
-	"MenuScheduledSoon" : "敬请期待…",
+	"MenuScheduledSoon" : "暂无安排",
 	"MenuPvPReset" : "距演习对手刷新还有",
 	"MenuQuestReset" : "距日常任务刷新还有",
 	"MenuServerMaintenance" : "距下次服务器维护还有",
@@ -71,6 +71,13 @@
 	"GameAPIRemoveTitle" : "删除API链接",
 	"GameAPIRemoveDesc" : "删除已保存的API链接:",
 	"GameAPIRemoveBtn" : "删除API链接",
+
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API模式白屏问题",
+	"GameAPIPlayFlashNoticeDesc" : "从Chrome 54开始，以API模式启动会只显示白屏而无法进行游戏。这是Chome弃用Flash的一个动作。我们推荐通过框架模式开始游戏，但您可以通过以下步骤继续使用API模式（以下步骤是安全的，且只需设置一次。这只是Chrome和Flash之间的问题，和舰队收藏游戏本身无关。） <br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "访问以下地址：<code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "寻找“Adobe Flash Player”一项",
+	"GameAPIPlayFlashNoticeStep3": "在“始终允许运行”选项上打勾",
+	"GameAPIPlayFlashNoticeStep4": "重启浏览器并运行游戏",
 
 	"GameAPINoExist" : "你没有任何已保存的API链接",
 	"GameAPIGetTitle" : "获取新的API链接",
@@ -171,6 +178,7 @@
 	"SettingsCheckLiveQuests" : "自动检查新任务的翻译",
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
+	"SettingsAPIRecorder" : "API 记录器面板",
 
 	"SettingsGameInfo" : "游戏信息",
 	"SettingsDropFaces" : "揭示掉落的舰娘",
@@ -279,11 +287,17 @@
 	"SettingsErrorValue" : "值",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"SettingsStrategyRoom" : "作战指挥所",
+	"SettingsStrategyTheme" : "作战指挥所主题",
+
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
 	
 	"UpdatedTitle": "KC3改 已完成升级！",
 	"UpdateText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
+
+	"NewVerViewChangelogGithub": "浏览GitHub上的改动日志",
+	"NewVerViewWikiGithub": "浏览GitHub上的用户手册",
 
 	"Enabled" : "开启",
 	"Small" : "小",
@@ -320,6 +334,12 @@
 	"CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
+	
+	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
+	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",
+
+	"Bomb201Title": "游戏错误 201",
+	"Bomb201Message": "从游戏API收到错误 201，可能已在别处登录或是与脚本检测机制相关。您可忽略本条消息，但请适度游戏。",
 
 	"SpeedFast" : "高速",
 	"SpeedSlow" : "低速",

@@ -258,6 +258,15 @@
 	"SettingsSubtitleFontDesc": "CSS-valid font family. See http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "Subtitle Font Size",
 	"SettingsSubtitleBold": "Subtitle Bold Font",
+	"SettingsSubtitleDisplay": "Subtitle Display",
+	"SettingsGoogleTranslate": "Google Translate Fallback",
+	
+	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
+	"SubtitleDisplayBelow": "(Below) Fixed right below the game screen",
+	"SubtitleDisplayStick": "(Stick) Fixed on the bottom of browser window",
+	"SubtitleDisplayEvade": "(Evade) Bottom of game screen, moves to top on hover",
+	"SubtitleDisplayGhost": "(Ghost) Bottom of game screen, ghost mode on hover",
+	"SubtitleDisplayFree": "(Free) Free-form, can drag-drop subtitle box",
 	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
@@ -287,7 +296,6 @@
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
 	"SettingsStrategyRoom" : "Strategy Room",
-	"SettingsLevellingDifference" : "Leveling Difference",
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	
 	"InstalledTitle": "KC3改 ready for service!",
@@ -338,7 +346,7 @@
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
 	
 	"Bomb201Title": "Game Error 201",
-	"Bomb201Message": "You have received an error 201 from the game API. This is said to be connected to bot detectors. Please play in moderation. You may ignore this notice but your actions are your responsibility.",
+	"Bomb201Message": "You have received an error 201 from the game API. You could be still logged in on another game client, or this may have something to do with macro-detection. You may ignore this notice but please play in moderation.",
 	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",
@@ -492,6 +500,15 @@
 	
 	"ModernizationResultLeft" : "{0} left",
 	"ModernizationResultNote" : "Stats indicated are values without equipment",
+	
+	"FitWeightUnknown": "Unknown",
+	"FitWeight_-3": "Fit Penalty Large",
+	"FitWeight_-2": "Fit Penalty Medium",
+	"FitWeight_-1": "Fit Penalty Small",
+	"FitWeight_0": "Neutral",
+	"FitWeight_1": "Fit Bonus Small",
+	"FitWeight_2": "Fit Bonus Medium",
+	"FitWeight_3": "Fit Bonus Large",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",

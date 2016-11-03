@@ -283,10 +283,10 @@
 	"CatBombWrongComputerClockMsg"   : "Пожалуйста, исправьте время. Вам не нужно находиться в часовом поясе Японии, но время должно соответствовать вашему часовому поясу! Разница в {0} минут.",
 	"CatBombErrorOnHomePortTitle" : "Ошибка во время входа на главный экран",
 	"CatBombErrorOnHomePortMsg"   : "Пожалуйста, перезагрузите игру.",
-	"CatBombAPIDataErrorTitle" : "API Data Error",
-	"CatBombAPIDataErrorMsg"   : "The most recent action completed the network communication with server but returned an error. Check if it's now maintenance, or if your API link is still working.",
-	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
-	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication with server (or via the proxy). It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
+	"CatBombAPIDataErrorTitle" : "Ошибка в данных API",
+	"CatBombAPIDataErrorMsg"   : "Самые последния действия получили доступ к серверу, однако в ответ пришла ошибка. Проверьте наличие профилактических работ на серверах, либо работу своей API-ссылки.",
+	"CatBombMissingServerTimeTitle" : "Не удалось получить время сервера",
+	"CatBombMissingServerTimeMsg"   : "Что-то не так со связью с сервером (или прокси). Проверьте правильность времени на вашем компьютере, иначе это нарушит функциональность.",
 
 	"SpeedFast" : "Быстрый",
 	"SpeedSlow" : "Медленный",
@@ -422,11 +422,28 @@
 
 	"InstalledTitle" : "KC3改 готов к работе!",
 	"UpdatedTitle" : "KC3改 был обновлен!",
-	"InstallText" : "Спасибо за установку KC3改! Мы надеемся, что наше расширение сделает вашу игру в канколле более приятной и удобной! Не стесняйтесь обращаться к нам за помощью. Проверьте страницу \"О разработчиках KC3改\", чтобы знать, как с нами связаться.",
+	"InstallText" : "Спасибо за установку KC3改! Мы надеемся, что наше расширение сделает вашу игру в KanColle более приятной и удобной! Не стесняйтесь обращаться к нам за помощью. Проверьте страницу \"О разработчиках KC3改\", чтобы знать, как с нами связаться.",
 	"UpdateText" : "Если Вы в данный момент играете в KanColle, некоторые функции могут не работать. Пожалуйста, закройте вкладку с игрой и перезапустите её. Если вы ещё в плавании, пожалуйста, сперва завершите его; но знайте, что некоторые функции, такие как информация и предсказание, могут не работать как положено до перезапуска.",
 	
-	"MenuScheduledSoon":"скоро...",
-	"PanelResupplyCosts":"Понадобится топлива = {0}, снарядов = {1}, бокситов = {2}",
+	"GameAPIPlayFlashNoticeTitle" : "Белый экран по API-ссылке в Chrome 54+",
+	"GameAPIPlayFlashNoticeDesc" : "Начиная с 54-й версий Chrome, игра через API-ссылку выдаст белый экран и не позволит продолжить. Это один из шагов браузера к отказу от Flash. Есть одноразовый дополнительный шаг, который нужно выполнить для продолжения игры. Тем не менее, мы советуем играть через DMM Frame. Если вы всё же желаете продолжить, следуйте инструкции. Всё безопасно. Всё это - Flash vs Chrome, и никак не связано с Kantai Collection.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Перейдите по адресу: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Загляните в раздел \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Поставьте галочку напротив пунта \"Запускать всегда\"",
+	"GameAPIPlayFlashNoticeStep4": "Перезапустите браузер и зайдите в игру",
+
+	"APIErrorNoticeTitle": "KC3改 обнаружил ошибку в данных игры",
+	"APIErrorNoticeMessage": "Похоже, при обработке данных игры для {0} произошла ошибка. Скорее всего, изменился игровой API, поэтому некоторые функции могут быть неточными или не работать.",
+
+	"Bomb201Title": "Ошибка 201",
+	"Bomb201Message": "Вы получили ошибку 201 от игрового API. Может быть, вы ещё играете через другой клиент, либо это как-то связано с макро-детекцией. Вы можете проигнорировать это сообщение, но просим вас играть в меру.",
+
+	"SettingsStrategyRoom" : "Стратегиум",
+	"SettingsStrategyTheme" : "Тема Стратегиума",
+
+	"SettingsAPIRecorder" : "Панель записи API",
+	"MenuScheduledSoon" : "не запланирован",
+	"PanelResupplyCosts" : "Понадобится топлива = {0}, снарядов = {1}, бокситов = {2}",
 	
 	"CraftEquipNoteFirst" : "Это ваше <strong>первое</strong> оборудование!",
 	"CraftEquipNoteExists" : "У вас уже <strong>{0}</strong> единиц этого оборудования!",

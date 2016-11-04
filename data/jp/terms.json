@@ -240,6 +240,7 @@
 
 	"SettingsAPIGameScreen" : "APIゲーム画面",
 	"SettingsQuestOverlay" : "任務翻訳に改造(他の言語用)",
+	"SettingsGoogleTranslate": "任務翻訳にGoogle翻訳使用",
 	"SettingsQuestTracking" : "任務完成度表示",
 	"SettingsPanelRequirement" : "下パネル必須",
 	"SettingsDirectRefresh" : "ページリフレッシュ(危険)",
@@ -258,6 +259,14 @@
 	"SettingsSubtitleFontDesc": "font-familyのCSSプロパティをwww.cssfontstack.comにて参照してください。",
 	"SettingsSubtitleSize": "字幕フォントのサイズ",
 	"SettingsSubtitleBold": "字幕フォントを太くする",
+	"SettingsSubtitleDisplay": "字幕表示位置",
+
+	"SubtitleDisplayBottom" : "(Bottom) ゲーム画面の下部に固定",
+	"SubtitleDisplayBelow"  : "(Below) ゲーム画面外の下に固定",
+	"SubtitleDisplayStick"  : "(Stick) ブラウザウインドーの下部に固定",
+	"SubtitleDisplayEvade"  : "(Evade) ゲーム画面下部だがマウスーを避けて上部に",
+	"SubtitleDisplayGhost"  : "(Ghost) ゲーム画面下部だがマウスーを避けて消える",
+	"SubtitleDisplayFree"   : "(Free) 自由に字幕の文字を移動できる",
 
 	"SettingsDMMGameplay" : "DMMゲーム画面",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
@@ -485,6 +494,15 @@
 
 	"ModernizationResultLeft" : "あと {0}",
 	"ModernizationResultNote" : "装備補正を除いた数値です",
+
+	"FitWeightUnknown" : "補正不明",
+	"FitWeight_-3" : "フィットペナルティ：大",
+	"FitWeight_-2" : "フィットペナルティ：中",
+	"FitWeight_-1" : "フィットペナルティ：小",
+	"FitWeight_0"  : "ジャストフィット",
+	"FitWeight_1"  : "フィットボーナス：小",
+	"FitWeight_2"  : "フィットボーナス：中",
+	"FitWeight_3"  : "フィットボーナス：大",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",

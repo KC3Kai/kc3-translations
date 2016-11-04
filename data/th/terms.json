@@ -258,7 +258,16 @@
 	"SettingsSubtitleFontDesc" : "แบบฟอนต์ที่ใช้งานได้ ดูที่นี่ http://www.cssfontstack.com",
 	"SettingsSubtitleSize" : "ปรับขนาดของซับไตเติ้ล",
 	"SettingsSubtitleBold" : "ปรับตัวหนาของซับไตเติ้ล",
-
+	"SettingsSubtitleDisplay": "การแสดงซับไตเติ้ล",
+	"SettingsGoogleTranslate": "ใช้ Google แปลภาษา",
+	
+	"SubtitleDisplayBottom": "[ด้านล่าง] แสดงซับไตเติ้ลที่ด้านล่างของหน้าจอเกม",
+	"SubtitleDisplayBelow": "[ข้างใต้] แสดงซับไตเติ้ลที่ข้างใต้ของหน้าจอเกม",
+	"SubtitleDisplayStick": "[ล่างสุด] แสดงซับไตเติ้ลด้านล่างสุดของหน้าเว็บ",
+	"SubtitleDisplayEvade": "[ด้านล่าง/หลบ] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะแสดงที่ด้านบนของหน้าจอเกมแทน",
+	"SubtitleDisplayGhost": "[ด้านล่าง/ซ่อน] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะปิดการแสดง",
+	"SubtitleDisplayFree": "[กำหนดเอง] จุดที่แสดงซับไตเติ้ลย้ายได้ตามความต้องการ",
+	
 	"SettingsDMMGameplay" : "ตั้งค่าหน้าเว็บ DMM",
 	"SettingsDMMCustomize" : "ตั้งค่าการปรับแต่ง",
 	"SettingsDMMForceCookies" : "บังคับใช้งาน Cookie Hack",
@@ -489,6 +498,15 @@
 	"ModernizationResultLeft" : "เหลือ {0}",
 	"ModernizationResultNote" : "ค่าสเตตัสนี้ยังไม่รวมที่ได้จากอุปกรณ์",
 
+	"FitWeightUnknown": "ไม่มีข้อมูล",
+	"FitWeight_-3": "[-3] ปืนหนักเกินไป",
+	"FitWeight_-2": "[-2] ปืนหนักมาก",
+	"FitWeight_-1": "[-1] ปืนหนักเล็กน้อย",
+	"FitWeight_0": "[0] ปืนปกติ",
+	"FitWeight_1": "[1] ปืนพอดี",
+	"FitWeight_2": "[2] ปืนพอดีมาก",
+	"FitWeight_3": "[3] ปืนพอดีที่สุด",
+	
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ #{1} แล้ว",
 	"DesktopNotifyRepairCompleteTitle" : "ซ่อมเรือ เสร็จแล้ว!",

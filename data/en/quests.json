@@ -459,13 +459,15 @@
     "178": {
         "code": "A73",
         "name": "Form the 16th Cruiser Division (Third Generation)!",
-        "desc": "Have Kinu, Aoba, Kitakami and Ooi in your fleet."
+        "desc": "Have Kinu, Aoba, Kitakami and Ooi in your fleet.",
+        "unlock": [ 835 ]
     },
     "179": {
         "code": "A74",
         "name": "Reform the Elite 16th Cruiser Division!",
         "desc": "Have Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai in your fleet.",
-        "memo": "\u27a3Rewards a Repair Team"
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 836 ]
     },
     
     "202": {
@@ -1014,13 +1016,15 @@
         "code": "B84",
         "name": "Sortie the 16th Cruiser Division (Third Generation)!",
         "desc": "Sortie Kinu, Aoba, Kitakami, Ooi and up to 2 additional ships to [W2-4]. A-Rank+ the boss node.",
-        "memo": "\u27a3Rewards furniture"
+        "memo": "\u27a3Rewards furniture",
+        "unlock": [ 179 ]
     },
     "836": {
         "code": "B85",
         "name": "Break Through With the Elite 16th Cruiser Division!",
         "desc": "Sortie Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai to [W2-5]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Toku Daihatsu Landing Craft"
+        "memo": "\u27a3Rewards a Toku Daihatsu Landing Craft",
+        "unlock": [ 837 ]
     },
     "837": {
         "code": "B86",

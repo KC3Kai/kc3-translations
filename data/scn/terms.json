@@ -257,6 +257,16 @@
 	"SettingsSubtitleFont" : "字幕字体",
 	"SettingsSubtitleSize" : "字幕大小",
 	"SettingsSubtitleFontDesc": "指定CSS支持的字体。参见 http://www.cssfontstack.com",
+	"SettingsSubtitleDisplay": "字幕显示",
+	"SettingsSubtitleSpeaker": "字幕前加舰名",
+	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
+
+	"SubtitleDisplayBottom": "固定于下方（界面内）",
+	"SubtitleDisplayBelow": "固定于下方（界面外）",
+	"SubtitleDisplayStick": "固定于页面底部",
+	"SubtitleDisplayEvade": "显示于下方（界面内），鼠标经过时挪至上方",
+	"SubtitleDisplayGhost": "固定于下方（界面内），鼠标经过时透明",
+	"SubtitleDisplayFree": "自由模式，可拖拽",
 
 	"SettingsDMMGameplay" : "网页模式",
 	"SettingsDMMCustomize" : "允许自定义",
@@ -492,6 +502,15 @@
 
 	"ModernizationResultLeft" : "剩余 {0}",
 	"ModernizationResultNote" : "注：裸装属性",
+
+	"FitWeightUnknown": "未知",
+	"FitWeight_-3": "超重（大）",
+	"FitWeight_-2": "超重（中）",
+	"FitWeight_-1": "超重（微）",
+	"FitWeight_0": "均衡",
+	"FitWeight_1": "适重（微）",
+	"FitWeight_2": "适重（中）",
+	"FitWeight_3": "适重（大）",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",

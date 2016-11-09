@@ -152,6 +152,14 @@
         "Rainy 6547": "It rains a lot at this time of year. I feel bad for Rensouhou-chan. Summer, come quickly! Hurry, hurry~!",
         "Summer 6547": "Summer...! Let's go swimming with Rensouhou-chan. I won't lose even if we race at swimming! After all, I'm fast!"
     },
+    "229": {
+        "3": "Admiral, good morning!",
+        "29": "Hmm... ah. I'm just chatting with Rensouhou-chan now... *sigh*... 'cause I'm bored!",
+        "27": "The resupply is slow!!",
+        "16": "Quintuple oxygen torpedoes! Here they come!",
+        "20": "I went so fast that I overheated!",
+        "21": "Augh! That really hurts!"
+    },
     "107": {
         "1": "Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?",
         "25": "Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!",
@@ -465,34 +473,34 @@
     },
     "112": {},
     "113": {
-        "1": "Yeah yeah yeah! Finally, Kinu has arrived!",
-        "25": "Born in Kobe, I'm Kinu! I trained well at the Maizuru School. After lots of dangerous things happened, I did my best in the Southwest... Well, that was bad too. Kuma-chan was suprisingly helpful too. But... Panay Island was seriously panai!",
-        "2": "I will work hard again today, too.",
-        "3": "When I look at the admirals face, I get all motivated~",
-        "4": "Hm, what's up? Why don't we sweat it out together?",
-        "29": "Admiral~ Aren't we going to train or anything?",
-        "28": "Admiral~! Shall I give you a shoulder massage? Or perhaps, some training?",
-        "24": "Admiral! We're always just training together, maybe that's a signal that we should spend some more time together\u2026 maybe\u2026 haa.. Eh!? No, I didn't mean it in that way, I mean that I since I'm nearest to you, I should protect you\u2026 I want to\u2026 yeah\u2026 ah, whatever!",
-        "8": "What, the report? Lemme see, lemme see!",
-        "13": "Light cruiser Kinu, going out!",
-        "9": "Yup, this is perfect!",
-        "10": "Anti-aircraft weaponry is very important, you know?",
-        "26": "All you can do is practice!",
-        "27": "This way I can do my best again.",
+        "1": "I'm here, I'm here! Kinu has arrived at last!",
+        "25": "I was born in Kobe!<br /><br />I trained hard in the School of Maizuru. After a whole lot of tough things happened, I worked hard in the southwest region. ...Well, that was tough, too... Kuma-chan was a big help out there. But still... Panay Island was pure madness!",
+        "2": "I'm gonna work hard again today!",
+        "3": "When I look at your face, I start to get all motivated~",
+        "4": "Hm? What's up? You wanna sweat it out together?",
+        "29": "Admiral...! Can't we go train or something soon~?",
+        "28": "Admiral! You want a shoulder massage? Or maybe you wanna go train?",
+        "24": "Admiral! We're always just training together, so maybe it's a sign that we should spend more time... together... Eh!? No, I didn't mean it that way. I mean the one closest to you should protect you... I just want to... uuu... ... ...whatever!",
+        "8": "What's that\u2014 the intelligence report? Lemme see!",
+        "13": "Light cruiser Kinu, now sortieing!",
+        "9": "Alright! This is perfect!",
+        "10": "It's important to put on some anti-air, you know?",
+        "26": "Practice makes perfect!",
+        "27": "I can keep doing my best with this.",
         "11": "After a battle, isn't a bath just great?",
-        "12": "Ah, I've had it... I'm going to rest for a bit~!",
-        "5": "A new friend! That's great!",
-        "7": "Oooi, Admiral~! The fleet has returned~",
-        "14": "Alright, I'll show you the results of my training.",
-        "15": "Adapt to changes while maintaining formation. Let's go!",
-        "16": "Begin attack-!",
-        "18": "A~lright, let's begin the pursuit!",
-        "17": "Enemies on the port, take this!",
-        "23": "This victory is the result of the practice battles, yes. I will continue to work hard, Admiral!",
-        "19": "Ugh, only this amount!",
-        "20": "Gunya!? I'm not finished yet!",
-        "21": "Kinu won't sink with just this.",
-        "22": "Admiral, sorry, looks like this is it for me... please withdraw the other girls...",
+        "12": "I've had enough... Gonna take a little break!",
+        "5": "It's a new comrade! That's great!",
+        "7": "Heeey, Admiral~! The fleet has returned!",
+        "14": "Alright! I'll show you the results of my training!",
+        "15": "Adapt to the situation while maintaining formation. Let's go!",
+        "16": "Open... fire...!",
+        "18": "Now then, let's get this pursuit op moving!",
+        "17": "You enemies to port\u2014 take that!",
+        "23": "This victory is the result of all that training, you know? Yeah! I'll keep working hard, Admiral!",
+        "19": "Kuh...! This much is...!",
+        "20": "Gunya...!? I'm not done yet!",
+        "21": "Even like this, there's no way I'll sink...!",
+        "22": "Admiral... I'm sorry... looks like... this is it for me... Please let the other girls retrea-",
         "30": "Kinu's! Midnight anno~uncement!",
         "31": "1 o'clock!. I'm going to sleep soon, 'kay? G'night~",
         "32": "It's 2 o'clock. It's the middle of the night, how scary~!",
@@ -525,17 +533,18 @@
     },
     "289": {},
     "487": {
-        "1": "",
-        "2": "",
-        "4": "",
+        "1": "Light cruiser Kinu! Admiral, let's get this moving!",
+        "25": "",
+        "2": "Hm? What's up, what's up? What's up, Admiral~?",
+        "4": "Kehehehyahyahu\u266a ...Not there! That's my weak point!",
         "28": "",
-        "10": "",
-        "26": "",
-        "5": "",
-        "14": "",
-        "16": "",
-        "17": "",
-        "19": ""
+        "10": "Anti-air is super important, you know? It's the age of anti-air! It's pure madness.",
+        "26": "Now this is pure madness!",
+        "5": "Admiral! It's another new girl! We sure are popular~ Come, come\u266a Come on\u266a",
+        "14": "This remodel isn't just for show! It's a brand new me! Just you watch!",
+        "16": "Come on, come on!<br />Come at me with whatever you want!",
+        "17": "Oni-san, this way! Follow the sound of my clapping!",
+        "19": "Angry oni!? Piss off!"
     },
     "9": {
         "1": "Nice to meet you! I'm Fubuki! Thanks for having me!",
@@ -969,7 +978,7 @@
         "Summer 6547": "I wonder what Mogamin is going to do for her swimsuit this year. I want to have new matching swimsuits.",
         "Summer 1471": "In the end, we couldn't buy matching swimsuits. Eh? Admiral, you want to play beach volleyball? Kumarinko is... I'm fine.",
         "6547": "Fall! It's a time of year when everything looks so appetizing! No... Mikuma, you can't lose to your appetite here! Mogamin wouldn't like it if you got fat.",
-        "Fall 6547": "Saury? Is that an upper class fish? Hmm... I'm not sure I really want any. ...Ah! Delicious! Saury tastes so good!"
+        "Saury 6547": "Saury? Is that an upper class fish? Hmm... I'm not sure I really want any. ...Ah! Delicious! Saury tastes so good!"
     },
     "121": {
         "1": "Admiral, I've attained a new form!",
@@ -1210,7 +1219,7 @@
         "Summer 6547": "Aoba, it's getting hot. Summer is on the way, huh... eh? A swimsuit? Hmmm, what should I do? Hmmmm.",
         "Fall 6547": "Fall, huh? This time of year is just a little... I don't really like it, ya know? I feel like I have to watch the skies. Maybe I'm worrying too much? Ahahaha...",
         "Saury 6547": "It's saury fishing season! Alright, even I, Miss Kinugasa, shall be lending a hand! Searchlights and lookouts are in place!",
-        "6547": " "
+        "6547": "*whew* I feel like I've overcome something again this year. *sigh* ...Alright! Mood change! Time to face the end of the year at full sail!"
     },
     "296": {
         "1": "I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.",
@@ -2310,10 +2319,6 @@
         "21": "Not yet... I won't sink from just this!",
         "22": "I guess this is better... than being scuttled..."
     },
-    "223": {
-        "29": "Admiral... um... that is... um...! I'm sorry... it was nothing...",
-        "27": "Thank you for the supplies. I appreciate it."
-    },
     "224": {
         "1": "The fleet's idol, Naka-chan!Nice to meet you!",
         "25": "Selected as the Centre of DesRon 4, it's Naka-chan! Doing lots of work, from guarding transports to doing the Tokyo Express from Truk... Eh? Was it a Provincial tour, you ask? That is SO not what I was doing!",
@@ -2463,15 +2468,7 @@
         "21": "Uhh, but, I- I won't sink, okay.",
         "22": "The unsinkable ship...does not exist in this world."
     },
-    "229": {
-        "3": "Admiral, good morning!",
-        "29": "Hmm... ah. I'm just chatting with Rensouhou-chan now... *sigh*... 'cause I'm bored!",
-        "27": "The resupply is slow!!",
-        "16": "Quintuple oxygen torpedoes! Here they come!",
-        "20": "I went so fast that I overheated!",
-        "21": "Augh! That really hurts!"
-    },
-    "133": {
+"133": {
         "1": "First ship of the Yuugumo-class, Yuugumo, has arrived. Admiral, it's okay to spoil me a bit.",
         "25": "First ship of the final mass-production destroyers. Laid down in Maizuru. My first battle was the ignominious defeat at Midway. It's okay, I don't mind. In the Tokyo Express to that island, Operation Ke, the Battle of the Santa Cruz Islands and the evacuation of Kiska, I fought bravely, no? *sigh*",
         "2": "Admiral, you're here so soon?",
@@ -2732,7 +2729,7 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "It's doing nothing but raining. Let's change the mood by making teru teru bozu. This one is going to be like Yuugumo nee-san! So I do this, and... this! Eh, or is it like this? Huh??",
         "Summer 6547": "Akigumo? Why did you bring something like that to the beach? Geez~ don't make sketches in a place like this! Geez~ ...ah, hey, don't draw Yuugumo Nee-san!",
-        "Fall 6547": "It's fall, huh~? The time for baked sweet potatoes! Akigumo, what's with all that scrap paper? You're gonna burn it? Okay, let's bake some potatoes! I'll go and gather some dried leaves!",
+        "6547": "It's fall, huh~? The time for baked sweet potatoes! Akigumo, what's with all that scrap paper? You're gonna burn it? Okay, let's bake some potatoes! I'll go and gather some dried leaves!",
         "Saury 6547": "Yuugumo nee-san, we're protecting and supporting fisherman-san? Just leave it to me! This kind of thing is my specialty! I'll do my best! Hey, hey, hoooo!"
     },
     "240": {
@@ -3593,36 +3590,6 @@
         "20": "The hell!?",
         "21": "Don't joke with me! J...just wait and see!",
         "22": "Sinking...huh... I had such a simple life..."
-    },
-    "272": {
-        "1": "I am Choukai. My best regards.",
-        "25": "Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.",
-        "2": "Oh, Commander. Thanks for the good work.",
-        "3": "Do you have anything for me yet?",
-        "4": "Oh, this is mission as well?",
-        "29": "I'm confident in night battle, but about the enemy airplanes... Well, I should act like Maya... Uhm... but, but...",
-        "28": "I am always thankful towards you. Being with you, it is a honor.",
-        "24": "If you're ever confused by the strategy, you can always come to me, you know. We'll analyze it, just the two of us.",
-        "8": "Commander, a letter has arrived.",
-        "13": "Setting off! Choukai, launching! ",
-        "9": "Modernization? I'm so happy!",
-        "10": "This equipment... it feels pretty good!",
-        "26": "I'm also so happy!",
-        "27": "Yes, I'm always thankful for the supply!",
-        "11": "I'll start my repairs.",
-        "12": "As expected, looks like I overdid it a little.",
-        "5": "Newbie, huh? Is the commander interested too?",
-        "7": "There's a report on the operation's completion.",
-        "14": "Off we go! Let's do this!",
-        "15": "Enemy spotted, port side! ",
-        "16": "Port-side, prepare to fire!",
-        "18": "Pursuit! You won't get away! ",
-        "17": "Main cannon, reaaaady! Fiiire!",
-        "23": "Just as my calculations predicted. Of course, the commander's strategies were part of it.",
-        "19": "Kya!",
-        "20": "Where was I hit!?",
-        "21": "Even with my calculations... I can't believe it!",
-        "22": "This is... a mistake in my calculations.... I'm sorry..."
     },
     "273": {
         "1": "I am Tone! With my addition to the fleet, there will be no problems searching out the enemy!",
@@ -4636,7 +4603,7 @@
         "Rainy 6547": "Pyaa. So many days of rain, pyaa. I can't go out much during the rainy season. *sigh*",
         "Fall 6547": "Pyaa! It's getting a little cooler, so I'm glad\u266a Commander, what are you doing? Eh? Security and support preparations for the fishing grounds? What is that?",
         "Saury 6547": " ",
-        "6547": " "
+        "6547": "I'm not even a little cold. I wonder if Maizuru is a little colder. Pya!"
     },
     "304": {
         "1": "I'm Naganami, the fourth ship of the Yuugumo-class destroyers. And off we go. Yeah!",
@@ -6020,7 +5987,7 @@
         "Rainy 6547": "Rain... it's no problem. All the more so since it's the rainy season. A cup of hot sake on such a day is nice, too, huh?",
         "Summer 6547": "Hm? The sea in summer? Very well, I'll sortie anytime. Huh? What? In a swimsuit? What for?",
         "Saury 6547": "This is saury fishing support? You need me for that...? Haha! Very well! I'll lend you as much of my power as it takes!",
-        "6547": " "
+        "6547": "Admiral, it's growing colder. Do you care if I come a little closer? Hm? Ahaha! I'm kidding."
     },
     "350": {
         "1": "I am Umikaze, the Seventh of the Shiratsuyu-class Destroyer, and the First of the Revised Shiratsuyu-class. I'll be in your care, Admiral!",
@@ -7323,14 +7290,6 @@
         "22": "No matter how thick the armour... you will sink when the time comes, huh... However, you saw me going wild, didn't you? Good... I'm... satisfied."
     },
     "157": {},
-    "159": {
-        "15": "Naval battle... starting!",
-        "16": "Ready... aim...!",
-        "18": "Under the illumination of searchlights... assault fleet, follow behind me!",
-        "17": "Torpedoes loaded... firing now!",
-        "20": "It hurts... but... not yet!",
-        "21": "Not yet... not yet... I refuse to sink! I can still fire!"
-    },
     "12": {
         "1": "U-um... my name is Isonami. Pleased to meet you.",
         "25": "Ninth ship of the special-type destroyers, Isonami. Though I participated in many different battles, after getting damaged, I ended up in the marine guard and rear patrol. I'll do my best!",
@@ -7447,7 +7406,7 @@
         "Anniversary 6547": "Officer, or rather, Admiral\u2014 congratulations on our third anniversary, sir. I am humbly pleased about it, sir.",
         "Rainy 6547": "It's the rainy season, sir. It has been raining all day, sir. Today I shall maintain my built-in Daihatsu, sir.",
         "Saury 6547": "So this is the saury fishing support mission. I would also like to participate, however... Admiral-dono, is it even possible for me to load the proper equipment?",
-        "6547": " "
+        "6547": "Admiral-dono. As for me, my body aches a bit at this time of year. Is there something that can be done? Well, I'm sure there's nothing to worry about."
     },
     "163": {
         "1": "Nice to meet you... Maruyu, reporting for duty. Huh? You haven't heard about it? ...Oh no...!",
@@ -7504,7 +7463,7 @@
         "53": "2300. Sir, friends are nice, aren't they!",
         "Anniversary 6547": "Captain, congratulations on our third anniversary! I, Maruyu, will mogu mogu happily. I will do my best from now on.",
         "Rainy 6547": "Captain, the rain just keeps on pouring, doesn't it? I'll go fetch us an umbrella, ok? Eh? Did you ask what kind of umbrella I like? Hmm... ah! Yamato's umbrella! It's gorgeous. I love it!",
-        "Fall 6547": "So it's fall? ...Captain, what is that? You're gathering dry leaves... Ah! You're going to bake sweet potatoes! Roger that! I'll do some mole runs for sweet potatoes.",
+        "6547": "So it's fall? ...Captain, what is that? You're gathering dry leaves... Ah! You're going to bake sweet potatoes! Roger that! I'll do some mole runs for sweet potatoes.",
         "Saury 6547": "The fleet's gotten so hectic for some reason. They're completely lit up on their way to the northern sea. Kiso-san, what was that? *nod* *nod* ...So that's what's going on!"
     },
     "164": {
@@ -7540,7 +7499,7 @@
         "Rainy 6547": "Rainy season.... Ah, this teru teru bozu....is cute.... Ah, please....don't mind me....",
         "Fall 6547": "I don't... really like... fall. I'm not... angry. I'm not really... angry, but...",
         "Saury 6547": "Saury is... I like it... saury festival... I... it's good... in my opinion...",
-        "6547": " "
+        "6547": "This is... the taste of the season... the special wine. Is that so? Grown-ups sure... like having so many... festivals."
     },
     "165": {
         "1": "Yay~! I arrived-pyon! My name is Uzuki, you can call me U-chan!",
@@ -7575,7 +7534,7 @@
         "Rainy 6547": "I don't like rainy days, pyon. Puppukupu....",
         "Fall 6547": "Yayoi is looking down, pyon... At times like this, U-chan will do something funny! Here we go... Pupukupuu! ...Huh? Why are you angry, pyon?",
         "Saury 6547": "Saury~! Leave the saury to me, pyon! It's Ucchan's secret double searchlight challenge, pyon! What's it mean? It doesn't really mean anything, pyon. It's fashion, pyon\u266a",
-        "6547": " "
+        "6547": "Ohhh~? Is this the wine I've heard so much about, pyon? U-chan wants to try a little bit too, pyon\u266a *gulp* *gulp* ...Phaaah! Puppukupu~! It's too soon for U-chan, pyon."
     },
     "166": {
         "1": "I have enhanced myself for air combat potential, sir. I am now a carrier, sir.",
@@ -7689,7 +7648,7 @@
         "NotFall 6547": "Commander, I'm sorry. Forget this happened.",
         "Fall 6547": "It's autumn. Once again, that season has come. Alright, bring it on. I, Isokaze, will show how much better I've become. Whether it's saury or anything else, I'll flay it all!",
         "Saury 6547": "*cough* ...No, saury are supposed to be grilled thoroughly like this... Strange. Very strange. This isn't what Urakaze said would happen. Not at all...",
-        "6547": " "
+        "6547": "I'll be certain to... grill the saury properly next year. I'll keep practicing. ...I have no intention of losing to anyone in battle, but cooking skill is also... important."
     },
     "168": {
         "1": "It's me, Urakaze, nice to meet 'ya!",
@@ -8310,7 +8269,7 @@
         "Summer 6547": "Geez, it's midsummer. It's so hot... Shimakaze, how does the heat never seem to get to you? Well, good for you.",
         "Fall 6547": "The summer heat is still around, but it's getting a little more tolerable. Eh? Baked sweet potatoes? Um, I'm not really all that interested. I really don't care... at all...",
         "Saury 6547": "Saury fishing? There's no avoiding it. I'll provide support, then. Searchlights and sonar, right? Hm! I'm all set.",
-        "6547": " "
+        "6547": "Oh, this is pretty good wine. May I have just a little bit, if you don't mind? Just a little... only a little!"
     },
     "182": {
         "1": "I'm Repair ship Akashi. If you take a little damage, I can fix you up in the base. Just leave it to me!",
@@ -8391,7 +8350,7 @@
         "7": "Fleet, the operation has concluded. Thank you for your hard work.",
         "14": "Combined Fleet flagship, Ooyodo, casting off!",
         "15": "Enemy fleet spotted. Ready the cannons, if you would, please!",
-        "16": "Reeady, aiiim... Fiiire!",
+        "16": "Ready, aim... Fiiire!",
         "18": "Remember Operation Rei-Go. All ships, attack!",
         "17": "The fleet's movements... Right. Keep it up, everyone.",
         "23": "Eh...? My accomplishments were the greatest? My... how unexpected... ...but I'm a little proud of myself. Ufufu\u266a",
@@ -8406,43 +8365,43 @@
         "Saury 1471": " "
     },
     "321": {
-        "1": "Admiral, I, Flagship Ooyodo shall accompany you. Please leave the front line fleet administration to me.",
-        "3": "Admiral, is that perhaps a communication method? Is it a code? Is that so?",
-        "4": "Admiral, that is unrelated to the headquarters' facilities. Please, do not interfere with the fleet's conduct!",
-        "29": "Admiral, what do you think of the remodeled Ooyodo? I asked you what you thought about it... Geez!",
+        "1": "Admiral, I, flagship Ooyodo, shall accompany you. Please leave the front line fleet directives to me.",
+        "3": "Admiral, is what you're doing some method of communication? Is it a code? Is that so?",
+        "4": "Admiral, that is not part of the headquarters' facilities. Please, do not hinder the fleet's directives!",
+        "29": "Admiral, what do you think of my remodel? I asked you what you thought about it... Geez!",
         "8": "Admiral, would you like to see our fleet's intelligence?",
-        "13": "Combined fleet's flagship, Ooyodo. Now sortieing.",
-        "9": "Another remodel? Thank you very much.",
-        "10": "I want to be loaded with torpedoes or recon planes... Which should do with me?",
-        "14": "Flagship Ooyodo. Sortieing at full power. Let's go!",
-        "15": "Enemy fleet spotted. Ready the cannons. Everyone let's go!",
-        "16": "All ports. Reeeeady. Aaaaim. Fiiiire!",
-        "17": "That's right...this is the true power of the Ooyodo-class!",
-        "30": "Admiral, the day has changed. Let's have a great day today, too.",
-        "31": "Admiral, it is now 0100. Leave the time reporting to me, Ooyodo.",
-        "32": "Admiral, it's 0200. Oh? Admiral, are you perhaps tired?",
-        "33": "0300. While the admiral takes a break, I shall re-examine the fleet administration's plans.",
-        "34": "It is now 0400. The admiral's sleeping face is so cute! Ufufu, I profited a bit!",
-        "35": "It's 0500. Admiral, it's morning. Time to wake all the members! Wake them all!",
-        "36": "0600. Admiral, I have completed the breakfast prep. I tried putting rice-bread in the miso!",
-        "37": "It is now 0700. Admiral, have you finished your breakfast? I shall clean up, okay?",
-        "38": "0800. Okay! Fleet practice! Let's make it a strict one!",
-        "39": "Admiral, it's 0900. After drills is sorting, yes? The sortie plan is over here.",
-        "40": "It's 1000. Tone-san is here today too, no? Tone-saaaan!",
-        "41": "1100. Tone-san and Chikuma-san are such good friends... I'm a little jealous...",
-        "42": "1200. Admiral, Let's have curry for lunch - Military Band curry.",
-        "43": "It's 1300. Admiral, how about some of Ooyodo's curry? Isn't it a different flavor?",
-        "44": "It is now 1400. Oh my? Ashigara-san. What's the matter? I see.",
-        "45": "It's 1500. She's a heavy cruiser, but Ashigara-san is mysteriously on the same wavelength as I am. Ufufufu.",
-        "46": "It's 1600. Admiral, Ashigara-san. A request for a large amount of sirlon pork and cooking oil.",
-        "47": "It is now 1700. Admiral, the dusk sea is beautiful, is it not?",
-        "48": "Admiral, it's 1800. What would be good for dinner? Sashimi or suchlike?",
-        "49": "1900. Admiral, there's an issue with dinner... Let's go for cutlets. How about it?",
-        "50": "It's 2000. Admiral, here is the after-dinner tea.",
-        "51": "It is now 2100. It's almost time...for night battles, no? Ufufu. I won't do night battles, though. Here, the documents.",
-        "52": "It's 2200. Admiral, it's almost the end of overtime. Won't you take it easy?",
-        "53": "Admiral, it's 2300. Thank you once again for a hard day's work. Let's do our best tomorrow, too.",
-        "1471": "Admiral, it's time for the naval base's Fall Festival. I tried a change of outfit, too. How do I look? Admiral, how about wearing a jinbei as well? I'll make the arrangements, if that's okay with you?"
+        "13": "Combined Fleet flagship Ooyodo, now sortieing.",
+        "9": "Further remodeling? Thank you so much.",
+        "10": "I would like to load up on torpedoes, but maybe I should load recon seaplanes...",
+        "14": "Flagship Ooyodo, sortieing at full power. Let's go!",
+        "15": "Enemy fleet spotted. Ready the cannons. Everyone, let's go!",
+        "16": "All batteries\u2014 ready, aim... Fiiire!",
+        "17": "Indeed... this is the true power of the Ooyodo-class!",
+        "30": "Admiral, the date has changed. We'll be counting on you today as well.",
+        "31": "Admiral, the present time is 0100. Please leave the responsibility of announcing the time to me.",
+        "32": "Admiral, it's 0200. Oh? Admiral, are you tired, perhaps?",
+        "33": "0300. While the admiral is taking a break, I'll reexamine the fleet operational plans we've produced.",
+        "34": "The present time is 0400. The admiral's sleeping face is so cute. Ufufu\u266a This was worth it!",
+        "35": "It's 0500. Admiral, it's morning. It's time to do the morning call. All hands, arise!",
+        "36": "0600. Admiral, I've finished preparing breakfast. I tried putting gluten in the miso!",
+        "37": "The present time is 0700. Admiral, have you finished your breakfast? Then I'll clean up, okay?",
+        "38": "It's 0800. Okay! Fleet exercises, then! Let's have them be strict!",
+        "39": "Admiral, it's 0900. After exercises comes sortieing. The sortie schedule is over here.",
+        "40": "It's 1000. Tone-san has come here again today. Tone-saaaan!",
+        "41": "1100. Tone-san and Chikuma-san are such good friends... I envy them just a little...",
+        "42": "1200. Admiral, let's have curry for lunch. We'll have a military band to go with it.",
+        "43": "It's 1300. Admiral, what did you think of my curry? Don't you find it unique?",
+        "44": "The present time is 1400. Oh, Ashigara-san. What is it? Hmm.",
+        "45": "It's 1500. She's a heavy cruiser, but Ashigara-san and I are mysteriously on the same wavelength.",
+        "46": "It's 1600. Admiral, it's Ashigara-san. She's requested a large amount of pork sirloin and cooking oil.",
+        "47": "The present time is 1700. Admiral, the sunset overlooking the sea is lovely.",
+        "48": "Admiral, it's 1800. What would be good to have for dinner? Something like Sashimi?",
+        "49": "It's 1900. Admiral, something went wrong with dinner... so let's go for cutlets instead. How about it?",
+        "50": "It's 2000. Admiral, I'll put your after-dinner tea right here.",
+        "51": "The present time is 2100. It's almost time... for night warfare. Ufufu\u266a I won't be night battling, though. Look\u2014 there's still a lot of paperwork to do.",
+        "52": "It's 2200. Admiral, isn't it almost time to close out the overtime work and take it easy?",
+        "53": "Admiral, it's 2300. Thank you very much for another hard day's work. Let's do our best tomorrow, too.",
+        "Fall 1471": "Admiral, it's time for the naval base's Fall Festival. I tried a change of outfit, too. How do I look? Admiral, how about wearing a jinbei as well? I'll make the arrangements, if that's okay with you?"
     },
     "184": {
         "1": "Good day, I'm Submarine Tender Taigei. I may be inexperienced, but I am glad to be of service.",
@@ -9431,9 +9390,8 @@
         "51": "2100. Commander, I'll be washing all this dishes up first. Excuse me.",
         "52": "2200. Commander, it's about time we made plans for tomorrow's transport mission. Uhm...",
         "53": "2300. Oh, uhm, Commander, thanks for the hard work today.",
-        "OldFall 6547": "Forever... at the admiral's side... the second destroyer division will do its best. Yes!",
-        "Saury 6547": " ",
-        "6547": " "
+        "6547": "Forever... at the admiral's side... the second destroyer division will do its best. Yes!",
+        "Saury 6547": " "
     },
     "406": {
         "1": "Unryuu class aircraft carrier, Unryuu is here. Admiral, please leave the future of the task force to me.",
@@ -10099,7 +10057,7 @@
         "EarlySummer 6547": "It's almost summer... Do you know the meaning of my name? Yeah, that's right! Not that it has any significance.",
         "Summer 6547": "This time of year... I can't say I dislike it. Certain sections of the other ships seem like they have an issue with armor deficiency, though. I'm concerned.",
         "Saury 6547": "Northern sea fisheries? Rather, you mean saury fishing support. I see. So it's specific to this time of year. Got it! I shall do my part as well. A searchlight... right?",
-        "6547": " "
+        "6547": "Well, I don't remember much about the closing moments of that battle. Still, I feel that I did everything I could. That's how I feel... about it. It's a feeling from deep inside."
     },
     "424": {
         "1": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -10177,36 +10135,6 @@
         "9": "Commander, thank you very much!",
         "10": "This equipment... with this, I'll do even better!",
         "18": "Transitioning to pursuit attack. Please follow me!"
-    },
-    "427": {
-        "1": "Choukai has come back! I'll give my best today too.",
-        "25": "Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.",
-        "2": "Choukai arrived. I would be glad to return the favor of remodeling me through night battles.",
-        "3": "Do you have anything for me yet?",
-        "4": "Oh, this is mission as well?",
-        "29": "I'm confident in night battle, but about the enemy airplanes... Well, I should act like Maya... Uhm... but, but...",
-        "28": "I am always thankful towards you. Being with you, it is a honor.",
-        "24": "If you're ever confused by the strategy, you can always come to me, you know. We'll analyze it, just the two of us.",
-        "8": "Commander, a letter has arrived.",
-        "13": "Eighth Fleet flagship Choukai, setting sail. Now sortieing!",
-        "9": "Modernization? I'm so happy!",
-        "10": "This equipment... it feels pretty good!",
-        "26": "I'm also so happy!",
-        "27": "Yes, I'm always thankful for the supply!",
-        "11": "I'll start my repairs.",
-        "12": "As expected, looks like I overdid it a little.",
-        "5": "Newbie, huh? Is the commander interested too?",
-        "7": "There's a report on the operation's completion.",
-        "14": "Off we go! Let's do this!",
-        "15": "As was calculated they were found over there. Enemy fleet spotted! All fleet, Attack!",
-        "16": "Target enemy fleet straight ahead! Preparing... commence fire!",
-        "18": "I will show you my honed strength in a traditional night battle this time. All ships, forward! Follow after me!",
-        "17": "Main cannon, reaaaady! Fiiire!",
-        "23": "Just as my calculations predicted. Of course, the commander's strategies were part of it.",
-        "19": "Ouch! Bridge is taking hit!? Err...I'm fine! I can still fight!",
-        "20": "Where was I hit!?",
-        "21": "Even with my calculations... I can't believe it!",
-        "22": "This is... a mistake in my calculations.... I'm sorry..."
     },
     "428": {
         "1": "Yo, Admiral! Working hard? Cause today is another day for me to kick some ass!",
@@ -10468,9 +10396,9 @@
         "3": "Yes, my Japanese is better now. I tried my best. Yup!",
         "4": "Um... Admiral? That's not really a greeting, is it? You can't do that, okay? Okay? Okay!?",
         "29": "Anti-sub fleet practice is okay, but... I want to go out and try live combat, too! Hey, Admiral...? Are you listening...? Uuu... no you're not!!",
-        "28": "Admiral, guten tag... ... ...Ah, this? Yeah, I tried baking Hacchan some ...Stollen. ...Want to try some? Okay\u266a",
+        "28": "Admiral, guten tag... ... ...Ah, this? Yeah, I tried baking Hacchan some... Stollen. ...Want to try some? Okay\u266a",
         "24": "Admiral, you called for Ro-chan? Eh...? What's this ring...? Da... danke! I mean... thank you. Admiral, our honeymoon should be in Maizuru, okay?",
-        "8": "Admiral, you want to see the situation report? Understood!!!",
+        "8": "Admiral, you want to see the situation report...? Understood!!!",
         "13": "Submarine RO, now sortieing!",
         "9": "Danke... no, I mean... Thank you very much! Hehehe... did I get it right?",
         "10": "\"I'm so happy\" is what to say! Danke! Danke!",
@@ -10551,7 +10479,7 @@
         "21": "How did...? My combat analysis was...",
         "22": "The sea floor is... surprisingly warm... ... ...",
         "Anniversary 6547": "Is the mic volume ok? Check. One, two... Right. Today I would like to show my gratitude for reaching our third year. From here on, we're... eh, too long?",
-        "Fall 6547": "...Onee-sama, even if it's to support the saury fishing, that equipment loadout is... Exclusively carrying searchlights like that is...<br />...You're right, we should ask the torpedo squadron escorts to increase the number of lookouts and fish detectors. "
+        "Saury 6547": "...Onee-sama, even if it's to support the saury fishing, that equipment loadout is... Exclusively carrying searchlights like that is...<br />...You're right, we should ask the torpedo squadron escorts to increase the number of lookouts and fish detectors. "
     },
     "441": {
         "1": "The second ship of the Vittorio Veneto-class battleships, Littorio. I have confidence in my speed and firepower. Nice to meet ya ~",
@@ -11027,8 +10955,7 @@
         "Rainy 6547": "This season feels a bit melancholic, doesn't it? Because of submarines? Maybe so... even now, I still feel a bit conflicted about them...",
         "EarlySummer 6547": "It's getting hotter and hotter. This year... summer is back for the year... Mizuho thinks summer is too much...",
         "Summer 6547": "What a strong heat wave this is. Admiral, how are you feeling? So I see. You're so energetic... aren't you?",
-        "Saury 6547": "So it's autumn. Admiral, it's the season of delicious food. Shall I make something for you? What would you like?",
-        "6547": " "
+        "6547": "So it's autumn. Admiral, it's the season of delicious food. Shall I make something for you? What would you like?"
     },
     "452": {
         "1": "As the fourteenth ship of the Yuugumo-class Destroyers, I'm Okinami. Umm... Yes, I'll do my best. Pleased to meet you!",
@@ -11183,7 +11110,7 @@
         "Summer 6547": "Hagi, what's up? Eh... wear a swimsuit... to the beach? Sure, count me in. Commander, you coming, too?",
         "Fall 6547": "Alriiiight! I made it through the nights in summer! Now I should be fine! Shigure, Sendai-san... I've won!!!!",
         "Saury 6547": "What is...? Everyone is polishing searchlights and Type 3s. What's this for? What are you starting?",
-        "6547": " "
+        "6547": "*achoo* Ugh, it got cold out of nowhere. Commander, did you catch a cold? *achoo*"
     },
     "455": {
         "1": "Hagikaze, 17th Ship of the Kagerou-class Destroyer, reporting! Commander, please give me your orders!",
@@ -11528,7 +11455,7 @@
         "Summer 6547": "It's almost summer. I wonder what Katori-nee will do about her swimsuit? I suppose I should get one as well? What should I do?",
         "Fall 6547": "Mr. Admiral, it's a pleasant fall, isn't it? I was also launched in fall, you know? Ufufu\u266a",
         "Saury 6547": "Saury... then...? I understand! I'll do my best to secure the fishing grounds! Eh...? Take this!?",
-        "6547": " "
+        "6547": "Mr. Admiral, it's growing cold out. Would you like me to brew some hot coffee? Please wait just a moment!"
     },
     "466": {
         "1": "I'm Shoukaku, the first of the Shoukaku-class carriers. Alongside Zuikaku as remodeled Shoukaku-class, I'm hoping to be a useful source of strength for the admiral.",
@@ -11759,7 +11686,7 @@
         "Summer 6547": "What a harsh summer. I'm burnin' up here. Feels like my deck could fry me up some eggs sunny side up.",
         "Fall 6547": "Heck yeah! I made it all the way through summer. I gotta be invincible or somethin'. The almighty invincible aircraft carrier! Come arrow or torpedo, ain't nothin' stoppin' me! Ahahaha... ah... haaa...",
         "Saury 6547": "Hoho~ So ya need me ta support th' saury fishin', right? Leave the aerial support ta me! Sauries, huh... those guys must really like 'em... That's it! Next time let's take some and grill 'em up! Yeah!",
-        "6547": " "
+        "6547": "Hmmmm? If it ain't that famous imported wine ya'll are goin' on about. Down the hatch... *gulp* *gulp* *gulp* Tohh! Goes down just fine. Hey, that new heavy cruiser... don't she know this ain't a place to strip down?"
     },
     "1": {
         "1": "I'm Mutsuki. Let's work together!",
@@ -11796,7 +11723,7 @@
         "Summer 6547": "Oyo? Admiral, you're going for a dip in the water, nya? I'm coming, too! Swimsuit, swimsuit!",
         "Fall 6547": "Yaaay! I got through summer, nyashii~! Now it'll be relaxing for a little while, nya~! Alright, I'll do my best for fall, nya~! Admiral, expect a lot from me.",
         "Saury 6547": "Kisaragi-chan, we're saury fishing! Saury fishing! The Mutsuki-class will also do their best to participate, nyashii. Come on, let's move out, nya~! Ohhh!!",
-        "6547": " "
+        "6547": "Oyo? This is... the special wine available only at this time of year, nyaa. Maybe I'll have just a little, too! Ah...? Kisaragi-chan, that much!? ...Haa, Pola-san, nyaa..."
     },
     "2": {
         "1": "My name is Kisaragi. Please keep me by your side.",
@@ -11833,7 +11760,7 @@
         "Summer 6547": "Hey, let's go to the beach! Ah, let's take off our rigging and clothes. So? What do you think of my swimsuit?",
         "Fall 6547": "Fall sure is nice. Mutsuki-chan looks a little happy, too. Commander, what does fall mean to you? Is fall for appetites? Or perhaps... ufufufu",
         "Saury 6547": "Help with the saury fishing...? Will I be able to...? Mutsuki-chan, you're so excited. Ufufufu\u266a How cute.",
-        "6547": " "
+        "6547": "Oh, my~ This is a lovely time of year for wine. Is this fine in a place like this? My, Pola-san, that's a beautiful way to drink. I won't lose, either. Okay, cheers. Commander, would you like to join us~?"
     },
     "28": {
         "1": "I'm Satsuki. Good to meet ya!",
@@ -11868,7 +11795,7 @@
         "Rainy 6547": "The season of May.... Eheh, it's my season, isn't it? Ufufufu!",
         "EarlySummer 6547": "Its getting hot, Commander! I'll bring you something to cool you down!",
         "Summer 6547": "Commander, splitting watermelon with everyone is fun! Eh... you gonna challenge me? Hehe, ain't that cute of ya\u266a",
-        "Fall 6547": "Ah... it's fall now. Commander, I'm not worried! This is me we're talking about. I'll make it through! Watch me.",
+        "6547": "Ah... it's fall now. Commander, I'm not worried! This is me we're talking about. I'll make it through! Watch me.",
         "Saury 6547": "Commander, it's the saury festival! I hear ya. I'll lend you my power, too! This festival is gonna be fun!"
     },
     "29": {
@@ -12312,7 +12239,7 @@
         "Fall 6547": "Admiral, the season is... fall, you know? Hey... would you mind going with me... to the naval base's Fall Festival this year?",
         "Fall 1471": "Admiral, that handbag... is very nice. It's really lovely. I wish I had one, too...",
         "Saury 6547": "Admiral, it's the time of year for delicious salt-grilled saury, right? Right? I wish we could grill some tonight.",
-        "6547": " "
+        "6547": "Admiral. Fall this year is coming to a close. It'll be getting cold. So that you don't catch a cold, make sure to stay warm at night, okay?"
     },
     "54": {
         "1": "Sendai, reporting in! You can leave the night battles to me.",
@@ -12386,6 +12313,18 @@
         "Anniversary 6547": " ",
         "Rainy 6547": "The rainy season.... the sound of rain.... it makes for a really calm feeling. Admiral, it's quiet today, isn't it?",
         "Fall 6547": "Admiral... a yukata... you mean? Ah, yes. I did bring it along, but... Watch the fireworks together? Ah... with pleasure..."
+    },
+    "223": {
+        "29": "Admiral... um... that is... um...! I'm sorry... it was nothing...",
+        "27": "Thank you for the supplies. I appreciate it."
+    },
+    "159": {
+        "15": "Naval battle... starting!",
+        "16": "Ready... aim...!",
+        "18": "Under the illumination of searchlights... assault fleet, follow behind me!",
+        "17": "Torpedoes loaded... firing now!",
+        "20": "It hurts... but... not yet!",
+        "21": "Not yet... not yet... I refuse to sink! I can still fire!"
     },
     "56": {
         "1": "The fleet's idol, Naka-chan!Nice to meet you!",
@@ -13005,25 +12944,25 @@
         "6547": "Man, the summer I was looking forward to is over with. Now we're stuck with this gloomy season. Ah... achoo!"
     },
     "69": {
-        "1": "I am Choukai. My best regards.",
-        "25": "Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.",
-        "2": "Oh, Commander. Thanks for the good work.",
-        "3": "Do you have anything for me yet?",
-        "4": "Oh, this is mission as well?",
+        "1": "My name is Choukai. It's a pleasure.",
+        "25": "Fourth of the Takao-class ships, Choukai here.<br /><br />Malaya, Solomon, Marianas and Leyte Gulf were among the many operations I participated in.<br /><br />My name is presently inherited by a JSDF AEGIS-equipped escort vessel, fourth in its class.",
+        "2": "Ah... Commander. Thanks for the hard work.",
+        "3": "Do you have any orders for me as of yet?",
+        "4": "Ah...! Is this... also some kind of duty I must perform!?",
         "29": "I'm confident in night battle, but about the enemy airplanes... Well, I should act like Maya... Uhm... but, but...",
-        "28": "I am always thankful towards you. Being with you, it is a honor.",
-        "24": "If you're ever confused by the strategy, you can always come to me, you know. We'll analyze it, just the two of us.",
+        "28": "I'm forever grateful to you. I'm honored to be with you.",
+        "24": "If you ever find a strategy perplexing, you can always come to me. We'll analyze it\u2014 just the two of us.",
         "8": "Commander, a letter has arrived.",
-        "13": "Setting off! Choukai, launching! ",
-        "9": "Modernization? I'm so happy!",
-        "10": "This equipment... it feels pretty good!",
-        "26": "I'm also so happy!",
-        "27": "Modernization? I'm so happy! ",
-        "11": "I'll start my repairs.",
-        "12": "As expected, looks like I overdid it a little.",
-        "5": "Newbie, huh? Is the commander interested too?",
-        "7": "There's a report on the operation's completion.",
-        "14": "Off we go! Let's do this!",
+        "13": "Setting sail! Choukai, now sortieing! ",
+        "9": "A modernization? How pleasant!",
+        "10": "This is... it has a good feel to it!",
+        "26": "I'm glad as well!",
+        "27": "A modernization? How pleasant!",
+        "11": "I'll start repairing this damage.",
+        "12": "Indeed, it seems I overdid it a little.",
+        "5": "A newcomer. Is your curiosity piqued as well?",
+        "7": "I'm reporting in about the operation's conclusion.",
+        "14": "Right, let's proceed! Let's do this!",
         "15": "Enemy spotted, port side! ",
         "16": "Port-side, prepare to fire!",
         "18": "Pursuit! You won't get away! ",
@@ -13036,6 +12975,19 @@
         "Rainy 6547": "Mr. Commander. The rainy season is quite calming, isn't it...? Eh? You don't think so? I-I am sorry....",
         "Summer 6547": "It's summer, isn't it? Eh!? A swimsuit? Umm... no. For me, things like that are... ah... yes... Then, next time...",
         "6547": "Autumn is such a calming season. I especially enjoy evenings in autumn. Commander, what about you?"
+    },
+    "272": {
+        "29": "I'm confident in night battle, but about the enemy airplanes... Well, I should act like Maya... Uhm... but, but...",
+        "27": "Yes, I'm always thankful for the supply!"
+    },
+    "427": {
+        "1": "Choukai has come back! I'll give my best today too.",
+        "2": "Choukai arrived. I would be glad to return the favor of remodeling me through night battles.",
+        "13": "Eighth Fleet flagship Choukai, setting sail. Now sortieing!",
+        "15": "As was calculated they were found over there. Enemy fleet spotted! All fleet, Attack!",
+        "16": "Target enemy fleet straight ahead! Preparing... commence fire!",
+        "18": "I will show you my honed strength in a traditional night battle this time. All ships, forward! Follow after me!",
+        "19": "Ouch! Bridge is taking hit!? Err...I'm fine! I can still fight!"
     },
     "71": {
         "1": "I am Tone! With my addition to the fleet, there will be no problems searching out the enemy!",
@@ -13070,7 +13022,7 @@
         "Rainy 6547": "Look, there's a snail on top of the fence! That's quite a scene. Wha!? You say it's eating the fence!? What the...!?",
         "Summer 6547": "Ugh... it's getting hot. I'm no good with heat. Chikuma. Chikuma~! Ice cream.... ramune....",
         "Saury 6547": "Fall is harvest time! There's so many delicious things to fill up on! I'm the type who just eats sauries whole! Gh... a bone. Chikuma! Chikuma!",
-        "6547": " "
+        "6547": "Chikumaa! Chikumaa! What the... she's not here? It's a pain, but I suppose every now and then I have to show off my culinary skill... ...Ah! Chikuma! I'm so hungry\u266a"
     },
     "72": {
         "1": "Pleased to meet you. Second of the Tone-class, Chikuma.",
@@ -13105,7 +13057,7 @@
         "Rainy 6547": "Nee-san, you shouldn't bully that snail. Ah, you're admiring it? I-Is that so....",
         "Summer 6547": "The sunlight has gotten a lot stronger. It'll be trouble for the skin. I should put some sunscreen on Tone-neesan, too. Ah... Tone-neesan?",
         "Saury 6547": "So it's fall. Admiral, what does fall mean for you? Oh? It's the same for me, ufufu.",
-        "6547": " "
+        "6547": "Okay, okay. What's the matter? I'm here, now. Eh...? You were hungry? But you just ate... There's no helping it, is there? Please wait just a moment. I'll..."
     },
     "75": {
         "1": "My name is Izumo Ma... No, Hiyou. I'm an aircraft carrier. Pleased to meet you, Admiral!",
@@ -13256,7 +13208,7 @@
         "26": "There it is!",
         "27": "It's rather lovely. Thanks.",
         "11": "Delicious tears!",
-        "12": "Ah~ I've really done it this time... Ah! Did I do it wrong?",
+        "12": "Ah~ I've really done it this time... ...Ah! Did I do it wrong?",
         "5": "Master, isn't that a newbie?",
         "7": "The fleet has returned early.",
         "14": "Hoisassa!",
@@ -13267,7 +13219,7 @@
         "23": "Everyone thinks I'm always just playing around. Well, I can be amazing if I get a little serious. Right?",
         "19": "Hau...!",
         "20": "Hnya~!",
-        "21": "Ugh~h~h...! I've got nothing...",
+        "21": "Ugh~h~h...! ...I've got nothing...",
         "22": "I'm sinking...! At least for this last one... ...I'm actually serious...",
         "Anniversary 6547": " ",
         "Rainy 6547": "Teru teru bozu? Oh, I've made some. See, ain't they cute? There's one for you, Master, and another for me!",
@@ -13386,7 +13338,7 @@
         "Anniversary 6547": "Commander, congratulation for the third anniversary. I shall celebrate it as a first class lady.",
         "Rainy 6547": "So it's the rainy season. It feels a little disheartening... Ah, Inazuma, is that a teru teru bozu? Not half bad!",
         "Summer 6547": "Geez! Building a sandcastle is no joke, you know! It's a way to practice building an elegant coastal fortification.",
-        "Fall 6547": "In autumn, it's a little scary to go to the restroom late at night... I-It's only at this time of year, you know! How rude!",
+        "6547": "In autumn, it's a little scary to go to the restroom late at night... I-It's only at this time of year, you know! How rude!",
         "Saury 6547": "You're stockpiling saury? You may entrust this to us! Please observe the skill of the 6th Destroyer Division!"
     },
     "35": {
@@ -13406,7 +13358,7 @@
         "11": "I'll go patch myself up.",
         "12": "The secret of the Phoenix is in the timing of her repairs.",
         "5": "It seems like fresh forces have been added.",
-        "7": "The fleet has returned. Thanks for the hard work.",
+        "7": "The fleet has returned. Nice work.",
         "14": "I'm known as the Phoenix for a reason. Moving out.",
         "15": "Well then, let's begin.",
         "16": "It's futile.",
@@ -13426,12 +13378,12 @@
     "36": {
         "1": "I'm Ikazuchi! Don't read my name as \"Kaminari\"! You'll do well to remember that!",
         "25": "Together with my fellow destroyer, Inazuma, I rescued the survivors of sunken enemy ships at the Battle of the Java Sea. I think that strength alone just isn't enough. Right, Commander?",
-        "2": "You look worn out... Looking like that is no good!",
+        "2": "You look worn out. That won't do at all!",
         "3": "Commander, I'm here for you!",
         "4": "Yup, yup. You can rely on me as much as you want!",
         "28": "Commander, you'll be just fine. After all, I'm right here beside you!",
         "24": "Hey, Commander. If I wasn't here, the fleet would fall apart. Right? Right?",
-        "8": "A letter arrived for you, Commander. Can I look at it?",
+        "8": "A letter arrived for you, Commander. Can I see?",
         "13": "Yes, Commander! Here I go!",
         "9": "Ta-dah! I've powered up!",
         "10": "How much did my charm go up? Huh? You don't see a difference? Meanie~!",
@@ -13656,7 +13608,7 @@
         "Fall 6547": "First to wear a yukata! How is it? Let's hurry to the Fall Festival and get the best spot to watch the fireworks, okay? Come on\u266a",
         "1471": "Festivals are pretty nice, you know. They're fun, you know. Commander, what's the most fun moment of the festival, in your opinion?",
         "Saury 6547": "Admiral, doesn't the fall make you feel like dancing to a festival song? Festival songs. Y'know, festival songs! Fall is definitely a time for festival songs, am I right?",
-        "6547": "Admiral, doesn't the fall make you feel like dancing to a festival song? Festival songs. Y'know, festival songs! Fall is definitely a time for festival songs, am I right?"
+        "6547": "Uuu... is it just me or is it getting kind of cold? Wearing short sleeves is going to tough... *achoo*"
     },
     "90": {
         "1": "I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.",
@@ -13727,7 +13679,7 @@
         "Saury 6547": "It's the time of year for saury fishing, Admiral. I'll do my best as well.",
         "Saury 1471": "Admiral, the saury fishing this year looks tough. I'll have to take it seriously, too.",
         "Saury 4": "That's true. The next fishing spot to the north would probably be better. Let's try switching points.",
-        "6547": " "
+        "6547": "Admiral, hasn't it gotten a bit cold? I'll be just fine. Admiral, I don't want you to catch a cold, so how about wearing a scarf? Ah, sorry. Was that unnecessary?"
     },
     "243": {},
     "145": {
@@ -13796,7 +13748,7 @@
         "OldFall 6547": "Hmhmmm\u266a Fall is fall so I don't mind it, you know. Harusame though, I wonder how she's handling it.",
         "Fall 6547": "Yup, yup! Fall has a lot of tasty food, so it's really hard to pick. I have to be careful about my bulge as well.",
         "Saury 6547": "Want to watch me do Operation F this fall? Mhm, mhm, just leave it to me. I'll do my best!",
-        "6547": " "
+        "6547": "Yes, yes! Admiral, aren't you a little cold? Should I knit a nice little scarf for you to wear? Ufufufu\u266a"
     },
     "45": {
         "1": "Hi. I'm the Shiratsuyu-class destroyer, Yuudachi. See you around!",
@@ -13833,7 +13785,7 @@
         "Summer 6547": "It's gotten hotter poi by poi. Summer is coming this year, poi!",
         "NotFall 6547": "Fall kinda makes my tummy go poi... Is the food ready yet? Food\u266a food\u266a",
         "Fall 6547": "Summer is over, poi! Fall is here, poi! Poi, poi, poi!",
-        "6547": " "
+        "6547": "It's the perfect time of year for scarves, poi. I'm running low on energy this year, but I'll keep working hard, poi! Poi~!!"
     },
     "46": {
         "1": "My name is Samidare! I look forward to working with you. Please leave any escort missions to me!",
@@ -14898,7 +14850,7 @@
         "Summer 6547": "Zara-neesama, what are you doing for this year's swimsuit? I spent all my money on booze, so I'll pass on this year~.",
         "Fall 6547": "Ehh~ Mizuho-san, what's this white wine? Japanese sake? It's got a weird taste and smell~ but it's delicious. Do you want to be friends? Ehehehe~",
         "Saury 6547": "Sauryfest...? I don't really get it, but Zara nee-sama, I'll help you out~",
-        "6547": " "
+        "6547": "Uwaa~ it's getting so cold... At times like this, even drinking won't warm you up~ Nachi-san, this is...?"
     },
     "361": {
         "1": "Buon Giornov~. I'm the third ship of the Zara-class heavy cruisers~, Pola~. With the admiral, I'll challenge anything~. I'll do my best.",
@@ -15094,7 +15046,8 @@
         "21": "Owowow... What's up with that? This is the worst! I-I can still move! I won't sink!",
         "22": "Eh...? I'm sinking...? No way... Sacchin... Fumi-chan... sorry...",
         "Fall 6547": "Fall has arrived. Commander, what does fall mean to you? ...For Sacchin, fall is for food. For Fumi-chan, fall is for reading. For Naganaga, fall is for sports, I think. What about you, Commander? Maybe fall is... the season of love?",
-        "6547": "*sigh* Did you hear the rumor, about the Naval Base Saury Festival? What's up with this fleet... and after they just went out saury fishing. This is too much for me... uhehe..."
+        "Saury 6547": "*sigh* Did you hear the rumor, about the Naval Base Saury Festival? What's up with this fleet... and after they just went out saury fishing. This is too much for me... uhehe...",
+        "6547": "Eh? A special wine? Is that so? World-famous? Whoa, this is... ah, it reeks of alcohol! Wha, Pola-san!?"
     },
     "366": {
         "1": "Sixth ship of the Mutsuki-class destroyers, Minazuki here. Commander, let's have another lively day. Take care! ...Ehehe\u266a",
@@ -15270,7 +15223,7 @@
         "21": "Gaa~aa~ah...!! I was hit? Where? From above? J-Jettison anything flammable!",
         "22": "It looks... like this is as far as I go. Isonami nee-san, Ayanami, Shikinami... ...everyone, where are you?",
         "Saury 6547": "A fleet for saury fishing support? R-Roger that! The 19th Destroyer Division will prepare to sortie!",
-        "6547": " "
+        "6547": "*sigh* ...I don't really like this season, but I'll pull through. Oh, I'll be fine. Sorry if I made you worry..."
     },
     "368": {
         "1": "The youngest of the Special Type I Fubuki-class destroyers, Uranami here. Commander, I'm looking forward to working with you again today.",

@@ -137,6 +137,16 @@
 	"AboutLicense" : "许可",
 	"AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
 
+	"AboutPartnerSites" : "合作站点与工具",
+	"AboutPartnerZHKcWikiName" : "舰娘百科",
+	"AboutPartnerZHKcWikiDesc" : "简体中文任务与台词翻译",
+	"AboutPartnerPoiStatsName" : "舰娘百科×poi # 掉落统计",
+	"AboutPartnerPoiStatsDesc" : "API数据提交（建造/开发/掉落统计）",
+	"AboutPartnerKCDBNetName" : "KanColle-DB",
+	"AboutPartnerKCDBNetDesc" : "API数据提交（建造/开发/掉落统计）",
+	"AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "导出至舰队 Collection 签名生成器",
+
 	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
 	"AboutSourceZHKcWikiQuests" : "任务翻译来自舰娘百科",
 	"AboutSourceZHKcWikiSubtitles" : "字幕翻译来自舰娘百科",
@@ -260,6 +270,7 @@
 	"SettingsSubtitleDisplay": "字幕显示",
 	"SettingsSubtitleSpeaker": "字幕前加舰名",
 	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
+	"SettingsMapNodeMarkers" : "地图节点标记",
 
 	"SubtitleDisplayBottom": "固定于下方（界面内）",
 	"SubtitleDisplayBelow": "固定于下方（界面外）",

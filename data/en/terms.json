@@ -29,6 +29,9 @@
 	"Experience": "Experience",
 	"Name": "Name",
 	
+	"MenuDMMLoginName" : "Login on DMM",
+	"MenuDMMLoginDesc" : "You are not yet logged in on DMM.com. Login on their website first.",
+	
 	"MenuPlayAPIName" : "Play via API Link",
 	"MenuPlayAPIDesc" : "Play using your last saved API link or manually input one if you have it",
 	"MenuRefreshAPIName" : "Refresh API Link",
@@ -55,7 +58,7 @@
 	"MenuUpdate" : "KC3改 Update",
 	"MenuOnLatest" : "You're on Latest",
 	"MenuScheduledNow" : "Scheduled now",
-	"MenuScheduledSoon" : "Soon...",
+	"MenuScheduledSoon" : "unscheduled",
 	"MenuPvPReset" : "Next PvP Reset",
 	"MenuQuestReset" : "Next Quest Reset",
 	"MenuServerMaintenance" : "Game Maintenance",
@@ -68,6 +71,13 @@
 	"GameAPIRemoveTitle" : "Remove API link",
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",
 	"GameAPIRemoveBtn" : "Forget the API Link",
+	
+	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API Link Whitescreen",
+	"GameAPIPlayFlashNoticeDesc" : "Starting Chrome 54, playing via API Link will just show a whitescreen and not automatically play the game as usual. This is one of Chrome's steps towards deprecating Flash Player. There will be a one-time extra step you have to do to continue playing. We recommend playing via DMM Frame however. If you still wish to proceed, follow the steps below. It is safe. This is a matter of Flash vs Chrome, not related to Kantai Collection game.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Go to: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Look for the section for \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Enable the \"Always allowed to run\" checkbox",
+	"GameAPIPlayFlashNoticeStep4": "Restart browser and run the game",
 	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
@@ -142,11 +152,9 @@
 	
 	"SettingsGlobal" : "Global",
 	"SettingsLanguage" : "Language",
-	"SettingsELosFormula" : "Effective LoS Formula",
-	"SettingsELosSum" : "Sum",
-	"SettingsELosOld" : "Old",
-	"SettingsELosNew" : "New",
-	"SettingsELosF33" : "Formula 33",
+	"SettingsReset" : "Reset Default",
+	"SettingsResetAll" : "Reset Defaults",
+	
 	"SettingsHQExpDetail"  : "HQ Exp Info",
 	"SettingsHQExpLeft"    : "Remaining EXP",
 	"SettingsHQExpCurrent" : "Current Level",
@@ -156,6 +164,8 @@
 	"SettingsTimeFinished" : "Finished",
 	"SettingsCheckLiveQuests" : "Check for new Quest TLs",
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
+	"SettingsForceDMMLogin" : "Force DMM login",
+	"SettingsAPIRecorder" : "API Recorder Panel",
 	
 	"SettingsGameInfo" : "Game Information",
 	"SettingsDropFaces" : "Sortie Drop Faces",
@@ -171,10 +181,25 @@
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
 	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
+	"SettingsAutoSwitchFleetView" : "Auto-Switch Fleet View",
 	"SettingsEnglishShipType": "English Ship Type Codes",
 	"SettingsShipNamesLang": "Ship Names Language",
 	"SettingsShipNamesGlobal": "Follow global",
 	"SettingsBlinkGauge": "Blink Gauge on Last Kill",
+	
+	"SettingsFormulas" : "Game Formula",
+	"SettingsELosFormula" : "Effective LoS Formula",
+	"SettingsELosSum" : "Sum",
+	"SettingsELosOld" : "Old",
+	"SettingsELosNew" : "New",
+	"SettingsELosF33" : "Formula 33",
+	"SettingsAirFormula" : "Air Formula",
+	"SettingsAFPNoBonus" : "No Proficiency",
+	"SettingsAFPVeteran" : "Whole Number Proficiency",
+	"SettingsAFPRange" : "Min-Max Proficiency",
+	"SettingsIntercept" : "Min+Interception",
+	"SettingsAFPAverage" : "Air Whole Number Bonus",
+	"SettingsAFPBounds" : "Air Mix-Max Bonus",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -182,6 +207,7 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "New Tab",
 	"SettingsSSFileType" : "Filetype",
+	"SettingsSSQuality" : "Image Quality",
 	"SettingsSSDirectory" : "Download Sub-directory",
 	"SettingsSSDirDesc" : "Specify subfolder of /Downloads/",
 	"SettingsSSDppx": "Device Pixel Ratio",
@@ -232,6 +258,15 @@
 	"SettingsSubtitleFontDesc": "CSS-valid font family. See http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "Subtitle Font Size",
 	"SettingsSubtitleBold": "Subtitle Bold Font",
+	"SettingsSubtitleDisplay": "Subtitle Display",
+	"SettingsGoogleTranslate": "Google Translate Fallback",
+	
+	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
+	"SubtitleDisplayBelow": "(Below) Fixed right below the game screen",
+	"SubtitleDisplayStick": "(Stick) Fixed on the bottom of browser window",
+	"SubtitleDisplayEvade": "(Evade) Bottom of game screen, moves to top on hover",
+	"SubtitleDisplayGhost": "(Ghost) Bottom of game screen, ghost mode on hover",
+	"SubtitleDisplayFree": "(Free) Free-form, can drag-drop subtitle box",
 	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
@@ -251,9 +286,6 @@
 	"SettingsPanelOpacity" : "Interface Opacity",
 	"SettingsGearHolder" : "Gear Background Color",
 	
-	"SettingsStrategyRoom" : "Strategy Room",
-	"SettingsLevellingDifference" : "Highlight leveling difference",
-	
 	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
 	"SettingsErrorSuper" : "Invalid value!",
@@ -262,6 +294,17 @@
 	"SettingsErrorLength" : "Value Length",
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
+	
+	"SettingsStrategyRoom" : "Strategy Room",
+	"SettingsStrategyTheme" : "Strategy Room Theme",
+	
+	"InstalledTitle": "KC3改 ready for service!",
+	"InstallText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
+	
+	"UpdatedTitle": "KC3改 has been updated!",
+	"UpdateText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
+	"NewVerViewChangelogGithub": "View Changelog on GitHub",
+	"NewVerViewWikiGithub": "View Usage Wiki on GitHub",
 	
 	"Enabled" : "Enabled",
 	"Small" : "Small",
@@ -298,6 +341,12 @@
 	"CatBombAPIDataErrorMsg"   : "The most recent action completed the network communication with server but returned an error. Check if it's now maintenance, or if your API link is still working.",
 	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication with server (or via the proxy). It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
+	
+	"APIErrorNoticeTitle": "KC3改 encountered an error with game data",
+	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. Game API might have changed, so some features might be broken or inaccurate",
+	
+	"Bomb201Title": "Game Error 201",
+	"Bomb201Message": "You have received an error 201 from the game API. You could be still logged in on another game client, or this may have something to do with macro-detection. You may ignore this notice but please play in moderation.",
 	
 	"SpeedFast" : "Fast",
 	"SpeedSlow" : "Slow",
@@ -375,7 +424,8 @@
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",
-	"PanelEscortChuuha" : "Escort Flagship",
+	"PanelCombinedFSChuuha" : "Flagship Low",
+	"PanelCombinedFSChuuhaTip" : "Flagship is Chuuha or Taiha, can't Sortie next time!",
 	"PanelNoTaiha" : "HP good",
 	"PanelSupplied" : "Supply good",
 	"PanelNotSupplied" : "<100% Supply",
@@ -405,6 +455,15 @@
 	"CombinedSurface" : "Surface TF",
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Not combined",
+	
+	"LandBaseActionWaiting" : "Waiting",
+	"LandBaseActionSortie" : "Sortie",
+	"LandBaseActionDefend" : "Defend",
+	"LandBaseActionRetreat" : "Retreat",
+	"LandBaseActionRest" : "Rest",
+	"LandBaseTipFighterPower" : "Regular Fighter power",
+	"LandBaseTipInterceptFighters" : "Interception against fighters",
+	"LandBaseTipInterceptBombers" : "Interception against bombers",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
@@ -441,6 +500,15 @@
 	
 	"ModernizationResultLeft" : "{0} left",
 	"ModernizationResultNote" : "Stats indicated are values without equipment",
+	
+	"FitWeightUnknown": "Unknown",
+	"FitWeight_-3": "Fit Penalty Large",
+	"FitWeight_-2": "Fit Penalty Medium",
+	"FitWeight_-1": "Fit Penalty Small",
+	"FitWeight_0": "Neutral",
+	"FitWeight_1": "Fit Bonus Small",
+	"FitWeight_2": "Fit Bonus Medium",
+	"FitWeight_3": "Fit Bonus Large",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",

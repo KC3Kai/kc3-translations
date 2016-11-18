@@ -10,45 +10,45 @@
 	],
 	
 	"airbattle" : [
-		["AP", "", "Parité Aérienne"],
-		["AS+", "bon", "Suprématie Aérienne"],
-		["AS", "bon", "Supériorité Aérienne"],
-		["AI", "mauvais", "Incapacité Aérienne"],
-		["AD", "mauvais", "Déni Aérien"],
-		["None", "", "Pas de Bataille Aérienne"]
+		["AP", "", "Parité"],
+		["AS+", "bon", "Suprématie"],
+		["AS", "bon", "Supériorité"],
+		["AI", "mauvais", "Incapacité"],
+		["AD", "mauvais", "Déni"],
+		["None", "", "Pas de combat"]
 	],
 	
 	"engagement" : [
   		["", "", ""],
 		["Prll", "", "Parallèle"],
- 		["HdOn", "", "De Front"],
-		["Gr-T", "bon", "T Vert"],
-		["Rd-T", "mauvais", "T Rouge"]
+ 		["HdOn", "", "Frontal"],
+		["Gr-T", "bon", "T vert"],
+		["Rd-T", "mauvais", "T rouge"]
 	],
 	
 	"formation" : [
 		"",
-		"Ligne Avant",
-		"Double Ligne",
+		"Ligne",
+		"Double ligne",
 		"Diamant",
-		"Echelon",
-		"Ligne Côte à Côté",
+		"Échelon",
+		"Côte à côte",
 		"","","","","",
-		"Formation de Croisière 1 (anti-sous-marin)",
-		"Formation de Croisière 2 (avant)",
-		"Formation de Croisière 3 (diamant)",
-		"Formation de Croisière 4 (bataille)",
+		"Formation de navigation 1 (anti-sous-marin)",
+		"Formation de navigation 2 (avant)",
+		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 4 (bataille)",
 		"","","","","","",
-		"Formation de Croisière 1 (anti-sous-marin)",
-		"Formation de Croisière (avant)",
-		"Formation de Croisière (diamant)",
-		"Formation de Croisière4 (bataille)"
+		"Formation de navigation 1 (anti-sous-marin)",
+		"Formation de navigation 2 (avant)",
+		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 4 (bataille)"
 	],
 	
 	"support" : [
 		"",
-		"Attaque aérienne",
-		"Attaque de feu",
-		"Attaque de torpille"
+		"Aérien",
+		"Artillerie",
+		"Torpille"
 	]
 }

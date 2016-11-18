@@ -29,6 +29,9 @@
 	"Experience" : "Exp",
 	"Name" : "ชื่อ",
 
+	"MenuDMMLoginName" : "ล็อกอินเว็บ DMM",
+	"MenuDMMLoginDesc" : "คุณผู้การยังไม่ได้ทำการล็อกอินในเว็บ DMM.com กรุณาเข้าไปล็อกอินก่อนนะคะ",
+
 	"MenuPlayAPIName" : "เล่นผ่าน API",
 	"MenuPlayAPIDesc" : "เล่นผ่าน API ล่าสุด หรือเพิ่ม API เองใหม่",
 	"MenuRefreshAPIName" : "รีเฟรช API",
@@ -55,7 +58,7 @@
 	"MenuUpdate" : "อัพเดท",
 	"MenuOnLatest" : "เวอร์ชั่นล่าสุดแล้ว",
 	"MenuScheduledNow" : "มีเวอร์ชั่นใหม่",
-	"MenuScheduledSoon" : "เร็วๆ นี้",
+	"MenuScheduledSoon" : "ยังไม่ประกาศ",
 	"MenuPvPReset" : "ทีม PVP จะรีเซ็ตในอีก",
 	"MenuQuestReset" : "เควสจะรีเซ็ตในอีก",
 	"MenuServerMaintenance" : "เซิร์ฟเวอร์ปิด",
@@ -69,6 +72,13 @@
 	"GameAPIRemoveDesc" : "ใช้ลบ API ของเดิมที่คุณใช้อยู่ในตอนนี้",
 	"GameAPIRemoveBtn" : "ลบ API",
 
+	"GameAPIPlayFlashNoticeTitle" : "ปัญหาโครม เวอร์ชั่น 54+ กับ API หน้าจอขาว",
+	"GameAPIPlayFlashNoticeDesc" : "ตั้งแต่โครม เวอร์ชั่น 54 เป็นต้นไป คุณผู้การที่ใช้งานเข้าเกมผ่านทาง API อาจพบปัญหาเข้าเกมแล้วหน้าจอค้างสีขาวเป็นเวลานาน ปัญหานี้เป็นเพราะโครมทำการปิดการทำงานของโปรแกรมแฟลช ปัญหาไม่ได้เกี่ยวกับตัวเกมแต่อย่างใด แต่อย่างไรก็ตามทางทีมงานขอแนะนำว่าให้ท่านเปลี่ยนไปใช้การเข้าเล่นเกมผ่านทาง DMM เฟรม แทน แต่ถ้าคุณยังอยากจะใช้งานแบบ API ก็ต้องเพิ่มขั้นตอนการใช้งานโดยการเข้าไปเปิดใช้งาน ตามวิธีการด้านล่างนี้<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "ไปที่: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "เลื่อนลงไปที่หัวข้อ \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "ติ๊กเลือก \"Always allowed to run\" ได้เลย",
+	"GameAPIPlayFlashNoticeStep4": "จากนั้นทำการปิดโปรแกรมโครมและเข้าเกมใหม่อีกครั้ง",
+	
 	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
 	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> ที่อยู่มุมขวา",
@@ -142,11 +152,9 @@
 
 	"SettingsGlobal" : "ตั้งค่าทั่วไป",
 	"SettingsLanguage" : "เลือกภาษา",
-	"SettingsELosFormula" : "สูตรคำนวนค่าค้นหา (LoS)",
-	"SettingsELosSum" : "Sum",
-	"SettingsELosOld" : "Old",
-	"SettingsELosNew" : "New",
-	"SettingsELosF33" : "Formula 33",
+	"SettingsReset" : "กลับไปค่าเริ่มต้น",
+	"SettingsResetAll" : "กลับไปค่าเริ่มต้นทั้งหมด",
+
 	"SettingsHQExpDetail" : "ค่าประสบการณ์ (HQ EXP)",
 	"SettingsHQExpLeft" : "EXP เลเวลต่อไป",
 	"SettingsHQExpCurrent" : "EXP เลเวลปัจจุบัน",
@@ -156,7 +164,9 @@
 	"SettingsTimeFinished" : "บอกเวลาที่เสร็จ",
 	"SettingsCheckLiveQuests" : "ตรวจสอบอัพเดทคำแปลใหม่",
 	"SettingsDevOnlyPages" : "ห้องผู้การทดสอบ (Devเท่านั้น)",
-
+	"SettingsForceDMMLogin" : "บังคับล็อกอินเว็บ DMM",
+	"SettingsAPIRecorder" : "การบันทึก API",
+	
 	"SettingsGameInfo" : "ข้อมูลภายในเกม",
 	"SettingsDropFaces" : "การดรอปเรือ",
 	"SettingsConstructionFaces" : "การต่อเรือ",
@@ -170,11 +180,26 @@
 	"SettingsYasenTroll" : "แจ้งเตือนโดนโทรลล์",
 	"SettingsHQDelta" : "แสดง HQ EXP รวมที่ได้รับ",
 	"SettingsFleetStatus" : "แจ้งสถานะเรือ",
-	"SettingsAutoExpedTab" : "ระบบการจัดกองสำรวจ",
+	"SettingsAutoExpedTab" : "สลับหน้าจัดกองสำรวจอัตโนมัติ",
+	"SettingsAutoSwitchFleetView" : "สลับข้อมูลกองเรืออัตโนมัติ",
 	"SettingsEnglishShipType" : "ประเภทเรือภาษาอังกฤษ",
 	"SettingsShipNamesLang" : "เลือกภาษาชื่อเรือ",
 	"SettingsShipNamesGlobal" : "ใช้ตามภาษาที่เลือก",
 	"SettingsBlinkGauge" : "แจ้งเตือนเกจสุดท้าย",
+
+	"SettingsFormulas" : "สูตรคำนวน",
+	"SettingsELosFormula" : "สูตรคำนวนค่าค้นหา (LoS)",
+	"SettingsELosSum" : "Sum",
+	"SettingsELosOld" : "Old",
+	"SettingsELosNew" : "New",
+	"SettingsELosF33" : "Formula 33",
+	"SettingsAirFormula" : "สูตรคำนวนน่านฟ้า",
+	"SettingsAFPNoBonus" : "ไม่รวมยศ",
+	"SettingsAFPVeteran" : "รวมยศทั้งหมด",
+	"SettingsAFPRange" : "ค่าน่านฟ้า ต่ำสุด-สูงสุด",
+	"SettingsIntercept" : "ค่าน่านฟ้าต่ำสุด",
+	"SettingsAFPAverage" : "ค่าน่านฟ้าเฉลี่ยทั้งหมด",
+	"SettingsAFPBounds" : "ค่าน่านฟ้ารวมโบนัส",
 
 	"SettingsScreenshot" : "การถ่ายภาพหน้าจอเกม",
 	"SettingsSSOutput" : "รูปแบบที่ใช้งาน",
@@ -182,6 +207,7 @@
 	"SettingsSSImgur" : "อัพโหลด Imgur",
 	"SettingsSSNewTab" : "เปิดใน Tab ใหม่",
 	"SettingsSSFileType" : "ประเภทไฟล์",
+	"SettingsSSQuality" : "คุณภาพของภาพถ่าย",
 	"SettingsSSDirectory" : "โฟเดอร์สำหรับดาวน์โหลด",
 	"SettingsSSDirDesc" : "เลือกโฟเดอร์สำหรับ /Downloads/",
 	"SettingsSSDppx" : "อัตราส่วนพิกเซลของหน้าจอ",
@@ -232,7 +258,16 @@
 	"SettingsSubtitleFontDesc" : "แบบฟอนต์ที่ใช้งานได้ ดูที่นี่ http://www.cssfontstack.com",
 	"SettingsSubtitleSize" : "ปรับขนาดของซับไตเติ้ล",
 	"SettingsSubtitleBold" : "ปรับตัวหนาของซับไตเติ้ล",
-
+	"SettingsSubtitleDisplay": "การแสดงซับไตเติ้ล",
+	"SettingsGoogleTranslate": "ใช้ Google แปลภาษา",
+	
+	"SubtitleDisplayBottom": "[ด้านล่าง] แสดงซับไตเติ้ลที่ด้านล่างของหน้าจอเกม",
+	"SubtitleDisplayBelow": "[ข้างใต้] แสดงซับไตเติ้ลที่ข้างใต้ของหน้าจอเกม",
+	"SubtitleDisplayStick": "[ล่างสุด] แสดงซับไตเติ้ลด้านล่างสุดของหน้าเว็บ",
+	"SubtitleDisplayEvade": "[ด้านล่าง/หลบ] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะแสดงที่ด้านบนของหน้าจอเกมแทน",
+	"SubtitleDisplayGhost": "[ด้านล่าง/ซ่อน] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะปิดการแสดง",
+	"SubtitleDisplayFree": "[กำหนดเอง] จุดที่แสดงซับไตเติ้ลย้ายได้ตามความต้องการ",
+	
 	"SettingsDMMGameplay" : "ตั้งค่าหน้าเว็บ DMM",
 	"SettingsDMMCustomize" : "ตั้งค่าการปรับแต่ง",
 	"SettingsDMMForceCookies" : "บังคับใช้งาน Cookie Hack",
@@ -252,7 +287,7 @@
 	"SettingsGearHolder" : "สีพื้นหลังของอุปกรณ์",
 
 	"SettingsStrategyRoom" : "ห้องผู้การ",
-	"SettingsLevellingDifference" : "ไฮไลท์เลเวลต่างกัน",
+	"SettingsStrategyTheme" : "ธีมของห้องผู้การ",
 	
 	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "บันทึกการตั้งค่า!",
@@ -263,6 +298,13 @@
 	"SettingsErrorValue" : "Value",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"InstalledTitle": "KC3Kai พร้อมใช้งานแล้ว!",
+	"InstallText": "ขอบคุณนะคะคุณผู้การ ที่ได้มาร่วมใช้งาน KC3Kai! หวังว่าเครื่องมือพวกนี้จะมีส่วนช่วยในการเล่นคังโคเระของคุณผู้การได้! ถ้ามีปัญหาอะไรล่ะก็ แจ้งมาที่พวกเราได้เสมอเลยนะ!",
+	"UpdatedTitle": "KC3Kai อัพเดทเสร็จแล้ว!",
+	"UpdateText": "หลังจากการอัพเดท หากคุณผู้การกำลังเล่นคังโคเระอยู่ บางฟังก์ชันอาจจะหยุดการทำงานไป โปรดทำการเข้าเกมใหม่อีกครั้ง หากคุณผู้การกำลังออกเรืออยู่ ขอให้ออกเรือให้จบก่อนก็ได้ค่ะ แต่บางฟังก์ชัน เช่น การแสดงผลการรบ อาจจะไม่ทำงานจนกว่าคุณจะทำการเข้าเกมใหม่อีกครั้งนะคะ",
+	"NewVerViewChangelogGithub": "ดูรายการอัพเดทใน GitHub",
+	"NewVerViewWikiGithub": "ดูวิธีใช้งานใน Wiki บน GitHub",
+	
 	"Enabled" : "เปิดใช้งาน",
 	"Small" : "ขนาดเล็ก",
 	"Big" : "ขนาดใหญ่",
@@ -298,6 +340,12 @@
 	"CatBombMissingServerTimeTitle" : "ไม่สามารถตรวจสอบเวลาของเซิร์ฟเวอร์",
 	"CatBombMissingServerTimeMsg" : "พบปัญหาการเชื่อมต่อเซิร์ฟเวอร์หรือ proxy กรุณาตรวจสอบอินเทอร์เน็ต เวลาของเครื่อง ว่าทำงานถูกต้อง",
 
+	"APIErrorNoticeTitle": "KC3Kai ตรวจพบข้อผิดพลาดกับข้อมูลเกม",
+	"APIErrorNoticeMessage": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหาข้อมูลของ {0} อาจเป็นเพราะ API มีการเปลี่ยนแปลง หรือบางระบบทำงานไม่ปกติ",
+	
+	"Bomb201Title": "ปัญหากราบแมว 201",
+	"Bomb201Message": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหากราบแมว 201 เนื่องจากระบบตรวจสอบการใช้งานบอทของเกม อาจเป็นเพราะเข้าเล่นเกมพร้อมกันกับบนมือถือ ถ้าหากคุณใช้แรงงานสาวเรือรบหนักจนเกินไปขอให้พวกเธอได้พักผ่อนบ้างเถอะนะคะ ถ้าพบปัญหานี้แล้วคุณไม่ได้ทำอะไรที่ผิดกฎของเกมก็คงไม่มีอะไรน่าเป็นห่วงหรอกค่ะ",
+	
 	"SpeedFast" : "กองเรือเร็ว",
 	"SpeedSlow" : "กองเรือช้า",
 
@@ -316,7 +364,7 @@
 	"BattleSupportExped" : "ส่งสนับสนุน",
 	"BattleSupportTips" : "กองเรือ {0} ออกมาแล้ว!\n{1} สนับสนุนสำเร็จ!",
 	"BattleAntiAirCutIn" : "ระบบต่อต้านอากาศยาน (AACI)",
-	"BattleItemDrop" : "ไม่มีของดรอป",
+	"BattleItemDrop" : "ได้รับของรางวัลพิเศษ",
 	"BattleNightNeeded" : "รบกลางคืน",
 	"BattleRating" : "ระดับผลการรบ",
 	"BattleAvoided" : "~ไม่ต้องสู้~",
@@ -354,7 +402,7 @@
 	"EventRankNormalAbbr" : "N",
 	"EventRankEasyAbbr" : "E",
 	"EventHistoryRank1" : "ง่าย",
-	"EventHistoryRank2" : "ธรรมดา",
+	"EventHistoryRank2" : "กลาง",
 	"EventHistoryRank3" : "ยาก",
 	"StrategyEventGo" : "ลงอีเวนท์",
 
@@ -374,7 +422,8 @@
 	
 	"PanelHasTaiha" : "เสียหายหนัก",
 	"PanelFSTaiha" : "เสียหายหนัก",
-	"PanelEscortChuuha" : "เรือเสียหาย",
+	"PanelCombinedFSChuuha" : "เรือธงเสียหาย",
+	"PanelCombinedFSChuuhaTip" : "ตอนนี้เรือธงเสียหายหนักแล้วนะคะ! กลับเถอะค่ะ!",
 	"PanelNoTaiha" : "เลือดดี",
 	"PanelSupplied" : "ยุทธปัจจัยพร้อม",
 	"PanelNotSupplied" : "ต้องเติม",
@@ -390,6 +439,15 @@
 	"PanelFitWindow" : "ปรับขนาดหน้าจอ",
 	"PanelExportToKCDB" : "ส่งข้อมูลไป Kancolle-calc DeckBuilder",
 	"PanelToggleQuestComplete" : "ปรับสถานะตัวนับเควส",
+
+	"LandBaseActionWaiting" : "รอคำสั่ง",
+	"LandBaseActionSortie" : "ออกรบ",
+	"LandBaseActionDefend" : "ป้องกัน",
+	"LandBaseActionRetreat" : "ถอนกำลัง",
+	"LandBaseActionRest" : "พักผ่อน",
+	"LandBaseTipFighterPower" : "เครื่องบินขับไล่สกัดกั้น",
+	"LandBaseTipInterceptFighters" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
+	"LandBaseTipInterceptBombers" : "เครื่องบินสกัดกั้นป้องกันเครื่องบินทิ้งระเบิด",
 
 	"MissionLabelActivity" : "สถานะ",
 	"MissionGetItems" : "รางวัล: ",
@@ -440,6 +498,15 @@
 	"ModernizationResultLeft" : "เหลือ {0}",
 	"ModernizationResultNote" : "ค่าสเตตัสนี้ยังไม่รวมที่ได้จากอุปกรณ์",
 
+	"FitWeightUnknown": "ไม่มีข้อมูล",
+	"FitWeight_-3": "[-3] ปืนหนักเกินไป",
+	"FitWeight_-2": "[-2] ปืนหนักมาก",
+	"FitWeight_-1": "[-1] ปืนหนักเล็กน้อย",
+	"FitWeight_0": "[0] ปืนปกติ",
+	"FitWeight_1": "[1] ปืนพอดี",
+	"FitWeight_2": "[2] ปืนพอดีมาก",
+	"FitWeight_3": "[3] ปืนพอดีที่สุด",
+	
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ #{1} แล้ว",
 	"DesktopNotifyRepairCompleteTitle" : "ซ่อมเรือ เสร็จแล้ว!",

@@ -112,6 +112,8 @@
 	"AboutReport" : "汇报问题",
 	"AboutHelpCommunity" : "你也可以帮忙",
 	"AboutHelpLearnMore" : "无需编程基础！点击了解如何贡献 >",
+	"AboutWebStore" : "Chrome网上应用店",
+	"AboutFacebook" : "Facebook",
 
 	"AboutCoders" : "开发人员",
 	"AboutProjectHead" : "项目领头人",
@@ -133,10 +135,51 @@
 	"AboutReporter" : "Git汇报者",
 	"AboutChannel" : "项目讨论频道",
 
+	"AboutInvdividuals" : "KC3改团队",
+	"AboutPartners" : "合作伙伴",
+	"AboutOtherCredits" : "致谢",
+	"AboutDonators" : "捐助者",
+	"AboutHallOfFame" : "名人堂",
+
+	"AboutDevelopers" : "开发人员",
+	"AboutModerators" : "管理与主持人员",
+	"AboutModerator" : "主持人员",
+	"AboutTranslators" : "翻译人员",
+	"AboutForkContributors" : "分支开发人员",
+	"AboutTesters" : "测试和汇报人员",
+	"AboutTester" : "测试人员",
+	"AboutOtherContributors" : "其他贡献人员",
+
 	"AboutOtherSources" : "其他信息来源",
 	"AboutLicense" : "许可",
 	"AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
 
+	"AboutPartnerSites" : "合作站点与工具",
+
+	"AboutPartnerZHKcWikiName" : "舰娘百科",
+	"AboutPartnerZHKcWikiDesc" : "提供简体中文任务和台词翻译，以及日语台词数据",
+
+	"AboutPartnerPoiStatsName" : "舰娘百科×poi # 掉落统计",
+	"AboutPartnerPoiStatsDesc" : "API数据提交（建造/开发/掉落统计）",
+
+	"AboutPartnerKCDBNetName" : "KanColle-DB",
+	"AboutPartnerKCDBNetDesc" : "API数据提交（建造/开发/掉落统计）",
+
+	"AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "集成舰队 Collection 签名生成器",
+
+	"AboutPartnerWhoCallsName" : "是谁呼叫舰队 By Diablohu",
+	"AboutPartnerWhoCallsDesc" : "本应用中多处使用了是谁呼叫舰队提供的舰娘数据",
+
+	"AboutPartnerKCCalcName" : "舰队收藏电子计算器仓库",
+	"AboutPartnerKCCalcDesc" : "集成舰队配置数据的导出",
+
+	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBDesc" : "本应用的泰文翻译，以及Facebook上KC3的状态更新",
+
+	"AboutWebsite": "网站链接",
+
+	"AboutSubtitleHelp": "感谢其对相应语言字幕的贡献",
 	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
 	"AboutSourceZHKcWikiQuests" : "任务翻译来自舰娘百科",
 	"AboutSourceZHKcWikiSubtitles" : "字幕翻译来自舰娘百科",
@@ -148,6 +191,8 @@
 	"AboutSubtitleContributors": "感谢下列贡献者<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">参与字幕的校验和修订工作</a>：",
 	"AboutSubtitleContributorsOther": "以及其他未透露姓名的贡献者！",
 	"AboutSubtitleTranslators": "感谢翻译人员为各语言提供的舰娘台词",
+
+	"AboutLoadingLicense": "正在读取许可文件…",
 
 	"SettingsTitle" : "KC3改 - 设置",
 
@@ -228,7 +273,7 @@
 	"SettingsIdleWarning" : "空闲计时",
 	"SettingsHideCounter" : "隐藏计数",
 	"SettingsShowCounter" : "显示计数",
-	
+
 	"SettingsTaihaAlert" : "大破警报",
 	"SettingsScreenBlur" : "屏幕模糊",
 	"SettingsScreenBlood" : "屏幕血迹",
@@ -257,6 +302,17 @@
 	"SettingsSubtitleFont" : "字幕字体",
 	"SettingsSubtitleSize" : "字幕大小",
 	"SettingsSubtitleFontDesc": "指定CSS支持的字体。参见 http://www.cssfontstack.com",
+	"SettingsSubtitleDisplay": "字幕显示",
+	"SettingsSubtitleSpeaker": "字幕前加舰名",
+	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
+	"SettingsMapNodeMarkers" : "地图节点标记",
+
+	"SubtitleDisplayBottom": "固定于下方（界面内）",
+	"SubtitleDisplayBelow": "固定于下方（界面外）",
+	"SubtitleDisplayStick": "固定于页面底部",
+	"SubtitleDisplayEvade": "显示于下方（界面内），鼠标经过时挪至上方",
+	"SubtitleDisplayGhost": "固定于下方（界面内），鼠标经过时透明",
+	"SubtitleDisplayFree": "自由模式，可拖拽",
 
 	"SettingsDMMGameplay" : "网页模式",
 	"SettingsDMMCustomize" : "允许自定义",
@@ -292,7 +348,7 @@
 
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
-	
+
 	"UpdatedTitle": "KC3改 已完成升级！",
 	"UpdateText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
 
@@ -334,7 +390,7 @@
 	"CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
-	
+
 	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
 	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",
 
@@ -492,6 +548,15 @@
 
 	"ModernizationResultLeft" : "剩余 {0}",
 	"ModernizationResultNote" : "注：裸装属性",
+
+	"FitWeightUnknown": "未知",
+	"FitWeight_-3": "超重（大）",
+	"FitWeight_-2": "超重（中）",
+	"FitWeight_-1": "超重（微）",
+	"FitWeight_0": "均衡",
+	"FitWeight_1": "适重（微）",
+	"FitWeight_2": "适重（中）",
+	"FitWeight_3": "适重（大）",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",

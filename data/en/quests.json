@@ -282,12 +282,14 @@
         "code": "A45",
         "name": "Prepare the Improvement Arsenal!",
         "desc": "Have Akashi as flagship of your main fleet.",
+        "memo": "\u27a3Rewards 5 Screws",
         "unlock": [ 261, 618 ]
     },
     "147": {
         "code": "A44",
         "name": "Reform the Nishimura Fleet!",
         "desc": "Have Fusou, Yamashiro, Mogami, Shigure and Michishio in your main fleet.",
+        "memo": "\u27a3Rewards 3 Screws",
         "unlock": [ 262 ]
     },
     "148": {
@@ -361,6 +363,7 @@
         "code": "A57",
         "name": "Prepare to Sortie the New 21st Cruiser Division!",
         "desc": "Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet.",
+        "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 288 ]
     },
     "163": {
@@ -380,7 +383,7 @@
         "code": "A60",
         "name": "Form the 4th Carrier Division!",
         "desc": "Have Ise Kai and Hyuuga Kai in your main fleet.",
-        "memo": "\u27a3Rewards 2 Screws, Zuiun (634 Air Group)",
+        "memo": "\u27a3Rewards 2 Screws and a Zuiun (634 Air Group)",
         "unlock": [ 166 ]
     },
     "166": {
@@ -407,6 +410,7 @@
         "code": "A64",
         "name": "Form the Newly Organized Carrier Division!",
         "desc": "Have 2 CV(L), 2 BBV/CAV and 2 DD in your fleet.",
+        "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 296 ]
     },
     "170": {
@@ -455,6 +459,19 @@
         "code": "A72",
         "name": "Form the 19th Destroyer Division!",
         "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet."
+    },
+    "178": {
+        "code": "A73",
+        "name": "Form the 16th Cruiser Division (Third Generation)!",
+        "desc": "Have Kinu, Aoba, Kitakami and Ooi in your fleet.",
+        "unlock": [ 835 ]
+    },
+    "179": {
+        "code": "A74",
+        "name": "Reform the Elite 16th Cruiser Division!",
+        "desc": "Have Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai in your fleet.",
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 836 ]
     },
     
     "202": {
@@ -668,7 +685,7 @@
         "code": "B33",
         "name": "Advance the Nishimura Fleet into the Southern Sea!",
         "desc": "Sortie Fusou, Yamashiro, Mogami, Shigure, Michishio and 1 additional ship to [W5-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Medal"
+        "memo": "\u27a3Rewards 5 Screws and a Medal"
     },
     "263": {
         "code": "B34",
@@ -993,6 +1010,32 @@
         "name": "Saury Fishing: Bleeding Edge Saury Fishing! Keep Going!",
         "desc": "Have 24 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand."
     },
+    "834": {
+        "code": "B83",
+        "name": "Reinforce the Nansei Islands Defense Line!",
+        "desc": "Sortie an AV or CAV as flagship to [W1-4]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Furniture Fairy"
+    },
+    "835": {
+        "code": "B84",
+        "name": "Sortie the 16th Cruiser Division (Third Generation)!",
+        "desc": "Sortie Kinu, Aoba, Kitakami, Ooi and up to 2 additional ships to [W2-4]. A-Rank+ the boss node.",
+        "memo": "\u27a3Rewards furniture",
+        "unlock": [ 179 ]
+    },
+    "836": {
+        "code": "B85",
+        "name": "Break Through With the Elite 16th Cruiser Division!",
+        "desc": "Sortie Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai to [W2-5]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Toku Daihatsu Landing Craft",
+        "unlock": [ 837 ]
+    },
+    "837": {
+        "code": "B86",
+        "name": "Succeed in the Transport Operation and Return!",
+        "desc": "Sortie Kinu Kai Ni as flagship, Uranami Kai, 3 DD and one additional non-DD to [W2-2]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards 5 Screws and an Underway Replenishment"
+    },
     
     
     "201": {
@@ -1005,8 +1048,8 @@
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily Flagship",
-        "desc": "Sink the flagship of an abyssal fleet.",
+        "name": "Daily Battle",
+        "desc": "Attack 1 abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
         "unlock": [ 172, 210, 218, 214, 213, 311, 634, 810 ],
         "tracking": [ [0,1] ]
@@ -1666,14 +1709,14 @@
     "637": {
         "code": "F35",
         "name": "Quarterly Skilled Crew Member Training",
-        "desc": "Have 2 medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
-        "memo": "\u2718Consumes 2 medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
+        "desc": "Have 2 Medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
+        "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
 	},
 	"639": {
         "code": "F36",
         "name": "Development of a New Torpedo Armament",
-        "desc": "Have 2 medals. Set Shimakaze as secretary. Equip her with a \u2605max 61cm Quintuple Oxygen Torpedo Mount and a \u2605max 61cm Triple Oxygen Torpedo Mount.",
-        "memo": "\u2718Consumes 2 medals and the equipment. Make sure the equipped torpedoes are unlocked!\n\u27a3Rewards 6 Screws and a Prototype 61cm Sextuple (Oxygen) Torpedo Mount"
+        "desc": "Have 2 Medals. Set Shimakaze as secretary. Equip her with a \u2605max 61cm Quintuple Oxygen Torpedo Mount and a \u2605max 61cm Triple Oxygen Torpedo Mount.",
+        "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped torpedoes are unlocked!\n\u27a3Rewards 6 Screws and a Prototype 61cm Sextuple (Oxygen) Torpedo Mount"
     },
     "640": {
         "code": "SF",

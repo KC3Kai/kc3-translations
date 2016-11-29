@@ -404,7 +404,11 @@
 	"BattleContactVs" : " vs ",
 	"BattleContactYes" : "YES",
 	"BattleContactNo" : "NO",
-
+	"BattleAirDefend"    : "สนามบิน",
+	"BattleAirDefendYes" : "เครื่องบินขับไล่: {0}",
+	"BattleAirDefendNo"  : "ไม่มีเครื่องบินขับไล่",
+	"BattleAirBaseLoss"  : "ได้รับความเสียหาย",
+	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "พลังโจมตี",
 	"ShipTorpedo" : "ตอร์ปิโด",

@@ -36,10 +36,12 @@
 	"MenuPlayAPIDesc" : "เล่นผ่าน API ล่าสุด หรือเพิ่ม API เองใหม่",
 	"MenuRefreshAPIName" : "รีเฟรช API",
 	"MenuRefreshAPIDesc" : "เปิดเว็บ DMM แล้วระบบจะดึง API ใหม่ให้โดยอัตโนมัติ",
-	"MenuPlayDMMName" : "เล่นผ่าน DMM",
+	"MenuPlayDMMName" : "เล่นผ่าน DMM แบบปกติ",
 	"MenuPlayDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติ",
+	"MenuSpecialDMMName" : "เล่นผ่าน DMM แบบพิเศษ",
+	"MenuSpecialDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติแต่สามารถใช้ส่วนเสริมของ KC3Kai ได้มากขึ้น เช่น เปลี่ยนภาพพื้นหลัง",
 
-	"MenuPlayDMMFName" : "เล่นผ่าน DMM เฟรม (แนะนำ)",
+	"MenuPlayDMMFName" : "เล่นผ่าน DMM เฟรม ",
 	"MenuPlayDMMFDesc" : "เล่นผ่าน DMM เฟรม จะใช้งาน KC3Kai ได้เต็มรูปแบบ",
 	"MenuPlayOSAPIName" : "เล่นผ่าน OSAPI",
 	"MenuPlayOSAPIDesc" : "ขณะนี้ไม่เปิดให้ใช้งาน",
@@ -78,6 +80,12 @@
 	"GameAPIPlayFlashNoticeStep2": "เลื่อนลงไปที่หัวข้อ \"Adobe Flash Player\"",
 	"GameAPIPlayFlashNoticeStep3": "ติ๊กเลือก \"Always allowed to run\" ได้เลย",
 	"GameAPIPlayFlashNoticeStep4": "จากนั้นทำการปิดโปรแกรมโครมและเข้าเกมใหม่อีกครั้ง",
+	
+	"GameChrome55FrameNoticeTitle": "การเล่นผ่าน DMM เฟรม  ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"GameChrome55FrameNoticeDesc": "ในโครมเวอร์ชั่น 55 เป็นต้นไป ได้มีการอัพเดทให้ไม่รองรับการแสดงผล flash ข้ามเว็บไซต์ ส่งผลให้ผู้เล่นจะพบหน้าจอดำแทน ส่วนนี้เป็นปัญหาของทางโครม ไม่เกี่ยวกับทาง DMM แต่อย่างใด ในขณะนี้ เราแนะนำให้คุณทำการเล่นเกมผ่านทางเว็บไซต์ DMM แบบปกติแทน จนกว่าเราจะสรุปวิธีการแก้ไขต่อไป",
+	
+	"GameChrome55APINoticeTitle": "เล่นผ่าน API ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"GameChrome55APINoticeDesc": "ในโครมเวอร์ชั่น 55 เป็นต้นไป ได้มีการอัพเดทให้ไม่สามารถเข้าถึงข้อมูลของผู้เล่นได้ทาง API ทำให้พบปัญหาแสดงข้อมูลไม่ได้ ส่วนนี้เป็นปัญหาของทางโครม ไม่เกี่ยวกับทาง DMM แต่อย่างใด ในขณะนี้ เราแนะนำให้คุณทำการเล่นเกมผ่านทางเว็บไซต์ DMM แบบปกติแทน จนกว่าเราจะสรุปวิธีการแก้ไขต่อไป",
 	
 	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
@@ -589,5 +597,7 @@
 	"MasterShipSaltUnCheck" : "มีเรือลำนี้แล้ว",
 	"MasterShipGoQuotes" : "ตรวจบทพูด",
 
+	"Chrome55Incompatible": "ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	
 	"Dummy" : "Dummy"
 }

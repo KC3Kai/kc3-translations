@@ -1037,16 +1037,16 @@
         "memo": "\u27a3Rewards 5 Screws and an Underway Replenishment"
     },
     "838": {
-        "code": "",
+        "code": "B87",
         "name": "Heavy Cruiser Division, Set Sail!",
         "desc": "Sortie a CA as flagship, 3 other CA and up to 2 additional ships to [W2-3]. S-Rank the boss node.",
         "memo": "\u27a3Rewards furniture"
     },
     "839": {
-        "code": "",
+        "code": "B88",
         "name": "Sortie a Battleship Division!",
-        "desc": "Sortie a BB, FFB or BBV as flagship, 1 other BB, FBB or BBV and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will be prompted to select one of two rewards, so be careful.",
-        "memo": "\u27a3Rewards either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+        "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will be prompted to select one of two rewards, so be careful.",
+        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
     },
     
     
@@ -1327,7 +1327,7 @@
         "memo": "\u27a3Rewards a Present Box"
     },
     "314": {
-        "code": "",
+        "code": "C11",
         "name": "Mass Exercises for Winter",
         "desc": "Secure 8 victories in Exercises within the same day."
     },
@@ -1461,7 +1461,7 @@
         "unlock": [ 624 ]
     },
     "422": {
-        "code": "",
+        "code": "D20",
         "name": "Submarine Dispatch Operation to Acquire Aircraft Technology!",
         "desc": "Complete Expedition 30."
     },
@@ -1829,6 +1829,6 @@
     "705": {
         "code": "",
         "name": "Flight Rigging Modernization",
-        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV twice."
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV(L) twice."
     }
 }

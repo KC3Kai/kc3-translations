@@ -1462,11 +1462,16 @@
     },
     "422": {
         "code": "D20",
-        "name": "Submarine Dispatch Operation to Acquire Aircraft Technology!",
-        "desc": "Complete Expedition 30.",
-        "memo": "\u2718There are other requirements. The exact details are being confirmed. If you have Exp. 30 sent out, try to finish Expedition 31 before Exp. 30 comes back.\n\u27a3Rewards ?"
+        "name": "Submarine Dispatch Operation to Acquire Aircraft Technology",
+        "desc": "Complete Expedition 30 twice.",
+        "memo": "\u2718Finishing Expedition 31 before finishing Expedition 30 will fulfill the first of the two clears. This may be a bug that could be fixed at any time.\n\u27a3Rewards a New Model Aircraft Blueprint"
     },
-    
+    "423": {
+        "code": "D21",
+        "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
+        "desc": "Have 5000 steel and 1500 bauxite. Complete Expedition 30 two more times.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards ?"
+    },    
     
     
     "501": {
@@ -1799,13 +1804,13 @@
         "code": "",
         "name": "Development of a New Axis Reconnaissance Aircraft",
         "desc": "Have one Type 1 Land-based Attack Aircraft and two Saiun. Scrap two Type 0 Reconnaissance Seaplanes.",
-        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Prototype Keiun (Carrier-based Reconnaissance Model)"
+        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Prototype Keiun (Carrier-based Reconnaissance Model)"
     },
     "650": {
         "code": "",
         "name": "Development of a Jet Fighter-Bomber",
-        "desc": "Have two New Model of Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai 2.",
-        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
+        "desc": "Have two New Model Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai 2.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
     },
     
     "701": {
@@ -1836,6 +1841,7 @@
     "705": {
         "code": "",
         "name": "Flight Rigging Modernization",
-        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV(L) twice."
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV(L) twice.",
+        "memo": "\u2718Consumes the resources."
     }
 }

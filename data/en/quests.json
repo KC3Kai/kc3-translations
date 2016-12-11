@@ -1036,6 +1036,18 @@
         "desc": "Sortie Kinu Kai Ni as flagship, Uranami Kai, 3 DD and one additional non-DD to [W2-2]. S-Rank the boss node.",
         "memo": "\u27a3Rewards 5 Screws and an Underway Replenishment"
     },
+    "838": {
+        "code": "B87",
+        "name": "Heavy Cruiser Division, Set Sail!",
+        "desc": "Sortie a CA as flagship, 3 other CA and up to 2 additional ships to [W2-3]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards furniture"
+    },
+    "839": {
+        "code": "B88",
+        "name": "Sortie a Battleship Division!",
+        "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will be prompted to select one of two rewards, so be careful.",
+        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+    },
     
     
     "201": {
@@ -1314,6 +1326,11 @@
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Present Box"
     },
+    "314": {
+        "code": "C11",
+        "name": "Mass Exercises for Winter",
+        "desc": "Secure 8 victories in Exercises within the same day."
+    },
     
     
     "401": {
@@ -1443,8 +1460,18 @@
         "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 624 ]
     },
-    
-    
+    "422": {
+        "code": "D20",
+        "name": "Submarine Dispatch Operation to Acquire Aircraft Technology",
+        "desc": "Complete Expeditions 30 and 31.",
+        "memo": "\u27a3Rewards a New Model Aircraft Blueprint"
+    },
+    "423": {
+        "code": "D21",
+        "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
+        "desc": "Have 5000 steel and 1500 bauxite. Most likely requires completion of Expeditions 30 and 31, but this is as of yet unconfirmed.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards ?"
+    },    
     
     
     "501": {
@@ -1767,6 +1794,24 @@
         "desc": "Have 1200 fuel, 3000 bauxite, and one Construction Battalion in your inventory. Scrap two Drum Canisters.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Enables a Land Airbase in [W6]"
     },
+    "648": {
+        "code": "",
+        "name": "Procurement for Custom-Made Furniture",
+        "desc": "Have 5000 Furniture Coins, two 14cm Single Gun Mounts and two 15.2cm Single Gun Mounts in your inventory. Scrap two 12.7cm Twin High-Angle Gun Mounts.",
+        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "649": {
+        "code": "",
+        "name": "Development of a New Axis Reconnaissance Aircraft",
+        "desc": "Have one Type 1 Land-based Attack Aircraft and two Saiun. Scrap two Type 0 Reconnaissance Seaplanes.",
+        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Prototype Keiun (Carrier-based Reconnaissance Model)"
+    },
+    "650": {
+        "code": "",
+        "name": "Development of a Jet Fighter-Bomber",
+        "desc": "Have two New Model Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai 2.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
+    },
     
     "701": {
         "code": "G1",
@@ -1792,5 +1837,11 @@
         "code": "G4",
         "name": "Preparation for Large Ship Construction! (Part 1)",
         "desc": "Complete 4 successful modernizations."
+    },
+    "705": {
+        "code": "G5",
+        "name": "Flight Rigging Modernization",
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV(L) twice.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     }
 }

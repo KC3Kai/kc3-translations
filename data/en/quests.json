@@ -1463,7 +1463,8 @@
     "422": {
         "code": "D20",
         "name": "Submarine Dispatch Operation to Acquire Aircraft Technology!",
-        "desc": "Complete Expedition 30."
+        "desc": "Complete Expedition 30.",
+        "memo": "\u2718There are other requirements. The exact details are being confirmed. If you have Exp. 30 sent out, try to finish Expedition 31 before Exp. 30 comes back.\n\u27a3Rewards ?"
     },
     
     
@@ -1799,6 +1800,12 @@
         "name": "Development of a New Axis Reconnaissance Aircraft",
         "desc": "Have one Type 1 Land-based Attack Aircraft and two Saiun. Scrap two Type 0 Reconnaissance Seaplanes.",
         "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Prototype Keiun (Carrier-based Reconnaissance Model)"
+    },
+    "650": {
+        "code": "",
+        "name": "Development of a Jet Fighter-Bomber",
+        "desc": "Have two New Model of Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai 2.",
+        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
     },
     
     "701": {

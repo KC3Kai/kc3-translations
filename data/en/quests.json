@@ -1469,8 +1469,8 @@
     "423": {
         "code": "D21",
         "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
-        "desc": "Have 5000 steel and 1500 bauxite. Most likely requires completion of Expeditions 30 and 31, but this is as of yet unconfirmed.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards ?"
+        "desc": "Have 5000 steel and 1500 bauxite. Complete Expeditions 30 and 31.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine"
     },    
     
     
@@ -1810,13 +1810,13 @@
         "code": "",
         "name": "Development of a Jet Fighter-Bomber",
         "desc": "Have two New Model Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai 2.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
+        "memo": "\u2718Consumes the items.\n\u27a3Rewards a Kikka Kai"
     },
     "651": {
         "code": "",
-        "name": "Increase Production of Ne-Type Jet Engine",
-        "desc": "Have 2 Ryuusei, 2 Reppuu and 8000 steel. Scrap three Type 0 Fighter Model 52.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
+        "name": "Increased Production of Ne-Type Engines",
+        "desc": "Have 8000 steel, two Ryuusei and two Reppuu. Scrap three Type 0 Fighter Model 52s.",
+        "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ne-Type Engine"
     },
     
     "701": {

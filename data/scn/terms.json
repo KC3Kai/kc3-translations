@@ -40,9 +40,11 @@
 	"MenuPlayDMMDesc" : "使用DMM网页进行游戏，最为安全，不存在封号危险",
 
 	"MenuPlayDMMFName" : "开始游戏（框架模式）",
-	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现自定义功能",
+	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现定制功能",
 	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
-	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持自定义功能",
+	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持定制功能",
+	"MenuSpecialDMMName" : "开始游戏（特殊DMM模式）",
+	"MenuSpecialDMMDesc" : "直连DMM站点，提供如自定义背景等各种KC3定制功能",
 
 	"MenuCookiesName" : "激活Cookies",
 	"MenuCookiesDesc" : "当浏览DMM网站遇到“Error Area”错误时，可使用该选项",
@@ -78,6 +80,12 @@
 	"GameAPIPlayFlashNoticeStep2": "寻找“Adobe Flash Player”一项",
 	"GameAPIPlayFlashNoticeStep3": "在“始终允许运行”选项上打勾",
 	"GameAPIPlayFlashNoticeStep4": "重启浏览器并运行游戏",
+
+	"GameChrome55FrameNoticeTitle": "框架模式与Chrome 55+不兼容",
+	"GameChrome55FrameNoticeDesc": "因Chrome 55及以上版本禁用了跨站Flash渲染功能，框架模式将始终黑屏。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
+
+	"GameChrome55APINoticeTitle": "API模式与Chrome 55+不兼容",
+	"GameChrome55APINoticeDesc": "在Chrome 55及以上版本中，API模式不会收到网络历史数据，导致此模式不可用。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
 
 	"GameAPINoExist" : "你没有任何已保存的API链接",
 	"GameAPIGetTitle" : "获取新的API链接",
@@ -617,6 +625,9 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "查看台词",
+
+	"Chrome55Incompatible": "与Chrome 55+不兼容",
+
 	"Dummy" : "Dummy"
 
 }

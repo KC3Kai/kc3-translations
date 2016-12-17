@@ -175,6 +175,8 @@
 	"AboutSourceWhoCallsTheFleet": "WhoCallsTheFleet สำหรับฐานข้อมูลกองเรือ",
 	"AboutSourceMdmsScottQuotes": "การรวบรวมบทพูดจากใน Wikia",
 	"AboutSourceHeartSound" : "สำหรับเสียงเอฟเฟคหัวใจเต้นเพื่อแจ้งเตือน",
+	"AboutSampleBattleData" : "สำหรับข้อมูลการรบที่นำมาอัพเดท",
+	"AboutCompleteMapNodes" : "สัญลักษณ์โหนดในแผนที่ด้วยข้อมูลจาก KCMAP",
 
 	"AboutLoadingLicense": "กำลังโหลดข้อมูลไลเซนส์...",
 	
@@ -396,6 +398,8 @@
 	"BattleMapNoHpGauge" : "ไม่มีเกจ",
 	"BattleSupportExped" : "ส่งสนับสนุน",
 	"BattleSupportTips" : "กองเรือ {0} ออกมาแล้ว!\n{1} สนับสนุนสำเร็จ!",
+	"BattleLbasSupportTips" : "เครื่องบิน {0} ลำ จากฐาน #{1}\nทำการยิงศัตรูตก {2} ลำ, สร้างความเสียหายได้ {3}, ตก {4}!",
+	"BattleLbasJetSupportTips" : "เครื่องบินเจ็ท {0} ลำ ได้เข้าโจมตี\nทำการยิงศัตรูตก {1} ลำ, สร้างความเสียหายได้ {2}, ตก {3}!",
 	"BattleAntiAirCutIn" : "ระบบต่อต้านอากาศยาน (AACI)",
 	"BattleItemDrop" : "ได้รับของรางวัลพิเศษ",
 	"BattleNightNeeded" : "รบกลางคืน",

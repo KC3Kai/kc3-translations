@@ -163,6 +163,8 @@
 	"AboutSourceWhoCallsTheFleet": "艦娘データベース",
 	"AboutSourceMdmsScottQuotes": "Wikiaから英語版艦娘セリフ",
 	"AboutSourceHeartSound" : "大破警告の心拍音声",
+	"AboutSampleBattleData" : "新実装機能の戦闘データを提供",
+	"AboutCompleteMapNodes" : "マップマスデータをKCMAPで解析",
 
 	"AboutLoadingLicense": "ライセンス内容をロード中...",
 
@@ -185,6 +187,12 @@
 	"SettingsDevOnlyPages" : "開発者専用指揮所",
 	"SettingsForceDMMLogin" : "DMMへのログインを強制",
 	"SettingsAPIRecorder" : "API記録パネルを有効",
+
+	"SettingsErrors" : "エラーの通知",
+	"SettingsShowCatBombs"     : "通常のエラー表示",
+	"SettingsShowAPIError"     : "API処理エラー表示",
+	"SettingsRepeatAPIError"   : "同じAPIエラーでも重複表示",
+	"SettingsDetailedAPIError" : "APIエラーの詳しい内容",
 
 	"SettingsGameInfo"          : "表示するゲーム情報",
 	"SettingsDropFaces"         : "出撃ドロップ",
@@ -368,6 +376,7 @@
 	"Bomb201Message": "APIリスポーンからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めます！",
 	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
 	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。多分ゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
+	"DownloadErrorReport": "エラーレポートを‌DLする",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",
@@ -397,6 +406,8 @@
 	"BattleMapNoHpGauge" : "ゲージなし",
 	"BattleSupportExped" : "遠征支援艦隊が到着？",
 	"BattleSupportTips"  : "第{0}支援艦隊が到着しました！\n支援{1}、開始！",
+	"BattleLbasSupportTips" : "基地航空隊{1}からの戦闘機{0}が支援攻撃によって\n敵{2}機殲滅、敵艦{3}ダメージ、{4}機撃墜されてしまった！",
+	"BattleLbasJetSupportTips" : "基地航空隊からの噴式機{0}が噴式強襲攻撃によって\n敵{1}機殲滅、敵艦{2}ダメージ、{3}機撃墜されてしまった！",
 	"BattleAntiAirCutIn" : "対空カットインが発動？",
 	"BattleItemDrop"     : "期間限定アイテムドロップ",
 	"BattleNightNeeded"  : "夜戦が必要？",

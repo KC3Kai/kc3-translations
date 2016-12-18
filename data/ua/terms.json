@@ -28,6 +28,9 @@
 	"ImprovementMaterial": "Болти",
 	"Experience": "Досвід",
 	"Name": "Ім'я",
+	"MenuDMMLoginName" : "Залогінься на DMM",
+	"MenuDMMLoginDesc" : "Ти не залогінився на світй DMM. Спершу зроби це",
+
 	
 	"MenuPlayAPIName" : "Грати через АРІ-посилання",
 	"MenuPlayAPIDesc" : "Грати через останнє збережене АРІ-посилання, або ввести його вручну",
@@ -67,6 +70,15 @@
 	"GameAPIRemoveTitle" : "Видалити АРІ-посилання",
 	"GameAPIRemoveDesc" : "У випадку, якщо хочете видалити збережене розширенням АРІ-посилання:",
 	"GameAPIRemoveBtn" : "Забути АРІ-посилання",
+
+	"GameAPIPlayFlashNoticeTitle" : "Білий екран від АРІ-посилання у Chrome 54+",
+	"GameAPIPlayFlashNoticeDesc" : "Починаючи з Chrome 54, гра з АРІ-посиланням просто покаже тобі білий екран. Це результат процесу замінення Хромом Flash Player-а. Рекомендуємо грати на ДММ у фреймі. Якщо все ж хочеш через АРІ - зроби дії, вказані нижче. Це абсолютно безпечно.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Перейди на: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Знайди \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Постав галочку біля \"Завжди вмикати\" ",
+	"GameAPIPlayFlashNoticeStep4": "Перезапусти браузер та грай",
+	
+
 	
 	"GameAPINoExist" : "У вас немає жодного записаного АРІ-посилання",
 	"GameAPIGetTitle" : "Отримати нове АРІ-посилання",
@@ -103,12 +115,36 @@
 	"AboutHelpLearnMore" : "Писати код не потрібно! дізнайтеся, як це зробити >",
 	
 	"AboutCoders" : "Програмісти",
+	"AboutInvdividuals" : "Команда KC3改",
+	"AboutPartners" : "Партнери",
+	"AboutOtherCredits" : "Інші дані",
+	"AboutDonators" : "Жертводавці",
+	"AboutHallOfFame" : "Зал слави",
+	"AboutLicense" : "Ліцензія",
+	
+	"AboutDevelopers" : "Розробники",
+	"AboutModerators" : "Адміни та модератори",
+	"AboutTranslators" : "перекладачі",
+	"AboutForkContributors" : "Форк-девелопери",
+	"AboutTesters" : "Тестери та репортери",
+	"AboutOtherContributors" : "Інші внески",
+	
+	"AboutDeveloper" : "Розробник",
+	"AboutModerator" : "Модератор",
+	"AboutTranslator" : "Перекладач",
+	"AboutTester" : "Тестер",
+	"AboutDevTester" : "Тестер",
+	"AboutReporter" : "Баг-репортер",
+
 	"AboutProjectHead" : "Керівник проекту",
 	"AboutWikiWriter" : "Автор Вікі",
 	"AboutDeveloper" : "Розробники",
 	"AboutManagers" : "Менеджери",
 	"AboutManager" : "Менеджер",
-	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
+	"AboutLogo" : "Дизайн лого",
+	"AboutFairy" : "Дизайнер феєчок",
+
+	"AboutDevBattleReplay" : "Реплей битви/Sim Dev",
 	"AboutDevBadgeGen" : "Badge Generator Dev",
 	"AboutTranslators" : "Перекладачі",
 	"AboutTranslator" : "Перекладач",
@@ -129,19 +165,28 @@
 	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a> за переклад квестів на <strong>спрощену китайську</strong>",
 	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Звук серцебиття</a> від <strong>Майка Кьоніґа</strong>",
 	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> від <strong>Diablohu</strong>, за базу даних кораблів Стратегіуму",
+	"AboutPartnerZHKcWikiName" : "ZH KCWiki",
+	"AboutPartnerZHKcWikiDesc" : "За переклад квестів та субтитрів на спрощену китайську",
+	
+	"AboutPartnerPoiStatsName" : "Poi-Statistics by KCWiki & Poi",
+	"AboutPartnerPoiStatsDesc" : "Інтеграція подання звітів даних API",
+
 	"AboutSourceGakadaVoices": "<strong>gakada</strong> за <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">прорив</a> в декодуванні голосу",
 	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> за <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">дослідження KanColle Wikia</a> на предмет найновіших фразочок канмусу",
 	"AboutSubtitleContributors": "<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">Спасибі жертводавцям </a>",
 	"AboutSubtitleContributorsOther": "та всім тим, хто не назвався.",
+        "AboutSourceHeartSound" : "Звук серцебиття під час критичного стану",
+
+	"AboutLoadingLicense": "Завантаження даних файлу ліцензії...",
+
 	
 	"SettingsTitle" : "Налаштування KC3改",
 	
 	"SettingsGlobal" : "Глобальні",
 	"SettingsLanguage" : "Мова",
-	"SettingsELosFormula" : "Ефективна формула LoS",
-	"SettingsELosSum" : "Сума",
-	"SettingsELosOld" : "Стара",
-	"SettingsELosNew" : "Нова",
+	"SettingsReset" : "Скинути",
+	"SettingsResetAll" : "Скинути все",
+
 	"SettingsHQExpDetail"  : "Інформація про досвід HQ",
 	"SettingsHQExpLeft"    : "Залишилося ЕХР",
 	"SettingsHQExpCurrent" : "Поточний рівень",
@@ -150,6 +195,10 @@
 	"SettingsTimeRemaining" : "Абсолютний",
 	"SettingsTimeFinished" : "Відносний",
 	"SettingsCheckLiveQuests" : "Нові переклади квестів",
+	"SettingsDevOnlyPages" : "Стратегічні сторінки для розробників",
+	"SettingsForceDMMLogin" : "Примусово залогінитися на DMM",
+	"SettingsAPIRecorder" : "Панель програвача АРІ",
+
 	
 	"SettingsGameInfo" : "Ігрова інформація",
 	"SettingsDropFaces" : "Дроп",
@@ -165,10 +214,26 @@
 	"SettingsHQDelta" : "Приріст ЕХР HQ у вилазці",
 	"SettingsFleetStatus" : "Звіт про стан флоту",
 	"SettingsAutoExpedTab" : "Вкладка експедицій",
+	"SettingsAutoSwitchFleetView" : "Автоперемикання вкладок флоту",
 	"SettingsEnglishShipType": "Англійські коди типів кораблів",
 	"SettingsShipNamesLang": "Мова назв кораблів",
 	"SettingsShipNamesGlobal": "Слідкуйте за всіма",
 	"SettingsBlinkGauge": "Блимати на останньому вбивстві",
+
+	"SettingsFormulas" : "Формула гри",
+	"SettingsELosFormula" : "Ефективна формула LoS",
+	"SettingsELosSum" : "Сум.",
+	"SettingsELosOld" : "Стара",
+	"SettingsELosNew" : "Нова",
+	"SettingsELosF33" : "Формула 33",
+	"SettingsAirFormula" : "Повітряна формула",
+	"SettingsAFPNoBonus" : "Без досвіду",
+	"SettingsAFPVeteran" : "Весь досвід",
+	"SettingsAFPRange" : "Min-Max досвід",
+	"SettingsIntercept" : "Min+перехоплення",
+	"SettingsAFPAverage" : "Загальний бонуснийдосвід",
+	"SettingsAFPBounds" : "Mix-Max бонусний бонус",
+
 	
 	"SettingsScreenshot" : "Скріншот",
 	"SettingsSSOutput" : "Вивід",
@@ -176,6 +241,7 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "Нова вкладка",
 	"SettingsSSFileType" : "Тип файлу",
+	"SettingsSSQuality" : "Якість скріна",
 	"SettingsSSDirectory" : "Підпапка для завантаження",
 	"SettingsSSDirDesc" : "Налаштувати підпапку /Downloads/",
 	"SettingsSSDppx": "Розширення екрану пристрою",
@@ -197,11 +263,19 @@
 	"SettingsIdleWarning" : "Таймер простою",
 	"SettingsHideCounter" : "Сховати лічильник",
 	"SettingsShowCounter" : "Показати лічильник",
-	"SettingsTaihaAlert" : "Сповіщення надокучливої Тайхи",
+	"SettingsTaihaAlert" : "Дратуючі сповіщення про критичний стан",
+	"SettingsScreenBlur" : "Розмитість екрану",
+	"SettingsScreenBlood" : "SКров на екрані",
+	"SettingsAppearOnScreenshots" : "Показувати на скріншоті",
+	"SettingsHeartbeatSound" : "Звук серцебиття",
+	"SettingsDisplayOnPvP" : "Показувати навіть в PvP",
+	"SettingsRedShadeOnPanel" : "Червоний відтінок панелі",
+
 	
 	"SettingsAPIGameScreen" : "АРІ-екран гри",
 	"SettingsQuestOverlay" : "Переклад завдань",
 	"SettingsQuestTracking" : "відслідковування завдань",
+	"SettingsMapNodeMarkers" : "Маркери нод",
 	"SettingsPanelRequirement" : "Запит панелі для гри",
 	"SettingsDirectRefresh" : "Пряме перезавантаження (небезпечно)",
 	"SettingsConfirmExit" : "Підтвердження виходу",
@@ -219,6 +293,18 @@
 	"SettingsSubtitleFontDesc": "CSS-сумісні шрифти. http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "Розмір шрифтів субтитрів",
 	"SettingsSubtitleBold": "Жирний шрифт субтитрів",
+	"SettingsSubtitleDisplay": "Показ субтитрів",
+	"SettingsSubtitleSpeaker": "Показувати ім'я канмусу",
+	"SettingsGoogleTranslate": "Допомога перекладача Google",
+	
+	"SubtitleDisplayBottom": "(Низ) Зафіксовані в нижній частині ігрового екрау",
+	"SubtitleDisplayBelow": "(Під) Зафіксовані прямо під ігровим екраном",
+	"SubtitleDisplayStick": "(Дно) Зафіксовані в нижній частині вікна браузера",
+	"SubtitleDisplayEvade": "(Ухил) Низ ігрового екрану, злітають уверх при наведенні",
+	"SubtitleDisplayGhost": "(Привид) Низ ігрового екрану, зникають при наведенні",
+	"SubtitleDisplayFree": "(Вільні) Вільна форма, можна перетягувати/відпускати ",
+	
+
 	
 	"SettingsDMMGameplay" : "Опції DMM",
 	"SettingsDMMCustomize" : "Застосувати налаштування",
@@ -249,6 +335,19 @@
 	"SettingsErrorValue" : "Значення",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 	
+	"SettingsStrategyRoom" : "Стратегічна кімната",
+	"SettingsStrategyTheme" : "Оформлення стратегічної кімнати",
+	
+	"InstalledTitle": "KC3改 готовий до роботи!",
+	"InstallText": "Дякуємо за встановлення KC3改! Сподіваємося, ці інструменти дозволять тобі грати в KanColle та робити це якнайкраще! Не соромся питати нас, якщо потрібна допомога. Глянь сторінку інформації, щоб дізнатися, як нас знайти.",
+	
+	"UpdatedTitle": "KC3改 оновлено!",
+	"UpdateText": "Якщо ти прямо зараз граєш в KanColle? деякі функції можуть бути забаговані. Будь ласка, закрий вкладку гри та перезапусти її. Якщо ти посеред вилазки, спершу заверш її, але май на увазі, що деякі функції, як-от інформація та прогнози можуть не працювати належним чином до перезапуску.",
+	"NewVerViewChangelogGithub": "Глянути лог змін на GitHub",
+	"NewVerViewWikiGithub": "Глянути FAQ на GitHub",
+	
+	"Enabled" : "Увімкнено",
+
 	"Small" : "Маленький",
 	"Big" : "Великий",
 	"Black" : "Чорний",
@@ -260,6 +359,7 @@
 	"LearnMore" : "Дізнатися більше",
 	"Saved" : "Збережено!",
 	"TimerComplete" : "Виконано!",
+	"Debuffed" : "Бос ослаблений!",
 	
 	"UnwantedExit" : "API-посилання деактивуються після одного використання. Ви повинні оновити АРІ-посилання знову через меню, інакше вас відвідає котик-шахід!",
 	"UnwantedExitDMM" : "Ти залишаєш цю сторінку і своїх дівчаток! Хоча, якщо це перезавантаження, тоді все добре і котика-шахіда тобі не бачити, а до API-посилань це не відноситься!",
@@ -278,12 +378,19 @@
 	"CatBombWrongComputerClockTitle" : "Неправильний час комп'ютера!",
 	"CatBombWrongComputerClockMsg"   : "Будь ласка, виправте час. Вам не потрібно знаходитися в часовому поясі Японії, але час має відповідати вашому часовому поясу! Різниця в часі в {0} хвилин.",
 	"CatBombErrorOnHomePortTitle" : "Помилка під час входу на головний екран",
-	"CatBombErrorOnHomePortMsg"   : "Бцдь ласка, перезавантажте гру.",
+	"CatBombErrorOnHomePortMsg"   : "Будь ласка, перезавантажте гру.",
 	"CatBombAPIDataErrorTitle" : "Помилка даних АРІ",
 	"CatBombAPIDataErrorMsg"   : "Остання дія завершила зв'язок з сервером, але повертається повідомлення про помилку. Переконайтеся в тому, що на сервері технічні роботи та чи і досі працює ваше АРІ-посилання",
 	"CatBombMissingServerTimeTitle" : "Неможливо виправити час сервера",
 	"CatBombMissingServerTimeMsg"   : "Щось не так зі з'єднанням з сервером (або з проксі). Переконайтеся, що встановлено правильний час, інакше певні функції будуть недоступні.",
+
+	"APIErrorNoticeTitle": "KC3改 зіткнувся з помилкою в ігрових даних",
+	"APIErrorNoticeMessage": "Виникла помилка, коли ми намагалисяобробити ігрові дані для {0}. АРІ гри напевне змінився, тож певні функції можуть не працювати або працювати неправильно",
 	
+	"Bomb201Title": "Помилка гри 201",
+	"Bomb201Message": "Виникла помилка 201. Можливо, ти залогінений з іще одного ігрового клієнта, або щось не так із макровиявленням. Це можна ігнорувати, але грай, будь ласка, в міру.",
+	
+
 	"SpeedFast" : "Швидко",
 	"SpeedSlow" : "Повільно",
 	
@@ -300,26 +407,40 @@
 	"BattleMapKills"     : " убивств",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Допоміжна експедиція запущена?",
+	"BattleSupportTips"  : "Допоміжний флот {0} прибув!\n{1} Очікуй підкріплення!",
+	"BattleAntiAirCutIn" : "Наведена ППО задіяна?",
+
 	"BattleItemDrop"     : "Спеціальний дроп",
 	"BattleNightNeeded"  : "Потрібна нічна битва?",
 	"BattleRating"       : "Ранг битви",
 	"BattleAvoided"      : "~Битва уникнена~",
 	"BattleSelect"       : "Виберіть: ",
 	"BattleSelectNodes"  : "{0} або {1}",
-	"BattleDetection"    : "Контакт",
+	"BattleDetection"    : "Виявлення",
 	"BattleEngangement"  : "Зіткнення",
 	"BattleContact"      : "Контакт",
-	"BattleAirBattle"    : "Повітряний бій",
+	"BattleAirBattle"    : "Повітря",
 	"BattleFriendly"     : "Дружня",
 	"BattleEnemy"        : "Ворожа",
 	"BattleContactVs"    : " vs ",
 	"BattleContactYes"   : "ТАК",
 	"BattleContactNo"    : "НІ",
+	"ShipHp"      : "HP",
 	
 	"ShipFire"    : "Вогн. міць: ",
 	"ShipTorpedo" : "Торпеди: ",
 	"ShipAntiAir" : "ППО: ",
 	"ShipArmor"   : "Броня: ",
+	"ShipEvasion" : "Ухил",
+	"ShipAsw"     : "ПЧО",
+	"ShipLos"     : "LoS",
+	"ShipLuck"    : "Везуч.",
+	"ShipCarry"   : "Слоти",
+	"ShipSpeed"   : "Швидк.",
+	"ShipLength"  : "Довж.",
+	"ShipMorale"  : "Мораль",
+	"ShipYasenFp" : "Нічн.",
+
 	
 	"PredictionStampSortie" : "Потоплений",
 	"PredictionStampPvP" : "В нокауті",
@@ -336,6 +457,7 @@
 	"PanelAkashi" : "Акаші",
 	"PanelNoRepair" : "Ремонт не потрібен",
 	"PanelCantRepair" : "Неможливо відремонтувати",
+	"PanelTaihaHpLeft" : " HP в крит. стані = {0}, {1} залишилося",
 	"PanelHighestDocking" : "Макс. час ремонту в доку",
 	"PanelHighestAkashi" : "Макс. час ремонту в Акаші",
 	"PanelRepairMoreDays" : "Більш ніж 24 години",
@@ -343,10 +465,12 @@
 	"PanelCombinedShipBarsHint" : "Залишилося досвіду = {0}, палива = {1}%, снарядів = {2}%",
 	"PanelNextRemodelLv" : "Наступна модернізація",
 	"PanelPossibleRemodel" : "Можлива модернізація",
+	"PanelResupplyCosts" : "Коштує палива = {0}, снарядів = {1}, бокситу = {2}",
 	
-	"PanelHasTaiha" : "Критично",
+	"PanelHasTaiha" : "Тайха",
 	"PanelFSTaiha" : "Флагман",
-	"PanelEscortChuuha" : "Флагман ескорту",
+	"PanelCombinedFSChuuha" : "Флагман пошкоджений",
+	"PanelCombinedFSChuuhaTip" : "Флагман у стані Чууха або Тайха, вилазка неможлива!",
 	"PanelNoTaiha" : "HP в нормі",
 	"PanelSupplied" : "Забезпечення в нормі",
 	"PanelNotSupplied" : "Забезпечення <100%",
@@ -359,9 +483,10 @@
 	"PanelPlanesFighter" : "Літаки в повітряному бою",
 	"PanelPlanesBomber" : "Літаки в бомбардуванні",
 	
-	"PanelToggleSounds" : "Toggle Sounds",
+	"PanelToggleSounds" : "Звук Увімк/Вимк",
 	"PanelFitWindow" : "Прилаштувати вікно",
 	"PanelExportToKCDB" : "Експортувати в Kancolle-calc DeckBuilder",
+	"PanelToggleQuestComplete" : "Статус квесту Увімк/Вимк",
 	
 	"MissionLabelActivity" : "Статус",
 	"MissionGetItems" : "Нагорода:",
@@ -375,6 +500,16 @@
 	"CombinedSurface" : "Ударна ОГ",
 	"CombinedTransport" : "Транспорт",
 	"CombinedNone" : "Звичайний флот",
+
+	"LandBaseActionWaiting" : "Очікування",
+	"LandBaseActionSortie" : "Вилазка",
+	"LandBaseActionDefend" : "Поразка",
+	"LandBaseActionRetreat" : "Відступ",
+	"LandBaseActionRest" : "Відпочинок",
+	"LandBaseTipFighterPower" : "Повітряні сили",
+	"LandBaseTipInterceptFighters" : "Перехоплення винищувачів",
+	"LandBaseTipInterceptBombers" : "Перехоплення бомбардувальників",
+
 	
 	"LevelText" : "Рівень",
 	"LevelShort" : "Рів.",
@@ -389,9 +524,9 @@
 	"PanelWaitActions" : "Очікування ігрових дій...",
 	"PanelErrorStorage" : "LocalStorage браузера Chrome відключений у ваших налаштуваннях. KC3改 потребує цієї функції. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Подивися, як її увімкнути</a>.",
 	
-	"NatsuiroBasic" : "Базовий",
-	"NatsuiroBattle" : "Бойовий",
-	"NatsuiroExped" : "Досвідчений",
+	"NatsuiroBasic" : "База",
+	"NatsuiroBattle" : "Бій",
+	"NatsuiroExped" : "Експедиції",
 	"NatsuiroActivity" : "Активність",
 	
 	"ExpedNumLabel" : "Експедиція #",
@@ -411,6 +546,16 @@
 	
 	"ModernizationResultLeft" : "{0} залишилося",
 	"ModernizationResultNote" : "Значення характеристик зазначені без спорядження",
+
+	"FitWeightUnknown": "Невідомо",
+	"FitWeight_-3": "Великий штраф до точності",
+	"FitWeight_-2": "Середній штраф до точності",
+	"FitWeight_-1": "Маленький штраф до точності",
+	"FitWeight_0": "Нейтрально",
+	"FitWeight_1": "аленький бонус до точності",
+	"FitWeight_2": "Середній бонус до точності",
+	"FitWeight_3": "Великий бонус до точності",
+
 	
 	"DesktopNotifyExpedCompleteTitle" : "Експедиція завершена!",
 	"DesktopNotifyExpedCompleteMessage" : "Флот {0} прибув з експедиції #{1}",
@@ -418,7 +563,7 @@
 	"DesktopNotifyRepairCompleteMessage" : "{0} вийшла з ремонтного доку!",
 	"DesktopNotifyConstrCompleteTitle" : "Збірка завершена!",
 	"DesktopNotifyConstrCompleteMessageFaced" : "Нова канмусу {0} була зібрана!",
-	"DesktopNotifyConstrCompleteMessageUnknown" : "Нова канмусу готова побачитися з тобою у збиральному доку!",
+	"DesktopNotifyConstrCompleteMessageUnknown" : "Нова канмусу готова побачитися з тобою на верфі!",
 	"DesktopNotifyMoraleTitle" : "Мораль флоту відновлена!",
 	"DesktopNotifyMoraleMessage" : "Всі у \"вибраному зараз флоті\" відновилися після втоми.",
 	
@@ -441,7 +586,7 @@
 	"LodgerRegen"  : "Відновлення",
 	"LodgerUseitem": "Інвентар",
 	
-	"LodgerCrship" : "Збірка",
+	"LodgerCrship" : "Побудова",
 	"LodgerCritem" : "Модернізація",
 	"LodgerDsship" : "Розбірка",
 	"LodgerDsitem" : "Утилізація",
@@ -463,8 +608,9 @@
 	
 	"MasterShipSaltCheck" : "Існування підтверджене",
 	"MasterShipSaltUnCheck" : "Існування відхилене",
+	"MasterShipGoQuotes" : "Перевірити цитати",
 	
-	"Dummy" : "Dummy"
+	"Dummy" : "Лялька"
 	
 
 }

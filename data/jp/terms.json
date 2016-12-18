@@ -188,6 +188,12 @@
 	"SettingsForceDMMLogin" : "DMMへのログインを強制",
 	"SettingsAPIRecorder" : "API記録パネルを有効",
 
+	"SettingsErrors" : "エラーの通知",
+	"SettingsShowCatBombs"     : "通常のエラー表示",
+	"SettingsShowAPIError"     : "API処理エラー表示",
+	"SettingsRepeatAPIError"   : "同じAPIエラーでも重複表示",
+	"SettingsDetailedAPIError" : "APIエラーの詳しい内容",
+
 	"SettingsGameInfo"          : "表示するゲーム情報",
 	"SettingsDropFaces"         : "出撃ドロップ",
 	"SettingsConstructionFaces" : "建造ネタバレ",
@@ -370,6 +376,7 @@
 	"Bomb201Message": "APIリスポーンからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めます！",
 	"APIErrorNoticeTitle": "KC3改のゲームデータ処理エラー",
 	"APIErrorNoticeMessage": "[{0}]のゲームAPIデータを処理する時失敗しました。多分ゲームAPIが変更したため、一部のKC3改機能が不具合になってしまうかもしれません。",
+	"DownloadErrorReport": "エラーレポートを‌DLする",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

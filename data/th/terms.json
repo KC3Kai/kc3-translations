@@ -199,6 +199,12 @@
 	"SettingsForceDMMLogin" : "บังคับล็อกอินเว็บ DMM",
 	"SettingsAPIRecorder" : "การบันทึก API",
 	
+	"SettingsErrors" : "ปัญหาข้อผิดพลาด",
+	"SettingsShowCatBombs" : "เตือนปัญหากราบแมว",
+	"SettingsShowAPIError" : "เตือนปัญหา API",
+	"SettingsRepeatAPIError" : "ทวนการเตือนปัญหา API",
+	"SettingsDetailedAPIError" : "เตือนรายละเอียดปัญหา API",
+	
 	"SettingsGameInfo" : "ข้อมูลภายในเกม",
 	"SettingsDropFaces" : "การดรอปเรือ",
 	"SettingsConstructionFaces" : "การต่อเรือ",
@@ -603,6 +609,7 @@
 	"MasterShipGoQuotes" : "ตรวจบทพูด",
 
 	"Chrome55Incompatible": "ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"DownloadErrorReport": "ดาวน์โหลดไฟล์รายงานปัญหาข้อผิดพลาด",
 	
 	"Dummy" : "Dummy"
 }

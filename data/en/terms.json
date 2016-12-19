@@ -36,8 +36,10 @@
 	"MenuPlayAPIDesc" : "Play using your last saved API link or manually input one if you have it",
 	"MenuRefreshAPIName" : "Refresh API Link",
 	"MenuRefreshAPIDesc" : "Opens the DMM play page where we'll auto-extract your new API link",
-	"MenuPlayDMMName" : "Play on DMM Website",
+	"MenuPlayDMMName" : "Natural DMM Website",
 	"MenuPlayDMMDesc" : "Natural DMM Netgame Portal gameplay, for our cautious friends. Absolute Safe.",
+	"MenuSpecialDMMName" : "Special DMM Mode",
+	"MenuSpecialDMMDesc" : "Direct DMM website, with various KC3 customizations like background images",
 	
 	"MenuPlayDMMFName" : "Play via DMM on Frame",
 	"MenuPlayDMMFDesc" : "Direct DMM play page is framed onto a KC3改 page for customizations",
@@ -79,6 +81,12 @@
 	"GameAPIPlayFlashNoticeStep3": "Enable the \"Always allowed to run\" checkbox",
 	"GameAPIPlayFlashNoticeStep4": "Restart browser and run the game",
 	
+	"GameChrome55FrameNoticeTitle": "DMM Frame is not compatible with Chrome 55+",
+	"GameChrome55FrameNoticeDesc": "Chrome 55+ includes updates that disables cross-site rendering of flash and thus you could only see black screen. It is a Chrome issue and DMM is not involved in any sort so you can rest easy on that regard. In the mean time, we recommend playing via direct DMM website, at least until we come up with fixes. We are doing our best to create better avenues for you to play the game.",
+	
+	"GameChrome55APINoticeTitle": "API Link is not compatible with Chrome 55+",
+	"GameChrome55APINoticeDesc": "Chrome 55+ unfortunately stopped reporting network history to devtools panels when using this play option. It is a Chrome issue and DMM is not involved in any sort so you can rest easy on that regard. In the mean time, we recommend playing via direct DMM website, at least until we come up with fixes. We are doing our best to create better avenues for you to play the game.",
+	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
 	"GameAPIGetDesc" : "Use the <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
@@ -99,54 +107,78 @@
 	"GameStartDashWin" : "For Windows / Linux",
 	"GameStartDashOr" : "or",
 	"GameStartDashMac" : "While on Mac",
-	"GameStartDashChrome" : "When the devtools panel opens, there will be a tab \"<strong>KanColle</strong>\", click on it.",
+	"GameStartDashChrome" : "When the devtools panel opens, there will be a tab \"<strong>KanColle</strong>\", click on it. If there're too many tabs, it may be hidden in \u00bb pull-down menu at rightmost, check it.",
 	"GameStartNowTitle" : "Just Let Me Play Now",
-	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now...",
+	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now... (be enabled via Settings)",
 	"GameStartNowBtn" : "Start the game anyway",
 	
 	"AboutTitle" : "About KC3改 Developers",
 	"Version" : "Version",
-	"AboutHome" : "Home Page",
-	"AboutSource" : "Source",
-	"AboutWiki" : "Wiki & FAQ",
-	"AboutReport" : "Report Bugs",
-	"AboutHelpCommunity" : "You can help out",
-	"AboutHelpLearnMore" : "No need to code! Learn more how to do it >",
 	
-	"AboutCoders" : "Coders",
-	"AboutProjectHead" : "Project Head",
-	"AboutWikiWriter" : "Wiki Writer",
-	"AboutDeveloper" : "Developers",
-	"AboutManagers" : "Managers",
-	"AboutManager" : "Manager",
-	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
-	"AboutDevBadgeGen" : "Badge Generator Dev",
+	"AboutWebStore" : "Chrome WebStore",
+	"AboutFacebook" : "Facebook",
+	"AboutSource" : "Source",
+	"AboutReport" : "Report Bugs",
+	
+	"AboutInvdividuals" : "KC3改 Team",
+	"AboutPartners" : "Partners",
+	"AboutOtherCredits" : "Other Credits",
+	"AboutDonators" : "Donators",
+	"AboutHallOfFame" : "Hall of Fame",
+	"AboutLicense" : "License",
+	
+	"AboutDevelopers" : "Developers",
+	"AboutModerators" : "Admins & Moderators",
 	"AboutTranslators" : "Translators",
+	"AboutForkContributors" : "Fork Developers",
+	"AboutTesters" : "Testers and Reporters",
+	"AboutOtherContributors" : "Other Contributions",
+	
+	"AboutDeveloper" : "Developer",
+	"AboutModerator" : "Moderator",
 	"AboutTranslator" : "Translator",
-	"AboutTesters" : "Testers",
-	"AboutDevTester" : "Dev Build",
-	"AboutWebTester" : "WebStore Build",
-	"AboutOther" : "Other Credits",
+	"AboutTester" : "Tester",
+	"AboutDevTester" : "Tester",
+	"AboutReporter" : "Bug Reporter",
+	
+	"AboutProjectHead" : "Project Head",
 	"AboutLogo" : "Logo Design",
 	"AboutFairy" : "Fairy Designer",
-	"AboutReporters" : "Recurring Git Reporters",
-	"AboutReporter" : "Git Reporter",
-	"AboutChannel" : "Channel discussions",
+	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
+	"AboutDevBadgeGen" : "Badge Generator Dev",
 	
-	"AboutOtherSources" : "Other Sources",
-	"AboutLicense" : "License",
-	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
+	"AboutPartnerZHKcWikiName" : "ZH KCWiki",
+	"AboutPartnerZHKcWikiDesc" : "Simplified Chinese quest translations and subtitle quotes",
 	
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\"><strong>http://zh.kcwiki.moe</a></strong>",
-	"AboutSourceZHKcWikiQuests" : "for Simplified Chinese quest translations",
-	"AboutSourceZHKcWikiSubtitles" : "for Simplified Chinese subtitle quotes",
-	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Hearbeat Sound Effect</a> by <strong>Mike Koenig</strong>",
-	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> by <strong>Diablohu</strong>, for Strategy Room Ship Database",
-	"AboutSourceGakadaVoices": "<strong>gakada</strong> for <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">coming up with breakthroughs</a> on voice line decoding",
-	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> for <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">scraping kancolle wikia</a> of the latest shipgirl quotes",
-	"AboutSubtitleContributors": "Thanks to the contributors on the <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">subtitle verification</a> with some even doing the fixes themselves",
-	"AboutSubtitleContributorsOther": "and others who didn't specify their name",
-	"AboutSubtitleTranslators": "Thanks to the translators providing shipgirl quotes to their respective languages",
+	"AboutPartnerPoiStatsName" : "Poi-Statistics by KCWiki & Poi",
+	"AboutPartnerPoiStatsDesc" : "Intergration of the submission of reports of API Data",
+	
+	"AboutPartnerWhoCallsName" : "WhoCallsTheFleet by Diablohu",
+	"AboutPartnerWhoCallsDesc" : "Internal ship database that we use in various areas in the app",
+	
+	"AboutPartnerThreeBardsName" : "ThreeBards.com by cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "Integration with KanColle Badge Generator",
+	
+	"AboutPartnerKCDBNetName" : "KanColle-DB.net",
+	"AboutPartnerKCDBNetDesc" : "Intergration of the submission of reports of API Data",
+	
+	"AboutPartnerKCCalcName" : "KanColle-Calc",
+	"AboutPartnerKCCalcDesc" : "Integration for exporting the fleet information into their fleet builder",
+	
+	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBDesc" : "TH translations of the app, and KC3 update posts in Facebook",
+	
+	"AboutWebsite": "Website",
+	
+	"AboutSubtitleHelp": "Contributed subtitle voice lines",
+	"AboutSourceGakadaVoices": "Breakthroughs on voice line decoding",
+	"AboutSourceWhoCallsTheFleet": "WhoCallsTheFleet for Strategy Room Ship Database",
+	"AboutSourceMdmsScottQuotes": "Scraping kancolle wikia quotes",
+	"AboutSourceHeartSound" : "Hearbeat sound effect during taiha alert",
+	"AboutSampleBattleData" : "for sharing battle data for updates",
+	"AboutCompleteMapNodes" : "Node letters using KCMAP data",
+
+	"AboutLoadingLicense": "Loading contents of the license file...",
 	
 	"SettingsTitle" : "KC3改 Settings",
 	
@@ -166,6 +198,12 @@
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
 	"SettingsForceDMMLogin" : "Force DMM login",
 	"SettingsAPIRecorder" : "API Recorder Panel",
+	
+	"SettingsErrors" : "Errors",
+	"SettingsShowCatBombs" : "Show Cat Bomb Notices",
+	"SettingsShowAPIError" : "Show API Error Notices",
+	"SettingsRepeatAPIError" : "Repeat API Error Notices",
+	"SettingsDetailedAPIError" : "Detailed API Error Notices",
 	
 	"SettingsGameInfo" : "Game Information",
 	"SettingsDropFaces" : "Sortie Drop Faces",
@@ -241,6 +279,7 @@
 	"SettingsAPIGameScreen" : "Game Window",
 	"SettingsQuestOverlay" : "Quest Translations",
 	"SettingsQuestTracking" : "Quest Tracking",
+	"SettingsMapNodeMarkers" : "Map Node Markers",
 	"SettingsPanelRequirement" : "Require Panel to Play",
 	"SettingsDirectRefresh" : "In-page Refresh (Danger)",
 	"SettingsConfirmExit" : "Exit Confirmation",
@@ -259,6 +298,7 @@
 	"SettingsSubtitleSize": "Subtitle Font Size",
 	"SettingsSubtitleBold": "Subtitle Bold Font",
 	"SettingsSubtitleDisplay": "Subtitle Display",
+	"SettingsSubtitleSpeaker": "Subtitle with Ship Name",
 	"SettingsGoogleTranslate": "Google Translate Fallback",
 	
 	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
@@ -318,6 +358,7 @@
 	"LearnMore" : "Learn more",
 	"Saved" : "Saved!",
 	"TimerComplete" : "Complete!",
+	"Debuffed" : "Boss debuffed!",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
 	"UnwantedExitDMM" : "You are leaving the page and your girls! Though if you're just refreshing it is will be a good refresh and will not give you catbombs, API Links are irrelevant!",
@@ -365,6 +406,8 @@
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
 	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered!",
+	"BattleLbasSupportTips" : "LBAS {0} planes from land base #{1}\nShot down {2} enemies, gave {3} damage, {4} lost!",
+	"BattleLbasJetSupportTips" : "LBAS {0} jet planes assault\nShot down {1} enemies, gave {2} damage, {3} lost!",
 	"BattleAntiAirCutIn" : "Anti-Air cut-in triggered?",
 	"BattleItemDrop"     : "Special item drop",
 	"BattleNightNeeded"  : "Night battle needed?",
@@ -381,6 +424,10 @@
 	"BattleContactVs"    : " vs ",
 	"BattleContactYes"   : "YES",
 	"BattleContactNo"    : "NO",
+	"BattleAirDefend"    : "Air Base",
+	"BattleAirDefendYes" : "Interceptors: {0}",
+	"BattleAirDefendNo"  : "No Interceptor",
+	"BattleAirBaseLoss"  : "Losses",
 	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "FP",
@@ -545,6 +592,7 @@
 	"LodgerDsitem" : "Disassemble",
 	"LodgerRemodel": "Ship Remodel",
 	"LodgerRmditem": "Item Remodel",
+	"LodgerLbas"   : "LBAS",
 	"Lodgeroverall": "Total Rating",
 	
 	"LodgeRatingOK0" : "No data recorded",
@@ -562,6 +610,9 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "Check Quotes",
+	
+	"Chrome55Incompatible": "Does not work with Chrome 55+",
+	"DownloadErrorReport": "Download the error report file",
 	
 	"Dummy" : "Dummy"
 	

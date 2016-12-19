@@ -36,10 +36,12 @@
 	"MenuPlayAPIDesc" : "เล่นผ่าน API ล่าสุด หรือเพิ่ม API เองใหม่",
 	"MenuRefreshAPIName" : "รีเฟรช API",
 	"MenuRefreshAPIDesc" : "เปิดเว็บ DMM แล้วระบบจะดึง API ใหม่ให้โดยอัตโนมัติ",
-	"MenuPlayDMMName" : "เล่นผ่าน DMM",
+	"MenuPlayDMMName" : "เล่นผ่าน DMM แบบปกติ",
 	"MenuPlayDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติ",
+	"MenuSpecialDMMName" : "เล่นผ่าน DMM แบบพิเศษ",
+	"MenuSpecialDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติแต่สามารถใช้ส่วนเสริมของ KC3Kai ได้มากขึ้น เช่น เปลี่ยนภาพพื้นหลัง",
 
-	"MenuPlayDMMFName" : "เล่นผ่าน DMM เฟรม (แนะนำ)",
+	"MenuPlayDMMFName" : "เล่นผ่าน DMM เฟรม ",
 	"MenuPlayDMMFDesc" : "เล่นผ่าน DMM เฟรม จะใช้งาน KC3Kai ได้เต็มรูปแบบ",
 	"MenuPlayOSAPIName" : "เล่นผ่าน OSAPI",
 	"MenuPlayOSAPIDesc" : "ขณะนี้ไม่เปิดให้ใช้งาน",
@@ -79,6 +81,12 @@
 	"GameAPIPlayFlashNoticeStep3": "ติ๊กเลือก \"Always allowed to run\" ได้เลย",
 	"GameAPIPlayFlashNoticeStep4": "จากนั้นทำการปิดโปรแกรมโครมและเข้าเกมใหม่อีกครั้ง",
 	
+	"GameChrome55FrameNoticeTitle": "การเล่นผ่าน DMM เฟรม  ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"GameChrome55FrameNoticeDesc": "ในโครมเวอร์ชั่น 55 เป็นต้นไป ได้มีการอัพเดทให้ไม่รองรับการแสดงผล flash ข้ามเว็บไซต์ ส่งผลให้ผู้เล่นจะพบหน้าจอดำแทน ส่วนนี้เป็นปัญหาของทางโครม ไม่เกี่ยวกับทาง DMM แต่อย่างใด ในขณะนี้ เราแนะนำให้คุณทำการเล่นเกมผ่านทางเว็บไซต์ DMM แบบปกติแทน จนกว่าเราจะสรุปวิธีการแก้ไขต่อไป",
+	
+	"GameChrome55APINoticeTitle": "เล่นผ่าน API ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"GameChrome55APINoticeDesc": "ในโครมเวอร์ชั่น 55 เป็นต้นไป ได้มีการอัพเดทให้ไม่สามารถเข้าถึงข้อมูลของผู้เล่นได้ทาง API ทำให้พบปัญหาแสดงข้อมูลไม่ได้ ส่วนนี้เป็นปัญหาของทางโครม ไม่เกี่ยวกับทาง DMM แต่อย่างใด ในขณะนี้ เราแนะนำให้คุณทำการเล่นเกมผ่านทางเว็บไซต์ DMM แบบปกติแทน จนกว่าเราจะสรุปวิธีการแก้ไขต่อไป",
+	
 	"GameAPINoExist" : "ยังไม่มี API เก่าที่เคยใช้งาน",
 	"GameAPIGetTitle" : "เข้าไปขอ API ใหม่",
 	"GameAPIGetDesc" : "กด <img src=\"../popup/img/refresh.png\" /> <strong>รีเฟรช API </strong> ที่ <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3Kai</strong> ที่อยู่มุมขวา",
@@ -99,54 +107,78 @@
 	"GameStartDashWin" : "สำหรับ Windows / Linux",
 	"GameStartDashOr" : "หรือ",
 	"GameStartDashMac" : "สำหรับ Mac",
-	"GameStartDashChrome" : "จากนั้นเลือกแท็บ \"<strong>KanColle</strong>\"",
+	"GameStartDashChrome" : "จากนั้นเลือกแท็บ \"<strong>KanColle</strong>\" ถ้าคุณมีแท็บเยอะ เมนูอาจซ่อนอยู่ด้านในปุ่ม \u00bb นะคะ ",
 	"GameStartNowTitle" : "ก็จะเล่นเลย",
-	"GameStartNowDesc" : "ถ้าจะเล่นเฉย ๆ ไม่ใช้ KC3Kai ก็กดเลย...",
+	"GameStartNowDesc" : "ถ้าจะเล่นเฉย ๆ ไม่ใช้ KC3Kai ก็กดเลย... (เปิดใช้งานในการตั้งค่า)",
 	"GameStartNowBtn" : "เริ่มเล่นทันที",
 
 	"AboutTitle" : "เกี่ยวกับทีมงาน KC3Kai",
 	"Version" : "เวอร์ชั่น",
-	"AboutHome" : "หน้าหลัก",
+	
+	"AboutWebStore" : "โครม เว็บสโตร์",
+	"AboutFacebook" : "เฟสบุ๊ค",
 	"AboutSource" : "โค้ด",
-	"AboutWiki" : "Wiki & FAQ",
 	"AboutReport" : "แจ้งปัญหาและบัค",
-	"AboutHelpCommunity" : "อยากช่วย",
-	"AboutHelpLearnMore" : "มาช่วยกันพัฒนา KC3Kai",
+	
+	"AboutInvdividuals" : "ทีมงาน KC3Kai",
+	"AboutPartners" : "พาร์ทเนอร์",
+	"AboutOtherCredits" : "และเครดิตอีกมายมาย",
+	"AboutDonators" : "ผู้สนับสนุน",
+	"AboutHallOfFame" : "หอเกียรติยศ",
+	"AboutLicense" : "ไลเซนส์",
+	
+	"AboutDevelopers" : "ผู้พัฒนา",
+	"AboutModerators" : "ผู้ดูแลระบบและผู้ดูแล",
+	"AboutTranslators" : "ผู้แปลภาษา",
+	"AboutForkContributors" : "ผู้ร่วมพัฒนา",
+	"AboutTesters" : "ผู้ทดสอบและรายงานบัค",
+	"AboutOtherContributors" : "ทีมงานคนอื่นๆ",
+	
+	"AboutDeveloper" : "ผู้พัฒนา",
+	"AboutModerator" : "ผู้ดูแล",
+	"AboutTranslator" : "ผู้แปลภาษา",
+	"AboutTester" : "ผู้ทดสอบ",
+	"AboutDevTester" : "ผู้ทดสอบ",
+	"AboutReporter" : "ผู้รายงานปัญหาและบัค",
+	
+	"AboutProjectHead" : "หัวหน้าทีมพัฒนา",
+	"AboutLogo" : "ออกแบบโลโก้",
+	"AboutFairy" : "ออกแบบคุณภูติ",
+	"AboutDevBattleReplay" : "ระบบจำลองการรบ",
+	"AboutDevBadgeGen" : "ระบบทำป้ายตรา Badge",
+	
+	"AboutPartnerZHKcWikiName" : "ZH KCWiki",
+	"AboutPartnerZHKcWikiDesc" : "คำแปลเควสและบทพูดภาษาจีน",
+	
+	"AboutPartnerPoiStatsName" : "Poi-Statistics by KCWiki & Poi",
+	"AboutPartnerPoiStatsDesc" : "ระบบการส่งข้อมูลรายงานทาง API",
+	
+	"AboutPartnerWhoCallsName" : "WhoCallsTheFleet by Diablohu",
+	"AboutPartnerWhoCallsDesc" : "ระบบฐานข้อมูลกองเรือที่ใช้งานภายในโปรแกรม",
+	
+	"AboutPartnerThreeBardsName" : "ThreeBards.com by cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "ระบบทำป้ายตรา Badge",
+	
+	"AboutPartnerKCDBNetName" : "KanColle-DB.net",
+	"AboutPartnerKCDBNetDesc" : "ระบบการส่งข้อมูลรายงานทาง API",
+	
+	"AboutPartnerKCCalcName" : "KanColle-Calc",
+	"AboutPartnerKCCalcDesc" : "ระบบการคำนวนและการจัดการกองเรือ",
+	
+	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBDesc" : "คำแปลเควสและบทพูดภาษาไทย รวมถึงข่าวสารการอัพเดทต่างๆ",
+	
+	"AboutWebsite": "เว็บไซต์",
+	
+	"AboutSubtitleHelp": "ผู้ร่วมแปลบทพูด",
+	"AboutSourceGakadaVoices": "ระบบวิธีการถอดรหัสบทพูด",
+	"AboutSourceWhoCallsTheFleet": "WhoCallsTheFleet สำหรับฐานข้อมูลกองเรือ",
+	"AboutSourceMdmsScottQuotes": "การรวบรวมบทพูดจากใน Wikia",
+	"AboutSourceHeartSound" : "สำหรับเสียงเอฟเฟคหัวใจเต้นเพื่อแจ้งเตือน",
+	"AboutSampleBattleData" : "สำหรับข้อมูลการรบที่นำมาอัพเดท",
+	"AboutCompleteMapNodes" : "สัญลักษณ์โหนดในแผนที่ด้วยข้อมูลจาก KCMAP",
 
-	"AboutCoders" : "Coders",
-	"AboutProjectHead" : "Project Head",
-	"AboutWikiWriter" : "Wiki Writer",
-	"AboutDeveloper" : "Developers",
-	"AboutManagers" : "Managers",
-	"AboutManager" : "Manager",
-	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
-	"AboutDevBadgeGen" : "Badge Generator Dev",
-	"AboutTranslators" : "Translators",
-	"AboutTranslator" : "Translator",
-	"AboutTesters" : "Testers",
-	"AboutDevTester" : "Dev Build",
-	"AboutWebTester" : "WebStore Build",
-	"AboutOther" : "Other Credits",
-	"AboutLogo" : "Logo Design",
-	"AboutFairy" : "Fairy Designer",
-	"AboutReporters" : "Recurring Git Reporters",
-	"AboutReporter" : "Git Reporter",
-	"AboutChannel" : "Channel discussions",
-
-	"AboutOtherSources" : "Other Sources",
-	"AboutLicense" : "License",
-	"AboutLicenseDisclaimer" : "The text below represent the latest copy of the LICENSE file as of this installed version. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">See LICENSE file over at the repository for the latest official contents.</a>",
-
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\"><strong>http://zh.kcwiki.moe</a></strong>",
-	"AboutSourceZHKcWikiQuests" : "สำหรับคำแปลเควส ภาษาจีนตัวย่อ",
-	"AboutSourceZHKcWikiSubtitles" : "สำหรับแปลบทพูด ภาษาจีนตัวย่อ",
-	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">เสียงเอฟเฟคหัวใจเต้น</a> โดย <strong>Mike Koenig</strong>",
-	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> โดย <strong>Diablohu</strong>, สำหรับฐานข้อมูลเรือในห้องผู้การ",
-	"AboutSourceGakadaVoices": "<strong>gakada</strong> สำหรับ <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">วิธีการ</a> การถอดรหัสบทพูด",
-	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> สำหรับ <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">การรวบรวม</a> บทพูดจากใน Wikia",
-	"AboutSubtitleContributors": "ขอบคุณผู้ร่วม <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">ตรวจสอบคำแปลบทพูด</a> และช่วยแก้ไขบทพูด",
-	"AboutSubtitleContributorsOther": "และคนอื่นๆ ที่ยังไม่ได้กล่าวถึง",
-	"AboutSubtitleTranslators": "ขอบคุณผู้ร่วมแปลบทพูดในภาษาต่างๆ",
+	"AboutLoadingLicense": "กำลังโหลดข้อมูลไลเซนส์...",
 	
 	"SettingsTitle" : "ตั้งค่า KC3Kai",
 
@@ -166,6 +198,12 @@
 	"SettingsDevOnlyPages" : "ห้องผู้การทดสอบ (Devเท่านั้น)",
 	"SettingsForceDMMLogin" : "บังคับล็อกอินเว็บ DMM",
 	"SettingsAPIRecorder" : "การบันทึก API",
+	
+	"SettingsErrors" : "ปัญหาข้อผิดพลาด",
+	"SettingsShowCatBombs" : "เตือนปัญหากราบแมว",
+	"SettingsShowAPIError" : "เตือนปัญหา API",
+	"SettingsRepeatAPIError" : "ทวนการเตือนปัญหา API",
+	"SettingsDetailedAPIError" : "เตือนรายละเอียดปัญหา API",
 	
 	"SettingsGameInfo" : "ข้อมูลภายในเกม",
 	"SettingsDropFaces" : "การดรอปเรือ",
@@ -241,6 +279,7 @@
 	"SettingsAPIGameScreen" : "หน้าจอเกม",
 	"SettingsQuestOverlay" : "แปลข้อมูลเควส",
 	"SettingsQuestTracking" : "นับการทำเควส",
+	"SettingsMapNodeMarkers" : "ทำเครื่องหมายโหนด",
 	"SettingsPanelRequirement" : "บังคับใช้แผงควบคุมในการเล่น",
 	"SettingsDirectRefresh" : "รีเฟรชในหน้าจอเกม (อันตราย)",
 	"SettingsConfirmExit" : "แจ้งเตือนตอนปิดเกม",
@@ -259,6 +298,7 @@
 	"SettingsSubtitleSize" : "ปรับขนาดของซับไตเติ้ล",
 	"SettingsSubtitleBold" : "ปรับตัวหนาของซับไตเติ้ล",
 	"SettingsSubtitleDisplay": "การแสดงซับไตเติ้ล",
+	"SettingsSubtitleSpeaker": "แสดงชื่อเรือในซับไตเติ้ล",
 	"SettingsGoogleTranslate": "ใช้ Google แปลภาษา",
 	
 	"SubtitleDisplayBottom": "[ด้านล่าง] แสดงซับไตเติ้ลที่ด้านล่างของหน้าจอเกม",
@@ -317,7 +357,8 @@
 	"LearnMore" : "อ่านคำอธิบาย",
 	"Saved" : "บันทึกการตั้งค่า!",
 	"TimerComplete" : "เสร็จแล้ว!",
-
+	"Debuffed" : "บอสถูกดีบัฟแล้ว!",
+	
 	"UnwantedExit" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! โปรดจำไว้ว่า API ตอนนี้ใช้ได้ครั้งเดียวนะคะ หากผู้การจะเข้าใหม่อีกรอบ ให้กดปุ่ม รีเฟรช API ด้วยนะคะ",
 	"UnwantedExitDMM" : "อ๊ะ! กำลังจะเลิกแล้วเหรอคะผู้การ! ถ้าจะเล่นใหม่ ผู้การกดรีเฟรชได้เลยนะคะ ระบบป้องกัน UNLIMITED Catbombs WORKS! ทำงาน! โดยไม่ผ่าน API",
 	"APIWaitToggle" : "โปรดเปิดหน้าแรกของ KC3Kai ก่อน ",
@@ -363,6 +404,8 @@
 	"BattleMapNoHpGauge" : "ไม่มีเกจ",
 	"BattleSupportExped" : "ส่งสนับสนุน",
 	"BattleSupportTips" : "กองเรือ {0} ออกมาแล้ว!\n{1} สนับสนุนสำเร็จ!",
+	"BattleLbasSupportTips" : "เครื่องบิน {0} ลำ จากฐาน #{1}\nทำการยิงศัตรูตก {2} ลำ, สร้างความเสียหายได้ {3}, ตก {4}!",
+	"BattleLbasJetSupportTips" : "เครื่องบินเจ็ท {0} ลำ ได้เข้าโจมตี\nทำการยิงศัตรูตก {1} ลำ, สร้างความเสียหายได้ {2}, ตก {3}!",
 	"BattleAntiAirCutIn" : "ระบบต่อต้านอากาศยาน (AACI)",
 	"BattleItemDrop" : "ได้รับของรางวัลพิเศษ",
 	"BattleNightNeeded" : "รบกลางคืน",
@@ -379,7 +422,11 @@
 	"BattleContactVs" : " vs ",
 	"BattleContactYes" : "YES",
 	"BattleContactNo" : "NO",
-
+	"BattleAirDefend" : "สนามบิน",
+	"BattleAirDefendYes" : "เครื่องบินขับไล่: {0}",
+	"BattleAirDefendNo" : "ไม่มีเครื่องบินขับไล่",
+	"BattleAirBaseLoss" : "สูญเสีย",
+	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "พลังโจมตี",
 	"ShipTorpedo" : "ตอร์ปิโด",
@@ -542,6 +589,7 @@
 	"LodgerDsitem" : "แยกส่วนอุปกรณ์",
 	"LodgerRemodel" : "รีโมเดล",
 	"LodgerRmditem" : "อัพเกรดอุปกรณ์",
+	"LodgerLbas"   : "สนามบิน",
 	"Lodgeroverall" : "รวมคะแนน",
 
 	"LodgeRatingOK0" : "ไม่มีข้อมูล",
@@ -560,5 +608,8 @@
 	"MasterShipSaltUnCheck" : "มีเรือลำนี้แล้ว",
 	"MasterShipGoQuotes" : "ตรวจบทพูด",
 
+	"Chrome55Incompatible": "ไม่สามารถใช้งานได้ในโครมเวอร์ชั่น 55 ขึ้นไป",
+	"DownloadErrorReport": "ดาวน์โหลดไฟล์รายงานปัญหาข้อผิดพลาด",
+	
 	"Dummy" : "Dummy"
 }

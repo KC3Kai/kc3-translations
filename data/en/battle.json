@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "best", "All reconn.aircraft returned"],
+		["OK-", "good", "Some reconn.aircraft lost"],
+		["-", "worst", "All reconn.aircraft lost"],
+		["NO", "bad", "Reconnaissance failed"],
+		["OK+", "good", "Not via reconn.aircraft"],
+		["NO+", "bad", "Not via reconn.aircraft"]
 	],
 	
 	"airbattle" : [
 		["AP", "", "Air Parity"],
-		["AS+", "good", "Air Supremacy"],
+		["AS+", "best", "Air Supremacy"],
 		["AS", "good", "Air Superiority"],
 		["AD", "bad", "Air Denial"],
-		["AI", "bad", "Air Incapability"],
+		["AI", "worst", "Air Incapability"],
 		["None", "", "No Air Battle"]
 	],
 	

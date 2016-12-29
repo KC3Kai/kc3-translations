@@ -1,12 +1,12 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "best", "All reconn.aircraft returned"],
-		["OK-", "good", "Some reconn.aircraft lost"],
-		["-", "worst", "All reconn.aircraft lost"],
+		["OK", "best", "All recon aircraft returned"],
+		["OK-", "good", "Some recon aircraft lost"],
+		["-", "worst", "All recon aircraft lost"],
 		["NO", "bad", "Reconnaissance failed"],
-		["OK+", "good", "Not via reconn.aircraft"],
-		["NO+", "bad", "Not via reconn.aircraft"]
+		["OK+", "good", "No recon aircraft involved"],
+		["NO+", "bad", "No recon aircraft involved"]
 	],
 	
 	"airbattle" : [

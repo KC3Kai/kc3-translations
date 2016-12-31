@@ -269,7 +269,7 @@
     "144": {
         "code": "A42",
         "name": "Form the Main Battleship Force, 2nd Division!",
-        "desc": "Have only Nagato, Mutsu, Fusou and Yamashiro in your main fleet.",
+        "desc": "Have ONLY Nagato, Mutsu, Fusou and Yamashiro in your main fleet.",
         "unlock": [ 258 ]
     },
     "145": {
@@ -313,7 +313,7 @@
     "151": {
         "code": "A49",
         "name": "Form the 22nd Destroyer Division!",
-        "desc": "Have only Satsuki, Fumizuki, Nagatsuki and 1 DD in your main fleet.",
+        "desc": "Have ONLY Satsuki, Fumizuki, Nagatsuki and 1 DD in your main fleet.",
         "unlock": [ 270 ]
     },
     "152": {
@@ -1045,8 +1045,20 @@
     "839": {
         "code": "B88",
         "name": "Sortie a Battleship Division!",
-        "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will be prompted to select one of two rewards, so be careful.",
+        "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+    },
+    "840": {
+        "code": "B89",
+        "name": "Special Winter Mission: Elite Destroyer Division, Sortie!",
+        "desc": "Sortie 4 DD ONLY to [W1-1] and [W1-2]. S-Rank the boss nodes of both maps. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Furniture Fairy and either a \u2605+3 25mm Triple Autocannon Mount OR an Anti-Torpedo Bulge (Large)"
+    },
+    "841": {
+        "code": "B90",
+        "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
+        "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
+        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
     },
     
     

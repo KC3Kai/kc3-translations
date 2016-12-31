@@ -199,6 +199,8 @@
 	"AboutSubtitleContributors": "感谢下列贡献者<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">参与字幕的校验和修订工作</a>：",
 	"AboutSubtitleContributorsOther": "以及其他未透露姓名的贡献者！",
 	"AboutSubtitleTranslators": "感谢翻译人员为各语言提供的舰娘台词",
+	"AboutSampleBattleData" : "感谢其提供的数据样本",
+	"AboutCompleteMapNodes" : "感谢来自 KCMAP 的数据",
 
 	"AboutLoadingLicense": "正在读取许可文件…",
 
@@ -232,6 +234,12 @@
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
 	"SettingsAPIRecorder" : "API 记录器面板",
+
+	"SettingsErrors" : "错误提示",
+	"SettingsShowCatBombs" : "显示报错（猫）",
+	"SettingsShowAPIError" : "显示API错误提示",
+	"SettingsRepeatAPIError" : "重复API错误提示",
+	"SettingsDetailedAPIError" : "显示API错误详情",
 
 	"SettingsGameInfo" : "游戏信息",
 	"SettingsDropFaces" : "揭示掉落的舰娘",
@@ -422,6 +430,8 @@
 	"BattleMapNoHpGauge" : "无血槽",
 	"BattleSupportExped" : "远征支援舰队到达？",
 	"BattleSupportTips"	 : "第{0}支援舰队到达！\n开始{1}支援！",
+	"BattleLbasSupportTips" : "航空队 #{1} 共计 {0} 架飞机累计\n击落：{2}；造成伤害：{3}；损失：{4}",
+	"BattleLbasJetSupportTips" : "共计 {0} 架喷气机\n击落：{1}；造成伤害：{2}；损失：{3}",
 	"BattleAntiAirCutIn" : "对空CI发动？",
 	"BattleItemDrop"	 : "特殊物品掉落？",
 	"BattleNightNeeded"	 : "能否夜战？",
@@ -555,6 +565,13 @@
 	"ExpedCanister" : "运输桶装备于",
 	"ExpedCheckReq" : "符合要求？",
 	"ExpedExpUnit" : " 经验",
+	"ExpedBaseNormal": "基础收入",
+	"ExpedBaseGreat": "基础收入（大成功）",
+	"ExpedAveStars": "平均改修星数",
+	"ExpedBonus": "大发系加成",
+	"ExpedBonusToku": "特大发加成",
+	"ExpedResupply": "补给",
+	"ExpedTotalIncome": "总计" ,
 
 	"CraftEquipNoteFirst" : "<strong>首次</strong>开发出此装备！",
 	"CraftEquipNoteExists" : "目前持有<strong>{0}</strong>件！",
@@ -627,6 +644,7 @@
 	"MasterShipGoQuotes" : "查看台词",
 
 	"Chrome55Incompatible": "与Chrome 55+不兼容",
+	"DownloadErrorReport": "下载错误报告",
 
 	"Dummy" : "Dummy"
 

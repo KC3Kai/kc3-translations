@@ -146,18 +146,18 @@
 
   "AboutInvdividuals" : "KC3改團隊",
   "AboutPartners" : "合作伙伴",
-  "AboutOtherCredits" : "致谢",
+  "AboutOtherCredits" : "額外感謝",
   "AboutDonators" : "贊助者",
   "AboutHallOfFame" : "名人堂",
 
-  "AboutDevelopers" : "開發人員",
-  "AboutModerators" : "管理人員",
-  "AboutModerator" : "主持人員",
-  "AboutTranslators" : "翻譯人員",
-  "AboutForkContributors" : "分支開發人員",
-  "AboutTesters" : "測試與回報人員",
+  "AboutDevelopers" : "開發者",
+  "AboutModerators" : "管理者",
+  "AboutModerator" : "主持者",
+  "AboutTranslators" : "翻譯者",
+  "AboutForkContributors" : "分支開發者",
+  "AboutTesters" : "測試回報者",
   "AboutTester" : "測試人員",
-  "AboutOtherContributors" : "其他貢獻人員",
+  "AboutOtherContributors" : "其他貢獻者",
 
   "AboutOtherSources": "其他資料",
   "AboutLicense": "KC3改版權",
@@ -187,7 +187,7 @@
 
   "AboutWebsite": "網站連結",
 
-  "AboutSubtitleHelp": "感謝下列各位對於語音字幕的貢獻",
+  "AboutSubtitleHelp": "語音字幕翻譯",
   "AboutSourceZHKcWiki": "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a>",
   "AboutSourceZHKcWikiQuests" : "<strong>簡體中文</strong>的任務翻譯",
   "AboutSourceZHKcWikiSubtitles" : "<strong>簡體中文</strong>的語音字幕",
@@ -239,6 +239,7 @@
   "SettingsAutoSwitchFleetView" : "自動切換觀看艦隊",
   "SettingsEnglishShipType": "使用英文艦種簡稱",
   "SettingsJapaneseShipItem": "使用日文艦名",
+	"SettingsShipNamesLang": "艦名語言",  
   "SettingsShipNamesGlobal": "跟隨主要設定",
   "SettingsBlinkGauge": "斬殺期時血條閃爍警示",
 
@@ -350,12 +351,16 @@
   "SettingsErrorValue": "值",
   "SettingsErrorOrder": "%TYP %CMP %VAL",
 
+	"SettingsStrategyRoom" : "策略研究室",
+	"SettingsStrategyTheme" : "主題選擇",  
+  
   "InstalledTitle": "KC3改 準備就緒！",
   "InstallText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解聯繫方式。",
 
   "UpdatedTitle": "KC3改 更新完成！",
   "UpdateText": "如果你正在遊玩艦隊Collection，某些功能與資料可能會出現錯誤。請關閉遊戲頁籤並重新打開遊戲。如果正在出擊途中，請先結束出擊，請記住在重新開啟遊戲前有可能顯示的是錯誤的資料與預測。",
 
+	"Enabled" : "開啟",  
   "Small": "小",
   "Big": "大",
   "Black": "黑色",

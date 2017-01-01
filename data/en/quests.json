@@ -1049,18 +1049,40 @@
         "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
     },
     "840": {
-        "code": "B89",
+        "code": "SB15",
         "name": "Special Winter Mission: Elite Destroyer Division, Sortie!",
         "desc": "Sortie 4 DD ONLY to [W1-1] and [W1-2]. S-Rank the boss nodes of both maps. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a Furniture Fairy and either a \u2605+3 25mm Triple Autocannon Mount OR an Anti-Torpedo Bulge (Large)"
     },
     "841": {
-        "code": "B90",
+        "code": "SB16",
         "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
         "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
         "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
     },
-    
+    "801": {
+        "code": "SB17",
+        "name": "Happy New Year! The Torpedo Squadron Starts the Sortie!",
+        "desc": "Sortie a CL as flagship and at least 3 DD to [W1-2], [W1-3] and [W1-4]. S-Rank the boss nodes of each map.",
+        "memo": "\u27a3Rewards a Repair Goddess"
+    },
+    "802": {
+        "code": "SB18",
+        "name": "New Year's Irako Support!",
+        "desc": "Sortie an AV, AS or DD as flagship and up to 5 other ships to [W2-3]. S-Rank the boss node 3 times."
+    },
+    "803": {
+        "code": "SB19",
+        "name": "The Time Has Come! Aviation Firepower of the New Year!",
+        "desc": "Sortie a BBV as flagship, 1 other BBV, 2 CAV and up to 2 other ships to [W4-2]. S-Rank the boss node 3 times. You will have to select a reward. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Furniture Fairy and ONLY ONE OF a Shiun, an Ro.43 Reconnaissance Seaplane, OR an OS2U"
+    },
+    "804": {
+        "code": "SB20",
+        "name": "New Year's Greeting! The Carrier Task Force Commences the Sortie!",
+        "desc": "Sortie a CV as flagship, 2 DD, and 3 other ships to [W3-5]. S-Rank the boss node 3 times.",
+        "memo": "\u27a3Rewards a Skilled Pilot and furniture"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1252,7 +1274,7 @@
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [W2-5] Nightmare Fleet",
+        "name": "Monthly [W2-5] Nightmare Party",
         "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
         "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
     },

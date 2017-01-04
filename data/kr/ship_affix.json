@@ -11,18 +11,22 @@
 	},
 
 	"prefixes": {
-		"買い物"   : "Mitsukoshi Wine ",
-		"Xmas"     : "Christmas ",
-		"浴衣"     : "Yukata ",
-		"法被"     : "Akimatsuri Happi ",
-		"秋刀魚"   : "Saury ",
-		"親子丼"   : "Oyakodon ",
-		"買い出し" : "Shopping ",
-		"夏2016"   : "Summer 2016 ",
-		"夏"       : "Summer ",
-		"梅雨"     : "Rainy Season ",
-		"携帯"     : "Mobile ",
-		"記念日"   : "Anniversary "
-	}
+		"買い物"   : "미츠코시 ",
+		"Xmas"     : "크리스마스 ",
+		"浴衣"     : "유카타 ",
+		"法被"     : "가을축제 법피 ",
+		"秋刀魚"   : "꽁치잡이 ",
+		"親子丼"   : "나카우 ",
+		"買い出し" : "장보기 ",
+		"夏2016"   : "여름 2016 ",
+		"夏"       : "여름 ",
+		"梅雨"     : "장마 ",
+		"携帯"     : "폰 ",
+		"記念日"   : "기념일 "
+	},
 
+  "yomi": {
+    "elite": "elite",
+    "flagship": "flagship"
+  }
 }

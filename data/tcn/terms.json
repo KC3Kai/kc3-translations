@@ -1,7 +1,7 @@
 {
 
   "available": true,
- 
+
   "SortieWinCount": "出擊勝數",
   "SortieLoseCount": "出擊敗數",
   "SortieWinRate": "出擊勝率",
@@ -29,47 +29,65 @@
   "ImprovementMaterial": "改修資材",
   "Experience": "經驗值",
   "Name": "名稱",
-  
-  "MenuPlayAPIName": "透過API連結進行遊戲",
-  "MenuPlayAPIDesc": "透過上次使用的API連結或者手動輸入API連結來進入遊戲。",
-  "MenuRefreshAPIName": "更新API連結",
-  "MenuRefreshAPIDesc": "開啟DMM的艦Colle網頁並自動擷取新的API連結來進入遊戲。",
-  "MenuPlayDMMName": "透過DMM網頁進行遊戲",
-  "MenuPlayDMMDesc": "開啟DMM官網來遊玩。對於謹慎的玩家們，是絕對安全的選項。",
-  
-  "MenuPlayDMMFName": "透過DMM面板進行遊戲",
-  "MenuPlayDMMFDesc": "使用KC3改的面板進入DMM的網站並擷取遊戲畫面。無需API。",
-  "MenuPlayOSAPIName" : "透過OSAPI進行遊戲",
-  "MenuPlayOSAPIDesc" : "有效期比API長少許的一個次等連結。暫時還沒有自定義設置。",
-  
+
+  "MenuDMMLoginName" : "登入DMM",
+  "MenuDMMLoginDesc" : "您尚未登入DMM.com，請先至DMM網站完成登入。",
+
+  "MenuPlayAPIName" : "開始遊戲（API模式）",
+  "MenuPlayAPIDesc" : "使用API連結開始遊戲，相對較為節省資源且速度較快。",
+  "MenuRefreshAPIName" : "更新API連結",
+  "MenuRefreshAPIDesc" : "開啟DMM的艦Colle網頁並自動擷取新的API連結。",
+  "MenuPlayDMMName" : "開始遊戲（網頁模式）",
+  "MenuPlayDMMDesc" : "使用DMM官網開始遊戲。對於謹慎的玩家來說是絕對安全的選項。",
+
+  "MenuPlayDMMFName" : "開始遊戲（面板模式）",
+  "MenuPlayDMMFDesc" : "使用DMM面板開始遊戲，會擷取遊戲畫面以顯示KC3自訂功能。",
+  "MenuPlayOSAPIName" : "開始遊戲（OSAPI模式）",
+  "MenuPlayOSAPIDesc" : "使用有效期比起API長一點的次等連結進行遊戲。暫時無法使用自訂功能。",
+  "MenuSpecialDMMName" : "開始遊戲（特殊DMM模式）",
+  "MenuSpecialDMMDesc" : "直連DMM，並且支援顯示KC3自訂功能。",
+
   "MenuCookiesName": "啟用區域Cookies",
   "MenuCookiesDesc": "碰到DMM出現地區錯誤視窗時使用。點選前請先選擇日文版DMM網頁。",
   "MenuStrategyName": "策略研究室",
-  "MenuStrategyDesc": "提供各種分析以及籌劃策略的工具，同時協助玩家管理艦隊。",
-  "MenuSettingsDesc": "對各種功能進行設定。儲存後請重新啟動遊戲。",
+  "MenuStrategyDesc": "提供各式數據分析與整理工具，以協助玩家管理艦隊。",
+  "MenuSettingsDesc": "調整各種自訂功能。儲存後請重新啟動遊戲。",
   "MenuAboutDesc": "有關KC3改以及其開發、編譯和測試者的資訊。",
   "MenuFBName": "來為KC3改按讚吧!",
-  "MenuFBDesc": "支持我們且接收我們的最新動向或公告!",
-  
-  "MenuVersion": "使用版本",
-  "MenuChangelog": "（版本記錄）",
+  "MenuFBDesc": "了解我們的最新動態與公告!",
+
+  "MenuVersion": "KC3版本",
+  "MenuChangelog": "（更新紀錄）",
   "MenuUpdate": "更新警告",
-  "MenuOnLatest": "最新版！",
-  "MenuScheduledNow": "現已排程",
-  "MenuScheduledSoon" : "Soon™",
+  "MenuOnLatest": "目前為最新版！",
+  "MenuScheduledNow": "已準備好更新",
+  "MenuScheduledSoon" : "預定更新",
   "MenuPvPReset": "演習重置剩餘時間",
   "MenuQuestReset": "任務重置剩餘時間",
-  "MenuServerMaintenance" : "遊戲維護剩餘時間",
+  "MenuServerMaintenance" : "伺服器維護剩餘時間",
   "MenuTimeUnknown": "未知",
-  "MaintenanceComplete": "待公開",
-  
+  "MaintenanceComplete": "維護已完成",
+
   "GameDMMRedirect": "你將會被重新定向至艦隊Collection官網喔。離開前請注意：",
-  "GameDMMFrame": "你將會被重新定向至艦隊Collection官網，並使用KC3改的面板喔。",
-  
+  "GameDMMFrame": "你將會被重新定向至艦隊Collection官網，並使用KC3改的面板。",
+
   "GameAPIRemoveTitle": "移除API連結",
   "GameAPIRemoveDesc": "如要刪除本程式所紀錄的API連結，特別是當有更新或者是Extra Operation重置時，你可以：",
   "GameAPIRemoveBtn": "移除API連結",
-  
+
+  "GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API模式白畫面問題",
+  "GameAPIPlayFlashNoticeDesc" : "從Chrome 54開始，以API模式啟動遊戲只會顯示白色畫面而無法進行遊戲。這是因為Chrome開始棄用Flash了。我們目前推薦透過面板模式進行遊戲，但您仍可以透過下列步驟繼續使用API模式。<br /><ul></ul>",
+  "GameAPIPlayFlashNoticeStep1": "請於網址欄輸入：<code>chrome://plugins/</code>",
+  "GameAPIPlayFlashNoticeStep2": "找到「Adobe Flash Player」",
+  "GameAPIPlayFlashNoticeStep3": "勾選「始終允許執行」",
+  "GameAPIPlayFlashNoticeStep4": "重新啟動瀏覽器進行遊戲",
+
+  "GameChrome55FrameNoticeTitle": "Chrome 55+ 無法使用面板模式",
+  "GameChrome55FrameNoticeDesc": "因為Chrome 55及以上版本禁用了跨站Flash渲染功能，使用面板模式啟動將會呈現黑色畫面。我們已開始找尋解決方案。在完成修復工作前推薦使用網頁模式進行遊戲。",
+
+  "GameChrome55APINoticeTitle": "Chrome 55+ 無法使用API模式",
+  "GameChrome55APINoticeDesc": "在Chrome 55及以上版本中，因為API模式無法接收網路歷史數據，進而導致該模式無法使用。我們已開始找尋解決方案。在完成修復工作前推薦使用網頁模式進行遊戲。",
+
   "GameAPINoExist": "唉唷，不好意思，提督你沒有任何可用的API連結呢！",
   "GameAPIGetTitle": "取得一個新的API連結",
   "GameAPIGetDesc": "使用在瀏覽器右上的<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"../popup/img/refresh.png\" /> <strong>更新API連結</strong>就可以了喔！很簡單吧？",
@@ -84,9 +102,9 @@
   "GameAPIAltDesc": "如果API連結不適合你的話，KC3改也不會歧視你喔。使用<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"../popup/img/dmm.png\" /> <strong>用DMM網頁來玩</strong>去玩吧。<kbd class=\"light\">F12</kbd>面板屆時也會幫助你喔。",
   "GameAPIExpiredAlert" : "您目前的API連結已經過期",
   "GameAPIExpiredExplanation" : "KC3改偵測到您目前的API連結可能已經過期或是使用過了，請確認您沒有使用了過期的API連結。<br>您可能需要透過點選此按鈕重新獲取API連結。",
-  
-  "GameStartDashTitle": "使用艦隊Collection 輔助面板",
-  "GameStartDashDesc": "艦隊Collection 輔助面板可以協助提供司令部、艦隊、出擊、建造、遠征等資訊，包括等級、艦娘數量、士氣、對空能力、剩餘時間，總之就是用來幫助你。你可以透過下列方法啟動：",
+
+  "GameStartDashTitle": "開啟KC3改輔助面板",
+  "GameStartDashDesc": "KC3改輔助面板是可以協助提供司令部、艦隊、出擊、建造、遠征等資訊，包括等級、艦娘數量、士氣、對空能力、剩餘時間的情報顯示工具。你可以透過下列方法啟動：",
   "GameStartDashWin": "Windows / Linux",
   "GameStartDashOr": "或者",
   "GameStartDashMac": "Mac",
@@ -94,40 +112,82 @@
   "GameStartNowTitle": "不管了，就讓我玩吧...",
   "GameStartNowDesc": "唉，好吧好吧，如果提督你不想要面板的幫助就開始的話...",
   "GameStartNowBtn": "開始遊戲",
-  
-  "AboutTitle": "有關KC3改的開發者",
+
+  "AboutTitle": "關於KC3改",
   "Version": "版本",
-  "AboutHome": "KC3改主頁",
+  "AboutHome": "KC3改首頁",
   "AboutSource": "編碼來源",
   "AboutWiki": "使用指南(英文)",
   "AboutReport": "回報問題",
   "AboutHelpCommunity": "你也能幫忙！",
   "AboutHelpLearnMore": "不需要懂得寫程式！了解如何能幫忙》",
-  
-  "AboutCoders": "程式編寫人員",
-  "AboutProjectHead": "KC3 改領導人",
+  "AboutWebStore" : "Chrome線上應用程式商店",
+  "AboutFacebook" : "Facebook",
+
+  "AboutCoders": "程式編寫者",
+  "AboutProjectHead": "KC3改領導人",
   "AboutWikiWriter": "使用指南製作人員",
-  "AboutDeveloper": "開發人員",
-  "AboutManagers" : "Managers",
-  "AboutManager" : "Manager",
-  "AboutDevBattleReplay" : "戰鬥重播/模擬器開發者",
-  "AboutDevBadgeGen" : "簽名檔製作器開發者",
-  "AboutTranslators": "翻譯",
+  "AboutDeveloper": "開發者",
+  "AboutManagers" : "管理人員",
+  "AboutManager" : "管理者",
+  "AboutDevBattleReplay" : "戰鬥重播/模擬器",
+  "AboutDevBadgeGen" : "簽名檔製作器",
+  "AboutTranslators": "翻譯人員",
   "AboutTranslator": "翻譯",
   "AboutTesters": "測試者",
-  "AboutDevTester": "開發版",
-  "AboutWebTester": "Chrome線上商店版",
-  "AboutOther": "其他鳴謝",
-  "AboutLogo": "KC3 改標誌設計",
+  "AboutDevTester": "內部測試版本",
+  "AboutWebTester": "Chrome正式版本",
+  "AboutOther": "其他感謝",
+  "AboutLogo": "KC3改標誌設計",
   "AboutFairy": "精靈設計者",
-  "AboutReporters": "經常出現的Git回報者們",
+  "AboutReporters": "活躍的Git回報者們",
   "AboutReporter": "Git回報員",
-  "AboutChannel" : "Channel discussions",  
-  
+  "AboutChannel" : "項目討論頻道",
+
+  "AboutInvdividuals" : "KC3改團隊",
+  "AboutPartners" : "合作伙伴",
+  "AboutOtherCredits" : "額外感謝",
+  "AboutDonators" : "贊助者",
+  "AboutHallOfFame" : "名人堂",
+
+  "AboutDevelopers" : "開發者",
+  "AboutModerators" : "管理者",
+  "AboutModerator" : "主持者",
+  "AboutTranslators" : "翻譯者",
+  "AboutForkContributors" : "分支開發者",
+  "AboutTesters" : "測試回報者",
+  "AboutTester" : "測試人員",
+  "AboutOtherContributors" : "其他貢獻者",
+
   "AboutOtherSources": "其他資料",
   "AboutLicense": "KC3改版權",
-  "AboutLicenseDisclaimer": "下列文字是此KC3改版本的版權。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">  -官方最新版權-</a>",
-  
+  "AboutLicenseDisclaimer": "下列文字是此KC3改版本的版權內容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">  -官方最新版權-</a>",
+
+  "AboutPartnerSites" : "合作網站與工具",
+  "AboutPartnerZHKcWikiName" : "艦娘百科",
+  "AboutPartnerZHKcWikiDesc" : "簡體中文任務與台詞翻譯",
+
+  "AboutPartnerPoiStatsName" : "艦娘百科×Poi #掉落統計",
+  "AboutPartnerPoiStatsDesc" : "回報各式API數據（建造/開發/掉落統計）",
+
+  "AboutPartnerKCDBNetName" : "艦隊收藏Database",
+  "AboutPartnerKCDBNetDesc" : "回報各式API數據（建造/開發/掉落統計）",
+
+  "AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
+  "AboutPartnerThreeBardsDesc" : "支援本插件的艦隊Collection簽名檔產生器",
+
+  "AboutPartnerWhoCallsName" : "WhoCallsTheFleet / Diablohu",
+  "AboutPartnerWhoCallsDesc" : "本插件中廣泛使用了其所提供的艦娘數據",
+
+  "AboutPartnerKCCalcName" : "艦隊收藏電子計算機倉庫 / 艦載機廚",
+  "AboutPartnerKCCalcDesc" : "支援本插件的艦隊配置計算器",
+
+  "AboutPartnerKCTHFBName" : "KC-TH「Kantai Collection Translators」",
+  "AboutPartnerKCTHFBDesc" : "本插件的泰文翻譯與Facebook上相關的更新貼文",
+
+  "AboutWebsite": "網站連結",
+
+  "AboutSubtitleHelp": "語音字幕翻譯",
   "AboutSourceZHKcWiki": "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">http://zh.kcwiki.moe</a>",
   "AboutSourceZHKcWikiQuests" : "<strong>簡體中文</strong>的任務翻譯",
   "AboutSourceZHKcWikiSubtitles" : "<strong>簡體中文</strong>的語音字幕",
@@ -136,14 +196,14 @@
   "AboutSubtitleContributors": "感謝於<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">字幕確認表</a>上進行修正的協助者們",
   "AboutSubtitleContributorsOther": "還有其他匿名的協助者",
   "AboutSubtitleTranslators": "感謝翻譯艦娘語音字幕到各自語言的譯者們",
-  
+
   "SettingsTitle": "KC3改設定",
-  
+
   "SettingsGlobal": "整體設定",
   "SettingsLanguage": "語言選項",
   "SettingsReset" : "重設設定",
   "SettingsResetAll" : "重設所有設定",
-  
+
   "SettingsHQExpDetail": "司令部經驗值資訊",
   "SettingsHQExpLeft": "剩餘經驗值",
   "SettingsHQExpCurrent": "當前經驗值",
@@ -151,9 +211,17 @@
   "SettingsTimerDisplayType": "計時器表示方式",
   "SettingsTimeRemaining": "剩餘",
   "SettingsTimeFinished": "結束",
-  "SettingsCheckLiveQuests" : "偵測新任務翻譯",
-  "SettingsDevOnlyPages" : "開發人員專用頁面",
-  
+  "SettingsCheckLiveQuests" : "自動偵測新任務翻譯",
+  "SettingsDevOnlyPages" : "顯示開發專用頁面",
+  "SettingsForceDMMLogin" : "強制要求登入DMM",
+  "SettingsAPIRecorder" : "API紀錄面板",
+
+  "SettingsErrors" : "錯誤提示",
+  "SettingsShowCatBombs" : "顯示報錯（貓）",
+  "SettingsShowAPIError" : "顯示API錯誤提示",
+  "SettingsRepeatAPIError" : "重複API錯誤提示",
+  "SettingsDetailedAPIError" : "顯示API錯誤資料",
+
   "SettingsGameInfo": "遊戲資訊",
   "SettingsDropFaces": "掉落預覽",
   "SettingsConstructionFaces": "建造結果預覽",
@@ -163,17 +231,18 @@
   "SettingsBattleData": "戰鬥結果預覽",
   "SettingsBattleRank" : "戰鬥評價預覽",
   "SettingsBossComp": "敵方主力艦隊編排",
-  "SettingsSaltyShip" : "KC3改抱怨平衡療程",
-  "SettingsYasenTroll": "KC3改給你吐槽",
+  "SettingsSaltyShip" : "KC3改抱怨平衡療程(未完成)",
+  "SettingsYasenTroll": "KC3改給你吐槽(未完成)",
   "SettingsHQDelta": "出擊時計算司令部經驗",
   "SettingsFleetStatus": "艦隊狀態",
-  "SettingsAutoExpedTab": "自動開啟遠征面板",
+  "SettingsAutoExpedTab": "自動切換遠征資訊",
   "SettingsAutoSwitchFleetView" : "自動切換觀看艦隊",
   "SettingsEnglishShipType": "使用英文艦種簡稱",
   "SettingsJapaneseShipItem": "使用日文艦名",
+	"SettingsShipNamesLang": "艦名語言",  
   "SettingsShipNamesGlobal": "跟隨主要設定",
   "SettingsBlinkGauge": "斬殺期時血條閃爍警示",
-  
+
   "SettingsELosFormula": "索敵值計算方式",
   "SettingsELosSum": "簡單加總",
   "SettingsELosOld": "2-5式(舊)",
@@ -181,12 +250,12 @@
   "SettingsELosF33" : "33式",
   "SettingsAirFormula" : "制空值計算方式",
   "SettingsAFPNoBonus" : "素體值",
-  "SettingsAFPVeteran" : "Whole Number Proficiency",
-  "SettingsAFPRange" : "最小值-最大值",
-  "SettingsIntercept" : "Min+Interception",
-  "SettingsAFPAverage" : "Air Whole Number Bonus",
-  "SettingsAFPBounds" : "Air Mix-Max Bonus",
-  
+  "SettingsAFPVeteran" : "熟練度加成（平均）",
+  "SettingsAFPRange" : "熟練度加成（區間）",
+  "SettingsIntercept" : "熟練度加成（平均）+迎擊補正（基地航空隊）",
+  "SettingsAFPAverage" : "自訂熟練度加成（平均）",
+  "SettingsAFPBounds" : "自訂熟練度加成（區間）",
+
   "SettingsScreenshot": "螢幕截圖",
   "SettingsSSOutput": "輸出方式",
   "SettingsSSDownload": "下載至電腦",
@@ -195,10 +264,10 @@
   "SettingsSSFileType": "圖片格式",
   "SettingsSSQuality" : "圖片品質",
   "SettingsSSDirectory": "下載路徑",
-  "SettingsSSDirDesc" : "Specify subfolder of /Downloads/",
+  "SettingsSSDirDesc" : "指定 /Downloads/ 下的目錄",
   "SettingsSSDppx": "裝置像素比例",
   "SettingsNormal": "預設",
-  
+
   "SettingsAlerts": "建造、入渠及遠征提示",
   "SettingsTimeDiff": "時間提前",
   "SettingsMoraleNotif": "士氣提示",
@@ -215,17 +284,18 @@
   "SettingsIdleWarning": "待機時間",
   "SettingsHideCounter": "隱藏",
   "SettingsShowCounter": "顯示",
-  
+
   "SettingsTaihaAlert": "「特別版」大破警告",
   "SettingsScreenBlur" : "畫面模糊",
   "SettingsScreenBlood" : "畫面血跡",
-  "SettingsAppearOnScreenshots" : "截圖時包含大破警告效果",
+  "SettingsAppearOnScreenshots" : "截圖時顯示警告效果",
   "SettingsHeartbeatSound" : "心跳音效",
-  "SettingsDisplayOnPvP" : "於演習時顯示",
+  "SettingsDisplayOnPvP" : "於演習時啟用",
   "SettingsRedShadeOnPanel" : "面板紅色閃爍邊框",
-  
-  "SettingsAPIGameScreen": "遊戲視窗",
+
+  "SettingsAPIGameScreen": "API模式功能設定",
   "SettingsQuestOverlay": "翻譯任務",
+  "SettingsGoogleTranslate": "缺少翻譯時使用Google翻譯",
   "SettingsQuestTracking": "追蹤任務",
   "SettingsPanelRequirement": "需要開啟面板",
   "SettingsDirectRefresh": "頁面內重新整理(危險功能)",
@@ -241,28 +311,37 @@
   "SettingsPlayerScale": "遊戲畫面比例",
   "SettingsSubtitles" : "語音字幕(未完成)",
   "SettingsSubtitleFont": "字幕字型",
-  "SettingsSubtitleFontDesc": "僅可使用CSS有效的字型。請參見 http://www.cssfontstack.com",
   "SettingsSubtitleSize": "字幕大小",
   "SettingsSubtitleBold": "粗體字幕",
-  
+  "SettingsSubtitleFontDesc": "僅可使用CSS有效的字型。請參見 http://www.cssfontstack.com",
+  "SettingsSubtitleDisplay": "字幕顯示模式",
+  "SubtitleDisplayBottom": "固定於下方（介面內）",
+  "SubtitleDisplayBelow": "固定於下方（介面外）",
+  "SubtitleDisplayStick": "固定於頁面底部",
+  "SubtitleDisplayEvade": "固定於下方（介面內），滑鼠經過時移至上方",
+  "SubtitleDisplayGhost": "固定於下方（介面外），滑鼠經過時透明",
+  "SubtitleDisplayFree": "自由拖曳模式",
+  "SettingsSubtitleSpeaker": "字幕艦名顯示",
+  "SettingsMapNodeMarkers" : "標記地圖節點",
+
   "SettingsDMMGameplay": "DMM 遊戲視窗",
   "SettingsDMMCustomize": "套用自訂值",
   "SettingsDMMForceCookies": "強制修改區域cookie",
-  
+
   "SettingsDBSubmission": "傳送資料至「艦これ統計データベース」 (http://kancolle-db.net/login.php)",
   "SettingsEnableDBSubmission": "啟用此功能",
   "SettingsDBSubmissionKey": "存取碼",
-  
+
   "SettingsPoiDBSubmission": "傳送資料至 poi-statistics (http://db.kcwiki.moe/)",
   "SettingsEnablePoiDBSubmission": "啟用此功能",
-  
+
   "SettingsKC3DBSubmission" :"傳送資料至KC3改 (http://kc3.jetri.co)",
   "SettingsEnableKC3DBSubmission" : "啟用此功能並幫功KC3改!",
-	
+
   "SettingsPanelSize": "面板大小",
   "SettingsPanelOpacity": "面板不透明度",
   "SettingsGearHolder": "裝備背景顏色",
-  
+
   "SettingsChuuiWarningDangerousFeature": "你確定嗎？\n任何風險都不屬於我們KC3改的責任\n\n請確認你已明白要怎麼做。",
   "SettingsErrorNG": "已儲存！",
   "SettingsErrorSuper": "無效值！",
@@ -271,13 +350,17 @@
   "SettingsErrorLength": "長度過長",
   "SettingsErrorValue": "值",
   "SettingsErrorOrder": "%TYP %CMP %VAL",
-	
-  "InstalledTitle": "KC3改已準備好開始提供服務！",
-  "InstallText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection且獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解如何找到我們。",
-		
-  "UpdatedTitle": "KC3改已經更新！",
+
+	"SettingsStrategyRoom" : "策略研究室",
+	"SettingsStrategyTheme" : "主題選擇",  
+  
+  "InstalledTitle": "KC3改 準備就緒！",
+  "InstallText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解聯繫方式。",
+
+  "UpdatedTitle": "KC3改 更新完成！",
   "UpdateText": "如果你正在遊玩艦隊Collection，某些功能與資料可能會出現錯誤。請關閉遊戲頁籤並重新打開遊戲。如果正在出擊途中，請先結束出擊，請記住在重新開啟遊戲前有可能顯示的是錯誤的資料與預測。",
-	
+
+	"Enabled" : "開啟",  
   "Small": "小",
   "Big": "大",
   "Black": "黑色",
@@ -294,12 +377,12 @@
   "UnwantedExitDMM": "提督！你真的確定要離開你的艦娘嗎？",
   "APIWaitToggle": "請先載入KC3改面版",
   "APIConcealExpl": "將滑鼠移到這裡以顯示API連結",
-  
+
   "GameUpdateDetected" : "偵測到了遊戲更新!",
   "GameUpdateBoth": "新增了 <strong>{0} 艘新艦娘(s)</strong>和<strong>{1} 個新裝備</strong>! 點擊此處進入策略研究室觀看詳細資料!",
   "GameUpdateShips" : "新增了 <strong>{0} 艘新艦娘(s)</strong>! 點擊此處進入策略研究室觀看詳細資料!",
   "GameUpdateEquips" : "新增了 <strong>{0} 個新裝備</strong>! 點擊此處進入策略研究室觀看詳細資料!",
-	
+
   "CatBombServerCommErrorTitle" : "伺服器通訊錯誤",
   "CatBombServerCommErrorMsg"   : "[{0}] 與伺服器通訊發生錯誤。可能起因於您的連線或環境，而非API連結錯誤。",
   "CatBombHardAPIErrorTitle" : "API錯誤!",
@@ -312,10 +395,10 @@
   "CatBombAPIDataErrorMsg"   : "最有可能的情況是與伺服器網路通訊成功卻回報了錯誤。請確認是否於伺服器維修時間，或是您的API連結能否正常運作。",
   "CatBombMissingServerTimeTitle" : "無法擷取伺服器時間",
   "CatBombMissingServerTimeMsg"   : "與伺服器通訊錯誤。 It's okay if make sure your computer clock is correct, otherwise it might break some of the functionalities.",
-	  
+
   "SpeedFast": "高速",
   "SpeedSlow": "低速",
-  
+
   "HQText": "司令部",
   "HQAdmiralLv"  : "等級",
   "HQExpAbbrev1": "還需",
@@ -325,28 +408,36 @@
 
   "BattleMapWorldPvP"  : "演習",
   "BattleMapCleared"   : "已解放",
-  "BattleMapNotClear"  : "尚未解放",
+  "BattleMapNotClear"  : "攻略中",
   "BattleMapKills"     : "擊沉",
   "BattleMapNoHpGauge" : "沒有血條",
   "BattleSupportExped" : "觸發支援艦隊?",
   "BattleSupportTips"  : "支援艦隊 {0} 到達了!\n{1} 觸發支援!",
+  "BattleLbasSupportTips" : "航空隊 #{1} 共計 {0} 架飛機累計\n擊落：{2}；造成傷害：{3}；損失：{4}",
+  "BattleLbasJetSupportTips" : "共計 {0} 架噴射機\n擊落：{1}；造成傷害：{2}；損失：{3}",
   "BattleAntiAirCutIn" : "觸發對空Cut-in?",
   "BattleItemDrop"     : "掉落特殊物品",
   "BattleNightNeeded"  : "需要夜戰?",
   "BattleRating"       : "戰鬥評價",
   "BattleAvoided"      : "~迴避戰鬥~",
-  "BattleSelect"       : "選擇: ",
+  "BattleSelect"       : "能動分歧: ",
   "BattleSelectNodes"  : "{0} 或是 {1}",
   "BattleDetection"    : "索敵",
   "BattleEngangement"  : "航向",
   "BattleContact"      : "觸接",
   "BattleAirBattle": "航空戰",
-  "BattleFriendly": "友方",
+  "BattleFriendly": "我方",
   "BattleEnemy": "敵方",
   "BattleContactVs"    : " vs ",
   "BattleContactYes"   : "已觸接",
   "BattleContactNo"    : "未觸接",
-	
+  "BattleAirDefend"    : "航空隊",
+  "BattleAirDefendYes" : "攔截隊： {0}",
+  "BattleAirDefendNo"  : "無攔截隊",
+  "BattleAirBaseLoss"  : "基地",
+
+  "Debuffed" : "削甲成功！",
+
   "ShipHp"      : "血量",
   "ShipFire"    : "火力",
   "ShipTorpedo" : "雷裝",
@@ -356,15 +447,15 @@
   "ShipAsw"     : "對潛",
   "ShipLos"     : "索敵",
   "ShipLuck"    : "幸運",
-  "ShipCarry"   : "Carry",
+  "ShipCarry"   : "搭載",
   "ShipSpeed"   : "速力",
-  "ShipLength"  : "Leng",
+  "ShipLength"  : "射程",
   "ShipMorale"  : "士氣",
   "ShipYasenFp" : "夜戰",
-  
+
   "PredictionStampSortie": "轟沉！",
   "PredictionStampPvP": "出局",
-  
+
   "EventRankHardAbbr"    : "甲",
   "EventRankNormalAbbr"  : "乙",
   "EventRankEasyAbbr"    : "丙",
@@ -372,7 +463,8 @@
   "EventHistoryRank2": "乙作戰",
   "EventHistoryRank3": "甲作戰",
   "StrategyEventGo": "活動出撃",
-  
+  "StrategyEvents1HP": "斬殺期！",
+
   "PanelDocking": "入渠",
   "PanelAkashi": "明石",
   "PanelNoRepair": "無需修理",
@@ -385,10 +477,12 @@
   "PanelCombinedShipBarsHint" : "剩餘經驗值 = {0}, 燃料 = {1}%, 彈藥 = {2}%",
   "PanelNextRemodelLv" : "下一次改造",
   "PanelPossibleRemodel" : "可改造",
-  "PanelResupplyCosts" : "將會消耗燃料 = {0}, 彈藥 = {1}, 鋁土 = {2}",  
-  
+  "PanelResupplyCosts" : "將會消耗燃料 = {0}, 彈藥 = {1}, 鋁土 = {2}",
+
   "PanelHasTaiha": "大破！",
   "PanelFSTaiha": "旗艦大破！",
+  "PanelCombinedFSChuuha" : "旗艦中破",
+  "PanelCombinedFSChuuhaTip" : "因旗艦中破/大破，無法出擊",
   "PanelNoTaiha": "健康尚好",
   "PanelSupplied": "補給良好",
   "PanelNotSupplied": "補給未滿",
@@ -399,34 +493,34 @@
   "PanelSupportPower": "支援艦隊威力",
   "PanelPlanesFighter": "參與航空戰的飛機",
   "PanelPlanesBomber": "參與轟炸的飛機",
-  
+
   "PanelToggleSounds" : "切換音效",
   "PanelFitWindow" : "符合視窗大小",
   "PanelExportToKCDB" : "輸出至艦隊收藏計算機",
   "PanelToggleQuestComplete" : "切換任務完成狀態",
-  
+
   "MissionLabelActivity": "遠征",
   "MissionGetItems": "獲得物品：",
   "MissionActivity0": "中止",
   "MissionActivity1": "失敗",
   "MissionActivity2": "成功",
   "MissionActivity3": "大成功",
-  
+
   "CombinedFleet" : "聯合艦隊",
   "CombinedCarrier": "空母機動部隊",
   "CombinedSurface": "水上打擊部隊",
   "CombinedTransport" : "護衛輸送部隊",
   "CombinedNone": "非聯合艦隊",
-  
+
   "LandBaseActionWaiting" : "待機",
   "LandBaseActionSortie" : "出擊",
   "LandBaseActionDefend" : "防空",
   "LandBaseActionRetreat" : "退避",
   "LandBaseActionRest" : "休息",
-  "LandBaseTipFighterPower" : "Regular Fighter power",
-  "LandBaseTipInterceptFighters" : "攔截敵方戰鬥機",
-  "LandBaseTipInterceptBombers" : "攔截敵方轟炸機",
-  
+  "LandBaseTipFighterPower" : "常規對空戰力",
+  "LandBaseTipInterceptFighters" : "迎擊補正",
+  "LandBaseTipInterceptBombers" : "對爆補正",
+
   "LevelText": "等級",
   "LevelShort": "Lv.",
   "LevelNext": "還需",
@@ -435,17 +529,15 @@
   "TimerComplete" : "完成！",
   "UntranslatedQuest": "未翻譯的仼務",
   "UntranslatedQuestTip" : "這是尚未確認或是尚未翻譯的任務。所以無法於此處顯示，請至遊戲內任務列表查看。",
-  
-  "StrategyEvents1HP": "斬殺期！",
-  
+
   "PanelWaitActions": "正在等待遊戲啟動……",
-  "PanelErrorStorage": "閣下已在設定中關閉了Chrome的「允許網站儲存本機資料」功能。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。",
-  
+  "PanelErrorStorage": "Chrome的「允許網站儲存本機資料」功能為關閉狀態。KC3改需要使用此功能才能正常運作。<a href=\"https://support.google.com/chrome/answer/95647?hl=zh-Hant\" target=\"_blank\">參照此網頁中的指示</a>以開啟此功能（注意該網頁將此功能標示為cookie但並非實況）。",
+
   "NatsuiroBasic": "一般",
   "NatsuiroBattle": "出擊",
   "NatsuiroExped": "遠征",
   "NatsuiroActivity": "動態",
-  
+
   "Expedition #1": "遠征 #",
   "ExpedEstmTime": "時間",
   "ExpedIncome": "收入",
@@ -456,14 +548,30 @@
   "ExpedCanister": "運輸桶裝備於",
   "ExpedCheckReq": "編隊符合要求?",
   "ExpedExpUnit" : " XP",
-  
+  "ExpedBaseNormal": "基礎收穫",
+  "ExpedBaseGreat": "基礎收穫（大成功）",
+  "ExpedAveStars": "平均改修星数",
+  "ExpedBonus": "大發加成",
+  "ExpedBonusToku": "特大發加成",
+  "ExpedResupply": "補給",
+  "ExpedTotalIncome": "總計" ,
+
   "CraftEquipNoteFirst" : "這是初次取得的裝備！",
   "CraftEquipNoteExists" : "目前持有 {0} 件此裝備",
   "CraftEquipNotePenguin" : "開發失敗",
-  
+
   "ModernizationResultLeft" : "還可加成 {0}",
-  "ModernizationResultNote" : "(裝備加成沒有計算在內)",
-  
+  "ModernizationResultNote" : "(裝備加成未計算在內)",
+
+  "FitWeightUnknown": "未知",
+  "FitWeight_-3": "超重（大）",
+  "FitWeight_-2": "超重（中）",
+  "FitWeight_-1": "超重（微）",
+  "FitWeight_0": "原裝",
+  "FitWeight_1": "適性加成（小）",
+  "FitWeight_2": "適性加成（中）",
+  "FitWeight_3": "適性加成（大）",
+
   "DesktopNotifyExpedCompleteTitle" : "遠征完成！",
   "DesktopNotifyExpedCompleteMessage" : "提督，第{0}艦隊歸來了！",
   "DesktopNotifyRepairCompleteTitle" : "入渠完畢！",
@@ -473,12 +581,32 @@
   "DesktopNotifyConstrCompleteMessageUnknown" : "提督，新艦娘已來到我們的司令部了！！",
   "DesktopNotifyMoraleTitle" : "艦隊士氣恢復！",
   "DesktopNotifyMoraleMessage" : "提督，主力艦隊的士氣已恢復到一定水準！",
-  
+
   "LodgerTimeWhole"   : "單次",
   "LodgerTimeDaily"   : "日任",
   "LodgerTimeWeekly"  : "周任",
   "LodgerTimeMonthly" : "月任",
   "LodgerTimeYearly"  : "年任",
-  
+
+  "LodgerSortie" : "出擊",
+  "LodgerPvp" : "演習",
+  "LodgerExped" : "遠征",
+  "LodgerQuest" : "任務",
+  "LodgerAkashi" : "明石修理",
+  "LodgerRegen" : "自然恢復",
+ "LodgerUseitem": "使用道具",
+
+  "LodgerCrship" : "建造",
+  "LodgerCritem" : "開發",
+  "LodgerDsship" : "解體",
+  "LodgerDsitem" : "廢棄",
+  "LodgerRemodel": "改造",
+  "LodgerRmditem": "改修",
+  "LodgerLbas": "基地航空隊",
+  "Lodgeroverall": "合計",
+
+  "Chrome55Incompatible": "不支援Chrome55+",
+  "DownloadErrorReport": "下載錯誤報告",
+
   "Dummy": "Dummy"
 }

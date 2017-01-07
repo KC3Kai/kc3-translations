@@ -125,6 +125,8 @@
 	"AboutSourceWhoCallsTheFleet": "WhoCallsTheFleet for Strategy Room Ship Database",
 	"AboutSourceMdmsScottQuotes": "Scraping kancolle wikia quotes",
 	"AboutSourceHeartSound" : "Hearbeat sound effect during taiha alert",
+	"AboutSampleBattleData" : "for sharing battle data for updates",
+	"AboutCompleteMapNodes" : "Node letters using KCMAP data",
 
 	"AboutLoadingLicense": "Loading contents of the license file...",
 	
@@ -146,6 +148,12 @@
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
 	"SettingsForceDMMLogin" : "Force DMM login",
 	"SettingsAPIRecorder" : "API Recorder Panel",
+	
+	"SettingsErrors" : "Errors",
+	"SettingsShowCatBombs" : "Show Cat Bomb Notices",
+	"SettingsShowAPIError" : "Show API Error Notices",
+	"SettingsRepeatAPIError" : "Repeat API Error Notices",
+	"SettingsDetailedAPIError" : "Detailed API Error Notices",
 	
 	"SettingsGameInfo" : "Game Information",
 	"SettingsDropFaces" : "Sortie Drop Faces",
@@ -179,7 +187,7 @@
 	"SettingsAFPRange" : "Min-Max Proficiency",
 	"SettingsIntercept" : "Min+Interception",
 	"SettingsAFPAverage" : "Air Whole Number Bonus",
-	"SettingsAFPBounds" : "Air Mix-Max Bonus",
+	"SettingsAFPBounds" : "Air Min-Max Bonus",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -350,7 +358,9 @@
 	"BattleMapKills"     : " kills",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
-	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered!",
+	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered, has given {2} damage!",
+	"BattleLbasSupportTips" : "LBAS {0} planes from land base #{1} {5:airBattle}\nShot down {2} enemies, gave {3} damage, {4} lost!",
+	"BattleLbasJetSupportTips" : "LBAS {0} jet planes assault totally\nShot down {1} enemies, gave {2} damage, {3} lost!",
 	"BattleAntiAirCutIn" : "Anti-Air cut-in triggered?",
 	"BattleItemDrop"     : "Special item drop",
 	"BattleNightNeeded"  : "Night battle needed?",
@@ -386,6 +396,10 @@
 	"ShipLength"  : "Leng",
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
+	
+	"ShipAAShotdownRate" : "Proportional shotdown rate: {0}%",
+	"ShipAAFixedShotdown" : "Fixed shotdown: {0}-{1}",
+	"ShipAACIMaxBonus" : "Maximum AACI Shotdown bonus: {0}",
 	
 	"PredictionStampSortie" : "Sunk",
 	"PredictionStampPvP" : "Knocked Out",
@@ -483,6 +497,13 @@
 	"ExpedCanister" : "canisters on ",
 	"ExpedCheckReq" : "Check requirements",
 	"ExpedExpUnit" : " exp",
+	"ExpedBaseNormal" : "Base",
+	"ExpedBaseGreat" : "Base (Great Success)",
+	"ExpedAveStars" : "Average Stars",
+	"ExpedBonus" : "Bonus",
+	"ExpedBonusToku" : "Bonus (Toku)",
+	"ExpedResupply" : "Resupply",
+	"ExpedTotalIncome" : "Total" ,
 	
 	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
 	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
@@ -554,6 +575,7 @@
 	"MasterShipGoQuotes" : "Check Quotes",
 	
 	"Chrome55Incompatible": "Does not work with Chrome 55+",
+	"DownloadErrorReport": "Download the error report file",
 	
 	"Dummy" : "Dummy"
 	

@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "best", "เครื่องบินสอดแนมทั้งหมดกลับมาแล้ว"],
+		["OK-", "good", "เครื่องบินสอดแนมตกบางส่วน"],
+		["-", "worst", "เครื่องบินสอดแนมตกทั้งหมด"],
+		["NO", "bad", "การสอดแนมล้มเหลว"],
+		["OK+", "good", "ไม่มีเครื่องบินสอดแนม"],
+		["NO+", "bad", "ไม่มีเครื่องบินสอดแนม"]
 	],
 	
 	"airbattle" : [
 		["เสมอ", "", "Air Parity"],
-		["ชนะขาด", "good", "Air Supremacy"],
+		["ชนะขาด", "best", "Air Supremacy"],
 		["ชนะ", "good", "Air Superiority"],
-		["แพ้", "bad", "Air Incapability"],
 		["แพ้ขาด", "bad", "Air Denial"],
+		["แพ้", "worst", "Air Incapability"],
 		["ไม่มี", "", "No Air Battle"]
 	],
 	

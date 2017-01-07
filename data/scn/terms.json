@@ -40,9 +40,11 @@
 	"MenuPlayDMMDesc" : "使用DMM网页进行游戏，最为安全，不存在封号危险",
 
 	"MenuPlayDMMFName" : "开始游戏（框架模式）",
-	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现自定义功能",
+	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现定制功能",
 	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
-	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持自定义功能",
+	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持定制功能",
+	"MenuSpecialDMMName" : "开始游戏（特殊DMM模式）",
+	"MenuSpecialDMMDesc" : "直连DMM站点，提供如自定义背景等各种KC3定制功能",
 
 	"MenuCookiesName" : "激活Cookies",
 	"MenuCookiesDesc" : "当浏览DMM网站遇到“Error Area”错误时，可使用该选项",
@@ -78,6 +80,12 @@
 	"GameAPIPlayFlashNoticeStep2": "寻找“Adobe Flash Player”一项",
 	"GameAPIPlayFlashNoticeStep3": "在“始终允许运行”选项上打勾",
 	"GameAPIPlayFlashNoticeStep4": "重启浏览器并运行游戏",
+
+	"GameChrome55FrameNoticeTitle": "框架模式与Chrome 55+不兼容",
+	"GameChrome55FrameNoticeDesc": "因Chrome 55及以上版本禁用了跨站Flash渲染功能，框架模式将始终黑屏。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
+
+	"GameChrome55APINoticeTitle": "API模式与Chrome 55+不兼容",
+	"GameChrome55APINoticeDesc": "在Chrome 55及以上版本中，API模式不会收到网络历史数据，导致此模式不可用。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
 
 	"GameAPINoExist" : "你没有任何已保存的API链接",
 	"GameAPIGetTitle" : "获取新的API链接",
@@ -191,6 +199,8 @@
 	"AboutSubtitleContributors": "感谢下列贡献者<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">参与字幕的校验和修订工作</a>：",
 	"AboutSubtitleContributorsOther": "以及其他未透露姓名的贡献者！",
 	"AboutSubtitleTranslators": "感谢翻译人员为各语言提供的舰娘台词",
+	"AboutSampleBattleData" : "感谢其提供的数据样本",
+	"AboutCompleteMapNodes" : "感谢来自 KCMAP 的数据",
 
 	"AboutLoadingLicense": "正在读取许可文件…",
 
@@ -224,6 +234,12 @@
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
 	"SettingsAPIRecorder" : "API 记录器面板",
+
+	"SettingsErrors" : "错误提示",
+	"SettingsShowCatBombs" : "显示报错（猫）",
+	"SettingsShowAPIError" : "显示API错误提示",
+	"SettingsRepeatAPIError" : "重复API错误提示",
+	"SettingsDetailedAPIError" : "显示API错误详情",
 
 	"SettingsGameInfo" : "游戏信息",
 	"SettingsDropFaces" : "揭示掉落的舰娘",
@@ -414,6 +430,8 @@
 	"BattleMapNoHpGauge" : "无血槽",
 	"BattleSupportExped" : "远征支援舰队到达？",
 	"BattleSupportTips"	 : "第{0}支援舰队到达！\n开始{1}支援！",
+	"BattleLbasSupportTips" : "航空队 #{1} 共计 {0} 架飞机累计\n击落：{2}；造成伤害：{3}；损失：{4}",
+	"BattleLbasJetSupportTips" : "共计 {0} 架喷气机\n击落：{1}；造成伤害：{2}；损失：{3}",
 	"BattleAntiAirCutIn" : "对空CI发动？",
 	"BattleItemDrop"	 : "特殊物品掉落？",
 	"BattleNightNeeded"	 : "能否夜战？",
@@ -451,6 +469,10 @@
 	"ShipLength"  : "射程",
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
+
+	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
+	"ShipAAFixedShotdown" : "固定击坠: {0}-{1}",
+	"ShipAACIMaxBonus"    : "最大对空CI固定击坠: {0}",
 
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
@@ -547,6 +569,13 @@
 	"ExpedCanister" : "运输桶装备于",
 	"ExpedCheckReq" : "符合要求？",
 	"ExpedExpUnit" : " 经验",
+	"ExpedBaseNormal": "基础收入",
+	"ExpedBaseGreat": "基础收入（大成功）",
+	"ExpedAveStars": "平均改修星数",
+	"ExpedBonus": "大发系加成",
+	"ExpedBonusToku": "特大发加成",
+	"ExpedResupply": "补给",
+	"ExpedTotalIncome": "总计" ,
 
 	"CraftEquipNoteFirst" : "<strong>首次</strong>开发出此装备！",
 	"CraftEquipNoteExists" : "目前持有<strong>{0}</strong>件！",
@@ -599,6 +628,7 @@
 	"LodgerDsitem" : "废弃",
 	"LodgerRemodel": "改造",
 	"LodgerRmditem": "改修",
+	"LodgerLbas": "基地航空队",
 	"Lodgeroverall": "合计",
 
 	"LodgeRatingOK5" : "绝赞屯资中",
@@ -616,6 +646,10 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "查看台词",
+
+	"Chrome55Incompatible": "与Chrome 55+不兼容",
+	"DownloadErrorReport": "下载错误报告",
+
 	"Dummy" : "Dummy"
 
 }

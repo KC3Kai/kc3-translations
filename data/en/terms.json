@@ -551,6 +551,9 @@
 	"ExpedBonusToku" : "Bonus (Toku)",
 	"ExpedResupply" : "Resupply",
 	"ExpedTotalIncome" : "Total" ,
+	"ExpedGSRate": "GS Rate:" ,
+	"ExpedGSRateExplainSparkle": "Having sparkled ship in fleet increases great success rate\nCurrent: {0}",
+	"ExpedGSRateExplainExtraDrum": "Carrying extra drums for this expedition increases great success rate\nCurrent: {0}/{1}",
 	
 	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
 	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",

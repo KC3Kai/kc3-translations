@@ -405,8 +405,8 @@
 	"BattleMapKills"     : " kills",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
-	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered!",
-	"BattleLbasSupportTips" : "LBAS {0} planes from land base #{1} totally\nShot down {2} enemies, gave {3} damage, {4} lost!",
+	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered, has given {2} damage!",
+	"BattleLbasSupportTips" : "LBAS {0} planes from land base #{1} {5:airBattle}\nShot down {2} enemies, gave {3} damage, {4} lost!",
 	"BattleLbasJetSupportTips" : "LBAS {0} jet planes assault totally\nShot down {1} enemies, gave {2} damage, {3} lost!",
 	"BattleAntiAirCutIn" : "Anti-Air cut-in triggered?",
 	"BattleItemDrop"     : "Special item drop",
@@ -443,6 +443,10 @@
 	"ShipLength"  : "Leng",
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
+	
+	"ShipAAShotdownRate" : "Proportional shotdown rate: {0}%",
+	"ShipAAFixedShotdown" : "Fixed shotdown: {0}-{1}",
+	"ShipAACIMaxBonus" : "Maximum AACI Shotdown bonus: {0}",
 	
 	"PredictionStampSortie" : "Sunk",
 	"PredictionStampPvP" : "Knocked Out",

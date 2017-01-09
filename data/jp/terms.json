@@ -405,9 +405,9 @@
 	"BattleMapKills"     : " 回",
 	"BattleMapNoHpGauge" : "ゲージなし",
 	"BattleSupportExped" : "遠征支援艦隊が到着？",
-	"BattleSupportTips"  : "第{0}支援艦隊が到着しました！\n支援{1}、開始！",
-	"BattleLbasSupportTips" : "基地航空隊{1}からの{0}戦闘機が支援攻撃によって累計\n敵{2}機殲滅、敵艦{3}ダメージ、{4}機撃墜されてしまった！",
-	"BattleLbasJetSupportTips" : "基地航空隊からの{0}噴式機が噴式強襲攻撃によって累計\n敵{1}機殲滅、敵艦{2}ダメージ、{3}機撃墜されてしまった！",
+	"BattleSupportTips"  : "第{0}支援艦隊が到着しました！\n支援{1}によって敵艦に {2} ダメージがあたえた！",
+	"BattleLbasSupportTips" : "基地航空隊{1}からの {0} 機が{5}によって累計\n敵 {2} 機殲滅、敵艦 {3} ダメージ、{4} 機撃墜されてしまった！",
+	"BattleLbasJetSupportTips" : "基地航空隊からの {0} 噴式機が噴式強襲攻撃によって累計\n敵 {1} 機殲滅、敵艦 {2} ダメージ、{3} 機撃墜されてしまった！",
 	"BattleAntiAirCutIn" : "対空カットインが発動？",
 	"BattleItemDrop"     : "期間限定アイテムドロップ",
 	"BattleNightNeeded"  : "夜戦が必要？",
@@ -444,6 +444,10 @@
 	"ShipLength"  : "射程",
 	"ShipMorale"  : "士気",
 	"ShipYasenFp" : "夜戦",
+	
+	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",
+	"ShipAAFixedShotdown" : "固定撃墜: {0}-{1}",
+	"ShipAACIMaxBonus"    : "対空カットイン最大ボーナス: {0}",
 
 	"PredictionStampSortie" : "轟　　沈",
 	"PredictionStampPvP"    : "行動不能",

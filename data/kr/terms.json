@@ -547,6 +547,9 @@
 	"ExpedBonusToku" : "추가 수입 (특대발)",
 	"ExpedResupply" : "보급",
   "ExpedTotalIncome": "총 수입",
+  "ExpedGSRate": "대성공 확률",
+  "ExpedGSRateExplainSparkle": "키라작이 된 칸무스가 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}",
+  "ExpedGSRateExplainExtraDrum": "필수 드럼통 수 이상의 드럼통을 장착할 시 대성공 확률이 상승합니다. \n 현재 수: {0}/{1}",
 
   "CraftEquipNoteFirst": "현시점 기준 이 장비의 <strong>첫번째</strong>입니다!",
   "CraftEquipNoteExists": "이 장비를 현재 <strong>{0}</strong>개 보유 중입니다.",

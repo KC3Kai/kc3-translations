@@ -444,9 +444,10 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
+	"ShipAAAdjusted" : "Adjusted Anti-air: {0}",
 	"ShipAAShotdownRate" : "Proportional shotdown rate: {0}%",
-	"ShipAAFixedShotdown" : "Fixed shotdown: {0}-{1}",
-	"ShipAACIMaxBonus" : "Maximum AACI Shotdown bonus: {0}",
+	"ShipAAFixedShotdown" : "Fixed shotdown: {0}",
+	"ShipAACIMaxBonus" : "Max AACI shotdown bonus: {0}",
 	
 	"PredictionStampSortie" : "Sunk",
 	"PredictionStampPvP" : "Knocked Out",

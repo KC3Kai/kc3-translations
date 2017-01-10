@@ -389,9 +389,10 @@
 	"Bomb201Title": "Game Error 201",
 	"Bomb201Message": "You have received an error 201 from the game API. You could be still logged in on another game client, or this may have something to do with macro-detection. You may ignore this notice but please play in moderation.",
 	
-	"SpeedFast" : "Fast",
-	"SpeedSlow" : "Slow",
-	"SpeedFaster" : "Fast+",
+	"SpeedLand"    : "Land",
+	"SpeedSlow"    : "Slow",
+	"SpeedFast"    : "Fast",
+	"SpeedFaster"  : "Fast+",
 	"SpeedFastest" : "Fastest",
 	
 	"HQText"       : "HQ",

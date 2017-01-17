@@ -993,23 +993,6 @@
         "desc": "Sortie to [W2-1]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Searchlight"
     },
-    "831": {
-        "code": "SB12",
-        "name": "Saury Fishing: Light it Up! Saury Fishing Aid!",
-        "desc": "Have 3 sauries in your inventory. They can be farmed from [W1], [W3], and [W6].",
-        "unlock": [ 832 ]
-    },
-    "832": {
-        "code": "SB13",
-        "name": "Saury Fishing: More, More! Keep Fishing for Saury!",
-        "desc": "Have 8 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand.",
-        "unlock": [ 833 ]
-    },
-    "833": {
-        "code": "SB14",
-        "name": "Saury Fishing: Bleeding Edge Saury Fishing! Keep Going!",
-        "desc": "Have 24 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand."
-    },
     "834": {
         "code": "B83",
         "name": "Reinforce the Nansei Islands Defense Line!",
@@ -1061,31 +1044,11 @@
         "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
         "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
     },
-    "801": {
-        "code": "SB17",
-        "name": "Happy New Year! The Torpedo Squadron Starts the Sortie!",
-        "desc": "Sortie a CL as flagship and 1-5 DD to [W1-2], [W1-3] and [W1-4]. S-Rank the boss nodes of each map.",
-        "memo": "\u27a3Rewards a Repair Goddess",
-        "unlock": [ 802 ]
-    },
-    "802": {
-        "code": "SB18",
-        "name": "New Year's Irako Support!",
-        "desc": "Sortie an AV, AS or DD as flagship and up to 5 other ships to [W2-3]. S-Rank the boss node 3 times.",
-        "unlock": [ 803 ]
-    },
-    "803": {
-        "code": "SB19",
-        "name": "The Time Has Come! The Aviation Ships' New Year!",
-        "desc": "Sortie a BBV as flagship, 1 other BBV, 2 CAV and up to 2 other ships to [W4-2]. S-Rank the boss node 3 times. You will have to select a reward. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards 3 Screws, a Furniture Fairy and ONLY ONE OF a Shiun OR an Ro.43 Reconnaissance Seaplane OR an OS2U",
-        "unlock": [ 804 ]
-    },
-    "804": {
-        "code": "SB20",
-        "name": "New Year's Greeting! The Carrier Task Force Commences the Sortie!",
-        "desc": "Sortie a CV as flagship, 2 DD, and 3 other ships to [W3-5]. S-Rank the boss node 3 times.",
-        "memo": "\u27a3Rewards a Skilled Pilot and furniture"
+    "842": {
+        "code": "B89",
+        "name": "Main Battleship Division, Set Sail!",
+        "desc": "Sortie 2 BB(V) and up to 4 additional ships to [W2-4]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler"
     },
     
     "201": {
@@ -1855,6 +1818,12 @@
         "name": "Increased Production of the Ne-Type Engine",
         "desc": "Have 8000 steel, two Ryuusei and two Reppuu. Scrap three Type 0 Fighter Model 52s.",
         "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ne-Type Engine"
+    },
+    "652": {
+        "code": "F48",
+        "name": "Procurement for Custom-Made Furniture",
+        "desc": "Have 5000 Furniture Coins, two 7.7mm Machine Guns and two Type 96 Fighters in your inventory. Scrap two 12.7cm Twin Gun Mounts.",
+        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
     
     "701": {

@@ -470,6 +470,13 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
+	"ShipAAAdjusted"      : "加重对空值: {0}",
+	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
+	"ShipAAFixedShotdown" : "固定击坠: {0}",
+	"ShipAACIMaxBonus"    : "最大对空CI击坠加成: {0}",
+	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
+	"ShipAAShotdownPred"  : "击坠数(都成功/仅比例/仅固定/都失败):\n{0}",
+
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
 
@@ -572,6 +579,9 @@
 	"ExpedBonusToku": "特大发加成",
 	"ExpedResupply": "补给",
 	"ExpedTotalIncome": "总计" ,
+	"ExpedGSRate": "大成功率：" ,
+	"ExpedGSRateExplainSparkle": "舰队中包含高士气舰娘时可提升远征大成功率\n现有：{0}",
+	"ExpedGSRateExplainExtraDrum": "携带额外的“桶（运输用）”可提升此远征大成功率\n现有：{0}/{1}",
 
 	"CraftEquipNoteFirst" : "<strong>首次</strong>开发出此装备！",
 	"CraftEquipNoteExists" : "目前持有<strong>{0}</strong>件！",

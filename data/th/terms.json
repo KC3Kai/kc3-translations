@@ -199,6 +199,10 @@
 	"SettingsDevOnlyPages" : "ห้องผู้การทดสอบ (Devเท่านั้น)",
 	"SettingsForceDMMLogin" : "บังคับล็อกอินเว็บ DMM",
 	"SettingsAPIRecorder" : "การบันทึก API",
+	"SettingsUpdateNotification" : "แจ้งเตือนการอัพเดท",
+	"SettingsUpdateNotifNone" : "ไม่มี",
+	"SettingsUpdateNotifPage" : "หน้าอัพเดท",
+	"SettingsUpdateNotifPop" : "ป๊อปอัพหน้าจอ",
 	
 	"SettingsErrors" : "ปัญหาข้อผิดพลาด",
 	"SettingsShowCatBombs" : "เตือนปัญหากราบแมว",
@@ -345,6 +349,15 @@
 
 	"SettingsStrategyRoom" : "ห้องผู้การ",
 	"SettingsStrategyTheme" : "ธีมของห้องผู้การ",
+	
+	"InstalledTitle": "KC3Kai ติดตั้งพร้อมใช้งานแล้ว!",
+	"InstalledText": "ขอบคุณนะคะคุณผู้การ ที่ได้มาร่วมใช้งาน KC3Kai! หวังว่าเครื่องมือพวกนี้จะมีส่วนช่วยในการเล่นคังโคเระของคุณผู้การได้! ถ้ามีปัญหาอะไรล่ะก็ แจ้งมาที่พวกเราได้เสมอเลยนะ!",
+	
+	"UpdatedTitle": "KC3Kai อัพเดทเสร็จแล้ว!",
+	"UpdatedText": "หลังจากการอัพเดท หากคุณผู้การกำลังเล่นคังโคเระอยู่ บางฟังก์ชันอาจจะหยุดการทำงานไป โปรดทำการเข้าเกมใหม่อีกครั้ง หากคุณผู้การกำลังออกเรืออยู่ ขอให้ออกเรือให้จบก่อนก็ได้ค่ะ แต่บางฟังก์ชัน เช่น การแสดงผลการรบ อาจจะไม่ทำงานจนกว่าคุณจะทำการเข้าเกมใหม่อีกครั้งนะคะ",
+	
+	"UpdateNotifTitle": "KC3Kai {0} พร้อมให้อัพเดทแล้ว!",
+	"UpdateNotifText": "คลิกเพื่อดูรายการในหน้าอัพเดท",
 	
 	"PageUpdateTitle": "KC3Kai สถานะการอัพเดท",
 	"PageUpdateStatus": "สถานะ",

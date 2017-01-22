@@ -58,6 +58,7 @@
 	"MenuVersion" : "Installed version",
 	"MenuChangelog" : "(Changelogs)",
 	"MenuUpdate" : "KC3改 Update",
+	"UpdateAvailableNow" : "available now!",
 	"MenuOnLatest" : "You're on Latest",
 	"MenuScheduledNow" : "Scheduled now",
 	"MenuScheduledSoon" : "unscheduled",
@@ -198,6 +199,10 @@
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
 	"SettingsForceDMMLogin" : "Force DMM login",
 	"SettingsAPIRecorder" : "API Recorder Panel",
+	"SettingsUpdateNotification" : "Update notifications",
+	"SettingsUpdateNotifNone" : "None",
+	"SettingsUpdateNotifPage" : "Update page",
+	"SettingsUpdateNotifPop" : "Desktop popup",
 	
 	"SettingsErrors" : "Errors",
 	"SettingsShowCatBombs" : "Show Cat Bomb Notices",
@@ -345,13 +350,21 @@
 	"SettingsStrategyRoom" : "Strategy Room",
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	
-	"InstalledTitle": "KC3改 ready for service!",
-	"InstallText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
+	"InstalledTitle": "KC3改 has been installed successfully!",
+	"InstalledText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
 	
 	"UpdatedTitle": "KC3改 has been updated!",
-	"UpdateText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
-	"NewVerViewChangelogGithub": "View Changelog on GitHub",
-	"NewVerViewWikiGithub": "View Usage Wiki on GitHub",
+	"UpdatedText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
+	
+	"UpdateNotifTitle": "KC3改 {0} now available!",
+	"UpdateNotifText": "Click here to open the update page",
+	
+	"PageUpdateTitle": "KC3改 Update Status",
+	"PageUpdateReady": "Update ready. Extension reload required.",
+	"PageUpdateReadyText": "An extension update is ready to be installed. You may opt to restart now , or finish what you're doing in-game and restart later. Please note that if you choose to restart now, the game tab might automatically close, and the devtools panel will get an error until reloaded.",
+	"PageUpdateRestartNow": "Reload extension now",
+	"PageUpdateRestartLater": "Reload later",
+	"PageUpdateHowToManual": "How to update manually",
 	
 	"Enabled" : "Enabled",
 	"Small" : "Small",

@@ -200,6 +200,9 @@
 	"SettingsForceDMMLogin" : "Force DMM login",
 	"SettingsAPIRecorder" : "API Recorder Panel",
 	"SettingsUpdateNotification" : "Update notifications",
+	"SettingsUpdateNotifNone" : "None",
+	"SettingsUpdateNotifPage" : "Update page",
+	"SettingsUpdateNotifPop" : "Desktop popup",
 	
 	"SettingsErrors" : "Errors",
 	"SettingsShowCatBombs" : "Show Cat Bomb Notices",
@@ -352,6 +355,9 @@
 	
 	"UpdatedTitle": "KC3改 has been updated!",
 	"UpdatedText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
+	
+	"UpdateNotifTitle": "KC3改 {0} now available!",
+	"UpdateNotifText": "Click here to open the update page",
 	
 	"PageUpdateTitle": "KC3改 Update Status",
 	"PageUpdateStatus": "Status",

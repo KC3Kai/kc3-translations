@@ -59,6 +59,7 @@
 	"MenuVersion" : "เวอร์ชั่นปัจจุบัน",
 	"MenuChangelog" : "(รายการอัพเดท)",
 	"MenuUpdate" : "อัพเดท",
+	"UpdateAvailableNow" : "พร้อมอัพเดทแล้ว!",
 	"MenuOnLatest" : "เวอร์ชั่นล่าสุดแล้ว",
 	"MenuScheduledNow" : "มีเวอร์ชั่นใหม่",
 	"MenuScheduledSoon" : "ยังไม่ประกาศ",
@@ -386,6 +387,8 @@
 	"PageUpdateRestartNow": "เปิดปิดเกมใหม่ทันที",
 	"PageUpdateRestartLater": "เปิดปิดเกมใหม่ภายหลัง",
 	"PageUpdateHowToManual": "วิธีอัพเดทแบบแมนนวล",
+	"PageUpdateInstalled": "ติดตั้งแล้ว",
+	"PageUpdateInDevelop": "กำลังพัฒนา",
 	
 	"Enabled" : "เปิดใช้งาน",
 	"Small" : "ขนาดเล็ก",
@@ -540,6 +543,7 @@
 	"PanelSupportPower" : "กำลังรบของกองกำลังสนับสนุน",
 	"PanelPlanesFighter" : "เครื่องบินที่เข้าร่วมรบน่านฟ้า",
 	"PanelPlanesBomber" : "เครื่องบินที่เข้าร่วมการโจมตี",
+	
 	"PanelToggleSounds" : "ปิดเสียง",
 	"PanelFitWindow" : "ปรับขนาดหน้าจอ",
 	"PanelExportToKCDB" : "ส่งข้อมูลไป Kancolle-calc DeckBuilder",

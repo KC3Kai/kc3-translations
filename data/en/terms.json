@@ -381,14 +381,15 @@
 	"UpdatedText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
 	
 	"UpdateNotifTitle": "KC3改 {0} now available!",
-	"UpdateNotifText": "Click here to open the update page",
+	"UpdateNotifText": "Update ready. Extension reload required.\nClick here to open the update page.",
 	
 	"PageUpdateTitle": "KC3改 Update Status",
-	"PageUpdateReady": "Update ready. Extension reload required.",
 	"PageUpdateReadyText": "An extension update is ready to be installed. You may opt to restart now , or finish what you're doing in-game and restart later. Please note that if you choose to restart now, the game tab might automatically close, and the devtools panel will get an error until reloaded.",
 	"PageUpdateRestartNow": "Reload extension now",
 	"PageUpdateRestartLater": "Reload later",
 	"PageUpdateHowToManual": "How to update manually",
+	"PageUpdateInstalled": "INSTALLED",
+	"PageUpdateInDevelop": "In development",
 	
 	"Enabled" : "Enabled",
 	"Small" : "Small",

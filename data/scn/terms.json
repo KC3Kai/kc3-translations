@@ -235,6 +235,14 @@
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
 	"SettingsAPIRecorder" : "API 记录器面板",
 
+	"SettingsAAFormation": "对空阵型",
+	"SettingsAAFLineAheadEtc" : "单纵阵/单横阵/梯形阵",
+	"SettingsAAFDoubleLine"   : "复纵阵",
+	"SettingsAAFDiamond"      : "轮型阵",
+	"SettingsAAFCombAntiSub"  : "联合舰队(对潜警戒)",
+	"SettingsAAFCombDiamond"  : "联合舰队(轮型阵)",
+	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
+
 	"SettingsErrors" : "错误提示",
 	"SettingsShowCatBombs" : "显示报错（猫）",
 	"SettingsShowAPIError" : "显示API错误提示",
@@ -380,6 +388,7 @@
 	"Panel" : "面板",
 	"Volume" : "音量",
 	"None" : "无",
+	"Unknown": "未知",
 	"LearnMore" : "了解更多",
 	"Saved" : "已保存",
 	"TimerComplete" : "完成！",
@@ -475,7 +484,7 @@
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
 	"ShipAACIMaxBonus"    : "最大对空CI击坠加成: {0}",
 	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
-	"ShipAAShotdownPred"  : "击坠数(都成功/仅比例/仅固定/都失败):\n{0}",
+	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
 
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
@@ -503,6 +512,7 @@
 	"PanelNextRemodelLv"   : "改造等级",
 	"PanelPossibleRemodel" : "改造可能",
 	"PanelResupplyCosts"   : "补给消耗：\n燃料：{0}，弹药：{1}，铝土矿：{2}",
+	"PanelConsumedSteel"   : "每战消耗钢材：{0}",
 
 	"PanelHasTaiha" : "大破",
 	"PanelFSTaiha" : "旗舰",
@@ -546,6 +556,17 @@
 	"LevelText" : "等级",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "还需",
+
+	"SpeedLand": "陆基",
+	"SpeedSlow": "低速",
+	"SpeedFast": "高速",
+	"SpeedFaster": "高速+",
+	"SpeedFastest": "最速",
+	"RangeShort": "短",
+	"RangeMedium": "中",
+	"RangeLong": "长",
+	"RangeVeryLong": "超长",
+
 	"Screenshot" : "截图",
 	"Expedition" : "远征",
 	"UntranslatedQuest" : "未翻译的任务",

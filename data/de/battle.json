@@ -1,28 +1,29 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "super", "Alle Aufklärungsflieger überleben"],
-		["OK-", "gut", "Einige Aufklärungsflieger verloren"],
-		["-", "schlimm", "Alle Aufklärungsflieger verloren"],
-		["NO", "schlecht", "Keine Aufklärung"],
-		["OK+", "gut", "Keine Aufklärung durchgeführt"],
-		["NO+", "schlecht", "Keine Aufklärung durchgeführt"]
+		["OK", "best", "Alle Aufklärungsflieger überleben"],
+		["OK-", "good", "Einige Aufklärungsflieger verloren"],
+		["-", "worst", "Alle Aufklärungsflieger verloren"],
+		["NO", "bad", "Keine Aufklärung"],
+		["OK+", "good", "Keine Aufklärung durchgeführt"],
+		["NO+", "bad", "Keine Aufklärung durchgeführt"]
 	],
 
 	"airbattle" : [
 		["AP", "", "günstige Luftlage"],
-		["AS+", "super", "Luftherrschaft"],
-		["AS", "gut", "Luftüberlegenheit"],
-		["AI", "schlecht", "Luftunterlegenheit"],
-		["AD", "schlecht", "Luftkampfweigerung"]
+		["AS+", "best", "Luftherrschaft"],
+		["AS", "good", "Luftüberlegenheit"],
+		["AI", "bad", "Luftunterlegenheit"],
+		["AD", "worst", "Luftkampfweigerung"],
+		["None", "", "No Air Battle"]
 	],
 
 	"engagement" : [
 		["", "", ""],
 		["Prll", "", "Parallel"],
 		["Frtl", "", "Frontal"],
-		["Gr-T", "gut", "Grünes T"],
-		["Rd-T", "schlecht", "Rotes T"]
+		["Gr-T", "good", "Grünes T"],
+		["Rd-T", "bad", "Rotes T"]
 	],
 
 	"formation" : [ "",

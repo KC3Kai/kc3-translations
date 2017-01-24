@@ -1,28 +1,63 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "super", "Alle Aufkl\u00e4rungsflieger \u00fcberleben"],
+		["OK-", "gut", "Einige Aufkl\u00e4rungsflieger verloren"],
+		["-", "schlimm", "Alle Aufkl\u00e4rungsflieger verloren"],
+		["NO", "schlecht", "Keine Aufkl\u00e4rung"],
+		["OK+", "gut", "Keine Aufkl\u00e4rung durchgef\u00fchrt"],
+		["NO+", "schlecht", "Keine Aufkl\u00e4rung durchgef\u00fchrt"]
 	],
 	
 	"airbattle" : [
-		["AP", "", "Air Parity"],
-		["AS+", "good", "Air Supremacy"],
-		["AS", "good", "Air Superiority"],
-		["AI", "bad", "Air Incapability"],
-		["AD", "bad", "Air Denial"]
+		["AP", "", "g\u00fcnstige Luftlage"],
+		["AS+", "super", "Luftherrschaft"],
+		["AS", "gut", "Luft\u00fcberlegenheit"],
+		["AI", "schlecht", "Luftunterlegenheit"],
+		["AD", "schlecht", "Luftkampfweigerung"]
 	],
 	
 	"engagement" : [
 		["", "", ""],
 		["Prll", "", "Parallel"],
-		["HdOn", "", "Head-on"],
-		["Gr-T", "good", "Green T"],
-		["Rd-T", "bad", "Red T"]
-	]
+		["Frtl", "", "Frontal"],
+		["Gr-T", "gut", "Gr\u00fcnes T"],
+
+		["Rd-T", "schlecht", "Rotes T"]
 	
+	],
+	
+	"formation"  :
+		["","Linie voraus","Doppellinie","Diamant","Echelon","Linie seitlich","","","","","","Fahrtformation 1 (Anti-U-Boot)","Fahrtformation 2 (vorw\u00e4rts)","Fahrtformation 3 (Diamant)","Fahrtformation 4 (Kampf)","","","","","","","Fahrtformation 1 (Anti-U-Boot)","Fahrtformation 2 (vorw\u00e4rts)","Fahrtformation 3 (Diamant)","Fahrtformation 4 (Kampf)"],
+
+	"support"    :
+		["","Luftunterst\u00fctzung","Unterst\u00fctzung durch Beschuss","Torpedoattacke"],
+
+	"airraiddamage":
+		["","Ressourcen","Ressourcen & LBAS","LBAS","Kein Schaden"],
+
+	"aacitype"   : [ [],
+		["Akizuki-Klasse","Steilfeuergesch\u00fctz","Steilfeuergesch\u00fctz","Luftabwehrradar"],
+		["Akizuki-Klasse","Steilfeuergesch\u00fctz","Luftabwehrradar"],
+		["Akizuki-Klasse","Steilfeuergesch\u00fctz","Steilfeuergesch\u00fctz"],
+		["Schlachtschiffe","Großkalibriges Hauptgesch\u00fctz","Typ 3 Granate","Luftabwehr-Richtger\u00e4t","Luftabwehrradar"],
+		["","Steilfeuergesch\u00fctz+Luftabwehr-Richtger\u00e4t","Steilfeuergesch\u00fctz+Luftabwehr-Richtger\u00e4t","Luftabwehrradar"],
+		["Schlachtschiffe","Großkalibriges Hauptgesch\u00fctz","Typ 3 Granate","Luftabwehr-Richtger\u00e4t"],
+		["","Steilfeuergesch\u00fctz","Luftabwehr-Richtger\u00e4t","Luftabwehrradar"],
+		["","Steilfeuergesch\u00fctz+Luftabwehr-Richtger\u00e4t","Luftabwehrradar"],
+		["","Steilfeuergesch\u00fctz","Luftabwehr-Richtger\u00e4t"],
+		["Maya Kai Ni","Steilfeuergesch\u00fctz","Maschinenkanone mit Gesch\u00fctzgruppe","Luftabwehrradar"],
+		["Maya Kai Ni","Steilfeuergesch\u00fctz","Maschinenkanone mit Gesch\u00fctzgruppe"],
+		["","Maschinenkanone mit Gesch\u00fctzgruppe","Maschinengewehr","Luftabwehrradar"],
+		[],
+		["Isuzu Kai Ni","Steilfeuergesch\u00fctz","Maschinengewehr","Luftabwehrradar"],
+		["Isuzu Kai Ni","Steilfeuergesch\u00fctz","Maschinengewehr"],
+		["Kasumi Kai Ni B","Steilfeuergesch\u00fctz","Maschinengewehr","Luftabwehrradar"],
+		["Kasumi Kai Ni B","Steilfeuergesch\u00fctz","Maschinengewehr"],
+		["Satsuki Kai Ni","Maschinenkanone mit Gesch\u00fctzgruppe"],
+		["Kinu Kai Ni","Steilfeuergesch\u00fctz (mit/ohne Luftabwehr-Richtger\u00e4t)","Maschinenkanone mit Gesch\u00fctzgruppe"],
+		["Kinu Kai Ni","Maschinenkanone mit Gesch\u00fctzgruppe"],	
+		[]				
+	]
+
 }

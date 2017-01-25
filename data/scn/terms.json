@@ -268,8 +268,8 @@
 
 	"SettingsAAFormation": "对空阵型",
 	"SettingsAAFLineAheadEtc" : "单纵阵/单横阵/梯形阵",
-	"SettingsAAFDoubleLine"   : "复纵阵",
-	"SettingsAAFDiamond"      : "轮型阵",
+	"SettingsAAFDoubleLine"	  : "复纵阵",
+	"SettingsAAFDiamond"	  : "轮型阵",
 	"SettingsAAFCombAntiSub"  : "联合舰队(对潜警戒)",
 	"SettingsAAFCombDiamond"  : "联合舰队(轮型阵)",
 	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
@@ -501,10 +501,10 @@
 	"BattleContactVs"	 : " vs ",
 	"BattleContactYes"	 : "有",
 	"BattleContactNo"	 : "无",
-	"BattleAirDefend"    : "航空队",
+	"BattleAirDefend"	 : "航空队",
 	"BattleAirDefendYes" : "拦截队： {0}",
-	"BattleAirDefendNo"  : "无拦截队",
-	"BattleAirBaseLoss"  : "基地",
+	"BattleAirDefendNo"	 : "无拦截队",
+	"BattleAirBaseLoss"	 : "基地",
 
 	"Debuffed" : "Boss已削弱！",
 
@@ -523,10 +523,10 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
-	"ShipAAAdjusted"      : "加重对空值: {0}",
+	"ShipAAAdjusted"	  : "加重对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
-	"ShipAACIMaxBonus"    : "最大对空CI击坠加成: {0}",
+	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
 	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
 	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
 

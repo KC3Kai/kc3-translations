@@ -29,10 +29,14 @@
 	"Experience": "提督经验",
 	"Name": "提督名",
 
+	"MenuNewDMMName" : "开始游戏（新网页模式）",
+	"MenuNewDMMDesc" : "100%原生网页模式，现已支持各类游戏覆盖层定制",
+
 	"MenuDMMLoginName" : "登录DMM",
 	"MenuDMMLoginDesc" : "您还未登录DMM.com，请先通过DMM网站完成登录。",
 
 	"MenuPlayAPIName" : "开始游戏（API模式）",
+	"MenuPlayAPIName2" : "开始游戏（原API模式）",
 	"MenuPlayAPIDesc" : "使用API链接开始游戏，相对节省资源且速度较快",
 	"MenuRefreshAPIName" : "获取新的API",
 	"MenuRefreshAPIDesc" : "打开DMM网页并自动获取新的API链接",
@@ -40,6 +44,7 @@
 	"MenuPlayDMMDesc" : "使用DMM网页进行游戏，最为安全，不存在封号危险",
 
 	"MenuPlayDMMFName" : "开始游戏（框架模式）",
+	"MenuPlayDMMFName2" : "开始游戏（原框架模式）",
 	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现定制功能",
 	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
 	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持定制功能",
@@ -66,6 +71,28 @@
 	"MenuServerMaintenance" : "距下次服务器维护还有",
 	"MenuTimeUnknown": "未知",
 	"MaintenanceComplete": "维护完成",
+	"UpdateAvailableNow" : "可以更新！",
+
+	"GamePlayViaKC3": "通过KC3改开始游戏",
+	"GameToggleFeatures": "定制特性（覆盖层／退出确认）",
+	"GameEditMoreSettings": "更多设置…",
+	"GameSpecialHotkeys": "特殊热键",
+	"GameMoreHotkeys": "查看更多热键…",
+	"GameHotkeyExit": "Quick exit game",
+	"GameHotkeyHUD": "Hold to show KC3改 Special HUD",
+	"GameHotkeyType": "获取20秒时间编辑游戏内文字框",
+	"GameHotkeyScreenshot": "截图",
+	"GameHotkeyClear": "清除KC3改覆盖层",
+	"GameStartGame": "开始游戏",
+	"GameStartNoPanel": "或不开启信息面板直接游戏",
+	"GameOReither": "或",
+	"GameStep2": "于打开的开发者工具面板，选择<code><strong>KanColle</strong></code>页。 若找不到此页面请点击最右侧的“\u00bb”并在下拉列表中寻找。",
+	"GameStep3": "享受游戏！",
+	"GameSocialLinks": "链接",
+	"SocialTextWebstore": "查看Chrome网上应用店评价",
+	"SocialTextFacebook": "在Facebook为我们点赞",
+	"SocialTextTwitter": "在推特上关注我们",
+	"SocialTextGithub": "在GitHub为本项目加星",
 
 	"GameDMMRedirect" : "即将前往DMM网站进行游戏",
 	"GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
@@ -131,9 +158,7 @@
 	"AboutManager" : "管理人",
 	"AboutDevBattleReplay" : "对战重放与模拟",
 	"AboutDevBadgeGen" : "签名生成",
-	"AboutTranslators" : "翻译人员",
 	"AboutTranslator" : "翻译",
-	"AboutTesters" : "测试人员",
 	"AboutDevTester" : "内部版本",
 	"AboutWebTester" : "正式版本",
 	"AboutOther" : "其他",
@@ -234,11 +259,15 @@
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
 	"SettingsAPIRecorder" : "API 记录器面板",
+	"SettingsUpdateNotification" : "应用更新通知形式",
+	"SettingsUpdateNotifNone" : "无",
+	"SettingsUpdateNotifPage" : "打开更新状态页面",
+	"SettingsUpdateNotifPop" : "弹出桌面通知",
 
 	"SettingsAAFormation": "对空阵型",
 	"SettingsAAFLineAheadEtc" : "单纵阵/单横阵/梯形阵",
-	"SettingsAAFDoubleLine"   : "复纵阵",
-	"SettingsAAFDiamond"      : "轮型阵",
+	"SettingsAAFDoubleLine"	  : "复纵阵",
+	"SettingsAAFDiamond"	  : "轮型阵",
 	"SettingsAAFCombAntiSub"  : "联合舰队(对潜警戒)",
 	"SettingsAAFCombDiamond"  : "联合舰队(轮型阵)",
 	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
@@ -339,7 +368,7 @@
 	"SubtitleDisplayFree": "自由模式，可拖拽",
 
 	"SettingsDMMGameplay" : "网页模式",
-	"SettingsDMMCustomize" : "允许自定义",
+	"SettingsDMMCustomize" : "开启定制",
 	"SettingsDMMForceCookies" : "强制模拟地域Cookie",
 
 	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
@@ -372,9 +401,22 @@
 
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
+	"InstalledText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
 
 	"UpdatedTitle": "KC3改 已完成升级！",
 	"UpdateText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
+	"UpdatedText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
+
+	"UpdateNotifTitle": "KC3改 {0} 已发布！",
+	"UpdateNotifText": "更新准备就绪。需要重启扩展。\n单击此处查看更新状态页面。",
+
+	"PageUpdateTitle": "KC3改 更新状态",
+	"PageUpdateReadyText": "应用更新准备就绪。您可以立刻重启应用，或是完成正在进行的游戏内事务并稍候重启应用。注意如果您选择立刻重启，游戏界面将自动关闭，辅助信息面板可能会在重启完成前提示错误。",
+	"PageUpdateRestartNow": "现在重启应用",
+	"PageUpdateRestartLater": "稍候重启应用",
+	"PageUpdateHowToManual": "如何手动升级",
+	"PageUpdateInstalled": "已安装",
+	"PageUpdateInDevelop": "开发中",
 
 	"NewVerViewChangelogGithub": "浏览GitHub上的改动日志",
 	"NewVerViewWikiGithub": "浏览GitHub上的用户手册",
@@ -422,9 +464,6 @@
 	"Bomb201Title": "游戏错误 201",
 	"Bomb201Message": "从游戏API收到错误 201，可能已在别处登录或是与脚本检测机制相关。您可忽略本条消息，但请适度游戏。",
 
-	"SpeedFast" : "高速",
-	"SpeedSlow" : "低速",
-
 	"HQText" : "司令部",
 	"HQAdmiralLv"  : "提督",
 	"HQExpAbbrev1" : "还需",
@@ -457,10 +496,10 @@
 	"BattleContactVs"	 : " vs ",
 	"BattleContactYes"	 : "有",
 	"BattleContactNo"	 : "无",
-	"BattleAirDefend"    : "航空队",
+	"BattleAirDefend"	 : "航空队",
 	"BattleAirDefendYes" : "拦截队： {0}",
-	"BattleAirDefendNo"  : "无拦截队",
-	"BattleAirBaseLoss"  : "基地",
+	"BattleAirDefendNo"	 : "无拦截队",
+	"BattleAirBaseLoss"	 : "基地",
 
 	"Debuffed" : "Boss已削弱！",
 
@@ -479,10 +518,10 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
-	"ShipAAAdjusted"      : "加重对空值: {0}",
+	"ShipAAAdjusted"	  : "加重对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
-	"ShipAACIMaxBonus"    : "最大对空CI击坠加成: {0}",
+	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
 	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
 	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
 
@@ -629,6 +668,15 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "新的舰娘已在建造槽等候您了！",
 	"DesktopNotifyMoraleTitle" : "舰队疲劳度恢复！",
 	"DesktopNotifyMoraleMessage" : "当前所选舰队的所有舰娘疲劳度皆已恢复！",
+
+	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
+	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",
+	"NewsfeedExped": "舰队已自“远征”归来。",
+	"NewsfeedUnlockMap": "已解放新海域！",
+	"NewsfeedUpdateLib": "图鉴已更新！",
+	"NewsfeedPvPWin": "您在与“{0:opponentName}”的演习中取胜。",
+	"NewsfeedPvPLose": "您在与“{0:opponentName}”的演习中败北。",
+	"NewsfeedUnknown": "{1}",
 
 	"LodgerPageStepRw"	: "前1小时",
 	"LodgerPageStepFw"	: "后1小时",

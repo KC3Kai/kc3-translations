@@ -366,14 +366,14 @@
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
 	"InstalledTitle" : "KC3改がインストールされました",
-	"InstalledText"  : "KC3改をインストール頂き、誠にありがとうございました！<br/>これで「艦これ」をより快適に遊んでもらえてくれたら嬉しいです！もし何か質問でもあったら「開発者たち」ページにて連絡方法を確認し、問い合わせしに来てください。",
+	"InstalledText"  : "KC3改を使用して頂き、誠にありがとうございました！これで「艦これ」をより快適に遊んでもらえてくれたら何よりです！何か質問でもあったら連絡方法を確認し、問い合わせに来てください。",
 	"UpdatedTitle" : "KC3改がアップデートされました",
-	"UpdatedText"  : "KC3改が自動的に更新されましたので、もし今ゲーム中でしたらいくつかの機能が不具合になってしまった場合があります。一度ゲームとKC3改タップを閉じ、再起動してください。勿論艦隊が出撃中なら母港に帰投してからやってください。",
+	"UpdatedText"  : "KC3改が自動的に更新されましたので、もし今ゲーム中でしたらいくつかの機能が不具合になってしまった場合があります。一度母港に帰投してからゲームとKC3改タップを閉じ、再起動してください。",
 	"UpdateNotifTitle" : "KC3改 {0} リリースされたよ！",
 	"UpdateNotifText"  : "ここをクリックしてアップデート情報を開く\nアップデートするには再起動が必要ですが…",
 
 	"PageUpdateTitle" : "KC3改アップデート情報",
-	"PageUpdateReadyText" : "KC3改がアップデートできるようにまりました。今すぐ再起動を勧めますが、ゲーム中でやり残したことをやったあとで再起動してもよろしいです。今再起動する場合は、ゲームとKC3改タップが強制的に閉ざされことになりますので、ご注意を。",
+	"PageUpdateReadyText" : "KC3改がアップデートできるようにまりました。今すぐこの拡張機能のリロードを勧めますが、ゲーム中でやり残したことをやったあとで再起動してもよろしいです。すぐに再起動する場合は、ゲームとKC3改のタップが強制的に閉ざされことになりますので、ご注意を。",
 	"PageUpdateRestartNow" : "今すぐに再起動する",
 	"PageUpdateRestartLater" : "あとで再起動する",
 	"PageUpdateHowToManual" : "どうやって手動で更新",
@@ -623,6 +623,15 @@
 	"DesktopNotifyMoraleTitle" : "艦隊コンディション回復！",
 	"DesktopNotifyMoraleMessage" : "選択した艦隊の艦娘たちが只今疲労状態から回復しました。",
 
+	"NewsfeedRepair"    : "「入渠」していた艦の修理が、完了しました。",
+	"NewsfeedConstrct"  : "「工廠」で、建造が完了した艦があります。",
+	"NewsfeedExped"     : "艦隊が、「遠征」から帰投しました。",
+	"NewsfeedUnlockMap" : "新海域が解放されました！",
+	"NewsfeedUpdateLib" : "図鑑が更新されました！",
+	"NewsfeedPvPWin"    : "「{0:opponentName}」さんとの演習で勝利しました。",
+	"NewsfeedPvPLose"   : "「{0:opponentName}」さんとの演習で敗北しました。",
+	"NewsfeedUnknown"   : "{1}",
+
 	"LodgerPageStepRw"  : "1個前へ",
 	"LodgerPageStepFw"  : "1個次へ",
 	"LodgerPageRefresh" : "更新する",
@@ -668,6 +677,5 @@
 	"MasterShipGoQuotes" : "字幕セリフチェック",
 
 	"Dummy" : "ダミー"
-
 
 }

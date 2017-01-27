@@ -35,9 +35,6 @@
 	"MenuNewDMMDesc" : "Mit Wahl zwischen dem natürlichen Spiel an sich oder mit Anpassungen",
 	"MenuPlayDMMName" : "Spiele auf der DMM-Seite",
 	"MenuPlayDMMDesc" : "Für die übervorsichtigen: Echtes DMM-gameplay. Absolut sicher.",
-	"MenuPlayDMMFName2" : "Spiele via DMM-Rahmen (alt)",
-	"MenuPlayDMMFName" : "Spiele via DMM im Fenster",
-	"MenuPlayDMMFDesc" : "Direct DMM play page is framed onto a KC3改 page for customizations",
 	"MenuPlayAPIName2" : "Spiele via API Link (alt)",
 	"MenuPlayAPIName" : "Spiele via API Link",
 	"MenuPlayAPIDesc" : "Spiele mit deinem letzten gesicherten API-Link (oder gib einen neuen ein).",
@@ -46,7 +43,12 @@
 
 	"MenuSpecialDMMName" : "Spezieller DMM Mode",
 	"MenuSpecialDMMDesc" : "Direkt auf der DMM Website mit verschiedenen KC3 Anpassungen wie Hintergrundbilder",
-
+	
+	"MenuPlayDMMFName" : "Spiele via DMM im Frame",
+	"MenuPlayDMMFDesc" : "DMM-Seite wird in eine Anpassbare KC3改-Seite gequetscht",
+	"MenuPlayOSAPIName" : "Spiele via OSAPI",
+	"MenuPlayOSAPIDesc" : "Second-level Link, der ein bisschen länger gültig ist als ein API-Link. NOCH keine Anpassungen verfügbar.",
+	
 	"MenuCookiesName" : "Aktiviere Cookies",
 	"MenuCookiesDesc" : "Nutze dies, wenn du auf DMM.com in die \"Error Area\" kommst",
 	"MenuStrategyName" : "Strategy Room",
@@ -59,7 +61,7 @@
 	"MenuVersion" : "Installierte Version",
 	"MenuChangelog" : "(Changelogs)",
 	"MenuUpdate" : "KC3改 Update",
-	"UpdateAvailableNow" : "Jetzt erhältlich!",
+	"UpdateAvailableNow" : "erhältlich!",
 	"MenuOnLatest" : "Du hast das Neuste!",
 	"MenuScheduledNow" : "Geplant",
 	"MenuScheduledSoon" : "Noch kein Datum",

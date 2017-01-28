@@ -249,6 +249,7 @@
 	"SettingsFleetStatus" : "Fleet Status Summary",
 	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
 	"SettingsAutoSwitchFleetView" : "Auto-Switch Fleet View",
+	"SettingsPvPInfoActivity" : "PvP Opponents Info",
 	"SettingsEnglishShipType": "English Ship Type Codes",
 	"SettingsShipNamesLang": "Ship Names Language",
 	"SettingsShipNamesGlobal": "Follow global",
@@ -628,6 +629,11 @@
 	"FitWeight_1": "Fit Bonus Small",
 	"FitWeight_2": "Fit Bonus Medium",
 	"FitWeight_3": "Fit Bonus Large",
+	
+	"PvpListTitle" : "PvP opponents",
+	"PvpListCreateType0" : "Exercise Fleet [1st Group]",
+	"PvpListCreateType1" : "Exercise Fleet [2nd Group]",
+	"PvpListCreateType2" : "Default (Old)",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",

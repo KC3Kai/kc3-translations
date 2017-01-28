@@ -239,6 +239,7 @@
 	"SettingsBossComp"          : "ボス編成(まだ使えない)",
 	"SettingsAutoExpedTab"      : "遠征選択時自動的タブ替え",
 	"SettingsAutoSwitchFleetView" : "艦隊編成時自動的切り替え",
+	"SettingsPvPInfoActivity"   : "演習相手情報に切り替え",
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
@@ -613,6 +614,11 @@
 	"FitWeight_1"  : "フィットボーナス：小",
 	"FitWeight_2"  : "フィットボーナス：中",
 	"FitWeight_3"  : "フィットボーナス：大",
+
+	"PvpListTitle"       : "演習を挑むできる提督たち",
+	"PvpListCreateType0" : "演習艦隊【第一群】",
+	"PvpListCreateType1" : "演習艦隊【第二群】",
+	"PvpListCreateType2" : "旧式【全体】",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",

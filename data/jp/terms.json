@@ -569,7 +569,7 @@
 	"NatsuiroBasic"    : "概要",
 	"NatsuiroBattle"   : "戦闘",
 	"NatsuiroExped"    : "遠征",
-	"NatsuiroActivity" : "結果",
+	"NatsuiroActivity" : "情報",
 
 	"MissionLabelActivity" : "遠征",
 	"MissionGetItems"  : "獲得アイテム：",
@@ -615,10 +615,12 @@
 	"FitWeight_2"  : "フィットボーナス：中",
 	"FitWeight_3"  : "フィットボーナス：大",
 
-	"PvpListTitle"       : "演習を挑むできる提督たち",
+	"PvpListTitle"       : "演習を挑む提督たち",
 	"PvpListCreateType0" : "演習艦隊【第一群】",
 	"PvpListCreateType1" : "演習艦隊【第二群】",
 	"PvpListCreateType2" : "旧式【全体】",
+	"PvpBaseExp"         : "基本経験値",
+	"PvpFormationPred"   : "敵陣形予想",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",

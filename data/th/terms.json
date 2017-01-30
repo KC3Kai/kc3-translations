@@ -247,6 +247,7 @@
 	"SettingsFleetStatus" : "แจ้งสถานะเรือ",
 	"SettingsAutoExpedTab" : "สลับหน้าจัดกองสำรวจอัตโนมัติ",
 	"SettingsAutoSwitchFleetView" : "สลับข้อมูลกองเรืออัตโนมัติ",
+	"SettingsPvPInfoActivity" : "ข้อมูลฝ่ายตรงข้ามใน PvP",
 	"SettingsEnglishShipType" : "ประเภทเรือภาษาอังกฤษ",
 	"SettingsShipNamesLang" : "เลือกภาษาชื่อเรือ",
 	"SettingsShipNamesGlobal" : "ใช้ตามภาษาที่เลือก",
@@ -626,6 +627,14 @@
 	"FitWeight_1": "[1] ปืนพอดี",
 	"FitWeight_2": "[2] ปืนพอดีมาก",
 	"FitWeight_3": "[3] ปืนพอดีที่สุด",
+	
+	"PvpListTitle" : "ฝ่ายตรงข้าม PvP",
+	"PvpListCreateType0" : "แบบใหม่ [แบบที่ 1]",
+	"PvpListCreateType1" : "แบบใหม่ [แบบที่ 2]",
+	"PvpListCreateType2" : "แบบเก่า",
+	"PvpBaseExp"         : "EXP พื้นฐาน",
+	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
+	"PvpFormationPred"   : "ฟอร์เมชั่น",
 	
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ #{1} แล้ว",

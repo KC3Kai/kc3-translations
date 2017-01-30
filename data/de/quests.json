@@ -777,7 +777,18 @@
         "desc": "Sende 2 BB(V) und bis zu 4 weitere Schiffe zu [W2-4]. Erziele einen S-Rank beim Boss. Du wirst eine Belohnung wählen müssen. Schalte die Überlagerung mit F10 aus.",
         "memo": "\u27a3Belohnung ist endweder eine verbesserte Kanhon-Turbine ODER ein verstärkter Kanhon-Dampfkessel"
     },
-	
+	"843": {
+        "code": "SB21",
+        "name": "Setsubun Spezialeinsatz: Erhalte die Kontrolle über die See!",
+        "desc": "Sende 2 DD und 2 weitere Schiffe zu [W1-1], [W1-2], [W2-3]. Erreiche einen S-Rank bei jedem Boss.",
+        "memo": "\u27a3Belohnung sind ein Tisch und einmal Irako"
+    },
+    "844": {
+        "code": "B90",
+        "name": "Breche durch mit der eliätren 8. Zerstörerdivision!",
+        "desc": "Sende Arashio Kai Ni als Flaggschiff mit entweder Asashio, Ooshio, oder Michishio sowie 4 weiteren Schiffen zu [W5-5]. Erreiche zweimal mindestens einen A-Rank.",
+        "memo": "\u27a3Belohnung sind 4 Schrauben und eine Verstärkungsexpansion"
+    },
 	
 	
 	"201": {
@@ -1453,7 +1464,12 @@
         "desc": "Habe 5000 Möbelmünzen, zwei 7.7mm Maschinengeschütze und zwei Typ 96 Jagdflugzeuge in deinem Inventar. Verschrotte zwei 12.7cm Zwillingsgeschütze.",
         "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
     },
-    
+     "653": {
+        "code": "",
+        "name": "Spezielle Setsubun Mission: Vorbereitung auf Setsubun!",
+        "desc": "Habe 5000 Möbelmünzen, zwei 12cm Geschütze und zwei Typ 0 Aufklärungswasserflugzeuge in deinem Inventar. Verschrotte zwei 20.3cm Zwillingsgeschütze.",
+        "memo": "\u2718Verbraucht die Items und Ausrüstung. Stelle sicher, dass die Ausrüstung entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
+    },
 	
 	
     "701": {

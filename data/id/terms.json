@@ -249,6 +249,7 @@
 	"SettingsFleetStatus" : "Indikator Status Armada",
 	"SettingsAutoExpedTab" : "Buka Otomatis Tab Ekspedisi",
 	"SettingsAutoSwitchFleetView" : "Ganti Otomatis Tampilan Armada",
+	"SettingsPvPInfoActivity" : "Info Lawan Latihan",
 	"SettingsEnglishShipType": "Gunakan Tipe Kapal B.Inggris",
 	"SettingsShipNamesLang": "Nama Kapal Berbahasa",
 	"SettingsShipNamesGlobal": "Sesuai global",
@@ -481,6 +482,7 @@
 	"BattleAirDefendYes" : "Pencegat: {0}",
 	"BattleAirDefendNo"  : "Tidak Mencegat",
 	"BattleAirBaseLoss"  : "Kehilangan",
+	"BattleAirBaseLossTip" : "Dari serangan udara, kehilangan {0} HP\nDan kehilangan {1} bauksit atau bensin",
 	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "FP",
@@ -627,6 +629,13 @@
 	"FitWeight_1": "Bonus Kecocokan Kecil",
 	"FitWeight_2": "Bonus Kecocokan Menengah",
 	"FitWeight_3": "Bonus Kecocokan Besar",
+	
+	"PvpListTitle" : "Lawan Latihan",
+	"PvpListCreateType0" : "Armada Latihan [Grup 1]",
+	"PvpListCreateType1" : "Armada Latihan [Grup 2]",
+	"PvpListCreateType2" : "Acak (Tua)",
+	"PvpBaseExp"         : "EXP Dasar",
+	"PvpFormationPred"   : "Formasi",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Ekspedisi Selesai!",
 	"DesktopNotifyExpedCompleteMessage" : "Armada {0} baru saja kambali dari Ekspedisi #{1}",

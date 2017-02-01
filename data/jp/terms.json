@@ -239,6 +239,7 @@
 	"SettingsBossComp"          : "ボス編成(まだ使えない)",
 	"SettingsAutoExpedTab"      : "遠征選択時自動的タブ替え",
 	"SettingsAutoSwitchFleetView" : "艦隊編成時自動的切り替え",
+	"SettingsPvPInfoActivity"   : "演習相手情報に切り替え",
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
@@ -482,6 +483,7 @@
 	"BattleAirDefendYes" : "迎撃隊: {0}",
 	"BattleAirDefendNo"  : "迎撃なし",
 	"BattleAirBaseLoss"  : "基地",
+	"BattleAirBaseLossTip" : "航空基地の被ダメージが合計: {0}\n燃料またはボーキサイトに損害の予測: {1}",
 	"Debuffed"           : "ボスギミック解除した！",
 
 	"ShipHp"      : "耐久",
@@ -505,6 +507,7 @@
 	"ShipAACIMaxBonus"    : "最大対空CIボーナス: {0}",
 	"ShipAAImgEnemySlot"  : "仮想敵攻撃機スロット: {0}",
 	"ShipAAShotdownPred"  : "撃墜数(両方/割合/固定/失敗):\n{0}",
+	"ShipAAShotdownTitles": "対敵機/両方/割合/固定/失敗",
 
 	"PredictionStampSortie" : "轟　　沈",
 	"PredictionStampPvP"    : "行動不能",
@@ -567,7 +570,7 @@
 	"NatsuiroBasic"    : "概要",
 	"NatsuiroBattle"   : "戦闘",
 	"NatsuiroExped"    : "遠征",
-	"NatsuiroActivity" : "結果",
+	"NatsuiroActivity" : "情報",
 
 	"MissionLabelActivity" : "遠征",
 	"MissionGetItems"  : "獲得アイテム：",
@@ -612,6 +615,14 @@
 	"FitWeight_1"  : "フィットボーナス：小",
 	"FitWeight_2"  : "フィットボーナス：中",
 	"FitWeight_3"  : "フィットボーナス：大",
+
+	"PvpListTitle"       : "演習を挑む提督たち",
+	"PvpListCreateType0" : "演習艦隊【第一群】",
+	"PvpListCreateType1" : "演習艦隊【第二群】",
+	"PvpListCreateType2" : "旧式【全体】",
+	"PvpBaseExp"         : "基本経験値",
+	"PvpDispBaseExpWoCT" : "練巡x{0:ボーナス}除いたS評価",
+	"PvpFormationPred"   : "敵陣形予想",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",

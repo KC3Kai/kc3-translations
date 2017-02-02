@@ -294,6 +294,7 @@
 	"SettingsFleetStatus" : "舰队状态概览",
 	"SettingsAutoExpedTab": "自动切换远征信息页",
 	"SettingsAutoSwitchFleetView" : "在舰队编成时自动切换舰队页",
+	"SettingsPvPInfoActivity" : "显示演习对手信息页",
 	"SettingsEnglishShipType": "使用英文舰种缩写",
 	"SettingsShipNamesLang" : "舰名与装备名使用语言",
 	"SettingsShipNamesGlobal" : "按照语言设定",
@@ -658,6 +659,14 @@
 	"FitWeight_1": "适重（微）",
 	"FitWeight_2": "适重（中）",
 	"FitWeight_3": "适重（大）",
+
+	"PvpListTitle"       : "演习对手",
+	"PvpListCreateType0" : "演习舰队【第一群】",
+	"PvpListCreateType1" : "演习舰队【第二群】",
+	"PvpListCreateType2" : "旧式【全体】",
+	"PvpBaseExp"         : "基础经验值",
+	"PvpDispBaseExpWoCT" : "除去练巡经验加成(x{0})时的S胜经验",
+	"PvpFormationPred"   : "敌方阵型预测",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",

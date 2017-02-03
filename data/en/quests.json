@@ -40,7 +40,7 @@
     "107": {
         "code": "A12",
         "name": "Form a Carrier Task Force!",
-        "desc": "Have a CV(L) as flagship and 3 DD in your main fleet.",
+        "desc": "Have a CV(B/L) as flagship and 3 DD in your main fleet.",
         "unlock": [ 217 ]
     },
     "108": {
@@ -101,7 +101,7 @@
     "117": {
         "code": "A11",
         "name": "Form a Carrier Task Force in the Second Fleet!",
-        "desc": "Have a CV(L) and 3 DD in your second fleet.",
+        "desc": "Have a CV(B/L) and 3 DD in your second fleet.",
         "unlock": [ 217 ]
     },
     "118": {
@@ -678,7 +678,7 @@
         "code": "B32",
         "name": "Rush the Battleship Force into the Northern Sea!",
         "desc": "Sortie 2 (F)BB (no BBV), 1 CVL and 3 additional ships to [W3-5]. S-Rank the boss node.",
-        "memo": "\u2718You cannot use any additional CV(L).\n\u27a3Rewards a Type 1 AP Shell",
+        "memo": "\u2718You cannot use any additional CV(B/L).\n\u27a3Rewards a Type 1 AP Shell",
         "unlock": [ 285 ]
     },
     "262": {
@@ -778,7 +778,7 @@
     "285": {
         "code": "B49",
         "name": "Advance the Carrier Task Force into the Northern Sea!",
-        "desc": "Sortie a CV as flagship to [W3-5]. S-Rank the boss node.",
+        "desc": "Sortie a CV(B) as flagship to [W3-5]. S-Rank the boss node.",
         "memo": "\u27a3Rewards 3 Screws"
     },
     "286": {
@@ -1247,13 +1247,13 @@
     "264": {
         "code": "Bm6",
         "name": "Monthly [W4-2]",
-        "desc": "Sortie 2 CV(L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
+        "desc": "Sortie 2 CV(B/L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
         "memo": "\u203bSend a Carrier Task Force Westward!\n\u27a3Rewards 2 Screws",
         "unlock": [ 266, 626, 822 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [W2-5] Nightmare Party",
+        "name": "Monthly [W2-5] Nightmare Fleet",
         "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
         "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
     },
@@ -1613,19 +1613,19 @@
      "614": {
         "code": "F13",
         "name": "Model Conversion: Tomonoga",
-        "desc": "Set a CV(L) as secretary. Equip her with a Type 97 Torpedo Bomber (Tomonaga Squadron). Scrap two Tenzan.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Type 97 Torpedo Bomber (Tomonaga Squadron). Scrap two Tenzan.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Tenzan Model 12 (Tomonaga Squadron)"
     },
     "615": {
         "code": "F14",
         "name": "Model Conversion: Egusa",
-        "desc": "Set a CV(L) as secretary. Equip her with a Type 99 Dive Bomber (Egusa Squadron). Scrap two Suisei.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Type 99 Dive Bomber (Egusa Squadron). Scrap two Suisei.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Suisei (Egusa Squadron)"
     },
     "616": {
         "code": "F15",
         "name": "Model Conversion: 601 Air Group",
-        "desc": "Set a CV(L) as secretary. Equip her with a Zero Fighter Type 52 Type C (601 Air Group). Scrap two Reppuu.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Zero Fighter Type 52 Type C (601 Air Group). Scrap two Reppuu.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Reppuu (601 Air Group)"
     },
     "617": {
@@ -1872,7 +1872,7 @@
     "705": {
         "code": "G5",
         "name": "Flight Rigging Modernization",
-        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV using 5 CV(L) twice.",
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     }
 }

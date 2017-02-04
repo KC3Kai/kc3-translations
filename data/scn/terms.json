@@ -523,8 +523,9 @@
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
 	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
-	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
+	"ShipAAImgEnemySlot"  : "假想敌单格搭载: {0}",
 	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
+	"ShipAAShotdownTitles" : "敌搭载/皆成功/仅比例/仅固定/皆失败",
 
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",

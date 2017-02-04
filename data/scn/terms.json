@@ -294,6 +294,7 @@
 	"SettingsFleetStatus" : "舰队状态概览",
 	"SettingsAutoExpedTab": "自动切换远征信息页",
 	"SettingsAutoSwitchFleetView" : "在舰队编成时自动切换舰队页",
+	"SettingsPvPInfoActivity" : "显示演习对手信息页",
 	"SettingsEnglishShipType": "使用英文舰种缩写",
 	"SettingsShipNamesLang" : "舰名与装备名使用语言",
 	"SettingsShipNamesGlobal" : "按照语言设定",
@@ -518,12 +519,13 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
-	"ShipAAAdjusted"	  : "加重对空值: {0}",
+	"ShipAAAdjusted"	  : "加权对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
 	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
-	"ShipAAImgEnemySlot"  : "假想敌攻击编队机数: {0}",
+	"ShipAAImgEnemySlot"  : "假想敌单格搭载: {0}",
 	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
+	"ShipAAShotdownTitles" : "敌搭载/皆成功/仅比例/仅固定/皆失败",
 
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
@@ -658,6 +660,14 @@
 	"FitWeight_1": "适重（微）",
 	"FitWeight_2": "适重（中）",
 	"FitWeight_3": "适重（大）",
+
+	"PvpListTitle"       : "演习对手",
+	"PvpListCreateType0" : "演习舰队【第一群】",
+	"PvpListCreateType1" : "演习舰队【第二群】",
+	"PvpListCreateType2" : "旧式【全体】",
+	"PvpBaseExp"         : "基础经验值",
+	"PvpDispBaseExpWoCT" : "无练巡经验加成(x{0})时，S胜经验",
+	"PvpFormationPred"   : "敌方阵型预测",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",

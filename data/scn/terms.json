@@ -519,7 +519,7 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
-	"ShipAAAdjusted"	  : "加重对空值: {0}",
+	"ShipAAAdjusted"	  : "加权对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",
 	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
@@ -665,7 +665,7 @@
 	"PvpListCreateType1" : "演习舰队【第二群】",
 	"PvpListCreateType2" : "旧式【全体】",
 	"PvpBaseExp"         : "基础经验值",
-	"PvpDispBaseExpWoCT" : "除去练巡经验加成(x{0})时的S胜经验",
+	"PvpDispBaseExpWoCT" : "无练巡经验加成(x{0})时，S胜经验",
 	"PvpFormationPred"   : "敌方阵型预测",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",

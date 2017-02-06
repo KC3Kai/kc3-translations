@@ -310,6 +310,8 @@
 	"SettingsHeartbeatSound" : "เสียงหัวใจเต้น",
 	"SettingsDisplayOnPvP" : "แสดงใน PvP",
 	"SettingsRedShadeOnPanel" : "แสดงแถบแดงในแผงควบคุม",
+	"SettingsDisableHomePort" : "ปิดการแจ้งเตือนเมื่ออยู่ในฐาน",
+	"SettingsDisableHasDamecon" : "ไม่สนใจทีมควบคุมความเสียหาย (กันจม)",
 	
 	"SettingsAPIGameScreen" : "หน้าจอเกม",
 	"SettingsQuestOverlay" : "แปลข้อมูลเควส",
@@ -359,7 +361,7 @@
 
 	"SettingsPanelSize" : "แผงควบคุมการเล่น",
 	"SettingsPanelOpacity" : "ความโปร่งใส",
-	"SettingsGearHolder" : "สีพื้นหลังของอุปกรณ์",
+	"SettingsPanelBoxBackColor" : "สีดำพื้นหลังของแผงควบคุม",
 	
 	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "บันทึกการตั้งค่า!",

@@ -508,7 +508,7 @@
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
 	"ShipAAImgEnemySlot" : "ค่าทดสอบ {0}- เครื่องบินทิ้งระเบิด:",
 	"ShipAAShotdownPred" : "    ผลลัพธ์: (ทั้งหมด/ตก/ตกแน่/พลาด)\n    ยิงตกได้:   {0}",
-	"ShipAAShotdownTitles" : "ถ้า AA/ทั้งหมด/ตก/ตกแน่/พลาด",
+	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
 	
 	"EventRankHardAbbr" : "H",
 	"EventRankNormalAbbr" : "N",
@@ -635,6 +635,7 @@
 	"PvpListCreateType0" : "แบบใหม่ [แบบที่ 1]",
 	"PvpListCreateType1" : "แบบใหม่ [แบบที่ 2]",
 	"PvpListCreateType2" : "แบบเก่า",
+	"PvpBaseExpSrank"    : "ชนะ S",
 	"PvpBaseExp"         : "EXP พื้นฐาน",
 	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
 	"PvpFormationPred"   : "ฟอร์เมชั่น",

@@ -266,6 +266,7 @@
 	"SettingsAAFCombAntiSub"  : "連合艦隊(対潜警戒)",
 	"SettingsAAFCombDiamond"  : "連合艦隊(輪形陣)",
 	"SettingsImaginaryEnemySlot" : "仮想敵の攻撃機スロット",
+	"SettingsSpecialCounterAdjust" : "補給艦任務進行干渉を加算",
 
 	"SettingsScreenshot"  : "スクリーンショット",
 	"SettingsSSOutput"    : "出力モード",
@@ -292,9 +293,11 @@
 	"SettingsCustom"         : "カスタム",
 	"SettingsCustomSound"    : "カスタム音",
 	"SettingsDesktopNotif"   : "タイマーデスクトップ通知",
-	"SettingsIdleWarning"    : "放置時間",
+	"SettingsIdleWarning"    : "放置時間カウンター(旧)",
 	"SettingsHideCounter"    : "非表示",
 	"SettingsShowCounter"    : "表示",
+	"SettingsIdleWarnStartAt": "放置画面何秒後開始",
+	"SettingsIdleWarnDesc"   : "何秒の後から放置画面を表示する。0にすると無効になる。",
 
 	"SettingsTaihaAlert"          : "大破警告エフェクト",
 	"SettingsScreenBlur"          : "画面ぼかし",

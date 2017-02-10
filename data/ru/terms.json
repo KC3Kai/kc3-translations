@@ -29,6 +29,9 @@
 	"Experience": "Опыт",
 	"Name": "Имя",
 	
+	"MenuDMMLoginName" : "Вход на DMM",
+	"MenuDMMLoginDesc" : "Вы ещё не вошли в свой профиль на DMM.com. Зайдите сперва на сайт.",
+
 	"MenuPlayAPIName" : "Играть через API-ссылку",
 	"MenuPlayAPIDesc" : "Играть с помощью последней сохранённой API-ссылки",
 	"MenuRefreshAPIName" : "Обновить API-ссылку",
@@ -54,7 +57,8 @@
 	"MenuChangelog" : "(список изменений)",
 	"MenuUpdate" : "Обновление KC3改",
 	"MenuOnLatest" : "Последняя версия!",
-	"MenuScheduledNow" : " на подходе!",
+	"MenuScheduledNow" : "на подходе!",
+	"MenuScheduledSoon" : "скоро...",
 	"MenuPvPReset" : "Обновление PvP",
 	"MenuQuestReset" : "Обновление заданий",
 	"MenuServerMaintenance" : "Профилактические работы",
@@ -67,6 +71,13 @@
 	"GameAPIRemoveTitle" : "Удалить API-ссылку",
 	"GameAPIRemoveDesc" : "В случае, если вы хотите удалить сохраненную расширением API-ссылку:",
 	"GameAPIRemoveBtn" : "Забыть API-ссылку",
+
+	"GameAPIPlayFlashNoticeTitle" : "Белый экран по API-ссылке в Chrome 54+",
+	"GameAPIPlayFlashNoticeDesc" : "Начиная с 54-й версий Chrome, игра через API-ссылку выдаст белый экран и не позволит продолжить. Это один из шагов браузера к отказу от Flash. Есть одноразовый дополнительный шаг, который нужно выполнить для продолжения игры. Тем не менее, мы советуем играть через DMM Frame. Если вы всё же желаете продолжить, следуйте инструкции. Всё безопасно. Всё это - Flash vs Chrome, и никак не связано с Kantai Collection.<br /><ul></ul>",
+	"GameAPIPlayFlashNoticeStep1": "Перейдите по адресу: <code>chrome://plugins/</code>",
+	"GameAPIPlayFlashNoticeStep2": "Загляните в раздел \"Adobe Flash Player\"",
+	"GameAPIPlayFlashNoticeStep3": "Поставьте галочку напротив пункта \"Запускать всегда\"",
+	"GameAPIPlayFlashNoticeStep4": "Перезапустите браузер и зайдите в игру",
 	
 	"GameAPINoExist" : "У вас нет ни одной записанной API-ссылки",
 	"GameAPIGetTitle" : "Получить новую API-ссылку",
@@ -95,56 +106,77 @@
 	
 	"AboutTitle" : "О разработчиках KC3改",
 	"Version" : "Версия",
-	"AboutHome" : "Домашняя страница",
+
+	"AboutWebStore" : "Chrome WebStore",
+	"AboutFacebook" : "Facebook",
 	"AboutSource" : "Исходный код",
-	"AboutWiki" : "Wiki и FAQ",
 	"AboutReport" : "Сообщить об ошибках",
-	"AboutHelpCommunity" : "Вы можете нам помочь",
-	"AboutHelpLearnMore" : "Писать код не нужно! Узнать, как можно это сделать >",
-	
-	"AboutCoders" : "Программисты",
-	"AboutProjectHead" : "Глава проекта",
-	"AboutWikiWriter" : "Автор статей на Wiki",
-	"AboutDeveloper" : "Разработчик",
-	"AboutManagers" : "Менеджеры",
-	"AboutManager" : "Менеджер",
-	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
-	"AboutDevBadgeGen" : "Badge Generator Dev",
+
+	"AboutInvdividuals" : "Команда KC3改",
+	"AboutPartners" : "Партнёры",
+	"AboutOtherCredits" : "Благодарности",
+	"AboutDonators" : "Спонсоры",
+	"AboutHallOfFame" : "Зал славы",
+	"AboutLicense" : "Лицензия",
+
+	"AboutDevelopers" : "Разработчики",
+	"AboutModerators" : "Админы и Модераторы",
 	"AboutTranslators" : "Переводчики",
-	"AboutTranslator" : "Переводчик",
+	"AboutForkContributors" : "Разработчики расширений",
 	"AboutTesters" : "Тестеры",
-	"AboutDevTester" : "Dev сборка",
-	"AboutWebTester" : "WebStore сборка",
-	"AboutOther" : "Благодарности",
+	"AboutOtherContributors" : "Вклады в проект",
+
+	"AboutDeveloper" : "Разработчик",
+	"AboutModerator" : "Модератор",
+	"AboutTranslator" : "Переводчик",
+	"AboutTester" : "Тестер",
+	"AboutDevTester" : "Тестер",
+	"AboutReporter" : "Докладчик о багах",
+
+	"AboutProjectHead" : "Глава проекта",
 	"AboutLogo" : "Дизайн лого",
 	"AboutFairy" : "Дизайнер фей",
-	"AboutReporters" : "Текущие Git-репортёры",
-	"AboutReporter" : "Git-репортёр",
-	"AboutChannel" : "Обсуждения канала",
+	"AboutDevBattleReplay" : "Battle Replay/Sim Dev",
+	"AboutDevBadgeGen" : "Badge Generator Dev",
 	
-	"AboutOtherSources" : "Другие источники",
-	"AboutLicense" : "Лицензия",
-	"AboutLicenseDisclaimer" : "Текст ниже является свежей копией файла LICENSE этой установленной версии. <a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">Файл LICENSE в репозитории с официальным контентом.</a>",
+	"AboutPartnerZHKcWikiName" : "ZH KCWiki",
+	"AboutPartnerZHKcWikiDesc" : "Перевод квестов и субтитров на упрощённый китайский",
 	
-	"AboutSourceZHKcWiki" : "<a href=\"http://zh.kcwiki.moe\" target=\"_blank\"><strong>http://zh.kcwiki.moe</a></strong>",
-	"AboutSourceZHKcWikiQuests" : "за перевод квестов на упрощённый китайский",
-	"AboutSourceZHKcWikiSubtitles" : "за субтитры на упрощённый китайский",
-	"AboutSourceHeartSound" : "<a href=\"http://soundbible.com/1707-Hearbeat-2.html\" target=\"_blank\">Звук удара сердца</a> от Mike Koenig",
-	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> от Diablohu за базу данных кораблей Стратегиума",
-	"AboutSourceGakadaVoices": "<strong>gakada</strong> за <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">предложения</a> по распознаванию реплик",
-	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> за <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">пересмотр английской викии</a> в поисках свежих реплик канмусу",
-	"AboutSourceApaapaTranslations": "<strong>阿帕</strong> за предоставление <a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">субтитров на традиционном китайском</a>",
-	"AboutSubtitleContributors": "Спасибо тем, кто помог <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">проверять субтитры</a> и даже иногда их исправляли сами",
-	"AboutSubtitleContributorsOther": "и многие другие",
+	"AboutPartnerPoiStatsName" : "Poi-Statistics от KCWiki & Poi",
+	"AboutPartnerPoiStatsDesc" : "Интеграция для представления отчётов данных API",
 	
+	"AboutPartnerWhoCallsName" : "WhoCallsTheFleet от Diablohu",
+	"AboutPartnerWhoCallsDesc" : "Используемая в приложении внутренняя база кораблей",
+	
+	"AboutPartnerThreeBardsName" : "ThreeBards.com от cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "Интеграция с KanColle Badge Generator",
+	
+	"AboutPartnerKCDBNetName" : "KanColle-DB.net",
+	"AboutPartnerKCDBNetDesc" : "Интеграция для представления отчётов данных API",
+	
+	"AboutPartnerKCCalcName" : "KanColle-Calc",
+	"AboutPartnerKCCalcDesc" : "Интеграция для передачи информации по флотам",
+	
+	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBDesc" : "Тайский перевод приложения, а также посты обновления KC3 на Facebook",
+	
+	"AboutWebsite": "Веб-сайт",
+	
+	"AboutSubtitleHelp": "Предоставлены реплики",
+	"AboutSourceGakadaVoices": "Предложения по распознаванию реплик",
+	"AboutSourceWhoCallsTheFleet": "WhoCallsTheFleet за базу кораблей в Стратегиуме",
+	"AboutSourceMdmsScottQuotes": "Пересмотр английского перевода реплик канмусу",
+	"AboutSourceHeartSound" : "Звук удара сердца",
+	
+	"AboutLoadingLicense": "Загрузка содержимого файда лицензии...",
+
 	"SettingsTitle" : "Настройки KC3改",
 	
 	"SettingsGlobal" : "Глобальные",
 	"SettingsLanguage" : "Язык",
-	"SettingsELosFormula" : "Effective LOS формула",
-	"SettingsELosSum" : "Сумма",
-	"SettingsELosOld" : "Старая",
-	"SettingsELosNew" : "Новая",
+	"SettingsReset" : "Сбросить",
+	"SettingsResetAll" : "Сбросить настройки",
+
 	"SettingsHQExpDetail"  : "Информация о HQ опыте",
 	"SettingsHQExpLeft"	: "Оставшийся опыт",
 	"SettingsHQExpCurrent" : "Текущий уровень",
@@ -154,6 +186,8 @@
 	"SettingsTimeFinished" : "Абсолютный",
 	"SettingsCheckLiveQuests" : "Новые переводы квестов",
 	"SettingsDevOnlyPages" : "Страницы для разрабов",
+	"SettingsForceDMMLogin" : "Вход на DMM",
+	"SettingsAPIRecorder" : "Панель записи API",
 	
 	"SettingsGameInfo" : "Игровая информация",
 	"SettingsDropFaces" : "Дроп",
@@ -169,10 +203,25 @@
 	"SettingsHQDelta" : "Прирост HQ",
 	"SettingsFleetStatus" : "Сводка состояния флота",
 	"SettingsAutoExpedTab" : "Вкладка экспедиций",
+	"SettingsAutoSwitchFleetView" : "Автопереход флотов",
 	"SettingsEnglishShipType": "Имена на английском",
 	"SettingsShipNamesLang": "Язык имён канмусу",
 	"SettingsShipNamesGlobal": "Выбранный язык",
 	"SettingsBlinkGauge": "Анимация HP босса",
+
+	"SettingsFormulas" : "Игровые формулы",
+	"SettingsELosFormula" : "Effective LOS формула",
+	"SettingsELosSum" : "Сумма",
+	"SettingsELosOld" : "Старая",
+	"SettingsELosNew" : "Новая",
+	"SettingsELosF33" : "Формула 33",
+	"SettingsAirFormula" : "Формула для самолётов",
+	"SettingsAFPNoBonus" : "Без опыта",
+	"SettingsAFPVeteran" : "Всеобщий опыт",
+	"SettingsAFPRange" : "Min-Max опыт",
+	"SettingsIntercept" : "Min+Перехват",
+	"SettingsAFPAverage" : "Бонус всеобщего опыта",
+	"SettingsAFPBounds" : "Бонус Mix-Max",
 	
 	"SettingsScreenshot" : "Снимки экрана",
 	"SettingsSSOutput" : "Вывод",
@@ -180,6 +229,7 @@
 	"SettingsSSImgur" : "Imgur",
 	"SettingsSSNewTab" : "В новой вкладке",
 	"SettingsSSFileType" : "Тип файла",
+	"SettingsSSQuality" : "Качество изображения",
 	"SettingsSSDirectory" : "Подпапка для загрузки",
 	"SettingsSSDirDesc" : "Определить подпапку /Загрузок/",
 	"SettingsSSDppx": "Соотношение пикселей",
@@ -201,11 +251,19 @@
 	"SettingsIdleWarning" : "Idle Timer",
 	"SettingsHideCounter" : "Скрыть счётчик",
 	"SettingsShowCounter" : "Показать счётчик",
+
 	"SettingsTaihaAlert" : "Тайха-предупреждение",
+	"SettingsScreenBlur" : "Размытие экрана",
+	"SettingsScreenBlood" : "Кровь на экране",
+	"SettingsAppearOnScreenshots" : "Использовать в скринах",
+	"SettingsHeartbeatSound" : "Звук сердцебиения",
+	"SettingsDisplayOnPvP" : "Использовать в PvP",
+	"SettingsRedShadeOnPanel" : "Свечение панели",
 	
 	"SettingsAPIGameScreen" : "API-экран игры",
 	"SettingsQuestOverlay" : "Перевод заданий",
 	"SettingsQuestTracking" : "Отслеживание заданий",
+	"SettingsMapNodeMarkers" : "Маркеры точек на карте",
 	"SettingsPanelRequirement" : "Запрос Панели",
 	"SettingsDirectRefresh" : "In-game refresh (опасно)",
 	"SettingsConfirmExit" : "Подтверждение выхода",
@@ -223,6 +281,16 @@
 	"SettingsSubtitleFontDesc": "Семейство шрифтов по CSS. Подробности - http://www.cssfontstack.com",
 	"SettingsSubtitleSize": "Размер шрифтов",
 	"SettingsSubtitleBold": "Жирный шрифт",
+	"SettingsSubtitleDisplay": "Показ субтитров",
+	"SettingsSubtitleSpeaker": "Субтитры с именем канмусу",
+	"SettingsGoogleTranslate": "Помощь Google Translate",
+	
+	"SubtitleDisplayBottom": "Фиксирован внизу игрового окна",
+	"SubtitleDisplayBelow": "Фиксирован прямо под игровым окном",
+	"SubtitleDisplayStick": "Фикстрован внизу окна браузера",
+	"SubtitleDisplayEvade": "Внизу игрового окна, по наведению переходит наверх",
+	"SubtitleDisplayGhost": "Внизу игрового окна, по наведению становится прозрачным",
+	"SubtitleDisplayFree": "Свободен, поле субтитров можно перемещать",
 	
 	"SettingsDMMGameplay" : "Игра на DMM",
 	"SettingsDMMCustomize" : "Применить настройки",
@@ -242,8 +310,6 @@
 	"SettingsPanelOpacity" : "Непрозрачность",
 	"SettingsGearHolder" : "Цвет фона в слотах",
    
-	"SettingsLegacyPanel" : "Панель: классическая тема",
-   
 	"SettingsChuuiWarningDangerousFeature" : "Вы уверены, что хотите изменить это?\nKC3改 ныне не отвечает за последствия ваших действий.\nДействуйте на свой страх и риск..",
 	"SettingsErrorNG" : "Сохранено!",
 	"SettingsErrorSuper" : "Неверное значение!",
@@ -253,6 +319,18 @@
 	"SettingsErrorValue" : "Значение",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
 
+	"SettingsStrategyRoom" : "Стратегиум",
+	"SettingsStrategyTheme" : "Тема Стратегиума",
+
+	"InstalledTitle" : "KC3改 готов к работе!",
+	"InstallText" : "Спасибо за установку KC3改! Мы надеемся, что наше расширение сделает вашу игру в KanColle более приятной и удобной! Не стесняйтесь обращаться к нам за помощью. Проверьте страницу \"О разработчиках KC3改\", чтобы знать, как с нами связаться.",
+
+	"UpdatedTitle" : "KC3改 был обновлен!",
+	"UpdateText" : "Если Вы в данный момент играете в KanColle, некоторые функции могут не работать. Пожалуйста, закройте вкладку с игрой и перезапустите её. Если вы ещё в плавании, пожалуйста, сперва завершите его; но знайте, что некоторые функции, такие как информация и предсказание, могут не работать как положено до перезапуска.",
+	"NewVerViewChangelogGithub": "Посмотреть изменения на GitHub",
+	"NewVerViewWikiGithub": "Посмотреть вики по использованию на GitHub",
+
+	"Enabled" : "Включено",
 	"Small" : "Малый",
 	"Big" : "Большой",
 	"Black" : "Чёрный",
@@ -288,6 +366,12 @@
 	"CatBombMissingServerTimeTitle" : "Не удалось получить время сервера",
 	"CatBombMissingServerTimeMsg"   : "Что-то не так со связью с сервером (или прокси). Проверьте правильность времени на вашем компьютере, иначе это нарушит функциональность.",
 
+	"APIErrorNoticeTitle": "KC3改 обнаружил ошибку в данных игры",
+	"APIErrorNoticeMessage": "Похоже, при обработке данных игры для {0} произошла ошибка. Скорее всего, изменился игровой API, поэтому некоторые функции могут быть неточными или не работать.",
+
+	"Bomb201Title": "Ошибка 201",
+	"Bomb201Message": "Вы получили ошибку 201 от игрового API. Может быть, вы ещё играете через другой клиент, либо это как-то связано с макро-детекцией. Вы можете проигнорировать это сообщение, но просим вас играть в меру.",
+
 	"SpeedFast" : "Быстрый",
 	"SpeedSlow" : "Медленный",
 	
@@ -301,9 +385,11 @@
 	"BattleMapWorldPvP"  : "PvP",
 	"BattleMapCleared"   : "Пройдено",
 	"BattleMapNotClear"  : "Не пройдено",
-	"BattleMapKills"	 : " kills",
+	"BattleMapKills": " kills",
 	"BattleMapNoHpGauge" : "No gauge",
-	"BattleSupportExped" : "Support expedition triggered?",
+	"BattleSupportExped" : "Есть флот поддержки?",
+	"BattleSupportTips"  : "{0}-й флот поддержки прибыл!\n{1} поддержка включена!",
+	"BattleAntiAirCutIn" : "Включён AACI?",
 	"BattleItemDrop"	 : "Дроп",
 	"BattleNightNeeded"  : "Нужна ночная битва?",
 	"BattleRating"	   : "Ранг битвы",
@@ -358,9 +444,12 @@
 	"PanelCombinedShipBarsHint" : "Осталось опыта = {0}, топлива = {1}%, снарядов = {2}%",
 	"PanelNextRemodelLv" : "Следующая модернизация",
 	"PanelPossibleRemodel" : "Возможная модернизация",
+	"PanelResupplyCosts" : "Понадобится топлива = {0}, снарядов = {1}, бокситов = {2}",
 	
 	"PanelHasTaiha" : "Крит. повр.",
 	"PanelFSTaiha" : "Флагман",
+	"PanelCombinedFSChuuha" : "Повр. Флаг.",
+	"PanelCombinedFSChuuhaTip" : "Средние или высокие повреждения у флагмана!",
 	"PanelNoTaiha" : "HP в норме",
 	"PanelSupplied" : "Заправлено",
 	"PanelNotSupplied" : "Заправьте!",
@@ -391,6 +480,15 @@
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Обычн. флот",
 
+	"LandBaseActionWaiting" : "Ожидание",
+	"LandBaseActionSortie" : "Вылет",
+	"LandBaseActionDefend" : "Защита",
+	"LandBaseActionRetreat" : "Отступление",
+	"LandBaseActionRest" : "Отдых",
+	"LandBaseTipFighterPower" : "Сила истребителей",
+	"LandBaseTipInterceptFighters" : "Перехват истребителей",
+	"LandBaseTipInterceptBombers" : "Перехват бомбардировщиков",
+
 	"LevelText" : "Уровень",
 	"LevelShort" : "Ур.",
 	"LevelNext" : "След.",
@@ -419,31 +517,9 @@
 	"ExpedCanister" : "канистры на ",
 	"ExpedCheckReq" : "Проверка требований",
 	"ExpedExpUnit" : " опыта",
-
-	"InstalledTitle" : "KC3改 готов к работе!",
-	"UpdatedTitle" : "KC3改 был обновлен!",
-	"InstallText" : "Спасибо за установку KC3改! Мы надеемся, что наше расширение сделает вашу игру в KanColle более приятной и удобной! Не стесняйтесь обращаться к нам за помощью. Проверьте страницу \"О разработчиках KC3改\", чтобы знать, как с нами связаться.",
-	"UpdateText" : "Если Вы в данный момент играете в KanColle, некоторые функции могут не работать. Пожалуйста, закройте вкладку с игрой и перезапустите её. Если вы ещё в плавании, пожалуйста, сперва завершите его; но знайте, что некоторые функции, такие как информация и предсказание, могут не работать как положено до перезапуска.",
-	
-	"GameAPIPlayFlashNoticeTitle" : "Белый экран по API-ссылке в Chrome 54+",
-	"GameAPIPlayFlashNoticeDesc" : "Начиная с 54-й версий Chrome, игра через API-ссылку выдаст белый экран и не позволит продолжить. Это один из шагов браузера к отказу от Flash. Есть одноразовый дополнительный шаг, который нужно выполнить для продолжения игры. Тем не менее, мы советуем играть через DMM Frame. Если вы всё же желаете продолжить, следуйте инструкции. Всё безопасно. Всё это - Flash vs Chrome, и никак не связано с Kantai Collection.<br /><ul></ul>",
-	"GameAPIPlayFlashNoticeStep1": "Перейдите по адресу: <code>chrome://plugins/</code>",
-	"GameAPIPlayFlashNoticeStep2": "Загляните в раздел \"Adobe Flash Player\"",
-	"GameAPIPlayFlashNoticeStep3": "Поставьте галочку напротив пунта \"Запускать всегда\"",
-	"GameAPIPlayFlashNoticeStep4": "Перезапустите браузер и зайдите в игру",
-
-	"APIErrorNoticeTitle": "KC3改 обнаружил ошибку в данных игры",
-	"APIErrorNoticeMessage": "Похоже, при обработке данных игры для {0} произошла ошибка. Скорее всего, изменился игровой API, поэтому некоторые функции могут быть неточными или не работать.",
-
-	"Bomb201Title": "Ошибка 201",
-	"Bomb201Message": "Вы получили ошибку 201 от игрового API. Может быть, вы ещё играете через другой клиент, либо это как-то связано с макро-детекцией. Вы можете проигнорировать это сообщение, но просим вас играть в меру.",
-
-	"SettingsStrategyRoom" : "Стратегиум",
-	"SettingsStrategyTheme" : "Тема Стратегиума",
-
-	"SettingsAPIRecorder" : "Панель записи API",
-	"MenuScheduledSoon" : "не запланирован",
-	"PanelResupplyCosts" : "Понадобится топлива = {0}, снарядов = {1}, бокситов = {2}",
+	"ExpedGSRate": "Шанс большой удачи:" ,
+	"ExpedGSRateExplainSparkle": "Наличие искрящейся канмусу во флоте увеличивает шанс большой удачи\nСейчас: {0}",
+	"ExpedGSRateExplainExtraDrum": "Ношение доп. канистр в этой экспедиции увеличивает шанс большой удачи\nСейчас: {0}/{1}",
 	
 	"CraftEquipNoteFirst" : "Это ваше <strong>первое</strong> оборудование!",
 	"CraftEquipNoteExists" : "У вас уже <strong>{0}</strong> единиц этого оборудования!",
@@ -452,6 +528,15 @@
 	"ModernizationResultLeft" : "{0} осталось",
 	"ModernizationResultNote" : "Отображаемая статистика есть значения без вооружения",
 	
+	"FitWeightUnknown": "Неизвестно",
+	"FitWeight_-3": "Большой fit-штраф",
+	"FitWeight_-2": "Средний fit-штраф",
+	"FitWeight_-1": "Малый fit-штраф",
+	"FitWeight_0": "Нейтрально",
+	"FitWeight_1": "Малый fit-бонус",
+	"FitWeight_2": "Средний fit-бонус",
+	"FitWeight_3": "Большой fit-бонус",
+
 	"DesktopNotifyExpedCompleteTitle" : "Экспедиция завершена!",
 	"DesktopNotifyExpedCompleteMessage" : "Флот {0} вернулся из экспедиции №{1}",
 	"DesktopNotifyRepairCompleteTitle" : "Ремонт завершён!",
@@ -503,6 +588,25 @@
 	
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
+	"MasterShipGoQuotes" : "Проверка реплик",
 	
+	"Debuffed" : "Босс ослаблен!",
+
+	"GameChrome55FrameNoticeTitle": "DMM в iFrame не совместим с Chrome 55+",
+	"GameChrome55FrameNoticeDesc": "Chrome 55+ имеет обновления, которые отключают межсайтовый рендеринг Flash и поэтому вы сможете наблюдать лишь чёрный экран. Виноват Chrome, а DMM никак не связан с этим, поэтому можете не беспокоиться. Пока что, мы советуем играть прямо на сайте DMM, по крайней мере пока не исправим эту ситуацию. Мы стараемся для того, чтобы вы получили лучшие впечатления от игры.",
+
+	"GameChrome55APINoticeTitle": "API-ссылки не совместимы с Chrome 55+",
+	"GameChrome55APINoticeDesc": "К несчастью, при использовании этой опции Chrome 55+ перестал отсылать историю сетевых подключений. Виноват Chrome, а DMM никак не связан с этим, поэтому можете не беспокоиться. Пока что, мы советуем играть прямо на сайте DMM, по крайней мере пока не исправим эту ситуацию. Мы стараемся для того, чтобы вы получили лучшие впечатления от игры.",
+	
+
+	"BattleAirDefend"    : "Авиабаза",
+	"BattleAirDefendYes" : "Перехватчики: {0}",
+	"BattleAirDefendNo"  : "Нет перехватчиков",
+	"BattleAirBaseLoss"  : "Потери",
+
+	"Chrome55Incompatible": "Не совместимо с Chrome 55+",
+
 	"Dummy" : "Dummy"
+
+
 }

@@ -29,10 +29,14 @@
 	"Experience": "提督经验",
 	"Name": "提督名",
 
+	"MenuNewDMMName" : "开始游戏（新网页模式）",
+	"MenuNewDMMDesc" : "100%原生网页模式，现已支持各类游戏覆盖层定制",
+
 	"MenuDMMLoginName" : "登录DMM",
 	"MenuDMMLoginDesc" : "您还未登录DMM.com，请先通过DMM网站完成登录。",
 
 	"MenuPlayAPIName" : "开始游戏（API模式）",
+	"MenuPlayAPIName2" : "开始游戏（原API模式）",
 	"MenuPlayAPIDesc" : "使用API链接开始游戏，相对节省资源且速度较快",
 	"MenuRefreshAPIName" : "获取新的API",
 	"MenuRefreshAPIDesc" : "打开DMM网页并自动获取新的API链接",
@@ -40,9 +44,12 @@
 	"MenuPlayDMMDesc" : "使用DMM网页进行游戏，最为安全，不存在封号危险",
 
 	"MenuPlayDMMFName" : "开始游戏（框架模式）",
-	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现自定义功能",
+	"MenuPlayDMMFName2" : "开始游戏（原框架模式）",
+	"MenuPlayDMMFDesc" : "打开网页进行游戏，本插件会对网页进行改造以实现定制功能",
 	"MenuPlayOSAPIName" : "开始游戏（OSAPI模式）",
-	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持自定义功能",
+	"MenuPlayOSAPIDesc" : "提供比API链接存在更久的二级链接。暂不支持定制功能",
+	"MenuSpecialDMMName" : "开始游戏（特殊DMM模式）",
+	"MenuSpecialDMMDesc" : "直连DMM站点，提供如自定义背景等各种KC3定制功能",
 
 	"MenuCookiesName" : "激活Cookies",
 	"MenuCookiesDesc" : "当浏览DMM网站遇到“Error Area”错误时，可使用该选项",
@@ -64,6 +71,28 @@
 	"MenuServerMaintenance" : "距下次服务器维护还有",
 	"MenuTimeUnknown": "未知",
 	"MaintenanceComplete": "维护完成",
+	"UpdateAvailableNow" : "可以更新！",
+
+	"GamePlayViaKC3": "通过KC3改开始游戏",
+	"GameToggleFeatures": "定制特性（覆盖层／退出确认）",
+	"GameEditMoreSettings": "更多设置…",
+	"GameSpecialHotkeys": "特殊热键",
+	"GameMoreHotkeys": "查看更多热键…",
+	"GameHotkeyExit": "Quick exit game",
+	"GameHotkeyHUD": "Hold to show KC3改 Special HUD",
+	"GameHotkeyType": "获取20秒时间编辑游戏内文字框",
+	"GameHotkeyScreenshot": "截图",
+	"GameHotkeyClear": "清除KC3改覆盖层",
+	"GameStartGame": "开始游戏",
+	"GameStartNoPanel": "或不开启信息面板直接游戏",
+	"GameOReither": "或",
+	"GameStep2": "于打开的开发者工具面板，选择<code><strong>KanColle</strong></code>页。 若找不到此页面请点击最右侧的“\u00bb”并在下拉列表中寻找。",
+	"GameStep3": "享受游戏！",
+	"GameSocialLinks": "链接",
+	"SocialTextWebstore": "查看Chrome网上应用店评价",
+	"SocialTextFacebook": "在Facebook为我们点赞",
+	"SocialTextTwitter": "在推特上关注我们",
+	"SocialTextGithub": "在GitHub为本项目加星",
 
 	"GameDMMRedirect" : "即将前往DMM网站进行游戏",
 	"GameDMMFrame" : "即将在iFrame中打开DMM网站进行游戏",
@@ -78,6 +107,12 @@
 	"GameAPIPlayFlashNoticeStep2": "寻找“Adobe Flash Player”一项",
 	"GameAPIPlayFlashNoticeStep3": "在“始终允许运行”选项上打勾",
 	"GameAPIPlayFlashNoticeStep4": "重启浏览器并运行游戏",
+
+	"GameChrome55FrameNoticeTitle": "框架模式与Chrome 55+不兼容",
+	"GameChrome55FrameNoticeDesc": "因Chrome 55及以上版本禁用了跨站Flash渲染功能，框架模式将始终黑屏。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
+
+	"GameChrome55APINoticeTitle": "API模式与Chrome 55+不兼容",
+	"GameChrome55APINoticeDesc": "在Chrome 55及以上版本中，API模式不会收到网络历史数据，导致此模式不可用。这是Chrome本身的问题，与DMM并无关系。我们已着手于寻找合适的解决方案。在我们完成针对这一问题的修复工作前，推荐使用网页模式进行游戏。",
 
 	"GameAPINoExist" : "你没有任何已保存的API链接",
 	"GameAPIGetTitle" : "获取新的API链接",
@@ -112,6 +147,8 @@
 	"AboutReport" : "汇报问题",
 	"AboutHelpCommunity" : "你也可以帮忙",
 	"AboutHelpLearnMore" : "无需编程基础！点击了解如何贡献 >",
+	"AboutWebStore" : "Chrome网上应用店",
+	"AboutFacebook" : "Facebook",
 
 	"AboutCoders" : "开发人员",
 	"AboutProjectHead" : "项目领头人",
@@ -121,9 +158,7 @@
 	"AboutManager" : "管理人",
 	"AboutDevBattleReplay" : "对战重放与模拟",
 	"AboutDevBadgeGen" : "签名生成",
-	"AboutTranslators" : "翻译人员",
 	"AboutTranslator" : "翻译",
-	"AboutTesters" : "测试人员",
 	"AboutDevTester" : "内部版本",
 	"AboutWebTester" : "正式版本",
 	"AboutOther" : "其他",
@@ -133,10 +168,51 @@
 	"AboutReporter" : "Git汇报者",
 	"AboutChannel" : "项目讨论频道",
 
+	"AboutInvdividuals" : "KC3改团队",
+	"AboutPartners" : "合作伙伴",
+	"AboutOtherCredits" : "致谢",
+	"AboutDonators" : "捐助者",
+	"AboutHallOfFame" : "名人堂",
+
+	"AboutDevelopers" : "开发人员",
+	"AboutModerators" : "管理与主持人员",
+	"AboutModerator" : "主持人员",
+	"AboutTranslators" : "翻译人员",
+	"AboutForkContributors" : "分支开发人员",
+	"AboutTesters" : "测试和汇报人员",
+	"AboutTester" : "测试人员",
+	"AboutOtherContributors" : "其他贡献人员",
+
 	"AboutOtherSources" : "其他信息来源",
 	"AboutLicense" : "许可",
 	"AboutLicenseDisclaimer" : "以下文本是截至本机安装版本的最新许可副本（LICENSE文件）内容。<a href=\"https://github.com/KC3Kai/KC3Kai/blob/master/LICENSE\" target=\"_blank\">在此查看GitHub软件仓库中最新的官方许可（LICENSE）文件。",
 
+	"AboutPartnerSites" : "合作站点与工具",
+
+	"AboutPartnerZHKcWikiName" : "舰娘百科",
+	"AboutPartnerZHKcWikiDesc" : "提供简体中文任务和台词翻译，以及日语台词数据",
+
+	"AboutPartnerPoiStatsName" : "舰娘百科×poi # 掉落统计",
+	"AboutPartnerPoiStatsDesc" : "API数据提交（建造/开发/掉落统计）",
+
+	"AboutPartnerKCDBNetName" : "KanColle-DB",
+	"AboutPartnerKCDBNetDesc" : "API数据提交（建造/开发/掉落统计）",
+
+	"AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
+	"AboutPartnerThreeBardsDesc" : "集成舰队 Collection 签名生成器",
+
+	"AboutPartnerWhoCallsName" : "是谁呼叫舰队 By Diablohu",
+	"AboutPartnerWhoCallsDesc" : "本应用中多处使用了是谁呼叫舰队提供的舰娘数据",
+
+	"AboutPartnerKCCalcName" : "舰队收藏电子计算器仓库",
+	"AboutPartnerKCCalcDesc" : "集成舰队配置数据的导出",
+
+	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBDesc" : "本应用的泰文翻译，以及Facebook上KC3的状态更新",
+
+	"AboutWebsite": "网站链接",
+
+	"AboutSubtitleHelp": "感谢其对相应语言字幕的贡献",
 	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
 	"AboutSourceZHKcWikiQuests" : "任务翻译来自舰娘百科",
 	"AboutSourceZHKcWikiSubtitles" : "字幕翻译来自舰娘百科",
@@ -148,6 +224,10 @@
 	"AboutSubtitleContributors": "感谢下列贡献者<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">参与字幕的校验和修订工作</a>：",
 	"AboutSubtitleContributorsOther": "以及其他未透露姓名的贡献者！",
 	"AboutSubtitleTranslators": "感谢翻译人员为各语言提供的舰娘台词",
+	"AboutSampleBattleData" : "感谢其提供的数据样本",
+	"AboutCompleteMapNodes" : "感谢来自 KCMAP 的数据",
+
+	"AboutLoadingLicense": "正在读取许可文件…",
 
 	"SettingsTitle" : "KC3改 - 设置",
 
@@ -178,7 +258,26 @@
 	"SettingsCheckLiveQuests" : "自动检查新任务的翻译",
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
+	"SettingsSpecialCounterAdjust": "特殊任务计数修正(Bd5/Bd6等)",
 	"SettingsAPIRecorder" : "API 记录器面板",
+	"SettingsUpdateNotification" : "应用更新通知形式",
+	"SettingsUpdateNotifNone" : "无",
+	"SettingsUpdateNotifPage" : "打开更新状态页面",
+	"SettingsUpdateNotifPop" : "弹出桌面通知",
+
+	"SettingsAAFormation": "对空阵型",
+	"SettingsAAFLineAheadEtc" : "单纵阵/单横阵/梯形阵",
+	"SettingsAAFDoubleLine"	  : "复纵阵",
+	"SettingsAAFDiamond"	  : "轮型阵",
+	"SettingsAAFCombAntiSub"  : "联合舰队(对潜警戒)",
+	"SettingsAAFCombDiamond"  : "联合舰队(轮型阵)",
+	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
+
+	"SettingsErrors" : "错误提示",
+	"SettingsShowCatBombs" : "显示报错（猫）",
+	"SettingsShowAPIError" : "显示API错误提示",
+	"SettingsRepeatAPIError" : "重复API错误提示",
+	"SettingsDetailedAPIError" : "显示API错误详情",
 
 	"SettingsGameInfo" : "游戏信息",
 	"SettingsDropFaces" : "揭示掉落的舰娘",
@@ -196,6 +295,7 @@
 	"SettingsFleetStatus" : "舰队状态概览",
 	"SettingsAutoExpedTab": "自动切换远征信息页",
 	"SettingsAutoSwitchFleetView" : "在舰队编成时自动切换舰队页",
+	"SettingsPvPInfoActivity" : "显示演习对手信息页",
 	"SettingsEnglishShipType": "使用英文舰种缩写",
 	"SettingsShipNamesLang" : "舰名与装备名使用语言",
 	"SettingsShipNamesGlobal" : "按照语言设定",
@@ -228,7 +328,7 @@
 	"SettingsIdleWarning" : "空闲计时",
 	"SettingsHideCounter" : "隐藏计数",
 	"SettingsShowCounter" : "显示计数",
-	
+
 	"SettingsTaihaAlert" : "大破警报",
 	"SettingsScreenBlur" : "屏幕模糊",
 	"SettingsScreenBlood" : "屏幕血迹",
@@ -257,9 +357,20 @@
 	"SettingsSubtitleFont" : "字幕字体",
 	"SettingsSubtitleSize" : "字幕大小",
 	"SettingsSubtitleFontDesc": "指定CSS支持的字体。参见 http://www.cssfontstack.com",
+	"SettingsSubtitleDisplay": "字幕显示",
+	"SettingsSubtitleSpeaker": "字幕前加舰名",
+	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
+	"SettingsMapNodeMarkers" : "地图节点标记",
+
+	"SubtitleDisplayBottom": "固定于下方（界面内）",
+	"SubtitleDisplayBelow": "固定于下方（界面外）",
+	"SubtitleDisplayStick": "固定于页面底部",
+	"SubtitleDisplayEvade": "显示于下方（界面内），鼠标经过时挪至上方",
+	"SubtitleDisplayGhost": "固定于下方（界面内），鼠标经过时透明",
+	"SubtitleDisplayFree": "自由模式，可拖拽",
 
 	"SettingsDMMGameplay" : "网页模式",
-	"SettingsDMMCustomize" : "允许自定义",
+	"SettingsDMMCustomize" : "开启定制",
 	"SettingsDMMForceCookies" : "强制模拟地域Cookie",
 
 	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
@@ -292,9 +403,22 @@
 
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
-	
+	"InstalledText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
+
 	"UpdatedTitle": "KC3改 已完成升级！",
 	"UpdateText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
+	"UpdatedText": "若您正在进行“舰队收藏”的游戏，一些功能可能暂时异常，请关闭游戏标签重启游戏。若您正在出击，也可在完成本次出击后再重启（注意在完成重启前一些功能可能会异常）。",
+
+	"UpdateNotifTitle": "KC3改 {0} 已发布！",
+	"UpdateNotifText": "更新准备就绪。需要重启扩展。\n单击此处查看更新状态页面。",
+
+	"PageUpdateTitle": "KC3改 更新状态",
+	"PageUpdateReadyText": "应用更新准备就绪。您可以立刻重启应用，或是完成正在进行的游戏内事务并稍候重启应用。注意如果您选择立刻重启，游戏界面将自动关闭，辅助信息面板可能会在重启完成前提示错误。",
+	"PageUpdateRestartNow": "现在重启应用",
+	"PageUpdateRestartLater": "稍候重启应用",
+	"PageUpdateHowToManual": "如何手动升级",
+	"PageUpdateInstalled": "已安装",
+	"PageUpdateInDevelop": "开发中",
 
 	"NewVerViewChangelogGithub": "浏览GitHub上的改动日志",
 	"NewVerViewWikiGithub": "浏览GitHub上的用户手册",
@@ -308,6 +432,7 @@
 	"Panel" : "面板",
 	"Volume" : "音量",
 	"None" : "无",
+	"Unknown": "未知",
 	"LearnMore" : "了解更多",
 	"Saved" : "已保存",
 	"TimerComplete" : "完成！",
@@ -334,15 +459,12 @@
 	"CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
-	
+
 	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
 	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",
 
 	"Bomb201Title": "游戏错误 201",
 	"Bomb201Message": "从游戏API收到错误 201，可能已在别处登录或是与脚本检测机制相关。您可忽略本条消息，但请适度游戏。",
-
-	"SpeedFast" : "高速",
-	"SpeedSlow" : "低速",
 
 	"HQText" : "司令部",
 	"HQAdmiralLv"  : "提督",
@@ -358,6 +480,8 @@
 	"BattleMapNoHpGauge" : "无血槽",
 	"BattleSupportExped" : "远征支援舰队到达？",
 	"BattleSupportTips"	 : "第{0}支援舰队到达！\n开始{1}支援！",
+	"BattleLbasSupportTips" : "航空队 #{1} 共计 {0} 架飞机累计\n击落：{2}；造成伤害：{3}；损失：{4}",
+	"BattleLbasJetSupportTips" : "共计 {0} 架喷气机\n击落：{1}；造成伤害：{2}；损失：{3}",
 	"BattleAntiAirCutIn" : "对空CI发动？",
 	"BattleItemDrop"	 : "特殊物品掉落？",
 	"BattleNightNeeded"	 : "能否夜战？",
@@ -374,6 +498,12 @@
 	"BattleContactVs"	 : " vs ",
 	"BattleContactYes"	 : "有",
 	"BattleContactNo"	 : "无",
+	"BattleAirDefend"	 : "航空队",
+	"BattleAirDefendYes" : "拦截队： {0}",
+	"BattleAirDefendNo"	 : "无拦截队",
+	"BattleAirBaseLoss"	 : "基地",
+
+	"Debuffed" : "Boss已削弱！",
 
 	"ShipHp"	  : "耐久",
 	"ShipFire"	  : "火力",
@@ -389,6 +519,14 @@
 	"ShipLength"  : "射程",
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
+
+	"ShipAAAdjusted"	  : "加权对空值: {0}",
+	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
+	"ShipAAFixedShotdown" : "固定击坠: {0}",
+	"ShipAACIMaxBonus"	  : "最大对空CI击坠加成: {0}",
+	"ShipAAImgEnemySlot"  : "假想敌单格搭载: {0}",
+	"ShipAAShotdownPred"  : "击坠数(皆成功/仅比例/仅固定/皆失败):\n{0}",
+	"ShipAAShotdownTitles" : "敌搭载/皆成功/仅比例/仅固定/皆失败",
 
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
@@ -414,18 +552,19 @@
 	"PanelRepairing"	   : "修理中...",
 	"PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
 	"PanelNextRemodelLv"   : "改造等级",
-	"PanelPossibleRemodel" : "改造可能",
+	"PanelPossibleRemodel" : "可改造",
 	"PanelResupplyCosts"   : "补给消耗：\n燃料：{0}，弹药：{1}，铝土矿：{2}",
+	"PanelConsumedSteel"   : "每战消耗钢材：{0}",
 
 	"PanelHasTaiha" : "大破",
 	"PanelFSTaiha" : "旗舰",
-	"PanelCombinedFSChuuha" : "旗舰大破",
+	"PanelCombinedFSChuuha" : "旗舰中破",
 	"PanelCombinedFSChuuhaTip" : "因旗舰中破或大破，无法出击",
 	"PanelNoTaiha" : "耐久良好",
 	"PanelSupplied" : "补给充足",
 	"PanelNotSupplied" : "补给未满",
 	"PanelUnderSupplied" : "需要补给",
-	"PanelEmptySupply" : "没有补给",
+	"PanelEmptySupply" : "无补给",
 	"PanelGreatMorale" : "士气高昂",
 	"PanelGoodMorale" : "疲劳良好",
 	"PanelRecoveredMorale" : "士气已恢复",
@@ -459,6 +598,17 @@
 	"LevelText" : "等级",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "还需",
+
+	"SpeedLand": "陆基",
+	"SpeedSlow": "低速",
+	"SpeedFast": "高速",
+	"SpeedFaster": "高速+",
+	"SpeedFastest": "最速",
+	"RangeShort": "短",
+	"RangeMedium": "中",
+	"RangeLong": "长",
+	"RangeVeryLong": "超长",
+
 	"Screenshot" : "截图",
 	"Expedition" : "远征",
 	"UntranslatedQuest" : "未翻译的任务",
@@ -485,6 +635,16 @@
 	"ExpedCanister" : "运输桶装备于",
 	"ExpedCheckReq" : "符合要求？",
 	"ExpedExpUnit" : " 经验",
+	"ExpedBaseNormal": "基础收入",
+	"ExpedBaseGreat": "基础收入（大成功）",
+	"ExpedAveStars": "平均改修星数",
+	"ExpedBonus": "大发系加成",
+	"ExpedBonusToku": "特大发加成",
+	"ExpedResupply": "补给",
+	"ExpedTotalIncome": "总计" ,
+	"ExpedGSRate": "大成功率：" ,
+	"ExpedGSRateExplainSparkle": "舰队中包含高士气舰娘时可提升远征大成功率\n现有：{0}",
+	"ExpedGSRateExplainExtraDrum": "携带额外的“桶（运输用）”可提升此远征大成功率\n现有：{0}/{1}",
 
 	"CraftEquipNoteFirst" : "<strong>首次</strong>开发出此装备！",
 	"CraftEquipNoteExists" : "目前持有<strong>{0}</strong>件！",
@@ -492,6 +652,23 @@
 
 	"ModernizationResultLeft" : "剩余 {0}",
 	"ModernizationResultNote" : "注：裸装属性",
+
+	"FitWeightUnknown": "未知",
+	"FitWeight_-3": "超重（大）",
+	"FitWeight_-2": "超重（中）",
+	"FitWeight_-1": "超重（微）",
+	"FitWeight_0": "均衡",
+	"FitWeight_1": "适重（微）",
+	"FitWeight_2": "适重（中）",
+	"FitWeight_3": "适重（大）",
+
+	"PvpListTitle"       : "演习对手",
+	"PvpListCreateType0" : "演习舰队【第一群】",
+	"PvpListCreateType1" : "演习舰队【第二群】",
+	"PvpListCreateType2" : "旧式【全体】",
+	"PvpBaseExp"         : "基础经验值",
+	"PvpDispBaseExpWoCT" : "无练巡经验加成(x{0})时，S胜经验",
+	"PvpFormationPred"   : "敌方阵型预测",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",
@@ -502,6 +679,15 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "新的舰娘已在建造槽等候您了！",
 	"DesktopNotifyMoraleTitle" : "舰队疲劳度恢复！",
 	"DesktopNotifyMoraleMessage" : "当前所选舰队的所有舰娘疲劳度皆已恢复！",
+
+	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
+	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",
+	"NewsfeedExped": "舰队已自“远征”归来。",
+	"NewsfeedUnlockMap": "已解放新海域！",
+	"NewsfeedUpdateLib": "图鉴已更新！",
+	"NewsfeedPvPWin": "您在与“{0:opponentName}”的演习中取胜。",
+	"NewsfeedPvPLose": "您在与“{0:opponentName}”的演习中败北。",
+	"NewsfeedUnknown": "{1}",
 
 	"LodgerPageStepRw"	: "前1小时",
 	"LodgerPageStepFw"	: "后1小时",
@@ -528,6 +714,7 @@
 	"LodgerDsitem" : "废弃",
 	"LodgerRemodel": "改造",
 	"LodgerRmditem": "改修",
+	"LodgerLbas": "基地航空队",
 	"Lodgeroverall": "合计",
 
 	"LodgeRatingOK5" : "绝赞屯资中",
@@ -545,6 +732,10 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "查看台词",
+
+	"Chrome55Incompatible": "与Chrome 55+不兼容",
+	"DownloadErrorReport": "下载错误报告",
+
 	"Dummy" : "Dummy"
 
 }

@@ -40,7 +40,7 @@
     "107": {
         "code": "A12",
         "name": "Form a Carrier Task Force!",
-        "desc": "Have a CV(L) as flagship and 3 DD in your main fleet.",
+        "desc": "Have a CV(B/L) as flagship and 3 DD in your main fleet.",
         "unlock": [ 217 ]
     },
     "108": {
@@ -101,7 +101,7 @@
     "117": {
         "code": "A11",
         "name": "Form a Carrier Task Force in the Second Fleet!",
-        "desc": "Have a CV(L) and 3 DD in your second fleet.",
+        "desc": "Have a CV(B/L) and 3 DD in your second fleet.",
         "unlock": [ 217 ]
     },
     "118": {
@@ -269,7 +269,7 @@
     "144": {
         "code": "A42",
         "name": "Form the Main Battleship Force, 2nd Division!",
-        "desc": "Have only Nagato, Mutsu, Fusou and Yamashiro in your main fleet.",
+        "desc": "Have ONLY Nagato, Mutsu, Fusou and Yamashiro in your main fleet.",
         "unlock": [ 258 ]
     },
     "145": {
@@ -282,12 +282,14 @@
         "code": "A45",
         "name": "Prepare the Improvement Arsenal!",
         "desc": "Have Akashi as flagship of your main fleet.",
+        "memo": "\u27a3Rewards 5 Screws",
         "unlock": [ 261, 618 ]
     },
     "147": {
         "code": "A44",
         "name": "Reform the Nishimura Fleet!",
         "desc": "Have Fusou, Yamashiro, Mogami, Shigure and Michishio in your main fleet.",
+        "memo": "\u27a3Rewards 3 Screws",
         "unlock": [ 262 ]
     },
     "148": {
@@ -311,7 +313,7 @@
     "151": {
         "code": "A49",
         "name": "Form the 22nd Destroyer Division!",
-        "desc": "Have only Satsuki, Fumizuki, Nagatsuki and 1 DD in your main fleet.",
+        "desc": "Have ONLY Satsuki, Fumizuki, Nagatsuki and 1 DD in your main fleet.",
         "unlock": [ 270 ]
     },
     "152": {
@@ -361,6 +363,7 @@
         "code": "A57",
         "name": "Prepare to Sortie the New 21st Cruiser Division!",
         "desc": "Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet.",
+        "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 288 ]
     },
     "163": {
@@ -380,7 +383,7 @@
         "code": "A60",
         "name": "Form the 4th Carrier Division!",
         "desc": "Have Ise Kai and Hyuuga Kai in your main fleet.",
-        "memo": "\u27a3Rewards 2 Screws, Zuiun (634 Air Group)",
+        "memo": "\u27a3Rewards 2 Screws and a Zuiun (634 Air Group)",
         "unlock": [ 166 ]
     },
     "166": {
@@ -407,6 +410,7 @@
         "code": "A64",
         "name": "Form the Newly Organized Carrier Division!",
         "desc": "Have 2 CV(L), 2 BBV/CAV and 2 DD in your fleet.",
+        "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 296 ]
     },
     "170": {
@@ -454,7 +458,21 @@
     "177": {
         "code": "A72",
         "name": "Form the 19th Destroyer Division!",
-        "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet."
+        "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet.",
+        "unlock": [ 826 ]
+    },
+    "178": {
+        "code": "A73",
+        "name": "Form the 16th Cruiser Division (Third Generation)!",
+        "desc": "Have Kinu, Aoba, Kitakami and Ooi in your fleet.",
+        "unlock": [ 835 ]
+    },
+    "179": {
+        "code": "A74",
+        "name": "Reform the Elite 16th Cruiser Division!",
+        "desc": "Have Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai in your fleet.",
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 836 ]
     },
     
     "202": {
@@ -661,14 +679,14 @@
         "code": "B32",
         "name": "Rush the Battleship Force into the Northern Sea!",
         "desc": "Sortie 2 (F)BB (no BBV), 1 CVL and 3 additional ships to [W3-5]. S-Rank the boss node.",
-        "memo": "\u2718You cannot use any additional CV(L).\n\u27a3Rewards a Type 1 AP Shell",
+        "memo": "\u2718You cannot use any additional CV(B/L).\n\u27a3Rewards a Type 1 AP Shell",
         "unlock": [ 285 ]
     },
     "262": {
         "code": "B33",
         "name": "Advance the Nishimura Fleet into the Southern Sea!",
         "desc": "Sortie Fusou, Yamashiro, Mogami, Shigure, Michishio and 1 additional ship to [W5-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Medal"
+        "memo": "\u27a3Rewards 5 Screws and a Medal"
     },
     "263": {
         "code": "B34",
@@ -761,7 +779,7 @@
     "285": {
         "code": "B49",
         "name": "Advance the Carrier Task Force into the Northern Sea!",
-        "desc": "Sortie a CV as flagship to [W3-5]. S-Rank the boss node.",
+        "desc": "Sortie a CV(B) as flagship to [W3-5]. S-Rank the boss node.",
         "memo": "\u27a3Rewards 3 Screws"
     },
     "286": {
@@ -976,24 +994,75 @@
         "desc": "Sortie to [W2-1]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Searchlight"
     },
-    "831": {
-        "code": "SB12",
-        "name": "Saury Fishing: Light it Up! Saury Fishing Aid!",
-        "desc": "Have 3 sauries in your inventory. They can be farmed from [W1], [W3], and [W6].",
-        "unlock": [ 832 ]
+    "834": {
+        "code": "B83",
+        "name": "Reinforce the Nansei Islands Defense Line!",
+        "desc": "Sortie an AV or CAV as flagship to [W1-4]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Furniture Fairy"
     },
-    "832": {
-        "code": "SB13",
-        "name": "Saury Fishing: More, More! Keep Fishing for Saury!",
-        "desc": "Have 8 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand.",
-        "unlock": [ 833 ]
+    "835": {
+        "code": "B84",
+        "name": "Sortie the 16th Cruiser Division (Third Generation)!",
+        "desc": "Sortie Kinu, Aoba, Kitakami, Ooi and up to 2 additional ships to [W2-4]. A-Rank+ the boss node.",
+        "memo": "\u27a3Rewards furniture",
+        "unlock": [ 179 ]
     },
-    "833": {
-        "code": "SB14",
-        "name": "Saury Fishing: Bleeding Edge Saury Fishing! Keep Going!",
-        "desc": "Have 24 sauries in your inventory. They can be farmed from [W1], [W3], and [W6]. You will be prompted to pick a reward, so do your research beforehand."
+    "836": {
+        "code": "B85",
+        "name": "Break Through With the Elite 16th Cruiser Division!",
+        "desc": "Sortie Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai to [W2-5]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Toku Daihatsu Landing Craft",
+        "unlock": [ 837 ]
     },
-    
+    "837": {
+        "code": "B86",
+        "name": "Succeed in the Transport Operation and Return!",
+        "desc": "Sortie Kinu Kai Ni as flagship, Uranami Kai, 3 DD and one additional non-DD to [W2-2]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards 5 Screws and an Underway Replenishment"
+    },
+    "838": {
+        "code": "B87",
+        "name": "Heavy Cruiser Division, Set Sail!",
+        "desc": "Sortie a CA(V) as flagship, 3 other CA(V) and up to 2 additional ships to [W2-3]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards furniture"
+    },
+    "839": {
+        "code": "B88",
+        "name": "Sortie a Battleship Division!",
+        "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+    },
+    "840": {
+        "code": "SB15",
+        "name": "Special Winter Mission: Elite Destroyer Division, Sortie!",
+        "desc": "Sortie 4 DD ONLY to [W1-1] and [W1-2]. S-Rank the boss nodes of both maps. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Furniture Fairy and either a \u2605+3 25mm Triple Autocannon Mount OR an Anti-Torpedo Bulge (Large)",
+        "unlock": [ 841 ]
+    },
+    "841": {
+        "code": "SB16",
+        "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
+        "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
+        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
+    },
+    "842": {
+        "code": "B89",
+        "name": "Main Battleship Division, Set Sail!",
+        "desc": "Sortie 2 BB(V) (not FBB) and up to 4 additional ships to [W2-4]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler"
+    },
+    "843": {
+        "code": "SB21",
+        "name": "Setsubun Special Sorties: Maintain Control of the Seas!",
+        "desc": "Sortie 2 DD and 2 additional ships to [W1-1], [W1-2], [W2-3]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards furniture"
+    },
+    "844": {
+        "code": "B90",
+        "name": "Break Through With the Elite 8th Destroyer Division!",
+        "desc": "Sortie Arashio Kai Ni as flagship, one of Asashio, Ooshio, or Michishio, and 4 additional ships to [W5-5]. A-Rank+ the boss node 2 times.",
+        "memo": "\u27a3Rewards 4 Screws and a Reinforcement Expansion"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1005,8 +1074,8 @@
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily Flagship",
-        "desc": "Sink the flagship of an abyssal fleet.",
+        "name": "Daily Battle",
+        "desc": "Attack 1 abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
         "unlock": [ 172, 210, 218, 214, 213, 311, 634, 810 ],
         "tracking": [ [0,1] ]
@@ -1118,7 +1187,7 @@
         "code": "Bw8",
         "name": "Weekly [W4-4]",
         "desc": "Sortie to [W4-4]. B-Rank+ the boss node.",
-        "memo": "\u203bCrush the Backbone of the Enemy's Eastern Fleet!\n\u27a3Rewards 3 Screws",
+        "memo": "\u203bCrush the Backbone of the Enemy's Eastern Fleet!",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
@@ -1144,9 +1213,9 @@
     
     "249": {
         "code": "Bm1",
-        "name": "Monthly [W2-5] Myoukou-class",
+        "name": "Monthly [W2-5] Myoukou Fleet",
         "desc": "Sortie Myoukou, Nachi, Haguro and 3 additional ships to [W2-5]. S-Rank the boss node.",
-        "memo": "\u203bSortie the 5th Division!",
+        "memo": "\u203bSortie the 5th Cruiser Division!",
         "unlock": [ 265 ]
     },
     "256": {
@@ -1179,13 +1248,13 @@
     "264": {
         "code": "Bm6",
         "name": "Monthly [W4-2]",
-        "desc": "Sortie 2 CV(L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
+        "desc": "Sortie 2 CV(B/L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
         "memo": "\u203bSend a Carrier Task Force Westward!\n\u27a3Rewards 2 Screws",
         "unlock": [ 266, 626, 822 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [2-5] Light Fleet",
+        "name": "Monthly [W2-5] Nightmare Fleet",
         "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
         "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
     },
@@ -1194,8 +1263,9 @@
         "code": "Bq1",
         "name": "Quarterly [W2-4]",
         "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
-        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws"
-    },    
+        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
+        "tracking": [ [0,2] ]
+    },
     
     
     "301": {
@@ -1270,6 +1340,11 @@
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Present Box"
+    },
+    "314": {
+        "code": "C11",
+        "name": "Mass Exercises for Winter",
+        "desc": "Secure 8 victories in Exercises within the same day."
     },
     
     
@@ -1400,8 +1475,18 @@
         "memo": "\u27a3Rewards 2 Screws",
         "unlock": [ 624 ]
     },
-    
-    
+    "422": {
+        "code": "D20",
+        "name": "Submarine Dispatch Operation to Acquire Aircraft Technology",
+        "desc": "Complete Expeditions 30 and 31.",
+        "memo": "\u27a3Rewards a New Model Aircraft Blueprint"
+    },
+    "423": {
+        "code": "D21",
+        "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
+        "desc": "Have 5000 steel and 1500 bauxite. Complete Expeditions 30 and 31.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine"
+    },    
     
     
     "501": {
@@ -1475,7 +1560,7 @@
     },
     "619": {
         "code": "F18",
-        "name": "Daily Equipment Modernization",
+        "name": "Daily Upgrade",
         "desc": "Upgrade a piece of equipment using Akashi's Improvement Arsenal.",
         "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
         "unlock": [ 637, 638 ],
@@ -1530,19 +1615,19 @@
      "614": {
         "code": "F13",
         "name": "Model Conversion: Tomonoga",
-        "desc": "Set a CV(L) as secretary. Equip her with a Type 97 Torpedo Bomber (Tomonaga Squadron). Scrap two Tenzan.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Type 97 Torpedo Bomber (Tomonaga Squadron). Scrap two Tenzan.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Tenzan Model 12 (Tomonaga Squadron)"
     },
     "615": {
         "code": "F14",
         "name": "Model Conversion: Egusa",
-        "desc": "Set a CV(L) as secretary. Equip her with a Type 99 Dive Bomber (Egusa Squadron). Scrap two Suisei.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Type 99 Dive Bomber (Egusa Squadron). Scrap two Suisei.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Suisei (Egusa Squadron)"
     },
     "616": {
         "code": "F15",
         "name": "Model Conversion: 601 Air Group",
-        "desc": "Set a CV(L) as secretary. Equip her with a Zero Fighter Type 52 Type C (601 Air Group). Scrap two Reppuu.",
+        "desc": "Set a CV(B/L) as secretary. Equip her with a Zero Fighter Type 52 Type C (601 Air Group). Scrap two Reppuu.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Reppuu (601 Air Group)"
     },
     "617": {
@@ -1619,8 +1704,8 @@
     "631": {
         "code": "F27",
         "name": "Model Conversion and Unit Restructuring: Iwai",
-        "desc": "\u2623NOT RECOMMENDED\u2623 Set Zuikaku as secretary. Equip her with a >> Zero Fighter Model 52C (w/ Iwai Flight). Scrap two Type 0 Fighter Model 62s (Fighter-bomber).",
-        "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)"
+        "desc": "\u2623CAUTION\u2623 Set Zuikaku as secretary. Equip her with a >> Zero Fighter Model 52C (w/ Iwai Flight). Scrap two Type 0 Fighter Model 62s (Fighter-bomber).",
+        "memo": "\u2718Please do your research to determine whether this quest is beneficial for your fleet.\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)"
     },
     "632": {
         "code": "F29",
@@ -1666,14 +1751,14 @@
     "637": {
         "code": "F35",
         "name": "Quarterly Skilled Crew Member Training",
-        "desc": "Have 2 medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
-        "memo": "\u2718Consumes 2 medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
+        "desc": "Have 2 Medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
+        "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
 	},
 	"639": {
         "code": "F36",
         "name": "Development of a New Torpedo Armament",
-        "desc": "Have 2 medals. Set Shimakaze as secretary. Equip her with a \u2605max 61cm Quintuple Oxygen Torpedo Mount and a \u2605max 61cm Triple Oxygen Torpedo Mount.",
-        "memo": "\u2718Consumes 2 medals and the equipment. Make sure the equipped torpedoes are unlocked!\n\u27a3Rewards 6 Screws and a Prototype 61cm Sextuple (Oxygen) Torpedo Mount"
+        "desc": "Have 2 Medals. Set Shimakaze as secretary. Equip her with a \u2605max 61cm Quintuple Oxygen Torpedo Mount and a \u2605max 61cm Triple Oxygen Torpedo Mount.",
+        "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped torpedoes are unlocked!\n\u27a3Rewards 6 Screws and a Prototype 61cm Sextuple (Oxygen) Torpedo Mount"
     },
     "640": {
         "code": "SF",
@@ -1724,6 +1809,42 @@
         "desc": "Have 1200 fuel, 3000 bauxite, and one Construction Battalion in your inventory. Scrap two Drum Canisters.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Enables a Land Airbase in [W6]"
     },
+    "648": {
+        "code": "F44",
+        "name": "Procurement for Custom-Made Furniture",
+        "desc": "Have 5000 Furniture Coins, two 14cm Single Gun Mounts and two 15.2cm Single Gun Mounts in your inventory. Scrap two 12.7cm Twin High-Angle Gun Mounts.",
+        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "649": {
+        "code": "F45",
+        "name": "Development of a New Axis Reconnaissance Aircraft",
+        "desc": "Have one Type 1 Land-based Attack Aircraft and two Saiun. Scrap two Type 0 Reconnaissance Seaplanes.",
+        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Prototype Keiun (Carrier-based Reconnaissance Model)"
+    },
+    "650": {
+        "code": "F46",
+        "name": "Development of a Jet Fighter-Bomber",
+        "desc": "Have two New Model Aircraft Blueprints and one Ne-Type Engine. Scrap three Shiden Kai Ni.",
+        "memo": "\u2718Consumes the items.\n\u27a3Rewards a Kikka Kai"
+    },
+    "651": {
+        "code": "F47",
+        "name": "Increased Production of the Ne-Type Engine",
+        "desc": "Have 8000 steel, two Ryuusei and two Reppuu. Scrap three Type 0 Fighter Model 52s.",
+        "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ne-Type Engine"
+    },
+    "652": {
+        "code": "F48",
+        "name": "Procurement for Custom-Made Furniture",
+        "desc": "Have 5000 Furniture Coins, two 7.7mm Machine Guns and two Type 96 Fighters in your inventory. Scrap two 12.7cm Twin Gun Mounts.",
+        "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "653": {
+        "code": "",
+        "name": "Special Setsubun Mission: Preparation for Setsubun!",
+        "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
+        "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
     
     "701": {
         "code": "G1",
@@ -1749,5 +1870,11 @@
         "code": "G4",
         "name": "Preparation for Large Ship Construction! (Part 1)",
         "desc": "Complete 4 successful modernizations."
+    },
+    "705": {
+        "code": "G5",
+        "name": "Flight Rigging Modernization",
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     }
 }

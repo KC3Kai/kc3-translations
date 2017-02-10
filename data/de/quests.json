@@ -231,11 +231,11 @@
         "name": "Stelle die 5. Flugzeugträger-Division neu zusammen!",
         "desc": "Habee Shoukaku, Zuikaku, Oboro und Akigumo in deiner Flotte."
     },
-  "162": {
+        "162": {
         "name": "Bereite die neue 21. Kreuzer-Division für einen Ausfall vor!",
         "desc": "Habe Nachi Kai-2, Ashigara Kai-2, Tama und Kiso in deiner Flotte."
     },
-  "163": {
+        "163": {
         "name": "Stelle die 16. Kreuzer-Division (Erste Generation) zusammen!",
         "desc": "Habe Ashigara als Flaggschiff zusammen mit Kuma und Nagara in deiner Flotte."
     },
@@ -254,7 +254,7 @@
         "name": "Organisiere Ozawas Flotte",
         "desc": "Habe Zuikaku Kai als Flaggschiff und Zuihou, Chitose (beide CVL) in deiner Hauptflotte"
     },
-    "167": {
+        "167": {
 		"code": "A62",
         "name": "Organisiere eine neue Flugzeugträgerdivision",
         "desc": "Habe Zuikaku Kai Ni, Shoukaku Kai Ni und zwei Zerstörer in deiner Hauptfltte"
@@ -274,9 +274,54 @@
         "name": "Verstärke den Oberflächengegenangriff",
         "desc": "Habe Kasumi als Flaggschiff und Ashigara, Ooyodo und Kiyoshimo in deiner Flotte"
     },
-	
-	
-	
+    "171": {
+        "code": "A66",
+        "name": "Bilde die 31. Kreuzerdivision (Erste Generation)!",
+        "desc": "Habe Isuzu Kai Ni als Flaggschiff, Satsuki Kai Ni und Uzuki Kai in deiner Flotte."
+    },
+    "172":{
+        "code": "A67",
+        "name": "Bilde die 27. Kreuzer Division!",
+        "desc": "Habe NUR Shiratsuyu Kai als Flaggschiff, Shigure, Harusame und Samidare in deiner Flotte."
+    },
+    "173":{
+        "code": "A68",
+        "name": "Bilde die erzwungene Hochgeschwindigkeitstransportflotte!",
+        "desc": "Habe Sendai Kai Ni als Flaggschiff, Kawakaze Kai Ni, Shigure Kai Ni und 2 DD in deiner Flotte."
+    },
+    "174":{
+        "code": "A69",
+        "name": "Bilde ein neues Torpedogeschwader innerhalb der Flotte!",
+        "desc": "Habe einen CL/CLT/CT als Flaggschiff und 4 DD in einer Flotte deiner Wahl."
+    },
+    "175": {
+        "code": "A70",
+        "name": "Reformiere die neue achte Zerstörerdivision!",
+        "desc": "Habe NUR Asashio Kai Ni (oder Kai Ni D) als Flaggschiff, Michishio, Ooshio und Arashio in deiner Flotte.",
+        "memo": "\u2718Sind die Bedingungen aber nicht die Quest erfüllt, wähle diese erst ab und dann erneut an."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Elite! Zerstörerdivision 8, erster Einsatz!",
+        "desc": "Habe Asashio Kai Ni D und Ooshio Kai Ni in deiner Flotte.",
+        "memo": "\u2718Sind die Bedingungen aber nicht die Quest erfüllt, wähle diese erst ab und dann erneut an.\n\u27a3Rewards 3 Screws"
+    },
+    "177": {
+        "code": "A72",
+        "name": "Bilde die 19. Zerstörerdivision!",
+        "desc": "Habe Isonami, Uranami, Ayanami und Shikinami in deiner Flotte."
+    },
+    "178": {
+        "code": "A73",
+        "name": "Bilde die 16. Kreuzerdivision (Dritte Generation)!",
+        "desc": "Habe Kinu, Aoba, Kitakami und Ooi in deiner Flotte."
+    },
+    "179": {
+        "code": "A74",
+        "name": "Reformiere die elitäre 16. Kreuzerdivision!",
+        "desc": "Habe Kinu Kai Ni als Flaggschiff und von Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai und Shikinami Kai fünf beliebige Schiffe in deiner Flotte.",
+        "memo": "\u27a3Die Belohnung ist ein Reparaturteam"
+    },
 	
     "202": {
         "name": "Mein erster Einsatz!",
@@ -405,9 +450,7 @@
     "255": {
         "name": "Sende ein Torpedobootgeschwader zu den Bashi-Inseln",
         "desc": "Schicke eine Flotte  einem/zwei leichten Kreuzer(n) (einer muss das Flaggschiff sein) und vier/fünf Zerstörern zu Welt [W2-2]. Versenke das Flaggschiff der Bossgegner-Flotte."
-    },
-    
-   
+    }, 
     "258": {
         "name": "Sende die 2. Schlachtschiff-Division aus",
         "desc": "Schicke Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) und bis zu zwei weitere Schiffen zu Welt [W4-2] und erziele zweimal einen S-Rang bei der Bossgegner-Flotte."
@@ -462,27 +505,27 @@
         "name": "Sende die 18. Kreuzer-Division aus",
         "desc": "Schicke eine Flotte mit Tenryuu, Tatsuta, und mindestens zwei weiteren Schiffen zu Welt [W2-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	"276": {
+    "276": {
         "name": "Sende die Ausfallflotte aus!",
         "desc": "Schicke eine Flotte Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi & Inazuma zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	"277": {
+    "277": {
         "name": "Die 6. Zerstörer-Division auf gründlicher Anti-U-Boot Patrouille!",
         "desc": "Schicke eine Flotte mit Akatsuki Kai-2 , Hibiki/Верный, Ikazuchi & Inazuma zu Welt [W1-5] und erziele mindestens einen A-Rang bei der Bossgegner-Flotte."
     },
-	"278": {
+    "278": {
         "name": "Sende das erste Torpedobootgeschwader zu Operation Ke-Go",
         "desc": "Schicke eine Flotte mit Abukuma als Flagschiff zusammen mit Hibiki/Верный, Hatsushimo, Wakaba, Samidare and Shimakaze zu Welt [W3-2] und erziele mindestens einen B-Rang bei der Bossgegner-Flotte."
     },
-	"279": {
+    "279": {
         "name": "Sende das erste Torpedobootgeschwader erneut für Operation Ke-Go in die nördlichen Gewässer!",
         "desc": "Schicke eine Flotte mit Abukuma Kai-2 als Flaggschiff zusammen with Hibiki/Берный, Yuugumo, Naganami, Akigumo und Shimakaze zu Welt [W3-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	"285": {
+    "285": {
         "name": "Flugzeugträger-Einsatzgruppe, stoße in die nördlichen Gewässer vor!",
         "desc": "Schicke eine Flotte mit einem Flugzeugträger als Flaggschiff zu Welt [W3-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	"286": {
+    "286": {
         "name": "Verstärke die Anti-U-Boot Patrouille vor der Marinebasis!",
         "desc": "Schicke eine Flotte zu Welt [W1-5] und erziele viermal mindestends einen A-Rang bei der Bossgegner-Flotte."
     },
@@ -498,32 +541,254 @@
         "name": "Sende die 16. Kreuzer-Division (erste Generation) aus!",
         "desc": "Schicke eine Flotte mit Ashigara als Flaggschiff zusammen mit Kuma, Nagara and bis zu drei weiteren Schiffen zu Welt [W2-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	"293": {
+    "293": {
 		"code": "B53",
-        "name": "3rd Carrier Division: Verteidigie die Nansei Inseln",
+        "name": "Dritte Flugzeugträgerdivision; Verteidige die Nansei Inseln",
         "desc": "Sende eine Flotte mit Zuikaku Kai als Flaggschiff, Zuihou, Chitose and Chiyoda (CVL) und zwei weiteren Schiffen zu 1-4 und erreiche einen S-Rank bei dem Boss"
     },
-	"294": {
+    "294": {
 		"code": "B54",
         "name": "Sende Ozawas flotte aus",
-        "desc": "Sende eine Flotte mit Zuikaku Kei als Flaggschif, Zuihou Kai, Chitose und Chiyoda (beide CLV), Ise Kai und Hyuuga zu Welt 2-4 und erreihe einen S-Rank beim boss"
+        "desc": "Sende eine Flotte mit Zuikaku Kei als Flaggschif, Zuihou Kai, Chitose und Chiyoda (beide CLV), Ise Kai und Hyuuga zu Welt 2-4 und erreiche einen S-Rank beim boss"
     },
-	"295": {
+    "295": {
 		"code": "B55",
         "name": "Sende das 16. Geschwader (Zweite Generation) aus",
         "desc": "Sende Natori als Flaggschif mit Isuzu, Kinu und bis zu 3 weiteren Schiffen zu Welt 2-3 und erreiche einen S-Rank bei dem Boss"
     },
-	"296": {
+    "296": {
 		"code": "B56",
         "name": "Sende neue Flugzeugträger-Flotte in den Norden",
         "desc": "Sende eine Flotte mit 2 CV, 2 BBV/CAV und 2 DD zu Welt 3-3 und erreiche einen S-Rank bei dem Boss"
     },
-	"297": {
+    "297": {
 		"code": "B57",
         "name": "Operation Rei-Gou!",
         "desc": "Sende eine Flotte mit Kasumi als Flaggschiff, Ashigara  Ooyodo, Asashimo, Kiyoshimo und einem weiterem Schiff zu Welt 2-5 und Erreiche einen S-Rank bei dem Boss"
     },
-	
+    "805": {
+        "code": "B58",
+        "name": "Sende das Flaggschiff Kasumi zur Patrouille in die nördliche See!",
+        "desc": "Sende Kasumi Kai Ni als Flaggschiff, 3 DD und bis zu 2 weitere Schiffe zu Welt 3-1. Erreiche mindestens einen B-Rank bei dem Boss",
+        "memo": "\u27a3Belohnung ist ein Typ 13 Luftabwehr-Radar Kai",
+        "unlock": [ 806 ]
+    },
+    "806": {
+        "code": "B59",
+        "name": "Flaggschiff Kasumi, Aufbruch! Vernichte die gegnerische Flotte!",
+        "desc": "Sende Kasumi Kai Ni als Flaggschiff, 2 DD und bis zu 3 weitere Schiffe zu [W2-5]. Erreiche einen S-Rank bei dem Boss.",
+        "memo": "\u27a3Belohnung sind 3 Schrauben und eine 25mm Drillingsmaschinenkanone (Geschützgruppe)",
+        "unlock": [ 813 ]
+    },
+    "807": {
+        "code": "B60",
+        "name": "Sende die 31. Kreuzerdivision aus!",
+        "desc": "Sende Isuzu Kai Ni als Flaggschiff, Satsuki Kai Ni, Uzuki Kai und bis zu 3 weitere Schiffe zu [W1-6]. Erreiche Punkt N.",
+        "memo": "\u27a3Belohnung sind 3 Schrauben und ein Hishimochi"
+    },
+    "808": {
+        "code": "B61",
+        "name": "Sende die 27. Zerstörerdivision aus!",
+        "desc": "Sende Shiratsuyu Kai als Flaggschiff, Shigure, Harusame, Samidare und bis zu 2 weitere Schiffe zu [W2-3]. Erreiche einen S-Rank bei dem Boss.",
+        "memo": "\u27a3Belohnung ist ein Möbelstück"
+    },
+    "809": {
+        "code": "B62",
+        "name": "Erhöhe die Stärke von Landungstruppen Operationen!",
+        "desc": "Sende eine Flotte zu [W6-3]. Erreiche mindestens einen B-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind 3 Schrauben und ein Daihatsu-Landungsboot"
+    },
+    "810": {
+        "code": "B63",
+        "name": "Verteidige das Raffineriegebiet!",
+        "desc": "Sende einen CL und 5 DD zu [W1-3]. Erreiche dreimal einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist eine Medaille",
+        "unlock": [ 811 ]
+    },
+    "811": {
+        "code": "B64",
+        "name": "Verstärke die Verteidigungslinie der Nansei-Inseln!",
+        "desc": "Sende eine Flotte zu [W1-4]. Erreiche fünfmal einen S-Rank beim Boss.",
+        "unlock": [ 812 ]
+    },
+    "812": {
+        "code": "B65",
+        "name": "Sichere die Kontrolle der Orel See!",
+        "desc": "Sende eine Flotte mit Ooshio als Flaggschiff zu [W2-3]. Erreiche sechsmal einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist eine Medaille",
+        "unlock": [ 813 ]
+    },
+    "813": {
+        "code": "B66",
+        "name": "Entsende das Flaggschiff Ooshio!",
+        "desc": "Sende Ooshio Kai Ni als Flaggschiff zu [W3-5]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist 1 Schraube"
+    },
+    "814": {
+        "code": "B68",
+        "name": "Hochgeschwindigkeitstransport-Durchführungseinheit, Aufbruch!",
+        "desc": "Sende Sendai Kai Ni, Kawakaze Kai Ni, Shigure Kai Ni, 2 DD und bis zu 1 weiteres Schiff zu [W4-1]. Erreiche mindestens einen A-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind zwei Schrauben",
+        "unlock": [ 815 ]
+    },
+    "815": {
+        "code": "B69",
+        "name": "Sende die erste Flugzeugträgerdivision in den Westen!",
+        "desc": "Sende Akagi als Flaggschiff, Kaga und bis zu 4 weitere Schiffe zu [W4-5]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind 3 Schrauben und ein Erfahrenes Crew-Mitglied"
+    },
+    "816": {
+        "code": "B67",
+        "name": "Der dritte Geburtstag der Flotte!",
+        "desc": "Sende eine Flotte zu [W2-2] und [W2-3]. Erreiche einen S-Rank beim Boss in beiden Welten.",
+        "memo": "\u27a3Belohnung ist ein Möbelstück"
+    },
+    "817": {
+        "code": "B70",
+        "name": "Neue Flotte, eile zur Verteidigungslinie der Nansei-Inseln!",
+        "desc": "Sende einen CL/CLT/CT als Flaggschiff, 4 DD, und bis zu 1 weiteres Schiff zu [W1-4]. Erreiche mindestens einen A-Rank beim Boss.",
+        "unlock": [ 818 ]
+    },
+    "818": {
+        "code": "B71",
+        "name": "Verfestige und erhalte die Sicherheit der lokalen Routen der Basis!",
+        "desc": "Sende einen CL als Flaggschiff, 4 DD und bis zu 1 weiteres Schiff zu [W1-6]. Erreiche Punkt N.",
+        "memo": "\u27a3Belohnung ist eine Möbelfee"
+    },
+    "819": {
+        "code": "B72",
+        "name": "Unterdrückung der U-Boote durch die 31. Kreuzerdivision!",
+        "desc": "Sende Isuzu Kai Ni als Flaggschiff, Satsuki Kai Ni, Uzuki Kai und 3 weitere Schiffe zu [W1-6]. Erreiche zweimal Punkt N.",
+        "memo": "\u27a3Belohnung sind 2 Schrauben und ein Typ 3 Sonar"
+    },
+    "820": {
+        "code": "B73",
+        "name": "Entsende die 8. Zerstörerdivision!",
+        "desc": "Sende Asashio Kai Ni/ D als Flaggschiff, Michishio, Ooshio, Arashio und 2 weitere Schiffe zu [W1-6]. Erreiche Punkt N.",
+        "memo": "\u27a3Belohnung sind ein Suchscheinwerfer und ein Daihatsu-Landungsboot"
+    },
+    "821": {
+        "code": "B74",
+        "name": "Die elitäre 8. Zerstörerdivision auf U-Boot-Patrouille!",
+        "desc": "Sende eine Flotte die Asashio Kai Ni D und Ooshio Kai Ni beinhaltet zu [W1-5]. Erreiche zweimal einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind 4 Schrauben und ein Typ 4 Passives Sonar"
+    },
+    "823": {
+        "code": "B75",
+        "name": "Torpedogeschwader, halte die südwestliche Verteidigungslinie!",
+        "desc": "Sende einen CL/CLT/CT als Flaggschiff, 4 DD und 1 weiteres Schiff zu [W1-4]. Erreiche zweimal mindestens einen A-Rank beim Boss."
+    },
+    "824": {
+        "code": "B76",
+        "name": "Führe die Patrouille des Küstenraffinerieareals aus!",
+        "desc": "Sende einen CVL als Flaggschiff, 3 DD und 2 weitere Schiffe zu [W1-3]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist eine Möbelfee"
+    },
+    "825": {
+        "code": "B77",
+        "name": "Torpedogeschwader, patrouilliere in der Region der Nansei-Inseln!",
+        "desc": "Sende einen CL/CLT/CT als Flaggschiff, 4 DD und 1 weiteres Schiff zu [W2-2] und [W2-3]. Erreiche einen S-Rank beim Boss in beiden Welten.",
+        "memo": "\u27a3Belohnung ist eine Möbelfee",
+        "unlock": [ 642 ]
+    },
+    "826": {
+        "code": "B78",
+        "name": "Entsende die 19. Zerstörerdivision!",
+        "desc": "Sende Isonami, Uranami, Ayanami und Shikinami zu [W1-5]. Erreiche mindestens einen A-Rank beim Boss."
+    },
+    "827": {
+        "code": "B79",
+        "name": "Die 19. Zerstörerdivision eilt zum Angriff auf die gegnerische Hauptstreitmacht!",
+        "desc": "Sende Isonami, Uranami, Ayanami, Shikinami und bis zu 2 weitere Schiffe zu [W2-5]. Erreiche mindestens einen A-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind 4 Schrauben und einmal Seeversorgung"
+    },
+    "828": {
+        "code": "B80",
+        "name": "Führe die Vorbereitung zur Konstruktion des Flugplatzes durch!",
+        "desc": "Sende eine Flotte zu [W6-3]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Konstruktionsbataillon"
+    },
+    "829": {
+        "code": "B81",
+        "name": "Eile in die Nacht! Greife die gegnerische Landungstruppe an!",
+        "desc": "Sende eine Flotte zu [W5-3]. Erreiche mindestens einen A-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Konstruktionsbataillon"
+    },
+    "830": {
+        "code": "B82",
+        "name": "Erwerbe das Licht welches die nächtliche See erhellt!",
+        "desc": "Sende eine Flotte zu [W2-1]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Suchscheinwerfer"
+    },
+    "834": {
+        "code": "B83",
+        "name": "Verstärke die Verteidigungslinie bei den Nansei-Inseln!",
+        "desc": "Sende einen AV oder CAV als Flaggschiff zu [W1-4]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist eine Möbelfee"
+    },
+    "835": {
+        "code": "B84",
+        "name": "Entsende die 16. Kreuzerdivision (Dritte Generation)!",
+        "desc": "Sende Kinu, Aoba, Kitakami, Ooi und bis zu 2 weitere Schiffe zu [W2-4]. Erreiche mindestens einen A-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Möbelstück",
+        "unlock": [ 179 ]
+    },
+    "836": {
+        "code": "B85",
+        "name": "Breche durch mit der elitären 16. Kreuzerdivision!",
+        "desc": "Sende Kinu Kai Ni als Flaggschiff mit fünf Eskorten aus Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai und Shikinami Kai zu [W2-5]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Toku Daihatsu-Landungsboot",
+        "unlock": [ 837 ]
+    },
+    "837": {
+        "code": "B86",
+        "name": "Habe Erfolg in der Transport Operation und kehre zurück!",
+        "desc": "Sende Kinu Kai Ni als Flaggschiff, Uranami Kai, 3 DD und ein weiteres Schiff - welches kein DD ist - zu [W2-2]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung sind 5 Schrauben und einmal Seeversorgung"
+    },
+    "838": {
+        "code": "B87",
+        "name": "Schwere Kreuzerdivision, setzt Segel!",
+        "desc": "Sende einen CA(V) als Flaggschiff, 3 weitere CA(V) und bis zu 2 weitere Schiffe zu [W2-3]. Erreiche einen S-Rank beim Boss.",
+        "memo": "\u27a3Belohnung ist ein Möbelstück"
+    },
+    "839": {
+        "code": "B88",
+        "name": "Entsende die Schlachtschiffdivision!",
+        "desc": "Sende ein (F)BB(V) als Flaggschiff, einen weiteren (F)BB(V) und bis zu 4 weitere Schiffe zu [W3-3]. Erreiche einen S-Rank beim Boss. Du wirst eine Belohnung wählen müssen. Schalte die Überlagerung mit F10 aus.",
+        "memo": "\u27a3Belohnung sind 2 Schrauben und entweder ein Typ 2 Wasserflugzeug-Kämpfer Kai ODER eine PBY-5A Catalina"
+    },
+    "840": {
+        "code": "SB15",
+        "name": "Spezielle Winter Mission: elitäre Zerstörerdivision, Aufbruch!",
+        "desc": "Sende NUR 4 DD zu [W1-1] und [W1-2]. Erreiche einen S-Rank beim Boss in beiden Welten. Du wirst eine Belohnung wählen müssen. Schalte die Überlagerung mit F10 aus.",
+        "memo": "\u27a3Belohnung sind eine Möbelfee und entweder eine 25mm Drillingsmaschinenkanone (Geschützgruppe) ODER ein Torpedowulst (Groß)",
+        "unlock": [ 841 ]
+    },
+    "841": {
+        "code": "SB16",
+        "name": "Spezielle Winter Mission: Flugzeugmutterschiff, setze Segel!",
+        "desc": "Sende ein AV als Flaggschiff, 3 DD und bis zu 2 weitere Schiffe zu [W1-3] und [W1-4]. Erziele einen S-Rank beim Boss in beiden Welten.",
+        "memo": "\u27a3Belohnung sind ein Möbelstück und eine Verstärkungsexpansion"
+    },
+    "842": {
+        "code": "B89",
+        "name": "Hauptschlachtschiffdivision, setzt Segel!",
+        "desc": "Sende 2 BB(V) und bis zu 4 weitere Schiffe zu [W2-4]. Erziele einen S-Rank beim Boss. Du wirst eine Belohnung wählen müssen. Schalte die Überlagerung mit F10 aus.",
+        "memo": "\u27a3Belohnung ist endweder eine verbesserte Kanhon-Turbine ODER ein verstärkter Kanhon-Dampfkessel"
+    },
+	"843": {
+        "code": "SB21",
+        "name": "Setsubun Spezialeinsatz: Erhalte die Kontrolle über die See!",
+        "desc": "Sende 2 DD und 2 weitere Schiffe zu [W1-1], [W1-2], [W2-3]. Erreiche einen S-Rank bei jedem Boss.",
+        "memo": "\u27a3Belohnung sind ein Tisch und einmal Irako"
+    },
+    "844": {
+        "code": "B90",
+        "name": "Breche durch mit der eliätren 8. Zerstörerdivision!",
+        "desc": "Sende Arashio Kai Ni als Flaggschiff mit entweder Asashio, Ooshio, oder Michishio sowie 4 weiteren Schiffen zu [W5-5]. Erreiche zweimal mindestens einen A-Rank.",
+        "memo": "\u27a3Belohnung sind 4 Schrauben und eine Verstärkungsexpansion"
+    },
 	
 	
 	"201": {
@@ -693,7 +958,15 @@
         "name": "Sende ein Gegenangriffsgeschwader aus!",
         "desc": "Schicke eine Flotte mit einem Zerstörer als Flaggschiff, einem schweren Kreuzer (kein Flugdeckkreuzer), einem leichten Kreuzer und drei weiteren Zerstörern zu Welt [W2-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
     },
-	
+
+    
+    "822": {
+        "code": "Bq1",
+        "name": "Vierteljährliches [W2-4]",
+        "desc": "Sende eine Flotte zu [W2-4]. Erziele zweimal einen S-Rank beim Boss.",
+        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Belohnung sind 5 Schrauben"
+    },    
+    	
 	
 	
 	
@@ -743,7 +1016,25 @@
         "desc": "Gewinne innerhalb eines Tages gegen sieben Spieler.",
 		"tracking": [ [0,7] ]
     },
-	
+    "312": {
+        "code": "C9",
+        "name": "Landungskraftübungen",
+        "desc": "Gewinne innerhalb eines Tages gegen vier Spieler.",
+        "tracking": [ [0,4] ],
+        "unlock": [ 636 ]
+    },
+    "313": {
+        "code": "C10",
+        "name": "Großübung im Herbst",
+        "desc": "Gewinne innerhalb eines Tages gegen acht Spieler.",
+        "memo": "\u27a3Belohnung ist eine Geschenkbox"
+    },
+    "314": {
+        "code": "C11",
+        "name": "Großübung im Winter",
+        "desc": "Gewinne innerhalb eines Tages gegen acht Spieler."
+    },
+    
 	
 	
 	
@@ -768,7 +1059,7 @@
     "404": {
 		"code": "D4",
         "name": "Groß angelegte Expeditionen",
-        "desc": "Führe innerhalb einer Woche 20 Expedition erfolgreich durch.",
+        "desc": "Führe innerhalb einer Woche 30 Expedition erfolgreich durch.",
 		"tracking": [ [0,30] ]
     },
     "405": {
@@ -844,11 +1135,23 @@
         "name": "Führe die Flottenparade auf!",
         "desc": "Schließe Expedition 8 erfolgreich ab."
     },
-	"420": {
+    "420": {
         "code": "D19",
         "name": "Verstärke den Einsatz von Einsatzgruppen!",
         "desc": "Schließe die Expeditionen 26 und 35 erfolgreich ab."
     },
+    "422": {
+        "code": "D20",
+        "name": "U-Boot Versandbetrieb zum Erwerb von Flugzeugtechnologie",
+        "desc": "Schließe die Expeditionen 30 und 31 erfolgreich ab.",
+        "memo": "\u27a3Belohnung ist ein Entwurf eines neuen Flugzeugmodells"
+    },
+    "423": {
+        "code": "D21",
+        "name": "U-Boot Versandbetrieb zum Erwerb der Düsentriebwerkstechnologie",
+        "desc": "Habe 5000 Stahl und 1500 Bauxit. Schließe die Expeditionen 30 und 31 erfolgreich ab.",
+        "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnung ist ein Ne-Typ Triebwerk"
+    },    
 	
 	
 	
@@ -1041,9 +1344,132 @@
         "code": "F30",
         "name": "Modell-Konvertierung und Neuorganisation (--> Typ Null Typ 52A Iwamoto-Jagdflugzeug)",
         "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52A Iwamoto-Jagdflugzeug aus und verschrotte zwei Saiun"
+   },
+    "634": {
+        "code": "F31",
+        "name": "Vorbereitung auf neue Möbel",
+        "desc": "Verschrotte 9 Ausrüstungsgegenstände.",
+        "memo": "\u27a3Belohnung ist eine Möbelfee",
+        "unlock": [ 811 ]
     },
-	
-    
+    "635": {
+        "code": "F32",
+        "name": "Vorbereitung auf neue Ausrüstung",
+        "desc": "Verschrotte 5 Ausrüstungsgegenstände.",
+        "tracking": [ [0,5] ],
+        "unlock": [ 312 ]
+    },
+    "636": {
+        "code": "F33",
+        "name": "Neue Gerätebeschaffung für den Landungsbetrieb",
+        "desc": "Verschrotte zwei 7.7mm Maschinengewehre und zwei 12.7mm Maschinengewehre.",
+        "memo": "\u27a3Belohnung ist ein spezielles Typ 2 Amphibien-Landungsfahrzeug",
+        "unlock": [ 815 ]
+    },
+    "638": {
+        "code": "F34",
+        "name": "Wöchentliches Verschrotten von Maschinengewehren/kanonen",
+        "desc": "Verschrotte 6 Maschinengewehre/-kanonen. Steilfeuergeschütze zählen nicht.",
+        "memo": "\u203bMassenproduktion von Anti-Luft Maschinengeschützen\n\u27a3Belohnung ist eine Schraube",
+        "tracking": [ [0,6] ]
+    },
+    "637": {
+        "code": "F35",
+        "name": "Vierteljährliches Training von erfahrenen Crewmitgliedern",
+        "desc": "Habe 2 Medaillen. Setze Houshou als Flaggschiff. Rüste sie mit einem \u2605max Typ 96 Jagdflugzeug aus.",
+        "memo": "\u2718Verbraucht 2 Medaillen und die Ausrüstung. Stelle sicher, dass das Flugzeug entriegelt ist!\n\u27a3Belohnung sind 4 Schrauben und ein erfahrenes Crewmitglied"
+	},
+	"639": {
+        "code": "F36",
+        "name": "Entwicklung einer neuen Torpedorüstung",
+        "desc": "Habe 2 Medaillen. Setze Shimakaze als Flaggschiff. Rüste sie mit einem \u2605max 61cm (Sauerstoff) Fünflingstorpedo und einem \u2605max 61cm (Sauerstoff) Drillingstorpedo aus.",
+        "memo": "\u2718Verbraucht 2 Medaillen und die Ausrüstung. Stelle sicher, dass die Torpedos entriegelt sind!\n\u27a3Belohnung sind 6 Schrauben und ein 61cm (Sauerstoff) Prototyp Sechslingstorpedo"
+    },
+    "640": {
+        "code": "SF",
+        "name": "(Begrenzte Zeit) Frühe Reinigung im Sommer",
+        "desc": "Verschrotte 5 Ausrüstungsgegenstände."
+    },
+    "641": {
+        "code": "F37",
+        "name": "Fortgeschrittene Vorbereitung zur Errichtung eines Flugplatzes",
+        "desc": "Habe zwei Typ 96 Jagdflugzeuge und zwei 7.7mm Maschinengeschütze in deinem Inventar. Verschrotte zwei Metallfässer (zum Transport).",
+        "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Typ 96 landbasiertes Angriffsflugzeug",
+        "unlock": [ 642 ]
+    },
+    "642": {
+        "code": "F38",
+        "name": "Erweiterung des Angriffsflugzeuggeschwaders",
+        "desc": "Habe zwei Typ 99 Sturzbomber und zwei 7.7mm Maschinengeschütze in deinem Inventar.",
+        "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Typ 96 landbasiertes Angriffsflugzeug",
+        "unlock": [ 643 ]
+    },
+    "643": {
+        "code": "F39",
+        "name": "Vierteljährliches Typ 1 landbasiertes Angriffsflugzeug",
+        "desc": "Habe ein Typ 96 land-basiertes Angriffsflugzeug und zwei Typ 97 Torpedobomber in deinem Inventar. Verschrotte zwei Typ 0 Jagdflugzeug Model 21.",
+        "memo": "\u203bBeschaffung des Hauptanflugflugzeugs\n\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Typ 1 landbasiertes Angriffsflugzeug"
+    },
+    "644": {
+        "code": "F40",
+        "name": "Beschaffung für ein verbessertes Typ 1 landbasiertes Angriffsflugzeug",
+        "desc": "Habe ein Typ 1 landbasiertes Angriffsflugzeug und zwei Tenzans in deinem Inventar.",
+        "memo": "\u203bBeschaffung für ein verbessertes Leistungsmodell des Typ 1 landbasierten Angriffsflugzeugs\n\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Typ 1 landbasiertes Angriffsflugzeug Modell 22A"
+    },
+    "645": {
+        "code": "F41",
+        "name": "Monatliche Seeversorgung",
+        "desc": "Habe 750 Öl, 750 Munition, zwei Metallfässer (zum Transport) und eine Typ 91 panzerbrechende Granate in deinem Inventar. Verschrotte eine Typ 3 Granate.",
+        "memo": "\u203bMaterialbeschaffung für Seeversorgung\n\u2718Verbraucht die Ausrüstung und die Ressourcen. Stelle sicher, dass die Ausrüstung entriegelt ist!\n\u27a3Belohnung ist einmal Seeversorgung"
+    },
+    "646": {
+        "code": "F42",
+        "name": "Beschaffung für sonderangefertigte Möbel",
+        "desc": "Habe 5000 Möbelmünzen, zwei 25mm Zwillingsmaschinenkanonen und zwei 25mm Drillingsmaschinenkanonen in deinem Inventar. Verschrotte eine 25mm Maschinenkanone.",
+        "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
+    },
+    "647": {
+        "code": "F43",
+        "name": "Setze ein Luftbasisgeschwader in der Chubu Region ein!",
+        "desc": "Habe 1200 Öl, 3000 Bauxit und ein Konstruktionsbataillon in deinem Inventar. Verschrotte zwei Metallfässer (zum Transport).",
+        "memo": "\u2718Verbraucht das Item und die Ressourcen.\n\u27a3Aktiviert eine Landbasis für Luftangriffe in [W6]"
+    },
+    "648": {
+        "code": "F44",
+        "name": "Beschaffung für sonderangefertigte Möbel",
+        "desc": "Habe 5000 Möbelmünzen, zwei 14cm Geschütze und zwei 15.2cm Geschütze in deinem Inventar. Verschrotte zwei 12.7cm Steilfeuer-Zwillingsgeschütze.",
+        "memo": "\u2718Verbraucht die Ausrüstung und Münzen. Stelle sicher, dass die Ausrüstung entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
+    },
+    "649": {
+        "code": "F45",
+        "name": "Entwicklung eines neuen Achsen-Aufklärungsflugzeugs",
+        "desc": "Habe ein Typ 1 landbasiertes Angriffsflugzeug und zwei Saiun. Verschrotte zwei Typ 0 Aufklärungswasserflugzeuge.",
+        "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Prototyp Keiun (trägerbasiertes Aufklärungsmodell)"
+    },
+    "650": {
+        "code": "F46",
+        "name": "Entwicklung eines Jet-Kampfbombers",
+        "desc": "Habe zwei Entwürfe eines neuen Flugzeugmodells und ein Ne-Typ Triebwerk. Verschrotte drei Shiden Kai 2.",
+        "memo": "\u2718Verbraucht die Items.\n\u27a3Belohnung ist ein Kikka Kai"
+    },
+    "651": {
+        "code": "F47",
+        "name": "Verbesserte Produktion eines Ne-Typ Triebwerks",
+        "desc": "Habe 8000 Stahl, zwei Ryuusei und zwei Reppuu. Verschrotte drei Typ 0 Jagdflugzeug Modell 52.",
+        "memo": "\u2718Verbraucht die Ressourcen und die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist ein Ne-Typ Triebwerk"
+    },
+    "652": {
+        "code": "F48",
+        "name": "Beschaffung für sonderangefertigte Möbel",
+        "desc": "Habe 5000 Möbelmünzen, zwei 7.7mm Maschinengeschütze und zwei Typ 96 Jagdflugzeuge in deinem Inventar. Verschrotte zwei 12.7cm Zwillingsgeschütze.",
+        "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher, dass diese entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
+    },
+     "653": {
+        "code": "",
+        "name": "Spezielle Setsubun Mission: Vorbereitung auf Setsubun!",
+        "desc": "Habe 5000 Möbelmünzen, zwei 12cm Geschütze und zwei Typ 0 Aufklärungswasserflugzeuge in deinem Inventar. Verschrotte zwei 20.3cm Zwillingsgeschütze.",
+        "memo": "\u2718Verbraucht die Items und Ausrüstung. Stelle sicher, dass die Ausrüstung entriegelt ist!\n\u27a3Belohnung ist eine Möbelfee"
+    },
 	
 	
     "701": {
@@ -1053,14 +1479,14 @@
     },
     "702": {
 		"code": "G2",
-        "name": "Daily Modernization",
+        "name": "Tägliche Modernisierung",
         "desc": "Führe innerhalb eines Tages zwei erfolgreiche Modernisierungen durch.",
 		"unlock": [ 703 ],
 		"tracking": [ [0,2] ]
     },
     "703": {
 		"code": "G3",
-        "name": "Weekly Modernization",
+        "name": "Wöchentliche Modernisierung",
         "desc": "Führe innerhalb einer Woche 15 erfolgreiche Modernisierungen durch.",
 		"tracking": [ [0,15] ]
     },
@@ -1069,10 +1495,14 @@
         "name": "Vorbereitung für den großen Schiffbau (Teil 1)",
         "desc": "Führe vier erfolgreiche Modernisierungen durch."
     },
+   "705": {
+        "code": "G5",
+        "name": "Modernisierung der Flugzeugträgerausstattung",
+        "desc": "Habe 5500 Stahl und 2500 Bauxit. Modernisiere einen CV zweimal mit 5 CV(L).",
+        "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnung ist ein Entwurf eines neuen Flugzeugmodells"
+    },
 	
-	
-	
-	
+
 	
 	"611": {
         "name": "Im Namen der Liebe! (Teil 1)",

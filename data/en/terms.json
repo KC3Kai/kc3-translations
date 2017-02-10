@@ -302,9 +302,11 @@
 	"SettingsCustom" : "Custom",
 	"SettingsCustomSound" : "Custom Sound URL",
 	"SettingsDesktopNotif" : "Desktop Notification",
-	"SettingsIdleWarning" : "Idle Timer",
+	"SettingsIdleWarning" : "Idle Timer (Old)",
 	"SettingsHideCounter" : "Hide Counter",
 	"SettingsShowCounter" : "Show Counter",
+	"SettingsIdleWarnStartAt" : "Idle Screen after",
+	"SettingsIdleWarnDesc" : "Time before idle screen shows, in milliseconds",
 	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	"SettingsScreenBlur" : "Screen Blur",

@@ -273,6 +273,7 @@
 	"SettingsAAFCombAntiSub"  : "กองเรือผสม (ต่อต้านเรือดำน้ำ)",
 	"SettingsAAFCombDiamond"  : "กองเรือผสม (ล้อมวง)",
 	"SettingsImaginaryEnemySlot" : "ช่องเครื่องบินศัตรู",
+	"SettingsSpecialCounterAdjust" : "จัดการตัวนับเควส",
 	
 	"SettingsScreenshot" : "การถ่ายภาพหน้าจอเกม",
 	"SettingsSSOutput" : "รูปแบบที่ใช้งาน",
@@ -299,9 +300,11 @@
 	"SettingsCustom" : "กำหนดเอง",
 	"SettingsCustomSound" : "กำหนดเสียงเอง (URL)",
 	"SettingsDesktopNotif" : "แจ้งเตือนที่เดสก์ทอป",
-	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
+	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน (ของเก่า)",
 	"SettingsHideCounter" : "ซ่อนการจับเวลา",
 	"SettingsShowCounter" : "โชว์การจับเวลา",
+	"SettingsIdleWarnStartAt" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
+	"SettingsIdleWarnDesc" : "ถ้าทิ้งไว้นานกี่วินาทีถึงจะแจ้งเตือน, 0 คือปิดการใช้งาน",
 	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
 	"SettingsScreenBlur" : "เบลอหน้าจอ",

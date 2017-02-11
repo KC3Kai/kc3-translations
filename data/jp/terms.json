@@ -296,8 +296,8 @@
 	"SettingsIdleWarning"    : "放置時間カウンター(旧)",
 	"SettingsHideCounter"    : "非表示",
 	"SettingsShowCounter"    : "表示",
-	"SettingsIdleWarnStartAt": "放置画面何ミリ秒後開始",
-	"SettingsIdleWarnDesc"   : "放置画面を何ミリ秒の後から表示する。1000以下にすると秒になる。",
+	"SettingsIdleWarnStartAt": "放置画面何秒後開始",
+	"SettingsIdleWarnDesc"   : "何秒の後から放置画面を表示する。0にすると無効になる。",
 
 	"SettingsTaihaAlert"          : "大破警告エフェクト",
 	"SettingsScreenBlur"          : "画面ぼかし",

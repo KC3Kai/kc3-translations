@@ -249,6 +249,7 @@
   "SettingsFleetStatus": "함대 현황 개요",
   "SettingsAutoExpedTab": "원정 탭 자동 열기",
   "SettingsAutoSwitchFleetView": "전황판 함대 자동 변경",
+	"SettingsPvPInfoActivity" : "연습 상대 정보",
   "SettingsEnglishShipType": "영자 약어 활용",
   "SettingsShipNamesLang": "칸무스 이름 표시 언어",
   "SettingsShipNamesGlobal": "기본 설정과 동일",
@@ -309,8 +310,9 @@
 	"SettingsScreenBlood" : "대파시 게임 화면에 혈흔",
 	"SettingsAppearOnScreenshots" : "스크린샷에 대파 경고 표시",
 	"SettingsHeartbeatSound" : "경고 심장음",
-	"SettingsDisplayOnPvP" : "연습에서도 표시",
 	"SettingsRedShadeOnPanel" : "대파시 패널에 적색 점멸",
+	"SettingsDisableHomePort" : "모항에 있을 시 무효화",
+	"SettingsDisableHasDamecon" : "다메콘 장착 칸무스 무시",
 
   "SettingsAPIGameScreen": "API 게임 화면",
   "SettingsQuestOverlay": "퀘스트 번역",
@@ -481,7 +483,8 @@
 	"BattleAirDefendYes" : "요격기: {0}",
 	"BattleAirDefendNo"  : "요격기 없음",
 	"BattleAirBaseLoss"  : "손실",
-	
+  "BattleAirBaseLossTip": "공습으로 인한 손실 - 내구도: {0}\n보크사이트/연료: {1}",
+  	
   "ShipHp": "체력",
   "ShipFire": "화력",
   "ShipTorpedo": "뇌장",
@@ -502,7 +505,8 @@
   "ShipAAFixedShotdown": "고정 격추 수: {0}",
   "ShipAACIMaxBonus": "최대 대공컷인 보너스: {0}",
 	"ShipAAImgEnemySlot": "가상 적 공/폭격기 슬롯: {0}",
-  "ShipAAShotdownPred": "격침수 (상호/비율/고정/실패):\n{0}",
+  "ShipAAShotdownPred": "격추수 (상호/비율/고정/실패):\n{0}",
+  "ShipAAShotdownTitles": "상호/비율/고정/실패 시 대공",
 
   "PredictionStampSortie": "굉침",
   "PredictionStampPvP": "제압됨",
@@ -627,6 +631,14 @@
 	"FitWeight_1": "피트 보정 소",
 	"FitWeight_2": "피트 보정 중",
 	"FitWeight_3": "피트 보정 대",
+	
+	"PvpListTitle" : "연습 상대",
+	"PvpListCreateType0" : "연습함대 제1군",
+	"PvpListCreateType1" : "연습함대 제2군",
+	"PvpListCreateType2" : "전체 (구식)",
+	"PvpBaseExp"         : "기본 EXP",
+	"PvpDispBaseExpWoCT" : "연순 없을 시 S승리",
+	"PvpFormationPred"   : "진형",
 	
   "DesktopNotifyExpedCompleteTitle": "원정 완료!",
   "DesktopNotifyExpedCompleteMessage": "제{0}함대가 원정 #{1}로부터 귀환했습니다.",

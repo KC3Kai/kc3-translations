@@ -1063,6 +1063,12 @@
         "desc": "Sortie Arashio Kai Ni as flagship, one of Asashio, Ooshio, or Michishio, and 4 additional ships to [W5-5]. A-Rank+ the boss node 2 times.",
         "memo": "\u27a3Rewards 4 Screws and a Reinforcement Expansion"
     },
+    "845": {
+        "code": "",
+        "name": "Sever the Rear Supply Line of the Enemy's Large-Scale Anchorage!",
+        "desc": "Sortie a Surface Task Force to [E3]. A-Rank+ node J twice.",
+        "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
+    },
     
     "201": {
         "code": "Bd1",
@@ -1848,13 +1854,13 @@
     "654": {
         "code": "",
         "name": "Saiun Procurement and Dismantlement for Transport",
-        "desc": "Have 10 Development Materials and one Type 97 Torpedo Bomber. Scrap one Type 0 Reconnaissance Seaplane. \u2623DO NOT CHANGE DIFFICULTIES\u2623",
+        "desc": "Have 10 Development Materials and one Type 97 Torpedo Bomber. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
     "655": {
         "code": "",
         "name": "Saiun Dismantlement for Transport",
-        "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623DO NOT CHANGE DIFFICULTIES AFTERWARDS\u2623",
+        "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
     
@@ -1882,6 +1888,12 @@
         "code": "G4",
         "name": "Preparation for Large Ship Construction! (Part 1)",
         "desc": "Complete 4 successful modernizations."
+    },
+    "631": {
+        "code": "",
+        "name": "Sever the Rear Line of Logistics of the Enemy's Large-Scale Anchorage!",
+        "desc": "Sortie a Surface Task Force to [E3]. A-Rank+ node J twice.",
+        "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
     },
     "705": {
         "code": "G5",

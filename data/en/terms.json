@@ -44,9 +44,8 @@
 	"MenuRefreshAPIName" : "Refresh API Link",
 	"MenuRefreshAPIDesc" : "Opens the DMM play page where we'll auto-extract your new API link",
 	
-	"MenuSpecialDMMName" : "Special DMM Mode",
-	"MenuSpecialDMMDesc" : "Direct DMM website, with various KC3 customizations like background images",
-	
+	"MenuKancolleName" : "Play Kantai Collection",
+	"MenuKancolleDesc" : "Opens the KC3改 tab where you can customize the DMM game page",
 	
 	
 	"MenuCookiesName" : "Activate Cookies",
@@ -81,12 +80,20 @@
 	"GameHotkeyType": "Get 20 seconds of keyboard typing time",
 	"GameHotkeyScreenshot": "Take screenshot",
 	"GameHotkeyClear": "Clear current overlays",
+	"GameCustomizeWeb": "Customize DMM Website",
+	"GameGameModes": "Game Modes",
+	"GameReadMore": "Read more",
+	"GameAltDMMInfo": "By being here, you are already set to play via DMM website. This is our recommended mode. Don't worry it has subtitles, translations, and backgrounds. Just proceed as instructed in 'Start the Game' section.",
+	"GameAltFrameInfo": "In some Chrome versions (55+), DMM Frame is not rendered. It only shows black screen, but you can hear sounds.",
+	"GameAltAPIInfo": "In some Chrome versions (55+), API Link is not detected by panel, and gets stuck at 'Waiting for game actions...'",
+	"GameAltIgnore": "I am aware that this may not work, but I still want to open",
 	"GameStartGame": "Start the Game",
 	"GameStartNoPanel": "or start without info panel",
 	"GameOReither": "or",
 	"GameStep2": "In the opened DevTools panel, click on <code><strong>KanColle</strong></code> tab. Check \u00bb pull-down menu at rightmost if hidden.",
 	"GameStep3": "Enjoy!",
 	"GameSocialLinks": "Links",
+	
 	"SocialTextWebstore": "Review on WebStore",
 	"SocialTextFacebook": "Like on Facebook",
 	"SocialTextTwitter": "Follow on Twitter",

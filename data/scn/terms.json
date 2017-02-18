@@ -258,6 +258,7 @@
 	"SettingsCheckLiveQuests" : "自动检查新任务的翻译",
 	"SettingsDevOnlyPages" : "显示调试辅助页面",
 	"SettingsForceDMMLogin" : "强制要求登录DMM",
+	"SettingsSpecialCounterAdjust": "特殊任务计数修正(Bd5/Bd6等)",
 	"SettingsAPIRecorder" : "API 记录器面板",
 	"SettingsUpdateNotification" : "应用更新通知形式",
 	"SettingsUpdateNotifNone" : "无",
@@ -324,9 +325,11 @@
 	"SettingsCustom" : "自定义",
 	"SettingsCustomSound" : "自定义提示音",
 	"SettingsDesktopNotif" : "桌面通知",
-	"SettingsIdleWarning" : "空闲计时",
+	"SettingsIdleWarning" : "闲置状态计时",
+	"SettingsIdleWarnDesc"	 : "若在指定秒数内无操作则进入闲置状态（界面变暗），设为0关闭此功能",
 	"SettingsHideCounter" : "隐藏计数",
 	"SettingsShowCounter" : "显示计数",
+	"SettingsIdleWarnStartAt": "进入闲置状态延时",
 
 	"SettingsTaihaAlert" : "大破警报",
 	"SettingsScreenBlur" : "屏幕模糊",
@@ -335,6 +338,8 @@
 	"SettingsHeartbeatSound" : "心跳音效",
 	"SettingsDisplayOnPvP" : "在演习中启用",
 	"SettingsRedShadeOnPanel" : "信息面板中显示血色边缘",
+	"SettingsDisableHomePort"	  : "在母港时不启用",
+	"SettingsDisableHasDamecon"	  : "忽略装备损管的舰娘",
 
 	"SettingsAPIGameScreen" : "API模式",
 	"SettingsQuestOverlay" : "任务翻译",
@@ -385,6 +390,7 @@
 	"SettingsPanelSize" : "面板尺寸",
 	"SettingsPanelOpacity" : "界面不透明度 (opacity)",
 	"SettingsGearHolder" : "装备背景色",
+	"SettingsPanelBoxBackColor" : "情报面板背景色",
 
 	"SettingsLegacyPanel" : "面板（旧主题）",
 
@@ -501,6 +507,7 @@
 	"BattleAirDefendYes" : "拦截队： {0}",
 	"BattleAirDefendNo"	 : "无拦截队",
 	"BattleAirBaseLoss"	 : "基地",
+	"BattleAirBaseLossTip" : "基地航空队受伤害共计：{0}\n燃料及铝土矿损失：{1}",
 
 	"Debuffed" : "Boss已削弱！",
 
@@ -551,7 +558,7 @@
 	"PanelRepairing"	   : "修理中...",
 	"PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
 	"PanelNextRemodelLv"   : "改造等级",
-	"PanelPossibleRemodel" : "改造可能",
+	"PanelPossibleRemodel" : "可改造",
 	"PanelResupplyCosts"   : "补给消耗：\n燃料：{0}，弹药：{1}，铝土矿：{2}",
 	"PanelConsumedSteel"   : "每战消耗钢材：{0}",
 
@@ -661,13 +668,14 @@
 	"FitWeight_2": "适重（中）",
 	"FitWeight_3": "适重（大）",
 
-	"PvpListTitle"       : "演习对手",
+	"PvpListTitle"		 : "演习对手",
 	"PvpListCreateType0" : "演习舰队【第一群】",
 	"PvpListCreateType1" : "演习舰队【第二群】",
 	"PvpListCreateType2" : "旧式【全体】",
-	"PvpBaseExp"         : "基础经验值",
+	"PvpBaseExpSrank"	 : "预测经验",
+	"PvpBaseExp"		 : "基础经验值",
 	"PvpDispBaseExpWoCT" : "无练巡经验加成(x{0})时，S胜经验",
-	"PvpFormationPred"   : "敌方阵型预测",
+	"PvpFormationPred"	 : "敌阵型预测",
 
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",

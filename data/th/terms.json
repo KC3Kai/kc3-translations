@@ -273,6 +273,7 @@
 	"SettingsAAFCombAntiSub"  : "กองเรือผสม (ต่อต้านเรือดำน้ำ)",
 	"SettingsAAFCombDiamond"  : "กองเรือผสม (ล้อมวง)",
 	"SettingsImaginaryEnemySlot" : "ช่องเครื่องบินศัตรู",
+	"SettingsSpecialCounterAdjust" : "จัดการตัวนับเควส",
 	
 	"SettingsScreenshot" : "การถ่ายภาพหน้าจอเกม",
 	"SettingsSSOutput" : "รูปแบบที่ใช้งาน",
@@ -299,9 +300,11 @@
 	"SettingsCustom" : "กำหนดเอง",
 	"SettingsCustomSound" : "กำหนดเสียงเอง (URL)",
 	"SettingsDesktopNotif" : "แจ้งเตือนที่เดสก์ทอป",
-	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
+	"SettingsIdleWarning" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน (ของเก่า)",
 	"SettingsHideCounter" : "ซ่อนการจับเวลา",
 	"SettingsShowCounter" : "โชว์การจับเวลา",
+	"SettingsIdleWarnStartAt" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
+	"SettingsIdleWarnDesc" : "ถ้าทิ้งไว้นานกี่วินาทีถึงจะแจ้งเตือน, 0 คือปิดการใช้งาน",
 	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
 	"SettingsScreenBlur" : "เบลอหน้าจอ",
@@ -361,7 +364,7 @@
 
 	"SettingsPanelSize" : "แผงควบคุมการเล่น",
 	"SettingsPanelOpacity" : "ความโปร่งใส",
-	"SettingsGearHolder" : "สีพื้นหลังของอุปกรณ์",
+	"SettingsPanelBoxBackColor" : "สีดำพื้นหลังของแผงควบคุม",
 	
 	"SettingsChuuiWarningDangerousFeature" : "แน่ใจว่าจะทำแบบนี้ใช่มั้ยคะผู้การ? นี่มันเสี่ยงน๊าาา ระวังบินน๊าาา เค้าเตือนแล้วน๊าาาา",
 	"SettingsErrorNG" : "บันทึกการตั้งค่า!",
@@ -436,8 +439,8 @@
 	"Bomb201Title": "ปัญหากราบแมว 201",
 	"Bomb201Message": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหากราบแมว 201 เนื่องจากระบบตรวจสอบการใช้งานบอทของเกม อาจเป็นเพราะเข้าเล่นเกมพร้อมกันกับบนมือถือ ถ้าหากคุณใช้แรงงานสาวเรือรบหนักจนเกินไปขอให้พวกเธอได้พักผ่อนบ้างเถอะนะคะ ถ้าพบปัญหานี้แล้วคุณไม่ได้ทำอะไรที่ผิดกฎของเกมก็คงไม่มีอะไรน่าเป็นห่วงหรอกค่ะ",
 	
-	"SpeedLand"    : "กองเรือเร็ว",
-	"SpeedSlow"    : "กองเรือช้า",
+	"SpeedLand"    : "เร็ว",
+	"SpeedSlow"    : "ช้า",
 	"SpeedFast"    : "เร็ว",
 	"SpeedFaster"  : "เร็ว+",
 	"SpeedFastest" : "เร็วสูงสุด",
@@ -485,8 +488,8 @@
 	"BattleAirBaseLossTip" : "การปะทะน่านฟ้า ได้รับความเสียหาย: {0}\nเสียบอกไซต์และน้ำมัน: {1}",
 	
 	"ShipHp"      : "HP",
-	"ShipFire"    : "พลังโจมตี",
-	"ShipTorpedo" : "ตอร์ปิโด",
+	"ShipFire"    : "FP",
+	"ShipTorpedo" : "Torp",
 	"ShipAntiAir" : "AA",
 	"ShipArmor"   : "เกราะ",
 	"ShipEvasion" : "หลบ",
@@ -494,10 +497,10 @@
 	"ShipLos"     : "ค้นหา",
 	"ShipLuck"    : "โชค",
 	"ShipCarry"   : "บรรทุก",
-	"ShipSpeed"   : "ความเร็ว",
+	"ShipSpeed"   : "เร็ว",
 	"ShipLength"  : "ระยะ",
 	"ShipMorale"  : "กำลังใจ",
-	"ShipYasenFp" : "พลังโจมตีกลางคืน",
+	"ShipYasenFp" : "กลางคืน",
 	
 	"PredictionStampSortie" : "จม",
 	"PredictionStampPvP" : "น็อกเอ๊าต์",
@@ -507,8 +510,8 @@
 	"ShipAAFixedShotdown" : "จำนวนที่ยิงตกแน่นอน: {0}",
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
 	"ShipAAImgEnemySlot" : "ค่าทดสอบ {0}- เครื่องบินทิ้งระเบิด:",
-	"ShipAAShotdownPred" : "    ผลลัพธ์: (ทั้งหมด/โอกาสตก/ตกแน่นอน/ล้มเหลว)\n    ยิงตกได้:   {0}",
-	"ShipAAShotdownTitles" : "AA if/ทั้งหมด/โอกาสตก/ตกแน่นอน/ล้มเหลว",
+	"ShipAAShotdownPred" : "    ผลลัพธ์: (ทั้งหมด/ตก/ตกแน่/พลาด)\n    ยิงตกได้:   {0}",
+	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
 	
 	"EventRankHardAbbr" : "H",
 	"EventRankNormalAbbr" : "N",
@@ -635,6 +638,7 @@
 	"PvpListCreateType0" : "แบบใหม่ [แบบที่ 1]",
 	"PvpListCreateType1" : "แบบใหม่ [แบบที่ 2]",
 	"PvpListCreateType2" : "แบบเก่า",
+	"PvpBaseExpSrank"    : "ชนะ S",
 	"PvpBaseExp"         : "EXP พื้นฐาน",
 	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
 	"PvpFormationPred"   : "ฟอร์เมชั่น",

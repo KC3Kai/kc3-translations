@@ -89,6 +89,17 @@
 	"GameStep2": "于打开的开发者工具面板，选择<code><strong>KanColle</strong></code>页。 若找不到此页面请点击最右侧的“\u00bb”并在下拉列表中寻找。",
 	"GameStep3": "享受游戏！",
 	"GameSocialLinks": "链接",
+
+	"GameAltAPIInfo":"在部分Chrome版本中（55或以上），面板无法检测到API链接并“正在等待游戏响应…”",
+	"GameAltDMMInfo":"本页面本身即是通过DMM网站进行游戏的DMM定制模式。这是我们推荐使用的模式。包含的定制包括字幕，任务翻译和定制背景。请依照“开始游戏”一节的步骤开始游戏。",
+	"GameAltFrameInfo":"在部分Chrome版本中（55或以上），框架模式无法被渲染，停留在黑屏但可以听到声音。",
+	"GameAltIgnore":"我知道这个模式可能不工作，但我依旧想使用。",
+	"GameCustomizeWeb":"DMM定制模式",
+	"GameGameModes":"游戏模式",
+	"GameReadMore":"阅读更多",
+	"MenuKancolleDesc":"开启KC3改标签，使用定制的DMM游戏页面",
+	"MenuKancolleName":"开始舰队收藏",
+
 	"SocialTextWebstore": "查看Chrome网上应用店评价",
 	"SocialTextFacebook": "在Facebook为我们点赞",
 	"SocialTextTwitter": "在推特上关注我们",

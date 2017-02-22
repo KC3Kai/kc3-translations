@@ -551,9 +551,8 @@
 	"LandBaseActionDefend"  : "防空",
 	"LandBaseActionRetreat" : "退避",
 	"LandBaseActionRest"    : "休息",
-	"LandBaseTipFighterPower" : "通常対空値",
-	"LandBaseTipInterceptFighters" : "迎撃補正値",
-	"LandBaseTipInterceptBombers" : "対爆補正値",
+	"LandBaseTipFighterPower" : "出撃対空値",
+	"LandBaseTipAirDefensePower" : "迎撃防空値",
 
 	"NatsuiroBasic"    : "概要",
 	"NatsuiroBattle"   : "戦闘",

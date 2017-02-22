@@ -44,10 +44,8 @@
 	"MenuRefreshAPIName" : "Refresh API Link",
 	"MenuRefreshAPIDesc" : "Opens the DMM play page where we'll auto-extract your new API link",
 	
-	"MenuSpecialDMMName" : "Special DMM Mode",
-	"MenuSpecialDMMDesc" : "Direct DMM website, with various KC3 customizations like background images",
-	
-	
+	"MenuKancolleName" : "Play Kantai Collection",
+	"MenuKancolleDesc" : "Opens the KC3改 tab where you can customize the DMM game page",
 	
 	"MenuCookiesName" : "Activate Cookies",
 	"MenuCookiesDesc" : "Use this anytime you encounter the \"Error Area\" screen on DMM.com",
@@ -81,12 +79,20 @@
 	"GameHotkeyType": "Get 20 seconds of keyboard typing time",
 	"GameHotkeyScreenshot": "Take screenshot",
 	"GameHotkeyClear": "Clear current overlays",
+	"GameCustomizeWeb": "Customize DMM Website",
+	"GameGameModes": "Game Modes",
+	"GameReadMore": "Read more",
+	"GameAltDMMInfo": "By being here, you are already set to play via DMM website. This is our recommended mode. Don't worry it has subtitles, translations, and backgrounds. Just proceed as instructed in 'Start the Game' section.",
+	"GameAltFrameInfo": "In some Chrome versions (55+), DMM Frame is not rendered. It only shows black screen, but you can hear sounds.",
+	"GameAltAPIInfo": "In some Chrome versions (55+), API Link is not detected by panel, and gets stuck at 'Waiting for game actions...'",
+	"GameAltIgnore": "I am aware that this may not work, but I still want to open",
 	"GameStartGame": "Start the Game",
 	"GameStartNoPanel": "or start without info panel",
 	"GameOReither": "or",
 	"GameStep2": "In the opened DevTools panel, click on <code><strong>KanColle</strong></code> tab. Check \u00bb pull-down menu at rightmost if hidden.",
 	"GameStep3": "Enjoy!",
 	"GameSocialLinks": "Links",
+	
 	"SocialTextWebstore": "Review on WebStore",
 	"SocialTextFacebook": "Like on Facebook",
 	"SocialTextTwitter": "Follow on Twitter",
@@ -114,7 +120,7 @@
 	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
-	"GameAPIGetDesc" : "Use the <img src=\"../popup/img/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
+	"GameAPIGetDesc" : "Use the <img src=\"../../assets/img/ui/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
 	"GameAPIExistTitle" : "To use Existing API links",
 	"GameAPIExistDesc" : "If you already have an API Link on hand, you may input it here:",
 	"GameAPIExistBtn" : "Use API Link",
@@ -123,7 +129,7 @@
 	"GameAPIRemindTitle" : "Reminder for New Players",
 	"GameAPIRemindDesc" : "Do not use KC3改 while you have not yet passed through the lottery process. This viewer assumes that the account being logged-in while extracting API Links is already playable. Once you have joined a server, you will also need to input your admiral name while not in API link.",
 	"GameAPIAltTitle" : "Alternatives",
-	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../popup/img/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
+	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
 	"GameAPIExpiredAlert" : "Your current API session has been expired",
 	"GameAPIExpiredExplanation" : "KC3改 detects that your current API link either have been requested about 20 minutes ago or it have been used previously. Also, to make sure that you didn't access this tab directly with expired API link.<br>You may need to refresh your current API either via Popup menu or this button...",
 	
@@ -639,7 +645,7 @@
 	"PvpListCreateType0" : "Exercise Fleet [1st Group]",
 	"PvpListCreateType1" : "Exercise Fleet [2nd Group]",
 	"PvpListCreateType2" : "Default (Old)",
-	"PvpBaseExpSrank"    : "XP Gains",
+	"PvpBaseExpSrank"    : "EXP",
 	"PvpBaseExp"         : "Base EXP",
 	"PvpDispBaseExpWoCT" : "SS/S w/o x{0} CT bonus",
 	"PvpFormationPred"   : "Formation",

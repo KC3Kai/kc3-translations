@@ -1063,6 +1063,12 @@
         "desc": "Sortie Arashio Kai Ni as flagship, one of Asashio, Ooshio, or Michishio, and 4 additional ships to [W5-5]. A-Rank+ the boss node 2 times.",
         "memo": "\u27a3Rewards 4 Screws and a Reinforcement Expansion"
     },
+    "845": {
+        "code": "OH3",
+        "name": "Sever the Rear Logistics of the Enemy's Large-Scale Anchorage!",
+        "desc": "Sortie a Surface Task Force to [E-3]. A-Rank+ node J twice.",
+        "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
+    },
     
     "201": {
         "code": "Bd1",
@@ -1844,6 +1850,18 @@
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "654": {
+        "code": "OH2",
+        "name": "Saiun Procurement and Dismantlement for Transport",
+        "desc": "Have 10 Development Materials and one Type 97 Torpedo Bomber. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES\u2623",
+        "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
+    },
+    "655": {
+        "code": "OH1",
+        "name": "Saiun Dismantlement for Transport",
+        "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
+        "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
     
     "701": {

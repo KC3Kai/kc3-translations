@@ -44,8 +44,8 @@
 	"MenuRefreshAPIName" : "รีเฟรช API",
 	"MenuRefreshAPIDesc" : "เปิดเว็บ DMM แล้วระบบจะดึง API ใหม่ให้โดยอัตโนมัติ",
 	
-	"MenuSpecialDMMName" : "เล่นเกม Kantai Collection",
-	"MenuSpecialDMMDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติ และสามารถใช้ส่วนเสริมของ KC3Kai ในการเล่นได้",
+	"MenuKancolleName" : "เล่นเกม Kantai Collection",
+	"MenuKancolleDesc" : "เล่นผ่านหน้าเว็บ DMM แบบปกติ และสามารถใช้ส่วนเสริมของ KC3Kai ในการเล่นได้",
 
 	"MenuCookiesName" : "เพิ่มคุกกี้",
 	"MenuCookiesDesc" : "ใช้ในกรณีที่พบ Error Area ในหน้าเว็บ DMM",
@@ -315,8 +315,8 @@
 	"SettingsIdleWarnDesc" : "ถ้าทิ้งไว้นานกี่วินาทีถึงจะแจ้งเตือน, 0 คือปิดการใช้งาน",
 	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
-	"SettingsScreenBlur" : "เบลอหน้าจอ",
-	"SettingsScreenBlood" : "เลือดสาด",
+	"SettingsScreenBlur" : "เบลอหน้าจอ (ของเก่า)",
+	"SettingsScreenBlood" : "เลือดสาด (ของเก่า)",
 	"SettingsAppearOnScreenshots" : "แสดงในถ่ายภาพหน้าจอ",
 	"SettingsHeartbeatSound" : "เสียงหัวใจเต้น",
 	"SettingsDisplayOnPvP" : "แสดงใน PvP",
@@ -571,6 +571,7 @@
 	"LandBaseActionRetreat" : "ถอนกำลัง",
 	"LandBaseActionRest" : "พักผ่อน",
 	"LandBaseTipFighterPower" : "เครื่องบินขับไล่สกัดกั้น",
+	"LandBaseTipAirDefensePower" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
 	"LandBaseTipInterceptFighters" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
 	"LandBaseTipInterceptBombers" : "เครื่องบินสกัดกั้นป้องกันเครื่องบินทิ้งระเบิด",
 

@@ -319,7 +319,6 @@
 	"SettingsScreenBlood" : "เลือดสาด (ของเก่า)",
 	"SettingsAppearOnScreenshots" : "แสดงในถ่ายภาพหน้าจอ",
 	"SettingsHeartbeatSound" : "เสียงหัวใจเต้น",
-	"SettingsDisplayOnPvP" : "แสดงใน PvP",
 	"SettingsRedShadeOnPanel" : "แสดงแถบแดงในแผงควบคุม",
 	"SettingsDisableHomePort" : "ปิดการแจ้งเตือนเมื่ออยู่ในฐาน",
 	"SettingsDisableHasDamecon" : "ไม่สนใจทีมควบคุมความเสียหาย (กันจม)",
@@ -510,16 +509,14 @@
 	"ShipMorale"  : "กำลังใจ",
 	"ShipYasenFp" : "กลางคืน",
 	
-	"PredictionStampSortie" : "จม",
-	"PredictionStampPvP" : "น็อกเอ๊าต์",
-
 	"ShipAAAdjusted" : "ค่าต่อต้านอากาศยาน: {0}",
 	"ShipAAShotdownRate" : "จำนวนที่ยิงตกได้: {0}%",
 	"ShipAAFixedShotdown" : "จำนวนที่ยิงตกแน่นอน: {0}",
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
-	"ShipAAImgEnemySlot" : "ค่าทดสอบ {0}- เครื่องบินทิ้งระเบิด:",
-	"ShipAAShotdownPred" : "    ผลลัพธ์: (ทั้งหมด/ตก/ตกแน่/พลาด)\n    ยิงตกได้:   {0}",
 	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
+	
+	"PredictionStampSortie" : "จม",
+	"PredictionStampPvP" : "น็อกเอ๊าต์",
 	
 	"EventRankHardAbbr" : "H",
 	"EventRankNormalAbbr" : "N",

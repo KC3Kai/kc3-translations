@@ -1881,6 +1881,12 @@
         "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
+    "656": {
+        "code": "F50?",
+        "name": "Organize the Seiran 631 Air Group!",
+        "desc": "Have I-401 or I-13 or I-14 as your secretary and arm them with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Seiran (631 Air Group)"
+    },
     "657": {
         "code": "SF3",
         "name": "Spring Preparation Mission: Hina Matsuri Preparations!",
@@ -1893,14 +1899,7 @@
         "desc": "Have 120 development materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
         "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Late Model Bow Torpedo Mount (6 Tubes)"
     },
-    "659": {
-        "code": "F50?",
-        "name": "Organize the Seiran 631 Air Group!",
-        "desc": "Have I-401 or I-13 or I-14 as your secretary and arm them with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Seiran (631 Air Group)"
-    },
-    
-    "701": {
+		"701": {
         "code": "G1",
         "name": "The First Modernization!",
         "desc": "Complete a successful modernization."

@@ -44,10 +44,8 @@
   "MenuRefreshAPIName": "API 링크(토큰)를 갱신",
   "MenuRefreshAPIDesc": "DMM 게임페이지를 열어 API링크를 자동으로 추출합니다.",
   	
-  "MenuSpecialDMMName" : "특수 DMM 모드",
-	"MenuSpecialDMMDesc" : "배경이미지과 같은 KC3 특수 설정을 활용하며 DMM 페이지에 직접 접속합니다.",
-
-
+	"MenuKancolleName" : "Play Kantai Collection",
+	"MenuKancolleDesc" : "Opens the KC3改 tab where you can customize the DMM game page",
 
   "MenuCookiesName": "쿠키를 유효화",
   "MenuCookiesDesc": "DMM.com에서 \"Error Area\" 화면이 표시될 때 사용하시면 됩니다.",
@@ -81,13 +79,21 @@
 	"GameHotkeyType": "20초 동안 키보드 입력을 유효화",
 	"GameHotkeyScreenshot": "스크린샷 찍기",
 	"GameHotkeyClear": "현재 오버레이 지우기",
-	"GameStartGame": "게임 시작",
+	"GameCustomizeWeb": "Customize DMM Website",
+	"GameGameModes": "Game Modes",
+	"GameReadMore": "Read more",
+	"GameAltDMMInfo": "By being here, you are already set to play via DMM website. This is our recommended mode. Don't worry it has subtitles, translations, and backgrounds. Just proceed as instructed in 'Start the Game' section.",
+	"GameAltFrameInfo": "In some Chrome versions (55+), DMM Frame is not rendered. It only shows black screen, but you can hear sounds.",
+	"GameAltAPIInfo": "In some Chrome versions (55+), API Link is not detected by panel, and gets stuck at 'Waiting for game actions...'",
+  "GameAltIgnore": "I am aware that this may not work, but I still want to open",
+  "GameStartGame": "게임 시작",
 	"GameStartNoPanel": "패널 없이 시작",
 	"GameOReither": "혹은",
 	"GameStep2": "열려 있는 개발자 툴 패널에서 <code><strong>KanColle</strong></code> 탭을 클릭해주세요. 만약 없을 경우 맨 오른쪽의 \u00bb 드롭다운 메뉴를 확인해주세요.",
 	"GameStep3": "즐거운 플레이 되세요!",
 	"GameSocialLinks": "링크",
-	"SocialTextWebstore": "웹스토어에 리뷰 남기기",
+	
+  "SocialTextWebstore": "웹스토어에 리뷰 남기기",
 	"SocialTextFacebook": "페이스북에 좋아요 남기기",
 	"SocialTextTwitter": "트위터 팔로우하기",
 	"SocialTextGithub": "GitHub에 추천 남기기",
@@ -275,6 +281,7 @@
 	"SettingsAAFCombAntiSub"  : "연합 (대잠)",
 	"SettingsAAFCombDiamond"  : "연합 (대공)",
   "SettingsImaginaryEnemySlot": "적 공/폭격기 슬롯",
+	"SettingsSpecialCounterAdjust" : "Quest Counter Adjust",
 
   "SettingsScreenshot": "스크린샷",
   "SettingsSSOutput": "출력모드",
@@ -304,6 +311,8 @@
   "SettingsIdleWarning": "잠수 시간",
   "SettingsHideCounter": "카운터 비표시",
   "SettingsShowCounter": "카운터 표시",
+	"SettingsIdleWarnStartAt" : "Idle Screen after",
+  "SettingsIdleWarnDesc": "Time in seconds before idle screen shows, 0 for disable.",
 
   "SettingsTaihaAlert": "요란한 대파 경고",
 	"SettingsScreenBlur" : "대파시 게임 화면 흐리게",
@@ -574,6 +583,7 @@
 	"LandBaseActionRetreat" : "대피",
 	"LandBaseActionRest" : "휴식",
 	"LandBaseTipFighterPower" : "일반 제공치",
+	"LandBaseTipAirDefensePower" : "기지 방공치",
 	"LandBaseTipInterceptFighters" : "전투기 요격치",
 	"LandBaseTipInterceptBombers" : "폭격/공격기 요격치",
 	
@@ -636,6 +646,7 @@
 	"PvpListCreateType0" : "연습함대 제1군",
 	"PvpListCreateType1" : "연습함대 제2군",
 	"PvpListCreateType2" : "전체 (구식)",
+	"PvpBaseExpSrank"    : "EXP",
 	"PvpBaseExp"         : "기본 EXP",
 	"PvpDispBaseExpWoCT" : "연순 없을 시 S승리",
 	"PvpFormationPred"   : "진형",

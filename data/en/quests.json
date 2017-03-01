@@ -1069,6 +1069,24 @@
         "desc": "Sortie a Surface Task Force to [E-3]. A-Rank+ node J twice.",
         "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
     },
+	    "846": {
+        "code": "B91",
+        "name": "Submarine Fleet, patrol the Central Waters!",
+        "desc": "Send a Fleet consisting of 4 SS(V) with an SS(V) as flagship, and two random ships of choice to [W6-1] and score an B rank at the boss node.",
+        "memo": "\u27a3Rewards 3 Screws and 1 Irako"
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparation Mission: Carry out the Hina Matsuri Preparations!",
+        "desc": "Score 5 S ranks at the boss node of [W2-3]",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Heavy Armored Curiser, Embark into the Iron Bottom Sound!",
+        "desc": "Use a Fleet consisting of Zara Due as the flagship and go to [W5-3] and score an A rank at the boss node.",
+        "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Medium)"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1862,6 +1880,24 @@
         "name": "Saiun Dismantlement for Transport",
         "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparation Mission: Hina Matsuri Preparations!",
+        "desc": "Scrap 2 14cm Naval Gun and have 5000 furniture coins and 2 Type 99 Dive Bombers and 2 61cm Triple Torpedo Mounts in your inventory.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked! \n\u27a3Rewards 1 Furniture Fairy and 1 Hishimochi"
+    },
+    "658": {
+        "code": "F49?",
+        "name": "Enhance Submarine Armaments",
+        "desc": "Scrap 4 61cm Triple Torpedo Mounts and have 120 development materials, 3 61cm Quad (Oxygen) Torpedo Mounts and 3 Type 93 SONARs in your inventory.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Late Model Bow Torpedo Mount (6 Tubes)"
+    },
+    "659": {
+        "code": "F50?",
+        "name": "Organize the Seiran 631 Air Group!",
+        "desc": "Have I-401 or I-13 or I-14 as your secretary and arm them with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Seiran (631 Air Group)"
     },
     
     "701": {

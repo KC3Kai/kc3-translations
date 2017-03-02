@@ -1069,6 +1069,25 @@
         "desc": "Sortie a Surface Task Force to [E-3]. A-Rank+ node J twice.",
         "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
     },
+    "846": {
+        "code": "B91",
+        "name": "Submarine Fleet, patrol the Central Waters!",
+        "desc": "Send a Fleet consisting of 4 SS(V) with an SS(V) as flagship, and two random ships of choice to [W6-1] and score an B rank at the boss node.",
+        "memo": "\u27a3Rewards 3 Screws and 1 Irako",
+        "unlock": [ 656, 658, 848 ]
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparation Mission: Carry out the Hina Matsuri Preparations!",
+        "desc": "Sortie to [W2-3] and S-Rank the boss node 5 times.",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Heavy Armored Curiser, Embark into the Iron Bottom Sound!",
+        "desc": "Use a Fleet consisting of Zara Due as the flagship and go to [W5-3] and score an A rank at the boss node.",
+        "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Medium)"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1846,7 +1865,7 @@
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
     "653": {
-        "code": "",
+        "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
@@ -1863,7 +1882,25 @@
         "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
-    
+    "656": {
+        "code": "F50?",
+        "name": "Organize the Seiran 631 Air Group!",
+        "desc": "Have I-401 or I-13 or I-14 as your secretary and arm them with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Seiran (631 Air Group)"
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparation Mission: Hina Matsuri Preparations!",
+        "desc": "Have 5000 furniture coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked! \n\u27a3Rewards 1 Furniture Fairy and 1 Hishimochi",
+        "unlock": [ 847 ]
+    },
+    "658": {
+        "code": "F49?",
+        "name": "Enhance Submarine Armaments",
+        "desc": "Have 120 development materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Late Model Bow Torpedo Mount (6 Tubes)"
+    },
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

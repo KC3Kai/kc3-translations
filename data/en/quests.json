@@ -818,7 +818,7 @@
         "name": "Sortie the Ozawa Fleet!",
         "desc": "Sortie Zuikaku Kai+ as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai to [W2-4]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Zero Fighter Model 52C (601 Air Group)",
-        "unlock": [ 626 ]
+        "unlock": [ 626, 645 ]
     },
     "295": {
         "code": "B55",
@@ -1190,7 +1190,7 @@
         "name": "Weekly Submarines",
         "desc": "Sink 15 abyssal submarines.",
         "memo": "\u203bNaval Convoy Escort Op\n\u27a3Rewards a Screw ",
-        "unlock": [ 229, 241, 613 ],
+        "unlock": [ 229, 241, 613, 645 ],
         "tracking": [ [0,15] ]
     },
     "229": {
@@ -1432,7 +1432,7 @@
         "name": "Weekly Tokyo Express",
         "desc": "Complete Expedition 37 or 38.",
         "memo": "\u203bSucceed at a Southern Transport Operation!",
-        "unlock": [ 411, 420 ],
+        "unlock": [ 411, 420, 643 ],
         "tracking": [ [0,1] ]
     },
     "412": {
@@ -1756,7 +1756,6 @@
         "code": "F32",
         "name": "Preparations for New Equipment",
         "desc": "Scrap 5 pieces of equipment.",
-        "tracking": [ [0,5] ],
         "unlock": [ 312 ]
     },
     "636": {

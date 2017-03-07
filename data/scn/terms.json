@@ -606,7 +606,8 @@
 	"LandBaseActionDefend" : "防空",
 	"LandBaseActionRetreat" : "退避",
 	"LandBaseActionRest" : "休息",
-	"LandBaseTipFighterPower" : "常规对空战力",
+	"LandBaseTipFighterPower" : "制空战力",
+	"LandBaseTipAirDefensePower" : "防空战力",
 	"LandBaseTipInterceptFighters" : "迎击补正",
 	"LandBaseTipInterceptBombers" : "对爆补正",
 
@@ -631,6 +632,8 @@
 	"PanelToggleSounds" : "声音开关",
 	"PanelFitWindow"	: "窗口大小适配",
 	"PanelExportToKCDB" : "导出至Kancolle-calc DeckBuilder",
+	"PanelReloadQuotes" : "重载字幕",
+	"PanelReloadQuests" : "重载任务元数据",
 
 	"PanelWaitActions" : "正在等待游戏响应……",
 	"PanelErrorStorage" : "Chrome本地存储（LocalStorage）功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",

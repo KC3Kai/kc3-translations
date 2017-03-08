@@ -561,17 +561,9 @@
 	"PanelFitWindow" : "ปรับขนาดหน้าจอ",
 	"PanelExportToKCDB" : "ส่งข้อมูลไป Kancolle-calc DeckBuilder",
 	"PanelToggleQuestComplete" : "ปรับสถานะตัวนับเควส",
-
-	"LandBaseActionWaiting" : "รอคำสั่ง",
-	"LandBaseActionSortie" : "ออกรบ",
-	"LandBaseActionDefend" : "ป้องกัน",
-	"LandBaseActionRetreat" : "ถอนกำลัง",
-	"LandBaseActionRest" : "พักผ่อน",
-	"LandBaseTipFighterPower" : "เครื่องบินขับไล่สกัดกั้น",
-	"LandBaseTipAirDefensePower" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
-	"LandBaseTipInterceptFighters" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
-	"LandBaseTipInterceptBombers" : "เครื่องบินสกัดกั้นป้องกันเครื่องบินทิ้งระเบิด",
-
+	"PanelReloadQuotes" : "ตรวจสอบซับไตเติ้ลอัพเดท",
+	"PanelReloadQuests" : "ตรวจสอบเควสอัพเดท",
+	
 	"MissionLabelActivity" : "สถานะ",
 	"MissionGetItems" : "รางวัล: ",
 	"MissionActivity0" : "ยกเลิก",
@@ -585,6 +577,16 @@
 	"CombinedTransport" : "กองเรือขนส่ง",
 	"CombinedNone" : "กองเรือปกติ",
 
+	"LandBaseActionWaiting" : "รอคำสั่ง",
+	"LandBaseActionSortie" : "ออกรบ",
+	"LandBaseActionDefend" : "ป้องกัน",
+	"LandBaseActionRetreat" : "ถอนกำลัง",
+	"LandBaseActionRest" : "พักผ่อน",
+	"LandBaseTipFighterPower" : "เครื่องบินขับไล่สกัดกั้น",
+	"LandBaseTipAirDefensePower" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
+	"LandBaseTipInterceptFighters" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
+	"LandBaseTipInterceptBombers" : "เครื่องบินสกัดกั้นป้องกันเครื่องบินทิ้งระเบิด",
+	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
 	"LevelNext" : "ต่อไป",

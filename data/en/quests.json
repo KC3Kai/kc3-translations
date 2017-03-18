@@ -1088,6 +1088,18 @@
         "desc": "Use a Fleet consisting of Zara Due as the flagship and go to [W5-3] and score an A rank at the boss node.",
         "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Medium)"
     },
+    "849": {
+        "code": "B93",
+        "name": "Defeat the Enemy Fleet at the Nansei Islands!",
+        "desc": "Send a Fleet consisting of CL as Flagship and 5 other ships of choice and S rank at the boss nodes of 1-4, 2-2, and 2-3.",
+        "unlock": [ 850 ]
+    },
+    "850": {
+        "code": "B94",
+        "name": "Expand the Offshore Aviation Forces!",
+        "desc": "Send a Fleet consisting of an AV, CVL, CV, or CVB as Flagship and 5 other ships of choice to 3-5, 4-4, and 6-2 and score an S-rank at the Boss nodes.",
+        "memo": "\u27a3Rewards a Skilled Crew Member"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1898,7 +1910,20 @@
         "code": "F50",
         "name": "Enhance Submarine Armaments",
         "desc": "Have 120 development materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Late Model Bow Torpedo Mount (6 Tubes)"
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 Tubes)"
+    },
+    "659": {
+        "code": "F51",
+        "name": "Organize the New Elite Seaplane Group",
+        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)",
+        "unlock": [ 660 ]
+    },
+    "660": {
+        "code": "F52",
+        "name": "Expand the New Elite Seaplane Group",
+        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)"
     },
     "701": {
         "code": "G1",

@@ -372,6 +372,8 @@
 	"SettingsPanelSize" : "Panel Size",
 	"SettingsPanelOpacity" : "Interface Opacity",
 	"SettingsPanelBoxBackColor" : "Panel Box Back Color",
+	"SettingsPanelCustomCSS" : "Custom CSS",
+	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, close and reopen devtools panel. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
@@ -384,7 +386,9 @@
 	
 	"SettingsStrategyRoom" : "Strategy Room",
 	"SettingsStrategyTheme" : "Strategy Room Theme",
-	
+	"SettingsStrategyCustomCSS" : "Custom CSS",
+	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+
 	"InstalledTitle": "KC3改 has been installed successfully!",
 	"InstalledText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
 	

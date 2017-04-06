@@ -1091,16 +1091,35 @@
     "849": {
         "code": "B93",
         "name": "Defeat the Enemy Fleet at the Nansei Islands!",
-        "desc": "Send a Fleet consisting of CL as Flagship and 5 other ships of choice and S rank at the boss nodes of 1-4, 2-2, and 2-3.",
+        "desc": "Send a Fleet consisting of CL as Flagship and 5 other ships of choice and S rank at the boss nodes of [W1-4], [W2-2], and [W2-3].",
+		"memo": "\u27a3Rewards 1 Mamiya and 1 Irako",
         "unlock": [ 850 ]
     },
     "850": {
         "code": "B94",
         "name": "Expand the Offshore Aviation Forces!",
-        "desc": "Send a Fleet consisting of an AV, CVL, CV, or CVB as Flagship and 5 other ships of choice to 3-5, 4-4, and 6-2 and score an S-rank at the Boss nodes.",
+        "desc": "Send a Fleet consisting of an AV, CVL, CV, or CVB as Flagship and 5 other ships of choice to [W3-5], [W4-4], and [W6-2] and score an S-rank at the Boss nodes.",
         "memo": "\u27a3Rewards a Skilled Crew Member"
     },
-    
+    "851": {
+        "code": "B95",
+        "name": "Remodeled aviation cruiser, head out!",
+        "desc": "Sortie Suzuya Kai Ni as the flagship and score an A rank at the boss nodes of [W5-1] and [W5-3]. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
+        "memo": "\u2623NOTICE!: The CVL remodel cannot complete the quest. Must be CAV.\u2623 \u27a3Rewards 4 Screws and either a New Kanhon Design Anti-torpedo Bulge (Medium) OR a Kyoufuu Kai"
+    },
+    "852": {
+        "code": "B97",
+        "name": "Deploy the remodeled light attack carrier to the front!",
+        "desc": "Sortie Suzuya-Kou Kai Ni and score an S rank the boss nodes at [W6-2] and [W6-5].",
+        "memo": "\u2623NOTICE!: The CAV remodel cannot complete the quest. Must be CVL.\u2623 \u27a3Rewards a Type 0 Fighter Model 63 (Fighter-bomber) and a 8cm High-angle Gun Kai + Extra Machine Guns"
+    },
+    "853": {
+        "code": "B96",
+        "name": "Vigilantly patrol the sea area near the naval base!",
+        "desc": "Sortie an Light Cruiser as Flagship, 2 Destroyers and three other ships of choice and score an A rank on the boss nodes of [W1-2],[W1-3],[W1-4] and [W1-5].",
+        "memo": "\u27a3Rewards 2 Irako, 4 Screws and a Furniture Fairy"
+    },
+	
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -1303,6 +1322,12 @@
         "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
         "tracking": [ [0,2] ]
     },
+	"854": {
+        "code": "Bq2",
+        "name": "Ranking Points Boost Mission! \"Operation Z\", First Part",
+        "desc": "Organize a fleet and score an A rank at the boss nodes of [W2-4], [W6-1], [W6-3], and S rank the boss node at [W6-4].",
+        "memo": "\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points"
+    },
     
     
     "301": {
@@ -1382,6 +1407,12 @@
         "code": "C11",
         "name": "Mass Exercises for Winter",
         "desc": "Secure 8 victories in Exercises within the same day."
+    },
+    "315": {
+        "code": "C12",
+        "name": "Mass Exercises for Spring",
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "memo": "\u27a3Rewards a Present Box"
     },
     
     
@@ -1915,14 +1946,14 @@
     "659": {
         "code": "F51",
         "name": "Organize the New Elite Seaplane Group",
-        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "desc": "Have a secretary ship equipped with a >> \u2605max Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
         "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)",
         "unlock": [ 660 ]
     },
     "660": {
         "code": "F52",
         "name": "Expand the New Elite Seaplane Group",
-        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "desc": "Have a secretary ship equipped with a >> \u2605max Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
         "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)"
     },
     "701": {

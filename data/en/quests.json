@@ -1101,7 +1101,25 @@
         "desc": "Send a Fleet consisting of an AV, CVL, CV, or CVB as Flagship and 5 other ships of choice to [W3-5], [W4-4], and [W6-2] and score an S-rank at the Boss nodes.",
         "memo": "\u27a3Rewards a Skilled Crew Member"
     },
-    
+    "851": {
+        "code": "B95",
+        "name": "Remodeled aviation cruiser, head out!",
+        "desc": "Sortie Suzuya Kai Ni as the flagship and score and A rank at the boss nodes of [W5-1] and [W5-3]. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
+        "memo": "\u2623NOTICE!: The CVL remodel cannot complete the quest. Must be CAV.\u2623 \u27a3Rewards 4 Screws and either a New Kanhon Design Anti-torpedo Bulge (Medium) OR a Kyoufuu Kai"
+    },
+    "852": {
+        "code": "B97",
+        "name": "Deploy the remodeled light attack carrier to the front!",
+        "desc": "Sortie Suzuya-Kou Kai Ni and score an S rank the boss nodes at [W6-2] and [W6-5].",
+        "memo": "\u2623NOTICE!: The CAV remodel cannot complete the quest. Must be CVL.\u2623 \u27a3Rewards a Type 0 Fighter Model 63 (Fighter-bomber) and a 8cm High-angle Gun Kai + Extra Machine Guns"
+    },
+    "853": {
+        "code": "B96",
+        "name": "Vigilantly patrol the sea area near the naval base!",
+        "desc": "Sortie an Light Cruiser as Flagship, 2 Destroyers and three other ships of choice and score an A rank on the boss nodes of [W1-2],[W1-3],[W1-4] and [W1-5].",
+        "memo": "\u27a3Rewards 2 Irako, 4 Screws and a Furniture Fairy"
+    },
+	
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -1303,6 +1321,12 @@
         "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
         "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
         "tracking": [ [0,2] ]
+    },
+	"854": {
+        "code": "Bq2",
+        "name": "Ranking Points Boost Mission! \"Operation Z\", First Part",
+        "desc": "Organize a fleet and score an A rank at the boss nodes of [W2-4], [W6-1], [W6-3], and S rank the boss node at [W6-4].",
+        "memo": "\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points"
     },
     
     

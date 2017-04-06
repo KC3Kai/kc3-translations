@@ -789,6 +789,38 @@
         "desc": "Sorti Satuan Petugas Permukaan (STF) ke [E-3], dan dapatkan minimal A-Rank di Node J 2x.",
         "memo": "\u27a3Memicu satu dari dua cara melemahkan Boss."
     },
+    "846": {
+        "code": "B91",
+        "name": "Armada Kapal Selam, patroli daerah Lautan Tengah!",
+        "desc": "Sorti SS(V) sebagai pemimpin, 3 SS(V) dengan 2 kapal tambahan ke [W6-1] dan dapatkan setidaknya B-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 3 Baut dan 1 Irako"
+		
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Misi persiapan Musim Semi: Persiapan untuk Hina Matsuri (Hari Boneka/Perempuan)~!",
+        "desc": "Sorti ke [W2-1] dan dapatkan S-Rank pada Boss Node 5x.",
+        "memo": "\u27a3hadiahnya 3 Hishimochi dan 1 Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Kapal Penjelajah Berat, Menuju Iron Bottom Sound!",
+        "desc": "Sorti Zara Due sebagai kapal pemimpin ke [W5-3] dan dapatkan setidaknya A-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya New Design Anti-Torpedo Bulge (Medium)"
+    },
+    "849": {
+        "code": "B93",
+        "name": "Hancurkan Armada musuh di Pulau Nansei!",
+        "desc": "Sorti CL sebagai pemimpin, dengan 5 kapal tambahan ke [W1-4], [W2-2], dan [W2-3], dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya 1 Irako dan 1 Mamiya."
+    },
+    "850": {
+        "code": "B94",
+        "name": "Perkuat Kapal Penerbangan di Laut Lepas.",
+        "desc": "Sorti AV/CV/CVL/CVB sebagai pemimpin, dengan 5 kapal tambahan ke [W3-5], [W4-4], dan [W6-2] dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya \"Skilled Crew Member\""
+    },
+	
     "801": {
         "code": "SB17",
         "name": "Selamat Tahun Baru! Pasukan Torpedo Mulai Sortie!",
@@ -1473,6 +1505,37 @@
         "name": "Penghancuran Saiun untuk Transport",
         "desc": "Miliki 20 Bahan Pengembang (DevMat) dan satu Saiun. Hancurkan satu \"Type 0 Reconnaissance Seaplane\". \u2623!!HATI-HATI SAAT MENGGANTI TINGKAT KESULITAN!!\u2623",
         "memo": "\u2623Mengganti tingkat kesulitan saat quest ini selesai akan menyebabkan \"Saiun (Disassembled for Transport)\" MENGHILANG!!!\n\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3 Hadiahnya \"Saiun (Disassembled for Transport)\"."
+    },
+    "656": {
+        "code": "F49",
+        "name": "Bentuk Kembali \"Seiran 631 Air Group!\"",
+        "desc": "Miliki I-401 ATAU I-13 ATAU I-14 sebagai pemimpin dan dipersenjatai dengan \"Prototype Seiran\" di slot pertama dan \"Zuiun (631 Air Group)\" di slot kedua.",
+        "memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Seiran (631 Air Group)\""
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Misi persiapan Musim Semi: Persiapan untuk Hina Matsuri (Hari Boneka/Perempuan)~!",
+        "desc": "Miliki 5000 Koin Furnitur, 2 \"Type 99 Dive Bombers\" dan 2 \"61cm Triple Torpedo Mounts\" di penyimpanan, lalu hancurkan 2 \"14cm Single Gun Mount\".",
+        "memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya 1 Furniture Fairy dan 1 Hishimochi",
+        "unlock": [ 847 ]
+    },
+    "658": {
+        "code": "F50",
+        "name": "Perkuat Persenjataan Kapal Selam",
+        "desc": "Miliki 120 Bahan Pengembang (DevMat), 3 \"61cm Quad (Oxygen) Torpedo Mount\" dan 3 \"Type 93 SONAR\" di penyimpanan, lalu hancurkan 4 \"61cm Triple Torpedo Mounts\".",
+        "memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Late Model Bow Torpedo Mount (6 Tubes)\""
+    },
+    "659": {
+        "code": "F51",
+        "name": "Bentuk Ulang Grup Pesawat Amphibi Elit Baru",
+        "desc": "Miliki \"Skilled Crew Member\" di penyimpana, lalu jadikan siapapun yang dapat mengunakan 2 \"Type 2 Seaplane Fighter Kai\"\u26057 dan \u2605MAX menjadi pemimpin, lalu hancurkan 2 \"Type 0 Fighter Model 21\" dan 2 Zuiun.",
+        "memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Type 2 Seaplane Fighter Kai (Skilled)\""
+    },
+    "660": {
+        "code": "F52",
+        "name": "Perbanyak Grup Pesawat Amphibi Elit Baru",
+        "desc": "Miliki \"Skilled Crew Member\" di penyimpana, lalu jadikan siapapun yang dapat mengunakan 2 \"Type 2 Seaplane Fighter Kai\"\u26057 dan \u2605MAX menjadi pemimpin, lalu hancurkan 2 \"Type 0 Fighter Model 21\" dan 2 Zuiun.",
+		"memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Type 2 Seaplane Fighter Kai (Skilled)\""
     },
     "701": {
         "code": "G1",

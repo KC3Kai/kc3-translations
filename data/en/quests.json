@@ -818,7 +818,7 @@
         "name": "Sortie the Ozawa Fleet!",
         "desc": "Sortie Zuikaku Kai+ as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai to [W2-4]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Zero Fighter Model 52C (601 Air Group)",
-        "unlock": [ 626 ]
+        "unlock": [ 626, 645 ]
     },
     "295": {
         "code": "B55",
@@ -1069,6 +1069,37 @@
         "desc": "Sortie a Surface Task Force to [E-3]. A-Rank+ node J twice.",
         "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
     },
+    "846": {
+        "code": "B91",
+        "name": "Submarine Fleet, patrol the Central Waters!",
+        "desc": "Send a Fleet consisting of 4 SS(V) with an SS(V) as flagship, and two random ships of choice to [W6-1] and score an B rank at the boss node.",
+        "memo": "\u27a3Rewards 3 Screws and 1 Irako",
+        "unlock": [ 656, 658, 848 ]
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparation Mission: Carry out the Hina Matsuri Preparations!",
+        "desc": "Sortie to [W2-3] and S-Rank the boss node 5 times.",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Heavy Armored Curiser, Embark into the Iron Bottom Sound!",
+        "desc": "Use a Fleet consisting of Zara Due as the flagship and go to [W5-3] and score an A rank at the boss node.",
+        "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Medium)"
+    },
+    "849": {
+        "code": "B93",
+        "name": "Defeat the Enemy Fleet at the Nansei Islands!",
+        "desc": "Send a Fleet consisting of CL as Flagship and 5 other ships of choice and S rank at the boss nodes of 1-4, 2-2, and 2-3.",
+        "unlock": [ 850 ]
+    },
+    "850": {
+        "code": "B94",
+        "name": "Expand the Offshore Aviation Forces!",
+        "desc": "Send a Fleet consisting of an AV, CVL, CV, or CVB as Flagship and 5 other ships of choice to 3-5, 4-4, and 6-2 and score an S-rank at the Boss nodes.",
+        "memo": "\u27a3Rewards a Skilled Crew Member"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1171,7 +1202,7 @@
         "name": "Weekly Submarines",
         "desc": "Sink 15 abyssal submarines.",
         "memo": "\u203bNaval Convoy Escort Op\n\u27a3Rewards a Screw ",
-        "unlock": [ 229, 241, 613 ],
+        "unlock": [ 229, 241, 613, 645 ],
         "tracking": [ [0,15] ]
     },
     "229": {
@@ -1413,7 +1444,7 @@
         "name": "Weekly Tokyo Express",
         "desc": "Complete Expedition 37 or 38.",
         "memo": "\u203bSucceed at a Southern Transport Operation!",
-        "unlock": [ 411, 420 ],
+        "unlock": [ 411, 420, 643 ],
         "tracking": [ [0,1] ]
     },
     "412": {
@@ -1737,7 +1768,6 @@
         "code": "F32",
         "name": "Preparations for New Equipment",
         "desc": "Scrap 5 pieces of equipment.",
-        "tracking": [ [0,5] ],
         "unlock": [ 312 ]
     },
     "636": {
@@ -1846,7 +1876,7 @@
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
     "653": {
-        "code": "",
+        "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
@@ -1863,7 +1893,38 @@
         "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
     },
-    
+    "656": {
+        "code": "F49",
+        "name": "Organize the Seiran 631 Air Group!",
+        "desc": "Have I-401 or I-13 or I-14 as your secretary and arm them with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards an Seiran (631 Air Group)"
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparation Mission: Hina Matsuri Preparations!",
+        "desc": "Have 5000 furniture coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked! \n\u27a3Rewards 1 Furniture Fairy and 1 Hishimochi",
+        "unlock": [ 847 ]
+    },
+    "658": {
+        "code": "F50",
+        "name": "Enhance Submarine Armaments",
+        "desc": "Have 120 development materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 Tubes)"
+    },
+    "659": {
+        "code": "F51",
+        "name": "Organize the New Elite Seaplane Group",
+        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)",
+        "unlock": [ 660 ]
+    },
+    "660": {
+        "code": "F52",
+        "name": "Expand the New Elite Seaplane Group",
+        "desc": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory while the quest is activated.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)"
+    },
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

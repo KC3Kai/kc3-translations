@@ -1074,7 +1074,7 @@
         "name": "Submarine Fleet, patrol the Central Waters!",
         "desc": "Send a Fleet consisting of 4 SS(V) with an SS(V) as flagship, and two random ships of choice to [W6-1] and score an B rank at the boss node.",
         "memo": "\u27a3Rewards 3 Screws and 1 Irako",
-        "unlock": [ 656, 658, 848 ]
+        "unlock": [ 656, 658, 848, 850, 854 ]
     },
     "847": {
         "code": "SB22",
@@ -1105,7 +1105,8 @@
         "code": "B95",
         "name": "Remodeled aviation cruiser, head out!",
         "desc": "Sortie Suzuya Kai Ni as the flagship and score an A rank at the boss nodes of [W5-1] and [W5-3]. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
-        "memo": "\u2623NOTICE!: The CVL remodel cannot complete the quest. Must be CAV.\u2623 \u27a3Rewards 4 Screws and either a New Kanhon Design Anti-torpedo Bulge (Medium) OR a Kyoufuu Kai"
+        "memo": "\u2623NOTICE!: The CVL remodel cannot complete the quest. Must be CAV.\u2623 \u27a3Rewards 4 Screws and either a New Kanhon Design Anti-torpedo Bulge (Medium) OR a Kyoufuu Kai",
+        "unlock": [ 852 ]
     },
     "852": {
         "code": "B97",
@@ -1198,7 +1199,7 @@
         "name": "Weekly Carriers",
         "desc": "Sink 20 abyssal CV(L).",
         "memo": "\u203bOperation I-Go",
-        "unlock": [ 228 ],
+        "unlock": [ 228, 854 ],
         "tracking": [ [0,20] ]
     },
     "213": {

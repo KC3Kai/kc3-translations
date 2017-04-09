@@ -359,6 +359,9 @@
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
+	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
+	"SettingsChromeSyncQuests" : "Synchronize quests",
+	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
@@ -664,6 +667,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
 	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
 	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
+	"DesktopNotifyQuestsSyncTitle" : "Quests data synchronization!",
+	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress were synchronized with Chrome Storage on the state of {0}",
 	
 	"NewsfeedRepair"    : "Repairs Complete.",
 	"NewsfeedConstrct"  : "Construction Complete.",

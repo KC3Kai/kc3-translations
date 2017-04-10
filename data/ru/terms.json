@@ -335,6 +335,9 @@
 	"SettingsDMMCustomize" : "Применить настройки",
 	"SettingsDMMForceCookies" : "Подмена Cookie",
 	
+	"SettingsDataSynchronization" : "Синхронизация данных через Chrome Storage",
+	"SettingsChromeSyncQuests" : "Синхронизовать квесты",
+	
 	"SettingsDBSubmission" :"Отправка данных на Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Включить функцию",
 	"SettingsDBSubmissionKey" : "Ключ доступа",
@@ -585,6 +588,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "Новая канмусу готова встретиться с вами в строительных доках!",
 	"DesktopNotifyMoraleTitle" : "Настроение флота восстановлено!",
 	"DesktopNotifyMoraleMessage" : "Девушки \"выбранного флота\" готовы идти в бой.",
+	"DesktopNotifyQuestsSyncTitle" : "Cинхронизация квестов!",
+	"DesktopNotifyQuestsSyncMessage" : "Квесты и их прогресс были синхронизованы с Chrome Storage на состояние от {0}",
 	
 	"LodgerPageStepRw"  : "На 1 шаг назад",
 	"LodgerPageStepFw"  : "На 1 шаг вперед",

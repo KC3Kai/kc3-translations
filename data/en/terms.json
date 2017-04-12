@@ -630,8 +630,10 @@
 	"ExpedResupply" : "Resupply",
 	"ExpedTotalIncome" : "Total" ,
 	"ExpedGSRate": "GS Rate:" ,
+	"ExpedGSRateExplainCondUnmet": "There are unmet requirements for this expedition",
+	"ExpedGSRateExplainMissingSparkle": "There are unsparkled ship(s) in the fleet",
+	"ExpedGSRateExplainNoOverdrum": "Carrying insufficient drums imposes a penalty to GS rate\nNeeded: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "Having sparkled ships increases GS rate\nCurrent: {0}",
-	"ExpedGSRateExplainExtraDrum": "Carrying extra drums increases GS rate\nCurrent: {0} / {1}",
 	
 	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
 	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",

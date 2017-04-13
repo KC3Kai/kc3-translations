@@ -295,6 +295,10 @@
 	"SettingsSSDppx" : "อัตราส่วนพิกเซลของหน้าจอ",
 	"SettingsNormal" : "ปกติ",
 
+	"SettingsPushAlerts" : "ส่งการแจ้งเตือนทางโทรศัพท์มือถือด้วย PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "เปิดใช้งาน",
+	"SettingsPushAlertsKey" : "Access key",
+	
 	"SettingsAlerts" : "การแจ้งเตือน",
 	"SettingsTimeDiff" : "แจ้งเตือนล่วงหน้า",
 	"SettingsMoraleNotif" : "แจ้งเตือนกำลังใจกองเรือ",
@@ -359,6 +363,9 @@
 	"SettingsDMMCustomize" : "ตั้งค่าการปรับแต่ง",
 	"SettingsDMMForceCookies" : "บังคับใช้งาน Cookie Hack",
 
+	"SettingsDataSynchronization" : "ซิงค์ข้อมูลผ่านทาง Chrome Storage",
+	"SettingsChromeSyncQuests" : "ซิงค์ข้อมูลเควส",
+	
 	"SettingsDBSubmission" : "ส่งข้อมูลให้ Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "เปิดใช้งาน",
 	"SettingsDBSubmissionKey" : "Access key",
@@ -627,8 +634,10 @@
 	"ExpedResupply" : "เติมทรัพย์",
 	"ExpedTotalIncome" : "รวม" ,
 	"ExpedGSRate": "โอกาสสำเร็จโบนัส:" ,
-	"ExpedGSRateExplainSparkle": "เพิ่มเรือที่มีกำลังใจสูง เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0}",
-	"ExpedGSRateExplainExtraDrum": "เพิ่มจำนวนถังสำรวจ เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0} / {1}",
+	"ExpedGSRateExplainCondUnmet": "กองเรือยังไม่ผ่านเงื่อนไขการสำรวจ",
+	"ExpedGSRateExplainMissingSparkle": "ไม่มีเรือที่มีกำลังใจสูงในกองเรือ",
+	"ExpedGSRateExplainNoOverdrum": "จำนวนถังสำรวจไม่เพียงพอสำหรับการเพิ่มโอกาสสำเร็จโบนัส \nต้องการ: {0} / {1}",
+	"ExpedGSRateExplainSparkle": "มีเรือที่มีกำลังใจสูง เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0}",
 
 	"CraftEquipNoteFirst" : "เพิ่งจะเคยได้ <strong>ชิ้นแรก</strong>!",
 	"CraftEquipNoteExists" : "ตอนนี้มี <strong>{0}</strong> ชิ้น!",
@@ -664,7 +673,9 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "เรือลำใหม่ต่อเสร็จแล้ว ไปดูกันเถอะว่าใครมา!",
 	"DesktopNotifyMoraleTitle" : "ค่ากำลังใจพร้อมแล้ว!",
 	"DesktopNotifyMoraleMessage" : "ทุกคนในกองเรือนี้ ค่ากำลังใจพร้อมแล้ว",
-
+	"DesktopNotifyQuestsSyncTitle" : "ซิงค์ข้อมูลเควสเรียบร้อยแล้ว!",
+	"DesktopNotifyQuestsSyncMessage" : "กำลังทำการซิงค์ข้อมูลผ่านทาง Chrome Storage {0}",
+	
 	"NewsfeedRepair"    : "ซ่อมบำรุงเสร็จแล้ว",
 	"NewsfeedConstrct"  : "ต่อเรือเสร็จแล้ว",
 	"NewsfeedExped"     : "กองเรือสำรวจกลับมาแล้ว",

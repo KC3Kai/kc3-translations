@@ -295,10 +295,6 @@
 	"SettingsSSDppx" : "อัตราส่วนพิกเซลของหน้าจอ",
 	"SettingsNormal" : "ปกติ",
 
-	"SettingsPushAlerts" : "ส่งการแจ้งเตือนทางโทรศัพท์มือถือด้วย PushBullet (https://www.pushbullet.com/)",
-	"SettingsEnablePushAlerts" : "เปิดใช้งาน",
-	"SettingsPushAlertsKey" : "Access key",
-	
 	"SettingsAlerts" : "การแจ้งเตือน",
 	"SettingsTimeDiff" : "แจ้งเตือนล่วงหน้า",
 	"SettingsMoraleNotif" : "แจ้งเตือนกำลังใจกองเรือ",
@@ -317,6 +313,7 @@
 	"SettingsShowCounter" : "โชว์การจับเวลา",
 	"SettingsIdleWarnStartAt" : "แจ้งเตือนเวลาทิ้งหน้าจอนาน",
 	"SettingsIdleWarnDesc" : "ถ้าทิ้งไว้นานกี่วินาทีถึงจะแจ้งเตือน, 0 คือปิดการใช้งาน",
+	"SettingsRscCapWarnFrom" : "แจ้งเตือนยุทธปัจจัยเต็ม",
 	
 	"SettingsTaihaAlert" : "แจ้งเตือนเรือเสียหายหนัก",
 	"SettingsScreenBlur" : "เบลอหน้าจอ (ของเก่า)",
@@ -358,14 +355,18 @@
 	"SubtitleDisplayEvade": "[ด้านล่าง/หลบ] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะแสดงที่ด้านบนของหน้าจอเกมแทน",
 	"SubtitleDisplayGhost": "[ด้านล่าง/ซ่อน] แสดงซับไตเติ้ลที่ด้านล่าง หากใช้เมาส์ชี้จะปิดการแสดง",
 	"SubtitleDisplayFree": "[กำหนดเอง] จุดที่แสดงซับไตเติ้ลย้ายได้ตามความต้องการ",
-	
+
 	"SettingsDMMGameplay" : "ตั้งค่าหน้าเว็บ DMM",
 	"SettingsDMMCustomize" : "ตั้งค่าการปรับแต่ง",
 	"SettingsDMMForceCookies" : "บังคับใช้งาน Cookie Hack",
 
 	"SettingsDataSynchronization" : "ซิงค์ข้อมูลผ่านทาง Chrome Storage",
 	"SettingsChromeSyncQuests" : "ซิงค์ข้อมูลเควส",
-	
+
+	"SettingsPushAlerts" : "ส่งการแจ้งเตือนทางโทรศัพท์มือถือด้วย PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "เปิดใช้งาน",
+	"SettingsPushAlertsKey" : "Access Token",
+
 	"SettingsDBSubmission" : "ส่งข้อมูลให้ Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "เปิดใช้งาน",
 	"SettingsDBSubmissionKey" : "Access key",

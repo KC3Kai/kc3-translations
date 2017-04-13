@@ -295,10 +295,6 @@
 	"SettingsSSDppx": "Device Pixel Ratio",
 	"SettingsNormal": "Normal",
 	
-	"SettingsPushAlerts" : "Send mobile push notifications using PushBullet (https://www.pushbullet.com/)",
-	"SettingsEnablePushAlerts" : "Enable this feature",
-	"SettingsPushAlertsKey" : "Access key",
-	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",
 	"SettingsMoraleNotif" : "Morale Notification",
@@ -366,10 +362,14 @@
 	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
 	"SettingsChromeSyncQuests" : "Synchronize quests",
 	
+	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "Enable this feature",
+	"SettingsPushAlertsKey" : "Access Token",
+	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
-
+	
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 	

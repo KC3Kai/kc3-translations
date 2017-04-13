@@ -329,6 +329,10 @@
 	"SettingsDMMCustomize" : "カスタマイズを適用",
 	"SettingsDMMForceCookies" : "Cookieハック実施",
 
+	"SettingsDataSynchronization" : "Chrome Storageを使って同期するデータ",
+	"SettingsEnableDataSyncNotif" : "同期した際の通知",
+	"SettingsChromeSyncQuests" : "任務完成度",
+
 	"SettingsPushAlerts" : "PushBulletへ通知を送信 (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "送信する",
 	"SettingsPushAlertsKey" : "Access Token",
@@ -631,6 +635,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "新しい艦娘が艦隊に加わりました。",
 	"DesktopNotifyMoraleTitle" : "艦隊コンディション回復！",
 	"DesktopNotifyMoraleMessage" : "選択した艦隊の艦娘たちが只今疲労状態から回復しました。",
+	"DesktopNotifyQuestsSyncTitle" : "任務データを同期した！",
+	"DesktopNotifyQuestsSyncMessage" : "任務(クエスト)の完成度が同期されました。\nデータは {0} のものです。",
 
 	"NewsfeedRepair"    : "「入渠」していた艦の修理が、完了しました。",
 	"NewsfeedConstrct"  : "「工廠」で、建造が完了した艦があります。",

@@ -361,6 +361,7 @@
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
 	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
+	"SettingsEnableDataSyncNotif" : "Enable notifications",
 	"SettingsChromeSyncQuests" : "Synchronize quests",
 	
 	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
@@ -674,8 +675,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
 	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
 	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
-	"DesktopNotifyQuestsSyncTitle" : "Quests data synchronization!",
-	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress were synchronized with Chrome Storage on the state of {0}",
+	"DesktopNotifyQuestsSyncTitle" : "Quests synchronization!",
+	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress have been updated\nData from {0}",
 	
 	"NewsfeedRepair"    : "Repairs Complete.",
 	"NewsfeedConstrct"  : "Construction Complete.",

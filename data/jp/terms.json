@@ -282,6 +282,7 @@
 	"SettingsShowCounter"    : "表示",
 	"SettingsIdleWarnStartAt": "放置画面何秒後開始",
 	"SettingsIdleWarnDesc"   : "何秒の後から放置画面を表示する。0にすると無効になる。",
+	"SettingsRscCapWarnFrom" : "最大備蓄可能各資材量超え",
 
 	"SettingsTaihaAlert"          : "大破警告エフェクト",
 	"SettingsScreenBlur"          : "画面ぼかし(旧モード)",
@@ -327,6 +328,14 @@
 	"SettingsDMMGameplay" : "DMMゲームモード",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
 	"SettingsDMMForceCookies" : "Cookieハック実施",
+
+	"SettingsDataSynchronization" : "Chrome Storageを使って同期するデータ",
+	"SettingsEnableDataSyncNotif" : "同期した際の通知",
+	"SettingsChromeSyncQuests" : "任務完成度",
+
+	"SettingsPushAlerts" : "PushBulletへ通知を送信 (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "送信する",
+	"SettingsPushAlertsKey" : "Access Token",
 
 	"SettingsDBSubmission" : "艦これDBへの送信 (http://kancolle-db.net/login.php)",
 	"SettingsEnableDBSubmission" : "送信する",
@@ -589,8 +598,10 @@
 	"ExpedResupply"   : "補給消費",
 	"ExpedTotalIncome": "実際収入" ,
 	"ExpedGSRate": "大成功率:" ,
+	"ExpedGSRateExplainCondUnmet": "この遠征には必須条を満たしてません",
+	"ExpedGSRateExplainMissingSparkle": "キラキラじゃない艦娘があります",
+	"ExpedGSRateExplainNoOverdrum": "規定以上のドラム缶数が大成功率も\n　ドラム缶：{0} / {1}",
 	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率上げる可能\n　キラ艦：{0}",
-	"ExpedGSRateExplainExtraDrum": "規定以上のドラム缶数が大成功率も\n　ドラム缶：{0} / {1}",
 
 	"CraftEquipNoteFirst" : "この装備は初入手です！",
 	"CraftEquipNoteExists" : "この装備は{0}個持ってます！",
@@ -626,6 +637,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "新しい艦娘が艦隊に加わりました。",
 	"DesktopNotifyMoraleTitle" : "艦隊コンディション回復！",
 	"DesktopNotifyMoraleMessage" : "選択した艦隊の艦娘たちが只今疲労状態から回復しました。",
+	"DesktopNotifyQuestsSyncTitle" : "任務データを同期した！",
+	"DesktopNotifyQuestsSyncMessage" : "任務(クエスト)の完成度が同期されました。\nデータは {0} のものです。",
 
 	"NewsfeedRepair"    : "「入渠」していた艦の修理が、完了しました。",
 	"NewsfeedConstrct"  : "「工廠」で、建造が完了した艦があります。",

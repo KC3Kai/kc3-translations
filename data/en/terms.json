@@ -281,7 +281,6 @@
 	"SettingsAAFCombAntiSub"  : "Combined (Anti-Sub)",
 	"SettingsAAFCombDiamond"  : "Combined (Diamond)",
 	"SettingsImaginaryEnemySlot" : "Enemy Bomber Slot",
-	"SettingsSpecialCounterAdjust" : "Quest Counter Adjust",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -294,10 +293,6 @@
 	"SettingsSSDirDesc" : "Specify subfolder of /Downloads/",
 	"SettingsSSDppx": "Device Pixel Ratio",
 	"SettingsNormal": "Normal",
-	
-	"SettingsPushAlerts" : "Send mobile push notifications using PushBullet (https://www.pushbullet.com/)",
-	"SettingsEnablePushAlerts" : "Enable this feature",
-	"SettingsPushAlertsKey" : "Access key",
 	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",
@@ -317,6 +312,7 @@
 	"SettingsShowCounter" : "Show Counter",
 	"SettingsIdleWarnStartAt" : "Idle Screen after",
 	"SettingsIdleWarnDesc" : "Time in seconds before idle screen shows, 0 for disable.",
+	"SettingsRscCapWarnFrom" : "Warn Resources Cap From",
 	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	"SettingsScreenBlur" : "Screen Blur (Old mode)",
@@ -364,12 +360,17 @@
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	
 	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
+	"SettingsEnableDataSyncNotif" : "Enable notifications",
 	"SettingsChromeSyncQuests" : "Synchronize quests",
+	
+	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "Enable this feature",
+	"SettingsPushAlertsKey" : "Access Token",
 	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
-
+	
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 	
@@ -595,8 +596,6 @@
 	"LandBaseActionRest" : "Rest",
 	"LandBaseTipFighterPower" : "Sortie fighter power",
 	"LandBaseTipAirDefensePower" : "Air defense interception power",
-	"LandBaseTipInterceptFighters" : "Interception against fighters",
-	"LandBaseTipInterceptBombers" : "Interception against bombers",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
@@ -673,8 +672,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
 	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
 	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
-	"DesktopNotifyQuestsSyncTitle" : "Quests data synchronization!",
-	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress were synchronized with Chrome Storage on the state of {0}",
+	"DesktopNotifyQuestsSyncTitle" : "Quests synchronization!",
+	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress have been updated\nData from {0}",
 	
 	"NewsfeedRepair"    : "Repairs Complete.",
 	"NewsfeedConstrct"  : "Construction Complete.",

@@ -336,6 +336,7 @@
 	"SettingsDMMForceCookies" : "Подмена Cookie",
 	
 	"SettingsDataSynchronization" : "Синхронизация данных через Chrome Storage",
+	"SettingsEnableDataSyncNotif" : "Включить уведомления",
 	"SettingsChromeSyncQuests" : "Синхронизовать квесты",
 	
 	"SettingsDBSubmission" :"Отправка данных на Kancolle DB (http://kancolle-db.net/login.php)", 
@@ -589,7 +590,7 @@
 	"DesktopNotifyMoraleTitle" : "Настроение флота восстановлено!",
 	"DesktopNotifyMoraleMessage" : "Девушки \"выбранного флота\" готовы идти в бой.",
 	"DesktopNotifyQuestsSyncTitle" : "Cинхронизация квестов!",
-	"DesktopNotifyQuestsSyncMessage" : "Квесты и их прогресс были синхронизованы с Chrome Storage на состояние от {0}",
+	"DesktopNotifyQuestsSyncMessage" : "Квесты и их прогресс обновлены\nДанные от {0}",
 	
 	"LodgerPageStepRw"  : "На 1 шаг назад",
 	"LodgerPageStepFw"  : "На 1 шаг вперед",

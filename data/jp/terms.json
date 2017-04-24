@@ -325,9 +325,11 @@
 	"SubtitleDisplayGhost"  : "(Ghost) ゲーム画面下部だがマウスーを避けて消える",
 	"SubtitleDisplayFree"   : "(Free) 自由に字幕の文字を移動できる",
 
-	"SettingsDMMGameplay" : "DMMゲームモード",
+	"SettingsDMMGameplay" : "DMMサイトのカスタム",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
 	"SettingsDMMForceCookies" : "Cookieハック実施",
+	"SettingsDMMCustomCSS" : "CSSカスタマイズ",
+	"SettingsDMMCustomCSSTip" : "有効なCSS3を使ってDMM公式サイトをカスタマイズできます。CSSとDMM公式サイトのソースコードをよく理解し、自己責任で書いてください。これを有効するにはゲームページをリロードする必要があります。一部のCSSに`!important`をつけるのを忘れないでね。",
 
 	"SettingsDataSynchronization" : "Chrome Storageを使って同期するデータ",
 	"SettingsEnableDataSyncNotif" : "同期した際の通知",

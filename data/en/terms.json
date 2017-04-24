@@ -358,6 +358,8 @@
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
+	"SettingsDMMCustomCSS" : "Custom CSS",
+	"SettingsDMMCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and DMM sources. To see changes, reload DMM game page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	
 	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
 	"SettingsEnableDataSyncNotif" : "Enable notifications",

@@ -281,7 +281,6 @@
 	"SettingsAAFCombAntiSub"  : "Combined (Anti-Sub)",
 	"SettingsAAFCombDiamond"  : "Combined (Diamond)",
 	"SettingsImaginaryEnemySlot" : "Enemy Bomber Slot",
-	"SettingsSpecialCounterAdjust" : "Quest Counter Adjust",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -313,6 +312,7 @@
 	"SettingsShowCounter" : "Show Counter",
 	"SettingsIdleWarnStartAt" : "Idle Screen after",
 	"SettingsIdleWarnDesc" : "Time in seconds before idle screen shows, 0 for disable.",
+	"SettingsRscCapWarnFrom" : "Warn Resources Cap From",
 	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	"SettingsScreenBlur" : "Screen Blur (Old mode)",
@@ -358,13 +358,26 @@
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
+	"SettingsDMMCustomCSS" : "Custom CSS",
+	"SettingsDMMCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and DMM sources. To see changes, reload DMM game page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+	
+	"SettingsDataSynchronization" : "Data synchronization via Chrome Storage",
+	"SettingsEnableDataSyncNotif" : "Enable notifications",
+	"SettingsChromeSyncQuests" : "Synchronize quests",
+	
+	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "Enable this feature",
+	"SettingsPushAlertsKey" : "Access Token",
 	
 	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
-
+	
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
+	
+	"SettingsOpenDBSubmission" :"Send data to Kancolle OpenDB (http://swaytwig.com/opendb/)",
+	"SettingsEnableOpenDBSubmission" : "Enable this feature",
 	
 	"SettingsKC3DBSubmission" :"Send data to KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Enable and help out",
@@ -588,8 +601,6 @@
 	"LandBaseActionRest" : "Rest",
 	"LandBaseTipFighterPower" : "Sortie fighter power",
 	"LandBaseTipAirDefensePower" : "Air defense interception power",
-	"LandBaseTipInterceptFighters" : "Interception against fighters",
-	"LandBaseTipInterceptBombers" : "Interception against bombers",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
@@ -627,8 +638,10 @@
 	"ExpedResupply" : "Resupply",
 	"ExpedTotalIncome" : "Total" ,
 	"ExpedGSRate": "GS Rate:" ,
+	"ExpedGSRateExplainCondUnmet": "There are unmet requirements for this expedition",
+	"ExpedGSRateExplainMissingSparkle": "There are unsparkled ship(s) in the fleet",
+	"ExpedGSRateExplainNoOverdrum": "Carrying insufficient drums imposes a penalty to GS rate\nNeeded: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "Having sparkled ships increases GS rate\nCurrent: {0}",
-	"ExpedGSRateExplainExtraDrum": "Carrying extra drums increases GS rate\nCurrent: {0} / {1}",
 	
 	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
 	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
@@ -664,6 +677,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "A new shipgirl is ready to see you in the construction docks!",
 	"DesktopNotifyMoraleTitle" : "Fleet Morale Recovered!",
 	"DesktopNotifyMoraleMessage" : "Everyone on the \"currently selected fleet\" has recovered from fatigue.",
+	"DesktopNotifyQuestsSyncTitle" : "Quests synchronization!",
+	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress have been updated\nData from {0}",
 	
 	"NewsfeedRepair"    : "Repairs Complete.",
 	"NewsfeedConstrct"  : "Construction Complete.",

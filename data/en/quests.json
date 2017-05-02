@@ -818,7 +818,7 @@
         "name": "Sortie the Ozawa Fleet!",
         "desc": "Sortie Zuikaku Kai+ as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai to [W2-4]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Zero Fighter Model 52C (601 Air Group)",
-        "unlock": [ 626 ]
+        "unlock": [ 626, 645 ]
     },
     "295": {
         "code": "B55",
@@ -1063,13 +1063,58 @@
         "desc": "Sortie Arashio Kai Ni as flagship, one of Asashio, Ooshio, or Michishio, and 4 additional ships to [W5-5]. A-Rank+ the boss node 2 times.",
         "memo": "\u27a3Rewards 4 Screws and a Reinforcement Expansion"
     },
-    "845": {
-        "code": "OH3",
-        "name": "Sever the Rear Logistics of the Enemy's Large-Scale Anchorage!",
-        "desc": "Sortie a Surface Task Force to [E-3]. A-Rank+ node J twice.",
-        "memo": "\u27a3Inflicts one of the two existing debuffs on the boss."
+    "846": {
+        "code": "B91",
+        "name": "Submarine Fleet, Execute Patrols in the Central Waters!",
+        "desc": "Sortie an SS(V) as flagship, 3 other SS(V), and two additional ships to [W6-1]. B-Rank+ the boss node.",
+        "memo": "\u27a3Rewards 3 Screws and 1 Irako",
+        "unlock": [ 656, 658, 848, 850, 854 ]
     },
-    
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
+        "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Armored Heavy Cruiser, Rush into the Iron Bottom Sound!",
+        "desc": "Sortie Zara Due as flagship to [W5-3]. A-Rank+ the boss node.",
+        "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Medium)"
+    },
+    "849": {
+        "code": "B93",
+        "name": "Crush the Enemy Fleet in the Nansei Islands Region!",
+        "desc": "Sortie a CL as flagship and 5 additional ships to [W1-4], [W2-2] and [W2-3]. S-Rank the boss nodes of each.",
+		"memo": "\u27a3Rewards 1 Mamiya and 1 Irako",
+        "unlock": [ 850 ]
+    },
+    "850": {
+        "code": "B94",
+        "name": "Expand the Offshore Aviation Forces!",
+        "desc": "Sortie a CV/CVB/CVL/AV as flagship and 5 additional ships [W3-5], [W4-4] and [W6-2]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards a Skilled Crew Member"
+    },
+    "851": {
+        "code": "B95",
+        "name": "Remodeled Aviation Cruiser, Sortie!",
+        "desc": "Sortie Suzuya Kai Ni (not CVL) as flagship to [W5-1] and [W5-3]. A-Rank+ the boss nodes of each. You will be prompted to select a reward. Press F10 to clear the overlay.",
+        "memo": "\u2623NOTICE\u2623 The CVL remodel cannot complete this quest. Suzuya must be a CAV.\n\u27a3Rewards 4 Screws and either a Kyoufuu Kai OR a New Kanhon Design Anti-torpedo Bulge (Medium)",
+        "unlock": [ 852 ]
+    },
+    "852": {
+        "code": "B96",
+        "name": "Remodeled Light Attack Carrier, Deploy to the Front Lines!",
+        "desc": "Sortie Suzuya-Kou Kai Ni (not CAV) to [W6-2] and [W6-5]. S-Rank the boss nodes of each.",
+        "memo": "\u2623NOTICE\u2623 The CAV remodel cannot complete this quest. Suzuya must be a CVL.\n\u27a3Rewards a Type 0 Fighter Model 63 (Fighter-bomber) and a 8cm High-angle Gun Kai + Extra Machine Guns"
+    },
+    "853": {
+        "code": "B97",
+        "name": "Vigilantly Patrol the Waters of the Naval Base!",
+        "desc": "Sortie a CL/CA(V) as flagship and at least 2 DD in any suitable fleet composition to [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards 2 Irako, 4 Screws and a Furniture Fairy"
+    },
+	
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -1148,7 +1193,7 @@
         "name": "Weekly Carriers",
         "desc": "Sink 20 abyssal CV(L).",
         "memo": "\u203bOperation I-Go",
-        "unlock": [ 228 ],
+        "unlock": [ 228, 854 ],
         "tracking": [ [0,20] ]
     },
     "213": {
@@ -1171,7 +1216,7 @@
         "name": "Weekly Submarines",
         "desc": "Sink 15 abyssal submarines.",
         "memo": "\u203bNaval Convoy Escort Op\n\u27a3Rewards a Screw ",
-        "unlock": [ 229, 241, 613 ],
+        "unlock": [ 229, 241, 613, 645 ],
         "tracking": [ [0,15] ]
     },
     "229": {
@@ -1272,6 +1317,12 @@
         "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
         "tracking": [ [0,2] ]
     },
+	"854": {
+        "code": "Bq2",
+        "name": "Quarterly Ranking Points",
+        "desc": "Sortie to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
+        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points"
+    },
     
     
     "301": {
@@ -1352,6 +1403,12 @@
         "name": "Mass Exercises for Winter",
         "desc": "Secure 8 victories in Exercises within the same day."
     },
+    "315": {
+        "code": "C12",
+        "name": "Mass Exercises for Spring",
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "memo": "\u27a3Rewards a Present Box"
+    },
     
     
     "401": {
@@ -1413,7 +1470,7 @@
         "name": "Weekly Tokyo Express",
         "desc": "Complete Expedition 37 or 38.",
         "memo": "\u203bSucceed at a Southern Transport Operation!",
-        "unlock": [ 411, 420 ],
+        "unlock": [ 411, 420, 643 ],
         "tracking": [ [0,1] ]
     },
     "412": {
@@ -1737,7 +1794,6 @@
         "code": "F32",
         "name": "Preparations for New Equipment",
         "desc": "Scrap 5 pieces of equipment.",
-        "tracking": [ [0,5] ],
         "unlock": [ 312 ]
     },
     "636": {
@@ -1846,24 +1902,43 @@
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
     "653": {
-        "code": "",
+        "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
-    "654": {
-        "code": "OH2",
-        "name": "Saiun Procurement and Dismantlement for Transport",
-        "desc": "Have 10 Development Materials and one Type 97 Torpedo Bomber. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES\u2623",
-        "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
+    "656": {
+        "code": "F49",
+        "name": "Form the Seiran 631 Air Group!",
+        "desc": "Set I-401, I-13 or I-14 as secretary. Equip a Prototype Seiran in her first slot and a Zuiun (631 Air Group) in her second slot.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Seiran (631 Air Group)"
     },
-    "655": {
-        "code": "OH1",
-        "name": "Saiun Dismantlement for Transport",
-        "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
-        "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparatory Mission: Preparation for Hinamatsuri!",
+        "desc": "Have 5000 Furniture Coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy and a Hishimochi",
+        "unlock": [ 847 ]
     },
-    
+    "658": {
+        "code": "F50",
+        "name": "Submarine Armament Enhancement",
+        "desc": "Have 120 Development Materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 Tubes)"
+    },
+    "659": {
+        "code": "F51",
+        "name": "The Newly Formed Elite Naval Fighter Squadron",
+        "desc": "Have a Skilled Crew Member. Equip a secretary with a >> \u2605max Type 2 Seaplane Fighter Kai in her first slot. Scrap two Type 0 Fighter Model 21s and 2 Zuiun.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)",
+        "unlock": [ 660 ]
+    },
+    "660": {
+        "code": "F52",
+        "name": "The Increasing Trend of Elite Naval Fighter Squadrons",
+        "desc": "Have a Skilled Crew Member. Equip a secretary with a >> \u2605max Type 2 Seaplane Fighter Kai in the first slot. Scrap two Type 0 Fighter Model 21s and 2 Zuiun.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)"
+    },
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

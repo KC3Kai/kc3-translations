@@ -10,8 +10,16 @@
 		" zwei" : " zwei",
 		" drei" : " drei",
 		" due"  : " due",
+		"-壊"	: " - Damaged",
 		"後期型": " Late Model",
-		"-壊"	: " - Damaged"
+		"姫"	: " Princess",
+		"鬼"	: " Demon",
+		"要塞"	: " Fortress",
+		"戦姫"	: " War Princess",
+		"戦鬼"	: " War Demon",
+		"小鬼"	: " Imp",
+		"小鬼群"	: " Imp Pack",
+		"級"	: "-Class"
 	},
 
 	"prefixes": {
@@ -38,7 +46,28 @@
 		"買い物"       : "Wine ",
 		"買い出し"     : "Shopping ",
 		"親子丼"       : "Oyakodon ",
-		"携帯"         : "Mobile "
+		"携帯"         : "Mobile ",
+		"戦艦"         : "Battleship ",
+		"駆逐"         : "Destroyer ",
+		"軽巡"         : "Light Cruiser ",
+		"潜水"         : "Submarine ",
+		"重巡"         : "Heavy Cruiser ",
+		"雷巡"         : "Torpedo Cruiser ",
+		"軽母"         : "Light Carrier ",
+		"輸送"         : "Transport Ship ",
+		"水母"		:"Seaplane Tender ",
+		"深海"         : "Abyssal ",
+		"防空"		: "Air Defense ",
+		"泊地"		: "Anchorage ",
+		"港湾"		: "Harbour ",
+		"離島"		: "Isolated Island ",
+		"中間"		: "Midway ",
+		"中枢"		: "Central ",
+		"北方"		: "Northern ",
+		"南方"		: "Southern ",
+		"集積地"		: "Supply Depot ",
+		"リコリス"		: "Lycoris ",
+		"運河"		: "Canal "
 	},
 
 	"yomi": {

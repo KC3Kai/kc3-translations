@@ -337,10 +337,11 @@
 	"SettingsCustomSound" : "自定义提示音",
 	"SettingsDesktopNotif" : "桌面通知",
 	"SettingsIdleWarning" : "闲置状态计时",
-	"SettingsIdleWarnDesc"	 : "若在指定秒数内无操作则进入闲置状态（界面变暗），设为0关闭此功能",
+	"SettingsIdleWarnDesc" : "若在指定秒数内无操作则进入闲置状态（界面变暗），设为0关闭此功能",
 	"SettingsHideCounter" : "隐藏计数",
 	"SettingsShowCounter" : "显示计数",
 	"SettingsIdleWarnStartAt": "进入闲置状态延时",
+	"SettingsRscCapWarnFrom" : "警示资源已达到上限的",
 
 	"SettingsTaihaAlert" : "大破警报",
 	"SettingsScreenBlur" : "屏幕模糊",
@@ -384,9 +385,19 @@
 	"SubtitleDisplayGhost": "固定于下方（界面内），鼠标经过时透明",
 	"SubtitleDisplayFree": "自由模式，可拖拽",
 
-	"SettingsDMMGameplay" : "网页模式",
+	"SettingsDMMGameplay" : "DMM网站页面定制",
 	"SettingsDMMCustomize" : "开启定制",
 	"SettingsDMMForceCookies" : "强制模拟地域Cookie",
+	"SettingsDMMCustomCSS" : "自定义CSS样式",
+	"SettingsDMMCustomCSSTip" : "使用合法的CSS3语法定制页面样式。如果你不熟悉CSS以及DMM网站源码，请不要改动。要使改动生效，需要重新加载DMM网站页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
+
+	"SettingsDataSynchronization" : "通过登录Chrome账户同步数据",
+	"SettingsEnableDataSyncNotif" : "同步成功时显示桌面通知",
+	"SettingsChromeSyncQuests" : "同步任务追踪",
+
+	"SettingsPushAlerts" : "通过 PushBullet (https://www.pushbullet.com/) 发送移动设备通知",
+	"SettingsEnablePushAlerts" : "启用功能",
+	"SettingsPushAlertsKey" : "密钥（Access Token）",
 
 	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
 	"SettingsEnableDBSubmission" : "启用功能",
@@ -395,6 +406,9 @@
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
+	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://swaytwig.com/opendb/) 发送数据",
+	"SettingsEnableOpenDBSubmission": "启用功能",
+
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
 
@@ -402,6 +416,8 @@
 	"SettingsPanelOpacity" : "界面不透明度 (opacity)",
 	"SettingsGearHolder" : "装备背景色",
 	"SettingsPanelBoxBackColor" : "情报面板背景色",
+	"SettingsPanelCustomCSS" : "自定义CSS样式",
+	"SettingsPanelCustomCSSTip" : "使用合法的CSS3语法定制信息面板样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要关闭再重新打开信息面板。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
 	"SettingsLegacyPanel" : "面板（旧主题）",
 
@@ -416,6 +432,8 @@
 
 	"SettingsStrategyRoom" : "作战指挥所",
 	"SettingsStrategyTheme" : "作战指挥所主题",
+	"SettingsStrategyCustomCSS" : "自定义CSS样式",
+	"SettingsStrategyCustomCSSTip" : "使用合法的CSS3语法定制作战指挥所样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要重新加载作战指挥所页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
@@ -663,6 +681,9 @@
 	"ExpedGSRate": "大成功率：" ,
 	"ExpedGSRateExplainSparkle": "舰队中包含高士气舰娘时可提升远征大成功率\n现有：{0}",
 	"ExpedGSRateExplainExtraDrum": "携带额外的“桶（运输用）”可提升此远征大成功率\n现有：{0}/{1}",
+	"ExpedGSRateExplainCondUnmet": "该远程有必要条件没被满足",
+	"ExpedGSRateExplainMissingSparkle": "舰队中包含有不是高士气的舰娘",
+	"ExpedGSRateExplainNoOverdrum": "携带的“桶（运输用）”不足会降低远征的大成功率\n现有: {0}/{1}",
 
 	"CraftEquipNoteFirst" : "<strong>首次</strong>开发出此装备！",
 	"CraftEquipNoteExists" : "目前持有<strong>{0}</strong>件！",
@@ -698,6 +719,8 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "新的舰娘已在建造槽等候您了！",
 	"DesktopNotifyMoraleTitle" : "舰队疲劳度恢复！",
 	"DesktopNotifyMoraleMessage" : "当前所选舰队的所有舰娘疲劳度皆已恢复！",
+	"DesktopNotifyQuestsSyncTitle" : "任务跟踪已同步！",
+	"DesktopNotifyQuestsSyncMessage" : "任务跟踪进度已经被更新\n数据最后更新于 {0}",
 
 	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
 	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",

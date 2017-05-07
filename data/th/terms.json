@@ -412,7 +412,6 @@
 	"UpdateNotifText": "คลิกเพื่อดูรายการในหน้าอัพเดท",
 
 	"PageUpdateTitle": "KC3Kai สถานะการอัพเดท",
-	"PageUpdateReady": "พร้อมอัพเดทแล้ว แต่ต้องมีการเปิดปิดเกมใหม่",
 	"PageUpdateReadyText": "เวอร์ชั่นใหม่พร้อมอัพเดทแล้ว แต่ต้องมีการเปิดปิดเกมใหม่ หรือคุณเลือกที่จะเปิดปิดเกมใหม่ภายหลังได้เมื่อคุณเสร็จจากการออกเรือ โปรดทราบว่าถ้าคุณเลือกที่จะเปิดปิดเกมใหม่ทันที เกมจะปิดเดี๋ยวนี้ คุณจะต้องรีโหลดเปิดปิดแผงควบคุมใหม่ด้วย",
 	"PageUpdateRestartNow": "เปิดปิดเกมใหม่ทันที",
 	"PageUpdateRestartLater": "เปิดปิดเกมใหม่ภายหลัง",
@@ -441,9 +440,16 @@
 	"APIConcealExpl" : "วางเมาส์เพื่อดู API ของคุณ",
 
 	"GameUpdateDetected" : "มีอัพเดทใหม่!",
-	"GameUpdateBoth" : "มีเรือใหม่ {0} ลำ</strong> และ <strong>อุปกรณ์ใหม่ {1} ชิ้น</strong>! คุณสามารถดูข้อมูลใหม่ได้ในเมนูห้องผู้การ!",
-	"GameUpdateShips" : "มีเรือใหม่ <strong>{0} ลำ</strong>! คุณสามารถดูข้อมูลใหม่ได้ในเมนูห้องผู้การ!",
-	"GameUpdateEquips" : "มีอุปกรณ์ใหม่ <strong>{0} ชิ้น</strong>! คุณสามารถดูข้อมูลใหม่ได้ในเมนูห้องผู้การ!",
+	"GameUpdateBoth" : "มีเรือใหม่ {0} ลำ</strong> และ <strong>อุปกรณ์ใหม่ {1} ชิ้น</strong>!",
+	"GameUpdateShips" : "มีเรือใหม่ <strong>{0} ลำ</strong>!",
+	"GameUpdateEquips" : "มีอุปกรณ์ใหม่ <strong>{0} ชิ้น</strong>!",
+	"GameUpdateLink" : "ดูข้อมูลใหม่ได้ในเมนูห้องผู้การ!",
+	
+	"BossDebuffedTitle"   : "บอสมีการเปลี่ยนแปลง!",
+	"BossDebuffedMessage" : "ตรวจพบการเปลี่ยนแปลงของบอส {0}",
+	"BossDebuffedYes"     : "บอสถูกดีบัฟแล้ว!",
+	"BossDebuffedNo"      : "การดีบัฟบอสถูกรีเซ็ต!",
+	
 	"CatBombServerCommErrorTitle" : "ไม่สามารถเชื่อมต่อเซิร์ฟเวอร์ได้",
 	"CatBombServerCommErrorMsg" : "[{0}] ไม่สามารถเชื่อมต่อเซิร์ฟเวอร์. อาจเป็นปัญหาของ API หรือระบบอินเทอร์เน็ต",
 	"CatBombHardAPIErrorTitle" : "Hard API Error",
@@ -601,8 +607,6 @@
 	"LandBaseActionRest" : "พักผ่อน",
 	"LandBaseTipFighterPower" : "เครื่องบินขับไล่สกัดกั้น",
 	"LandBaseTipAirDefensePower" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
-	"LandBaseTipInterceptFighters" : "เครื่องบินสกัดกั้นป้องกันน่านฟ้า",
-	"LandBaseTipInterceptBombers" : "เครื่องบินสกัดกั้นป้องกันเครื่องบินทิ้งระเบิด",
 
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",

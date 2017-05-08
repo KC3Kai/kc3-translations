@@ -820,6 +820,24 @@
         "desc": "Sorti AV/CV/CVL/CVB sebagai pemimpin, dengan 5 kapal tambahan ke [W3-5], [W4-4], dan [W6-2] dan dapatkan S-Rank pada Boss Node tsb.",
         "memo": "\u27a3Hadiahnya \"Skilled Crew Member\""
     },
+    "851": {
+        "code": "B95",
+        "name": "Kapal penjelajah penerbangan baru, Sorti!",
+        "desc": "Sorti Suzuya Kai Ni (bukan CVL) sebagai pemimpin ke [W5-1] dan [W5-3] dan dapatkan setidaknya A-Rank pada Boss Node tsb. Hadiahnya akan dipilih, tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2623PERHATIAN\u2623 Suzuya harus dalam status CAV bukan CVL\n\u27a3Hadiahnya 4 baut DAN ANTARA Kyoufuu Kai ATAU New Kanhon Design Anti-torpedo Bulge (Medium)"
+    },
+    "852": {
+        "code": "B96",
+        "name": "Kapal Penyerang Jelajah Ringan Baru, Bersiap di Garis Depan!",
+        "desc": "Sorti Suzuya-Kou Kai Ni (bukan CAV) sebagai pemimpin ke [W6-2] dan [W6-5], dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u2623PERHATIAN\u2623 Suzuya harus dalam status CVL bukan CAV.\n\u27a3Hadiahnya Type 0 Fighter Model 63 (Fighter-bomber) DAN 8cm High-angle Gun Kai + Extra Machine Guns"
+    },
+    "853": {
+        "code": "B97",
+        "name": "Patroli Secara Waspada di Perairan Pangkalan!",
+        "desc": "Sorti CL/CA(V) sebagai pemimpin dan setidaknya 2DD dengan tambahan kapal sesuka hati ke [W1-2], [W1-3], [W1-4] dan [W1-5], dan dapatkan setidaknya A-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya 2 Irako, 4 Baut dan Furniture Fairy"
+    },
 	
     "801": {
         "code": "SB17",
@@ -1005,10 +1023,17 @@
 
     "822": {
         "code": "Bq1",
-        "name": "Bulanan ke [W2-4]",
+        "name": "Triwulanan ke [W2-4]",
         "desc": "Sorti ke [W2-4] dan dapatkan S-Rank pada Boss Node 2x.",
         "memo": "\u203bOperasi Serangan balik daerah Okinoshima \n\u27a3Hadiahnya 5 Sekrup"
     },
+	"854": {
+        "code": "Bq2",
+        "name": "Triwulanan Point Peringkat",
+        "desc": "Sorti ke [W2-4], [W6-1] dan [W6-3], dan dapatkan setidaknya A-Rank pada Boss Node. lalu Sorti ke [W6-4] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u203bMisi Hasil Perang Tambahan! \"Operasi Z\", Operasi Awal\n\u27a3hadiahnya 3 Mamiya, 4 Baut dan 350 Poin Peringkat"
+    },
+	
     "301": {
         "code": "C1",
         "name": "Latihan Pertama!",
@@ -1068,6 +1093,12 @@
         "code": "C11",
         "name": "Latihan Musim Dingin Berskala Besar",
         "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama"
+    },
+    "315": {
+        "code": "C12",
+        "name": "Latihan Musim Semi Berskala Besar",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama",
+        "memo": "\u27a3Hadiahnya Present Box"
     },
     "401": {
         "code": "D1",

@@ -445,10 +445,10 @@
 	"GameUpdateEquips" : "There is(are) <strong>{0} new equipment</strong>!",
 	"GameUpdateLink" : "Click here to learn more about them in the Strategy Room!",
 	
-	"BossDebuffedTitle"   : "We have detected a gimmick change!",
-	"BossDebuffedMessage" : "A event boss debuff gimmick change has been detected. {0}",
-	"BossDebuffedYes"     : "Boss might be debuffed!",
-	"BossDebuffedNo"      : "Boss debuff may have been reset!",
+	"BossDebuffedTitle"   : "We have detected a mechanism change!",
+	"BossDebuffedMessage" : "A change in event boss mechanics has been detected. {0}",
+	"BossDebuffedYes"     : "A boss may have been debuffed!",
+	"BossDebuffedNo"      : "A boss debuff may have been reset!",
 	
 	"CatBombServerCommErrorTitle" : "Server Communication Error",
 	"CatBombServerCommErrorMsg"   : "[{0}] failed to communicate with the server. It is not a matter of API link, but somewhat on your connectivity or environment.",

@@ -281,8 +281,7 @@
 	"SettingsAAFCombAntiSub"  : "Bergabung (anti-sub)",
 	"SettingsAAFCombDiamond"  : "Bergabung (melingkar)",
 	"SettingsImaginaryEnemySlot" : "Slot Bomber Musuh",
-	"SettingsSpecialCounterAdjust" : "Pengatur Penghitung Quest",
-	
+		
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Hasil Screenshot",
 	"SettingsSSDownload" : "Unduh",
@@ -313,6 +312,7 @@
 	"SettingsShowCounter" : "Tampilkan Penghitung",
 	"SettingsIdleWarnStartAt" : "Efek Waktu Diam",
 	"SettingsIdleWarnDesc" : "Jangka sebelum ditampilkan dalam detik, 0 utk non-aktif",
+	"SettingsRscCapWarnFrom" : "Peringatan Sumber daya berlebih dari",
 	
 	"SettingsTaihaAlert" : "Peringatan Taiha Berlebihan",
 	"SettingsScreenBlur" : "Blur Layar",
@@ -358,6 +358,16 @@
 	"SettingsDMMGameplay" : "Pengaturan DMM",
 	"SettingsDMMCustomize" : "Terapkan Pengaturan",
 	"SettingsDMMForceCookies" : "Paksa Gunakan Cookies",
+	"SettingsDMMCustomCSS" : "CSS Buatan sendiri",
+	"SettingsDMMCustomCSSTip" : "Deklarasi CSS3 yg benar. JANGAN utak-atik ini jika tidak tau tentang CSS dan sumber DMM. Untuk melihat perubahan, muat ulang halaman permainan DMM. Jangan lupa bahwa '!important' (penting) itu diperlukan untuk menimpa bawaan.",
+	
+	"SettingsDataSynchronization" : "Sinkronisasi Data via Chrome Storage",
+	"SettingsEnableDataSyncNotif" : "Aktifkan Notifikasi",
+	"SettingsChromeSyncQuests" : "Sinkronisasi Quest",
+	
+	"SettingsPushAlerts" : "Kirim notifikasi via PushBullet (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "Gunakan Fitur ini",
+	"SettingsPushAlertsKey" : "Access Token",
 	
 	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)", 
 	"SettingsEnableDBSubmission" : "Gunakan Fitur ini",
@@ -366,13 +376,18 @@
 	"SettingsPoiDBSubmission" : "Kirim data ke poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Gunakan Fitur ini",
 	
+	"SettingsOpenDBSubmission" :"Kirim data ke Kancolle OpenDB (http://swaytwig.com/opendb/)",
+	"SettingsEnableOpenDBSubmission" : "Gunakan Fitur ini",
+	
 	"SettingsKC3DBSubmission" :"Kirim data ke KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Gunakan dan bantu kami",
 	
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsPanelBoxBackColor" : "Warna Belakang Kotak Panel",
-		
+	"SettingsPanelCustomCSS" : "CSS Buatan sendiri",
+	"SettingsPanelCustomCSSTip" : "Deklarasi CSS3 yg benar. JANGAN utak-atik ini jika tidak tau tentang CSS dan sumber DMM. Untuk melihat perubahan, muat ulang halaman permainan DMM. Jangan lupa bahwa '!important' (penting) itu diperlukan untuk menimpa bawaan.",
+	
 	"SettingsChuuiWarningDangerousFeature" : "Kamu yakin ingin menggunakan fitur ini?\nSemua resiko yang Kamu alami bukan tanggung jawab KC3改.\n\nPastikan Kamu tahu apa yang Kamu lakukan terlebih dahulu.",
 	"SettingsErrorNG" : "Disimpan!",
 	"SettingsErrorSuper" : "Nilai Salah!",
@@ -384,6 +399,8 @@
 	
 	"SettingsStrategyRoom" : "Ruang Strategy",
 	"SettingsStrategyTheme" : "Tema Ruang Strategy",
+	"SettingsStrategyCustomCSS" : "CSS Buatan sendiri",
+	"SettingsStrategyCustomCSSTip" : "Deklarasi CSS3 yg benar. JANGAN utak-atik ini jika tidak tau tentang CSS dan sumber DMM. Untuk melihat perubahan, muat ulang halaman permainan DMM. Jangan lupa bahwa '!important' (penting) itu diperlukan untuk menimpa bawaan.",
 	
 	"InstalledTitle": "KC3改 siap membantu!",
 	"InstalledText": "Terima kasih telah memasang KC3改! Kami harap alat ini dapat membantu Kamu bermain Kancolle lebih baik! Jangan takut untuk bertanya kepada kami. Periksalah di \"Tentang Pengembang KC3改\" agar dapat kontak dengan kami.",
@@ -426,6 +443,12 @@
 	"GameUpdateBoth": "Ada <strong>{0} kapal baru(s)</strong> dan <strong>{1} equipment baru</strong>! Klik disini untuk melihat pembaruan di ruangan strategi!",
 	"GameUpdateShips" : "Ada <strong>{0} kapal baru(s)</strong>! Klik disini untuk melihat pembaruan di ruangan strategi!",
 	"GameUpdateEquips" : "Ada <strong>{0} equipment baru</strong>! Klik disini untuk melihat pembaruan di ruangan strategi!",
+	"GameUpdateLink" : "Klik disini untuk mempelajarinya di Ruang Strategi!",
+	
+	"BossDebuffedTitle"   : "Terdapat perubahan mekanisme!",
+	"BossDebuffedMessage" : "Telah terdeteksi perubahan mekanisme di Boss Event. {0}",
+	"BossDebuffedYes"     : "Boss Melemah!! Totsugeki Nanoda~!",
+	"BossDebuffedNo"      : "Boss kembali menjadi kuat?!",
 	
 	"CatBombServerCommErrorTitle" : "Galat Komunikasi ke Server",
 	"CatBombServerCommErrorMsg"   : "[{0}] gagal berkomunikasi dengan server. Galat tidak terletak pada API Link, tetapi pada koneksi atau lingkunganmu.",
@@ -513,8 +536,6 @@
 	"ShipAAShotdownRate" : "Tingkatan yang tertembak jatuh: {0}%",
 	"ShipAAFixedShotdown" : "Yang tertembak jatuh: {0}",
 	"ShipAACIMaxBonus" : "Maksimal bonus tertembak jatuh oleh AACI: {0}",
-	"ShipAAImgEnemySlot" : "Uji Slot {0}-Pesawat Bomber:",
-	"ShipAAShotdownPred" : "    Hasil: (Keduanya/Lebih/Tetap/Gagal)\n    Tertembak Jatuh:   {0}",
 	"ShipAAShotdownTitles" : "Tes:/Keduanya/Lebih/Tetap/Gagal",
 	
 	"PredictionStampSortie" : "TENGGELAM!!",
@@ -563,6 +584,8 @@
 	"PanelFitWindow" : "Sesuaikan window",
 	"PanelExportToKCDB" : "Ekspor ke Kancolle-calc DeckBuilder",
 	"PanelToggleQuestComplete" : "Alihkan Status Quest Selesai",
+	"PanelReloadQuotes" : "Check Subtitles Update",
+	"PanelReloadQuests" : "Check Quests Update",
 	
 	"MissionLabelActivity" : "Hasil",
 	"MissionGetItems" : "Item didapatkan:",
@@ -582,13 +605,12 @@
 	"LandBaseActionDefend" : "Bertahan",
 	"LandBaseActionRetreat" : "Mundur",
 	"LandBaseActionRest" : "Istirahat",
-	"LandBaseTipFighterPower" : "Kekuatan Fighter Biasa",
-	"LandBaseTipInterceptFighters" : "Penangkapan terhadap Fighter",
-	"LandBaseTipInterceptBombers" : "Penangkapan terhadap Bomber",
+	"LandBaseTipFighterPower" : "Kekuatan Fighter Sorti",
+	"LandBaseTipAirDefensePower" : "Kekuatan pertahanan pencegah udara",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
-	"LevelNext" : "Tersisa",
+	"LevelNext" : "Sisa",
 	"Screenshot" : "Screenshot",
 	"Expedition" : "Ekspedisi",
 	"UntranslatedQuest" : "Quest Belum Diterjemahkan",
@@ -622,8 +644,10 @@
 	"ExpedResupply" : "Isi Ulang",
 	"ExpedTotalIncome" : "Total" ,
 	"ExpedGSRate": "Tingkat #DTE:" ,
+	"ExpedGSRateExplainCondUnmet": "Ada syarat yang kurang untuk menjalankan expedisi ini.",
+	"ExpedGSRateExplainMissingSparkle": "Ada kapal yang tidak berkilau di armada.",
+	"ExpedGSRateExplainNoOverdrum": "Kekurangan drum akan mengurangi tingkatan #DTE\nDiperlukan: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "Memiliki kapal yang berkilau menambah tingkat #DTE\nSekarang: {0}",
-	"ExpedGSRateExplainExtraDrum": "Membawa drum tambahan menambah tingkat #DTE\nSekarang: {0} / {1}",
 	
 	"CraftEquipNoteFirst" : "<strong>Pertama Kali</strong> Kamu dapat item ini!",
 	"CraftEquipNoteExists" : "Kamu memilki <strong>{0}</strong> item ini!",
@@ -659,7 +683,9 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "Kapal baru telah siap menunggumu di konstruksi!",
 	"DesktopNotifyMoraleTitle" : "Morale Armada !",
 	"DesktopNotifyMoraleMessage" : "Semua kapal di \"armada saat ini\" telah pulih dari kelelahan.",
-	
+	"DesktopNotifyQuestsSyncTitle" : "Sinkronisasi Quest!",
+	"DesktopNotifyQuestsSyncMessage" : "Quest dan perjalanannya telah di perbaharui\nData dari {0}",
+		
 	"NewsfeedRepair"    : "Perbaikan Selesai~",
 	"NewsfeedConstrct"  : "Pembangunan Selesai~",
 	"NewsfeedExped"     : "Armada expedisi telah kembali~",

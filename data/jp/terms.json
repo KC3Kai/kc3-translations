@@ -1,6 +1,8 @@
 {
 	"available": true,
 
+	"BodyFontFamily" : "'Helvetica Neue', Tahoma, Helvetica, Arial, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'Yu Gothic UI Semibold', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif",
+
 	"SortieWinCount": "出撃の勝利回数",
 	"SortieLoseCount": "出撃の敗北回数",
 	"SortieWinRate": "出撃の勝率",
@@ -808,63 +810,7 @@
 	"DesktopNotifyQuestsSyncTitle" : "任務データを同期しました！",
 	"DesktopNotifyQuestsSyncMessage" : "任務(クエスト)の完成度が同期されました。\nデータは {0} のものです。",
 
-	"NewsfeedRepair"    : "【入渠】していた艦の修理が完了しました。",
-	"NewsfeedConstrct"  : "【工廠】で建造が完了した艦があります。",
-	"NewsfeedExped"     : "{0:fleetName}が【遠征】から帰投しました。",
-	"NewsfeedUnlockMap" : "新【作戦海域】への出撃が可能となりました！",
-	"NewsfeedUnlockArea": "新【作戦エリア】への出撃が可能となりました！",
-	"NewsfeedUpdateLib" : "【図鑑】の記録が追加更新されました！",
-	"NewsfeedPvPWin"    : "{0:opponentName}さんとの【演習】で勝利しました。",
-	"NewsfeedPvPLose"   : "{0:opponentName}さんとの【演習】で敗北しました。",
-	"NewsfeedUnknown"   : "{1}",
-
-	"LodgerPageStepRw"  : "1個前へ",
-	"LodgerPageStepFw"  : "1個次へ",
-	"LodgerPageRefresh" : "更新する",
-
-	"LodgerTimeWhole"   : "全範囲",
-	"LodgerTimeDaily"   : "デイリー",
-	"LodgerTimeWeekly"  : "ウィークリー",
-	"LodgerTimeMonthly" : "マンスリー",
-	"LodgerTimeYearly"  : "イヤリー",
-	"LodgerLabel"  : "%DATE1 から %DATE2 までの資源と資材の変化です",
-
-	"LodgerSortie" : "出撃+入渠",
-	"LodgerPvp"    : "演習",
-	"LodgerExped"  : "遠征",
-	"LodgerQuest"  : "任務",
-	"LodgerAkashi" : "泊地修理",
-	"LodgerRegen"  : "自然増加",
-	"LodgerUseitem": "アイテム使用",
-
-	"LodgerCrship" : "建造",
-	"LodgerCritem" : "開発",
-	"LodgerDsship" : "解体",
-	"LodgerDsitem" : "廃棄",
-	"LodgerRemodel": "改造",
-	"LodgerRmditem": "改修",
-	"LodgerLbas"   : "基地航空隊",
-	"Lodgeroverall": "合計",
-
-	"LodgeRatingOK0" : "ノーデータ",
-	"LodgeRatingOK1" : "あんまりない",
-	"LodgeRatingOK2" : "少ない収入",
-	"LodgeRatingOK3" : "ぼちぼち",
-	"LodgeRatingOK4" : "期待を超えてる",
-	"LodgeRatingOK5" : "百万長者ダよーん！",
-	"LodgeRatingNG1" : "ちょっぴり減ってる",
-	"LodgeRatingNG2" : "消費の基本を心得てる",
-	"LodgeRatingNG3" : "少しヤバいかも",
-	"LodgeRatingNG4" : "使い切り主義なの？",
-	"LodgeRatingNG5" : "超赤字だぜ",
-
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
-
-	"BattleHistoryAirRaidTip" : "航空基地の被ダメージ計：{0}\n損害タイプ：{1}\n燃料またはボーキの損害予測：{2}\n制空状態：{3}\n{11:推測された敵制空値}\n敵機の被撃墜率：{4}\n敵艦攻の残り：{5}\n敵艦爆の残り：{6}\n各防空部隊で対爆値が最も高い中隊：\n　スロット1：{7}\n　スロット2：{8}\n　スロット3：{9}\n　スロット4：{10}",
-
-	"MasterShipSaltCheck" : "この艦を許してる",
-	"MasterShipSaltUnCheck" : "この艦を許さん！",
-	"MasterShipGoQuotes" : "字幕セリフチェック",
 
 	"Dummy" : "ダミー"
 

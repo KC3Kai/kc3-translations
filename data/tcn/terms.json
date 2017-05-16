@@ -343,6 +343,7 @@
   "SettingsHideCounter" : "隱藏",
   "SettingsShowCounter" : "顯示",
   "SettingsIdleWarnStartAt" : "延長閒置狀態",	
+  "SettingsRscCapWarnFrom" : "警告資源已達上限值",	
 
   "SettingsTaihaAlert": "「特別版」大破警告",
   "SettingsScreenBlur" : "畫面模糊",
@@ -388,17 +389,33 @@
   "SettingsDMMGameplay": "DMM 遊戲視窗",
   "SettingsDMMCustomize": "套用自訂值",
   "SettingsDMMForceCookies": "強制修改區域cookie",
+  "SettingsDMMCustomCSS" : "自訂CSS樣式",
+  "SettingsDMMCustomCSSTip" : "使用合法的CSS3語法自訂頁面樣式。如果您不熟悉CSS與DMM網站原始碼請不要更動。需重新載入DMM頁面才能使套用變更。可別忘記某些情況下要以`!important`替換預設值。",
 
+  "SettingsDataSynchronization" : "透過Chrome帳戶同步資料",
+  "SettingsEnableDataSyncNotif" : "同步成功時顯示桌面通知",
+  "SettingsChromeSyncQuests" : "同步任務追蹤",
+
+  "SettingsPushAlerts" : "透過Pushbullet（https://www.pushbullet.com）使用移動設備通知功能",
+  "SettingsEnablePushAlerts" : "啟用此功能",
+  "SettingsPushAlertsKey" : "加密金鑰",
+		
   "SettingsDBSubmission": "傳送資料至「艦これ統計データベース」 (http://kancolle-db.net/login.php)",
   "SettingsEnableDBSubmission": "啟用此功能",
   "SettingsDBSubmissionKey": "存取碼",
 
-  "SettingsPoiDBSubmission": "傳送資料至 poi-statistics (http://db.kcwiki.moe/)",
+  "SettingsPoiDBSubmission": "傳送資料至 poi-statistics (http://db.kcwiki.moe)",
   "SettingsEnablePoiDBSubmission": "啟用此功能",
 
+  "SettingsOpenDBSubmission": "傳送資料至 Kancolle OpenDB (http://swaytwig.com/opendb/) ",
+  "SettingsEnableOpenDBSubmission": "啟用此功能",	
+	
   "SettingsKC3DBSubmission" :"傳送資料至KC3改 (http://kc3.jetri.co)",
-  "SettingsEnableKC3DBSubmission" : "啟用此功能並幫功KC3改!",
+  "SettingsEnableKC3DBSubmission" : "啟用此功能",
 
+  "SettingsOpenDBSubmission": "傳送資料至Kancolle OpenDB (http://swaytwig.com/opendb)",
+  "SettingsEnableOpenDBSubmission": "啟用此功能",	
+	
   "SettingsPanelSize": "面板大小",
   "SettingsPanelOpacity": "面板不透明度",
   "SettingsGearHolder": "裝備背景顏色",
@@ -415,13 +432,16 @@
 
   "SettingsStrategyRoom" : "策略研究室",
   "SettingsStrategyTheme" : "主題選擇",  
-  
+  "SettingsStrategyCustomCSS" : "自訂CSS樣式",
+  "SettingsStrategyCustomCSSTip" : "使用合法的CSS3語法自訂策略研究室樣式。如果您不熟悉CSS與KC3改原始碼請不要更動。需重新載入策略研究室才能使套用變更。可別忘記某些情況下要以`!important`替換預設值。",",
+	
   "InstalledTitle": "KC3改 準備就緒！",
   "InstallText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解聯繫方式。",
   "InstalledText": "謝謝你安裝KC3改！我們希望這些工具能讓幫助你遊玩艦隊Collection獲得更好的體驗！當你遇到任何問題請不要猶豫聯繫我們。請查看開發者頁面瞭解聯繫方式。",	
 
   "UpdatedTitle": "KC3改 更新完成！",
   "UpdateText": "如果你正在遊玩艦隊Collection，某些功能與資料可能會出現錯誤。請關閉遊戲頁籤並重新打開遊戲。如果正在出擊途中，請先結束出擊，請記住在重新開啟遊戲前有可能顯示的是錯誤的資料與預測。",
+  "UpdatedText": "如果你正在遊玩艦隊Collection，某些功能與資料可能會出現錯誤。請關閉遊戲頁籤並重新打開遊戲。如果正在出擊途中，請先結束出擊，請記住在重新開啟遊戲前有可能顯示的是錯誤的資料與預測。",	
 
   "UpdateNotifTitle": "KC3改 {0} 已準備更新！",
   "UpdateNotifText": "更新準備就緒，需要重新啟用插件。\n點擊此處查看更新資料。",
@@ -459,9 +479,15 @@
 
   "GameUpdateDetected" : "偵測到了遊戲更新!",
   "GameUpdateBoth": "新增了 <strong>{0} 艘新艦娘(s)</strong>和<strong>{1} 個新裝備</strong>! 點擊此處進入策略研究室觀看詳細資料!",
-  "GameUpdateShips" : "新增了 <strong>{0} 艘新艦娘(s)</strong>! 點擊此處進入策略研究室觀看詳細資料!",
-  "GameUpdateEquips" : "新增了 <strong>{0} 個新裝備</strong>! 點擊此處進入策略研究室觀看詳細資料!",
-
+  "GameUpdateShips" : "新增了 <strong>{0} 艘新艦娘(s)</strong>! ",
+  "GameUpdateEquips" : "新增了 <strong>{0} 個新裝備</strong>! ",
+  "GameUpdateLink" : "點擊此處進入策略研究室觀看詳細資料!",
+	
+  "BossDebuffedTitle" : "偵測到Boss狀態改變！",
+  "BossDebuffedMessage" : "偵測到Boss破甲音效！<br/>{0}",
+  "BossDebuffedYes" : "Boss可能已進入破甲狀態！",
+  "BossDebuffedNo" : "Boss的破甲狀態可能已被重置！",	
+	
   "CatBombServerCommErrorTitle" : "伺服器通訊錯誤",
   "CatBombServerCommErrorMsg"   : "[{0}] 與伺服器通訊發生錯誤。可能起因於您的連線或環境，而非API連結錯誤。",
   "CatBombHardAPIErrorTitle" : "API錯誤!",
@@ -607,7 +633,8 @@
   "LandBaseActionDefend" : "防空",
   "LandBaseActionRetreat" : "退避",
   "LandBaseActionRest" : "休息",
-  "LandBaseTipFighterPower" : "常規對空戰力",
+  "LandBaseTipFighterPower" : "對空戰力",
+  "LandBaseTipAirDefensePower" : "防空戰力",	
   "LandBaseTipInterceptFighters" : "迎擊補正",
   "LandBaseTipInterceptBombers" : "對爆補正",
 
@@ -658,6 +685,9 @@
   "ExpedGSRate": "大成功率:" ,
   "ExpedGSRateExplainSparkle": "編隊中有高士氣艦娘時可提升大成功機率\n現有：{0}",
   "ExpedGSRateExplainExtraDrum": "攜帶額外的「輸送用鐵桶」可提升大成功機率\n現有：{0}/{1}",	
+  "ExpedGSRateExplainCondUnmet": "未滿足該遠征的必要條件",
+  "ExpedGSRateExplainMissingSparkle": "艦隊中有非高士氣艦娘",
+  "ExpedGSRateExplainNoOverdrum": "攜帶的「輸送用鐵桶」不足時會降低遠征的大成功機率\n現有: {0}/{1}",	
 
   "CraftEquipNoteFirst" : "這是初次取得的裝備！",
   "CraftEquipNoteExists" : "目前持有 {0} 件此裝備",
@@ -692,7 +722,9 @@
   "DesktopNotifyConstrCompleteMessageFaced" : "提督，新艦娘 {0} 已來到我們的司令部了！",
   "DesktopNotifyConstrCompleteMessageUnknown" : "提督，新艦娘已來到我們的司令部了！！",
   "DesktopNotifyMoraleTitle" : "艦隊士氣恢復！",
-  "DesktopNotifyMoraleMessage" : "提督，主力艦隊的士氣已恢復到一定水準！",
+  "DesktopNotifyMoraleMessage" : "提督，主力艦隊的士氣已恢復！",
+  "DesktopNotifyQuestsSyncTitle" : "已同步任務追蹤！",
+  "DesktopNotifyQuestsSyncMessage" : "任務追蹤進度已更新\n最後更新於 {0}",	
 
   "NewsfeedRepair": "「入渠」中的艦娘已完成修復。",
   "NewsfeedConstrct": "「工廠」中的艦娘已建造完成。",

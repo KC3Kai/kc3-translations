@@ -322,6 +322,7 @@
 	"SettingsRedShadeOnPanel" : "Ombres rouge sur le panneau",
 	"SettingsDisableHomePort" : "Désactiver au port d'attache",
 	"SettingsDisableHasDamecon" : "Ignorer les navires sans Damecon",
+	"SettingsNoAnimation" : "Pas d'effet d'animation",
 
 	"SettingsAPIGameScreen" : "Fenêtre du jeu",
 	"SettingsQuestOverlay" : "Traduction des quêtes",
@@ -347,6 +348,7 @@
 	"SettingsSubtitleDisplay": "Afficher les sous-titre",
 	"SettingsSubtitleSpeaker": "Sous-titre avec les noms des navires",
 	"SettingsGoogleTranslate": "Se retirer sous Google Traduction en dernier recours",
+	"SettingsMuteGameTab" : "Rendre l'onglet muet au démarrage",
 	
 	"SubtitleDisplayBottom": "(En bas) Accrocher sur le bas de la fenêtre de jeu",
 	"SubtitleDisplayBelow": "(En dessous) Accrocher juste en dessous de la fenêtre de jeu",
@@ -432,7 +434,7 @@
 	"LearnMore" : "En savoir plus",
 	"Saved" : "Enregistré !",
 	"TimerComplete" : "Terminé !",
-	"Debuffed" : "Boss debuffed!",
+	"Debuffed" : "Boss débuff !",
 
 	"UnwantedExit" : "Les liens API expirent après une utilisation. Vous devez « Rafraîchir le lien API » grâce au menu, sinon, vous n'obtiendrez que des erreurs (catbombs) !",
 	"UnwantedExitDMM" : "Vous allez quitter la page et le jeu ! Faire uniquement un rafraichissement règlera sûrement le problème et vous n'obtiendrez pas de catbomb. Les liens API n'ont pas d'importance ici.",
@@ -442,7 +444,13 @@
 	"GameUpdateDetected" : "Mise à jour du jeu détectée !",
 	"GameUpdateBoth" : "Il y a des <strong>{0} nouveaux navires</strong> et <strong>{1} de nouveaux équipements</strong> ! Appuyez ici pour en savoir plus dans la salle de stratégie !",
 	"GameUpdateShips" : "Il y a des <strong>{0} nouveaux navires</strong>! Appuyez ici pour en savoir plus dans la salle de stratégie !",
-	"GameUpdateEquips" : "Il y a des <strong>{0} nouveaux équiepements</strong>! Appuyez ici pour en savoir plus dans la salle de stratégie !",
+	"GameUpdateEquips" : "Il y a des <strong>{0} nouveaux équipements</strong>!",
+	"GameUpdateLink" : "Appuyez ici pour en savoir plus dans la salle de stratégie !",
+	
+	"BossDebuffedTitle"   : "Nous avons détecté un changement de méchanique !",
+	"BossDebuffedMessage" : "Un changement dans les méchaniques du boss de l'event à été detecté. {0}",
+ 	"BossDebuffedYes"     : "Un boss à été debuff !",
+	"BossDebuffedNo"      : "Un debuff de boss a peut-être été réinitialisé !",
 	
 	"CatBombServerCommErrorTitle" : "Erreur de communication avec le serveur.",
 	"CatBombServerCommErrorMsg" : "[{0}] n'a pas réussi à communiquer avec le serveur. Ce n'est pas un problème de lien API, mais en plutôt de votre connectivité ou de votre environnement.",

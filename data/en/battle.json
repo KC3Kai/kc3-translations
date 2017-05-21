@@ -19,11 +19,11 @@
 	],
 	
 	"engagement" : [
-		["", "", ""],
-		["Prll", "", "Parallel"],
-		["HdOn", "", "Head-on"],
-		["Gr-T", "good", "Green T"],
-		["Rd-T", "bad", "Red T"]
+		["", "", "", ""],
+		["Prll", "", "Parallel", "100% Damage"],
+		["HdOn", "", "Head-on", "<span style='color:orange'>80% Damage</span>"],
+		["Gr-T", "good", "Green T", "<span style='color:green'>120% Damage</span>"],
+		["Rd-T", "bad", "Red T", "<span style='color:red'>60% Damage</span>"]
 	],
 	
 	"formation" : [

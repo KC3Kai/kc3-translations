@@ -474,6 +474,13 @@
         "memo": "\u27a3Rewards a Repair Team",
         "unlock": [ 836 ]
     },
+    "180": {
+        "code": "A75",
+        "name": "Form the new 1st Squadron!",
+        "desc": "Have Nagato Kai Ni as the flagship along with Mutsu Kai in your first fleet.",
+        "memo": "\u27a3Rewards 1 Irako",
+        "unlock": [ 856 ]
+    },
     
     "202": {
         "code": "B1",
@@ -1086,7 +1093,7 @@
         "code": "B93",
         "name": "Crush the Enemy Fleet in the Nansei Islands Region!",
         "desc": "Sortie a CL as flagship and 5 additional ships to [W1-4], [W2-2] and [W2-3]. S-Rank the boss nodes of each.",
-		"memo": "\u27a3Rewards 1 Mamiya and 1 Irako",
+        "memo": "\u27a3Rewards 1 Mamiya and 1 Irako",
         "unlock": [ 850 ]
     },
     "850": {
@@ -1114,7 +1121,20 @@
         "desc": "Sortie a CL/CA(V) as flagship and at least 2 DD in any suitable fleet composition to [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
         "memo": "\u27a3Rewards 2 Irako, 4 Screws and a Furniture Fairy"
     },
-	
+    "855": {
+        "code": "B98",
+        "name": "Reinforce the coastal guard!",
+        "desc": "Sortie a 3 or more DD or DE fleet to [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank+ the boss nodes, and reach node N of [W1-6] once.",
+        "memo": "\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 856 ]
+    },
+    "856": {
+        "code": "B99",
+        "name": "Sortie the new 1st Squadron!",
+        "desc": "Sortie a Nagato Kai Ni (flagship) and Mutsu Kai fleet to [W4-5] and [W5-5]. S-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Large)"
+    },
+    
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -1317,7 +1337,7 @@
         "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
         "tracking": [ [0,2] ]
     },
-	"854": {
+    "854": {
         "code": "Bq2",
         "name": "Quarterly Ranking Points",
         "desc": "Sortie to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
@@ -1550,6 +1570,12 @@
         "desc": "Have 5000 steel and 1500 bauxite. Complete Expeditions 30 and 31.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine"
     },    
+    "424": {
+        "code": "D22",
+        "name": "Reinforce the transport escort fleet!",
+        "desc": "Complete Expedition 5 4 times."
+    },
+    
     
     
     "501": {
@@ -1815,8 +1841,8 @@
         "name": "Quarterly Skilled Crew Member Training",
         "desc": "Have 2 Medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
         "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
-	},
-	"639": {
+    },
+    "639": {
         "code": "F36",
         "name": "Development of a New Torpedo Armament",
         "desc": "Have 2 Medals. Set Shimakaze as secretary. Equip her with a \u2605max 61cm Quintuple Oxygen Torpedo Mount and a \u2605max 61cm Triple Oxygen Torpedo Mount.",

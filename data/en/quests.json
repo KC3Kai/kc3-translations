@@ -476,8 +476,8 @@
     },
     "180": {
         "code": "A75",
-        "name": "Form the new 1st Squadron!",
-        "desc": "Have Nagato Kai Ni as the flagship along with Mutsu Kai in your first fleet.",
+        "name": "Form the New 1st Battleship Division!",
+        "desc": "Have Nagato Kai Ni as flagship and Mutsu Kai in Fleet 1.",
         "memo": "\u27a3Rewards 1 Irako",
         "unlock": [ 856 ]
     },
@@ -1123,15 +1123,15 @@
     },
     "855": {
         "code": "B98",
-        "name": "Reinforce the coastal guard!",
-        "desc": "Sortie a 3 or more DD or DE fleet to [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank+ the boss nodes, and reach node N of [W1-6] once.",
+        "name": "Strive to Reinforce the Coast Guard's Logistics!",
+        "desc": "Sortie at least 3 DD/DE to [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank the boss nodes of each where applicable. Reach node N of [W1-6] once.",
         "memo": "\u27a3Rewards a Furniture Fairy",
         "unlock": [ 856 ]
     },
     "856": {
         "code": "B99",
-        "name": "Sortie the new 1st Squadron!",
-        "desc": "Sortie a Nagato Kai Ni (flagship) and Mutsu Kai fleet to [W4-5] and [W5-5]. S-Rank+ the boss nodes of each.",
+        "name": "1st Battleship Division, Set Sail!",
+        "desc": "Sortie Nagato Kai Ni as flagship and Mutsu Kai to [W4-5] and [W5-5]. S-Rank the boss nodes of each.",
         "memo": "\u27a3Rewards a New Design Anti-Torpedo Bulge (Large)"
     },
     
@@ -1572,8 +1572,9 @@
     },    
     "424": {
         "code": "D22",
-        "name": "Reinforce the transport escort fleet!",
-        "desc": "Complete Expedition 5 4 times.",
+        "name": "Monthly Expedition 5",
+        "desc": "Complete Expedition 5 four times.",
+        "memo": "\u203bIntensify the Transport Fleet Escort!",
         "tracking": [ [0,4] ]
     },
     

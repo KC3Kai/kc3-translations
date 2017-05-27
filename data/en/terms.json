@@ -229,6 +229,8 @@
 	"SettingsDevOnlyPages" : "Dev-Only Strategy Pages",
 	"SettingsForceDMMLogin" : "Force DMM login",
 	"SettingsAPIRecorder" : "API Recorder Panel",
+	"SettingsLogKeepDuration": "Log Expiration",
+	"SettingsLogKeepDurationTip": "Specify the amount of time after which logs will be automatically discarded.",
 	"SettingsUpdateNotification" : "Update notifications",
 	"SettingsUpdateNotifNone" : "None",
 	"SettingsUpdateNotifPage" : "Update page",

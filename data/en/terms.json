@@ -405,6 +405,8 @@
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 
 	"SettingsLogging": "Logging",
+	"SettingsConsoleLogHooks": "Disable console hooks",
+	"SettingsConsoleLogHooksTip": "Stop KC3's internal logging from watching chrome's console methods. This option is primarily for developers; generally, it should remain unticked.",
 	"SettingsLogKeepDuration": "Keep logs for",
 	"SettingsLogKeepDurationTip": "Specify the amount of time after which regular logs (log, debug, info) will be automatically discarded.",
 	"SettingsErrorKeepDuration": "Keep error logs for",

@@ -368,11 +368,11 @@
 
 	"SettingsLogging": "コンソールログ記録",
 	"SettingsConsoleLogHooks": "ログ記録を無効にする",
-	"SettingsConsoleLogHooksTip": "開発者はKC3改のログ記録機能を一時的停止し、Chrome console ログ関数のフックを無効にしたい時、これを使うできます。",
+	"SettingsConsoleLogHooksTip": "上の「開発者専用指揮所」を有効にして、KC3改のconsoleログをDevTools開かず便利に一覧できます。この機能を一時的停止し、Chromeログ関数のフックを無効にしたい時だけ、これを使うできます。",
 	"SettingsLogKeepDuration": "一般ログの保留時間",
-	"SettingsLogKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前の一般ログ（Info・Log・Debug）を自動的に廃棄処分をします。",
+	"SettingsLogKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前の一般ログ（Info・Log・Debug）を自動的に廃棄処分します。",
 	"SettingsErrorKeepDuration": "エラーログの保留時間",
-	"SettingsErrorKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前のエラーログ（Error・Warn、assertも）を自動的に廃棄処分をします。",
+	"SettingsErrorKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前のエラーログ（Error・Warn、assertも）を自動的に廃棄処分します。",
 
 	"SettingsChuuiWarningDangerousFeature" : "\n本当に変更しますか？\n\n",
 	"SettingsErrorNG" : "保存した",

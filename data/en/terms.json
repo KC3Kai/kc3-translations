@@ -303,7 +303,6 @@
 	"SettingsSupplyRate" : "Supply Minimum",
 	"SettingsSupplyExped" : "Fleet Supply Warning",
 	"SettingsSupplyBarLabel" : "bars",
-	"SettingsSeconds" : "seconds",
 	"SettingsSoundType" : "Sound Type",
 	"SettingsDing" : "DING!",
 	"SettingsCustom" : "Custom",
@@ -405,7 +404,7 @@
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	"SettingsStrategyCustomCSS" : "Custom CSS",
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
-
+	
 	"SettingsLogging": "Logging",
 	"SettingsConsoleLogHooks": "Disable console hooks",
 	"SettingsConsoleLogHooksTip": "Stop KC3's internal logging from watching chrome's console methods. This option is primarily for developers; generally, it should remain unticked.",
@@ -413,7 +412,14 @@
 	"SettingsLogKeepDurationTip": "Specify the amount of time after which regular logs (log, debug, info) will be automatically discarded.",
 	"SettingsErrorKeepDuration": "Keep error logs for",
 	"SettingsErrorKeepDurationTip": "Specify the amount of time after which error logs (warn, error) will be automatically discarded.",
-
+	
+	"SettingsYears" : "years",
+	"SettingsMonths" : "months",
+	"SettingsDays" : "days",
+	"SettingsHours" : "hours",
+	"SettingsMinutes" : "minutes",
+	"SettingsSeconds" : "seconds",
+	
 	"InstalledTitle": "KC3改 has been installed successfully!",
 	"InstalledText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
 	

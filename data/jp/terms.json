@@ -273,7 +273,6 @@
 	"SettingsSupplyRate"     : "補給必要最小値",
 	"SettingsSupplyExped"    : "遠征ための補給必要判定",
 	"SettingsSupplyBarLabel" : "目盛り",
-	"SettingsSeconds"        : "秒",
 	"SettingsSoundType"      : "警報音の種類",
 	"SettingsDing"           : "チーン!",
 	"SettingsCustom"         : "カスタム",
@@ -367,6 +366,13 @@
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
 	"SettingsStrategyCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。これを有効するには戦闘指揮所のページをリロードする必要があります。一部のCSSに`!important`をつけるのを忘れないでね。",
 
+	"SettingsLogging": "コンソールログ記録",
+	"SettingsConsoleLogHooks": "ログ記録を無効にする",
+	"SettingsConsoleLogHooksTip": "開発者はKC3改のログ記録機能を一時的停止し、Chrome console ログ関数のフックを無効にしたい時、これを使うできます。",
+	"SettingsLogKeepDuration": "一般ログの保留時間",
+	"SettingsLogKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前の一般ログ（Info・Log・Debug）を自動的に廃棄処分をします。",
+	"SettingsErrorKeepDuration": "エラーログの保留時間",
+	"SettingsErrorKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前のエラーログ（Error・Warn、assertも）を自動的に廃棄処分をします。",
 
 	"SettingsChuuiWarningDangerousFeature" : "\n本当に変更しますか？\n\n",
 	"SettingsErrorNG" : "保存した",
@@ -376,6 +382,13 @@
 	"SettingsErrorLength" : "長さの",
 	"SettingsErrorValue" : "数値の",
 	"SettingsErrorOrder" : "%TYP %CMP %VAL",
+
+	"SettingsYears" : "年",
+	"SettingsMonths" : "月",
+	"SettingsDays" : "日",
+	"SettingsHours" : "時間",
+	"SettingsMinutes" : "分",
+	"SettingsSeconds" : "秒",
 
 	"InstalledTitle" : "KC3改がインストールされました",
 	"InstalledText"  : "KC3改を使用して頂き、誠にありがとうございました！これで「艦これ」をより快適に遊んでもらえてくれたら何よりです！何か質問でもあったら連絡方法を確認し、問い合わせに来てください。",

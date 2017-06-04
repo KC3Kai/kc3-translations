@@ -438,6 +438,21 @@
 	"SettingsStrategyCustomCSS" : "自定义CSS样式",
 	"SettingsStrategyCustomCSSTip" : "使用合法的CSS3语法定制作战指挥所样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要重新加载作战指挥所页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
+	"SettingsLogging": "后台控制台日志记录",
+	"SettingsConsoleLogHooks": "禁用日志记录",
+	"SettingsConsoleLogHooksTip": "KC3的开发者想要暂时禁用所有 Chrome console 日志函数的监视时可以勾选。否则请保持日志的记录。",
+	"SettingsLogKeepDuration": "低等级日志保留时间",
+	"SettingsLogKeepDurationTip": "日志记录会占用数据库空间配额，配置低严重级别（Info、Log、Debug）的日志应自动在多少个小时之后被删除。",
+	"SettingsErrorKeepDuration": "高等级日志保留时间",
+	"SettingsErrorKeepDurationTip": "日志记录会占用数据库空间配额，配置高严重级别（Error、Warn）的日志应自动在多少个小时之后被删除。",
+
+	"SettingsYears" : "年",
+	"SettingsMonths" : "月",
+	"SettingsDays" : "天",
+	"SettingsHours" : "小时",
+	"SettingsMinutes" : "分",
+	"SettingsSeconds" : "秒",
+
 	"InstalledTitle": "KC3改 准备就绪！",
 	"InstallText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",
 	"InstalledText": "感谢您安装KC3改！希望这一工具能在“舰队收藏”的游戏中辅助您，带来更好的游戏体验！若需要帮助，请不要犹豫，联系我们！（请查看“关于KC3改”页面获得联系方式）。",

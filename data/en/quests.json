@@ -2011,7 +2011,8 @@
         "code": "F55",
         "name": "Quarterly Research of New Rigging Types",
         "desc": "Have 18000 steel. Scrap 10 Large Caliber Main Guns.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials",
+        "tracking": [ [0,10] ]
     },
 
     "701": {

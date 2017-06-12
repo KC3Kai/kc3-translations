@@ -481,6 +481,13 @@
         "memo": "\u27a3Rewards 1 Irako",
         "unlock": [ 856 ]
     },
+    "181": {
+        "code": "A76",
+        "name": "Form the new 7th Division!",
+        "desc": "Have Kumano Kai Ni (or CVL remodel) as flagship with Suzuya Kai Ni (or CVL remodel) as 2nd ship, Mogami Kai and Mikuma Kai in Fleet 1.",
+        "memo": "\u27a3Rewards 1 Irako",
+        "unlock": [ 858 ]
+    },
     
     "202": {
         "code": "B1",
@@ -1107,7 +1114,7 @@
         "name": "Remodeled Aviation Cruiser, Sortie!",
         "desc": "Sortie Suzuya Kai Ni (not CVL) as flagship to [W5-1] and [W5-3]. A-Rank+ the boss nodes of each. You will be prompted to select a reward. Press F10 to clear the overlay.",
         "memo": "\u2623NOTICE\u2623 The CVL remodel cannot complete this quest. Suzuya must be a CAV.\n\u27a3Rewards 4 Screws and either a Kyoufuu Kai OR a New Kanhon Design Anti-torpedo Bulge (Medium)",
-        "unlock": [ 852 ]
+        "unlock": [ 181, 852 ]
     },
     "852": {
         "code": "B96",
@@ -1126,13 +1133,25 @@
         "name": "Strive to Reinforce the Coast Guard's Logistics!",
         "desc": "Sortie at least 3 DD/DE to [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank the boss nodes of each where applicable. Reach node N of [W1-6] once.",
         "memo": "\u27a3Rewards a Furniture Fairy",
-        "unlock": [ 856 ]
+        "unlock": [ 856, 857 ]
     },
     "856": {
         "code": "B99",
         "name": "1st Battleship Division, Set Sail!",
         "desc": "Sortie Nagato Kai Ni as flagship with Mutsu Kai in the second slot to [W4-5] and [W5-5]. S-Rank the boss nodes of each.",
         "memo": "\u27a3Rewards 4 Screws and a New Design Anti-Torpedo Bulge (Large)"
+    },
+    "857": {
+        "code": "B100",
+        "name": "To all Surface Escort Fleet reinforcements, sally forth!",
+        "desc": "Sortie fleet 1 with 1 CL, 2 DD/DE, 1 CAV/CVL to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials"
+    },
+    "858": {
+        "code": "B101",
+        "name": "New 7th Division, Sortie!",
+        "desc": "Sortie fleet 1 with Kumano Kai Ni as flagship with Suzuya Kai Ni as 2nd ship, Mogami Kai, Mikuma Kai to [W4-5] and [W6-2]. S-Rank the boss nodes of each.",
+        "memo": "\u2623NOTICE\u2623 The CVL remodel of Kumano and Suzuya can complete this quest\n\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials OR a Type 0 Fighter Model 63 (Fighter-bomber)"
     },
     
     "201": {
@@ -1236,7 +1255,7 @@
         "name": "Weekly Submarines",
         "desc": "Sink 15 abyssal submarines.",
         "memo": "\u203bNaval Convoy Escort Op\n\u27a3Rewards a Screw ",
-        "unlock": [ 229, 241, 613, 645 ],
+        "unlock": [ 229, 241, 613, 645, 857 ],
         "tracking": [ [0,15] ]
     },
     "229": {
@@ -1341,7 +1360,8 @@
         "code": "Bq2",
         "name": "Quarterly Ranking Points",
         "desc": "Sortie to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
-        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points"
+        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ]
     },
     
     
@@ -1355,7 +1375,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 304, 302 ],
+        "unlock": [ 302, 304, 313, 314, 315 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -1409,14 +1429,14 @@
         "code": "C9",
         "name": "Landing Force Exercises",
         "desc": "Secure 4 victories in Exercises within the same day.",
-        "tracking": [ [0,4] ],
         "unlock": [ 636 ]
     },
     "313": {
         "code": "C10",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Present Box"
+        "memo": "\u27a3Rewards a Present Box",
+        "unlock": [ 644 ]
     },
     "314": {
         "code": "C11",
@@ -1575,7 +1595,14 @@
         "name": "Monthly Expedition 5",
         "desc": "Complete Expedition 5 four times.",
         "memo": "\u203bIntensify the Transport Fleet Escort!",
+        "unlock": [ 425 ],
         "tracking": [ [0,4] ]
+    },
+    "425": {
+        "code": "D23",
+        "name": "To all Surface Escort Fleets, commence the expeditions",
+        "desc": "Complete Expedition 4, 5 and 9.",
+        "unlock": [ 663 ]
     },
     
     
@@ -1705,7 +1732,7 @@
     },
      "614": {
         "code": "F13",
-        "name": "Model Conversion: Tomonoga",
+        "name": "Model Conversion: Tomonaga",
         "desc": "Set a CV(B/L) as secretary. Equip her with a Type 97 Torpedo Bomber (Tomonaga Squadron). Scrap two Tenzan.",
         "memo": "\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Tenzan Model 12 (Tomonaga Squadron)"
     },
@@ -1967,6 +1994,28 @@
         "desc": "Have a Skilled Crew Member. Equip a secretary with a >> \u2605max Type 2 Seaplane Fighter Kai in the first slot. Scrap two Type 0 Fighter Model 21s and 2 Zuiun.",
         "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)"
     },
+    "661": {
+        "code": "F53",
+        "name": "Begin Strengthening the New Type Gun Armament",
+        "desc": "Have 6000 steel. Scrap 10 Secondary Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Type Artillery Armament Materials",
+        "unlock": [ 662 ]
+    },
+    "662": {
+        "code": "F54",
+        "name": "Development Research of New Rigging Types",
+        "desc": "Have 12000 steel. Scrap 10 Medium Caliber Main Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials",
+        "unlock": [ 425 ]
+    },
+    "663": {
+        "code": "F55",
+        "name": "Quarterly Research of New Rigging Types",
+        "desc": "Have 18000 steel. Scrap 10 Large Caliber Main Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials",
+        "tracking": [ [0,10] ]
+    },
+
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

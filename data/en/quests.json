@@ -483,7 +483,7 @@
     },
     "181": {
         "code": "A76",
-        "name": "Form the new 7th Division!",
+        "name": "Organize the new \"Seventh Squadron\"!",
         "desc": "Have Kumano Kai Ni (or CVL remodel) as flagship with Suzuya Kai Ni (or CVL remodel) as 2nd ship, Mogami Kai and Mikuma Kai in Fleet 1.",
         "memo": "\u27a3Rewards 1 Irako",
         "unlock": [ 858 ]
@@ -1143,15 +1143,15 @@
     },
     "857": {
         "code": "B100",
-        "name": "To all Surface Escort Fleet reinforcements, sally forth!",
-        "desc": "Sortie fleet 1 with 1 CL, 2 DD/DE, 1 CAV/CVL to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the boss nodes of each.",
-        "memo": "\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials"
+        "name": "Enhanced Maritime Escort Fleet, Sortie!",
+        "desc": "Sortie a fleet with 1 CL, 2 DD/DE, 1 CAV/CVL, up to 2 additional ships to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay."
     },
     "858": {
         "code": "B101",
-        "name": "New 7th Division, Sortie!",
-        "desc": "Sortie fleet 1 with Kumano Kai Ni as flagship with Suzuya Kai Ni as 2nd ship, Mogami Kai, Mikuma Kai to [W4-5] and [W6-2]. S-Rank the boss nodes of each.",
-        "memo": "\u2623NOTICE\u2623 The CVL remodel of Kumano and Suzuya can complete this quest\n\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials OR a Type 0 Fighter Model 63 (Fighter-bomber)"
+        "name": "New Seventh Squadron, Sortie!",
+        "desc": "Sortie a fleet with Kumano Kai Ni as flagship with Suzuya Kai Ni as 2nd ship, Mogami Kai, Mikuma Kai, up to 2 additional ships to [W4-5] and [W6-2]. S-Rank the boss nodes of each.",
+        "memo": "\u2623NOTICE\u2623 The CVL remodel of Kumano and Suzuya can complete this quest\n\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials OR a Type 0 Fighter Model 63 (Fighter-bomber). Press F10 to clear the overlay."
     },
     
     "201": {
@@ -1600,7 +1600,7 @@
     },
     "425": {
         "code": "D23",
-        "name": "To all Surface Escort Fleets, commence the expeditions",
+        "name": "Maritime Escort Squadron, Expedition Start!",
         "desc": "Complete Expedition 4, 5 and 9.",
         "unlock": [ 663 ]
     },
@@ -1996,23 +1996,23 @@
     },
     "661": {
         "code": "F53",
-        "name": "Begin Strengthening the New Type Gun Armament",
-        "desc": "Have 6000 steel. Scrap 10 Secondary Guns.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Type Artillery Armament Materials",
+        "name": "Reinforcement of New Model Cannon Improvement, Start!",
+        "desc": "Prepare 6000 steel. Scrap 10 Secondary Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
         "unlock": [ 662 ]
     },
     "662": {
         "code": "F54",
-        "name": "Development Research of New Rigging Types",
-        "desc": "Have 12000 steel. Scrap 10 Medium Caliber Main Guns.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials",
+        "name": "Development of New Type Equipment Fitting Research",
+        "desc": "Prepare 12000 steel. Scrap 10 Medium Caliber Main Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
         "unlock": [ 425 ]
     },
     "663": {
         "code": "F55",
         "name": "Quarterly Research of New Rigging Types",
-        "desc": "Have 18000 steel. Scrap 10 Large Caliber Main Guns.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials",
+        "desc": "Prepare 18000 steel. Scrap 10 Large Caliber Main Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
         "tracking": [ [0,10] ]
     },
 

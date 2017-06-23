@@ -483,10 +483,24 @@
     },
     "181": {
         "code": "A76",
-        "name": "Organize the new \"Seventh Squadron\"!",
+        "name": "Organize the new 7th Division!",
         "desc": "Have Kumano Kai Ni (or CVL remodel) as flagship with Suzuya Kai Ni (or CVL remodel) as 2nd ship, Mogami Kai and Mikuma Kai in Fleet 1.",
         "memo": "\u27a3Rewards 1 Irako",
         "unlock": [ 858 ]
+    },
+    "182": {
+        "code": "A77",
+        "name": "Reorganize the Elite 4th Carrier Division!",
+        "desc": "Have Ise (or Kai) as flagship with Hyuuga (or Kai) as 2nd ship, both are Level 50 higher, 1CL, 2DD and 1 additional ship in Fleet 1.",
+        "memo": "\u27a3Rewards a Skilled Crew Member",
+        "unlock": [ 859 ]
+    },
+   "183": {
+        "code": "A78",
+        "name": "Reorganize the New 4th Torpedo Squadron!",
+        "desc": "Have Yura Kai Ni as flagship, Yuudachi. Murasame, Harusame, Samidare and 1DD in Fleet 1.",
+        "memo": "\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 860 ]
     },
     
     "202": {
@@ -1152,6 +1166,18 @@
         "name": "New Seventh Squadron, Sortie!",
         "desc": "Sortie a fleet with Kumano Kai Ni as flagship with Suzuya Kai Ni as 2nd ship, Mogami Kai, Mikuma Kai, up to 2 additional ships to [W4-5] and [W6-2]. S-Rank the boss nodes of each.",
         "memo": "\u2623NOTICE\u2623 The CVL remodel of Kumano and Suzuya can complete this quest\n\u27a3Rewards either a Medal OR a New Type Artillery Armament Materials OR a Type 0 Fighter Model 63 (Fighter-bomber). Press F10 to clear the overlay."
+    },
+    "859": {
+        "code": "B102",
+        "name": "Elite 4th Carrier Division, Sortie!",
+        "desc": "Sortie a fleet with Ise as flagship with Hyuuga as 2nd ship, 1CL, 2DD and 1 additional ship to [W2-5] and [W3-5]. A-Rank+? the boss nodes of each.",
+        "memo": "\u27a3Rewards either a Medal OR a Skilled Crew Member. Press F10 to clear the overlay."
+    },
+    "860": {
+        "code": "B103",
+        "name": "Flagship Yura, Sortie!",
+        "desc": "Sortie a fleet with Yura Kai Ni as flagship, any 2 of Yuudachi, Murasame, Harusame, Samidare, Akizuki and 3 additional ships to [W2-3] and [W5-1]. S-Rank? the boss nodes of each.",
+        "memo": "\u27a3Rewards either a Daihatsu Landing Craft OR a Reinforcement Expansion. Press F10 to clear the overlay."
     },
     
     "201": {
@@ -2014,6 +2040,25 @@
         "desc": "Prepare 18000 steel. Scrap 10 Large Caliber Main Guns.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
         "tracking": [ [0,10] ]
+    },
+    "664": {
+        "code": "F56",
+        "name": "Utilizing Radar Technology for Shooting Equipment",
+        "desc": "Prepare 8000 steel. Scrap 10 Radars.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
+        "unlock": [ 665 ]
+    },
+    "665": {
+        "code": "F57",
+        "name": "Cooperation of the Consumer Industry",
+        "desc": "Prepare 12000 fuel. Scrap 10 Small Caliber Main Guns.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay."
+    },
+    "666": {
+        "code": "F58",
+        "name": "Organize the Elite Zuiun Group",
+        "desc": "Have a Skilled Crew Member, 2 Type 99 Dive Bombers and 2 Zuiun. Set Hyuuga Kai as secretary. Equip her with a \u2605max Zuiun (634 Air Group) in her 4th slot. Scrap 2 Drum Canisters.",
+        "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Zuiun (634 Air Group / Skilled)"
     },
 
     "701": {

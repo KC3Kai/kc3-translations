@@ -872,7 +872,7 @@
         "name": "Send Flagship Kasumi to Patrol the Northern Sea!",
         "desc": "Sortie Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to [W3-1]. B-Rank+ the boss node.",
         "memo": "\u27a3Rewards a Type 13 Air Radar Kai",
-        "unlock": [ 806 ]
+        "unlock": [ 806, 183 ]
     },
     "806": {
         "code": "B59",
@@ -2025,7 +2025,7 @@
         "name": "Reinforcement of New Model Cannon Improvement, Start!",
         "desc": "Prepare 6000 steel. Scrap 10 Secondary Guns.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
-        "unlock": [ 662 ]
+        "unlock": [ 662, 664 ]
     },
     "662": {
         "code": "F54",
@@ -2044,7 +2044,7 @@
     "664": {
         "code": "F56",
         "name": "Utilizing Radar Technology for Shooting Equipment",
-        "desc": "Prepare 8000 Ammo and Steel. Scrap 10 Radars.",
+        "desc": "Prepare 8000 ammo and steel. Scrap 10 Radars.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Type Artillery Armament Materials. Press F10 to clear the overlay.",
         "unlock": [ 665 ]
     },

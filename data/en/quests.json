@@ -872,7 +872,7 @@
         "name": "Send Flagship Kasumi to Patrol the Northern Sea!",
         "desc": "Sortie Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to [W3-1]. B-Rank+ the boss node.",
         "memo": "\u27a3Rewards a Type 13 Air Radar Kai",
-        "unlock": [ 806, 183 ]
+        "unlock": [ 806 ]
     },
     "806": {
         "code": "B59",
@@ -1171,7 +1171,8 @@
         "code": "B102",
         "name": "Elite 4th Carrier Division, Set Sail!",
         "desc": "Sortie Lv.50+ Hyuuga and Lv.50+ Ise as flagship and second ship, 1 CL, 2 DD and 1 additional ship to [W2-5] and [W3-5]. A-Rank+ the boss nodes of each. Press F10.",
-        "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards 4 Screws and either a Medal OR a Skilled Crew Member."
+        "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards 4 Screws and either a Medal OR a Skilled Crew Member.",
+        "unlock": [ 666 ]
     },
     "860": {
         "code": "B103",

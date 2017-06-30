@@ -320,6 +320,12 @@
         "desc": "Miliki Kinu Kai Ni sebagai pemimpin dan lima dari Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai dan atau Shikinami Kai di Armada.",
         "memo": "\u27a3Hadiahnya Repair Team"
     },
+    "180": {
+        "code": "A75",
+        "name": "Bentuk Kapal Tempur Divisi Pertama yang Baru!",
+        "desc": "Miliki Nagato Kai Ni sebagai pemimpin dan Mutsu Kai pada Armada 1.",
+        "memo": "\u27a3Hadiahnya 1 Irako"
+    },
     "202": {
         "name": "Sorti Pertama!",
         "desc": "Sorti Armada Utama."
@@ -838,6 +844,18 @@
         "desc": "Sorti CL/CA(V) sebagai pemimpin dan setidaknya 2DD dengan tambahan kapal sesuka hati ke [W1-2], [W1-3], [W1-4] dan [W1-5], dan dapatkan setidaknya A-Rank pada Boss Node tsb.",
         "memo": "\u27a3Hadiahnya 2 Irako, 4 Baut dan Furniture Fairy"
     },
+    "855": {
+        "code": "B98",
+        "name": "Berjuang untuk Memertahankan Logistik Dekat Pantai!",
+        "desc": "Sorti setidaknya 3 DD/DE (Loli Escort) ke [W1-3], [W1-4], [W1-5] dan [W1-6]. Dapatkan S-Rank pada Boss Node tsb dan menuju Node N pada [1-6] 1x.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
+    },
+    "856": {
+        "code": "B99",
+        "name": "Kapal Tempur Divisi Pertama, Berlayar!",
+        "desc": "Sorti Nagato Kai Ni sebagai pemimpin dengan Mutsu Kai ke [W4-5] dan [W5-5], dan dapatkan S-Rank the boss nodes tsb.",
+        "memo": "\u27a3Hadiahnya New Design Anti-Torpedo Bulge (Large)"
+    },
 	
     "801": {
         "code": "SB17",
@@ -1213,6 +1231,13 @@
         "name": "Operasi Pengiriman Kapal Selam untuk Mendapatkan Teknologi Mesin Jet.",
         "desc": "Miliki 5000 besi dan 1500 bauxit lalu selesaikan Expedisi 30 dan 31.",
         "memo": "\u2718Bahan akan diambil.\n\u27a3Hadiahnya Ne-Type Engine"
+    },    
+    "424": {
+        "code": "D22",
+        "name": "Expedisi 5 Bulanan",
+        "desc": "Expedisi 5 4x.",
+        "memo": "\u203bPerkuat Pengawal Armada Transport!",
+        "tracking": [ [0,4] ]
     },
     "501": {
         "code": "E1",

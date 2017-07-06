@@ -261,7 +261,7 @@
 	"SettingsEnglishShipType": "English Ship Type Codes",
 	"SettingsShipNamesLang": "Ship Names Language",
 	"SettingsShipNamesGlobal": "Follow global",
-	"SettingsBlinkGauge": "Blink Gauge on Last Kill",
+	"SettingsBlinkGauge": "Gauge Blink on Last Dance",
 	
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",
@@ -508,7 +508,7 @@
 	"BattleMapWorldPvP"  : "PvP",
 	"BattleMapCleared"   : "Cleared",
 	"BattleMapNotClear"  : "Not Cleared",
-	"BattleMapKills"     : " kills",
+	"BattleMapKills"     : " clears!",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
 	"BattleSupportTips"  : "{1} from Fleet #{0} triggered. Inflicted {2} damage!",
@@ -635,7 +635,7 @@
 	"UntranslatedQuest" : "Untranslated Quest",
 	"UntranslatedQuestTip" : "This is an unidentified or untranslated quest. It cannot be shown here, so please visit the quest page in-game to view.",
 	
-	"StrategyEvents1HP" : "Last Kill!",
+	"StrategyEvents1HP" : "Last Dance!",
 	
 	"PanelWaitActions" : "Waiting for game actions...",
 	"PanelErrorStorage" : "Your Chrome's localStorage is disabled on your settings. KC3改 needs this feature. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">See how to enable this</a>.",

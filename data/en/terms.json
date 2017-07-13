@@ -580,8 +580,9 @@
 	"PanelCombinedShipBarsHint" : "Remaining Exp = {0}, Fuel = {1}%, Ammo = {2}%",
 	"PanelNextRemodelLv" : "Next Remodel",
 	"PanelPossibleRemodel" : "Possible Remodel",
-	"PanelResupplyCosts" : "Will cost Fuel = {0}, Ammo = {1}, Bauxite = {2}",
-	"PanelConsumedSteel" : "Will cost Steel per battle = {0}",
+	"PanelResupplyCosts" : "Cost on resupply (Marriage 15% reduced)\n\u2003Fuel: {0}, Ammo: {1}, Bauxite: {2}",
+	"PanelBattleConsumes" : "Cost per battle (Marriage not applied)\n\u2003Regular Node - Fuel: {0:fuel}, Ammo: {1:dayAmmo} (Yasen: {2:nightAmmo})\n\u2003Air Raid Node - Fuel: {3:airRaidFuel}, Ammo: {4:airRaidAmmo}",
+	"PanelConsumedSteel" : "\u2003Steel of jets: {0}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",

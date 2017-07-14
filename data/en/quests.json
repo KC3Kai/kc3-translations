@@ -1183,15 +1183,15 @@
     "861": {
         "code": "Bq3",
         "name": "Quarterly [W1-6]",
-        "desc": "Sortie 2 BBV/AO and 4 additional ships to [W1-6]. Reach node N twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
+        "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
         "tracking": [ [0,2] ]
     },
     "862": {
         "code": "Bq4",
         "name": "Quarterly [W6-3]",
-        "desc": "Sortie 1 AV, 2 CL and 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
+        "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
+        "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
         "tracking": [ [0,2] ]
     },
     
@@ -1649,7 +1649,7 @@
         "code": "D24",
         "name": "Quarterly Expeditions",
         "desc": "Complete Expeditions 3, 4, 5 and 10.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bPerform Strict Vigilance Over the Maritime Trade Routes!",
+        "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ]
     },
     

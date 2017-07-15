@@ -1180,20 +1180,7 @@
         "desc": "Sortie Yura Kai Ni as Fleet 1 flagship, at least 2 of Akizuki, Yuudachi, Murasame, Harusame or Samidare, and 3 others to [W2-3] and [W5-1]. S-Rank the boss nodes.",
         "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards a Skilled Crew Member and either a Daihatsu Landing Craft OR a Reinforcement Expansion."
     },
-    "861": {
-        "code": "Bq3",
-        "name": "Quarterly [W1-6]",
-        "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
-        "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
-        "tracking": [ [0,2] ]
-    },
-    "862": {
-        "code": "Bq4",
-        "name": "Quarterly [W6-3]",
-        "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
-        "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
-        "tracking": [ [0,2] ]
-    },
+    
     
     "201": {
         "code": "Bd1",
@@ -1266,7 +1253,8 @@
         "desc": "Sortie 36 times, reach 24 boss nodes, B-Rank+ 12 boss nodes, and obtain 6 S-Ranks.",
         "memo": "\u203bOperation A-Go",
         "unlock": [ 221 ],
-        "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
+        "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
+        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-ranks" ]
     },
     "220": {
         "code": "Bw2",
@@ -1402,7 +1390,22 @@
         "name": "Quarterly Ranking Points",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
         "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points",
-        "tracking": [ [0,1], [0,1], [0,1], [0,1] ]
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
+    },
+    "861": {
+        "code": "Bq3",
+        "name": "Quarterly [W1-6]",
+        "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
+        "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "tracking": [ [0,2] ]
+    },
+    "862": {
+        "code": "Bq4",
+        "name": "Quarterly [W6-3]",
+        "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
+        "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
+        "tracking": [ [0,2] ]
     },
     
     
@@ -1650,7 +1653,8 @@
         "name": "Quarterly Expeditions",
         "desc": "Complete Expeditions 3, 4, 5 and 10.",
         "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
-        "tracking": [ [0,1], [0,1], [0,1], [0,1] ]
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
     },
     
     

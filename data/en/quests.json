@@ -1398,6 +1398,7 @@
         "name": "Quarterly [W1-6]",
         "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
         "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "unlock": [ 862 ],
         "tracking": [ [0,2] ]
     },
     "862": {
@@ -2078,7 +2079,8 @@
         "code": "F57",
         "name": "A Joint Effort With the Consumer Industry",
         "desc": "Have 12000 fuel. Scrap 16 Small Caliber Main Guns. Press F10 to clear the overlay.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Furniture Fairy and either a Medal OR a New Model Artillery Armament Materials."
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Furniture Fairy and either a Medal OR a New Model Artillery Armament Materials.",
+        "unlock": [ 667 ]
     },
     "666": {
         "code": "F58",

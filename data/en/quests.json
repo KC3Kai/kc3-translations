@@ -560,7 +560,7 @@
     "217": {
         "code": "B10",
         "name": "Sink an Enemy Carrier!",
-        "desc": "Sink an abyssal CV(L).",
+        "desc": "Sink an Abyssal CV(L).",
         "memo": "\u27a3Rewards the CV Akagi"
     },
     "219": {
@@ -1185,7 +1185,7 @@
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
-        "desc": "Defeat an abyssal fleet by obtaining at least a B-Rank.",
+        "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
         "memo": "\u203bCrush the Enemy Fleet!",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
@@ -1193,7 +1193,7 @@
     "216": {
         "code": "Bd2",
         "name": "Daily Battle",
-        "desc": "Attack 1 abyssal fleet.",
+        "desc": "Attack 1 Abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
         "unlock": [ 172, 210, 218, 214, 213, 311, 634, 810 ],
         "tracking": [ [0,1] ]
@@ -1201,21 +1201,21 @@
     "210": {
         "code": "Bd3",
         "name": "Daily Battles",
-        "desc": "Attack 10 abyssal fleets.",
+        "desc": "Attack 10 Abyssal fleets.",
         "memo": "\u203bAssault 10 Enemy Fleets!",
         "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
         "name": "Daily Carriers",
-        "desc": "Sink 3 abyssal CV(L).",
+        "desc": "Sink 3 Abyssal CV(L).",
         "memo": "\u203bSink 3 Enemy Carriers!",
         "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
         "name": "Daily Transports",
-        "desc": "Sink 3 abyssal transport ships.",
+        "desc": "Sink 3 Abyssal transport ships.",
         "memo": "\u203bSink 3 Enemy Supply Ships!",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
@@ -1223,7 +1223,7 @@
     "212": {
         "code": "Bd6",
         "name": "Daily Transports 2",
-        "desc": "Sink 5 abyssal transport ships.",
+        "desc": "Sink 5 Abyssal transport ships.",
         "memo": "\u203bStrike at the Enemy Transport Convoy!",
         "tracking": [ [0,5] ]
     },
@@ -1238,7 +1238,7 @@
     "230": {
         "code": "Bd8",
         "name": "Daily Submarines",
-        "desc": "Sink 6 abyssal submarines.",
+        "desc": "Sink 6 Abyssal submarines.",
         "memo": "\u203bEnemy Submarine Suppression!",
         "tracking": [ [0,6] ]
     },
@@ -1259,7 +1259,7 @@
     "220": {
         "code": "Bw2",
         "name": "Weekly Carriers",
-        "desc": "Sink 20 abyssal CV(L).",
+        "desc": "Sink 20 Abyssal CV(L).",
         "memo": "\u203bOperation I-Go",
         "unlock": [ 228, 854 ],
         "tracking": [ [0,20] ]
@@ -1267,14 +1267,14 @@
     "213": {
         "code": "Bw3",
         "name": "Weekly Transports",
-        "desc": "Sink 20 abyssal transport ships.",
+        "desc": "Sink 20 Abyssal transport ships.",
         "memo": "\u203bNaval Commerce Raid Operation",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
         "name": "Weekly Transports 2",
-        "desc": "Sink 50 abyssal transport ships.",
+        "desc": "Sink 50 Abyssal transport ships.",
         "memo": "\u203bOperation Ro-Go",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
@@ -1282,7 +1282,7 @@
     "228": {
         "code": "Bw5",
         "name": "Weekly Submarines",
-        "desc": "Sink 15 abyssal submarines.",
+        "desc": "Sink 15 Abyssal submarines.",
         "memo": "\u203bNaval Escort Battle\n\u27a3Rewards a Screw ",
         "unlock": [ 229, 241, 613, 645, 857 ],
         "tracking": [ [0,15] ]
@@ -2098,7 +2098,7 @@
         "code": "F60",
         "name": "An Experimental New Kind of Combat Ration",
         "desc": "Have 2 Combat Rations, 800 fuel and 150 Bauxite.",
-        "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a new Combat Rations (Special Onigiri)"
+        "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a new Combat Ration (Special Onigiri)"
     },
 
     "701": {

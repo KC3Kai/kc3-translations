@@ -904,7 +904,7 @@
         "name": "Defend the Refinery Area!",
         "desc": "Sortie a CL and 5 DD to [W1-3]. S-Rank the boss node 3 times.",
         "memo": "\u27a3Rewards a Medal",
-        "unlock": [ 811 ]
+        "unlock": [ 426, 811 ]
     },
     "811": {
         "code": "B64",
@@ -1195,7 +1195,7 @@
         "name": "Daily Battle",
         "desc": "Attack 1 Abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
-        "unlock": [ 172, 210, 218, 214, 213, 311, 634, 810 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {

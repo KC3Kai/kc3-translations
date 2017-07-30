@@ -262,9 +262,11 @@
 	"SettingsShipNamesLang" : "Ship Names Language",
 	"SettingsShipNamesGlobal" : "Follow global",
 	"SettingsBlinkGauge" : "Gauge Blink on Last Dance",
-	"SettingsShipStatsDiffType" : "Ship Stats Diff Values",
-	"SettingsShipStatsLeftToMax" : "Left to max",
-	"SettingsShipStatsEquipAdded" : "Added by equipment (accuracy shown at 'Carry')",
+	"SettingsShipStatsDiffType" : "Ship Stats Format",
+	"SettingsShipStatsCurrent" : "Current",
+	"SettingsShipStatsUnequipped" : "(Unequipped) Current",
+	"SettingsShipStatsLeftToMax" : "Current +Left to max",
+	"SettingsShipStatsAll" : "(Unequipped) Current +Left to max",
 	
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",
@@ -554,6 +556,7 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
+	"ShipAccShelling" : "Shelling Acc: {0} (Equip: {1:addedStats},\u2605{2:byImprovement})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
 	"ShipAAShotdownRate" : "Proportional Shootdown: {0}%",
 	"ShipAAFixedShotdown" : "Fixed Shootdown: {0}",

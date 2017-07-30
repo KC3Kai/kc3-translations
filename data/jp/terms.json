@@ -230,9 +230,11 @@
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
-	"SettingsShipStatsDiffType" : "艦船ステータス数値差分",
-	"SettingsShipStatsLeftToMax" : "最大値までの残り",
-	"SettingsShipStatsEquipAdded" : "装備からの補正(「搭載」に命中向上を表示)",
+	"SettingsShipStatsDiffType" : "艦船ステータス数値",
+	"SettingsShipStatsCurrent"  : "現在値",
+	"SettingsShipStatsUnequipped" : "(装備除いた値) 現在値",
+	"SettingsShipStatsLeftToMax" : "現在値 +最大値までの残り",
+	"SettingsShipStatsAll"      : "(装備除いた値) 現在値 +最大値までの残り",
 	"SettingsSaltyShip"         : "KC3改の艦娘好き嫌い標記",
 	"SettingsYasenTroll"        : "KC3改のツッコミ(英語)",
 
@@ -537,6 +539,7 @@
 	"ShipMorale"  : "士気",
 	"ShipYasenFp" : "夜戦",
 
+	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備: {1},\u2605{2})",
 	"ShipAAAdjusted"      : "加重対空値: {0}",
 	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",
 	"ShipAAFixedShotdown" : "固定撃墜: {0}",

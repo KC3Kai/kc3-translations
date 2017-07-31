@@ -92,7 +92,7 @@
 	"GameStep2": "In the opened DevTools panel, click on <code><strong>KanColle</strong></code> tab. Check \u00bb pull-down menu at rightmost if hidden.",
 	"GameStep3": "Enjoy!",
 	"GameStepHint": "Hint",
-	"GameStepHintRam": "To save RAM usage, switch to <code><strong>Network</strong></code> tab, click red <span style='color:red'>🔴</span> button or press <kbd>Ctrl</kbd> <kbd>E</kbd> to stop reocrding log.",
+	"GameStepHintRam": "To save RAM usage, switch to <code><strong>Network</strong></code> tab, click red <span style='color:red'>🔴</span> button or press <kbd>Ctrl</kbd> <kbd>E</kbd> to stop recording log.",
 	"GameSocialLinks": "Links",
 	
 	"SocialTextWebstore": "Review on WebStore",
@@ -258,10 +258,15 @@
 	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
 	"SettingsAutoSwitchFleetView" : "Auto-Switch Fleet View",
 	"SettingsPvPInfoActivity" : "PvP Opponents' Info",
-	"SettingsEnglishShipType": "English Ship Type Codes",
-	"SettingsShipNamesLang": "Ship Names Language",
-	"SettingsShipNamesGlobal": "Follow global",
-	"SettingsBlinkGauge": "Blink Gauge on Last Kill",
+	"SettingsEnglishShipType" : "English Ship Type Codes",
+	"SettingsShipNamesLang" : "Ship Names Language",
+	"SettingsShipNamesGlobal" : "Follow global",
+	"SettingsBlinkGauge" : "Gauge Blink on Last Dance",
+	"SettingsShipStatsDiffType" : "Ship Stats Format",
+	"SettingsShipStatsCurrent" : "Current",
+	"SettingsShipStatsUnequipped" : "(Unequipped) Current",
+	"SettingsShipStatsLeftToMax" : "Current +Left to max",
+	"SettingsShipStatsAll" : "(Unequipped) Current +Left to max",
 	
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",
@@ -503,11 +508,12 @@
 	"HQExpAbbrev2" : "Current",
 	"HQExpAbbrev3" : "Total",
 	"HQRankPoints" : " pts",
+	"HQRankPointsTip" : "Accumulated HQ exp points only since last cut-off on {0:dateTime}",
 	
 	"BattleMapWorldPvP"  : "PvP",
 	"BattleMapCleared"   : "Cleared",
 	"BattleMapNotClear"  : "Not Cleared",
-	"BattleMapKills"     : " kills",
+	"BattleMapKills"     : " clears!",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
 	"BattleSupportTips"  : "{1} from Fleet #{0} triggered. Inflicted {2} damage!",
@@ -550,8 +556,9 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
+	"ShipAccShelling" : "Shelling Acc: {0} (Equip: {1:addedStats},\u2605{2:byImprovement})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
-	"ShipAAShotdownRate" : "Proportional Shootdown: {0}%",
+	"ShipAAShotdownRate" : "Prop. Shootdown: {0}%",
 	"ShipAAFixedShotdown" : "Fixed Shootdown: {0}",
 	"ShipAACIMaxBonus" : "Max AACI Bonus: {0}",
 	"ShipAAShotdownTitles" : "Test:/Both/Prop./Fixed/Fail",
@@ -579,8 +586,11 @@
 	"PanelCombinedShipBarsHint" : "Remaining Exp = {0}, Fuel = {1}%, Ammo = {2}%",
 	"PanelNextRemodelLv" : "Next Remodel",
 	"PanelPossibleRemodel" : "Possible Remodel",
-	"PanelResupplyCosts" : "Will cost Fuel = {0}, Ammo = {1}, Bauxite = {2}",
-	"PanelConsumedSteel" : "Will cost Steel per battle = {0}",
+	"PanelResupplyCosts" : "Cost on resupply {3:marriedHint}\n\u2003Fuel: {0}, Ammo: {1}, Bauxite: {2}",
+	"PanelResupplyMarriedHint" : "(Marriage 15% reduced)",
+	"PanelBattleConsumes" : "Cost per battle\n\u2003Regular Node - Fuel: {0:fuel}, Ammo: {1:dayAmmo} (Yasen: {2:incNightAmmo})\n\u2003Air Raid Node - Fuel: {3:airRaidFuel}, Ammo: {4:airRaidAmmo}",
+	"PanelConsumedSteel" : "\u2003Steel of jets: {0}",
+	"PanelLbasSortieCosts" : "Cost on LBAS sortie\n\u2003Fuel: {0}, Ammo: {1}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",
@@ -634,7 +644,7 @@
 	"UntranslatedQuest" : "Untranslated Quest",
 	"UntranslatedQuestTip" : "This is an unidentified or untranslated quest. It cannot be shown here, so please visit the quest page in-game to view.",
 	
-	"StrategyEvents1HP" : "Last Kill!",
+	"StrategyEvents1HP" : "Last Dance!",
 	
 	"PanelWaitActions" : "Waiting for game actions...",
 	"PanelErrorStorage" : "Your Chrome's localStorage is disabled on your settings. KC3改 needs this feature. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">See how to enable this</a>.",
@@ -691,6 +701,7 @@
 	"PvpBaseExp"         : "Base EXP",
 	"PvpDispBaseExpWoCT" : "SS/S w/o x{0} CT bonus",
 	"PvpFormationPred"   : "Formation",
+	"FirstFleetLevelTip" : "Base Exp your PvP opponent will gain: {0}\nWhen Rank S+: {1} (assume no CT)",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",
@@ -752,6 +763,8 @@
 	"LodgeRatingNG3" : "Not-so-safe consumerism",
 	"LodgeRatingNG4" : "RNG Worshipping?",
 	"LodgeRatingNG5" : "Excessive Consumption",
+	
+	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 	
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

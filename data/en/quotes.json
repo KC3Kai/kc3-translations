@@ -208,7 +208,7 @@
         "MVP": "My, it was me? Hmm... so even something like that can happen. It doesn't feel bad at all.",
         "Damaged(1)": "No way! ...It hit me.",
         "Damaged(2)": "Hmm... that wasn't half bad.",
-        "Damaged(3)": "I-I'm not... going to explode... ...geez...",
+        "Damaged(3)": "I-I'm not... going to explode... ...ugh...",
         "Sunk": "Sinking in battle... I wonder why... I don't feel any regrets...",
         "2@NewYears": "Admiral? Happy New Year! Please treat me well again this year! Oh, and also, please take good care of Nagato. That girl can be a little awkward at times, you know?",
         "2@Setsubun": "Eh? I'm also a demon? That's fine, but... I see. These aren't demon horns, you know? Eh? So Nagato is really getting into this? I guess I have no choice...",
@@ -2261,7 +2261,7 @@
         "Construction": "It looks like new children are on the way!",
         "Return": "Thanks for the hard work. The fleet has made its return.",
         "Sortie": "Houshou, now sortieing.",
-        "Battle": "Wind direction... check! Air force, take off!",
+        "Battle": "Wind direction... check! Aerial Unit, take off!",
         "Attack": "This is... not an exercise. It's live combat!",
         "Yasen(1)": "When you do something... you do it well!",
         "Yasen(2)": "We can't just keep doing exercises forever!",
@@ -2298,7 +2298,7 @@
         "Poke(2)": "Will I be transporting aircraft...?",
         "Poke(3)": "Ah... this little one? She's Type 96-san. She's... become a little attached to me... Do you want to touch her?",
         "Idle": "I'll need to thoroughly maintain these little ones...! ... ...Ah... Admiral, what's the matter? Ah, these little ones? Aren't they such good girls? They've been getting a little better at detecting submarines. Isn't raising them fun?",
-        "Wedding": "Um... did you call for me, Admiral? So it's that time? I understand. Well, then... ...Eh? What else is there? Ah, okay\u2014 some tea? I'll go get some. ...Eh... You wanted me for something else? ... ...This is...? ...Please hurry and say it!<br /><br />...Admiral, thank you so much...! I... I accept...!",
+        "Wedding": "Um... did you call for me, Admiral? So it's that time? I understand. Well, then... ...Eh? What else is there? Ah, okay\u2014 some tea? I'll go get some. ...Eh... You wanted me for something else? ... ...This is...? ...Please hurry and say it!<br /><br />...Admiral, thank you so much...! I... I will...!",
         "Married": "Admiral, what's the matter? A dream about enemy submarines? We can't have that. If you'd like, you can have a little rest on my lap. ...I'll give you a pleasant dream. I'll... make sure of it. Ah, just tea is fine? Okay.",
         "Ranking": "...Aye. I'll organize the intelligence. Please wait.",
         "Join": "Converted aircraft carrier, Kasuga Maru, will now be sortieing!",
@@ -2360,7 +2360,7 @@
     "380": {
         "Poke(1)": "A-Aye. Taiyou, present.",
         "Poke(3)": "This little one? She's become attached to me. How cute... Admiral, do you want to touch her...?",
-        "Join": "Maritime Escort Fleet, aircraft carrier Taiyou. I'm now sortieing!",
+        "Join": "Naval Escort Fleet, aircraft carrier Taiyou. I'm now sortieing!",
         "Equip(1)": "They're such good little ones. How cute!",
         "Equip(2)": "Compared to the Type 97 Bomber, it's even... Ah...!<br />...Heavier...!",
         "Sunk": "...! No...! I'm listing...! Water is...! Water is... flooding... inside...! Admiral... I'm so s-"
@@ -2368,7 +2368,7 @@
     "529": {
         "Intro": "Remodeled aircraft carrier, Taiyou here.<br />I will strive every day to contribute toward the war potential of the fleet!",
         "Equip(1)": "Such good girls. How wonderful.",
-        "Yasen(1)": "I'm not letting you get away! Let's go!"
+        "Yasen(1)": "I'm not letting you get away! Moving in!"
     },
     "76": {
         "Intro": "Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out planes one after another is right proper for a carrier, ya know! You can count on me!",
@@ -3562,7 +3562,7 @@
         "2@Valentines": "Admiral? I made this myself. Please accept it. Merci!",
         "3@Xmas": "Joyeux no\u00ebl! Here, please have some of the g\u00e2teau de No\u00ebl I made.",
         "2@YearsEnd": "The winter here is rather cold. Mizuho, what is this? A broom? A bamboo broom, is it? So it's time for the year end clean-up. Understood.",
-        "2@EarlySummer": "Is it strange... that I'm dressed like this in summer... like the rest of the fleet? ...Yup, merci."
+        "2@EarlySummer": "Admiral? In order to match with the rest of the fleet, I have also dressed for summer. ...Is that weird...? ...Ah... merci."
     },
     "372": {
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
@@ -4250,7 +4250,7 @@
         "Poke(2)": "Yes, my Japanese is better now. I tried my best. Yup!",
         "Poke(3)": "Um... Admiral? That's not really a greeting, is it? You can't do that, okay? Okay? Okay!?",
         "Idle": "Anti-sub fleet practice is okay, but... I want to go out and try live combat, too! Hey, Admiral...? Are you listening...? Uuu... no you're not!!",
-        "Married": "Admiral, guten tag... ... ...Ah, this? Yeah, I tried baking Hacchan some... stollen. ...Want to try some? Okay\u266a",
+        "Married": "Admiral, guten tag... ... ...Ah, this? Yeah, I tried baking Hacchan some... It's stollen. Want to try some? Okay\u266a",
         "Wedding": "Admiral, you called for Ro-chan? Eh...? What's this ring...? Da... danke! I mean... thank you. Admiral, our honeymoon should be in Maizuru, okay?",
         "Ranking": "Admiral, you want to see the situation report...? Understood!!!",
         "Join": "Submarine RO, now sortieing!",
@@ -4869,7 +4869,7 @@
     "68": {
         "Intro": "Yo! Name's Maya, nice to meet you.",
         "Library": "Third of the Takao-class heavy cruisers, Maya-sama! Kobe-built. I went hard in the Southern Ops and Solomon battles! Haah? Leyte? Nah, I'm not great with subs.",
-        "Poke(1)": "Huh!?",
+        "Poke(1)": "Huh...?",
         "Poke(2)": "Need something?",
         "Poke(3)": "Admiral, you're a bit annoying.",
         "Married": "You...can be kind sometimes...I guess.",
@@ -4910,7 +4910,6 @@
         "Supply": "Resupplying is important! Thank you!"
     },
     "428": {
-        "Poke(1)": "Need something?",
         "Poke(2)": "Admiral~ calm down a bit will ya? Why dontcha just follow MY example! ...Eh? \"You're one to talk\"!?",
         "Ranking": "Admiral, data confirmation? Very well!",
         "Join": "Oh, here I go! Air defense cruiser Maya! Setting sail!",
@@ -5178,7 +5177,7 @@
         "MVP": "Well, it's only natural. I'm the type who lives off of praise. Praise me a lot, okay?",
         "Damaged(1)": "Aaa~ah!",
         "Damaged(2)": "Owwwiiie...!",
-        "Damaged(3)": "Crap... This is so embarrassing... Don't look at me! Ugh... I'm so done with this mission...",
+        "Damaged(3)": "Crap... This is seriously embarrassing... Don't look at me! Ugh... I'm so done with this mission...",
         "Sunk": "N-No way... my torpedo tube... exploded...? That... can't be good...",
         "H0000": "Twelve midnight. It's really gonna be night after this!",
         "H0100": "1 o'clock, huh... Admiral, you're a night owl, too?",
@@ -7165,7 +7164,7 @@
         "Sortie": "DesRon 5, heading out! Is everyone ready? Matsukaze? If you fall behind, I won't let you hear the end of it!",
         "MVP": "Please observe! I, Asakaze, am the greatest, am I not? Well, haven't I known the Commander for a long time? And my training is on a whole other level! Uh...? Commander? Why are you still laughing? What's with you!?",
         "H0000": "Midnight. *whew* I'll be the one to accompany you today. ...What? Is there a problem? ...Oh, so I see. Then I guess it's fine.",
-        "H0100": "2 a.m.! Er... what, you want it the other way? How pretentious... Well, whatever.<br />Aye! 0100. Is that fine?",
+        "H0100": "2 a.m.! Er... what, you want it the other way? How pretentious... Well, whatever. Aye! 0100. Is that fine?",
         "H0200": "3 a-! ...Oh, right... 0200. Well, I guess it's fine. It's 02. 02. Hey, are you even listening?",
         "H0300": "0300. Commander, you're not even listening, right? If you're not listening, I'm-going-to-stop. He~ey!? ...Ah, you reacted. I guess you were listening.",
         "H0400": "0400. *stretch* It's finally morning...! Morning, morning. Hmhm\u266a I love mornings! Mornings are really nice, you know? Right, Commander?",
@@ -7349,7 +7348,7 @@
         "Attack": "Fiiire!",
         "Yasen(1)": "I have this battle under control!",
         "Yasen(2)": "I have both a main gun and torpedoes!",
-        "MVP": "Praise me more and more~! I grow more when I get praised~! Ehehehe\u266a",
+        "MVP": "Praise me more and more~! I'm the type that grows when praised, nyashi~! Ehehehe\u266a",
         "Damaged(1)": "Hwa...!?",
         "Damaged(2)": "Weh... my armor is as good as paper...!",
         "Damaged(3)": "Nya!? Th-This much won't stop me...!",
@@ -11144,7 +11143,7 @@
         "Return": "The fleet has returned from the operation.",
         "Sortie": "Yuugumo-class, mainstay of mainstays, launching!",
         "Battle": "Fufu, Here they come.",
-        "Attack": "Naval batte, starting.",
+        "Attack": "Naval battle, starting.",
         "Yasen(1)": "Mi~ss Makigumo, If you are talking about a night battle, this is how you do it!",
         "Yasen(2)": "I say this gonna be quite interesting.",
         "MVP": "Admiral, choosing me was a good idea, yes?",
@@ -11398,7 +11397,10 @@
         "2@WhiteDay": "Heh? Is it okay for me to accept these? Somehow, I feel bad, Admiral. I'm fine! Next year-Next year it'll happen for sure! Maybe... but, thank you.",
         "2@EarlySummer": "Wheew~  What are you wearing a swimsuit for, Yuugumo-nee? Hmm, not bad.  Oh, what's that Takanami?  I don't need that. I really dont!"
     },
-    "304": {},
+    "304": {
+        "Married": "Ahh~ you know your stuff, Admiral~ Lovely. This is why I can just leave it to you. Nice, just like that. It's been a while.",
+        "Return": "I came back safe and sound again this time. It's all thanks to you!"
+    },
     "424": {
         "Intro": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
         "Library": "I'm Takanami, the sixth Yuugumo-class Destroyer. Born in Uraga.  I was assigned to the 31st Destroyer Division, and I had done my part well.  On a fateful night battle at Lunga Point, as the Leadship of the Lookouts squad, our crew first spotted the enemy fleet... and that may have brought victory to the battle... Yup!",
@@ -12223,7 +12225,7 @@
         "Docking(2)": "I'll be in the bath a little while longer... Yes, I'll be out as soon as I can!",
         "Construction": "A new ship is complete!",
         "Return": "The fleet has returned safely. Everyone, thanks for your hard work!",
-        "Sortie": "First Maritime Escort Squadron, Etorofu, sortieing! Everyone, follow me!",
+        "Sortie": "First Naval Escort Squadron, Etorofu, sortieing! Everyone, follow me!",
         "Battle": "We've found the enemy. Be careful everyone!",
         "Attack": "Open fire. Fire!",
         "Yasen(2)": "I'm not going to let you do whatever you want on this sea!",

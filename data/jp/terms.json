@@ -230,6 +230,11 @@
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
+	"SettingsShipStatsDiffType" : "艦船ステータス数値",
+	"SettingsShipStatsCurrent"  : "現在値",
+	"SettingsShipStatsUnequipped" : "(装備除いた値) 現在値",
+	"SettingsShipStatsLeftToMax" : "現在値 +最大値までの残り",
+	"SettingsShipStatsAll"      : "(装備除いた値) 現在値 +最大値までの残り",
 	"SettingsSaltyShip"         : "KC3改の艦娘好き嫌い標記",
 	"SettingsYasenTroll"        : "KC3改のツッコミ(英語)",
 
@@ -534,10 +539,11 @@
 	"ShipMorale"  : "士気",
 	"ShipYasenFp" : "夜戦",
 
+	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備: {1},\u2605{2})",
 	"ShipAAAdjusted"      : "加重対空値: {0}",
 	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",
 	"ShipAAFixedShotdown" : "固定撃墜: {0}",
-	"ShipAACIMaxBonus"    : "最大対空CIボーナス: {0}",
+	"ShipAACIMaxBonus"    : "最大対空CI: {0}",
 	"ShipAAShotdownTitles": "対敵機/両方/割合/固定/失敗",
 
 	"PredictionStampSortie" : "轟　　沈",
@@ -564,8 +570,11 @@
 	"PanelCombinedShipBarsHint" : "次のLvまで：{0} exp\n残り燃料：{1}%、弾薬：{2}%",
 	"PanelNextRemodelLv"   : "次の改造可能Lv",
 	"PanelPossibleRemodel" : "すでに改造可能",
-	"PanelResupplyCosts"   : "補給する資材\n燃料：{0}、弾薬：{1}、ボーキ：{2}",
-	"PanelConsumedSteel"   : "戦闘の度に消費する鋼材：{0}",
+	"PanelResupplyCosts"   : "補給する資材{3}\n　燃料：{0}、弾薬：{1}、ボーキ：{2}",
+	"PanelResupplyMarriedHint" : " (燃料と弾薬ケッコン15%減少済み)",
+	"PanelBattleConsumes"  : "1回の戦闘で消費する資材 (ケッコン前基準)\n　通常戦マス燃料：{0}、弾薬：{1} (夜戦込み：{2})\n　空襲戦マス燃料：{3}、弾薬：{4}\n　イベ対潜戦燃料：{0}、弾薬：0",
+	"PanelConsumedSteel"   : "　噴式機消費する鋼材：{0}",
+	"PanelLbasSortieCosts" : "出撃時に消費する資材\n　燃料：{0}、弾薬：{1}",
 
 	"PanelHasTaiha"      : "大破あり",
 	"PanelFSTaiha"       : "旗艦大破",
@@ -656,6 +665,7 @@
 	"PvpBaseExp"         : "基本経験値",
 	"PvpDispBaseExpWoCT" : "練巡x{0:ボーナス}除いたS評価",
 	"PvpFormationPred"   : "敵陣形予想",
+	"FirstFleetLevelTip" : "演習を挑みきた相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除いてます)",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",

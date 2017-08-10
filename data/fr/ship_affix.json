@@ -7,7 +7,9 @@
 		"改二"  : " Kai Ni",
 		"改"    : " Kai",
 		" zwei" : " zwei",
-		" drei" : " drei"
+		" drei" : " drei",
+		" due"  : " due",
+		" два" : " Dva"
 	},
 
 	"prefixes": {
@@ -23,6 +25,16 @@
 		"梅雨"     : "Rainy Season ",
 		"携帯"     : "Mobile ",
 		"記念日"   : "Anniversary "
+	},
+
+	"yomi": {
+		"elite": " élite",
+		"flagship": " navire amiral"
+	},
+
+	"ctype": {
+		"型"   : "^Classe ",
+		"級"   : "^Classe "
 	}
 
 }

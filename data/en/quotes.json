@@ -322,7 +322,7 @@
         "Poke(2)": "Just where are you looking? I'm right here, no?",
         "Poke(3)": "Hmpf, you called me over? You want me to entertain you?",
         "Idle": "Admiral, if you're busy, you should close the browser - that's the admiral way. What? You were thinking of the next strategy? My apologies then.",
-        "Married": "Admiral, You're quite the hard-worker, huh.  Admiral, did the fatigue not accumulate? Taking an adequate rest is also a proper way of being an Admiral. What? You were fascinated by me? Hahahaha! You're a funny one, partner!",
+        "Married": "Admiral, you're quite the hard-worker, huh.",
         "Wedding": "Admiral, I have confidence that I will guard you from any adversaries. Hmph... You doubt me? You sure had me taken lightly. With that said, I'll be counting on you from now on, partner.",
         "Ranking": "Communication report. Listen closely.",
         "Join": "Leave this battle to me, Musashi!",
@@ -400,7 +400,8 @@
         "Battle": "Here goes! Commence firing!!",
         "Attack": "Ready all guns!",
         "Yasen(1)": "This will be fun! Musashi, plunging into battle! Follow me!",
-        "Yasen(2)": "That's right! I can't let this go like what happened at Sibuyan Sea."
+        "Yasen(2)": "That's right! I can't let this go like what happened at Sibuyan Sea.",
+        "Idle(2)": "Admiral, you're quite the hard-worker, huh."
     },
     "77": {
         "Intro": "Super-dreadnought, first of the Ise-class, Ise. Setting off!",
@@ -1019,6 +1020,7 @@
         "Sortie": "Roma, are you alright? Okay! Battleship Italia, going!",
         "Yasen(1)": "I won't lose in night battle! Please follow Italia!",
         "MVP": "Italia is number one...? Wah, thank you! I'm happy.",
+        "Idle(2)": "Admiral, I made some delicious Mediterranean pasta. Would you like to join me? There's also wine as well, ufufu \u266a",
         "H0000": "Admiral, the date has changed. Today, I will be announcing the time with you. Ufufu.",
         "H0100": "1:00... AM. Are you tired, Admiral? Shall I bring you some wine?",
         "H0200": "2:00... AM. The night here is a bit colder. Are you okay, Admiral?",
@@ -6945,7 +6947,8 @@
         "2@Summer2017": "Kirarin~! It's Summer! Summer! Noshiro, Yahagi, hurry up, let's go to the beach! In swimsuits of course. Sakawa, Admiral, you two hurry up too!"
     },
     "305": {
-        "Married": "Admiral, how have you been? That's good to hear. If you're not feeling well, I'll use my Kirarin Beam! Hah...! You want me to? Alright... Agano, kirarin!"
+        "Married": "Admiral, how have you been? That's good to hear. If you're not feeling well, I'll use my Kirarin Beam! Hah...! You want me to? Alright... Agano, kirarin!",
+        "Idle(2)": "Admira~l! Yes! Do your best!"
     },
     "138": {
         "Intro": "Second light cruiser of the Agano-class, Noshiro, has arrived. Glad to meet you!",
@@ -6954,8 +6957,8 @@
         "Poke(2)": "Yes! Let's get the work done promptly and efficiently!",
         "Poke(3)": "Geez, Agano-nee! Stop stroking my thighs!... Huh? ...Admiral? My apologies for being rude!... H-huh? Huh?",
         "Idle": "Um... Did the admiral forget about Noshiro? It's not like taking care of Agano-nee is the only thing on my mind...",
-        "Married": "Admiral, just one more push. Come on! Admiral, erm... have you see Agano-nee... eh!? Admiral, aren't you exhausted? You look terrible. That's no good, stay right there! Wait, and I'll bring the medicine!",
-        "Wedding": "\"Admiral, sorry to bother you at such a busy time. There's something that I've wanted to say to you\u2026 Everyone thinks that I just want to care for Agano-nee, but I\u2026 I really\u2026 want to care for the admiral\u2026 I think\u2026 Really!? This is like a dream! Admiral! Noshiro will do her best!\"",
+        "Married": "Admiral, just one more push. Come on!",
+        "Wedding": "Admiral, sorry to bother you at such a busy time. There's something that I've wanted to say to you\u2026 Everyone thinks that I just want to care for Agano-nee, but I\u2026 I really\u2026 want to care for the admiral\u2026 I think\u2026 Really!? This is like a dream! Admiral! Noshiro will do her best!",
         "Ranking": "The admiral's communique has arrived.",
         "Join": "Roger. Light cruiser Noshiro, setting off.",
         "Equip(1)": "Noshiro's being modernised...? My thanks!",
@@ -7014,7 +7017,10 @@
         "2@WhiteDay": "I got a return gift from Admiral for my chocolates. What to do... Eating it would be a waste, but if I don't it will go bad... Uuuh",
         "2@EarlySummer": "Eh, you're going to buy a new swimsuit, Agano-nee? Isn't last year's fine? You can't go soliciting! In the first place, we're here for the sake of the Admiral...*nagging fades out*"
     },
-    "306": {},
+    "306": {
+        "Married": "Admiral, erm... have you see Agano-nee... eh!? Admiral, aren't you exhausted? You look terrible. That's no good, stay right there! Wait, and I'll bring the medicine!",
+        "Idle(2)": "Admiral, just one more push. Come on!"
+    },
     "139": {
         "Intro": "Light Cruiser Yahagi, reporting for duty. Let's work at it together to the end, Admiral!",
         "Library": "Yahagi, the third ship of the Agano-class light cruisers. I've participated in most of the major sea battles during the latter part of the war, including the Mariana Straits, Leyte Gulf, and Bonomisaki. That's right, I fought it out to the very end. I wonder what happened to Yamato, after my memories trailed off. Oh well... This time, I'm going to protect everything!",
@@ -7022,7 +7028,7 @@
         "Poke(2)": "Hmm, that's thoughtful. I don't mind that.",
         "Poke(3)": "Haha, interesting. If you want to do thi~s, then maybe I'll do the same then, how about that?",
         "Idle": "Right... If there can be another life for me after this one, I guess becoming something other than a warship wouldn't be such a bad idea.",
-        "Married": "Admiral\u2026 The fleet girls are complimenting you for your hard work, you know? ...he isn't listening...  Admiral, what the matter? You looked reddish. Taking care of yourself is important, you know. Hmm... You had slight fever. Right, I'll make you something nutritious. I'm off using Mamiya's kitchen for a while. Wait for me, okay?",
+        "Married": "Admiral\u2026 The fleet girls are complimenting you for your hard work, you know? ...he isn't listening...",
         "Wedding": "Wha-, Admiral, you.. What's wrong? Your face... you have a rather serious expression. ...Eh, this is for me? Not for someone like Yamato or Yukikaze? For me!? W-what should I do... hu-hum.... What should I do..I-I...",
         "Ranking": "There's a report for you, Admiral. How is it?",
         "Join": "Leave the Second Torpedo Squardon to me. This is Yahagi, raising anchor!",
@@ -7082,7 +7088,10 @@
         "2@EarlySummer": "Isokaze, are you practicing? I see, training from fall to summer... must be hard, huh?",
         "2@Summer2017": "Summer is a great season for training, right? Eh? Why don't we go to the ocean? But we go to the ocean every day."
     },
-    "307": {},
+    "307": {
+        "Married": "Admiral, what the matter? You looked reddish. Taking care of yourself is important, you know. Hmm... You had slight fever. Right, I'll make you something nutritious. I'm off using Mamiya's kitchen for a while. Wait for me, okay?",
+        "Idle(2)": "Admiral\u2026 The fleet girls are complimenting you for your hard work, you know? ...he isn't listening..."
+    },
     "140": {
         "Intro": "Pyan\u266a The fourth Agano class Light Cruiser, Sakawa! Commander, nice to meet you!",
         "Library": "I'm Sakawa, the fourth ship and the youngest of the Agano-class light cruiser sisters. I was born too late, so I couldn't go outside much. I wanted to go together with Yahagi-chan... but I ended up guarding Maizuru.",
@@ -7151,7 +7160,8 @@
         "2@EarlySummer": "Whew~ Somehow I don't really like this season! I mean, I really hate it!"
     },
     "314": {
-        "Married": "Admiral, you are working hard as always, so amazing. Should I massage your shoulders? I am good at it.Pyon! Pyan! How is it?"
+        "Married": "You're always working hard, Commander! How admirable! Do you want me to give you a light shoulder massage? I'm good at it you know... Pyon! Pyan! How's that?",
+        "Idle(2)": "Commander, aren't you working a bit too hard? If you're tired, wanna have some rest together with Sakawa?"
     },
     "183": {
         "Intro": "Admiral, light cruiser Ooyodo has entered the line of battle. Please entrust the fleet directives and administration to me.",
@@ -11969,7 +11979,7 @@
         "Equip(3)": "Yeah! Going!",
         "Supply": "Oh, thanks a bunch! Fuel and ammo are important, after all!",
         "Docking(1)": "Well... it's really just a scratch! Yeah.",
-        "Docking(2)": "Ugu... I got beat... sorry",
+        "Docking(2)": "Ugu... I got beat... sorry.",
         "Construction": "Looks like a new ally's arrived\u2014",
         "Return": "The fleet's back safely! Stop looking so relieved!",
         "Sortie": "It's my turn huh... well there's no going back! Destroyer Asashimo! Move out!",

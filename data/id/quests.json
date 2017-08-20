@@ -326,6 +326,30 @@
         "desc": "Miliki Nagato Kai Ni sebagai pemimpin dan Mutsu Kai pada Armada 1.",
         "memo": "\u27a3Hadiahnya 1 Irako"
     },
+    "181": {
+        "code": "A76",
+        "name": "Bentuk Kapal Penjelajah Divisi ke-7 Baru", 
+        "desc": "Miliki Kumano Kai Ni (atau Kou) sebagai pemimpin, Suzuya Kai Ni (atau Kou) di tempat ke-2, Mogami Kai and Mikuma Kai pada Armada 1.",
+        "memo": "\u27a3Hadiahnya 1 Irako"
+    },
+    "182": {
+        "code": "A77",
+        "name": "Bentuk Kembali Kapal Induk Elit Divisi ke-4!",
+        "desc": "Miliki Lv.50+ Ise sebagai pemimpin dan Lv. 50+ Hyuuga di tempat ke-2, 1 CL, 2 DD, and 1 kapal tembahan di Armada 1.",
+        "memo": "\u27a3Hadiahnya Skilled Crew Member"
+    },
+    "183": {
+        "code": "A78",
+        "name": "Bentuk Pasukan Torpedo Divisi ke-4 baru",
+        "desc": "Miliki Yura Kai Ni sebagai pemimpin, Murasame, Yuudachi, Harusame, Samidare, and 1 DD tambahan di Armada 1.",
+        "memo": "\u27a3Hadiahnya Repair Team"
+    },
+    "184": {
+        "code": "A79",
+        "name": "Bentuk Kembali Kapal Perusak Elit Divisi ke-22!",
+        "desc": "Miliki Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai di armada.",
+        "memo": "\u27a3Hadiahnya 2 Combat Rations"
+    },
     "202": {
         "name": "Sorti Pertama!",
         "desc": "Sorti Armada Utama."
@@ -856,6 +880,36 @@
         "desc": "Sorti Nagato Kai Ni sebagai pemimpin dengan Mutsu Kai ke [W4-5] dan [W5-5], dan dapatkan S-Rank the boss nodes tsb.",
         "memo": "\u27a3Hadiahnya New Design Anti-Torpedo Bulge (Large)"
     },
+    "857": {
+        "code": "B100",
+        "name": "Armada Pengawal Laut yang Ditingkatkan, Berlayar!",
+        "desc": "Sorti Armada 1 dengan CL, 2 DD/DE, 1 CAV/CVL dan 2 kapal tambahan ke [W2-2], [W2-3], [W2-4] dan [W2-5] dan dapatkan setidaknya A-Rank pada Boss Node tsb. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "858": {
+        "code": "B101",
+        "name": "Kapal Penjelajah Divisi ke-7 Baru, Sorti!",
+        "desc": "Sorti Kumano Kai Ni (atau Kou) sebagai pemimpin, Suzuya Kai Ni (atau Kou) di tempat ke-2, Mogami Kai, Mikuma Kai dan 2 kapal tambahan ke [W4-5] dan [W6-2] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u203bTekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya 4 Baut dan ANTARA Medal ATAU New Model Artillery Armament Materials ATAU Type 0 Fighter Model 63 (Fighter-bomber)."
+    },
+    "859": {
+        "code": "B102",
+        "name": "Kapal Penjelajah Divisi ke-4 Elit, Berlayar!",
+        "desc": "Sorti Lv.50+ Hyuuga sebagai pemimpin dan Lv.50+ Ise di tempat ke-2, 1 CL, 2 DD dan 1 kapal tambahan ke [W2-5] dan [W3-5]dan dapatkan setidaknya A-Rank pada Boss Node tsb.",
+        "memo": "\u203bIse juga bisa sebagai pemimpin.\n\u203bTekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya 4 Baut dan ANTARA Medal ATAU Skilled Crew Member."
+    },
+    "860": {
+        "code": "B103",
+        "name": "Kapal Pemimpin, Yura, Berlayar!",
+        "desc": "Sorti Yura Kai Ni sebagai pemimpin, setidaknya 2 dari Akizuki, Yuudachi, Murasame, Harusame atau Samidare, dan 3 kapal lainnya ke [W2-3] dan [W5-1]. S-Rank the boss nodes.",
+        "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards a Skilled Crew Member and either a Daihatsu Landing Craft OR a Reinforcement Expansion."
+    },
+    "863": {
+        "code": "B104",
+        "name": "Sortie the Elite 22nd Destroyer Division!",
+        "desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai and up to 2 additional ships to [W3-2] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 2 Irako dan ANTARA Daihatsu Landing Craft ATAU New Model Artillery Armament Materials ATAU Reinforcement Expansion."
+    },
 	
     "801": {
         "code": "SB17",
@@ -1051,6 +1105,20 @@
         "desc": "Sorti ke [W2-4], [W6-1] dan [W6-3], dan dapatkan setidaknya A-Rank pada Boss Node. lalu Sorti ke [W6-4] dan dapatkan S-Rank pada Boss Node.",
         "memo": "\u203bMisi Hasil Perang Tambahan! \"Operasi Z\", Operasi Awal\n\u27a3hadiahnya 3 Mamiya, 4 Baut dan 350 Poin Peringkat"
     },
+    "861": {
+        "code": "Bq3",
+        "name": "Triwulan ke [W1-6]",
+        "desc": "Sorti 2 BBV/AO dan secukupnya 4 kapal tambahan ke [W1-6] dan menuju node N 2x.",
+        "memo": "\u203bArmada Pengawal Bantuan, Berlayar!\n\u27a3Hadiahnya Underway Replenishment",
+		"tracking": [ [0,2] ]
+    },
+    "862": {
+        "code": "Bq4",
+        "name": "Triwulan ke [W6-3]",
+        "desc": "Sorti 1 AV, 2 CL dan secukupnya 3 kapal tambahan ke [W6-3] dan dapatkan setidaknya A-Rank+ pada boss node 2x.",
+        "memo": "\u203bBawa Pengintai Udara pada Garis Depan!\n\u27a3Hadiahnya 4 Baut",
+        "tracking": [ [0,2] ]
+    },
 	
     "301": {
         "code": "C1",
@@ -1238,6 +1306,19 @@
         "desc": "Expedisi 5 4x.",
         "memo": "\u203bPerkuat Pengawal Armada Transport!",
         "tracking": [ [0,4] ]
+    },
+    "425": {
+        "code": "D23",
+        "name": "Armada Pengawal Laut, Mulai Expedisi!",
+        "desc": "Selesaikan Expedisi 4, 5 dan 9."
+    },
+    "426": {
+        "code": "D24",
+        "name": "Expedisi Triwulan",
+        "desc": "Selesaikan Expedisi 3, 4, 5 dan 10.",
+        "memo": "\u203bLakukan penjagaan ketat terhadap jalur dagang laut!\n\u27a3Hadiahnya 2 Combat Rations",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedisi 3", "{0} Expedisi 4", "{0} Expedisi 5", "{0} Expedisi 10" ]
     },
     "501": {
         "code": "E1",
@@ -1592,6 +1673,54 @@
         "name": "Perbanyak Grup Pesawat Amphibi Elit Baru",
         "desc": "Miliki \"Skilled Crew Member\" di penyimpana, lalu jadikan siapapun yang dapat mengunakan 2 \"Type 2 Seaplane Fighter Kai\"\u26057 dan \u2605MAX menjadi pemimpin, lalu hancurkan 2 \"Type 0 Fighter Model 21\" dan 2 Zuiun.",
 		"memo": "\u2718Bahan dan Senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Type 2 Seaplane Fighter Kai (Skilled)\""
+    },
+    "661": {
+        "code": "F53",
+        "name": "Mulai Produksi Militer dari Persenjataan Altileri Model Baru!",
+        "desc": "Miliki 6000 besi. Hancurkan 10 Secondary Gun.",
+        "memo": "\u2718Bahan akan Hilang.\n\u27a3Hadiahnya a New Model Artillery Armament Materials."
+    },
+    "662": {
+        "code": "F54",
+        "name": "Studi Perkembangan dari Model Laberang Baru.",
+        "desc": "Miliki 12000 Besi. Hancurkan 10 Medium Caliber Main Gun. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Bahan akan Hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "663": {
+        "code": "F55",
+        "name": "Medal atau Bahan per Triwulan",
+        "desc": "Miliki 18000 Besi. Hancurkan 10 Large Caliber Main Gun. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u203bStudi Perkembangan dari Model Laberang Baru\n\u2718Bahan akan Hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "664": {
+        "code": "F56",
+        "name": "Pemanfaatan Teknologi Radar untuk Deteksi Api",
+        "desc": "Miliki 8000 Besi dan Peluru. Hancurkan 10 Radar. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Bahan akan Hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "665": {
+        "code": "F57",
+        "name": "Bergabung dengan Industri Konsumen",
+        "desc": "Miliki 12000 Bensin. Hancurkan 16 Small Caliber Main Gun. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Bahan akan Hilang.\n\u27a3Hadiahnya Furniture Fairy dan ANTARA Medal ATAU New Model Artillery Armament Materials."
+    },
+    "666": {
+        "code": "F58",
+        "name": "Bentuk Pasukan Elit Zuiun!",
+        "desc": "Miliki Skilled Crew Member, 2 Type 99 Dive Bomber dan 2 Zuiun. Jadikan Hyuuga Kai sebagai sekretaris lalu beri \u2605max Zuiun (634 Air Group) di slot ke-4 -nya. Hancurkan 2 Drum Canister.",
+        "memo": "\u2718Senjata dan Bahan akan Hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Zuiun (634 Air Group / Skilled)"
+    },
+    "667": {
+        "code": "F59",
+        "name": "Lanjutkan Bergabung dengan Industri Konsumen",
+        "desc": "Miliki 15000 besi. Hancurkan 10 anti-air gun. High-angle gun tidak dihitung. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Bahan akan Hilang.\n\u27a3Hadiahnya 2 Combat Ration dan ANTARA Furniture Fairy ATAU Medal"
+    },
+    "668": {
+        "code": "F60",
+        "name": "Percobaan Jenis Combat Ration Baru",
+        "desc": "Miliki 2 Combat Ration, 800 Bensin and 150 Bauksit.",
+        "memo": "\u2718Senjata dan Bahan akan Hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Combat Ration (Special Onigiri)"
     },
     "701": {
         "code": "G1",

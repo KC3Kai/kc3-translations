@@ -91,6 +91,8 @@
 	"GameOReither": "atau",
 	"GameStep2": "Setelah panel terbuka, klik pada tab <code><strong>KanColle</strong></code>. Jika tidak ada, dapat dicari di menu ( \u22EE ) pojok kanan~",
 	"GameStep3": "Selamat Bermain!",
+	"GameStepHint": "Hint",
+	"GameStepHintRam": "Untuk mengurangi pemakaian RAM, pindah ke tab <code><strong>Network</strong></code>, klik tombol <span style='color:red'>🔴</span> merah atau dengan menekan <kbd>Ctrl</kbd> <kbd>E</kbd> untuk menghentikan daftar pencatatan.",
 	"GameSocialLinks": "Tautan",
 	
 	"SocialTextWebstore": "Tinjau di WebStore",
@@ -260,6 +262,11 @@
 	"SettingsShipNamesLang": "Nama Kapal Berbahasa",
 	"SettingsShipNamesGlobal": "Sesuai global",
 	"SettingsBlinkGauge": "Kedipkan gauge saat last kill",
+	"SettingsShipStatsDiffType" : "Format Status Kapal", 
+	"SettingsShipStatsCurrent" : "Sekarang", 
+	"SettingsShipStatsUnequipped" : "(Tak Terpakai) Sekarang", 
+	"SettingsShipStatsLeftToMax" : "Sekarang +tersisa ke MAX", 
+	"SettingsShipStatsAll" : "(Tak Terpakai) Sekarang +tersisa ke MAX ",
 	
 	"SettingsFormulas" : "Formula Game",
 	"SettingsELosFormula" : "Efektivitas Formula LoS",
@@ -301,7 +308,6 @@
 	"SettingsSupplyRate" : "Suplai Minimum",
 	"SettingsSupplyExped" : "Peringatan Suplai Armada",
 	"SettingsSupplyBarLabel" : "batang",
-	"SettingsSeconds" : "detik",
 	"SettingsSoundType" : "Tipe Suara",
 	"SettingsDing" : "DING!",
 	"SettingsCustom" : "Pilihan Sendiri",
@@ -322,6 +328,7 @@
 	"SettingsRedShadeOnPanel" : "Bayangan Merah di Panel",
 	"SettingsDisableHomePort" : "Matikan di Ruangan Awal",
 	"SettingsDisableHasDamecon" : "Abaikan Kapal Dgn Damecon",
+	"SettingsNoAnimation" : "Tanpa Efek Animasi",
 	
 	"SettingsAPIGameScreen" : "Tampilan Game",
 	"SettingsQuestOverlay" : "Terjemahan Quest",
@@ -347,6 +354,7 @@
 	"SettingsSubtitleDisplay": "Tampilan Subtitle",
 	"SettingsSubtitleSpeaker": "Subtitle dengan Nama Kapal",
 	"SettingsGoogleTranslate": "Bantuan Google Translate",
+	"SettingsMuteGameTab" : "Bisu Tab saat Dimulai",
 
 	"SubtitleDisplayBottom": "(Di bawah) Tetap di bawah layar permainan",
 	"SubtitleDisplayBelow": "(Below) Tetap tepat dibawah layar permainan",
@@ -401,6 +409,21 @@
 	"SettingsStrategyTheme" : "Tema Ruang Strategy",
 	"SettingsStrategyCustomCSS" : "CSS Buatan sendiri",
 	"SettingsStrategyCustomCSSTip" : "Deklarasi CSS3 yg benar. JANGAN utak-atik ini jika tidak tau tentang CSS dan sumber DMM. Untuk melihat perubahan, muat ulang halaman permainan DMM. Jangan lupa bahwa '!important' (penting) itu diperlukan untuk menimpa bawaan.",
+	
+	"SettingsLogging": "Pencatatan",
+	"SettingsConsoleLogHooks": "Matikan pengait console", 
+	"SettingsConsoleLogHooksTip": "Menghentikan Pencatatan dalam KC3 dari melihat metode console chrome. Biasanya ini digunakan para Dev; jika tidak tahu biarkan tidak dicentang.",
+	"SettingsLogKeepDuration": "Simpan catatan untuk",
+	"SettingsLogKeepDurationTip": "Tentukan waktu yang ditentukan setelah catatan biasa (logs, debug, info) akan diganti secara otomatis.",
+	"SettingsErrorKeepDuration": "Simpan catatan Error untuk",
+	"SettingsErrorKeepDurationTip": "Tentukan waktu yang ditentukan setelah catatan biasa (warn, error) akan diganti secara otomatis.",
+	
+	"SettingsYears" : "tahun",
+	"SettingsMonths" : "bulan",
+	"SettingsDays" : "hari",
+	"SettingsHours" : "jam",
+	"SettingsMinutes" : "menit",
+	"SettingsSeconds" : "detik",
 	
 	"InstalledTitle": "KC3改 siap membantu!",
 	"InstalledText": "Terima kasih telah memasang KC3改! Kami harap alat ini dapat membantu Kamu bermain Kancolle lebih baik! Jangan takut untuk bertanya kepada kami. Periksalah di \"Tentang Pengembang KC3改\" agar dapat kontak dengan kami.",
@@ -485,6 +508,7 @@
 	"HQExpAbbrev2" : "Saat ini",
 	"HQExpAbbrev3" : "Total",
 	"HQRankPoints" : " pt",
+	"HQRankPointsTip" : "Total exp HQ. Poin dari potongan sebelumnya pada {0:dateTime}",
 
 	"BattleMapWorldPvP"  : "PvP",
 	"BattleMapCleared"   : "Selesai",
@@ -532,6 +556,7 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
+	"ShipAccShelling" : "Akurasi Penembakan: {0} (Pakai: {1:addedStats},\u2605{2:byImprovement})",
 	"ShipAAAdjusted" : "Anti-udara yang ditetapkan: {0}",
 	"ShipAAShotdownRate" : "Tingkatan yang tertembak jatuh: {0}%",
 	"ShipAAFixedShotdown" : "Yang tertembak jatuh: {0}",
@@ -542,11 +567,11 @@
 	"PredictionStampPvP" : "Pingsan",
 	
 	"EventRankHardAbbr"	: "S",
-	"EventRankNormalAbbr"  : "N",
+	"EventRankNormalAbbr"  	: "N",
 	"EventRankEasyAbbr"	: "M",
-	"EventHistoryRank1"  : "MUDAH",
-	"EventHistoryRank2"  : "NORMAL",
-	"EventHistoryRank3"  : "SULIT",
+	"EventHistoryRank1"	: "MUDAH",
+	"EventHistoryRank2"	: "NORMAL",
+	"EventHistoryRank3"	: "SULIT",
 	"StrategyEventGo"	: "Seluruh",
 	
 	"PanelDocking" : "Perbaikan",
@@ -562,7 +587,10 @@
 	"PanelNextRemodelLv" : "Remodel Berikutnya",
 	"PanelPossibleRemodel" : "Kemungkinan Remodel",
 	"PanelResupplyCosts" : "Akan memakan {0} Bensin, {1} Peluru, {2} Bauxit",
+	"PanelResupplyMarriedHint" : "(Diskon 15% untuk yang sudah Menikah\u2665~)",
+	"PanelBattleConsumes" : "Biaya per Lawan\n\u2003Biasa - Bensin: {0:fuel}, Peluru: {1:dayAmmo} (Yasen: {2:incNightAmmo})\n\u2003Node Serangan Udara - Bensin: {3:airRaidFuel}, peluru: {4:airRaidAmmo}",
 	"PanelConsumedSteel" : "Akan memakan {0} Besi",
+	"PanelLbasSortieCosts" : "Biaya Sorti LBAS\n\u2003Bensin: {0}, Peluru: {1}",
 	
 	"PanelHasTaiha" : "Kritis",
 	"PanelFSTaiha" : "Pemimpin",
@@ -673,6 +701,7 @@
 	"PvpBaseExp"         : "EXP Dasar",
 	"PvpDispBaseExpWoCT" : "SS/S tanpa bonus x{0} CT ",
 	"PvpFormationPred"   : "Formasi",
+	"FirstFleetLevelTip" : "EXP dasar yang akan didapat lawanmu: {0}\nKetika Rank S+: {1} (tanpa CT)",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Ekspedisi Selesai!",
 	"DesktopNotifyExpedCompleteMessage" : "Armada {0} baru saja kambali dari Ekspedisi #{1}",
@@ -734,6 +763,8 @@
 	"LodgeRatingNG3" : "Pasti ini abis dari Recettear...",
 	"LodgeRatingNG4" : "Tanaka pun curiga pada dirimu nak.",
 	"LodgeRatingNG5" : "Astaga nak, boros itu gak baik lho!",
+	
+	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 	
 	"MasterShipSaltCheck" : "#TeamGakBurem",
 	"MasterShipSaltUnCheck" : "#TeamBurem",

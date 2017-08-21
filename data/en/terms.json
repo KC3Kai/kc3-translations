@@ -516,7 +516,7 @@
 	"BattleMapKills"     : " clears!",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
-	"BattleSupportTips"  : "{1} from Fleet #{0} triggered. Inflicted {2} damage!",
+	"BattleSupportTips"  : "{1} from Fleet {0} triggered. Inflicted {2} damage!",
 	"BattleLbasSupportTips" : "LBAS #{1} - {0} aircraft arrived under {5:airBattle}.\n\u2003Shot down {2} enemy aircraft and inflicted {3} surface damage.\n\u2003{4} friendly aircraft lost!",
 	"BattleLbasJetSupportTips" : "LBAS: {0} Jet assault.\n\u2003Shot down {1} enemy aircraft and inflicted {2} surface damage.\n\u2003{3} friendly aircraft lost!",
 	"BattleAntiAirCutIn" : "Anti-Air cut-in triggered?",
@@ -622,7 +622,7 @@
 	
 	"MissionLabelActivity" : "Status",
 	"MissionGetItems" : "Get Items:",
-	"MissionActivity0" : "Cancelled!",
+	"MissionActivity0" : "Canceled!",
 	"MissionActivity1" : "Failure!",
 	"MissionActivity2" : "Success!",
 	"MissionActivity3" : "Great Success!",
@@ -706,7 +706,7 @@
 	"PvpBaseExp"         : "Base EXP",
 	"PvpDispBaseExpWoCT" : "SS/S w/o x{0} CT bonus",
 	"PvpFormationPred"   : "Formation",
-	"FirstFleetLevelTip" : "Base Exp your PvP opponent will gain: {0}\nWhen Rank S+: {1} (assume no CT)",
+	"FirstFleetLevelTip" : "Exp. for PvP opponents:\nBase: {0}\nS-Rank: {1} with no CT",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition #{1}",

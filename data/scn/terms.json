@@ -533,6 +533,7 @@
 	"HQExpAbbrev2" : "当前",
 	"HQExpAbbrev3" : "总计",
 	"HQRankPoints" : " 战果",
+	"HQRankPointsTip" : "仅从 {0:dateTime} 至今获得提督经验值转换得到。不包含上月累计和各种奖励战果。",
 
 	"BattleMapWorldPvP"	 : "演习",
 	"BattleMapCleared"	 : "海域解放",
@@ -564,6 +565,10 @@
 	"BattleAirDefendNo"	 : "无拦截队",
 	"BattleAirBaseLoss"	 : "基地",
 	"BattleAirBaseLossTip" : "基地航空队受伤害共计：{0}\n燃料及铝土矿损失：{1}",
+	"BattleKindNightStart" : "夜战点",
+	"BattleKindAirBattleOnly" : "空战点",
+	"BattleKindAirDefendOnly" : "空袭点",
+	"BattleKindEnemyCombined" : "深海联合舰队",
 
 	"Debuffed" : "Boss已削弱！",
 
@@ -632,6 +637,7 @@
 	"PanelGreatMorale" : "士气高昂",
 	"PanelGoodMorale" : "疲劳良好",
 	"PanelRecoveredMorale" : "士气已恢复",
+	"PanelLbasCondBad" : "疲劳状态",
 	"PanelSupportPower" : "支援射击火力",
 	"PanelPlanesFighter" : "参与制空权抢夺的战斗机",
 	"PanelPlanesBomber" : "参与开幕轰炸的攻击机",

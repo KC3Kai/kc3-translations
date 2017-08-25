@@ -522,6 +522,10 @@
 	"BattleAirDefendNo"  : "迎撃なし",
 	"BattleAirBaseLoss"  : "基地",
 	"BattleAirBaseLossTip" : "航空基地の被ダメージが合計: {0}\n燃料またはボーキサイトに損害の予測: {1}",
+	"BattleKindNightStart" : "夜戦マス",
+	"BattleKindAirBattleOnly" : "航空戦マス",
+	"BattleKindAirDefendOnly" : "空襲戦マス",
+	"BattleKindEnemyCombined" : "敵連合艦隊",
 	"Debuffed"           : "ボスギミック解除した！",
 
 	"ShipHp"      : "耐久",
@@ -588,6 +592,7 @@
 	"PanelGreatMorale"   : "キラ状態",
 	"PanelGoodMorale"    : "通常状態",
 	"PanelRecoveredMorale" : "疲労回復",
+	"PanelLbasCondBad"   : "疲労状態",
 	"PanelSupportPower"  : "支援射撃火力",
 	"PanelPlanesFighter" : "制空戦に参加する全戦闘機",
 	"PanelPlanesBomber"  : "開幕攻撃に参加する全戦闘機",

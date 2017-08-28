@@ -592,6 +592,8 @@
 	"PanelBattleConsumes" : "Cost per Battle\n\u2003Regular Node - Fuel: {0:fuel}, Ammo: {1:dayAmmo} (Yasen: {2:incNightAmmo})\n\u2003Air Raid Node - Fuel: {3:airRaidFuel}, Ammo: {4:airRaidAmmo}",
 	"PanelConsumedSteel" : "\u2003Jet Steel Cost: {0}",
 	"PanelLbasSortieCosts" : "LBAS Sortie Cost\n\u2003Fuel: {0}, Ammo: {1}",
+	"PanelTransportPoints" : "{0:rankA} ~ {1:rankS} TP for Boss A ~ S Rank",
+	"PanelSupportExpCosts" : "Support Type: {0}\nSupport Exped Cost\n\u2003Fuel: {1}, Ammo: {2}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",

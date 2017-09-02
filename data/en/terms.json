@@ -487,7 +487,7 @@
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. The game API might have changed, so some features may be broken or inaccurate",
 	
 	"Bomb201Title": "Game Error 201",
-	"Bomb201Message": "You have received an error 201 from the game API. This may be because you're still logged in on another game client or it may have something to do with macro detection. Exercise caution if you see this repeatedly.",
+	"Bomb201Message": "An Error 201 from the game API has occured. This may be because you're still logged in on another game client or it may be related to macro detection. Exercise caution if you see this repeatedly.",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Slow",

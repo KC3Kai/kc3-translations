@@ -262,6 +262,11 @@
 	"SettingsShipNamesLang" : "เลือกภาษาชื่อเรือ",
 	"SettingsShipNamesGlobal" : "ใช้ตามภาษาที่เลือก",
 	"SettingsBlinkGauge" : "แจ้งเตือนเกจสุดท้าย",
+	"SettingsShipStatsDiffType" : "รูปแบบสเตตัสเรือ",
+	"SettingsShipStatsCurrent" : "ปัจจุบัน",
+	"SettingsShipStatsUnequipped" : "ปัจจุบัน (ไม่รวมอุปกรณ์)",
+	"SettingsShipStatsLeftToMax" : "ปัจจุบัน +อัพเกรดได้",
+	"SettingsShipStatsAll" : "ปัจจุบัน (ไม่รวมอุปกรณ์) +อัพเกรดได้",
 
 	"SettingsFormulas" : "สูตรคำนวน",
 	"SettingsELosFormula" : "สูตรคำนวนค่าค้นหา (LoS)",
@@ -485,7 +490,7 @@
 	"APIErrorNoticeMessage": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหาข้อมูลของ {0} อาจเป็นเพราะ API มีการเปลี่ยนแปลง หรือบางระบบทำงานไม่ปกติ",
 
 	"Bomb201Title": "ปัญหากราบแมว 201",
-	"Bomb201Message": "ดูเหมือนว่าคุณผู้การกำลังเจอกับปัญหากราบแมว 201 เนื่องจากระบบตรวจสอบการใช้งานบอทของเกม อาจเป็นเพราะเข้าเล่นเกมพร้อมกันกับบนมือถือ ถ้าหากคุณใช้แรงงานสาวเรือรบหนักจนเกินไปขอให้พวกเธอได้พักผ่อนบ้างเถอะนะคะ ถ้าพบปัญหานี้แล้วคุณไม่ได้ทำอะไรที่ผิดกฎของเกมก็คงไม่มีอะไรน่าเป็นห่วงหรอกค่ะ",
+	"Bomb201Message": "คุณผู้การกำลังเจอกับกราบแมว เนื่องจากระบบตรวจสอบของเกม อาจเป็นเพราะเข้าเล่นเกมพร้อมกับบนมือถือ ถ้าพบปัญหานี้แล้วคุณไม่ได้ทำอะไรที่ผิดกฎของเกมก็คงไม่มีอะไรน่าเป็นห่วงหรอกค่ะ ลองเข้าใหม่นะคะ",
 
 	"SpeedLand"    : "เร็ว",
 	"SpeedSlow"    : "ช้า",
@@ -503,6 +508,7 @@
 	"HQExpAbbrev2" : "ปัจจุบัน",
 	"HQExpAbbrev3" : "ทั้งหมด",
 	"HQRankPoints" : " แต้ม",
+	"HQRankPointsTip" : "แต้มคำนวนถึงรอบตัดคะแนนเมื่อเวลา {0:dateTime}",
 
 	"BattleMapWorldPvP" : "PvP",
 	"BattleMapCleared" : "ผ่านแล้ว",
@@ -550,8 +556,9 @@
 	"ShipMorale"  : "กำลังใจ",
 	"ShipYasenFp" : "กลางคืน",
 
+	"ShipAccShelling" : "ความแม่นยำ: {0} (อุปกรณ์: {1:addedStats},\u2605{2:byImprovement})",
 	"ShipAAAdjusted" : "ค่าต่อต้านอากาศยาน: {0}",
-	"ShipAAShotdownRate" : "จำนวนที่ยิงตกได้: {0}%",
+	"ShipAAShotdownRate" : "โอกาสยิงตก: {0}%",
 	"ShipAAFixedShotdown" : "จำนวนที่ยิงตกแน่นอน: {0}",
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
 	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
@@ -579,9 +586,12 @@
 	"PanelCombinedShipBarsHint" : "เหลือ Exp = {0}, น้ำมัน = {1}%, กระสุน = {2}%",
 	"PanelNextRemodelLv" : "รีโมเดล",
 	"PanelPossibleRemodel" : "รีโมเดลได้แล้ว",
-	"PanelResupplyCosts" : "ต้องใช้ น้ำมัน = {0}, กระสุน = {1}, บอกไซต์ = {2}",
-	"PanelConsumedSteel" : "ต้องใช้ เหล็ก = {0}",
-
+	"PanelResupplyCosts" : "ต้องใช้ {3:marriedHint}\n\u2003น้ำมัน: {0}, กระสุน: {1}, บอกไซต์: {2}",
+	"PanelResupplyMarriedHint" : "(ถ้าแต่งงานแล้วใช้น้อยลง 15%)",
+	"PanelBattleConsumes" : "ต้องใช้\n\u2003ด่านปกติ - น้ำมัน: {0:fuel}, กระสุน: {1:dayAmmo} (รบกลางคืน: {2:incNightAmmo})\n\u2003รบน่านฟ้า - น้ำมัน: {3:airRaidFuel}, กระสุน: {4:airRaidAmmo}",
+	"PanelConsumedSteel" : "\u2003ต้องใช้ เหล็ก: {0}",
+	"PanelLbasSortieCosts" : "ฐานทัพต้องใช้\n\u2003น้ำมัน: {0}, กระสุน: {1}",
+	
 	"PanelHasTaiha" : "เสียหายหนัก",
 	"PanelFSTaiha" : "เสียหายหนัก",
 	"PanelCombinedFSChuuha" : "เรือธงเสียหาย",
@@ -691,6 +701,7 @@
 	"PvpBaseExp"         : "EXP พื้นฐาน",
 	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
 	"PvpFormationPred"   : "ฟอร์เมชั่น",
+	"FirstFleetLevelTip" : "Exp พื้นฐานของฝ่ายเรา: {0}\nชนะ S+: {1} (ไม่รวม CT)",
 
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ #{1} แล้ว",
@@ -752,6 +763,8 @@
 	"LodgeRatingNG3" : "อาคากิควรพาให้ออกห่างจากคลังเก็บเสบียง",
 	"LodgeRatingNG4" : "ต้องบูชาเทพแมว?",
 	"LodgeRatingNG5" : "ใครกินทรัพย์ฯ ของฉันไป",
+
+	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 
 	"MasterShipSaltCheck" : "ไม่มีเรือลำนี้",
 	"MasterShipSaltUnCheck" : "มีเรือลำนี้แล้ว",

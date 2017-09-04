@@ -367,6 +367,12 @@
 	"SettingsStrategyTheme" : "テーマ",
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
 	"SettingsStrategyCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。これを有効するには戦闘指揮所のページをリロードする必要があります。一部のCSSに`!important`をつけるのを忘れないでね。",
+	"SettingsSaveSortieToDb" : "出撃戦闘データを保存",
+	"SettingsSaveSortieToDbTip" : "これを無効にすれば、この後すべての海域への出撃データを保存されなくて、戦闘指揮所の「Maps」や「Events」にて見ることができませんので、お勧めしません。あと、出撃で消費する資源や資材も「Ledger」から外されます。",
+	"SettingsSaveSortieButMaps" : "保存したくない海域",
+	"SettingsSaveSortieButMapsTip" : "一部の海域データだけが保存から外れたい時、このリストに海域IDを追加すればいい。例えば、[11,15,54] にすれば、1-1、1-5と5-4への出撃データを保存されません。当然、これらへの出撃で消費する資源や資材も「Ledger」から外されます。",
+	"SettingsSavePvpToDb" : "演習戦闘データを保存",
+	"SettingsSavePvpToDbTip" : "これを無効にすれば、この後の演習戦闘データを保存されなくて、戦闘指揮所の「PvP History」にて見ることができませんので、お勧めしません。",
 
 	"SettingsLogging": "コンソールログ記録",
 	"SettingsConsoleLogHooks": "ログ記録を無効にする",
@@ -596,6 +602,12 @@
 	"PanelPlanesFighter" : "制空戦に参加する全戦闘機",
 	"PanelPlanesBomber"  : "開幕攻撃に参加する全戦闘機",
 
+	"InferredFighterPower"  : "推測された敵制空値: {0}\n　喪失 < {1} < 劣勢 < {2} < 均衡 < {3} < 優勢 < {4} < 確保",
+	"InferredEnemyAircraft" : "推測された敵機搭載数:\n　既知の対空値ありの艦載機数: {0}、なしの数: {1}\n　航空戦に参加した数: {2}、不明: {3}",
+	"InferredLbasPlanes"    : "　基地航空隊に参加: {0}、その中偵察機: {1}、不明: {2}",
+	"InferredSupportPlanes" : "　支援艦隊航空戦に参加: {0}、不明: {1}",
+	"InferredExceptions"    : "推測不能の例外データ: {0}",
+	
 	"CombinedFleet"     : "連合艦隊",
 	"CombinedCarrier"   : "空母機動",
 	"CombinedSurface"   : "水上打撃",

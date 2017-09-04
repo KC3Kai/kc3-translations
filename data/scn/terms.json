@@ -440,6 +440,12 @@
 	"SettingsStrategyTheme" : "作战指挥所主题",
 	"SettingsStrategyCustomCSS" : "自定义CSS样式",
 	"SettingsStrategyCustomCSSTip" : "使用合法的CSS3语法定制作战指挥所样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要重新加载作战指挥所页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
+	"SettingsSaveSortieToDb" : "保存出击和战斗历史数据",
+	"SettingsSaveSortieToDbTip" : "禁用该项后将不再保存出击所有海域图的战斗数据，无法从作战指挥所的战斗历史页查询到这之后的条目。注意：与出击、入渠相关的资源消耗分类簿也无法查询到相关的数据。重新启用也会导致数据断层，无特殊需求不建议禁用。",
+	"SettingsSaveSortieButMaps" : "需要排除保存的海域",
+	"SettingsSaveSortieButMapsTip" : "如果只想禁用部分常刷但不想保留的海域数据，可以在列表中添加海域图的数字ID。例如：设置为 [11,15,54] 表示出击1-1、1-5和5-4的历史都不保存。同时与这些出击相关的分类资源消也无法被统计到。前一项禁用时本项无效果。",
+	"SettingsSavePvpToDb" : "保存演习战斗历史数据",
+	"SettingsSavePvpToDbTip" : "禁用该项后将不再保存演习战的历史数据，将无法从作战指挥所的PvP历史页查到这之后的条目。",
 
 	"SettingsLogging": "后台控制台日志记录",
 	"SettingsConsoleLogHooks": "禁用日志记录",
@@ -644,6 +650,12 @@
 	"PanelPlanesFighter" : "参与制空权抢夺的战斗机",
 	"PanelPlanesBomber" : "参与开幕轰炸的攻击机",
 	"PanelToggleQuestComplete" : "单击可切换任务状态（完成／未完成）",
+
+	"InferredFighterPower"  : "推算的敌方制空值: {0}\n　丧失 < {1} < 劣势 < {2} < 均势 < {3} < 优势 < {4} < 确保",
+	"InferredEnemyAircraft" : "推算的敌方舰载机数:\n　已知有对空值的舰载机总数: {0}；无对空值的总数: {1}\n　参与制空权争夺的总数: {2}；不明数: {3}",
+	"InferredLbasPlanes"    : "　参与基地航空队的总数: {0} (含侦察机: {1})；不明数: {2}",
+	"InferredSupportPlanes" : "　参与支援舰队航空战的总数: {0}；不明数: {1}",
+	"InferredExceptions"    : "导致推算失败的未知数据: {0}",
 
 	"MissionLabelActivity" : "远征",
 	"MissionGetItems" : "获得物品：",

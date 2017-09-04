@@ -406,6 +406,12 @@
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	"SettingsStrategyCustomCSS" : "Custom CSS",
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+	"SettingsSaveSortieToDb" : "Save Sortie History",
+	"SettingsSaveSortieToDbTip" : "Don't disable this if you don't want your Maps / Events History miss your battle data. Disabling this will also make Ledger can not record your sortie related consumptions.",
+	"SettingsSaveSortieButMaps" : "Maps to be Ignored",
+	"SettingsSaveSortieButMapsTip" : "Set a list to exclude maps from saving sortie battle data. Format: [map ID1, map ID2, ...]. For example: [11,15,54] means do not save data sortied to 1-1, 1-5, 5-4. Will lose some Ledger data either. And will not save any map if previous option disabled.",
+	"SettingsSavePvpToDb" : "Save PvP Battle History",
+	"SettingsSavePvpToDbTip" : "Don't disable this if you don't want your PvP Battle History miss your data.",
 	
 	"SettingsLogging": "Logging",
 	"SettingsConsoleLogHooks": "Disable console hooks",
@@ -618,6 +624,12 @@
 	"PanelToggleQuestComplete" : "Toggle Quest Completion Status",
 	"PanelReloadQuotes" : "Check Subtitles Update",
 	"PanelReloadQuests" : "Check Quests Update",
+	
+	"InferredFighterPower" : "Inferred Fighter Power: {0}\n\u2003AD: {1} / AP: {2} / AS: {3} / AS+: {4}",
+	"InferredEnemyAircraft" : "Inferred Enemy Aircraft:\n\u2003Known Aircraft with AA > 0: {0}\n\u2003Known Aircraft with AA = 0: {1}\n\u2003Stage1 Participants: {2}\n\u2003\u2003Unknown Aircraft: {3}",
+	"InferredLbasPlanes" : "\u2003LBAA Participants: {0} (Recon: {1})\n\u2003\u2003Unknown Aircraft: {2}",
+	"InferredSupportPlanes" : "\u2003Support Fleet Participants: {0}\n\u2003\u2003Unknown Aircraft: {1}",
+	"InferredExceptions" : "Inference Exceptions: {0:jsonData}",
 	
 	"MissionLabelActivity" : "Status",
 	"MissionGetItems" : "Get Items:",

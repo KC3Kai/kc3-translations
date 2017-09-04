@@ -368,9 +368,9 @@
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
 	"SettingsStrategyCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。これを有効するには戦闘指揮所のページをリロードする必要があります。一部のCSSに`!important`をつけるのを忘れないでね。",
 	"SettingsSaveSortieToDb" : "出撃戦闘データを保存",
-	"SettingsSaveSortieToDbTip" : "これを無効にすれば、この後すべての海域への出撃データを保存されなくて、戦闘指揮所の「Maps」や「Events」にて見ることができませんので、お勧めしません。あと、出撃で消費する資源や資材も「Ledger」から外されます。",
+	"SettingsSaveSortieToDbTip" : "これを無効にすれば、この後すべての海域への出撃データを保存されなくて、戦闘指揮所の「Maps」や「Events」にて見ることができませんので、お勧めしません。あと「Ledger」には出撃で消費する資源や資材はマップとの関連性が失くします。",
 	"SettingsSaveSortieButMaps" : "保存したくない海域",
-	"SettingsSaveSortieButMapsTip" : "一部の海域データだけが保存から外れたい時、このリストに海域IDを追加すればいい。例えば、[11,15,54] にすれば、1-1、1-5と5-4への出撃データを保存されません。当然、これらへの出撃で消費する資源や資材も「Ledger」から外されます。",
+	"SettingsSaveSortieButMapsTip" : "一部の海域データだけが保存から外れたい時、このリストに海域IDを追加すればいい。例えば、[11,15,54] にすれば、1-1、1-5と5-4への出撃データを保存されません。当然、これらのマップへの出撃で消費する資源や資材は「Ledger」から検索できません。",
 	"SettingsSavePvpToDb" : "演習戦闘データを保存",
 	"SettingsSavePvpToDbTip" : "これを無効にすれば、この後の演習戦闘データを保存されなくて、戦闘指揮所の「PvP History」にて見ることができませんので、お勧めしません。",
 

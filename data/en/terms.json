@@ -407,9 +407,9 @@
 	"SettingsStrategyCustomCSS" : "Custom CSS",
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	"SettingsSaveSortieToDb" : "Save Sortie History",
-	"SettingsSaveSortieToDbTip" : "Don't disable this if you don't want your Maps / Events History miss your battle data. Disabling this will also make Ledger can not record your sortie related consumptions.",
+	"SettingsSaveSortieToDbTip" : "Don't disable this if you don't want your Maps / Events History miss your battle data. Disabling this will also make Ledger can not search your sortie related consumptions by maps.",
 	"SettingsSaveSortieButMaps" : "Maps to be Ignored",
-	"SettingsSaveSortieButMapsTip" : "Set a list to exclude maps from saving sortie battle data. Format: [map ID1, map ID2, ...]. For example: [11,15,54] means do not save data sortied to 1-1, 1-5, 5-4. Will lose some Ledger data either. And will not save any map if previous option disabled.",
+	"SettingsSaveSortieButMapsTip" : "Set a list to exclude maps from saving sortie battle data. Format: [map ID1, map ID2, ...]. For example: [11,15,54] means do not save data sortied to 1-1, 1-5, 5-4. Will not save any map if previous option disabled.",
 	"SettingsSavePvpToDb" : "Save PvP Battle History",
 	"SettingsSavePvpToDbTip" : "Don't disable this if you don't want your PvP Battle History miss your data.",
 	

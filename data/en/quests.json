@@ -252,7 +252,7 @@
         "code": "A39",
         "name": "Strengthen the Reformed 2nd Carrier Division!",
         "desc": "Have Souryuu Kai Ni as flagship, Hiryuu Kai Ni, and 2 DD in your fleet.",
-        "unlock": [ 251, 627 ]
+        "unlock": [ 251 ]
     },
     "142": {
         "code": "A40",
@@ -377,7 +377,7 @@
         "name": "Form the 3rd Carrier Division!",
         "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose (CVL) and Chiyoda (CVL) in your main fleet.",
         "memo": "\u27a3Rewards a Skilled Crew Member",
-        "unlock": [ 293, 627 ]
+        "unlock": [ 293, 625, 627 ]
     },
     "165": {
         "code": "A60",
@@ -391,7 +391,7 @@
         "name": "Form the Ozawa Fleet!",
         "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai in your main fleet.",
         "memo": "\u27a3Rewards a Repair Team",
-        "unlock": [ 294 ]
+        "unlock": [ 294, 630 ]
     },
     "167": {
         "code": "A62",
@@ -846,14 +846,14 @@
         "code": "B53",
         "name": "Sortie CarDiv 3 to the Nansei Islands Defense Line!",
         "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose (CVL), Chiyoda (CVL) and up to 2 additional ships to [W1-4]. S-Rank the boss node.",
-        "unlock": [ 165 ]
+        "unlock": [ 165, 629 ]
     },
     "294": {
         "code": "B54",
         "name": "Sortie the Ozawa Fleet!",
         "desc": "Sortie Zuikaku Kai+ as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai to [W2-4]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Zero Fighter Model 52C (601 Air Group)",
-        "unlock": [ 626, 645 ]
+        "unlock": [ 631, 645 ]
     },
     "295": {
         "code": "B55",
@@ -1842,21 +1842,22 @@
         "code": "F21",
         "name": "Preparation for the Prototype Rigging",
         "desc": "Scrap 7 pieces of equipment.",
-        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult"
+        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
+        "unlock": [ 629 ]
     },
     "625": {
         "code": "F23",
         "name": "Additional Prototype Flight Rigging",
         "desc": "Scrap 9 pieces of equipment.",
         "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
-        "unlock": [ 627, 630 ]
+        "unlock": [ 167, 632 ]
     },
     "626": {
         "code": "F22",
         "name": "Monthly Type 0 Fighter Model 21 (Skilled)",
         "desc": "Have a Skilled Crew Member. Set Houshou as secretary. Equip her with a >> Type 0 Fighter Model 21. Scrap two Type 0 Fighter Model 21s and a Type 96 Fighter.",
         "memo": "\u203bThe Newly Formed Elite Fighter Squadron\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 21 (Skilled)",
-        "unlock": [ 632 ]
+        "unlock": [ 627, 630, 632 ]
     },
     "627": {
         "code": "F24",

@@ -632,7 +632,8 @@
 	"PanelLbasSortieCosts" : "基地航空队出击时的消耗\n燃料：{0}，弹药：{1}",
 	"PanelTransportPoints" : "输送作战A或S胜将得到 {0}TP 或 {1}TP",
 	"PanelSupportExpCosts" : "支援舰队类型：{0}支援\n支援远征的消耗\n燃料：{1}，弹药：{2}",
-	"PanelAirContactTip"   : "在{0}的情况下\n接触触发开始率：{1}%\n接触舰载机全部选择失败率：{2}%",
+	"PanelAirContactTip"   : "在{0}的情况下\n接触成功率：{1}%\n接触触发开始率：{2}%{4:contactPlanes}\n接触舰载机全部选择失败率：{3}%",
+	"PanelAirContactPlanes" : "\n选择判定优先前{0}位的舰载机：\n{1:选择率列表}",
 
 	"PanelHasTaiha" : "大破",
 	"PanelFSTaiha" : "旗舰",

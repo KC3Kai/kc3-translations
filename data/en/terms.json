@@ -600,7 +600,8 @@
 	"PanelLbasSortieCosts" : "LBAS Sortie Cost\n\u2003Fuel: {0}, Ammo: {1}",
 	"PanelTransportPoints" : "{0:rankA} ~ {1:rankS} TP for Boss A ~ S Rank",
 	"PanelSupportExpCosts" : "Support Type: {0}\nSupport Exped Cost\n\u2003Fuel: {1}, Ammo: {2}",
-	"PanelAirContactTip" : "For {0:airControl}:\n\u2003Contact Trigger Chance: {1}%\n\u2003Contact Selection Cancelled: {2}%",
+	"PanelAirContactTip" : "For {0:airControl}:\n\u2003Contact Success Chance: {1}%\n\u2003Contact Trigger Chance: {2}%\n\u2003Contact Selection Cancelled: {3}%{4:contactPlanes}",
+	"PanelAirContactPlanes" : "\nAircraft Selection Priority Top {0}:\n{1:planeRateList}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",

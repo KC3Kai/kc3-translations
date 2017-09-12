@@ -514,6 +514,12 @@
         "memo": "\u27a3Rewards 2 Combat Rations",
         "unlock": [ 863 ]
     },
+    "185": {
+        "code": "A80",
+        "name": "Form the Powerful Task Force!",
+        "desc": "Have Saratoga Mk.II or Mod.2 as flagship, 1 CL and 2 DD in Fleet 1. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: Choose between either a F6F-3 OR a F4U-1D and then choose between either a TBF OR a New Model Aviation Armament Materials"
+    },
     
     "202": {
         "code": "B1",
@@ -1208,6 +1214,18 @@
         "desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai and up to 2 additional ships to [W3-2]. S-Rank the boss node. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards 2 Irako and either a Daihatsu Landing Craft OR a New Model Artillery Armament Materials OR a Reinforcement Expansion."
     },
+    "864": {
+        "code": "B105",
+        "name": "Powerful Large-Scale Aircraft Carrier, Setting Sail!",
+        "desc": "Sortie Saratoga Mk.II or Mod.2 as flagship, 1 CL, 2 DD and up to 2 additional ships to [W5-5] and [W6-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2623Be wary of rewards potentially being listed in the wrong order.\n\u27a3Rewards: Choose between either a F6F-3 OR a Skilled Crew Member OR a New Model Aviation Armament Materials and then choose between either a TBF OR a Night Operations Aviation Personnel"
+    },
+    "865": {
+        "code": "B106",
+        "name": "Night Operations Carrier, Sortie to the Frontlines!",
+        "desc": "Sortie Saratoga Mk.II (NOT Mod.2?) as flagship to [W6-5]. S-Rank? the boss node. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2623Be wary of rewards potentially being listed in the wrong order.\n\u27a3Rewards: Choose between either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel and then choose between either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
+    },
     
     
     "201": {
@@ -1521,8 +1539,13 @@
         "code": "C12",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Mamiya",
-        "memo": "\u27a3Rewards a Present Box"
+        "memo": "\u27a3Rewards a Mamiya and a Present Box"
+    },
+    "316": {
+        "code": "",
+        "name": "Strive to Improve the Transport Force's Level of Training!",
+        "desc": "Secure 4 victories in Exercises within the same day. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 2 Screws and either a Furniture Fairy OR a Daihatsu Landing Craft."
     },
     
     
@@ -2131,6 +2154,12 @@
         "name": "An Experimental New Kind of Combat Ration",
         "desc": "Have 2 Combat Rations, 800 fuel and 150 Bauxite.",
         "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a new Combat Ration (Special Onigiri)"
+    },
+    "669": {
+        "code": "",
+        "name": "Development of a Night Warfare-class Ship-Based Fighter Aircraft",
+        "desc": "Have a New Model Aviation Armament Materials, 6 Screws, 5000 Bauxite and 30 Dev. Mat. Equip a >> \u2605max F6F-3 in the secretary ship's first slot. Scrap two T13 Air Radars and two T22 Surface Radars.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards ?"
     },
 
     "701": {

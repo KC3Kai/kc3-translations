@@ -1218,14 +1218,14 @@
     "864": {
         "code": "B105",
         "name": "Powerful Large-Scale Aircraft Carrier, Setting Sail!",
-        "desc": "Sortie Saratoga Mk.II or Mod.2 as flagship, 1 CL, 2 DD and up to 2 additional ships to [W5-5] and [W6-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "desc": "Sortie Saratoga Mk.II or Mod.2 as Fleet 1 flagship, 1 CL, 2 DD and up to 2 additional ships to [W5-5] and [W6-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2623Be wary of rewards potentially being listed in the wrong order.\n\u27a3Rewards:\n\u27a3First choice: Either a F6F-3 OR a Skilled Crew Member OR a New Model Aviation Armament Materials\n\u27a3Second choice: Either a TBF OR a Night Operations Aviation Personnel",
         "unlock": [ 865 ]
     },
     "865": {
         "code": "B106",
         "name": "Night Operations Carrier, Sortie to the Frontlines!",
-        "desc": "Sortie Saratoga Mk.II (NOT Mod.2?) as flagship to [W6-5]. S-Rank? the boss node. Press F10 to clear the overlay.",
+        "desc": "Sortie Saratoga Mk.II (NOT Mod.2) as Fleet 1 flagship to [W6-5]. S-Rank? the boss node. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2623Be wary of rewards potentially being listed in the wrong order.\n\u27a3Rewards:\n\u27a3First choice: Either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel\n\u27a3Second choice: Either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
     },
     
@@ -2169,6 +2169,12 @@
         "name": "Development of a Night Operations-class Ship-Based Bomber Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description.",
         "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
+    },
+    "671": {
+        "code": "F63",
+        "name": "Performance Enhancement of a Night Warfare-class Fighter Aircraft",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description.",
+        "memo": "Have a New Model Aviation Armament Materials, 8 Screws, 6000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-5 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bPerformance Enhancement of a Night Warfare-class Ship-Based Fighter Aircraft\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-5N"
     },
 
     "701": {

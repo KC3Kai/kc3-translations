@@ -565,7 +565,7 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
-	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip: {1:addedStats},\u2605{2:byImprovement})",
+	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
 	"ShipAAShotdownRate" : "Prop. Shootdown: {0}%",
 	"ShipAAFixedShotdown" : "Fixed Shootdown: {0}",

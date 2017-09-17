@@ -315,6 +315,7 @@
 	"SettingsShipStatsUnequipped" : "(装备加成除外值) 当前值",
 	"SettingsShipStatsLeftToMax" : "当前值 +距离最大的剩余值",
 	"SettingsShipStatsAll" : "(装备加成除外值) 当前值 +距离最大的剩余值",
+	"SettingsSeasonalShipIcon" : "航娘限定头像",
 
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
@@ -380,6 +381,7 @@
 	"SettingsSubtitleFontDesc": "指定CSS支持的字体。参见 http://www.cssfontstack.com",
 	"SettingsSubtitleDisplay": "字幕显示",
 	"SettingsSubtitleSpeaker": "字幕前加舰名",
+	"SettingsSubtitleHourly" : "字幕时报",
 	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
 	"SettingsMapNodeMarkers" : "地图节点标记",
 	"SettingsMuteGameTab" : "启动游戏时静音",
@@ -593,7 +595,7 @@
 	"ShipMorale"  : "士气",
 	"ShipYasenFp" : "夜战",
 
-	"ShipAccShelling"     : "炮击命中值: {0} (装备: {1},\u2605{2})",
+	"ShipAccShelling"     : "炮击命中值: {0} (装备:{1},\u2605{2},适重:{3})",
 	"ShipAAAdjusted"      : "加权对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",

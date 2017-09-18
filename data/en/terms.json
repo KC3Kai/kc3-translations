@@ -565,11 +565,26 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
+	"ShipWarfareShelling" : "Shelling",
+	"ShipWarfareTorpedo"  : "Torpedo",
+	"ShipWarfareAntisub"  : "Anti-Sub",
+	"ShipWarfareAntiLand" : "Anti-Land",
+	
+	"ShipAttackTypeLandingAttack" : "Landing",
+	"ShipAttackTypeRocket"        : "Rocket",
+	"ShipAttackTypeDepthCharge"   : "Depth Charge",
+	"ShipAttackTypeAirAttack"     : "Aerial Attack",
+	"ShipAttackTypeTorpedo"       : "Torpedo Attack",
+	"ShipAttackTypeSingleAttack"  : "Single Attack",
+	"ShipAttackTypeNone"          : "Can't Attack",
+
+	"ShipDayAttack" : "Day {0:warfareType} Power: {1:power} ({2:attackType})",
+	"ShipNightAttack" : "Night {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
 	"ShipAAShotdownRate" : "Prop. Shootdown: {0}%",
-	"ShipAAFixedShotdown" : "Fixed Shootdown: {0}",
-	"ShipAACIMaxBonus" : "Max AACI Bonus: {0}",
+	"ShipAAFixedShotdown" : "Fixed Down: {0}",
+	"ShipAACIMaxBonus" : "Max AACI: {0}",
 	"ShipAAShotdownTitles" : "Test:/Both/Prop./Fixed/Fail",
 	
 	"PredictionStampSortie" : "Sunk",

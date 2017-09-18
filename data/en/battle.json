@@ -60,6 +60,27 @@
 		"No damage"
 	],
 	
+	"cutinDay" : [
+		"",
+		"Laser",
+		"Double Attack",
+		"Main Second CI",
+		"Main Radar CI",
+		"Main AP CI",
+		"Main Main CI",
+		"Carrier CI"
+	],
+	
+	"cutinNight" : [
+		"",
+		"Double Attack",
+		"Torp Main CI",
+		"Torp Torp CI",
+		"Torp Second CI",
+		"Main Main CI",
+		"Carrier CI"
+	],
+	
 	"aacitype" : [
 		[],
 		["Akizuki-Class", "High-angle Mount", "High Angle Mount", "Radar"],

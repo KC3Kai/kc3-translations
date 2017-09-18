@@ -554,8 +554,12 @@
 	"ShipAttackTypeSingleAttack"  : "砲撃",
 	"ShipAttackTypeNone"          : "攻撃不能",
 
-	"ShipDayAttack"       : "昼{0}攻撃力: {1} (タイプ: {2})",
-	"ShipNightAttack"     : "夜{0}攻撃力: {1} (タイプ: {2})",
+	"ShipExtraPhaseOpeningASW"     : "先制対潜",
+	"ShipExtraPhaseOpeningTorpedo" : "開幕雷撃",
+	"ShipExtraPhaseClosingTorpedo" : "雷撃戦",
+
+	"ShipDayAttack"       : "昼{0}攻撃力: {1} ({2})",
+	"ShipNightAttack"     : "夜{0}攻撃力: {1} ({2})",
 	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備:{1},\u2605{2},Fit砲:{3})",
 	"ShipAAAdjusted"      : "加重対空値: {0}",
 	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",

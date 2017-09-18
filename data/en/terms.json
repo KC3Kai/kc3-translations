@@ -577,7 +577,11 @@
 	"ShipAttackTypeTorpedo"       : "Torpedo Attack",
 	"ShipAttackTypeSingleAttack"  : "Single Attack",
 	"ShipAttackTypeNone"          : "Can't Attack",
-
+	
+	"ShipExtraPhaseOpeningASW"     : "OASW",
+	"ShipExtraPhaseOpeningTorpedo" : "OTA",
+	"ShipExtraPhaseClosingTorpedo" : "CTA",
+	
 	"ShipDayAttack" : "Day {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipNightAttack" : "Night {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit})",

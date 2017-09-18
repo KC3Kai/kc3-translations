@@ -565,6 +565,21 @@
 	"ShipMorale"  : "กำลังใจ",
 	"ShipYasenFp" : "กลางคืน",
 
+	"ShipWarfareShelling" : "ยิงปืนใหญ่",
+	"ShipWarfareTorpedo"  : "ตอร์ปิโด",
+	"ShipWarfareAntisub"  : "ต่อต้านเรือดำน้ำ",
+	"ShipWarfareAntiLand" : "ต่อต้านภาคพื้น",
+	
+	"ShipAttackTypeLandingAttack" : "ฐานทัพ",
+	"ShipAttackTypeRocket"        : "จรวด",
+	"ShipAttackTypeDepthCharge"   : "ระเบิดน้ำลึก",
+	"ShipAttackTypeAirAttack"     : "โจมตีทางอากาศ",
+	"ShipAttackTypeTorpedo"       : "ยิงตอร์ปิโด",
+	"ShipAttackTypeSingleAttack"  : "ปืนใหญ่",
+	"ShipAttackTypeNone"          : "โจมตีไม่ได้",
+
+	"ShipDayAttack" : "กลางวัน {0} พลังโจมตี: {1} (รูปแบบ: {2})",
+	"ShipNightAttack" : "กลางคืน {0} พลังโจมตี: {1} (รูปแบบ: {2})",
 	"ShipAccShelling" : "ความแม่นยำ: {0} (อุปกรณ์:{1},\u2605{2},น้ำหนัก:{3})",
 	"ShipAAAdjusted" : "ค่าต่อต้านอากาศยาน: {0}",
 	"ShipAAShotdownRate" : "โอกาสยิงตก: {0}%",

@@ -283,6 +283,11 @@
 	"SettingsAAFCombAntiSub"  : "联合舰队(对潜警戒)",
 	"SettingsAAFCombDiamond"  : "联合舰队(轮型阵)",
 	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
+	"SettingsPowerCapLevel"   : "攻击力计算阈值和补正",
+	"SettingsPowerCapNone"    : "无补正",
+	"SettingsPowerCapPrecap"  : "取阈值前的补正",
+	"SettingsPowerCapCapped"  : "阈值前的补正并取阈值",
+	"SettingsPowerCapPostcap" : "取阈值前后所有补正",
 
 	"SettingsErrors" : "错误提示",
 	"SettingsShowCatBombs" : "显示报错（猫）",

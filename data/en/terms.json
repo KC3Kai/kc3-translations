@@ -725,14 +725,19 @@
 	"ExpedGSRateExplainNoOverdrum": "Carrying insufficient drums imposes a penalty to the GS rate.\nNeeded: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "Having sparkled ships increases the GS rate.\nCurrent: {0}",
 	
-	"CraftEquipNoteFirst" : "This is your <strong>first</strong>!",
-	"CraftEquipNoteExists" : "You now have <strong>{0}</strong> of this item!",
-	"CraftEquipNotePenguin" : "Equipment crafting failed",
+	"CraftEquipNoteFirst": "This is your <strong>first</strong>!",
+	"CraftEquipNoteExists": "You now have <strong>{0}</strong> of this item!",
+	"CraftEquipNotePenguin": "Equipment crafting failed",
 	
-	"ModernizationResultLeft" : "{0} left",
-	"ModernizationResultNote" : "Stats indicated are values without equipment",
+	"ModernizationResultLeft": "{0} left",
+	"ModernizationResultNote": "Stats indicated are values without equipment",
 	
 	"FitWeightUnknown": "Unknown",
+	"FitWeightValue": "Current Main Gun's<br/>Fit Bonus or Penalty",
+	"FitWeightTotal" : "Shelling Accuracy Result:",
+	"EquipOaswMessage" : "Can Perform Opening ASW",
+	"EquipOaswPower" : "Pre-Cap Basic Power:",
+	
 	"FitWeight_-3": "Large Fit Penalty",
 	"FitWeight_-2": "Medium Fit Penalty",
 	"FitWeight_-1": "Small Fit Penalty",

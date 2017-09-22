@@ -725,14 +725,19 @@
 	"ExpedGSRateExplainNoOverdrum": "จำนวนถังสำรวจไม่เพียงพอสำหรับการเพิ่มโอกาสสำเร็จโบนัส \nต้องการ: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "มีเรือที่มีกำลังใจสูง เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0}",
 
-	"CraftEquipNoteFirst" : "เพิ่งจะเคยได้ <strong>ชิ้นแรก</strong>!",
-	"CraftEquipNoteExists" : "ตอนนี้มี <strong>{0}</strong> ชิ้น!",
-	"CraftEquipNotePenguin" : "สร้างอุปกรณ์ล้มเหลว",
+	"CraftEquipNoteFirst": "เพิ่งจะเคยได้ <strong>ชิ้นแรก</strong>!",
+	"CraftEquipNoteExists": "ตอนนี้มี <strong>{0}</strong> ชิ้น!",
+	"CraftEquipNotePenguin": "สร้างอุปกรณ์ล้มเหลว",
 
-	"ModernizationResultLeft" : "เหลือ {0}",
-	"ModernizationResultNote" : "ค่าสเตตัสนี้ยังไม่รวมที่ได้จากอุปกรณ์",
+	"ModernizationResultLeft": "เหลือ {0}",
+	"ModernizationResultNote": "ค่าสเตตัสนี้ยังไม่รวมที่ได้จากอุปกรณ์",
 
 	"FitWeightUnknown": "ไม่มีข้อมูล",
+	"FitWeightValue": "น้ำหนักของปืนหลักปัจจุบัน",
+	"FitWeightTotal" : "ความแม่นยำ:",
+	"EquipOaswMessage" : "สามารถโจมตีเรือดำน้ำก่อน",
+	"EquipOaswPower" : "พลังโจมตีก่อนเพดาน:",
+
 	"FitWeight_-3": "[-3] ปืนหนักเกินไป",
 	"FitWeight_-2": "[-2] ปืนหนักมาก",
 	"FitWeight_-1": "[-1] ปืนหนักเล็กน้อย",

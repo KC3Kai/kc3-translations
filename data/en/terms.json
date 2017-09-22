@@ -595,8 +595,8 @@
 	"ShipNightAttack" : "Night {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
-	"ShipAAShotdownRate" : "Prop. Shootdown: {0}%",
-	"ShipAAFixedShotdown" : "Fixed Down: {0}",
+	"ShipAAShotdownRate" : "Shootdown - Prop: {0}%",
+	"ShipAAFixedShotdown" : "Fixed: {0}",
 	"ShipAACIMaxBonus" : "Max AACI: {0}",
 	"ShipAAShotdownTitles" : "Test:/Both/Prop./Fixed/Fail",
 	

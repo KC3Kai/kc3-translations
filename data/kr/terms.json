@@ -274,12 +274,18 @@
 	"SettingsIntercept": "최소치+요격치",
 	"SettingsAFPAverage": "자연수 제공치 보너스",
 	"SettingsAFPBounds": "최소-최대 제공치 보너스",
-	"SettingsAAFormation": "대공 진형",
-	"SettingsAAFLineAheadEtc": "단종진, 기타",
-	"SettingsAAFDoubleLine": "복종진",
-	"SettingsAAFDiamond": "윤형진",
-	"SettingsAAFCombAntiSub": "연합 (대잠)",
-	"SettingsAAFCombDiamond": "연합 (대공)",
+	
+	"SettingsPlayerFormation" : "우군 전투 진형",
+	"SettingsForLineAhead"    : "단종진",
+	"SettingsForDoubleLine"   : "복종진",
+	"SettingsForDiamond"      : "윤형진",
+	"SettingsForEchelon"      : "제형진",
+	"SettingsForLineAbreast"  : "단횡진",
+	"SettingsForCombAntiSub"  : "연합(대잠경계)",
+	"SettingsForCombForward"  : "연합(전방경계)",
+	"SettingsForCombDiamond"  : "연합(윤형진)",
+	"SettingsForCombBattle"   : "연합(전투진형)",
+	
 	"SettingsImaginaryEnemySlot": "적 공/폭격기 슬롯",
 	"SettingsSpecialCounterAdjust": "임무 카운터 수정",
 
@@ -346,6 +352,7 @@
 	"SettingsSubtitleBold": "자막 폰트 두껍게",
 	"SettingsSubtitleDisplay": "자막 표시",
 	"SettingsSubtitleSpeaker": "칸무스 이름 포함한 자막 표시",
+	"SettingsSubtitleHourly" : "시보 자막 표시",
 	"SettingsGoogleTranslate": "구글 번역기 활용",
 
 	"SubtitleDisplayBottom": "(게임 화면 하단) 게임 화면 하단에 고정",
@@ -635,6 +642,11 @@
 	"ModernizationResultNote": "표시된 능력치는 장비를 제외한 수치입니다",
 
 	"FitWeightUnknown": "불확실",
+	"FitWeightValue": "현재 장비한 주포의<br/>피트 보정",
+	"FitWeightTotal": "주간전의 피트 보정치:",
+	"EquipOaswMessage": "선제대잠공격 가능",
+	"EquipOaswPower": "캡전 기본공격력:",
+	
 	"FitWeight_-3": "과적 페널티 대",
 	"FitWeight_-2": "과적 페널티 중",
 	"FitWeight_-1": "과적 페널티 소",
@@ -642,7 +654,7 @@
 	"FitWeight_1": "피트 보정 소",
 	"FitWeight_2": "피트 보정 중",
 	"FitWeight_3": "피트 보정 대",
-
+	
 	"PvpListTitle": "연습 상대",
 	"PvpListCreateType0": "연습함대 제1군",
 	"PvpListCreateType1": "연습함대 제2군",

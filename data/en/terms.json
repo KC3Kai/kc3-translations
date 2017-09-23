@@ -295,6 +295,8 @@
 	"SettingsPowerCapPrecap"  : "Pre-cap",
 	"SettingsPowerCapCapped"  : "Pre-cap & Cap",
 	"SettingsPowerCapPostcap" : "Pre-cap & Post-cap",
+	"SettingsPowerCritical"   : "Show Critical Power",
+	"SettingsPowerCriticalTip" : "Critical power will not be available if Post-cap above is not enabled.",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",

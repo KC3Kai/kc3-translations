@@ -292,6 +292,8 @@
 	"SettingsPowerCapPrecap"  : "取阈值前的补正",
 	"SettingsPowerCapCapped"  : "阈值前的补正并取阈值",
 	"SettingsPowerCapPostcap" : "取阈值前后所有补正",
+	"SettingsPowerCritical"   : "同时计算爆击时的攻击力",
+	"SettingsPowerCriticalTip" : "如果不启用上面取阈值后的补正，则爆击补正也不会生效。",
 
 	"SettingsErrors" : "错误提示",
 	"SettingsShowCatBombs" : "显示报错（猫）",

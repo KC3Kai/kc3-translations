@@ -295,6 +295,8 @@
 	"SettingsPowerCapPrecap"  : "Pre-cap",
 	"SettingsPowerCapCapped"  : "Pre-cap & Cap",
 	"SettingsPowerCapPostcap" : "Pre-cap & Post-cap",
+	"SettingsPowerCritical"   : "Show Critical Power",
+	"SettingsPowerCriticalTip" : "Critical power will not be available if Post-cap above is not enabled.",
 	
 	"SettingsScreenshot" : "Screenshot",
 	"SettingsSSOutput" : "Output Mode",
@@ -616,6 +618,9 @@
 	"PanelNoRepair" : "No repairs needed",
 	"PanelCantRepair" : "Cannot repair",
 	"PanelTaihaHpLeft" : "Taiha HP = {0}, {1} left",
+	"PanelTaihaHp" : "Taiha HP = {0}",
+	"PanelChuuhaHpLeft" : "Chuuha HP = {0}, {1} left",
+	"PanelChuuhaHp" : "Chuuha HP = {0}",
 	"PanelHighestDocking" : "Highest Repair Docks Time",
 	"PanelHighestAkashi" : "Highest Akashi Repair Time",
 	"PanelRepairMoreDays" : "More than 24 hours",

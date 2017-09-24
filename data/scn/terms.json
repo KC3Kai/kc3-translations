@@ -292,6 +292,8 @@
 	"SettingsPowerCapPrecap"  : "取阈值前的补正",
 	"SettingsPowerCapCapped"  : "阈值前的补正并取阈值",
 	"SettingsPowerCapPostcap" : "取阈值前后所有补正",
+	"SettingsPowerCritical"   : "同时计算爆击时的攻击力",
+	"SettingsPowerCriticalTip" : "如果不启用上面取阈值后的补正，则爆击补正也不会生效。",
 
 	"SettingsErrors" : "错误提示",
 	"SettingsShowCatBombs" : "显示报错（猫）",
@@ -647,6 +649,9 @@
 	"PanelNoRepair" : "无需修理",
 	"PanelCantRepair" : "无法修理",
 	"PanelTaihaHpLeft" : "距大破HP {0} 还剩 {1}",
+	"PanelTaihaHp" : "大破HP {0}",
+	"PanelChuuhaHpLeft" : "距中破HP {0} 还剩 {1}",
+	"PanelChuuhaHp" : "中破HP {0}",
 	"PanelHighestDocking" : "最长的入渠修理时间",
 	"PanelHighestAkashi" : "最长的明石修理时间",
 

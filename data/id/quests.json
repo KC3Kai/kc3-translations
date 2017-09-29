@@ -1,131 +1,205 @@
 {
     "101": {
+	"code": "A1",
         "name": "Formasi Pertama!",
-        "desc": "Miliki 2 Kapal di Armada Utama."
+        "desc": "Miliki 2 Kapal di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Shirayuki",
+        "unlock": [ 102 ]
     },
     "102": {
+	"code": "A2",
         "name": "Bentuk sebuah Pasukan Perusak!",
-        "desc": "Miliki 4 DD di Armada Utama."
+        "desc": "Miliki 4 DD di Armada Utama.",
+	"unlock": [ 103 ]
     },
     "103": {
+	"code": "A3",
         "name": "Bentuk sebuah Pasukan Torpedo!",
-        "desc": "Miliki CL Sebagai Kapal Pemimpin dan 5 DD di Armada Utama."
+        "desc": "Miliki CL Sebagai Kapal Pemimpin dan 5 DD di Armada Utama.",
+	"unlock": [ 104, 105 ]
     },
     "104": {
+	"code": "A4",
         "name": "Bentuk Armada yang terdiri dari 6 Kapal!",
-        "desc": "Miliki 6 Kapal di Armada Utama."
+        "desc": "Miliki 6 Kapal di Armada Utama.",
+	"memo": "\u27a3Membuka Armada kedua dan misi Ekspedisi",
+        "unlock": [ 115, 116 ]
     },
     "105": {
+	"code": "A5",
         "name": "Bentuk Pasukan Torpedo dengan dua CL!",
-        "desc": "Miliki 2 CL di Armada Utama."
+        "desc": "Miliki 2 CL di Armada Utama.",
+	"unlock": [ 106, 108, 254, 401 ]
     },
     "106": {
+	"code": "A7",
         "name": "Bentuk Pasukan Penjelajah berat!",
-        "desc": "Miliki 2 CA di Armada Utama."
+        "desc": "Miliki 2 CA di Armada Utama.",
+	"unlock": [ 215 ]
     },
     "107": {
+	"code": "A12",
         "name": "Bentuk Armada Kapal Induk!",
-        "desc": "Miliki CV/CVL Sebagai Kapal Pemimpin dan 3 DD di Armada Utama."
+        "desc": "Miliki CV/CVL Sebagai Kapal Pemimpin dan 3 DD di Armada Utama.",
+	"unlock": [ 217 ]
     },
     "108": {
+	"code": "A8",
         "name": "Bentuk Kelas Tenryuu!",
-        "desc": "Miliki Tenryuu dan Tatsuta di Armada Utama."
+        "desc": "Miliki Tenryuu dan Tatsuta di Armada Utama.",
+	"unlock": [ 111 ]
     },
     "109": {
+	"code": "A14",
         "name": "Bentuk Kelas Sendai!",
-        "desc": "Miliki Sendai, Jintsuu dan Naka di Armada Utama."
+        "desc": "Miliki Sendai, Jintsuu dan Naka di Armada Utama.",
+	"unlock": [ 110, 704 ]
     },
     "110": {
+	"code": "A15",
         "name": "Bentuk Kelas Myoukou!",
-        "desc": "Miliki Myoukou, Nachi, Ashigara dan Haguro di Armada Utama."
+        "desc": "Miliki Myoukou, Nachi, Ashigara dan Haguro di Armada Utama.",
+	"unlock": [ 118 ]
     },
     "111": {
+	"code": "A17",
         "name": "Bentuk Kelas Fusou!",
-        "desc": "Miliki Fusoudan Yamashiro di Armada Utama."
+        "desc": "Miliki Fusoudan Yamashiro di Armada Utama.",
+	"unlock": [ 112 ]
     },
     "112": {
+	"code": "A18",
         "name": "Bentuk Kelas Ise!",
         "desc": "Miliki Ise dan Hyuuga di Armada Utama."
+	"unlock": [ 153 ]
     },
     "113": {
+	"code": "A13",
         "name": "Bentuk Armada Utama dengan BB dan CA!",
-        "desc": "Miliki sebuah BB dan 2 CA di Armada Utama."
+        "desc": "Miliki sebuah BB dan 2 CA di Armada Utama.",
+	"unlock": [ 114, 119 ]
     },
     "114": {
+	"code": "A19",
         "name": "Bentuk Armada Nagumo!",
-        "desc": "Bentuk Armada Utama HANYA dengan Akagi, Kaga, Hiryuu dan Souryuu"
+        "desc": "Bentuk Armada Utama HANYA dengan Akagi, Kaga, Hiryuu dan Souryuu",
+	"unlock": [ 625 ]
     },
     "115": {
+	"code": "A6",
         "name": "Bentuk Armada kedua!",
-        "desc": "Miliki Kapal Pemimpin di Armada kedua."
+        "desc": "Miliki Kapal Pemimpin di Armada kedua.",
+	"unlock": [ 215 ]
     },
     "116": {
+	"code": "A9",
         "name": "Siapkan sebuah Kapal Induk Aviasi",
-        "desc": "Miliki AV di Armada Utama."
+        "desc": "Miliki AV di Armada Utama.",
+	"unlock": [ 120, 146, 174 ]
     },
     "117": {
+	"code": "A11",
         "name": "Bentuk sebuah Kapal Induk di Armada kedua!",
-        "desc": "Miliki CV/CVL dan 3 DD di Armada kedua."
+        "desc": "Miliki CV/CVL dan 3 DD di Armada kedua.",
+	"unlock": [ 217 ]
     },
     "118": {
+	"code": "A16",
         "name": "Bentuk Kelas Kongou!",
-        "desc": "Miliki Kongou, Hiei, Harunadan Kirishima di Armada Utama."
+        "desc": "Miliki Kongou, Hiei, Harunadan Kirishima di Armada Utama.",
+	"unlock": [ 611 ]
     },
     "119": {
+	"code": "A20",
         "name": "Bentuk Armada Mikawa!",
-        "desc": "Miliki Choukai, Aoba, Kako, Furutaka, Tenryuu dan kapal cepat di Armada."
+        "desc": "Miliki Choukai, Aoba, Kako, Furutaka, Tenryuu dan kapal cepat di Armada.",
+	"unlock": [ 121, 219 ]
     },
     "120": {
+	"code": "A10",
         "name": "Bentuk Kapal Perusak Divisi 6!",
-        "desc": "Bentuk Armada HANYA dengan Akatsuki, Hibiki, Inazuma dan Ikazuchi."
+        "desc": "Bentuk Armada HANYA dengan Akatsuki, Hibiki, Inazuma dan Ikazuchi.",
+	"unlock": [ 128, 222, 274 ]
     },
     "121": {
+	"code": "A21",
         "name": "Bentuk Kapal Penjelajah Berat Divisi 4!",
-        "desc": "Miliki Atago, Takao, Choukai dan Maya di Armada Utama."
+        "desc": "Miliki Atago, Takao, Choukai dan Maya di Armada Utama.",
+	"unlock": [ 122, 124, 125, 127, 129, 223 ]
     },
     "122": {
+	"code": "A22",
         "name": "Bentuk Armada Nishimura!",
-        "desc": "Miliki Fusou, Yamashiro, Mogami dan Shigure di Armada Utama."
+        "desc": "Miliki Fusou, Yamashiro, Mogami dan Shigure di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Mamiya",
+	"unlock": [ 123, 126, 224 ]
     },
     "123": {
+	"code": "A23",
         "name": "Bentuk Kapal Induk Divisi 5!",
-        "desc": "Miliki Shoukaku, Zuikaku dan 2 DD di Armada Utama."
+        "desc": "Miliki Shoukaku, Zuikaku dan 2 DD di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Repair Team",
+        "unlock": [ 143, 148, 161, 225 ]
     },
     "124": {
+	"code": "A24",
         "name": "Bentuk Armada Mikawa yang baru!",
-        "desc": "Miliki Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu di Armada Utama."
+        "desc": "Miliki Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Mamiya",
+        "unlock": [ 227 ]
     },
     "125": {
+	"code": "A25",
         "name": "Bentuk Armada Kapal Selam!",
-        "desc": "Miliki 2 SS di Armada Utama."
+        "desc": "Miliki 2 SS di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Repair Team",
+        "unlock": [ 131, 231 ]
     },
     "126": {
+	"code": "A26",
         "name": "Bentuk Armada Kapal Tempur Aviasi!",
-        "desc": "Miliki 2 BBV dan 2 CAV di Armada Utama."
+        "desc": "Miliki 2 BBV dan 2 CAV di Armada Utama.",
+        "unlock": [ 232 ]
     },
     "127": {
+	"code": "A27",
         "name": "Bentuk Armada Kapal Selam!",
-        "desc": "Miliki 3 SS di Armada Utama."
+        "desc": "Miliki 3 SS di Armada Utama.",
+        "memo": "\u27a3Hadiahnya Mamiya",
+        "unlock": [ 139, 405 ]
     },
     "128": {
+	"code": "A28",
         "name": "Bentuk Kapal Penjelajah Divisi 6!",
-        "desc": "Miliki Furutaka, Kako, Aoba dan Kinugasa di Armada Utama."
+        "desc": "Miliki Furutaka, Kako, Aoba dan Kinugasa di Armada Utama.",
+        "memo": "\u27a3Hadiahnya Mamiya",
+        "unlock": [ 138, 233 ]
     },
     "129": {
+	"code": "A29",
         "name": "Bentuk Armada ke 5!",
-        "desc": "Miliki Nachi, Ashigara, Tama, dan Kiso di Armada Utama."
+        "desc": "Miliki Nachi, Ashigara, Tama, dan Kiso di Armada Utama.",
+        "unlock": [ 130 ]
     },
     "130": {
+	"code": "A30",
         "name": "Bentuk Pasukan Torpedo ke 1!",
-        "desc": "Miliki Abukuma, Akebono, Ushio, Kasumi dan Shiranui di Armada Utama."
+        "desc": "Miliki Abukuma, Akebono, Ushio, Kasumi dan Shiranui di Armada Utama.",
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 410 ]
     },
     "131": {
+	"code": "A31",
         "name": "Bentuk Kapal Perusak Divisi 8!",
-        "desc": "Miliki Asashio, Michishio, Ooshio dan Arashio di Armada."
+        "desc": "Miliki Asashio, Michishio, Ooshio dan Arashio di Armada.",
+        "unlock": [ 133, 239 ]
     },
     "132": {
+	"code": "A32",
         "name": "Bentuk Kapal Perusak Divisi 18!",
-        "desc": "Bentuk Armada Utama HANYA dengan Kasumi, Arare, Kagerou dan Shiranui di Armada."
+        "desc": "Bentuk Armada Utama HANYA dengan Kasumi, Arare, Kagerou dan Shiranui di Armada.",
+        "memo": "\u27a3Hadiahnya Repair Team",
+        "unlock": [ 144, 149, 240 ]
     },
     "133": {
         "name": "Bentuk Kapal Perusak Divisi 30 (Gen.1)!",
@@ -1261,22 +1335,27 @@
     "415": {
         "code": "D14",
         "name": "Operasi Kapal Selam Lautan Biru Diperpanjang",
-        "desc": "Selesaikan Ekspedisi 39 Dua kali lagi"
+        "desc": "Selesaikan Ekspedisi 39 Dua kali lagi",
+	"memo": "\u27a3Hadiahnya 53cm Submarine Bow Torpedo Mount (8 tubes)"
     },
     "416": {
         "code": "D15",
-        "name": "Latihan pertahanan udara",
-        "desc": "Selesaikan Ekspedisi 6 Tiga kali"
+        "name": "Latihan pertahanan udara!",
+        "desc": "Selesaikan Ekspedisi 6 Tiga kali",
+	"memo": "\u27a3Hadiahnya 25mm Triple Autocannon Mount",
+	"unlock": [ 272 ]
     },
     "417": {
         "code": "D16",
         "name": "Sorti Kapal Induk Pengumpan",
-        "desc": "Selesaikan Ekspedisi 15"
+        "desc": "Selesaikan Ekspedisi 15",
+	"memo": "\u27a3Hadiahnya Type 91 Anti-Aircraft Fire Director"
     },
     "418": {
         "code": "D17",
         "name": "Persiapan Upacara Angkatan Laut",
-        "desc": "Selesaikan Ekspedisi 7 dua kali"
+        "desc": "Selesaikan Ekspedisi 7 dua kali",
+	"unlock": [ 308 ]
     },
     "419": {
         "code": "D18",
@@ -1722,6 +1801,7 @@
         "desc": "Miliki 2 Combat Ration, 800 Bensin and 150 Bauksit.",
         "memo": "\u2718Senjata dan Bahan akan Hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Combat Ration (Special Onigiri)"
     },
+	
     "701": {
         "code": "G1",
         "name": "Modernisasi Pertama",

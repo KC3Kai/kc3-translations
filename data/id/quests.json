@@ -589,52 +589,78 @@
         "desc": "Sorti HANYA dengan Akatsuki, Hibiki, Inazuma, dan Ikazuchi."
     },
     "223": {
+	"code": "B13",
         "name": "Sorti Kapal Penjelajah Divisi ke-4!",
         "desc": "Sorti Atago, Takao, Choukai, Maya dan 2 kapal tambahan ke [W2-2] dan dapatkan kemenangan pada Boss Node."
     },
     "224": {
+	"code": "B14",
         "name": "Sorti Armada Nishimura!",
-        "desc": "Sorti Fusou, Yamashiro, Mogami, Shigure dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti Fusou, Yamashiro, Mogami, Shigure dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+	"unlock": [ 147, 148, 155 ]
     },
     "225": {
+        "code": "B15",
         "name": "Sorti Kapal Induk Divisi ke-5!",
         "desc": "Sorti Shoukaku, Zuikaku dan 4 kapal tambahan ke [W3-1] dan dapatkan kemenangan pada Boss Node."
     },
     "227": {
+        "code": "B16",
         "name": "Sorti Armada Mikawa yang baru!",
-        "desc": "Sorti Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu ke [W2-3] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Repair Team",
+        "unlock": [ 152, 154 ]
     },
     "231": {
+        "code": "B17",
         "name": "Sorti Armada Kapal Selam!",
-        "desc": "Sorti 2 SS dan 4 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti 2 SS dan 4 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
     },
     "232": {
+        "code": "B18",
         "name": "Sorti Armada Penyerang Penerbangan Laut!",
-        "desc": "Sorti 2 BBV, 2 CAV dan 2 kapal lainny ke [W4-2] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti 2 BBV, 2 CAV dan 2 kapal lainny ke [W4-2] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "233": {
+        "code": "B19",
         "name": "Sorti Kapal Penjelajah Divisi ke-6!",
-        "desc": "Sorti Furutaka, Kako, Kinugasa, Aoba dan 2 kapal tambahan ke [W2-3] dan dapatkan S-Rank pada Boss Node."
+        "desc": "Sorti Furutaka, Kako, Kinugasa, Aoba dan 2 kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Repair Team",
+        "unlock": [ 263 ]
     },
     "239": {
+        "code": "B20",
         "name": "Sorti Kapal Perusak  Divisi ke-8!",
-        "desc": "Sorti Asashio, Michishio, Ooshio, Arashio dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti Asashio, Michishio, Ooshio, Arashio dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "unlock": [ 132, 264, 412, 812 ]
     },
     "240": {
+        "code": "B21",
         "name": "Sorti Kapal Perusak  Divisi ke-18!",
-        "desc": "Sorti Kasumi, Arare, Kagerou, Shiranui dan 2 kapal tambahan ke [W3-1] dan dapatkan kemenangan pada Boss Node."
+        "desc": "Sorti Kasumi, Arare, Kagerou, Shiranui dan 2 kapal tambahan ke [W3-1] dan dapatkan kemenangan pada Boss Node.",
+        "unlock": [ 265 ]
     },
     "244": {
+        "code": "B22",
         "name": "Sorti Kapal Perusak  Divisi ke-30 (Gen.1)",
-        "desc": "Sorti Mutsuki , Kisaragi, Yayoi, Mochizuki dan 2 Kapal DD (atau 1DD dan 1 CL sebagai kapal pemimpin)ke [W3-2] dan dapatkan minimal C-Rank pada Boss Node."
+        "desc": "Sorti Mutsuki , Kisaragi, Yayoi, Mochizuki dan 2 Kapal DD (atau 1 DD dan 1 CL sebagai kapal pemimpin) ke [W3-2] dan dapatkan minimal Rank C pada Boss Node.",
+        "memo": "\u27a3Rewards a Mamiya"
     },
     "245": {
-        "name": "Persiapan Cinta! (Akhir)",
-        "desc": "Sorti Waifu \u2665 (Lv.90~99) sebagai kapal pemimpin ke [W2-3] dan dapatkan S-Rank pada Boss Node."
+        "code": "WB01",
+        "name": "Persiapan Cinta! (Terakhir)",
+        "desc": "Sorti Waifu-mu \u2665 (Lv.90~99) sebagai kapal pemimpin ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Marriage Ring and Documents",
+        "unlock": [ 135 ]
     },
     "246": {
+        "code": "WB02",
         "name": "Misi Pertama Bersama Waifu \u2665 (#Waifu4Laifu)!",
-        "desc": "Sorti ke [W4-3] dengan Waifu \u2665 (#Waifu4Laifu) Lv.100+ sebagai kapal pemimpin dan dapatkan S-Rank pada Boss Node."
+        "desc": "Sorti ke [W4-3] dengan Waifu \u2665 (#Waifu4Laifu) Lv.100+ sebagai kapal pemimpin dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Couple Futon furniture",
+        "unlock": [ 142 ]
     },
     "247": {
         "name": "Sorti Armada Kapal Tempur Aviasi!",
@@ -1126,21 +1152,21 @@
         "memo": "\u27a3Hadiahnya Skilled Pilot dan Perabotan"
     },
     "866": {
-        "code": "SB24",
+        "code": "SB23",
         "name": "Memancing Saori: Aku akan menjaga panen Sauri! Mata Pancing, Yes!",
         "desc": "Punya 4 Saori di inventorimu.",
         "memo": "\u27a3Hadiahnya:\n\u00B6Pilihan pertama: Furniture Fairy ATAU 4 Development Material\n\u00B6Pilihan kedua: Type 3 Active Sonar ATAU Searchlight ATAU 4 Combat Rations",
         "unlock": [ 867 ]
     },
     "867": {
-        "code": "SB25",
+        "code": "SB24",
         "name": "Memancing Saori: Aku siap untuk mendukung pemancingan sampai titik darah penghabisan! Mancing Mania, Mantap!",
         "desc": "Punya 12 Saori di inventorimu.",
         "memo": "\u27a3Hadiahnya:\n\u00B6Pilihan pertama: Daihatsu Landing Craft ATAU WG42 (Wurfgerät 42) ATAU New Model Aviation Armament Materials\n\u00B6Pilihan kedua: 2 Swordfish ATAU 2 Shiden Kai Ni ATAU Skilled Crew Member",
         "unlock": [ 868 ]
     },
     "868": {
-        "code": "SB26",
+        "code": "SB25",
         "name": "Memancing Saori: DUAAAARR! Aku benar-benar bersemangat untuk mendapat tangkapan yang besar!",
         "desc": "Punya 30 Saori di inventorimu.",
         "memo": "\u27a3Hadiahnya Type 17 Fleet Fishery Banner DAN salah satu antara Type124 ASDIC ATAU TBF ATAU Type 16 Fleet Fishery Banner "

@@ -473,6 +473,7 @@
 	"Saved" : "Saved!",
 	"TimerComplete" : "Complete!",
 	"Debuffed" : "Boss debuffed!",
+	"Placeholder" : "----",
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
 	"UnwantedExitDMM" : "You're leaving the page as well as your girls! However, if you're only refreshing, it'll be a healthy refresh and won't give you catbombs. API Links are irrelevant!",
@@ -480,8 +481,8 @@
 	"APIConcealExpl" : "Hover to show your API Link",
 	
 	"GameUpdateDetected" : "An update to the game has been detected!",
-	"GameUpdateBoth" : "<strong>{0} new ship(s)</strong> and <strong>{1} new piece(s) of equipment</strong> detected!",
-	"GameUpdateShips" : "<strong>{0} new ship(s)</strong> detected!",
+	"GameUpdateBoth" : "<strong>{0} new ship(s)/CG</strong> and <strong>{1} new piece(s) of equipment</strong> detected!",
+	"GameUpdateShips" : "<strong>{0} new ship(s)/CG</strong> detected!",
 	"GameUpdateEquips" : "<strong>{0} new piece(s) of equipment</strong> detected!",
 	"GameUpdateLink" : "Click here to learn more about this in the Strategy Room!",
 	
@@ -681,6 +682,7 @@
 	"CombinedSurface" : "Surface TF",
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Not Combined",
+	"CombinedLbas" : "LBAS",
 	
 	"LandBaseActionWaiting" : "Standby",
 	"LandBaseActionSortie" : "Sortie",

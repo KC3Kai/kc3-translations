@@ -429,10 +429,11 @@
 	"Panel" : "パネル",
 	"Volume" : "ボリューム",
 	"None" : "なし",
-	"Unknown" : "未知",
+	"Unknown" : "不明",
 	"LearnMore" : "もっと詳しく",
 	"Saved" : "保存した",
 	"TimerComplete" : "完了!",
+	"Placeholder" : "ーーーー",
 
 	"UnwantedExit"    : "もう行っちゃうの(´・ω・｀)？寂しくなるよ！",
 	"UnwantedExitDMM" : "もう行っちゃうの(´・ω・｀)？ページを更新したいならやれば大丈夫ですが、APIリンクが別物になるかもしれないぞ！",
@@ -644,6 +645,7 @@
 	"CombinedSurface"   : "水上打撃",
 	"CombinedTransport" : "輸送護衛",
 	"CombinedNone"      : "通常艦隊",
+	"CombinedLbas"      : "基地航空隊",
 
 	"LandBaseActionWaiting" : "待機",
 	"LandBaseActionSortie"  : "出撃",

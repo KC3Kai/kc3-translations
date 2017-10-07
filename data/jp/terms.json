@@ -441,10 +441,10 @@
 	"APIConcealExpl"  : "あなたのAPIリンクを表示するにはポインターをここに",
 
 	"GameUpdateDetected" : "新たなゲーム更新が検知されました！",
-	"GameUpdateBoth"     : "<strong>{0}隻の新艦</strong> と <strong>{1}個の新装備</strong>を実装されました！",
-	"GameUpdateShips"    : "<strong>{0}隻の新艦</strong>を実装されました！",
-	"GameUpdateEquips"   : "<strong>{0}個の新装備</strong>を実装されました！",
-	"GameUpdateLink"     : "詳しくはここをクリックして「戦闘指揮所」で！",
+	"GameUpdateBoth"     : "<strong>{0}隻の新艦</strong>(または格納グラ)と<strong>{1}個の新装備</strong>が実装されました！",
+	"GameUpdateShips"    : "<strong>{0}隻の新艦</strong>(または格納グラ)が実装されました！",
+	"GameUpdateEquips"   : "<strong>{0}個の新装備</strong>が実装されました！",
+	"GameUpdateLink"     : "詳しくはここをクリックして「戦闘指揮所」で確認できます。",
 
 	"BossDebuffedTitle"   : "ギミック状態変化を検知されました！",
 	"BossDebuffedMessage" : "イベント海域ボスのギミック状態が変わったのを検知されました！<br/>{0}",

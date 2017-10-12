@@ -84,7 +84,7 @@
         "code": "A19",
         "name": "Form the Nagumo Task Force!",
         "desc": "Have ONLY Akagi, Kaga, Hiryuu and Souryuu in your main fleet.",
-        "unlock": [ 625 ]
+        "unlock": [ 185, 625 ]
     },
     "115": {
         "code": "A6",
@@ -580,7 +580,8 @@
         "code": "B10",
         "name": "Sink an Enemy Carrier!",
         "desc": "Sink an Abyssal CV(L).",
-        "memo": "\u27a3Rewards the CV Akagi"
+        "memo": "\u27a3Rewards the CV Akagi",
+        "unlock": [ 861 ]
     },
     "219": {
         "code": "B11",
@@ -1125,7 +1126,7 @@
         "name": "Submarine Fleet, Execute Patrols in the Central Waters!",
         "desc": "Sortie an SS(V) as flagship, 3 other SS(V), and two additional ships to [W6-1]. B-Rank+ the boss node.",
         "memo": "\u27a3Rewards 3 Screws and an Irako",
-        "unlock": [ 656, 658, 848, 850, 854 ]
+        "unlock": [ 656, 658, 848, 850, 854, 862 ]
     },
     "847": {
         "code": "SB22",
@@ -1220,13 +1221,33 @@
         "name": "Powerful Large-Scale Aircraft Carrier, Setting Sail!",
         "desc": "Sortie Saratoga Mk.II or Mod.2 as Fleet 1 flagship, 1 CL, 2 DD and up to 2 additional ships to [W5-5] and [W6-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a F6F-3 OR a Skilled Crew Member OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a TBF OR a Night Operations Aviation Personnel",
-        "unlock": [ 865 ]
+        "unlock": [ 670, 865 ]
     },
     "865": {
         "code": "B106",
         "name": "Night Operations Carrier, Sortie to the Frontlines!",
         "desc": "Sortie Saratoga Mk.II (NOT Mod.2) as Fleet 1 flagship to [W6-5]. S-Rank the boss node. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel\n\u00B6Second choice: Either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
+    },
+    "866": {
+        "code": "SB23",
+        "name": "Saury Fishing: I'm Going to Secure the Saury Harvest!",
+        "desc": "Have 4 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR 4 Screws\n\u00B6Second choice: Either a Type 3 Active Sonar OR a Searchlight OR 4 Combat Rations",
+        "unlock": [ 867 ]
+    },
+    "867": {
+        "code": "SB24",
+        "name": "Saury Fishing: I'm Ready to Go All-Out Supporting the Fishing!",
+        "desc": "Have 12 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR a WG42 (Wurfgerät 42) OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either 2 Swordfish OR 2 Shiden Kai Ni OR a Skilled Crew Member",
+        "unlock": [ 868 ]
+    },
+    "868": {
+        "code": "SB25",
+        "name": "Saury Fishing: Boooom! I'll Fire Up the Big Catch!",
+        "desc": "Have 30 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a Type124 ASDIC OR a TBF OR an Agano-class fishing banner"
     },
     
     
@@ -1644,26 +1665,26 @@
         "code": "D14",
         "name": "Extend the Benefits of the Deep Sea Submarine Operation!",
         "desc": "Complete Expedition 39 two more times.",
-        "memo": "\u27a3Rewards a 53cm Submarine Bow Torpedo Mount (8 tubes)",
-        "unlock": [ 272 ]
+        "memo": "\u27a3Rewards a 53cm Submarine Bow Torpedo Mount (8 tubes)"
     },
     "416": {
         "code": "D15",
         "name": "Carry Out Anti-Air Accuracy Exercises!",
         "desc": "Complete Expedition 6 three times.",
-        "memo": "\u27a3Rewards a 25mm Triple Autocannon Mount"
+        "memo": "\u27a3Rewards a 25mm Triple Autocannon Mount",
+        "unlock": [ 272 ]
     },
     "417": {
         "code": "D16",
         "name": "Carry Out the Decoy Task Force Support Operation!",
         "desc": "Complete Expedition 15.",
-        "memo": "\u27a3Rewards a Type 91 Anti-Aircraft Fire Director",
-        "unlock": [ 308 ]
+        "memo": "\u27a3Rewards a Type 91 Anti-Aircraft Fire Director"
     },
     "418": {
         "code": "D17",
         "name": "Carry Out Naval Review Rehearsals!",
-        "desc": "Complete Expedition 7 twice."
+        "desc": "Complete Expedition 7 twice.",
+        "unlock": [ 308, 316 ]
     },
     "419": {
         "code": "D18",
@@ -1774,7 +1795,7 @@
         "name": "Daily Construction 2",
         "desc": "Construct 3 ships.",
         "memo": "\u203bEnhance the Fleet by Constructing Ship Girls!",
-        "unlock": [ 609, 617, 619 ],
+        "unlock": [ 609, 617, 619, 669 ],
         "tracking": [ [0,3] ]
     },
      "609": {
@@ -1973,6 +1994,7 @@
         "name": "Weekly AA Gun Dismantlement",
         "desc": "Scrap 6 anti-air guns. High-angle guns do not count.",
         "memo": "\u203bAnti-Air Machine Gun Mass Production\n\u27a3Rewards a Screw",
+        "unlock": [ 671 ],
         "tracking": [ [0,6] ]
     },
     "637": {
@@ -2161,20 +2183,20 @@
         "code": "F61",
         "name": "Development of a Night Warfare-class Ship-Based Fighter Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description.",
-        "memo": "Have a New Model Aviation Armament Materials, 6 Screws, 5000 Bauxite and 30 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-3 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-3N",
+        "memo": "Have a New Model Aviation Armament Materials, 6 Screws, 5000 Bauxite and 30 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-3 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-3N",
         "unlock": [ 670, 671 ]
     },
     "670": {
         "code": "F63",
         "name": "Performance Enhancement of a Night Warfare-class Fighter Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description.",
-        "memo": "Have a New Model Aviation Armament Materials, 8 Screws, 6000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-5 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bPerformance Enhancement of a Night Warfare-class Ship-Based Fighter Aircraft\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-5N"
+        "memo": "Have a New Model Aviation Armament Materials, 8 Screws, 6000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-5 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u203bPerformance Enhancement of a Night Warfare-class Ship-Based Fighter Aircraft\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-5N"
     },
     "671": {
         "code": "F62",
         "name": "Development of a Night Operations-class Ship-Based Bomber Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description.",
-        "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
+        "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
     },
 
     "701": {

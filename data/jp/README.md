@@ -10,4 +10,4 @@ KC3改は一部の言語に限って使用できる翻訳がない場合自動�
 #### quotes.jsonについて
 一部の修正を除き、主にwikiwiki艦娘ページのセリフをそのままこっちにコピーしたものだから。自分で聞きながら書きたくないなら、あっちの更新を待つしかないね。
 
-wikiwikiからコピーの効率を少しあげるためのTampermonkey User Script: https://gist.github.com/sinsinpub/ed0643b62ef386037de532de4ecd98d3
+wikiwikiからコピーの効率が少しあがるためのTampermonkey User Script: https://gist.github.com/sinsinpub/ed0643b62ef386037de532de4ecd98d3

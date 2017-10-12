@@ -90,7 +90,7 @@
 
 	"GameAPINoExist" : "KC3を使用するにはAPIリンクが必要です",
 	"GameAPIGetTitle" : "じゃあどうすればいいの？",
-	"GameAPIGetDesc" : "ブラウザのアドレスバー横にある<img src=\"../../assets/img/logo/16.png\" />のアイコンをクリックし、<img src=\"../../assets/img/ui/refresh.png\" /><strong>APIリンクを更新</strong>のボタンを押してください。",
+	"GameAPIGetDesc" : "ブラウザのアドレスバー横にある　<img src=\"../../assets/img/logo/16.png\" /> のアイコンをクリックし、<img src=\"../../assets/img/ui/refresh.png\" /> <strong>APIリンクを更新</strong>のボタンを押してください。",
 	"GameAPIExistTitle" : "APIリンクならもう持ってるよ",
 	"GameAPIExistDesc" : "お持ちのAPIリンクをこちらに貼り付けてください",
 	"GameAPIExistBtn" : "APIリンクを保存",
@@ -99,7 +99,7 @@
 	"GameAPIRemindTitle" : "これから鎮守府に配属されるんだけど…",
 	"GameAPIRemindDesc" : "APIリンクを使うには「鎮守府及び提督名を決めた」ことが前提となっているので、これから着任抽選に挑む提督殿は母港で最初の艦娘とお会いになってからKC3を使ってください。",
 	"GameAPIAltTitle" : "良くわからないけど、APIリンクってヤツを使わなきゃダメなの？",
-	"GameAPIAltDesc" : "そんなことはありません。KC3改メニュー<img src=\"../../assets/img/logo/16.png\" />にある<img src=\"../../assets/img/ui/menu/dmm.png\" /><strong>DMMで艦これを起動</strong>を使えばブラウザで普段通り公式サイトで艦これを楽しむことができます。KC3改はAPIリンクを使わなくてもちゃんと動作しますのでご安心ください。",
+	"GameAPIAltDesc" : "そんなことはありません。KC3改メニュー<img src=\"../../assets/img/logo/16.png\" />にある<img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>DMMで艦これを起動</strong>を使えばブラウザで普段通り公式サイトで艦これを楽しむことができます。KC3改はAPIリンクを使わなくてもちゃんと動作しますのでご安心ください。",
 	"GameAPIExpiredAlert" : "あなたのAPIセッションは期限切れです",
 	"GameAPIExpiredExplanation" : "あなたが今使っているAPIリンクは20分前のもの、または他の場所で使われていたようです。この期限切れのAPIリンクをまた使わないように<br>このボタンから新しいAPIリンクを確保してください。",
 
@@ -108,13 +108,9 @@
 	"GameStartDashWin" : "Windows / Linuxの場合",
 	"GameStartDashOr" : "または",
 	"GameStartDashMac" : "Macの場合",
-<<<<<<< HEAD
-	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある\"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見えない場合、「\u00bb」メニューからさがしてください。",
-=======
 	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある \"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見えない場合、「\u00bb」メニューからさがしてください。",
->>>>>>> refs/remotes/KC3Kai/master
 	"GameStartNowTitle" : "KC3改は後で、今すぐ艦これやりたい！",
-	"GameStartNowDesc" : "下のボタンを押せばゲームページが開きます(まず設定でボタンを有効にしてください)。KC3改は上記の方法でいつでも呼び出せるので。",
+	"GameStartNowDesc" : "下のボタンを押せばゲームページが開きます(まず設定でこのボタンを有効に)。KC3改は上記の方法でいつでも呼び出せるので。",
 	"GameStartNowBtn" : "艦これを起動する",
 
 	"AboutTitle" : "KC3改の開発者たち",
@@ -130,7 +126,7 @@
 	"AboutOtherCredits" : "ほかのクレジット",
 	"AboutDonators" : "寄付者",
 	"AboutHallOfFame" : "殿堂入り",
-	"AboutLicense" : "ライセンス",
+	"AboutLicense" : "License",
 
 	"AboutDevelopers" : "開発者たち",
 	"AboutModerators" : "管理人たち",
@@ -222,9 +218,9 @@
 	"SettingsHQDelta"           : "出撃提督経験値差分",
 	"SettingsBlinkGauge"        : "ラスダン時にゲージ点滅",
 	"SettingsBossComp"          : "ボス編成(まだ使えない)",
-	"SettingsAutoExpedTab"      : "遠征選択時自動タブ切り替え",
-	"SettingsAutoSwitchFleetView" : "状況に応じて艦隊自動切替",
-	"SettingsPvPInfoActivity"   : "演習相手情報に切り替え",
+	"SettingsAutoExpedTab"        : "遠征選択時自動タブ切り替え",
+	"SettingsAutoSwitchFleetView" : "状況応じて自動艦隊切り替え",
+	"SettingsPvPInfoActivity"     : "演習相手情報に切り替え",
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
@@ -290,7 +286,7 @@
 	"SettingsCustom"         : "カスタム",
 	"SettingsCustomSound"    : "カスタム音",
 	"SettingsDesktopNotif"   : "タイマーデスクトップ通知",
-	"SettingsIdleWarning"    : "放置時間カウンタ(旧モード用)",
+	"SettingsIdleWarning"    : "放置時間カウンター(旧モード)",
 	"SettingsHideCounter"    : "非表示",
 	"SettingsShowCounter"    : "表示",
 	"SettingsIdleWarnStartAt": "放置画面開始までの時間",
@@ -387,11 +383,7 @@
 
 	"SettingsLogging": "コンソールログ記録",
 	"SettingsConsoleLogHooks": "ログ記録を無効にする",
-<<<<<<< HEAD
-	"SettingsConsoleLogHooksTip": "上の「開発者専用指揮所」を有効にすると、KC3改のconsoleログをDevToolsを開かずに一覧できます。その機能を一時的に停止し、Chromeログ関数のフックを無効にしたい時は、これが使えます。",
-=======
 	"SettingsConsoleLogHooksTip": "上の「開発者専用指揮所」を有効にすると、KC3改のconsoleログをDevTools開かずに一覧できますが、その機能を一時的に停止し、Chromeログ関数のフックを無効にしたい時は、これが使えます。",
->>>>>>> refs/remotes/KC3Kai/master
 	"SettingsLogKeepDuration": "一般ログの保留時間",
 	"SettingsLogKeepDurationTip": "データベースには容量の上限があるかもしれないので、何時間前の一般ログ（Info・Log・Debug）を自動的に廃棄処分します。",
 	"SettingsErrorKeepDuration": "エラーログの保留時間",
@@ -509,7 +501,7 @@
 	"HQExpAbbrev2" : "既得",
 	"HQExpAbbrev3" : "総経験",
 	"HQRankPoints" : "戦果",
-	"HQRankPointsTip" : "{0} からの期間内に稼いだ提督経験値から算出されています。\n引き継ぎやボーナス戦果は加算されていません。",
+	"HQRankPointsTip" : "{0} からの期間内に稼いだ提督経験値から算出されて、\n引き継ぎやボーナス戦果が加算されません。",
 
 	"BattleMapWorldPvP"  : "演習",
 	"BattleMapCleared"   : "クリア",
@@ -545,7 +537,7 @@
 	"BattleKindAirBattleOnly" : "航空戦マス",
 	"BattleKindAirDefendOnly" : "空襲戦マス",
 	"BattleKindEnemyCombined" : "敵連合艦隊",
-	"Debuffed"           : "ボスギミックを解除！",
+	"Debuffed"           : "ボスギミック解除した！",
 
 	"ShipHp"      : "耐久",
 	"ShipFire"    : "火力",
@@ -561,10 +553,6 @@
 	"ShipLength"  : "射程",
 	"ShipMorale"  : "士気",
 	"ShipYasenFp" : "夜戦",
-<<<<<<< HEAD
-  
-	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備:{1},\u2605{2},フィット:{3})",
-=======
 
 	"ShipWarfareShelling" : "砲戦",
 	"ShipWarfareTorpedo"  : "雷撃",
@@ -586,7 +574,6 @@
 	"ShipDayAttack"       : "昼{0}攻撃力: {1} ({2})",
 	"ShipNightAttack"     : "夜{0}攻撃力: {1} ({2})",
 	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備:{1},\u2605{2},Fit砲:{3})",
->>>>>>> refs/remotes/KC3Kai/master
 	"ShipAAAdjusted"      : "加重対空値: {0}",
 	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",
 	"ShipAAFixedShotdown" : "固定撃墜: {0}",
@@ -700,13 +687,8 @@
 	"ExpedGSRate": "大成功率" ,
 	"ExpedGSRateExplainCondUnmet": "この遠征の必須条件を満たしていません",
 	"ExpedGSRateExplainMissingSparkle": "キラキラじゃない艦娘がいます",
-<<<<<<< HEAD
-	"ExpedGSRateExplainNoOverdrum": "規定以上のドラム缶数が大成功率も\n　ドラム缶：{0} / {1}",
-	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率を上げる可能性\n　キラ艦：{0}",
-=======
 	"ExpedGSRateExplainNoOverdrum": "規定以上のドラム缶数が大成功率上げます\n　ドラム缶：{0} / {1}",
 	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率上げます\n　キラ艦：{0}",
->>>>>>> refs/remotes/KC3Kai/master
 
 	"CraftEquipNoteFirst" : "この装備は初入手です！",
 	"CraftEquipNoteExists" : "この装備は{0}個持ってます！",

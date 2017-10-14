@@ -260,7 +260,7 @@
 	"SettingsPowerCapCapped"  : "キャップ前とキャップ",
 	"SettingsPowerCapPostcap" : "キャップ前後すべての補正",
 	"SettingsPowerCritical"   : "クリティカル攻撃力も表示",
-	"SettingsPowerCriticalTip" : "キャップ後補正は適用されないと、クリティカル補正も適用されません。",
+	"SettingsPowerCriticalTip" : "上の「キャップ後補正」設定が有効になっていない場合は表示されません",
 
 	"SettingsScreenshot"  : "スクリーンショット",
 	"SettingsSSOutput"    : "出力モード",
@@ -286,7 +286,7 @@
 	"SettingsCustom"         : "カスタム",
 	"SettingsCustomSound"    : "カスタム音",
 	"SettingsDesktopNotif"   : "タイマーデスクトップ通知",
-	"SettingsIdleWarning"    : "放置時間カウンター(旧モード)",
+	"SettingsIdleWarning"    : "放置時間カウンタ(旧モード用)",
 	"SettingsHideCounter"    : "非表示",
 	"SettingsShowCounter"    : "表示",
 	"SettingsIdleWarnStartAt": "放置画面開始までの時間",
@@ -433,7 +433,7 @@
 	"LearnMore" : "もっと詳しく",
 	"Saved" : "保存した",
 	"TimerComplete" : "完了!",
-	"Placeholder" : "ーーーー",
+	"Placeholder" : "－－－－",
 
 	"UnwantedExit"    : "もう行っちゃうの(´・ω・｀)？寂しくなるよ！",
 	"UnwantedExitDMM" : "もう行っちゃうの(´・ω・｀)？ページを更新したいならやれば大丈夫ですが、APIリンクが別物になるかもしれないぞ！",
@@ -446,7 +446,7 @@
 	"GameUpdateEquips"   : "<strong>{0}個の新装備</strong>が実装されました！",
 	"GameUpdateLink"     : "詳しくはここをクリックして「戦闘指揮所」で確認できます。",
 
-	"BossDebuffedTitle"   : "ギミック状態変化を検知されました！",
+	"BossDebuffedTitle"   : "ギミック状態変化が検知されました！",
 	"BossDebuffedMessage" : "イベント海域ボスのギミック状態が変わったのを検知されました！<br/>{0}",
 	"BossDebuffedYes"     : "ギミック解除でボスが弱体化されたかもしれん！",
 	"BossDebuffedNo"      : "ギミック発動でボスの弱体化がリセットされたかもしれん！",
@@ -501,7 +501,7 @@
 	"HQExpAbbrev2" : "既得",
 	"HQExpAbbrev3" : "総経験",
 	"HQRankPoints" : "戦果",
-	"HQRankPointsTip" : "{0} からの期間内に稼いだ提督経験値から算出されて、\n引き継ぎやボーナス戦果が加算されません。",
+	"HQRankPointsTip" : "{0} からの期間内に稼いだ提督経験値から算出されており、\n引き継ぎやボーナス戦果は加算されていません。",
 
 	"BattleMapWorldPvP"  : "演習",
 	"BattleMapCleared"   : "クリア",
@@ -561,7 +561,7 @@
 
 	"ShipAttackTypeLandingAttack" : "揚陸戦",
 	"ShipAttackTypeRocket"        : "ロケット",
-	"ShipAttackTypeDepthCharge"   : "水爆攻撃",
+	"ShipAttackTypeDepthCharge"   : "爆雷攻撃",
 	"ShipAttackTypeAirAttack"     : "航空攻撃",
 	"ShipAttackTypeTorpedo"       : "雷撃",
 	"ShipAttackTypeSingleAttack"  : "砲撃",
@@ -573,7 +573,8 @@
 
 	"ShipDayAttack"       : "昼{0}攻撃力: {1} ({2})",
 	"ShipNightAttack"     : "夜{0}攻撃力: {1} ({2})",
-	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備:{1},\u2605{2},Fit砲:{3})",
+	"ShipAccShelling"     : "昼砲撃命中項: {0} (装備{1},\u2605{2},Fit砲{3},\u263b{4}) {5} {6}",
+	"ShipEvaShelling"     : "昼砲撃回避項: {0} (装備{1},\u2605{2},燃料{3}) \u263b{4}",
 	"ShipAAAdjusted"      : "加重対空値: {0}",
 	"ShipAAShotdownRate"  : "割合撃墜率: {0}%",
 	"ShipAAFixedShotdown" : "固定撃墜: {0}",
@@ -687,8 +688,8 @@
 	"ExpedGSRate": "大成功率" ,
 	"ExpedGSRateExplainCondUnmet": "この遠征の必須条件を満たしていません",
 	"ExpedGSRateExplainMissingSparkle": "キラキラじゃない艦娘がいます",
-	"ExpedGSRateExplainNoOverdrum": "規定以上のドラム缶数が大成功率上げます\n　ドラム缶：{0} / {1}",
-	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率上げます\n　キラ艦：{0}",
+	"ExpedGSRateExplainNoOverdrum": "規定数以上のドラム缶が大成功率を上げます\n　ドラム缶：{0} / {1}",
+	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率を上げます\n　キラ艦：{0}",
 
 	"CraftEquipNoteFirst" : "この装備は初入手です！",
 	"CraftEquipNoteExists" : "この装備は{0}個持ってます！",

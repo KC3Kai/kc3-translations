@@ -597,7 +597,7 @@
 	
 	"ShipDayAttack" : "Day {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipNightAttack" : "Night {0:warfareType} Power: {1:power} ({2:attackType})",
-	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit}) {5}",
+	"ShipAccShelling" : "Shelling Accuracy: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit}) {5:cutinModifier}",
 	"ShipEvaShelling" : "Shelling Evasion: {0} (Equip:{1:byStats},\u2605{2:byImprovement},Fuel:{3:fuelPenalty})",
 	"ShipAAAdjusted" : "Adjusted Anti-Air: {0}",
 	"ShipAAShotdownRate" : "Shootdown - Prop: {0}%",

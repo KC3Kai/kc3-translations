@@ -1724,7 +1724,14 @@
         "code": "D25",
         "name": "Strengthen the Expeditionary Resupply Logistics!",
         "desc": "Have 800 Steel. Complete Expedition A1.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards 2 Combat Rations"
+        "memo": "\u27a3Unlocks Expedition Provisional Resupply. This enables resupplying expeditions from the expedition page.\n\u27a3Rewards 2 Combat Rations",
+        "unlock": [ 428 ]
+    },
+    "428": {
+        "code": "D26",
+        "name": "Suppress the Enemy Occupation of the Coastal Waters!",
+        "desc": "Complete Expeditions 4, A2 and A3. Amount of times currently unverified.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards ?"
     },
     
     

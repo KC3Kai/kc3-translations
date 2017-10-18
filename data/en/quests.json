@@ -1232,8 +1232,9 @@
     "869": {
         "code": "B107",
         "name": "Secure the Safety of the Supply Lines!",
-        "desc": "Sortie a CL as flagship, 2 DD/DE (under verification: do not mix them?) and up to 3 other ships to [W1-3], [W1-4] and [W1-5]. S-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards an Underway Replenishment and an Irako"
+        "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 other ships to [W1-3], [W1-4] and [W1-5]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards an Underway Replenishment and an Irako",
+        "unlock": [ 427 ]
     },
     
     
@@ -1718,6 +1719,12 @@
         "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
+    },
+    "427": {
+        "code": "D25",
+        "name": "Strengthen the Expeditionary Resupply Logistics!",
+        "desc": "Have 800 Steel. Complete Expedition A1.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards 2 Combat Rations"
     },
     
     

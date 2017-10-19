@@ -1717,6 +1717,7 @@
         "name": "Quarterly Expeditions",
         "desc": "Complete Expeditions 3, 4, 5 and 10.",
         "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
+        "unlock": [ 428 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
     },
@@ -1731,7 +1732,9 @@
         "code": "D26",
         "name": "Suppress the Enemy Submarine Incursions into Coastal Waters!",
         "desc": "Complete Expeditions 4, A2 and A3. Clear each of them twice.",
-        "memo": "\u27a3Rewards 3 Screws and a Type 95 Depth Charge"
+        "memo": "\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
     },
     
     

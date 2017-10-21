@@ -680,7 +680,7 @@
 	"MissionActivity2" : "成功",
 	"MissionActivity3" : "大成功",
 
-	"ExpedNumLabel"   : "遠征 #",
+	"ExpedNumLabel"   : "遠征 ",
 	"ExpedEstmTime"   : "遠征時間",
 	"ExpedIncome"     : "報酬",
 	"ExpedFSLv"       : "旗艦Lv",
@@ -729,7 +729,7 @@
 	"FirstFleetLevelTip" : "演習を挑みにきた相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除く)",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
-	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征#{1}」から帰投しました。",
+	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",
 	"DesktopNotifyRepairCompleteTitle" : "修理が完了しました！",
 	"DesktopNotifyRepairCompleteMessage" : "入渠していた「{0}」の修理が完了しました。",
 	"DesktopNotifyConstrCompleteTitle" : "建造が完了しました！",

@@ -268,6 +268,7 @@
 	"SettingsShipStatsUnequipped" : "ปัจจุบัน (ไม่รวมอุปกรณ์)",
 	"SettingsShipStatsLeftToMax" : "ปัจจุบัน +อัพเกรดได้",
 	"SettingsShipStatsAll" : "ปัจจุบัน (ไม่รวมอุปกรณ์) +อัพเกรดได้",
+	"SettingsDamagedShipIcon" : "ไอคอนรูปเรือเสียหาย",
 	"SettingsSeasonalShipIcon" : "ไอคอนรูปเรือตามเทศกาล",
 
 	"SettingsFormulas" : "สูตรคำนวน",
@@ -731,7 +732,9 @@
 	"ExpedShips" : " ลำ",
 	"ExpedTotalLv" : " เลเวลรวม ",
 	"ExpedCanister" : " ถังใส่ในเรือ ",
-	"ExpedTotalAsw" : "ASW รวม",
+	"ExpedTotalAsw" : "ΣASW",
+	"ExpedTotalLos" : "ΣLoS",
+	"ExpedTotalAa" : "ΣAA",
 	"ExpedEscortTip" : "สามารถใช้ DE แทน DD ได้ในบางด่าน โปรดใช้ด้วยความระมัดระวัง",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
 	"ExpedExpUnit" : " EXP",

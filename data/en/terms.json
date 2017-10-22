@@ -268,6 +268,7 @@
 	"SettingsShipStatsUnequipped" : "(Unequipped) Current",
 	"SettingsShipStatsLeftToMax" : "Current +Left to max",
 	"SettingsShipStatsAll" : "(Unequipped) Current +Left to max",
+	"SettingsDamagedShipIcon" : "Ship Damaged Icons",
 	"SettingsSeasonalShipIcon" : "Ship Seasonal Icons",
 	
 	"SettingsFormulas" : "Game Formula",
@@ -731,7 +732,9 @@
 	"ExpedShips" : "ships",
 	"ExpedTotalLv" : "Total Lv",
 	"ExpedCanister" : "canisters on ",
-	"ExpedTotalAsw" : "Total ASW",
+	"ExpedTotalAsw" : "ΣASW",
+	"ExpedTotalLos" : "ΣLoS",
+	"ExpedTotalAa" : "ΣAA",
 	"ExpedEscortTip" : "DE can be substitutes for DD but note that mixed them \nmight result in failure for some expeditions.",
 	"ExpedCheckReq" : "Check requirements",
 	"ExpedExpUnit" : " exp",

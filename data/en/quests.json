@@ -525,7 +525,8 @@
         "code": "A81",
         "name": "Form the Supreme 8th Destroyer Division!",
         "desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni (or D), Michishio Kai Ni, and Ooshio Kai Ni in your fleet.",
-        "memo": "\u27a3Rewards a Combat Ration and an Irako"
+        "memo": "\u27a3Rewards a Combat Ration and an Irako",
+        "unlock": [ 871 ]
     },
     "187": {
         "code": "A82",
@@ -1253,7 +1254,7 @@
         "name": "8th Destroyer Division, to the Southwest!",
         "desc": "Sortie Arashio, Asashio, Ooshio, Michishio and up to 2 other ships to [W1-2] and [W2-2]. S?-Rank the boss nodes of each.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya",
-        "unlock": [ 186 ]
+        "unlock": [ 186, 429 ]
     },
     "871": {
         "code": "B109",
@@ -1765,7 +1766,8 @@
         "code": "D27",
         "name": "Operation Sho-Go: Begin Preparations!",
         "desc": "Complete Expeditions 3, A1 and B1.",
-        "memo": "\u27a3Rewards 2 Underway Replenishments"
+        "memo": "\u27a3Rewards 2 Underway Replenishments",
+        "unlock": [ 187 ]
     },
     
     

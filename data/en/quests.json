@@ -523,9 +523,16 @@
     },
     "186": {
         "code": "A81",
-        "name": "Form the Supreme Elite 8th Destroyer Division!",
+        "name": "Form the Supreme 8th Destroyer Division!",
         "desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni (or D), Michishio Kai Ni, and Ooshio Kai Ni in your fleet.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Combat Ration and an Irako"
+        "memo": "\u27a3Rewards a Combat Ration and an Irako",
+        "unlock": [ 871 ]
+    },
+    "187": {
+        "code": "A82",
+        "name": "Nishimura Fleet, 2nd Division Escort Force, Assemble!",
+        "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
     },
     
     "202": {
@@ -1247,7 +1254,13 @@
         "name": "8th Destroyer Division, to the Southwest!",
         "desc": "Sortie Arashio, Asashio, Ooshio, Michishio and up to 2 other ships to [W1-2] and [W2-2]. S?-Rank the boss nodes of each.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya",
-        "unlock": [ 186 ]
+        "unlock": [ 186, 429 ]
+    },
+    "871": {
+        "code": "B109",
+        "name": "Supreme 8th Destroyer Division, Sortie With All Your Might!",
+        "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (or D), Ooshio Kai Ni, Michishio Kai Ni and up to 2 other ships to [W3-2] and [W5-4]. S?-Rank the boss nodes of each. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards 4 Screws and either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Daihatsu Landing Craft OR a Type 22 Surface Radar"
     },
     
     
@@ -1749,7 +1762,13 @@
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
     },
-    
+    "429": {
+        "code": "D27",
+        "name": "Operation Sho-Go: Begin Preparations!",
+        "desc": "Complete Expeditions 3, A1 and B1.",
+        "memo": "\u27a3Rewards 2 Underway Replenishments",
+        "unlock": [ 187 ]
+    },
     
     
     "501": {

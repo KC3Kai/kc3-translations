@@ -51,7 +51,10 @@
         "424": "It is possible to execute a joint operation with land-based air squadrons.",
         "425": "Congratulations! The operation was a success.",
         "426": "The next operational area to capture is now available.",
-        "427": "Admiral, congratulations! All operational areas have been successfully captured. The operation was a success."
+        "427": "Admiral, congratulations! All operational areas have been successfully captured. The operation was a success.",
+        "1186": "Michishio: \"Phew, kept you waiting, girls!\"<br/>Arashio: \"Oh my, were you that impatient~?\"<br/>Asashio: \"All right! Commander, the Remodeled DesDiv 8 has now assembled!\"<br/>Ooshio: \"This is so exciting!\"<br/>Asashio: \"8th Destroyer Division, ready to sally!\"",
+        "1187": "Michishio: \"Why did they assign me to this fleet...?\"<br/>Shigure: \"Oh, Michishio. Nice to see you.\"<br/>Michishio: \"Shigure?! What are you doing here? Don't tell me we're in the same unit!\"<br/>Shigure: \"Looks like it... Force C of the First Striking Force...\"<br/>Michishio: \"What's wrong, Shigure? You don't look so good. Maybe you should lie down for a bit.\"<br/>Shigure: \"It's okay, I'm fine. It's because of the rain... I guess. Anyway, let's go.\"",
+        "1871": "Asashio: \"8th Destroyer Division, mission complete!\"<br/>Michishio: \"Eh, for a division like us this was a piece of cake!\"<br/>Arashio: \"Oh really now~ Didn't you get hit, Mitchi? Ehehehe~\"<br/>Michishio: \"W-what do you mean?! I didn't get hurt, I totally didn't! So it's all right in the end!\"<br/>Asashio: \"Thank you very much, commander!\"<br/>Michishio: \"Uhm, well...... thanks.\""
     },
     "titlecall_a": {
         "01": "Kancolle.",
@@ -296,7 +299,8 @@
         "2@Spring": "Spring is just around the corner, huh... Ufufu. Watching the cherry blossoms really gives me a mysterious feeling. Eh? These are... tears? Why...?",
         "3@Zuiun": "A Zuiun... Festival, Hyuuga-san? Yes, I'm sure I had plans for something like that too... Eh? That's something else?",
         "2@WhiteDay": "Admiral! Is it alright for Yamato to take these? I'm sorry. Thank you very much. I humbly accept. I'll do my best next year!",
-        "2@EarlySummer": "It's gotten a bit hotter, right Admiral? Summer is here again this year, huh. Eh? A swimsuit? Ah, yes. I went and bought one with Musashi just in case."
+        "2@EarlySummer": "It's gotten a bit hotter, right Admiral? Summer is here again this year, huh. Eh? A swimsuit? Ah, yes. I went and bought one with Musashi just in case.",
+        "2@LateFall2017": "Musashi? What's wrong? Are you cold? Is there something wrong with your engine room? I see, that's fine then. Let me know if anything happens, alright?"
     },
     "136": {
         "Intro": "First of the Yamato-class battleships, Yamato, now with drastically improved anti-air weaponry.",
@@ -571,7 +575,7 @@
         "2@Xmas": "Yamashiro? This dish tastes wonderful. You should try some, too. See? It's different from normal chicken.",
         "2@YearsEnd": "Yamashiro, the year is ending. It is cleaning season. Let us polish our main guns thoroughly and welcome the new year.",
         "2@WhiteDay": "Admiral, is that the return gift for the chocolate? I'm so happy! Uh...Yamashiro, is something wrong?",
-        "2@LateFall2017": "It's time for the decisive battle, Yamashiro. It's time for us Fusou-class sisters to step onto the grand stage. Let's do our best."
+        "2@Kessen": "It's time for the decisive battle, Yamashiro. It's time for us Fusou-class sisters to step onto the grand stage. Let's do our best."
     },
     "286": {
         "Idle": "Um... Admiral? I wonder if I wasn't heard... Admiral? Admiraal? ...Oh my, that's a relief. Fusou, waiting here on stand by.",
@@ -621,7 +625,7 @@
         "2@Xmas": "Nee-sama, this turkey tastes wonderful. Hm? That one aircraft carrier is... It doesn't matter.",
         "2@YearsEnd": "Nee-sama, I understand! We shall clean. Haaa... There's so much dust in the turret... How dreadful...",
         "2@WhiteDay": "Nee-sama! Yamashiro baked some cookies for you. Ah? What is, it? Ah\u2026",
-        "2@LateFall2017": "The time for the Fusou-class to show their worth is finally here. I'll do my best, nee-sama. Fufufufu...."
+        "2@Kessen": "The time for the Fusou-class to show their worth is finally here. I'll do my best, nee-sama. Fufufufu...."
     },
     "287": {
         "Idle": "What...? You're saying Nee-sama and I can't go out to that part of the ocean anymore...? What do you mean by that? How dreadful... from the very start...!",
@@ -2350,7 +2354,8 @@
         "Damaged(3)": "What? A torpedo? ...A U-boat? I won't sink again!",
         "Sunk": "I see... I'm sinking again... I guess... that's just how it goes... Admiral... Bye...",
         "2@Fall2017": "Hoh~ this fleet's autumn is nice. It's exactly like a harvest festival. The Naval Base Autumn Festival isn't bad at all. Come on, I'll join too!",
-        "2@Saury2017": "Saury... you... say?! What do you... mean by \"hunter-killer\"? So that's what it means? But, this equipment is... Eh, it's the best? I don't know about that."
+        "2@Saury2017": "Saury... you... say?! What do you... mean by \"hunter-killer\"? So that's what it means? But, this equipment is... Eh, it's the best? I don't know about that.",
+        "2@LateFall2017": "You need to be careful during this season, especially about submarines. Well, being paranoid is fine, but... Hmm? Periscope to starboard! Evasive manoeuvres! ...Hmm? ...Hmmm? Did I get that wrong? *Sigh*"
     },
     "393": {
         "Intro": "I'm Her Majesty's and your ship, Ark Royal. Sortie preparations are done. Take care of me today too, Admiral.",
@@ -3706,7 +3711,8 @@
         "2@Valentines": "Admiral? I made this myself. Please accept it. Merci!",
         "3@Xmas": "Joyeux no\u00ebl! Here, please have some of the g\u00e2teau de No\u00ebl I made.",
         "2@YearsEnd": "The winter here is rather cold. Mizuho, what is this? A broom? A bamboo broom, is it? So it's time for the year end clean-up. Understood.",
-        "2@EarlySummer": "Admiral? In order to match with the rest of the fleet, I have also dressed for summer. ...Is that weird...? ...Ah... merci."
+        "2@EarlySummer": "Admiral? In order to match with the rest of the fleet, I have also dressed for summer. ...Is that weird...? ...Ah... merci.",
+        "2@Kessen": "Are you doing pre-operation maintenance on the seaplanes, Mogami-san? Yes, please let me help too. They're good planes."
     },
     "372": {
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
@@ -4034,7 +4040,8 @@
         "2@Fall": "Awww... summer is over. It's fall. This season is... ummmm... Ah, Fusou-san? Eh? Breakthrough training? Ah... ummmm... errr....",
         "2@Saury": "*sniff sniff sniff* This smell... could it be saury? You're grilling saury? I wanna eat, wanna eat, wanna eat!",
         "2@Xmas": "Ahh~ so this is that Christmas thing. Hey, hey, Saracchi, is Christmas where you come from even more amazing? Ah, I see. Hweh...",
-        "2@Spring": "It's spring! Hey, hey, hey, Admiral, can we invite the rest of the submarines and Taigei to go flower viewing together? Hey, can we go?"
+        "2@Spring": "It's spring! Hey, hey, hey, Admiral, can we invite the rest of the submarines and Taigei to go flower viewing together? Hey, can we go?",
+        "2@Kessen": "Ah, it's the Nishimura Fleet! Yoohoo! Hey hey hey, where are you going? Eh? Eeeeh? Seriously? Mmm, why not put it off till next year?"
     },
     "367": {
         "Intro": "Hey, hey, hey! Admiral, how are you today? I'm submarine I-26, and I'm doing great, of course! Let's work together again today\u2606",
@@ -4192,7 +4199,8 @@
         "2@Fall": "Goya... even though fall is a time for eating, if you eat that much, the beautiful and functional swimsuit designated by the admiral won't fit anymore, you know? Is that fine?",
         "2@Saury": "So we're supporting the saury fishing! I'm not sure if us submarines are really the right choice, but... okay! Let's give this a try! I'll cheer them on! I can do that much!",
         "2@Spring": "Commander! Spring has finally come. Mmm, winter was long this year. When the season gets warmer, how about taking a dive into the ocean with us, Commander?",
-        "2@WhiteDay": "Wow! Commander, thanks for the return gift! If I eat too much, might I gain some weight, though? Should Imuya prepare some tea?"
+        "2@WhiteDay": "Wow! Commander, thanks for the return gift! If I eat too much, might I gain some weight, though? Should Imuya prepare some tea?",
+        "2@LateFall2017": "It's getting a bit colder. Being dressed like this while on the surface is kind of rough. I'm fine when I dive, though."
     },
     "398": {},
     "155": {
@@ -4851,7 +4859,8 @@
         "2@EarlySummer": "Summer, huh? It's a bit hot, but it isn't unbearable. Well, why don't we open a bottle to rid ourselves of the heat!",
         "2@Fall": "When this season comes around, for some reason, I start to get a little lonely. That's so unlike me, huh?",
         "2@Xmas": "Christmas... huh... doesn't sound too bad. Tonight we'll be drinking all the way into the morning! Yes, indeed. Not bad at all!",
-        "2@WhiteDay": "You, what's this? A return gift, right? Well.... This is already enough for the garnishes. *Munch* *Munch* *Chew* *Chew* Sweet...."
+        "2@WhiteDay": "You, what's this? A return gift, right? Well.... This is already enough for the garnishes. *Munch* *Munch* *Chew* *Chew* Sweet....",
+        "2@Kessen": "Alright! It's finally time for me to show you the Nachi-class'... No, wait, the Myoukou-class' true power. Let's do this!"
     },
     "266": {
         "Idle": "No, I'm not bored. In fact i'm enjoying myself looking at what you're doing.",
@@ -4901,7 +4910,8 @@
         "2@EarlySummer": "Summer is on the way, isn't it? I have a good feeling. This is my year!",
         "2@Fall": "Fall is a lonely season. Alright! At times like this, we need the victory cutlet curry! Alriight! I'll make some!",
         "2@Xmas": "Merry Christmas! Tonight's main dish will naturally be cutlets! Victory on Christmas Eve. That's right!",
-        "2@WhiteDay": "Ehh? What are these hands for? The return gift for the chocolate has yet.... Aahh.... Eh? Is that so?"
+        "2@WhiteDay": "Ehh? What are these hands for? The return gift for the chocolate has yet.... Aahh.... Eh? Is that so?",
+        "2@Kessen": "As someone known as the \"Hungry Wolf\", I feel that this will be an important battle! Let's sortie with all our might!"
     },
     "267": {
         "Idle": "When is the next operation!? Hey, where's the next operation going to be!? Victory is... Battle is... Conflict is calling out to me!!!",
@@ -6027,7 +6037,7 @@
         "2@Fall": "Feels good, nyaa~",
         "2@YearsEnd": "End of the year, nya? A time when everyone gets busy, nya. I can't help going to the corner to lie down, nya. Nya...",
         "2@Saury2017": "Saury is delicious-nya. I'll work hard too-nya. Nya~!",
-        "2@LateFall2017": "It's almost time for the final battle-nya. The fleet is really busy. I have to work hard too-nya. Ah, but I'm definitely not a cat-nya."
+        "2@Kessen": "It's almost time for the final battle-nya. The fleet is really busy. I have to work hard too-nya. Ah, but I'm definitely not a cat-nya."
     },
     "216": {
         "Idle": "Nya, Nya~! Nya... Nya!",
@@ -6614,7 +6624,8 @@
         "2@Xmas": "Merry Christmas to you! I got an invitation from Ashigara-san and the others for their evening party... Admiral? What should we do? U-Um... as for me...",
         "2@YearsEnd": "Uwaaa, I'm so busy! Hey, Admiral you should also help out with the naval base's cleanup! Here, hold this! Ah! Dust spotted to starboard!",
         "2@Spring": "This year too, the naval district's sakura bloomed wonderfully as well, didn't they~ Admiral, let's go flower viewing with us too! I'm looking forward to it~!",
-        "2@WhiteDay": "You're giving this to me, Admiral? Your handmade gift? Ufufufu, the clumsiness makes it cute. If you ask me, I gratefully accept it."
+        "2@WhiteDay": "You're giving this to me, Admiral? Your handmade gift? Ufufufu, the clumsiness makes it cute. If you ask me, I gratefully accept it.",
+        "2@Kessen": "Alriiiight~! It's time for the final battle. My experience and pride as flagship of DesRon1 isn't just for show! Flagship starting battle! Follow me, everyone!"
     },
     "290": {},
     "200": {
@@ -6985,7 +6996,8 @@
         "2@Spring": "Yeeeah, it's spring! Agano, likes the spring and Admiral very much! Kirariiin \u2606",
         "2@WhiteDay": "Admiral! What is it? Ah... This is the return gift for my state-of-the-art chocolate? Can I open it? Wow, it looks delicious! Admiral, thank you!",
         "2@EarlySummer": "It's getting a bit hotter huh~ What should we do, Noshiro? Shall we go and buy this summer's latest swimsuits? ...Eh, last year's is fine? Boo~",
-        "2@Summer2017": "Kirarin~! It's Summer! Summer! Noshiro, Yahagi, hurry up, let's go to the beach! In swimsuits of course. Sakawa, Admiral, you two hurry up too!"
+        "2@Summer2017": "Kirarin~! It's Summer! Summer! Noshiro, Yahagi, hurry up, let's go to the beach! In swimsuits of course. Sakawa, Admiral, you two hurry up too!",
+        "2@LateFall2017": "Brrr, it's cold~! I'm not good with this season. I just want to stand by in a kotatsu. Noshiro is looking well... I'm just going to stand by."
     },
     "305": {
         "Married": "Admiral, how have you been? That's good to hear. If you're not feeling well, I'll use my Kirarin Beam! Hah...! You want me to? Alright... Agano, kirarin!",
@@ -7788,7 +7800,8 @@
         "2@Xmas": "Christmas... Ah... I'm... not mad or anything... Cake... I'll have some.",
         "2@YearsEnd": "Mochi... Mochizuki...! We're doing cleaning, so... ah, there, wipe that down with water... Ah, it's not... I'm not angry... at all...",
         "2@WhiteDay": "Commander, this is...? Eh? Is it alright? T-Thank you. I'm... happy.",
-        "2@EarlySummer": "It's gotten hotter. Uzuki, what's with that look... Your summer best?  Is that so, hmmm."
+        "2@EarlySummer": "It's gotten hotter. Uzuki, what's with that look... Your summer best?  Is that so, hmmm.",
+        "2@Kessen": "Uzuki. Ummm, be careful during this season. Ummm, I'm not angry. Yeah, be careful, alright?"
     },
     "308": {},
     "165": {
@@ -7831,7 +7844,8 @@
         "2@Xmas": "U-chan, it's Christmas! *nom* *nom* Mmm~ Tastes good, pyon! *nom* *nom* ... *nom* *nom*",
         "2@YearsEnd": "The end of the year cleanup? U-chan isn't good at cleaning, pyon... Yayoi can do it, pyon.",
         "2@WhiteDay": "Commander! What is this? Eh? Sweets for Uzuki? I'm happy pyon!",
-        "2@EarlySummer": "Summer sure has gotten summerlike-pyon.  Eh, it sure would be nice if it got cooler-pyon.  Right, Commander?"
+        "2@EarlySummer": "Summer sure has gotten summerlike-pyon.  Eh, it sure would be nice if it got cooler-pyon. Right, Commander?",
+        "2@Kessen": "Yayoi? Why are you frowning-pyon? Are you angry about something-pyon!? It's fine-pyon! I'm unsinkable-pyon. I won't sink-pyon!"
     },
     "309": {},
     "28": {
@@ -8815,7 +8829,8 @@
         "3@Spring": "Tsk, you're coming along to our flower viewing after all, you shitty admiral. Sure, that's fine... eat this if you want.",
         "2@WhiteDay": "Hmmm. Return for the chocolate, is it? What a cheeky shitty admiral. *munch* No way, it's delicious. H-hmph.",
         "2@Saury2017": "I know the basics of pole fishing. Eh? Saury fishing? I can fish for saury with this rod... Eh? Efficiency? What sort of efficiency?!",
-        "2@LateFall2017": "Brrr, it's gotten cold. Move over, Sazanami! I want to get in too!"
+        "2@LateFall2017": "Brrr, it's gotten cold. Move over, Sazanami! I want to get in too!",
+        "2@Kessen": "Humph, so the final battle is inevitable, huh. I'll do this seriously! Let's go, you shitty Admiral!"
     },
     "231": {
         "unused2": "Why are you touching me? That's annoying.",
@@ -9341,7 +9356,8 @@
         "2@NewYears": "It's Hatsuharu! How auspicious. Let us celebrate this year together!",
         "2@Setsubun": "Hm! Setsubun is a ceremony of great import! It holds many meanings! Ah! Did you already know?",
         "2@Anniversary": "Yeah, congrats! To celebrate a day like today with you, we, too, are happy. Good.",
-        "2@Xmas": "Ku-Kurisu...masu... thou sayeth!? Such a queer festival! This is... chicken? *nod nod*"
+        "2@Xmas": "Ku-Kurisu...masu... thou sayeth!? Such a queer festival! This is... chicken? *nod nod*",
+        "2@Kessen": "Well, that is, we trust you... Yes, well, that's all!"
     },
     "238": {
         "Idle": "Aah, well, you know, it would be all right if we did some work... it would be all right, you know?",
@@ -9591,7 +9607,9 @@
         "2@EarlySummer": "Naganami, those look like nice onigiri, huh? Yup, I'd like to try some too. Eh, I-is that so? Yup, I'd like to try cooking too.",
         "2@LateFall2017": "What a pleasant rain, Admiral.",
         "3@LateFall2017": "I'm... No, it's nothing.",
-        "4@LateFall2017": "That's right, I need to keep moving forwards. There's always a ray of light... I'm... Thank you, Admiral. Hm, I see. Alright, then."
+        "4@LateFall2017": "That's right, I need to keep moving forwards. There's always a ray of light... I'm... Thank you, Admiral. Hm, I see. Alright, then.",
+        "2@Kessen": "This season is... No, it's a nice rain, Admiral.",
+        "3@Kessen": "Michishio... I see, that's good. Let's get ready together. Yeah."
     },
     "243": {},
     "145": {
@@ -9718,7 +9736,8 @@
         "3@Xmas": "*nom nom* ...The cake is so sweet and delicious, poi! *nom nom* ...But if I eat too much, I'll exceed my displacement limits, poi. Po~i...",
         "2@YearsEnd": "Another year is over, poi. That was kinda fast, poi. I'll fight hard next year, too, poi!",
         "2@Spring": "Spring feels good-poi! I want to go outside-poi! I'm feeling all excited-poi!",
-        "2@WhiteDay": "What is this package, Admiral? Smells nice~ It's cookies-poi! Perhaps these are handmade-poi?"
+        "2@WhiteDay": "What is this package, Admiral? Smells nice~ It's cookies-poi! Perhaps these are handmade-poi?",
+        "2@Kessen": "You're all getting ready for battle-poi? Night battle preparations-poi?"
     },
     "245": {},
     "144": {
@@ -9940,7 +9959,8 @@
         "2@WhiteDay": "This? Really? Thank you... Thank you...",
         "2@EarlySummer": "A swimsuit?  I don't really mind though. I'll just wear one.",
         "2@Fall2017": "Why are all of you making so much noise? ...Saury? ...I'm fine, though... Eh? Me too?",
-        "2@Saury2017": "DesDiv24 heading out on a saury fishing support mission~! Let's gooooooooo~ What?"
+        "2@Saury2017": "DesDiv24 heading out on a saury fishing support mission~! Let's gooooooooo~ What?",
+        "2@LateFall2017": "It's gotten a bit colder. Let's get out the kotatsu."
     },
     "369": {
         "Intro": "I'm... Shiratsuyu-class destroyer... the eighth ship... Yamakaze...<br />...Don't let go of my hand. ...I'll come back home.",
@@ -10183,7 +10203,8 @@
         "2@Xmas": "Commander! Let's go all out together for Christmas! Merry Christmas! Get fired up!",
         "2@YearsEnd": "Commander, it's the end of the year! We'll start the cleanup with a bang! I'll be in charge of sweeping. I'm so fired up for the cleanup!",
         "2@Spring": "Commander! It's spring! Doon! It raises up your spirit! Let's go flower viewing with the 8th destroyer squadron! Oouh!",
-        "2@WhiteDay": "Commander! This is in return for my chocolate?! I'm happy! Chewchew. It's delicious! With this, Ooshio can power up!"
+        "2@WhiteDay": "Commander! This is in return for my chocolate?! I'm happy! Chewchew. It's delicious! With this, Ooshio can power up!",
+        "2@LateFall2017": "Even though it's gotten a bit colder, I'm still always in high spirits! Whether it be autumn or winter, come and be full of life like me, Commander! Whooo!!"
     },
     "249": {
         "Idle": "Commander! I'll be watching over you from here! Always, always, alwaaays!!",
@@ -10242,6 +10263,20 @@
     "250": {
         "Idle": "If we're going then we're going. If we're not then we're not. You need to be more clear! Honestly.",
         "Supply": "Hmph! You have...<br />...my thanks."
+    },
+    "489": {
+        "Intro": "Michishio here. Why was I assigned to a unit like this? But I'll give it my best.",
+        "Poke(2)": "...So? What? Hmmm, that's fine.",
+        "Poke(3)": "What is it? I don't get you. Say what you want to do clearly! I'm fine with helping out.",
+        "Wedding": "Haven't the battles been going better compared to how it was at first? I don't dislike that. So, I'll accept this. Thanks.",
+        "Join": "Everyone assembled? Destroyer Division 8, sortieing!",
+        "Equip(3)": "Ah, it's nothing. W-well, it's fine.",
+        "Sortie": "I'm heading out. I'm going whether you like it or not!",
+        "Battle": "Found them! So damn annoying! Get them!",
+        "Attack": "You're careless! Humph!",
+        "Yasen(1)": "Fool. What follows will really be hell for you!",
+        "MVP": "W-well, we all did our best. We... we really did our best.",
+        "Damaged(1)": "Ah, tch! I'm not sinking here!"
     },
     "98": {
         "Intro": "My, I haven't introduced myself yet, have I?<br />I'm Arashio!",
@@ -10328,7 +10363,8 @@
         "2@NewYears": "Happy New Year! Commander, best wishes for the year... I'll be following your lead again this year. Don't worry!",
         "2@Valentines": "Ah! I didn't get any chocolate for you, you know! What do you mean? These aren't what you think, okay!?",
         "2@Anniversary": "So, today is a special day? Commander, good for you. I'm a little bit happy, too.",
-        "2@Xmas": "Christmas... huh...? I see, this is... not bad at all. So this is the cake... *nom*"
+        "2@Xmas": "Christmas... huh...? I see, this is... not bad at all. So this is the cake... *nom*",
+        "2@LateFall2017": "Yeah, I see. So this season has come again this year. I'm fine with the night. I'm just fine."
     },
     "327": {
         "Intro": "Asashio-class destroyer, Asagumo, armed and ready! Yes, Commander? Then let's get to work!",
@@ -10392,7 +10428,8 @@
         "Sunk": "I'm sinking, huh... Asagumo-nee... don't come... okay?... See you... later...",
         "2@NewYears": "Commander~, best wishes~ for the new year~! ...I'll be~ counting on you again this year~!",
         "2@Anniversary": "Commander~, today is special, right~? Yamagumo is happy to be able to be with you~. Ufufu...",
-        "2@Xmas": "It's Christmas, isn't it~? Commander, what would you like as a Christmas present~?"
+        "2@Xmas": "It's Christmas, isn't it~? Commander, what would you like as a Christmas present~?",
+        "2@LateFall2017": "So this season has come again, huh. The late night is a bit noisy. Whew~"
     },
     "328": {
         "H0000": "Commander~ Yamagumo is today's secretary huh...sure, I'll do it!",
@@ -10610,7 +10647,7 @@
         "2@Xmas": "*nom* ...Decent... It's decent. ...Christmas is. It's really not too bad.",
         "2@YearsEnd": "Cleaning, huh. December.<br />...? Commander, what is it? Is there a problem with how I cleaned?",
         "2@WhiteDay": "In return for the chocolates is it? Well, I am grateful. I'll accept it.",
-        "2@LateFall2017": "It's almost time for the decisive battle. DesDiv18 will strike out at full power. No, don't mind me."
+        "2@Kessen": "It's almost time for the decisive battle. DesDiv18 will strike out at full power. No, don't mind me."
     },
     "226": {
         "Idle": "Shiranui is absolutely not bored. No, please don't mind me. Do as you like...",

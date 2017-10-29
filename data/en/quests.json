@@ -1014,7 +1014,8 @@
         "code": "B74",
         "name": "The Elite 8th Destroyer Division's Anti-Submarine Patrol!",
         "desc": "Sortie a fleet that includes Asashio Kai Ni D and Ooshio Kai Ni to [W1-5]. S-Rank the boss node 2 times.",
-        "memo": "\u27a3Rewards 4 Screws and a Type 4 Passive Sonar"
+        "memo": "\u27a3Rewards 4 Screws and a Type 4 Passive Sonar",
+        "unlock": [ 186 ]
     },
     "823": {
         "code": "B75",
@@ -1101,7 +1102,8 @@
         "code": "B88",
         "name": "Sortie a Battleship Division!",
         "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina",
+        "unlock": [ 870 ]
     },
     "840": {
         "code": "SB15",
@@ -1252,15 +1254,15 @@
     "870": {
         "code": "B108",
         "name": "8th Destroyer Division, to the Southwest!",
-        "desc": "Sortie Arashio, Asashio, Ooshio, Michishio and up to 2 other ships to [W1-2] and [W2-2]. S?-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya",
+        "desc": "Sortie Arashio, Asashio, Ooshio, Michishio and up to 2 other ships to [W1-2] and [W2-2]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 186, 429 ]
     },
     "871": {
         "code": "B109",
         "name": "Supreme 8th Destroyer Division, Sortie With All Your Might!",
-        "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (or D), Ooshio Kai Ni, Michishio Kai Ni and up to 2 other ships to [W3-2] and [W5-4]. S?-Rank the boss nodes of each. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards 4 Screws and either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Daihatsu Landing Craft OR a Type 22 Surface Radar"
+        "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (or D), Ooshio Kai Ni, Michishio Kai Ni and up to 2 other ships to [W3-2] and [W5-4]. S-Rank the boss nodes of each. Overlay: F10",
+        "memo": "\u27a3Rewards 4 Screws and either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Daihatsu Landing Craft OR a Type 22 Surface Radar"
     },
     
     
@@ -1767,7 +1769,7 @@
         "name": "Operation Sho-Go: Begin Preparations!",
         "desc": "Complete Expeditions 3, A1 and B1.",
         "memo": "\u27a3Rewards 2 Underway Replenishments",
-        "unlock": [ 187 ]
+        "unlock": [ 187, 871 ]
     },
     
     

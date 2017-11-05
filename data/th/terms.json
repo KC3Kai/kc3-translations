@@ -365,6 +365,7 @@
 	"SettingsSubtitleDisplay": "การแสดงซับไตเติ้ล",
 	"SettingsSubtitleSpeaker": "แสดงชื่อเรือในซับไตเติ้ล",
 	"SettingsSubtitleHourly" : "ซับไตเติ้ลบทพูดรายชั่วโมง",
+	"SettingsSubtitleAccurateDuration" : "ปรับเวลาบทพูดซับไตเติ้ล",
 	"SettingsGoogleTranslate": "ใช้ Google แปลภาษา",
 	"SettingsMuteGameTab" : "ปิดเสียงตั้งแต่เริ่มเกม",
 
@@ -630,8 +631,9 @@
 	"PanelRepairMoreDays" : "ซ่อมนานกว่า 1 วัน",
 	"PanelRepairing" : "กำลังซ่อมบำรุง...",
 	"PanelCombinedShipBarsHint" : "เหลือ EXP = {0}, น้ำมัน = {1}%, กระสุน = {2}%",
-	"PanelNextRemodelLv" : "รีโมเดล",
+	"PanelNextRemodelLv" : "รีโมเดล เลเวล {0}",
 	"PanelPossibleRemodel" : "รีโมเดลได้แล้ว",
+	"PanelNextLvGoalLeft" : "เป้าหมายเลเวล {0}, เหลืออีก {1} รอบ",
 	"PanelResupplyCosts" : "ต้องใช้ {3:marriedHint}\n\u2003น้ำมัน: {0}, กระสุน: {1}, บอกไซต์: {2}",
 	"PanelResupplyMarriedHint" : "(ถ้าแต่งงานแล้วใช้น้อยลง 15%)",
 	"PanelBattleConsumes" : "ต้องใช้\n\u2003ด่านปกติ - น้ำมัน: {0:fuel}, กระสุน: {1:dayAmmo} (รบกลางคืน: {2:incNightAmmo})\n\u2003รบน่านฟ้า - น้ำมัน: {3:airRaidFuel}, กระสุน: {4:airRaidAmmo}",

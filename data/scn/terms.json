@@ -306,6 +306,7 @@
 	"SettingsConstructionFaces" : "揭示建造中的舰娘",
 	"SettingsCraftBox" : "揭示开发结果",
 	"SettingsCompass" : "战斗结果预测",
+	"SettingsPrevEncounters" : "以往敌舰队编成",
 	"SettingsBattleData" : "剩余血量预测",
 	"SettingsBattleRank" : "战斗评价预测",
 	"SettingsBattleMvp" : "战斗MVP候选参考",
@@ -433,6 +434,9 @@
 
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
+
+	"SettingsTsunDBSubmission" :"向 KC3改 (http://kckai.cybersnets.com) 发送数据",
+	"SettingsEnableTsunDBSubmission" : "启用功能",
 
 	"SettingsPanelSize" : "面板尺寸",
 	"SettingsPanelOpacity" : "界面不透明度 (opacity)",
@@ -592,6 +596,7 @@
 	"BattleKindAirBattleOnly" : "空战点",
 	"BattleKindAirDefendOnly" : "空袭点",
 	"BattleKindEnemyCombined" : "深海联合舰队",
+	"BattlePreviousEncounters" : "该节点以前遭遇过的敌舰队",
 
 	"Debuffed" : "Boss已削弱！",
 

@@ -247,6 +247,7 @@
 	"SettingsConstructionFaces" : "การต่อเรือ",
 	"SettingsCraftBox" : "การสร้างยุทโธปกรณ์",
 	"SettingsCompass" : "ข้อมูลเข็มทิศและการรบ",
+	"SettingsPrevEncounters" : "ศัตรูที่เคยเจอ",
 	"SettingsBattleData" : "ระบบบอกผลการรบล่วงหน้า",
 	"SettingsBattleRank" : "ระบบบอกผลระดับล่วงหน้า",
 	"SettingsBattleMvp" : "มีลุ้นได้ MVP",
@@ -402,6 +403,9 @@
 
 	"SettingsKC3DBSubmission" : "ส่งข้อมูลให้ KC3Kai (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "เปิดใช้งาน",
+
+	"SettingsTsunDBSubmission" :"ส่งข้อมูลให้ Tsunderes (http://kckai.cybersnets.com)",
+	"SettingsEnableTsunDBSubmission" : "เปิดใช้งาน",
 
 	"SettingsPanelSize" : "แผงควบคุมการเล่น",
 	"SettingsPanelOpacity" : "ความโปร่งใส",
@@ -564,6 +568,7 @@
 	"BattleKindAirBattleOnly" : "รบน่านฟ้า",
 	"BattleKindAirDefendOnly" : "ป้องกันน่านฟ้า",
 	"BattleKindEnemyCombined" : "กองเรือผสมทะเลลึก",
+	"BattlePreviousEncounters" : "ศัตรูที่เคยเจอ",
 
 	"ShipHp"      : "HP",
 	"ShipFire"    : "ปืน",

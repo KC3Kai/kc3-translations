@@ -84,7 +84,7 @@
         "code": "A19",
         "name": "Form the Nagumo Task Force!",
         "desc": "Have ONLY Akagi, Kaga, Hiryuu and Souryuu in your main fleet.",
-        "unlock": [ 625 ]
+        "unlock": [ 185, 625 ]
     },
     "115": {
         "code": "A6",
@@ -132,6 +132,7 @@
         "code": "A22",
         "name": "Form the Nishimura Fleet!",
         "desc": "Have Fusou, Yamashiro, Mogami and Shigure in your main fleet.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 123, 126, 224 ]
     },
     "123": {
@@ -145,6 +146,7 @@
         "code": "A24",
         "name": "Form the New Mikawa Fleet!",
         "desc": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 227 ]
     },
     "125": {
@@ -164,12 +166,14 @@
         "code": "A27",
         "name": "Form a Medium-Sized Submarine Fleet!",
         "desc": "Have 3 SS(V) in your fleet.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 139, 405 ]
     },
     "128": {
         "code": "A28",
         "name": "Form the 6th Cruiser Division!",
         "desc": "Have Furutaka, Kako, Aoba and Kinugasa in your main fleet.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 138, 233 ]
     },
     "129": {
@@ -252,7 +256,7 @@
         "code": "A39",
         "name": "Strengthen the Reformed 2nd Carrier Division!",
         "desc": "Have Souryuu Kai Ni as flagship, Hiryuu Kai Ni, and 2 DD in your fleet.",
-        "unlock": [ 251, 627 ]
+        "unlock": [ 251 ]
     },
     "142": {
         "code": "A40",
@@ -377,7 +381,7 @@
         "name": "Form the 3rd Carrier Division!",
         "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose (CVL) and Chiyoda (CVL) in your main fleet.",
         "memo": "\u27a3Rewards a Skilled Crew Member",
-        "unlock": [ 293, 627 ]
+        "unlock": [ 293, 625, 627 ]
     },
     "165": {
         "code": "A60",
@@ -391,13 +395,13 @@
         "name": "Form the Ozawa Fleet!",
         "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai in your main fleet.",
         "memo": "\u27a3Rewards a Repair Team",
-        "unlock": [ 294 ]
+        "unlock": [ 294, 630 ]
     },
     "167": {
         "code": "A62",
         "name": "Form the New Carrier Division!",
         "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and 2 DD in your fleet.",
-        "memo": "\u27a3Rewards a Skilled Crew Member",
+        "memo": "\u27a3Rewards an Irako and a Skilled Crew Member",
         "unlock": [ 633 ]
     },
     "168": {
@@ -423,6 +427,7 @@
         "code": "A66",
         "name": "Form the 31st Cruiser Division (First Generation)!",
         "desc": "Have Isuzu Kai Ni as flagship, Satsuki Kai Ni and Uzuki Kai in your fleet.",
+        "memo": "\u27a3Rewards an Irako",
         "unlock": [ 807 ]
     },
     "172":{
@@ -453,7 +458,7 @@
         "code": "A71",
         "name": "Elite! DesDiv 8, 1st platoon!",
         "desc": "Have Asashio Kai Ni D and Ooshio Kai Ni in your fleet.",
-        "memo": "\u2718If you meet the conditions and it doesn't clear, switch the quest off and turn it on again.\n\u27a3Rewards 3 Screws"
+        "memo": "\u2718If you meet the conditions and it doesn't clear, switch the quest off and turn it on again.\n\u27a3Rewards an Irako and 3 Screws"
     },
     "177": {
         "code": "A72",
@@ -478,14 +483,14 @@
         "code": "A75",
         "name": "Form the New 1st Battleship Division!",
         "desc": "Have Nagato Kai Ni as flagship and Mutsu Kai in Fleet 1.",
-        "memo": "\u27a3Rewards 1 Irako",
+        "memo": "\u27a3Rewards an Irako",
         "unlock": [ 856 ]
     },
     "181": {
         "code": "A76",
         "name": "Form the New 7th Cruiser Division!",
         "desc": "Have Kumano Kai Ni (or Kou) as flagship, Suzuya Kai Ni (or Kou) as second ship, Mogami Kai and Mikuma Kai in Fleet 1.",
-        "memo": "\u27a3Rewards 1 Irako",
+        "memo": "\u27a3Rewards an Irako",
         "unlock": [ 858 ]
     },
     "182": {
@@ -508,6 +513,26 @@
         "desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai in your fleet.",
         "memo": "\u27a3Rewards 2 Combat Rations",
         "unlock": [ 863 ]
+    },
+    "185": {
+        "code": "A80",
+        "name": "Form the Powerful Task Force!",
+        "desc": "Have Saratoga Mk.II or Mod.2 as flagship, 1 CL and 2 DD in Fleet 1. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a F6F-3 OR a F4U-1D\n\u00B6Second choice: Either a TBF OR a New Model Aviation Armament Materials",
+        "unlock": [ 669, 864 ]
+    },
+    "186": {
+        "code": "A81",
+        "name": "Form the Supreme 8th Destroyer Division!",
+        "desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni (or D), Michishio Kai Ni, and Ooshio Kai Ni in your fleet.",
+        "memo": "\u27a3Rewards a Combat Ration and an Irako",
+        "unlock": [ 871 ]
+    },
+    "187": {
+        "code": "A82",
+        "name": "Nishimura Fleet, 2nd Division Escort Force, Assemble!",
+        "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
     },
     
     "202": {
@@ -568,7 +593,8 @@
         "code": "B10",
         "name": "Sink an Enemy Carrier!",
         "desc": "Sink an Abyssal CV(L).",
-        "memo": "\u27a3Rewards the CV Akagi"
+        "memo": "\u27a3Rewards the CV Akagi",
+        "unlock": [ 861 ]
     },
     "219": {
         "code": "B11",
@@ -613,7 +639,8 @@
     "232": {
         "code": "B18",
         "name": "Sortie an Aviation Surface Attack Fleet!",
-        "desc": "Sortie 2 BBV, 2 CAV and 2 additional ships to [W4-2]. B-Rank+ the boss node."
+        "desc": "Sortie 2 BBV, 2 CAV and 2 additional ships to [W4-2]. B-Rank+ the boss node.",
+        "memo": "\u27a3Rewards a Mamiya"
     },
     "233": {
         "code": "B19",
@@ -637,7 +664,8 @@
     "244": {
         "code": "B22",
         "name": "Sortie the 30th Destroyer Division (First Generation)!",
-        "desc": "Sortie Mutsuki, Kisaragi, Yayoi, Mochizuki and up to 2 additional ships to [W3-2]. C-Rank+ the boss node."
+        "desc": "Sortie Mutsuki, Kisaragi, Yayoi, Mochizuki and up to 2 additional ships to [W3-2]. C-Rank+ the boss node.",
+        "memo": "\u27a3Rewards a Mamiya"
     },
     "245": {
         "code": "WB01",
@@ -669,6 +697,7 @@
         "code": "B25",
         "name": "Sortie the New 2nd Carrier Division",
         "desc": "Sortie Hiryuu Kai Ni as flagship, Souryuu, 2 DD and up to 2 additional ships to [W5-2]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 141, 614, 615 ]
     },
     "251": {
@@ -733,6 +762,7 @@
         "code": "B35",
         "name": "Sortie the 11th Destroyer Division!",
         "desc": "Sortie Fubuki, Shirayuki, Hatsuyuki, Murakumo and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 150 ]
     },
     "268": {
@@ -751,7 +781,8 @@
     "270": {
         "code": "B39",
         "name": "Sortie the 22nd Destroyer Division!",
-        "desc": "Sortie Satsuki, Fumizuki, Nagatsuki, 1 DD and up to 2 additional ships to [W1-4]. S-Rank the boss node."
+        "desc": "Sortie Satsuki, Fumizuki, Nagatsuki, 1 DD and up to 2 additional ships to [W1-4]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards an Irako"
     },
     "271": {
         "code": "B38",
@@ -827,6 +858,7 @@
         "code": "B50",
         "name": "Sortie the 5th Carrier Division into the Coral Sea Region!",
         "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to [W5-2]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards an Irako",
         "unlock": [ 169, 622, 623, 420 ]
     },
     "288": {
@@ -846,19 +878,21 @@
         "code": "B53",
         "name": "Sortie CarDiv 3 to the Nansei Islands Defense Line!",
         "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose (CVL), Chiyoda (CVL) and up to 2 additional ships to [W1-4]. S-Rank the boss node.",
-        "unlock": [ 165 ]
+        "memo": "\u27a3Rewards an Irako",
+        "unlock": [ 165, 629 ]
     },
     "294": {
         "code": "B54",
         "name": "Sortie the Ozawa Fleet!",
         "desc": "Sortie Zuikaku Kai+ as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai to [W2-4]. S-Rank the boss node.",
         "memo": "\u27a3Rewards a Zero Fighter Model 52C (601 Air Group)",
-        "unlock": [ 626, 645 ]
+        "unlock": [ 631, 645 ]
     },
     "295": {
         "code": "B55",
         "name": "Sortie the 16th Cruiser Division (Second Generation)!",
         "desc": "Sortie Natori as flagship, Isuzu, Kinu and up to 3 additional ships to [W2-3]. S-Rank the boss node.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 169 ]
     },
     "296": {
@@ -923,7 +957,7 @@
         "code": "B65",
         "name": "Secure Control of the Orel Sea!",
         "desc": "Sortie Ooshio as flagship to [W2-3]. S-Rank the boss node 6 times.",
-        "memo": "\u27a3Rewards a Medal",
+        "memo": "\u27a3Rewards 2 Irako and a Medal",
         "unlock": [ 813 ]
     },
     "813": {
@@ -955,6 +989,7 @@
         "code": "B70",
         "name": "New Fleet, Hurry to the Nansei Islands Defense Line!",
         "desc": "Sortie a CL/CLT/CT flagship, 4 DD, and up to 1 additional ship to [W1-4]. A-Rank+ the boss node.",
+        "memo": "\u27a3Rewards a Mamiya",
         "unlock": [ 818 ]
     },
     "818": {
@@ -979,13 +1014,14 @@
         "code": "B74",
         "name": "The Elite 8th Destroyer Division's Anti-Submarine Patrol!",
         "desc": "Sortie a fleet that includes Asashio Kai Ni D and Ooshio Kai Ni to [W1-5]. S-Rank the boss node 2 times.",
-        "memo": "\u27a3Rewards 4 Screws and a Type 4 Passive Sonar"
+        "memo": "\u27a3Rewards 4 Screws and a Type 4 Passive Sonar",
+        "unlock": [ 186 ]
     },
     "823": {
         "code": "B75",
         "name": "Torpedo Squadron, Persist on the Southwest Defense Line!",
         "desc": "Sortie a CL/CLT/CT as flagship, 4 DD and 1 additional ship to [W1-4]. A-Rank the boss node 2 times.",
-        "memo": "\u203bTorpedo Squadron, Repeatedly Sortie to the Southwestern Defense Line!"
+        "memo": "\u203bTorpedo Squadron, Repeatedly Sortie to the Southwestern Defense Line!\n\u27a3Rewards an Irako"
     },
     "824": {
         "code": "B76",
@@ -997,13 +1033,14 @@
         "code": "B77",
         "name": "Torpedo Squadron, Patrol the Nansei Islands Region!",
         "desc": "Sortie a CL/CLT/CT as flagship, 4 DD and 1 additional ship to [W2-2] and [W2-3]. S-Rank the boss nodes of both maps.",
-        "memo": "\u27a3Rewards a Furniture Fairy",
+        "memo": "\u27a3Rewards an Irako and a Furniture Fairy",
         "unlock": [ 642 ]
     },
     "826": {
         "code": "B78",
         "name": "Sortie the 19th Destroyer Division!",
-        "desc": "Sortie Isonami, Uranami, Ayanami and Shikinami to [W1-5]. A-Rank+ the boss node."
+        "desc": "Sortie Isonami, Uranami, Ayanami and Shikinami to [W1-5]. A-Rank+ the boss node.",
+        "memo": "\u27a3Rewards an Irako"
     },
     "827": {
         "code": "B79",
@@ -1039,7 +1076,7 @@
         "code": "B84",
         "name": "Sortie the 16th Cruiser Division (Third Generation)!",
         "desc": "Sortie Kinu, Aoba, Kitakami, Ooi and up to 2 additional ships to [W2-4]. A-Rank+ the boss node.",
-        "memo": "\u27a3Rewards furniture",
+        "memo": "\u27a3Rewards an Irako and furniture",
         "unlock": [ 179 ]
     },
     "836": {
@@ -1059,13 +1096,14 @@
         "code": "B87",
         "name": "Heavy Cruiser Division, Set Sail!",
         "desc": "Sortie a CA(V) as flagship, 3 other CA(V) and up to 2 additional ships to [W2-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards furniture"
+        "memo": "\u27a3Rewards an Irako and furniture"
     },
     "839": {
         "code": "B88",
         "name": "Sortie a Battleship Division!",
         "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
+        "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina",
+        "unlock": [ 870 ]
     },
     "840": {
         "code": "SB15",
@@ -1084,7 +1122,7 @@
         "code": "B89",
         "name": "Main Battleship Division, Set Sail!",
         "desc": "Sortie 2 BB(V) (not FBB) and up to 4 additional ships to [W2-4]. S-Rank the boss node. You will have to select a reward. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler"
+        "memo": "\u27a3Rewards an Irako and either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler"
     },
     "843": {
         "code": "SB21",
@@ -1102,8 +1140,8 @@
         "code": "B91",
         "name": "Submarine Fleet, Execute Patrols in the Central Waters!",
         "desc": "Sortie an SS(V) as flagship, 3 other SS(V), and two additional ships to [W6-1]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards 3 Screws and 1 Irako",
-        "unlock": [ 656, 658, 848, 850, 854 ]
+        "memo": "\u27a3Rewards 3 Screws and an Irako",
+        "unlock": [ 656, 658, 848, 850, 854, 862 ]
     },
     "847": {
         "code": "SB22",
@@ -1121,7 +1159,7 @@
         "code": "B93",
         "name": "Crush the Enemy Fleet in the Nansei Islands Region!",
         "desc": "Sortie a CL as flagship and 5 additional ships to [W1-4], [W2-2] and [W2-3]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards 1 Mamiya and 1 Irako",
+        "memo": "\u27a3Rewards a Mamiya and an Irako",
         "unlock": [ 850 ]
     },
     "850": {
@@ -1192,6 +1230,39 @@
         "name": "Sortie the Elite 22nd Destroyer Division!",
         "desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai and up to 2 additional ships to [W3-2]. S-Rank the boss node. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards 2 Irako and either a Daihatsu Landing Craft OR a New Model Artillery Armament Materials OR a Reinforcement Expansion."
+    },
+    "864": {
+        "code": "B105",
+        "name": "Powerful Large-Scale Aircraft Carrier, Setting Sail!",
+        "desc": "Sortie Saratoga Mk.II or Mod.2 as Fleet 1 flagship, 1 CL, 2 DD and up to 2 additional ships to [W5-5] and [W6-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a F6F-3 OR a Skilled Crew Member OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a TBF OR a Night Operations Aviation Personnel",
+        "unlock": [ 670, 865 ]
+    },
+    "865": {
+        "code": "B106",
+        "name": "Night Operations Carrier, Sortie to the Frontlines!",
+        "desc": "Sortie Saratoga Mk.II (NOT Mod.2) as Fleet 1 flagship to [W6-5]. S-Rank the boss node. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel\n\u00B6Second choice: Either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
+    },
+    "869": {
+        "code": "B107",
+        "name": "Secure the Safety of the Supply Lines!",
+        "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 other ships to [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards an Underway Replenishment and an Irako",
+        "unlock": [ 427 ]
+    },
+    "870": {
+        "code": "B108",
+        "name": "8th Destroyer Division, to the Southwest!",
+        "desc": "Sortie Arashio, Asashio, Ooshio, Michishio and up to 2 other ships to [W1-2] and [W2-2]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards a Mamiya",
+        "unlock": [ 186, 429 ]
+    },
+    "871": {
+        "code": "B109",
+        "name": "Supreme 8th Destroyer Division, Sortie With All Your Might!",
+        "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (or D), Ooshio Kai Ni, Michishio Kai Ni and up to 2 other ships to [W3-2] and [W5-4]. S-Rank the boss nodes of each. Overlay: F10",
+        "memo": "\u27a3Rewards 4 Screws and either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Daihatsu Landing Craft OR a Type 22 Surface Radar"
     },
     
     
@@ -1354,14 +1425,14 @@
         "code": "Bm2",
         "name": "Monthly [W6-1]",
         "desc": "Sortie to [W6-1]. S-Rank the boss node 3 times.",
-        "memo": "\u203bSortie a Submarine Fleet!",
+        "memo": "\u203bSortie a Submarine Fleet!\n\u27a3Rewards an Irako",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
         "name": "Monthly [W1-4]",
         "desc": "Sortie a CL as flagship, up to 2 other CL, and at least 1 DD to [W1-4]. No other ship types are allowed. S-Rank the boss node.",
-        "memo": "\u203bSend the Torpedo Squadron Southwest!\n\u27a3Rewards 3 Screws"
+        "memo": "\u203bSend the Torpedo Squadron Southwest!\n\u27a3Rewards an Irako and 3 Screws"
     },
     "259": {
         "code": "Bm4",
@@ -1386,7 +1457,7 @@
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [W2-5] Light Fleet",
+        "name": "Monthly [W2-5] Destroyer Fleet",
         "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
         "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
     },
@@ -1395,14 +1466,14 @@
         "code": "Bq1",
         "name": "Quarterly [W2-4]",
         "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
-        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards 5 Screws",
+        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards a Mamiya and 5 Screws",
         "tracking": [ [0,2] ]
     },
     "854": {
         "code": "Bq2",
         "name": "Quarterly Ranking Points",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
-        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Mamiya, 4 Screws and 350 Ranking Points",
+        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
@@ -1493,19 +1564,26 @@
         "code": "C10",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Present Box",
+        "memo": "\u27a3Rewards a Mamiya and a Present Box",
         "unlock": [ 644 ]
     },
     "314": {
         "code": "C11",
         "name": "Mass Exercises for Winter",
-        "desc": "Secure 8 victories in Exercises within the same day."
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "memo": "\u27a3Rewards a Mamiya"
     },
     "315": {
         "code": "C12",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Present Box"
+        "memo": "\u27a3Rewards a Mamiya and a Present Box"
+    },
+    "316": {
+        "code": "C13",
+        "name": "Strive to Improve the Transport Force's Level of Training!",
+        "desc": "Secure 4 victories in Exercises within the same day. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 2 Screws and either a Furniture Fairy OR a Daihatsu Landing Craft."
     },
     
     
@@ -1602,26 +1680,26 @@
         "code": "D14",
         "name": "Extend the Benefits of the Deep Sea Submarine Operation!",
         "desc": "Complete Expedition 39 two more times.",
-        "memo": "\u27a3Rewards a 53cm Submarine Bow Torpedo Mount (8 tubes)",
-        "unlock": [ 272 ]
+        "memo": "\u27a3Rewards a 53cm Submarine Bow Torpedo Mount (8 tubes)"
     },
     "416": {
         "code": "D15",
         "name": "Carry Out Anti-Air Accuracy Exercises!",
         "desc": "Complete Expedition 6 three times.",
-        "memo": "\u27a3Rewards a 25mm Triple Autocannon Mount"
+        "memo": "\u27a3Rewards a 25mm Triple Autocannon Mount",
+        "unlock": [ 272 ]
     },
     "417": {
         "code": "D16",
         "name": "Carry Out the Decoy Task Force Support Operation!",
         "desc": "Complete Expedition 15.",
-        "memo": "\u27a3Rewards a Type 91 Anti-Aircraft Fire Director",
-        "unlock": [ 308 ]
+        "memo": "\u27a3Rewards a Type 91 Anti-Aircraft Fire Director"
     },
     "418": {
         "code": "D17",
         "name": "Carry Out Naval Review Rehearsals!",
-        "desc": "Complete Expedition 7 twice."
+        "desc": "Complete Expedition 7 twice.",
+        "unlock": [ 308, 316 ]
     },
     "419": {
         "code": "D18",
@@ -1667,10 +1745,32 @@
         "name": "Quarterly Expeditions",
         "desc": "Complete Expeditions 3, 4, 5 and 10.",
         "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
+        "unlock": [ 428 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
     },
-    
+    "427": {
+        "code": "D25",
+        "name": "Strengthen the Expeditionary Resupply Logistics!",
+        "desc": "Have 800 Steel. Complete Expedition A1.",
+        "memo": "\u27a3Unlocks Provisional Resupply for Expeditions. This enables resupplying expeditions from the expedition page.\n\u27a3Rewards 2 Combat Rations",
+        "unlock": [ 428 ]
+    },
+    "428": {
+        "code": "D26",
+        "name": "Suppress the Enemy Submarine Incursions into Coastal Waters!",
+        "desc": "Complete Expeditions 4, A2 and A3. Clear each of them twice.",
+        "memo": "\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
+    },
+    "429": {
+        "code": "D27",
+        "name": "Operation Sho-Go: Begin Preparations!",
+        "desc": "Complete Expeditions 3, A1 and B1.",
+        "memo": "\u27a3Rewards 2 Underway Replenishments",
+        "unlock": [ 187, 871 ]
+    },
     
     
     "501": {
@@ -1732,7 +1832,7 @@
         "name": "Daily Construction 2",
         "desc": "Construct 3 ships.",
         "memo": "\u203bEnhance the Fleet by Constructing Ship Girls!",
-        "unlock": [ 609, 617, 619 ],
+        "unlock": [ 609, 617, 619, 669 ],
         "tracking": [ [0,3] ]
     },
      "609": {
@@ -1817,7 +1917,8 @@
     "617": {
         "code": "F16",
         "name": "Preparation for Irako",
-        "desc": "Scrap 10 pieces of equipment."
+        "desc": "Scrap 10 pieces of equipment.",
+        "memo": "\u27a3Rewards 4 Irako"
     },
     "618": {
         "code": "F17",
@@ -1842,21 +1943,22 @@
         "code": "F21",
         "name": "Preparation for the Prototype Rigging",
         "desc": "Scrap 7 pieces of equipment.",
-        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult"
+        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
+        "unlock": [ 629 ]
     },
     "625": {
         "code": "F23",
         "name": "Additional Prototype Flight Rigging",
         "desc": "Scrap 9 pieces of equipment.",
         "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
-        "unlock": [ 627, 630 ]
+        "unlock": [ 167, 632 ]
     },
     "626": {
         "code": "F22",
         "name": "Monthly Type 0 Fighter Model 21 (Skilled)",
         "desc": "Have a Skilled Crew Member. Set Houshou as secretary. Equip her with a >> Type 0 Fighter Model 21. Scrap two Type 0 Fighter Model 21s and a Type 96 Fighter.",
         "memo": "\u203bThe Newly Formed Elite Fighter Squadron\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 21 (Skilled)",
-        "unlock": [ 632 ]
+        "unlock": [ 627, 630, 632 ]
     },
     "627": {
         "code": "F24",
@@ -1929,6 +2031,7 @@
         "name": "Weekly AA Gun Dismantlement",
         "desc": "Scrap 6 anti-air guns. High-angle guns do not count.",
         "memo": "\u203bAnti-Air Machine Gun Mass Production\n\u27a3Rewards a Screw",
+        "unlock": [ 671 ],
         "tracking": [ [0,6] ]
     },
     "637": {
@@ -2112,6 +2215,25 @@
         "name": "An Experimental New Kind of Combat Ration",
         "desc": "Have 2 Combat Rations, 800 fuel and 150 Bauxite.",
         "memo": "\u2718Consumes the resources and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a new Combat Ration (Special Onigiri)"
+    },
+    "669": {
+        "code": "F61",
+        "name": "Development of a Night Warfare-class Ship-Based Fighter Aircraft",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a >> \u2605max F6F-3.",
+        "memo": "Have a New Model Aviation Armament Materials, 6 Screws, 5000 Bauxite and 30 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-3 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-3N",
+        "unlock": [ 670, 671 ]
+    },
+    "670": {
+        "code": "F63",
+        "name": "Performance Enhancement of a Night Warfare-class Fighter Aircraft",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a >> \u2605max F6F-5.",
+        "memo": "Have a New Model Aviation Armament Materials, 8 Screws, 6000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a >> \u2605max F6F-5 in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u203bPerformance Enhancement of a Night Warfare-class Ship-Based Fighter Aircraft\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a F6F-5N"
+    },
+    "671": {
+        "code": "F62",
+        "name": "Development of a Night Operations-class Ship-Based Bomber Aircraft",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a TBF.",
+        "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
     },
 
     "701": {

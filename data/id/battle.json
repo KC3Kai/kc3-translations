@@ -20,10 +20,10 @@
 	
 	"engagement" : [
 		["", "", ""],
-		["Prll", "", "Paralel"],
-		["HdOn", "", "Berhadapan"],
-		["Gr-T", "good", "T Hijau"],
-		["Rd-T", "bad", "T Merah"]
+		["Prll", "", "Paralel", "Damage 100%"],
+		["HdOn", "", "Berhadapan", "<span style='color:orange'>Damage 80%</span>"],
+		["Gr-T", "good", "T Hijau", "<span style='color:green'>Damage 120%</span>"],
+		["Rd-T", "bad", "T Merah", "<span style='color:red'>Damage 60%</span>"]
 	],
 	
 	"formation" : [
@@ -59,6 +59,28 @@
 		"LBAS",
 		"Tak ada kerusakan"
 	],
+	"cutinDay" : [
+		"",
+		"Laser",
+		"D Attack [1.2x2]",
+ 		"Sec CI [1.1]",
+ 		"Radar CI [1.2]",
+ 		"Sec/AP CI [1.3]",
+ 		"Mixed AP CI [1.5]",
+		"CVCI [1.15~1.25]"
+	],
+	
+	"cutinNight" : [
+		"",
+		"D Attack [1.2x2]",
+ 		"Mixed CI [1.3x2]",
+ 		"Torp CI [1.5~x2]",
+ 		"Sec CI [1.75x1]",
+ 		"Main Gun CI [2.0x1]",
+		"CVCI [1.18~1.25]",
+		"DD Main CI [?]",
+ 		"DD Lookout CI [?]"
+	],
 	
 	"aacitype" : [
 		[],
@@ -80,9 +102,11 @@
 		["Kasumi Kai Ni B", "High-angle Mount", "AA Machine Gun", "Air Radar"],
 		["Kasumi Kai Ni B", "High-angle Mount", "AA Machine Gun"],
 		["Satsuki Kai Ni", "CD AA Machine Gun"],
-		["Kinu Kai Ni", "High-angle Mount (w/o Built-in FD)", "CD AA Machine Gun"],
+		["Kinu Kai Ni", "High-angle Mount (tanpa Built-in FD)", "CD AA Machine Gun"],
 		["Kinu Kai Ni", "CD AA Machine Gun"],
+		["Yura Kai Ni", "High-angle Mount", "Air Radar"],
+		["Fumizuki Kai Ni", "CD AA Machine Gun"],
+		["UIT-25, I-504", "Non-CD AA Machine Gun"],
 		[]
-	]
-	
+	]	
 }

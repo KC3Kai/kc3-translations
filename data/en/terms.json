@@ -589,6 +589,7 @@
 	"ShipWarfareTorpedo"  : "Torpedo",
 	"ShipWarfareAntisub"  : "Anti-Sub",
 	"ShipWarfareAntiLand" : "Anti-Land",
+	"ShipWarfareAerial"   : "Aerial",
 	
 	"ShipAttackTypeLandingAttack" : "Landing",
 	"ShipAttackTypeRocket"        : "Rocket",
@@ -601,6 +602,8 @@
 	"ShipExtraPhaseOpeningASW"     : "OASW",
 	"ShipExtraPhaseOpeningTorpedo" : "OTorp",
 	"ShipExtraPhaseClosingTorpedo" : "CTorp",
+	"ShipExtraPhaseOpeningAirStrike" : "OAirStk",
+	"ShipExtraPhaseOpeningJetAssault" : "OJets",
 	
 	"ShipDayAttack" : "Day {0:warfareType} Power: {1:power} ({2:attackType})",
 	"ShipNightAttack" : "Night {0:warfareType} Power: {1:power} ({2:attackType})",

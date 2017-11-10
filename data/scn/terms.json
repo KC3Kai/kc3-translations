@@ -619,6 +619,7 @@
 	"ShipWarfareTorpedo"  : "雷击",
 	"ShipWarfareAntisub"  : "反潜",
 	"ShipWarfareAntiLand" : "对陆基",
+	"ShipWarfareAerial"   : "空战",
 
 	"ShipAttackTypeLandingAttack" : "登陆战",
 	"ShipAttackTypeRocket"        : "火箭炮",
@@ -631,6 +632,8 @@
 	"ShipExtraPhaseOpeningASW"     : "先制对潜",
 	"ShipExtraPhaseOpeningTorpedo" : "开幕雷击",
 	"ShipExtraPhaseClosingTorpedo" : "闭幕雷击",
+	"ShipExtraPhaseOpeningAirStrike"  : "开幕空战",
+	"ShipExtraPhaseOpeningJetAssault" : "喷气机强袭",
 
 	"ShipDayAttack"       : "昼{0}战攻击力: {1} ({2})",
 	"ShipNightAttack"     : "夜战{0}攻击力: {1} ({2})",

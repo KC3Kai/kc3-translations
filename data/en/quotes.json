@@ -53,6 +53,7 @@
         "426": "The next operational area to capture is now available.",
         "427": "Admiral, congratulations! All operational areas have been successfully captured. The operation was a success.",
         "1186": {
+            "0":"",
             "1060":"Michishio: \"Everyone, sorry for the wait!\"",
             "3590":"Arashio: \"My, my~ You're rea~lly looking forward to this.\"",
             "7980":"Asashio: \"Alright! Commander\u2014 remodeled DesDiv 8, all ships assembled!\"",
@@ -68,7 +69,7 @@
             "22670":"Michishio: \"Shigure? What's the matter with you?\"",
             "26360":"Michishio: \"You're looking pale. Do you need to lie down?\"",
             "30280":"Shigure: \"It's nothing to worry about! ...Yeah.<br />I guess the rain is getting to me.\"",
-            "35350,37758":"Shigure: \"Let's go\u2014 together.\""
+            "35350,37758":"Shigure: \"Anyway, let's go.\""
         },
         "1871": {
             "0":"Asashio: \"8th Destroyer Division\u2014<br />All-Out Sortie Mission: complete!\"",
@@ -8477,30 +8478,76 @@
         "Yasen(1)": "We chasing after them? Fleet, entering pursuit!! Let's do this!!"
     },
     "33": {
-        "Intro": "So you're the commander, huh? Well, I expect you to work very hard.",
-        "Library": "Fifth ship of the Special Type destroyers, Murakumo here. Huh? Never heard of me? You can't be serious. Don't even know a famous ship like me, who rescued Furutaka's crew, took part in the Southern Operations, and many other operations? Just how inept are you!?",
+        "Intro": {
+            "0":"So you're the commander, huh?",
+            "2000,5192":"Well, I expect you to work very hard."
+        },
+        "Library": {
+            "0":"Fifth ship of the Special Type destroyers, Murakumo here.",
+            "3530":"Huh? Never heard of me?",
+            "6000":"You can't be serious!",
+            "8550":"Don't even know a famous ship like me, who rescued Furutaka's crew, took part in the Southern Operations, and many other operations?",
+            "14980,17528":"Just how inept are you!?"
+        },
         "Poke(1)": "What are you up to?",
-        "Poke(2)": "You look restless. Are you okay?",
-        "Poke(3)": "You... I'll make you eat these oxygen torpedoes!",
-        "Idle": "You... just how are long you planning on making me wait here!? What the hell! What are you thinking? Geez... hurry it up!\u3000",
+        "Poke(2)": {
+            "0":"You're looking restless.",
+            "1910,4088":"..Are you okay?"
+        },
+        "Poke(3)": {
+            "0":"You...",
+            "1130,3684":"I'll make you eat these oxygen torpedoes!"
+        },
+        "Idle": {
+            "0":"You...",
+            "1050":"Just how are long you planning on making me wait here!?",
+            "4800":"What the hell!<br />What are you thinking?",
+            "7580":"Damn it...",
+            "8970,11252":"Hurry it up!\u3000"
+        },
         "Married": "Not bad.",
-        "Wedding": "I just want to tell you... well, I don't really dislike you, you know. I guess you can order me to do anything... you want... What are you...!? I-I didn't mean it like that!",
-        "Ranking": "It's an urgent coded transmission. You should read what it says.",
-        "Join": "Nh... heading out!",
-        "Equip(1)": "Heh. Not bad... this'll make me even more captivating.",
-        "Equip(2)": "I can fight on with this... ...W-What? I-I'm not thanking you or anything!",
+        "Wedding": {
+            "0":"I just wanted to tell you...<br />Well, I don't really dislike you, you know.",
+            "3910":"I guess... you can order me to do anything... you want...",
+            "8620,12300":"What are you...!?<br />I-I didn't mean it like that!"
+        },
+        "Ranking": {
+            "0":"It's an urgent coded transmission.",
+            "1780,4256":"You should read what it says."
+        },
+        "Join": "Nh...! I'm sortieing!",
+        "Equip(1)": {
+            "0":"",
+            "800":"Not bad...",
+            "2320,5408":"This'll make me even more captivating."
+        },
+        "Equip(2)": {
+            "0":"I can fight on with this...",
+            "2390":"...W-What?",
+            "3570,6704":"I-I'm not thanking you or anything!"
+        },
         "Equip(3)": "Not bad.",
         "Supply": "I'll take it.",
         "Docking(1)": "My clothes got a little dirty...",
-        "Docking(2)": "...! ...I can't believe I have to go into the dock... how humiliating...!!",
+        "Docking(2)": {
+            "0":"",
+            "770":"...I can't believe I have to go into the dock...",
+            "3580,6152":"How humiliating...!"
+        },
         "Construction": "Looks like the newest member of the fleet has arrived.",
-        "Return": "The operation has ended. The fleet has returned.",
+        "Return": {
+            "0":"The operation has ended.",
+            "1700,4232":"The fleet has returned."
+        },
         "Sortie": "Ha! Finally, to the front lines!",
-        "Battle": "You may now sink!",
+        "Battle": "You can just sink!",
         "Attack": "Out of the way!",
         "Yasen(1)": "Now this is where I really shine!",
         "Yasen(2)": "All you fools in my path... just sink!!!",
-        "MVP": "Well, it's only natural. ...What? Are you dissatisfied?",
+        "MVP": {
+            "0":"Well, it's only natural.",
+            "2690,5552":"...What? Are you dissatisfied?"
+        },
         "Damaged(1)": "Ngh...",
         "Damaged(2)": "Kyaa...!",
         "Damaged(3)": "N-No way... this isn't happening...",
@@ -8538,17 +8585,46 @@
         "H2300": "2300. And just like that, another day comes to an end. You did well with giving it your all today. Tomorrow... ...Tomorrow, if you want me to keep you company... it'll be fine."
     },
     "420": {
-        "Intro": "Commander... well, do your best today. I'll do what I can to help.",
-        "Poke(1)": "You... ...whatever. Ugh.",
-        "Poke(2)": "You look so restless. Honestly... Do you really have what it takes to lead us?",
-        "Married": "W-What is it!? ...Why are you giving me that look? Do you not even understand the basics? I guess I have no choice but to start training you from now on!",
-        "Ranking": "Only now do you finally want to check the intelligence? About time! Hurry up and check it.",
-        "Join": "Alright! Murakumo, heading out! Follow me!",
-        "Equip(1)": "It's not bad. I'll take it",
-        "Equip(2)": "This is great... I've been looking forward to it! I guess anyone can do it if they try.",
+        "Intro": {
+            "0":"Commander...<br />Well, do your best today.",
+            "3580,5948":"I'll do what I can to help."
+        },
+        "Poke(1)": {
+            "0":"You...",
+            "1160,4196":"...Well, whatever. Geez."
+        },
+        "Poke(2)": {
+            "0":"You look so restless. Honestly...",
+            "3020,6284":"Do you really have what it takes to lead us?"
+        },
+        "Married": {
+            "0":"W-What is it!?",
+            "1330":"Why are you giving me that look?",
+            "3600":"Do you not even understand the basics!?",
+            "6920,10940":"I guess I have no choice but to start training you from now on!"
+        },
+        "Ranking": {
+            "0":"Only now do you finally want to check the intelligence?",
+            "2360,6212":"About time!<br />Hurry up and check it."
+        },
+        "Join": {
+            "0":"Alright! Murakumo, starting the sortie!",
+            "3060,5180":"Follow me!"
+        },
+        "Equip(1)": "It's not bad.<br />I'll take it",
+        "Equip(2)": {
+            "0":"This is great... I've been looking forward to it!",
+            "3720,6452":"I guess anyone can do it if they try!"
+        },
         "Equip(3)": "That will do.",
-        "Return": "The operation has ended. The fleet has returned. Well, I'm glad everyone is safe.",
-        "Sortie": "It's finally time to demonstrate the power of my remodel in battle! Not bad at all!",
+        "Return": {
+            "0":"The operation has ended.<br />The fleet has returned.",
+            "3090,6644":"Well, I'm glad everyone is safe."
+        },
+        "Sortie": {
+            "0":"It's finally time to demonstrate the power of my remodel in battle!",
+            "4550,6956":"Not bad at all!"
+        },
         "Battle": "Vanish into the depths of the sea!",
         "Yasen(1)": "We're giving chase. They're not getting away!"
     },
@@ -11082,9 +11158,14 @@
         "Poke(3)": "Want to race? I won't lose.",
         "Married": {
             "0":"Eh? Admiral, you're tired from running?",
-            "2970,7364":"How slo~w...!<br />But still, do your best!"
+            "2970":"How slo~w...!",
+            "4380,7364":"But still, do your best!"
         },
-        "Wedding": "Admiral, did you watch me run? Well? I was fast, right? Right? Hmhmhm!",
+        "Wedding": {
+            "0":"Admiral, did you watch me run?",
+            "2760":"Well?<br />I was fast, right? Right?", 
+            "5550,7508":"Hmhmhm!"
+        },
         "Ranking": "Seems like there are messages addressed to you.",
         "Join": "Shimakaze, sortieing!",
         "Equip(1)": "Can I keep getting faster and faster?",
@@ -11094,13 +11175,19 @@
         "Docking(1)": "I want my turbines serviced, too!",
         "Docking(2)": "Rensouhou-chan needs to be fixed, too.",
         "Construction": "It looks like another ship slower than me was built.",
-        "Return": "The fleet finally came back. Slow, huh?",
+        "Return": {
+            "0":"The fleet finally came back.",
+            "1830,3480":"Slow, huh?"
+        },
         "Sortie": "Rensouhou-chan, let's go!",
         "Battle": "There's no one who can keep up with me, you know!",
         "Attack": "Shimakaze, going ahead with shelling!",
         "Yasen(1)": "I'm telling you! There's no escape from me!",
         "Yasen(2)": "Ehehe... you're too slow!",
-        "MVP": "I'm the best? Really? I knew it. After all, I'm fast!",
+        "MVP": { 
+            "0":"I'm the best? Really?",
+            "2460,5756":"I knew it. After all, I'm fast!"
+        },
         "Damaged(1)": "Hya!?",
         "Damaged(2)": "Stop it already...!",
         "Damaged(3)": "Haa... for me to get hit...",
@@ -11114,8 +11201,12 @@
         "2@Saury2017": "The saury cooks so slow! Hurry up! Come on and hurry up!"
     },
     "229": {
-        "Poke(2)": "Admiral, good morning!",
-        "Idle": "Hmm... ah. I'm just chatting with Rensouhou-chan now... *sigh*... 'cause I'm bored!",
+        "Poke(2)": "Admiral! Good morning!",
+        "Idle": {
+            "0":"Hmm...?<br />Oh...",
+            "2260":"I'm just chatting with Rensouhou-chan now...",
+            "7670,10892":"'cause I'm really bored."
+        },
         "Supply": "The resupply is slow!!",
         "Attack": "Quintuple oxygen torpedoes! Here they come...!",
         "Damaged(2)": "I went so fast that I overheated...",

@@ -146,7 +146,14 @@
         "Poke(2)": "Is there something on my face?",
         "Poke(3)": "I'd prefer it if you wouldn't touch my rigging so much.",
         "Married": "It'll be fine... I'm right here beside you.",
-        "Wedding": "What is this...? What is this vision, deep inside my memories? Ships, both friend and foe, and then that massive light... I must be exhausted... right, Admiral?",
+        "Wedding": {
+            "0":"What is this...?",
+            "1300":"What is this vision, deep inside my memories?",
+            "5470":"Ships, both friend and foe... and then...",
+            "8870":" that massive light...",
+            "11830":"I must be exhausted...",
+            "14310,17300":"Right, Admiral?"
+        },
         "Ranking": "It's a message from headquarters.",
         "Join": "Battleship Nagato, sortieing!",
         "Equip(1)": "My thanks. Now I can fight on their level.",
@@ -226,7 +233,11 @@
         "Poke(2)": "Do you need something?",
         "Poke(3)": "Like I said, be careful with that or you'll start a fire inside of me! Hey, are you listening?",
         "Married": "Since it's for you, dear, I'll do my best today as well, okay?",
-        "Wedding": "Admiral...! Why do you keep looking at my third turret? If you want to look, look over here\u2665",
+        "Wedding": {
+            "0":"Admiral...!",
+            "1210":"Why do you keep looking at my third turret?",
+            "5200,8252":"If you want to look, look over here\u2665"
+        },
         "Ranking": "There's a message for you.",
         "Join": "Battleship Mutsu, sortieing!",
         "Equip(1)": "My, it's fine. It's not like anything will happen, you know?",
@@ -274,7 +285,17 @@
         "Poke(3)": "Umm...? Are you really that interested...? Is it because there are so many secondary guns?",
         "Idle": "Mm... ah... Admiral, I apologize. Is my main battery getting in the way?",
         "Married": "Admiral, aren't you feeling a bit tired?",
-        "Wedding": "Admiral, as always, thank you so much. Even more than serving as flagship of the Combined Fleet... and more than fighting enemy battleships... it's now... this moment... that I love the most. I will... always, Admiral... at my darling's side, I shall do my best.",
+        "Wedding": {
+            "0":"Admiral, as always, thank you so much.",
+            "3400":"Even more than serving as flagship of the Combined Fleet...",
+            "6500":"More than fighting enemy battleships...",
+            "8980":"It's now...",
+            "9990":"This moment...",
+            "11580":"That I love the most.",
+            "14000":"I will...",
+            "15500":"Always, Admiral...",
+            "17820,21464":"At my darling's side, I shall do my best."
+        },
         "Ranking": "A communication from Imperial Headquarters?",
         "Join": "Battleship Yamato. The Combined Fleet is sortieing!",
         "Equip(1)": "A remodel, then? You have my thanks!",
@@ -362,7 +383,12 @@
         "Poke(3)": "Hmpf, you called me over? You want me to entertain you?",
         "Idle": "Admiral, if you're busy, you should close the browser - that's the admiral way. What? You were thinking of the next strategy? My apologies then.",
         "Married": "Admiral, you're quite the hard-worker, huh.",
-        "Wedding": "Admiral, I have confidence that I will guard you from any adversaries. Hmph... You doubt me? You sure had me taken lightly. With that said, I'll be counting on you from now on, partner.",
+        "Wedding": {
+            "0":"Admiral, I have confidence that I will guard you from any adversaries.",
+            "7410":"Hmph... You doubt me?",
+            "10810":"You sure had me taken lightly.",
+            "15070,20168":"With that said, I'll be counting on you from now on, partner."
+        },
         "Ranking": "Communication report. Listen closely.",
         "Join": "Leave this battle to me, Musashi!",
         "Equip(1)": "Hmmm, not bad.",
@@ -449,7 +475,11 @@
         "Poke(2)": "Are my turrets heavy? Not at all.",
         "Poke(3)": "Ah, sorry. Did I hit you with my turrets when I turned around?",
         "Married": "Hmm?",
-        "Wedding": "Hey, Admiral, could we talk about the positioning of the fifth gun turret? Eh? You don't get the meaning? Kuu... no good, huh...",
+        "Wedding": {
+            "0":"Hey, Admiral, could we talk about the positioning of the fifth gun turret?",
+            "7030":"Eh? You don't get the meaning?",
+            "10580,13604":"Kuu... no good, huh..."
+        },
         "Ranking": "Admiral, there is a message for you.",
         "Join": "Battleship Ise, setting forth!",
         "Equip(1)": "A~lright, I can do it with this!",
@@ -482,7 +512,13 @@
         "Poke(2)": "Well, seaplanes are just the standard, you know.",
         "Poke(3)": "The firepower of a battleship with the flight power of a light aircraft carrier... yeah, it's pretty awesome, isn't it?",
         "Married": "Isn't this nice?",
-        "Wedding": "Admiral, erm... could you please not take my catapult away... If I don't have that, I'll... Ah! You meanie!",
+        "Wedding": {
+            "0":"Admiral, erm...",
+            "2410":"Could you please not take my catapult away...",
+            "6110":"If I don't have that, I'll...",
+            "8170":"Ah!",
+            "9510,11660":"You meanie!"
+        },
         "Ranking": "Letter for the admiral.. you are probably busy, yeah?",
         "Join": "Aviation battleship 'Ise' launching!",
         "Equip(1)": "Hehe, Hyuuga's in for a surprise, isn't she?",
@@ -511,7 +547,12 @@
         "Poke(2)": "So why are you here?",
         "Poke(3)": "I wonder what we're fighting for.",
         "Married": "Well, not bad.",
-        "Wedding": "Admiral, what's with that face... you're getting all hot, too. Are you sick? Shall we lie down together?",
+        "Wedding": {
+            "0":"Admiral, what's with that face...?",
+            "3230":"You're getting all hot, too.",
+            "6220":"Are you sick?",
+            "9100,11612":"Shall we lie down together?"
+        },
         "Ranking": "Contact is here. Read or not read, that's up to you.",
         "Join": "Battleship Hyuuga, moving out.",
         "Equip(1)": "This enhancement, I wonder how it will influence our strength...",
@@ -547,7 +588,12 @@
         "Poke(2)": "Looks like the days of plain-old battleship is over.",
         "Poke(3)": "What's this \"first escort flotilla\"\u2026?",
         "Married": "Yeah... I expected that.",
-        "Wedding": "Aviation Battleship... got a nice ring to it, yeah? You get it, right? Alright... let's drink! We're not going back 'till morning!",
+        "Wedding": {
+            "0":"Aviation Battleship...",
+            "2380":"Got a nice ring to it, yeah?",
+            "4810":"You get it, right?",
+            "7400,11540":"Alright... let's drink! We're not going back 'till morning!"
+        },
         "Ranking": "Here's a letter for you... No, not from me.",
         "Join": "Fourth Carrier Division, moving out!",
         "Equip(1)": "The unlikely age of the aviation battleship, is it?",
@@ -1482,8 +1528,16 @@
         "Sortie": "The enemy's task force will definitely appear. Kaga-san and I will show you our pride as the First Division!"
     },
     "84": {
-        "Intro": "I'm Kaga, an aircraft carrier. Are you my admiral...? I will place my trust in your abilities.",
-        "Library": "I, Kaga, was built as the third ship of the Eight-Eight Fleet. Eventually, in a twist of fate, I was completed as a large aircraft carrier. Along with Akagi-san, we are the main force of the glorious First Carrier Division, with myself as flagship.",
+        "Intro": {
+            "0":"Aircraft Carrier, Kaga here.",
+            "2330":"Are you my admiral...?",
+            "5130,7988":"I will place my trust in your abilities."
+        },
+        "Library": {
+            "0":"I, Kaga, was built as the third ship of the Eight-Eight Fleet.",
+            "4900":"Eventually, in a twist of fate, I was completed as a large aircraft carrier.",
+            "12230,18788":"Along with Akagi-san, we are the main force of the glorious First Carrier Division, with myself as flagship."
+        },
         "Poke(1)": "Is there... something on my face?",
         "Poke(2)": "Do you need to consult with me? It's fine.",
         "Poke(3)": "My flight deck is delicate. Please do not touch it so much.",
@@ -3362,30 +3416,110 @@
         "H2300": "2300. Admiral, good work today as well. Let's do our best tomorrow too! Yes!"
     },
     "162": {
-        "Intro": "I'm the fleet oiler known as Kamoi.<br />Yes, I'm named after Cape Kamoi in Hokkaido.<br />I'll work to the best of my abilities.",
-        "Library": "Built to serve as a fleet oiler, Kamoi here.<br /><br />I was born in the USA, and later remodeled into a seaplane tender. I didn't feel like the Hein-style Mat seaplane recovery system was very convenient, however...<br /><br />Eventually I became a flying boat carrier and engaged in transport operations. Before the conflict, I worked alongside US ships to search for a female aviator.<br /><br />If you can remember that I'm named after Cape Kamoi in Hokkaido, I would really appreciate it, okay?",
-        "Poke(1)": "Irankarapute.",
-        "Poke(2)": "Admiral, you called for me, right? I'm here.",
-        "Poke(3)": "Admiral, what seems to be the problem? Are you worried about my load? I can move it just fine! Don't worry about me! Eh? I misunderstood?",
-        "Idle": "The Admiral looks so bus- Oh, Mizuho. It looks like another enjoyable day. What are you carrying today? ...Hmmm? I see. I wonder if I can try carrying it sometime, too. ...Ah! That seaplane is adorable. I'm jealous.",
-        "Married": "Admiral, I brought you some tea. It's Japanese Shincha. Is that okay? I can also get you some fragrant fine Black Tea. Okay, roger that. I'll get it for you right away. Ufufu\u266a",
-        "Wedding": "Well... this goes right here. And this box goes here. Eh? Admiral, what is it? This little box? It looks important. I understand! I'll make sure to put it all the way in the back. ...Eh? ...Ehhhh!? ...Iairaikere...",
-        "Ranking": "I'll go get us those documents. Please wait a moment.",
-        "Join": "Fleet oiler, Kamoi. I am setting sail! Fleet, forward!",
-        "Equip(1)": "This is nice. Iairaikere.",
-        "Equip(2)": "This is wonderful equipment. I'll take care of it.",
+        "Intro": {
+            "0":"I'm the fleet oiler known as Kamoi.",
+            "3020":"Yes, I'm named after Cape Kamoi in Hokkaido.",
+            "7910,11012":"I'll work to the best of my abilities."
+        },
+        "Library": {
+            "0":"Built to serve as a fleet oiler\u2014 Kamoi here.",
+            "3660":"I was born in the USA, and later remodeled into a seaplane tender.",
+            "9520":"I didn't feel like the Hein-style Mat seaplane recovery system was very convenient, however...",
+            "15600":"Eventually I became a flying boat carrier and engaged in transport operations.",
+            "21770":"Before the conflict, I worked alongside US ships to search for a female aviator.",
+            "28360,34628":"If you can remember that I'm named after Cape Kamoi in Hokkaido, I would really appreciate it, okay?"
+        },
+        "Poke(1)": "Irankarapute.<br />(Hello.)",
+        "Poke(2)": {
+            "0":"Admiral, you called for me, right?",
+            "2610,4196":"I'm here!"
+        },
+        "Poke(3)": {
+            "0":"Admiral, what seems to be the problem?",
+            "2990":"Are you worried about my load?",
+            "5380":"I can move it just fine!<br />Don't worry about me!",
+            "9830,12428":"...Eh? I misunderstood?"
+        },
+        "Idle": {
+            "0":"The Admiral looks so bus-",
+            "3380":"Oh, Mizuho.",
+            "5470":"It looks like another enjoyable day.",
+            "7890":"What are you carrying today?",
+            "10640":"...Hmmm? I see.",
+            "13410":"I wonder if I can try carrying it sometime, too.", 
+            "17020,22964":"...Ah! That seaplane is adorable. I'm jealous."
+        },
+        "Married": {
+            "0":"Admiral, I brought you some tea.",
+            "3180":"It's Japanese Shincha.<br />Is that okay?",
+            "7460":"I can also get you some fragrant fine Black Tea.",
+            "10650":"Okay, roger that.<br />I'll get it for you right away.",
+            "14760,16292":"Ufufu\u266a"
+        },
+        "Wedding": {
+            "0":"Well... this goes right here.",
+            "4330":"And this box goes here.",
+            "7000":"...Eh?",
+            "8220":"Admiral, what is it?",
+            "10490":"This little box?",
+            "12890":"It looks important.<br />I understand!",
+            "16040":"I'll make sure to put it all the way in the back.",
+            "20100":"...Eh?",
+            "21580":"...Ehhhh!?",
+            "24410,26948":"...Iairaikere...<br />(...Thank you so much...)"
+        },
+        "Ranking": {
+            "0":"I'll go get us those documents.",
+            "2230,4508":"Please wait a moment."
+        },
+        "Join": {
+            "0":"Fleet oiler, Kamoi.<br />I am setting sail!",
+            "3560,5880":"Fleet, forward!"
+        },
+        "Equip(1)": {
+            "0":"This is nice.",
+            "1110,3092":"Iairaikere.<br />(Thank you very much.)"
+        },
+        "Equip(2)": {
+            "0":"This is wonderful equipment.",
+            "1740,3812":"I'll take care of it."
+        },
         "Equip(3)": "Let's deliver this.",
         "Supply": "I've certainly had some.",
-        "Docking(1)": "Excuse me. I'll be withdrawing for a bit. Sorry about this.",
-        "Docking(2)": "I'm so sorry, Admiral. I'll make sure... I'll make sure to get repaired and keep working hard!",
+        "Docking(1)": {
+            "0":"Excuse me.<br />I'll be withdrawing for a bit.", 
+            "2340,4388":"Sorry about this."
+        },
+        "Docking(2)": {
+            "0":"I'm so sorry, Admiral.",
+            "2630":"I'll make sure...",
+            "4150,7940":"I'll make sure to get repaired<br />and keep working hard!"
+        },
         "Construction": "A new warship was completed, Admiral.",
-        "Return": "The fleet has returned home safely. Everyone, thanks for your hard work! *whew*",
-        "Sortie": "Everyone, are you ready? Fleet, set sail! Both sides; advance; slow ahead. Let's go!",
+        "Return": {
+            "0":"The fleet has returned home safely!",
+            "2720":"Everyone, thanks for your hard work!",
+            "5250,7004":"*whew*"
+        },
+        "Sortie": {
+            "0":"Everyone, are you ready?",
+            "2870":"Fleet, set sail!",
+            "5960":"Both sides.",
+            "6790":"Advance.",
+            "7820":"Slow ahead.",
+            "9410,11180":"...Let's go!"
+        },
         "Battle": "Eh? Th-The enemy fleet? Can't be helped. Fleet, prepare for shelling. I'll be relying on you!",
         "Attack": "Commence firing, please!",
         "Yasen(1)": "I'm no good at such long pursuits... Still, we have no other choice. Fleet, increase speed! Begin pursuit!",
         "Yasen(2)": "I won't just sit idly by and let it happen. I have no other choice!",
-        "MVP": "I did that much in the battle? Such a thing is... Did I... really? I did as much as I could, so I'm glad to hear it. Admiral, thank you\u266a",
+        "MVP": {
+            "0":"I did that much in the battle?",
+            "2360":"Such a thing is...",
+            "4860":"Did I... really?",
+            "8240":"I did as much as I could,<br />so I'm glad to hear it.",
+            "12220,15380":"Admiral, thank you\u266a"
+        },
         "Damaged(1)": "Ahh~hh! Th-The cargo... is it safe?",
         "Damaged(2)": "Ahh...! I-I can't get away! Ugh...!",
         "Damaged(3)": "Hyaa~aa! W-Water is...! Flood control! You have to hold out somehow!",
@@ -3396,10 +3530,29 @@
         "2@LateFall2017": "Admiral, what is it? Are you cold? Understood. I'll warm up your body, then. Let me bring you some nice potatoes."
     },
     "499": {
-        "Intro": "Seaplane tender, Kamoi, present.<br />Yes, my equipment may be a little old, but I'd like to do my absolute best alongside you.",
-        "Idle": "The Admiral looks busy again toda- Oh, Mizuho. You look like you're having fun. What are you equipped with today? ...Hmmm? I see. I wonder if I can try that equipment sometime, too. ...Ah! This seaplane\u2014 isn't it adorable? Ufufu\u266a",
-        "Join": "Kamoi, now setting sail! Kamoi Fleet, forward! It's a sortie!",
-        "Equip(2)": "Please leave use of the seaplanes to me as well! I'll take good care of them.",
+        "Intro": {
+            "0":"Seaplane tender, Kamoi, present.",
+            "3520,11540":"Yes, my equipment may be a little old, but I'd like to do my absolute best alongside you."
+        },
+        "Idle": {
+            "0":"The Admiral looks busy again toda-",
+            "3740":"Oh, Mizuho.",
+            "5890":"You look like you're having fun.",
+            "8070":"What are you equipped with today?",
+            "11130":"...Hmmm? I see.",
+            "13800":"I wonder if I can try that equipment sometime, too.",
+            "17610":"...Ah!<br />This seaplane? ",
+            "20290,23180":"Isn't it adorable? Ufufu\u266a"
+        },
+        "Join": {
+            "0":"Kamoi, now setting sail!",
+            "3010":"Kamoi Fleet: forward!",
+            "6080,7964":"It's a sortie!"
+        },
+        "Equip(2)": {
+            "0":"Please leave use of the seaplanes to me as well!",
+            "2810,5852":"I'll take good care of them!"
+        },
         "Battle": "It's the enemy fleet? Can't be helped. Fleet, prepare to engage! Everyone, please get ready.",
         "Attack": "Let's attack. Please begin!",
         "H0000": "It's now midnight Admiral. I'll be working hard as your secretary ship today. Would you mind?",
@@ -3428,8 +3581,16 @@
         "H2300": "It's 2300. Thank you so very much for your hard work today Admiral. Let's do our very best tomorrow too."
     },
     "500": {
-        "Intro": "I'm the remodeled Kamoi.<br />I have the combined abilities of a fleet oiler and a seaplane tender. For the sake of the Admiral and everyone in the fleet, I want to do as much as possible to help out.",
-        "Equip(2)": "Please leave use of the flying boats to me as well! I'll try to do my best!"
+        "Intro": {
+            "0":"I'm the remodeled Kamoi.",
+            "1660":"I have the combined abilities of a fleet oiler and a seaplane tender.",
+            "5790":"For the sake of the Admiral and everyone in the fleet,",
+            "8310,12164":"I want to do as much as possible to help out."
+        },
+        "Equip(2)": {
+            "0":"Please leave use of the flying boats to me as well!",
+            "2780,4820":"I'll try to do my best!"
+        }
     },
     "154": {
         "Intro": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -9274,7 +9435,7 @@
         "H1000": "It's 1000, Admiral. Ah, Amagiri-san, you shouldn't go overboard! Yes... she's usually a nice sister, but she can go too far...",
         "H1100": "It's 1100, Admiral. Oh? Ushio-chan? These rice balls are for us and the Admiral? Thank you! I'll take them. Lunch will be... ehehe\u266a Aren't you looking forward to it?",
         "H1200": "1200. It's lunch time! Admiral, Amagiri-san, let's open up the rice balls we got from Ushio-chan! Wow~ they look good\u266a I'll pour us some tea!",
-        "H1300": "It's 1300, Admiral. The rice balls were delicious\u266a Eating rice balls while overlooking the sea made them even better! I ate so many. I'll have make sure to exercise this afternoon.",
+        "H1300": "It's 1300, Admiral. The rice balls were delicious\u266a Eating rice balls while overlooking the sea made them even better! I ate so many. I'll have to make sure to exercise this afternoon.",
         "H1400": "140- Ah, Sazanami-chan! Good work out there! An expeditionary mission? Roger that. Be careful, okay? Please do your best!",
         "H1500": "It's 1500, Admiral. Let's have some tea. As our sweet for today, it's kusa mochi! Please take a look\u2014 the red bean paste looks so good! Now, I'll get the tea.",
         "H1600": "1600. Oh? Akatsuki-chan, what's wrong? Ah... yes, you certainly are. Akatsuki-chan, you're already a wonderful big sister! I'll have to try harder, too! Let's both keep at it\u266a",
@@ -11080,30 +11241,84 @@
     },
     "228": {},
     "181": {
-        "Intro": "Is a good breeze on the way?<br />The next-generation destroyer prototype\u2014<br />I, Amatsukaze, shall have my turn.",
-        "Library": "Kagerou-class destroyer, ninth ship, Amatsukaze here. I participated as the testbed of a new type of high-temperature, high-pressure boiler intended for the next generation of destroyers. When the data proved reliable, it was passed over to Shimakaze. I was in many tight spots, but I held on and overcame them. It was really tough!",
+        "Intro": {
+            "0":"Is a good breeze on the way?",
+            "2100":"The next-generation destroyer prototype\u2014",
+            "4750,8024":"I, Amatsukaze, shall have my turn."
+        },
+        "Library": {
+            "0":"Kagerou-class destroyer, ninth ship, Amatsukaze here.",
+            "4240":"I participated as the testbed of a new type of high-temperature, high-pressure boiler intended for the next generation of destroyers.",
+            "11850":"When the data proved reliable, it was passed over to Shimakaze.",
+            "15870,20700":"I was in many tight spots, but I held on and overcame them.",
+            "18750,20700":"It was really tough!"
+        },
         "Poke(1)": "Such a pleasant breeze.",
         "Poke(2)": "Just what are you planning to do?",
-        "Poke(3)": "Stop that. Don't touch my hair. You'll knock my streamers out of place.",
-        "Idle": "Eh? I'm... not bored or anything. Even after getting the data for the new boiler, I still have a lot more work to do. I-I really do!",
-        "Married": "Dear... from time to time, go take a break. Breaks are important, too... Ugh! Are you even listening? Geez...",
-        "Wedding": "You... what... is this? ...Eh!? For me...? Umm... I'm willing if you are, but... you're... really fine with it being me? ...Thank you. I'm truly grateful.",
-        "Ranking": "So how are you doing? ...Hmmmm... not too bad.",
-        "Join": "16th Destroyer Division, Amatsukaze, setting sail!",
+        "Poke(3)": {
+            "0":"Stop that.<br />Don't touch my hair.",
+            "2460,5288":"You'll knock my streamers out of place."
+        },
+        "Idle": {
+            "0":"Eh? I'm... not bored or anything.",
+            "4080":"Even after getting the data for the new boiler,",
+            "6220":"I still have a lot more work to do.",
+            "8500,11168":"I-I really do!"
+        },
+        "Married": {
+            "0":"Dear...",
+            "1390":"From time to time, go take a break.",
+            "3890":"Breaks are important, too...",
+            "6760":"Ugh! Are you even listening!?",
+            "8970,11168":"Geez..."
+        },
+        "Wedding": {
+            "0":"You...<br />What... is this?",
+            "4060":"...Eh!?",
+            "5290":"For me...?",
+            "7280":"Umm...",
+            "8920":"I'm willing if you are, but...",
+            "12560":"You're...",
+            "14170":"You're really fine with it being me?",
+            "17830":"...Thank you.",
+            "19980,22664":"I'm truly grateful."
+        },
+        "Ranking": {
+            "0":"So how are you doing?",
+            "2180":"...Hmmmm...",
+            "3840,5960":"Not too bad."
+        },
+        "Join": "16th Destroyer Division,<br />Amatsukaze, setting sail!",
         "Equip(1)": "Oh... isn't that nice?",
         "Equip(2)": "My Rensouhou-kun is the cutest one, don't you think?",
         "Equip(3)": "A pleasant breeze...",
-        "Supply": "Thank you. I'll have some.",
-        "Docking(1)": "*whew* I'm worn out. May I head back?",
-        "Docking(2)": "Bathtime, bathtime, I say! I don't want to smell all sweaty.",
-        "Construction": "A new girl has arrived, it seems. ...That's good.",
-        "Return": "The fleet has returned. Good work.",
-        "Sortie": "I'm not a member of DesRon 2 for nothing. Yukikaze, come along, now.",
+        "Supply": "Thank you.<br />I'll have some.",
+        "Docking(1)": {
+            "0":"*whew* I'm worn out.",
+            "2230,4424":"May I head back?"
+        },
+        "Docking(2)": {
+            "0":"Bathtime, bathtime, I say!",
+            "1360,3896":"I don't want to smell all sweaty."
+        },
+        "Construction": {
+            "0":"A new girl has arrived, it seems.",
+            "2060,3968":"That's good."
+        },
+        "Return": "The fleet has returned.<br />Good work.",
+        "Sortie": {
+            "0":"I'm not a member of DesRon 2 for nothing.",
+            "2140,5408":"Yukikaze, come along, now."
+        },
         "Battle": "This wind is good... Commence firing!",
         "Attack": "I won't let you escape!",
         "Yasen(1)": "Didn't I say I wouldn't let you escape?",
         "Yasen(2)": "It'll be fine... the wind is in our favor!",
-        "MVP": "Me...? I'm the ship who accomplished the most? My, that's amazing! Tokitsukaze, how about that?",
+        "MVP": {
+            "0":"Me...?<br />I'm the ship who accomplished the most?",
+            "3450":"Oh, that's amazing!",
+            "5310,8480":"Tokitsukaze, how about that?"
+        },
         "Damaged(1)": "Hya!",
         "Damaged(2)": "Now... now you've done it!",
         "Damaged(3)": "Ahh... the bow and the first gun turret...! But... I'm not ready to sink just yet!",
@@ -11218,30 +11433,92 @@
         "Damaged(3)": "Augh! That really hurts!"
     },
     "186": {
-        "Intro": "Kagerou-class destroyer, tenth ship.<br />Tokitsukaze... ...has appeared.",
-        "Library": "Tenth Kagerou-class destroyer\u2014 it's Tokitsukaze!<br /><br />Yukikaze, Hatsukaze, Amatsukaze and I formed the 16th Destroyer Divison. We were friends who did lots of hard work, you know. I was also in the Second Torpedo Squadron, you know\u266a Really, really.<br /><br />But... not having control over the seas is... kinda not so nice...",
-        "Poke(1)": "This breeze... how is it?",
-        "Poke(2)": "Huuh? What, what? What you wanna do...?",
-        "Poke(3)": "What, Yukikaze? Stop it\u266a ...Huh? ...What the... Commander. What are you doing? I'll hit you.",
-        "Idle": "Commander! ...Commaanderrr! ...Commaaanderrr! Hey! Hey, can't you hear me? Heyyy!",
-        "Married": "Commander! Have you seen Yukikaze? Oh, I see... Then, you're fine, too! Hey~ Hey~",
-        "Wedding": "Commander, what's up? Are you looking for Hatsukaze? You're not? Amatsukaze? That's wrong, too? Then, who? ...Eh? ...M-Me!? W-Why!? Well... Well...<br /><br />...Thank you... ... ...!",
-        "Ranking": "Commander, looking at the records? Let me see real quick\u266a",
+        "Intro": {
+            "0":"Kagerou-class destroyer, tenth ship.",
+            "2660":"Tokitsukaze...",
+            "4270,5997":"...has appeared."
+        },
+        "Library": {
+            "0":"Tenth Kagerou-class destroyer...",
+            "1850":"It's Tokitsukaze!",
+            "3850":"Yukikaze, Hatsukaze, Amatsukaze and I formed the 16th Destroyer Divison.",
+            "9950":"We were friends who did lots of hard work, you know.",
+            "12840":"I was also in the Second Torpedo Squadron, you know\u266a Really, really.",
+            "16400,24835":"But... not having control over the seas is... kinda not so nice..."
+        },
+        "Poke(1)": {
+            "0":"This breeze...",
+            "1260,3428":"How is it?"
+        },
+        "Poke(2)": {
+            "0":"Huuh? What, what?",
+            "2780,5324":"What you wanna do...?"
+        },
+        "Poke(3)": {
+            "0":"What, Yukikaze? Stop it\u266a",
+            "3780":"...Huh?",
+            "5260":"...What the...",
+            "6990":"Commander.",
+            "8340":"What are you doing?",
+            "10350,12212":"I'll hit you."
+        },
+        "Idle": {
+            "0":"Commander!",
+            "2240":"Commaanderrr!",
+            "4410":"COMMAANDERRR!",
+            "6380":"HEY!",
+            "8320":"Hey, can't you hear me?",
+            "11840,14684":"Heyyy!"
+        },
+        "Married": {
+            "0":"Commander!<br />Have you seen Yukikaze?",
+            "3420":"Oh, I see...",
+            "5850":"Then, you're fine, too!",
+            "8450,11588":"Hey~\u266a Heey~\u266a"
+        },
+        "Wedding": {
+            "0":"Commander! What's up?",
+            "2580":"Are you looking for Hatsukaze?",
+            "5230":"You're not?",
+            "6660":"...Amatsukaze?",
+            "8460":"That's wrong, too?",
+            "11280":"Then, who?",
+            "13230":"...Eh?",
+            "14640":"...M-Me!?",
+            "17140":"W-Why!?",
+            "18730":"Well... Well...",
+            "22660":"...Thank you...",
+            "24380,25988":"...!"
+        },
+        "Ranking": {
+            "0":"Commander! Looking at the records?",
+            "3110,6020":"Let me see real quick\u266a"
+        },
         "Join": "Ready? Yukikaze, I'm going on ahead!",
         "Equip(1)": "Yay! Thanks a lot.",
         "Equip(2)": "Hmhm\u266a I'm happy, happy!",
         "Equip(3)": "*nod nod* Mhm, mhm!",
         "Supply": "I'm happy, happy. Thanks!",
         "Docking(1)": "*sigh* I'm gonna clean up a bit.",
-        "Docking(2)": "Gonna soak in the bath~<br />Soorry-",
-        "Construction": "Commander, they said a new ship is ready.",
-        "Return": "*sigh* Tired, tired... The fleet came back~",
+        "Docking(2)": {
+            "0":"Gonna soak in the bath~",
+            "2180,4532":"Soorry."
+        },
+        "Construction": "Commander! They said a new ship is ready.",
+        "Return": {
+            "0":"*sigh* Tired, tired...",
+            "3160,6068":"The fleet came back~"
+        },
         "Sortie": "I guess it's finally the 16th Destroyer Division's turn!",
         "Battle": "Well~ how about I get started!",
         "Attack": "Commence firing!",
         "Yasen(1)": "16th Destroyer Division, charging in!",
         "Yasen(2)": "Now, I'll hit you!",
-        "MVP": "*nod nod* So I was the best, huh? That's pretty good. Pretty good!",
+        "MVP": {
+            "0":"*nod nod*<br />So I was the best, huh?",
+            "3620":"That's pretty good.",
+            "4900,6884":"Pretty good!"
+        },
         "Damaged(1)": "No way! Ugh...",
         "Damaged(2)": "I couldn't dodge- Ow, ow...",
         "Damaged(3)": "I hate unreasonable operations... I really hate them...",
@@ -11260,7 +11537,7 @@
         "H0000": "Commaander! It's midnight now! Ummm~? ...Commaander? What are you doing?",
         "H0100": "0100! Commaander, what are you doing in the middle of the niight? Let me see it, too!",
         "H0200": "0200. Commander, keeping secrets from me isn't good! Not gooood!",
-        "H0300": "0300! Fighting with the commander is really tiring... To think he's hiding it all the way to the end...",
+        "H0300": "0300! Fighting with the commander is really tiring... To think he'd hide it all the way to the end...",
         "H0400": "0400! Well, whatever. I'll look for it with Yukikaze and the others later, when the commander is asleep.",
         "H0500": "05~00. Commander, it's morning! Totally, totally morning!",
         "H0600": "0600! Commander, make me breakfast~ ...Eh, you can't? Liar. That's dumb.",
@@ -11277,7 +11554,7 @@
         "H1700": "1700! Commander! Sunset, sunset. Isn't this time of day nice? I kinda like it.",
         "H1800": "1800. Yay! It's time for dinner! Commander, where you wanna go eat? Heey\u266a",
         "H1900": "1900! Eh? You're gonna make it? Will it be okay...? Want some help?",
-        "H2000": "2000. Ah\u266a This dinner you made... it's really good! Make it again tomorrow!",
+        "H2000": "2000. Ah\u266a This dinner you made... It's really good! Make it again tomorrow!",
         "H2100": "2100. I'm gonna go to Yukikaze's place for a while. Nah, it's just to hang out.",
         "H2200": "Commander, it's 2200 now. It's already night out... Already sleeping...",
         "H2300": "230... 0... ...I'm fine! I'mOnTimeAnnouncementDuty! NotGonnaSleep! Probably!"

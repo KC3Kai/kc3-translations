@@ -1417,11 +1417,32 @@
         "H2300": "It's eleven o'clock now. Admiral, thank you for your hard work today. Sweet dreams."
     },
     "511": {
-        "Intro": "So you're the admiral?<br />Hmph... I'm the first ship of the Gangut-class, Gangut.<br />That's a good look on your face. Very well.",
-        "Library": "The triple gun mount-equipped Russian dreadnought-class battleship\u2014 first ship of the Gangut-class.<br /><br />After the revolution, I was renamed the Oktyabrskaya Revolutsiya, but after my current remodel, it was changed back to Gangut. I fought in the Winter War as well as that Great War. I contributed greatly to victory with ground support, and was decorated for my efforts.<br /><br />I shall contribute to this war as well. You can just leave this to me!<br />",
+        "Intro": {
+            "0":"So you're the admiral?",
+            "2070":"Hmph... I'm the first ship of the Gangut-class, Gangut.",
+            "7300":"That's a good look on your face.",
+            "9530,11204":"Very well."
+        },
+        "Library": {
+            "0":"The triple gun mount-equipped Russian dreadnought-class battleship\u2014 first ship of the Gangut-class.",
+            "5900":"After the revolution, I was renamed the Oktyabrskaya Revolutsiya, but after my current remodel, it was changed back to Gangut.",
+            "14810":"I fought in the Winter War as well as that Great War.",
+            "19770":"I contributed greatly to victory with ground support, and was decorated for my efforts.",
+            "25210":"I shall contribute to this war as well.",
+            "28730,31100":"You can just leave this to me!"
+        },
         "Poke(1)": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435.",
-        "Poke(2)": "Fine, then. I'm moving out. Entrust this to me.",
-        "Poke(3)": "You. You're being awfully familiar. I would have you placed in front of a firing squad for this. Well, whatever. Cultural interaction is important, huh? There will be no next time. Remember that.",
+        "Poke(2)": {
+            "0":"Fine, then. I'm moving out.",
+            "2330,4292":"Entrust this to me."
+        },
+        "Poke(3)": {
+            "0":"You. You're being awfully familiar.",
+            "2970":"I would have you placed in front of a firing squad for this.",
+            "5940":"Well, whatever.<br />Cultural interaction is important, huh?",
+            "10640":"There will be no next time.",
+            "12560,14420":"Remember that."
+        },
         "Idle": "You... Y... Hmph... You seem rather busy. Can't be helped. I shall organize the medals I received back in the old days. The October Revolution... Heh. How nostalgic. \"Comrade.\" The true meaning of this word... I think... I finally understand it.",
         "Wedding": {
             "0":"You. What is it?",
@@ -2796,7 +2817,7 @@
     },
     "393": {
         "Intro": {
-            "0":"Her Majesty's\u2014 as well as your ship\u2014 Ark Royal.",
+            "0":"Her Majesty's\u2014 and also, your ship\u2014 Ark Royal.",
             "4930":"Sortie preparations are in order.",
             "7500,11208":"Admiral... I'm relying on you again today."
         },
@@ -2807,22 +2828,22 @@
         "Battle": "I've found them! They won't get away! Ark Royal Bomber Squadron, begin takeoff!",
         "H0000": "Admiral. That's right, I'll be in charge of this today. Oh? What is it? Don't tell me you're unhappy with that?",
         "H0100": "It's 1. ...What?",
-        "H0200": "It's 2. What!? Could it be that something about this leaves you dissatisified?",
+        "H0200": "It's 2. ...What!? Could it be that something about this leaves you dissatisified?",
         "H0300": "It's 3. So I see. That's fine, then. Sorry. I should not have doubted you, Admiral. So that was it...",
         "H0400": "It's 4. So it's almost morning. I'll put on some black tea. Are you fine with Darjeeling? Alright.",
         "H0500": "Good morning, Admiral. It's 5. I don't really like mornings, but... the mornings here are nice.",
         "H0600": "It's 6. Good morning! ...The fleet? All hands, arise! Alright, I've got it now.",
         "H0700": "It's 7. Breakfast is toast with mushrooms, tomatoes and baked beans, hashed brown with black pudding, and... How would you like your eggs?",
         "H0800": "It's 8. Alright, it's almost time to begin fleet sortie preparations, right? ...Oh...? W- ...W-Wait... That's....",
-        "H0900": "It's 9. Admiral! There's big trouble! Isn't that a U-boat!? It's dangerous! Fleet, prepare for anti-sub combat! My planes, begin evacuation procedures at once!",
+        "H0900": "It's 9. Admiral! There's big trouble! Isn't that a U-boat!? It's dangerous! Fleet, prepare for anti-sub combat! My planes are to begin evacuation procedures at once!",
         "H1000": "It's 10. ...What...? ...I'm wrong? ...I-type? It's a friendly I-type submarine, you say? I... I see. Now that you mention it, I do see the difference. So... So that's it...",
         "H1100": "It's 11! Wait a minute, what about her? Isn't she a U- ...What? She's a Ro-type from our fleet, you say? What... on earth...?",
         "H1200": "It is noon. I've worked up an appetite after all the little surprises around every corner. No, it's fine. I brought some sandwiches along just for this occasion. Warspite made them. Come on, let's eat!",
-        "H1300": "It's 1. Were the sandwiches delicious? That Warspite is pretty skilled with her hands. Is that so? Alright, I'll ask her to do it again next time.",
-        "H1400": "It's 2. Isn't that...? Isn't that Bismarck!? Did she also come here to join up with us? So she's an ally! Oi, oiii~! ...Ah! Why's she running away!? Wait!",
+        "H1300": "It's 1. Weren't the sandwiches delicious? That Warspite is pretty skilled with her hands. Is that so? Alright, I'll ask her to do it again next time.",
+        "H1400": "It's 2. Isn't that...? Isn't that Bismarck!? Did she also come here to join up with us? So she's an ally! Oi! Oiii~! ...Ah! Why is she running away!? Wait!",
         "H1500": "It's 3. Oi, Bismarck. Why are you running away? I've no choice\u2014 Swordfish Squadron, take off! Stop her in her tracks! Go on!",
         "H1600": "It's 4... She got away this time. That Kraut... I just wanted to ask her in person to be my accompanying ship. How rude... Well, fine.",
-        "H1700": "It's 5. The sunset, huh? I like the sunsets here. Sunsets in the Mediterrenean were very beautiful... However... even here... they're beautiful.",
+        "H1700": "It's 5. The sunset, huh? I like the sunsets here. Sunsets in the Mediterranean were very beautiful... However... even here... they're beautiful.",
         "H1800": "It's 6. Actually, Hiryuu and Souryuu invited me out for dinner this evening. Let's go together. It seems to be a pub. If I recall, it was \"Mamiya\".",
         "H1900": "It'sh 7. Thish ish delishious! Shoryhuu, what dish ish thish? Chicken? Ohhh, so it's turkey. Ohhh... ...And this is? Curry? Ah, Indian food?",
         "H2000": "It'sh 8. Hiryhuu, evehn if it'sh delishioush, arhen't yhou eatihng a biht too much? Oh... ...This isn't a problem since you get so much exercise? Is that so? That's great!",
@@ -3900,7 +3921,7 @@
         "Married": {
             "0":"Admiral, I brought you some tea.",
             "3180":"It's Japanese Shincha.<br />Is that okay?",
-            "7460":"I can also get you some fragrant fine black tea.",
+            "7460":"I can also get you some fine fragrant black tea.",
             "10650":"Okay, roger that.<br />I'll get it for you right away.",
             "14760,16292":"Ufufu\u266a"
         },
@@ -4039,7 +4060,7 @@
             "0":"Please leave use of the flying boats to me as well!",
             "2780,4820":"I'll try to do my best!"
         },
-        "H1400": "140- ...Ah, Mikura-san! It's good to see you! You're right, we definitely need to go together again. Sure."
+        "H1400": "140- ...Ah, Mikura-san! It's good to see you! You're right, we definitely need to go together again. Sure!"
     },
     "154": {
         "Intro": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -5070,33 +5091,27 @@
         },
         "Poke(1)": "Guten morgen...",
         "Poke(2)": {
-            "0":"I understand...",
-            "1030":"This is... the greeting of this fleet, right?",
+            "0":"I understand... This is... the greeting of this fleet, right?",
             "5040,7376":"...It's so different."
         },
         "Poke(3)": {
             "0":"\"When in Rome, do as the Romans do,\" they say, but...",
-            "5020":"Well...",
-            "6630,10112":"What should I do...?"
+            "5020":"Well...<br />What should I do...?"
         },
         "Idle": {
             "0":"Is Yuu... doing things wrong...?",
-            "3450":"Is this okay...?",
-            "5960":"I'm nervous...",
+            "3450":"Is this okay...?<br />I'm nervous...",
             "7750,11072":"Can I do this... properly...?"
         },
         "Married": {
             "0":"(A-Admiral-)",
             "1420":"...No, I mean...",
-            "3020":"Um...",
-            "4820":"Admiral...",
-            "6500":"As always...",
-            "7730":"Thank you...",
+            "3020":"Um...<br />Admiral...",
+            "6500":"As always...<br />Thank you...",
             "9340,11000":"Desu..."
         },
         "Wedding": {
-            "0":"Admiral...",
-            "1540":"What is it...?",
+            "0":"Admiral...<br />What is it...?",
             "4730":"This ring is... for Yuu...?",
             "8830":"...Da... danke...",
             "11620":"T-That is...",
@@ -5112,8 +5127,7 @@
             "1740,4304":"Okay...<br />Danke."
         },
         "Equip(2)": {
-            "0":"Danke...",
-            "1220":"Thank you...",
+            "0":"Danke...<br />Thank you...",
             "3210,5288":"Was that right?"
         },
         "Equip(3)": {
@@ -5138,8 +5152,7 @@
         "Yasen(2)": "There's so many... ...So many...",
         "MVP": {
             "0":"Yuu was the best...?",
-            "2620":"...Danke.",
-            "4040":"...I understand.",
+            "2620":"..Danke.<br />...I understand.",
             "5860,8672":"...I'll try even harder."
         },
         "Damaged(1)": "Ah!? ...Ouch...",

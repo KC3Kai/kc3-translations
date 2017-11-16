@@ -313,7 +313,7 @@
 	"SettingsBattleStamp" : "舰娘疲劳值",
 	"SettingsBossComp" : "Boss配置",
 	"SettingsSaltyShip" : "KC3改 Salt Treatment",
-	"SettingsYasenTroll" : "显示KC3改的嘲讽(英语)",
+	"SettingsYasenTroll" : "显示KC3改的吐槽(英语)",
 	"SettingsHQDelta" : "出击时提督经验经验值变化",
 	"SettingsBlinkGauge" : "在斩杀阶段闪烁Boss血槽",
 	"SettingsFleetStatus" : "舰队状态概览",
@@ -330,6 +330,8 @@
 	"SettingsShipStatsAll" : "(装备加成除外值) 当前值 +距离最大的剩余值",
 	"SettingsDamagedShipIcon" : "舰娘中破大破头像",
 	"SettingsSeasonalShipIcon" : "舰娘限定头像",
+	"SettingsCheckNewShipFromDex" : "从舰娘图鉴判断是否新船",
+	"SettingsCheckNewShipFromDexTip" : "注意为了取得数据，需要最少查看过游戏中图鉴左边的每一页一次。如果禁用该项，掉落或建造时的新船高亮就只会从当前玩家所持有的船来判断。过去强化用掉、拆掉或沉过的船仍会认为是新船。",
 
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
@@ -619,6 +621,7 @@
 	"ShipWarfareTorpedo"  : "雷击",
 	"ShipWarfareAntisub"  : "反潜",
 	"ShipWarfareAntiLand" : "对陆基",
+	"ShipWarfareAerial"   : "空战",
 
 	"ShipAttackTypeLandingAttack" : "登陆战",
 	"ShipAttackTypeRocket"        : "火箭炮",
@@ -631,6 +634,8 @@
 	"ShipExtraPhaseOpeningASW"     : "先制对潜",
 	"ShipExtraPhaseOpeningTorpedo" : "开幕雷击",
 	"ShipExtraPhaseClosingTorpedo" : "闭幕雷击",
+	"ShipExtraPhaseOpeningAirStrike"  : "开幕空战",
+	"ShipExtraPhaseOpeningJetAssault" : "喷气机强袭",
 
 	"ShipDayAttack"       : "昼{0}战攻击力: {1} ({2})",
 	"ShipNightAttack"     : "夜战{0}攻击力: {1} ({2})",

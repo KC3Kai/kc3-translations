@@ -271,6 +271,8 @@
 	"SettingsShipStatsAll" : "ปัจจุบัน (ไม่รวมอุปกรณ์) +อัพเกรดได้",
 	"SettingsDamagedShipIcon" : "ไอคอนรูปเรือเสียหาย",
 	"SettingsSeasonalShipIcon" : "ไอคอนรูปเรือตามเทศกาล",
+	"SettingsCheckNewShipFromDex" : "ตรวจสอบเรือใหม่จากแกลลอรี่",
+	"SettingsCheckNewShipFromDexTip" : "หากต้องการตรวจสอบเรือใหม่จากแกลลอรี่ ต้องทำการเข้าหน้าแกลลอรี่รูปเรือทุกหน้า เพื่อเก็บข้อมูลเรือที่เคยมีแล้ว หากไม่ทำเช่นนั้น เรือที่ไม่มีในกองเรือแต่เคยได้มาแล้ว แต่ปัจจุบันไม่มีในกองเรือเนื่องจากถูกแยกส่วน อัพเกรด หรือจมไปแล้ว จะขึ้นว่าเป็นเรือใหม่เสมอ",
 
 	"SettingsFormulas" : "สูตรคำนวน",
 	"SettingsELosFormula" : "สูตรคำนวนค่าค้นหา (LoS)",
@@ -589,10 +591,13 @@
 	"ShipWarfareTorpedo"  : "ตอร์ปิโด",
 	"ShipWarfareAntisub"  : "ต่อต้านเรือดำน้ำ",
 	"ShipWarfareAntiLand" : "ต่อต้านภาคพื้น",
+	"ShipWarfareAerial"   : "รบน่านฟ้า",
 
 	"ShipExtraPhaseOpeningASW"     : "ตีดำน้ำก่อน",
 	"ShipExtraPhaseOpeningTorpedo" : "ตอร์เปิด",
 	"ShipExtraPhaseClosingTorpedo" : "ตอร์ปิด",
+	"ShipExtraPhaseOpeningAirStrike" : "เปิดน่านฟ้า",
+	"ShipExtraPhaseOpeningJetAssault" : "เครื่องบินเจ็ท",
 
 	"ShipAttackTypeLandingAttack" : "ฐานทัพ",
 	"ShipAttackTypeRocket"        : "จรวด",
@@ -644,7 +649,7 @@
 	"PanelBattleConsumes" : "ต้องใช้\n\u2003ด่านปกติ - น้ำมัน: {0:fuel}, กระสุน: {1:dayAmmo} (รบกลางคืน: {2:incNightAmmo})\n\u2003รบน่านฟ้า - น้ำมัน: {3:airRaidFuel}, กระสุน: {4:airRaidAmmo}",
 	"PanelConsumedSteel" : "\u2003ต้องใช้ เหล็ก: {0}",
 	"PanelLbasSortieCosts" : "ฐานทัพต้องใช้\n\u2003น้ำมัน: {0}, กระสุน: {1}",
-	"PanelTransportPoints" : "ระดับ A ~ S ได้แต้ม TP {0:rankA} ~ {1:rankS}",
+	"PanelTransportPoints" : "แต้ม TP ระดับ A ได้ {0:rankA} ระดับ S ได้ {1:rankS}",
 	"PanelSupportExpCosts" : "กองเรือสนับสนุน: {0}\n ใช้ยุทธปัจจัย \n\u2003 น้ำมัน: {1}, กระสุน: {2}",
 	"PanelAirContactTip" : "สำหรับ {0:airControl}:\n\u2003 โอกาสติดต่อสำเร็จ: {1}%\n\u2003 โอกาสติดทริคเกอร์ : {2}%\n\u2003 โอกาสล้มเหลว: {3}%{4:contactPlanes}",
 	"PanelAirContactPlanes" : "\nลำดับความสำคัญของเครื่องบิน {0}:\n{1:planeRateList}",

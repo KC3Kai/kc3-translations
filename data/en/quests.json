@@ -2261,10 +2261,28 @@
         "name": "Preparation for Large Ship Construction! (Part 1)",
         "desc": "Complete 4 successful modernizations."
     },
-    "705": {
-        "code": "G5",
-        "name": "Flight Rigging Modernization",
-        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    }
+  "705": {
+    "code": "G5",
+    "name": "Flight Rigging Modernization",
+    "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
+    "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
+  },
+
+  "188": {
+    "code": "",
+    "name": "All ships of \"Nishimura Fleet\", Prepare for Sortie!",
+    "desc": "Set Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo and Shigure on the 3rd Fleet."
+  },
+
+  "672": {
+    "code": "",
+    "name": "Formation of the Striking Force Fleet Command Facility",
+    "desc": "Equip \"Fleet Command Facility\" on the first slot of your secretary ship. Scrap 3 RADAR equipments, prepare 10 dev material, 2000 steel and 2 Action Reports."
+  },
+
+  "872": {
+    "code": "",
+    "name": "Secure the Supply Line for \"Operation Sho-go\"",
+    "desc": "Sortie to E-2 and defeat the enemy attempting to attack the supply line in the area multiple times."
+  }
 }

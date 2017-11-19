@@ -659,7 +659,8 @@
         "2@YearsEnd": "Yamashiro, the year is ending. It is cleaning season. Let us polish our main guns thoroughly and welcome the new year.",
         "2@WhiteDay": "Admiral, is that the return gift for the chocolate? I'm so happy! Uh...Yamashiro, is something wrong?",
         "2@Kessen": "It's time for the decisive battle, Yamashiro. It's time for us Fusou-class sisters to step onto the grand stage. Let's do our best.",
-        "4@Kessen": "It's fine, Shigure. The seven of us in the 3rd Squadron will pass through Surigao Strait together! For sure this time."
+        "4@KessenReal": "It's fine, Shigure. The seven of us in the 3rd Squadron will pass through Surigao Strait together! For sure this time.",
+        "4@Kessen": "Roger. The Second Division will give everything it has while attached to the Southern Force's 1st Strike Group. Tonight, we'll slip through the Surigao Strait and try to break through to Leyte."
     },
     "286": {
         "Idle": "Um... Admiral? I wonder if I wasn't heard... Admiral? Admiraal? ...Oh my, that's a relief. Fusou, waiting here on stand by.",
@@ -716,7 +717,8 @@
         "2@YearsEnd": "Nee-sama, I understand! We shall clean. Haaa... There's so much dust in the turret... How dreadful...",
         "2@WhiteDay": "Nee-sama! Yamashiro baked some cookies for you. Ah? What is, it? Ah\u2026",
         "2@Kessen": "The time for the Fusou-class to show their worth is finally here. I'll do my best, nee-sama. Fufufufu....",
-        "4@Kessen": "Nee-sama? Hmm, Michishio? Ah, yeah, leave the little ones to me. Eh? Ufun. Cheeky. Protect nee-sama."
+        "4@Kessen": "Nee-sama? Hmm, Michishio? Ah, yeah, leave the little ones to me. Eh? Ufun. Cheeky. Protect nee-sama.",
+        "4@Surigao": "Got it, nee-sama. The Second Division, 1st Strike Group and Southern Force all will get through Surigao and break into Leyte. Let's go."
     },
     "287": {
         "Idle": "What...? You're saying Nee-sama and I can't go out to that part of the ocean anymore...? What do you mean by that? How dreadful... from the very start...!",
@@ -10699,7 +10701,10 @@
         "4@LateFall2017": "That's right, I need to keep moving forwards. There's always a ray of light... I'm... Thank you, Admiral. Hm, I see. Alright, then.",
         "2@Kessen": "This season is... No, it's a nice rain, Admiral.",
         "3@Kessen": "Michishio... I see, that's good. Let's get ready together. Yeah.",
-        "4@Kessen": "Fusou, Yamashiro, be careful. Don't let your guard down even though this is a large force. I'll... I'll protect you with all my strength."
+        "4@Kessen": "Fusou, Yamashiro, be careful. Don't let your guard down even though this is a large force. I'll... I'll protect you with all my strength.",
+        "2@Surigao": "Admiral, everyone...let's go.",
+        "3@Surigao": "That strait is...no, it's nothing, nevermind. Let's go. Of course, I'll be coming along as well.",
+        "4@Surigao": "Roger, Michishio, everyone, let's do this without any regrets. Straits are always subject to constant Air Raids these days though, so be on guard."
     },
     "243": {},
     "145": {
@@ -13298,7 +13303,10 @@
         "2@Summer2017": "Oh, a summer festival? I'll definitely go. Got to put on a yukata. Hmmm, let's see here... Hmmm... Ummm... Like this... A-Asashimo, I-I definitely need your help! ...Is it fine now?",
         "2@LateFall2017": "What is it, Commander? Did you call me? I'm just about to go out in a while.",
         "3@LateFall2017": "I'm definitely well dressed when I go out! But since it's getting colder, I guess... I'll need to wear a coat.",
-        "4@LateFall2017": "Aah, jeez, really. I'm really busy during autumn! Ah, Choukai-san? Yes, I'll definitely return. I'm 100% sure I will."
+        "4@LateFall2017": "Aah, jeez, really. I'm really busy during autumn! Ah, Choukai-san? Yes, I'll definitely return. I'm 100% sure I will.",
+        "2@Surigao": "Huh? Did you call me, commander? If you didn't notice, I've been very seriously busy making all sorts of preparations.",
+        "3@Surigao": "Ugh, jeez. Right now I'm really busy. Tch.",
+        "4@Surigao": "That's right; I'm getting ready to sortie. I'm preparing for Operation Sho-Go 1. Eh? \"Good luck\"? I said I'm not done getting ready yet. Tch!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",

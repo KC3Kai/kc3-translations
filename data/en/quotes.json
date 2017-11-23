@@ -660,7 +660,10 @@
         "2@WhiteDay": "Admiral, is that the return gift for the chocolate? I'm so happy! Uh...Yamashiro, is something wrong?",
         "2@Kessen": "It's time for the decisive battle, Yamashiro. It's time for us Fusou-class sisters to step onto the grand stage. Let's do our best.",
         "4@KessenReal": "It's fine, Shigure. The seven of us in the 3rd Squadron will pass through Surigao Strait together! For sure this time.",
-        "4@Kessen": "Roger. The Second Division will give everything it has while attached to the Southern Force's 1st Strike Group. Tonight, we'll slip through the Surigao Strait and try to break through to Leyte."
+        "4@Kessen": "Roger. The Second Division will give everything it has while attached to the Southern Force's 1st Strike Group. Tonight, we'll slip through the Surigao Strait and try to break through to Leyte.",
+        "13@Surigao": "We'll break through Surigao Strait and charge into Leyte! 1st Strike Force of the Southern Force, sortie!",
+        "17@Surigao": "The 2nd Squadron will break through! Fire!",
+        "19@Surigao": "Aaaaah! Y-you have to break through, Yamashiro."
     },
     "286": {
         "Idle": "Um... Admiral? I wonder if I wasn't heard... Admiral? Admiraal? ...Oh my, that's a relief. Fusou, waiting here on stand by.",
@@ -718,7 +721,11 @@
         "2@WhiteDay": "Nee-sama! Yamashiro baked some cookies for you. Ah? What is, it? Ah\u2026",
         "2@Kessen": "The time for the Fusou-class to show their worth is finally here. I'll do my best, nee-sama. Fufufufu....",
         "4@Kessen": "Nee-sama? Hmm, Michishio? Ah, yeah, leave the little ones to me. Eh? Ufun. Cheeky. Protect nee-sama.",
-        "4@Surigao": "Got it, nee-sama. The Second Division, 1st Strike Group and Southern Force all will get through Surigao and break into Leyte. Let's go."
+        "4@Surigao": "Got it, nee-sama. The Second Division, 1st Strike Group and Southern Force all will get through Surigao and break into Leyte. Let's go.",
+        "13@Surigao": "Roger, nee-sama. Flagship of the 2nd Squadron Yamashiro, 1st Strike Force of the Southern Force... Fufufu... fufufufu... Setting sail!",
+        "14@Surigao": "Ready to go, Shigure? I'm counting on you. We, the Southern Force of the Nishimura Fleet, are sortieing!",
+        "17@Surigao": "GET OUT OF MY WAY!",
+        "19@Surigao": "Nee-sama! Tch... I'll... I'll keep moving forwards!"
     },
     "287": {
         "Idle": "What...? You're saying Nee-sama and I can't go out to that part of the ocean anymore...? What do you mean by that? How dreadful... from the very start...!",
@@ -10704,7 +10711,10 @@
         "4@Kessen": "Fusou, Yamashiro, be careful. Don't let your guard down even though this is a large force. I'll... I'll protect you with all my strength.",
         "2@Surigao": "Admiral, everyone...let's go.",
         "3@Surigao": "That strait is...no, it's nothing, nevermind. Let's go. Of course, I'll be coming along as well.",
-        "4@Surigao": "Roger, Michishio, everyone, let's do this without any regrets. Straits are always subject to constant Air Raids these days though, so be on guard."
+        "4@Surigao": "Roger, Michishio, everyone, let's do this without any regrets. Straits are always subject to constant Air Raids these days though, so be on guard.",
+        "10@Surigao": "Thank you, preparations are important.",
+        "13@Surigao": "It's our turn soon. Fusou, Yamashiro, everyone, let's go. I'll definitely bring everyone home.",
+        "16@Surigao": "I got this."
     },
     "243": {},
     "145": {
@@ -11379,7 +11389,8 @@
         "2@YearsEnd": "Alright! It feels like we've finally gotten somewhere. Time to switch gears and get to the cleanup! Div 4! Div 8! Gather up, everyone. We'll be doing the end of year cleaning at full power!",
         "2@Spring": "It's spring. As I thought, I love flower viewing. Eh!? What's with that face? Even I have things that I love. Why do you think like that? Honestly...",
         "2@WhiteDay": "What? Return sweets? Uwah, it was an obligation so you didn't have to worry! Uwah, I'll accept it anyways! ...Thank you.",
-        "2@EarlySummer": "Humph. What's with those onigiri? Aren't you all being too soft with all those new costumes and equipment? You'll never get through summer like that! Me? I'm not interested at all."
+        "2@EarlySummer": "Humph. What's with those onigiri? Aren't you all being too soft with all those new costumes and equipment? You'll never get through summer like that! Me? I'm not interested at all.",
+        "13@Surigao": "I'm ready to do this, at full power too. 20th Destroyer Division, sortie!"
     },
     "250": {
         "Idle": {
@@ -13755,6 +13766,62 @@
         "H2200": "It's 22:00. Ah, Zuikaku. Its fine, no problems so far. Admiral's...well, he agrees. I'm fine. Don't worry about me.",
         "H2300": "Its 23:00. I'm a bit tired tonight. Admiral. rest well. Let's work hard tomorrow as well. Good night."
     },
+    "532": {
+        "Intro": "I'm the Akizuki-class air defense destroyer, Suzutsuki. I'll...I'll always protect everyone. I'll do my best. I'm very pleased to meet you.",
+        "Library": "I'm the 3rd ship of the Type-B destroyers, the Akizuki-class, Suzutsuki. I was born for the sake of fleet air defense. Somehow I was able to sortie with Yamato as a member of DesRon2 even after receiving heavy damage. Even though I was covered with injuries, I managed to make it back to port. I want to continue protecting everyone forever. Yes, that's my wish.",
+        "Poke(1)": "Did you call me, Admiral?",
+        "Poke(2)": "I'll... I'll protect you forever.",
+        "Poke(3)": "Heh... Please don't worry. I, Suzutsuki, will definitely return. To all of you.",
+        "Idle": "Look at this, Admiral! The pumpkin I grew in the vegetable garden is so big. It's good that I found it. Please look forward to tonight's meal, alright?",
+        "Married": "I'll...I'll always protect you, Admiral. Heh, please don't worry. I'll always, always be with you. Just relax.",
+        "Wedding": "Did you call me, Admiral? Eh? Ah, this bow? Ah, yes, it's from that repair... Eh, my left hand? Like this? ...Uhhh... Ummm... This is... This equipment is... whoa... Admiral...",
+        "Ranking": "I have the intelligence. Here it is.",
+        "Join": "Roger, Admiral. Please leave it to me. Akizuki-class air defense destroyer, Suzutsuki, sortieing now.",
+        "Equip(1)": "I gladly accept this equipment.",
+        "Equip(2)": "This will help... when the battle turns sour.",
+        "Equip(3)": "Heh, don't worry. I'll definitely return.",
+        "Supply": "Thank you... for the important refuel, Admiral.",
+        "Docking(1)": "I'm very sorry, I'm going into the dock.",
+        "Docking(2)": "This damage, erm, looks like it will take a while to repair. I'm so sorry, Admiral. I need to return to the front quickly...",
+        "Construction": "We can use the new forces now.",
+        "Return": "Sorry for making you worry. I'm back now.",
+        "Sortie": "61st Destroyer Division, Suzutsuki, now setting sail. Don't fall behind, Hatsu. Let's go.",
+        "Battle": "Enemy spotted. Get ready, everyone. Battle stations!",
+        "Attack": "Ready? Firing.",
+        "Yasen(2)": "You're no match for me. Fire!",
+        "Yasen(1)": "Follow me! We're charging in!",
+        "MVP": "I'll be happy if...if I'm able to protect all of you even a little bit.",
+        "Damaged(1)": "Aaah! Stop the flooding!",
+        "Damaged(2)": "Aaah! Th-the bow is... Guh...",
+        "Damaged(3)": "Hyaaah! My bow... No... My stern is... flooding... I'll definitely... return...",
+        "Sunk": "So this is... what they mean... by sinking... Right... nee-san, Fuyu..."
+    },
+    "537": {
+        "H0000": "It's now 12am, Admiral. I, the air defense destroyer Suzutsuki, will work hard by your side today. Please take good care of me, Admiral.",
+        "H0100": "It's now 0100. Is this how you like it? Whew, that's good. Thank you very much, Admiral.",
+        "H0200": "It's now 0200. It feels chilly during this time, right? Shall I get your scarf, Admiral? How about some hot tea?",
+        "H0300": "It's now 0300. Here's the hot tea, Admiral. I'll also leave some tea cakes made with sweet potatoes from my garden over here. Please have some.",
+        "H0400": "It's now 0400. It's almost morning. The night is ending. Yes, all nights end. I'll do my best, Admiral.",
+        "H0500": "It's now 0500. It's a bit early, but I'm going to start making breakfast, Admiral. I'll need to cook the barley rice... Then pick some pumpkins...",
+        "H0600": "It's now 0600. Fleet, all hands assemble! Good morning, Admiral!",
+        "H0700": "It's now 0700. Breakfast is served, Admiral. Today we're having barley rice, boiled pumpkin, and pumpkin miso soup. Now, please help yourself.",
+        "H0800": "It's now 0800. Would you like some seconds, Admiral? There's still some miso soup. The pumpkin miso soup was delicious right? Ufufu~",
+        "H0900": "It's now 0900. The clear sky...*deep breath*...feels gooood~ It's a lovely morning today, Admiral. Now, let's get started with the fleet operations.",
+        "H1000": "100... Ah, Fuyu! Good morning. Let's do our best as the 41st Destroyer Division today! Yes!",
+        "H1100": "It's now 1100. Yes, I protected everyone with Fuyu for a long, long time. She's my precious little sister, and comrade.",
+        "H1200": "It's now 1200. Let's stop work for a while and have lunch, Admiral. I made some steamed sweet potatoes today. Hehe, it's surprisingly delicious. Here, help yourself. I've made some tea too.",
+        "H1300": "It's now 1300. Ah, yes, see you later, Fuyu. Let's start the afternoon fleet operations, Admiral. Let's review the status of the fleet.",
+        "H1400": "140... Ah, Agano and the rest of the 10th Squadron, good work. Noshiro? Ah, sorry I haven't seen her today... Ah, yes, roger that.",
+        "H1500": "Ah, Akizuki-neesan, Hatsu, good work. Yes, I'm working hard too. Are you hungry, Hatsu? There's still some steamed sweet potato if you like. Ah, what about you, Akizuki-neesan? The time is now 1500.",
+        "H1600": "It's now 1600. I'm glad you cheered up, Hatsu. Work hard, alright? I'll work hard too.",
+        "H1700": "It's now 1700. The sunset on a clear day is beautiful, right, Admiral? So sad... and beautiful.",
+        "H1800": "It's now 1800. I'll make dinner soon. We don't have... many ingredients...",
+        "H1900": "It's now 1900. Dinner is served, Admiral. Boiled pumpkin, burdock miso soup, and also stir fried sweet potato. Please help yourself!",
+        "H2000": "It's now 2000. Was the boiled pumpkin to your liking? Whew, thank goodness. The key was seasoning it with soy sauce, sake, and suger, and then covering it with a wooden lid. It would've been nice to have some mirin though...",
+        "H2100": "210... Aha, Fuyu, good evening. Good work. Would you like to have some tea with the Admiral and me?",
+        "H2200": "It's now 2200. Thanks for your hard work everyday, Admiral, Fuyu. Whew, ufufufu~",
+        "H2300": "It's now 2300. Please rest for a while, Admiral. I'll dim the lights a bit."
+    },
     "174": {
         "Intro": "Guten morgen. I'm Leberecht Maass. Lebe is fine. ...Yeah.",
         "Library": "The German-born destroyer, the first genuine large-type. This shifted high temperature, high pressure engine, it could only have been designed in the country of technical skills! I'm not so great at open-sea warfare though... I'll do my best!",
@@ -14087,8 +14154,8 @@
         "Supply": "This helps, Commander."
     },
     "531": {
-        "Intro": "I'm the 3rd ship of the Etorofu-class kaiboukan, Sado-sama! Nice. To. Meet. You. Commander!",
-        "Library": "I'm the 3rd ship of the Etorofu-class costal defense ships, Sado. I did my very best to stop submarines from dominating the seas as part of the 1st Surface Escort Division. I worked alongside Matsuwa, Hiburi and Taiyou-san too. But protecting the 1st Fleet was really difficult. I'll protect them properly this time. Nice to meet you!",
+        "Intro": "I'm the 3rd ship of the Etorofu-class Kaiboukan, Sado-sama! Nice. To. Meet. You. Commander!",
+        "Library": "I'm the 3rd ship of the Etorofu-class coastal defense ships, Sado. I did my very best to stop submarines from dominating the seas as part of the 1st Surface Escort Division. I worked alongside Matsuwa, Hiburi and Taiyou-san too. But protecting the 1st Fleet was really difficult. I'll protect them properly this time. Nice to meet you!",
         "Poke(1)": "I'm feeling great!",
         "Poke(2)": "Ehe, what's up? Is it my turn now?",
         "Poke(3)": "Eto, Matsu, what are you doing? Ehe, that tickles. Oh? You want to play with me, Commander? Sounds good.",
@@ -14117,15 +14184,15 @@
         "Sunk": "It's cold... I'm going under again... It's cold... It's lonely... I don't want... to..."
     },
     "385": {
-        "Intro": "I'm the 3rd ship of the Etorofu-class kaiboukan that just got stronger, Sado-sama! Let's have a good day, Commander! Heheh.",
+        "Intro": "I'm the 3rd ship of the Etorofu-class Kaiboukan that just got stronger, Sado-sama! Let's have a good day, Commander! Heheh.",
         "Poke(1)": "I'm feeling great today, too!",
         "Join": "It's time for the 1st Surface Escort Division and me to take the stage. Let's go!",
         "Attack": "Matsu, Hibu, just watch me! Kick their asses!",
         "MVP": "Ah, me? I'm number one? Hehe... Hey... Taiyou, Hayasui, just watch me. This time I'll protect you. This time for sure."
     },
     "540": {
-        "Intro": "The Etorofu-class kaiboukan, Tsushima, has arrived. I'll put this body made for defending the Southern Corridor to good use. Just wait and see.",
-        "Library": "I'm the 7th ship of the Etorofu-class kaiboukan, Tsushima. I was born for the sake of defending the Southern Corridor. I escorted fleets between mainland Japan and Singapore. After that Corridor got too dangerous, I protected the Corridor between Taiwan's and Japan's seas. After the fighting was over, I worked repatriating everyone.",
+        "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll put this body made for defending the Southern Corridor to good use. Just wait and see.",
+        "Library": "I'm the 7th ship of the Etorofu-class Kaiboukan, Tsushima. I was born for the sake of defending the Southern Corridor. I escorted fleets between mainland Japan and Singapore. After that Corridor got too dangerous, I protected the Corridor between Taiwan's and Japan's seas. After the fighting was over, I worked repatriating everyone.",
         "Poke(1)": "I'm right here.",
         "Poke(2)": "Be careful of collisions.",
         "Poke(3)": "The Southern Corridor is full of dangers. The Naval Base is... full of dangers too? Ufufu.",
@@ -14133,7 +14200,7 @@
         "Married": "I'm right here, Commander. Ah, you want to lie on my lap? Well, I-I got no choice then. Here.",
         "Wedding": "Eh...this ring is for me?  Thank you...so much, Commander. I'll never ever forget this. This day, this moment. I'm so happy.",
         "Ranking": "You want... to see it? Okay, then. Here.",
-        "Join": "Etorofu-class costal defense ship, Tsu~shi~ma~, setting sail.",
+        "Join": "Etorofu-class Kaiboukan, Tsu~shi~ma~, setting sail.",
         "Equip(1)": "There are lots of dangerous things. I have lots of depth charges, though. Ufufu.",
         "Equip(2)": "Thank you, this is nice.",
         "Equip(3)": "What do you mean? I see.",
@@ -14154,10 +14221,10 @@
         "Sunk": "So this is... this is... what they call 'sinking'? ...It's... dark... and cold... I can't... see anything..."
     },
     "386": {
-        "Intro": "The Etorofu-class costal defense ship, Tsushima, has arrived. I'll protect the Southern and Taiwanese Corridors. I'll do my best to not lose with this body of mine.",
+        "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll protect the Southern and Taiwanese Corridors. I'll do my best to not lose with this body of mine.",
         "Idle": "*yawn*... Hu-huh, Ukuru? Ah, I made a mistake. Just a wrong guess. Ufu, ufufufu.",
         "Join": "100th Squadron, Tsu~shi~ma~, setting sail. Ufufu.",
-        "Sortie": "Fuwa...Etorofu-class kaiboukan, Tsushima, sortieing."
+        "Sortie": "Fuwa...Etorofu-class Kaiboukan, Tsushima, sortieing."
     },
     "abyssal": {
         "3505871": "Don't come closer... I'm warning you...",

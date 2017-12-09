@@ -1242,7 +1242,7 @@
         "code": "B106",
         "name": "Night Operations Carrier, Sortie to the Frontlines!",
         "desc": "Sortie Saratoga Mk.II (NOT Mod.2) as Fleet 1 flagship to [W6-5]. S-Rank the boss node. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel\n\u00B6Second choice: Either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a TBF OR a New Model Aviation Armament Materials OR a Night Operations Aviation Personnel + Skilled Deck Hands\n\u00B6Second choice: Either a Reinforcement Expansion OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
     },
     "869": {
         "code": "B107",
@@ -1437,7 +1437,7 @@
     "259": {
         "code": "Bm4",
         "name": "Monthly [W5-1]",
-        "desc": "Sortie 3 BB (Yamato-class, Nagato-class, Ise-class or Fusou-class ONLY), 1 CL and 2 additional ships to [W5-1]. S-Rank the boss node.",
+        "desc": "Sortie 3 BB(V) (Yamato-class, Nagato-class, Ise-class or Fusou-class ONLY), 1 CL and 2 additional ships to [W5-1]. S-Rank the boss node.",
         "memo": "\u203bSend a Surface Task Force Southward!\n\u27a3Rewards 4 Screws"
     },
     "265": {
@@ -2261,28 +2261,29 @@
         "name": "Preparation for Large Ship Construction! (Part 1)",
         "desc": "Complete 4 successful modernizations."
     },
-  "705": {
-    "code": "G5",
-    "name": "Flight Rigging Modernization",
-    "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
-    "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-  },
+    "705": {
+        "code": "G5",
+        "name": "Flight Rigging Modernization",
+        "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
+    },
 
-  "188": {
-    "code": "",
-    "name": "All ships of \"Nishimura Fleet\", Prepare for Sortie!",
-    "desc": "Set Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo and Shigure on the 3rd Fleet."
-  },
-
-  "672": {
-    "code": "",
-    "name": "Formation of the Striking Force Fleet Command Facility",
-    "desc": "Equip \"Fleet Command Facility\" on the first slot of your secretary ship. Scrap 3 RADAR equipments, prepare 10 dev material, 2000 steel and 2 Action Reports."
-  },
-
-  "872": {
-    "code": "",
-    "name": "Secure the Supply Line for \"Operation Sho-go\"",
-    "desc": "Sortie to E-2 and defeat the enemy attempting to attack the supply line in the area multiple times."
-  }
+    "188": {
+        "code": "Le1A1",
+        "name": "Fully Formed Nishimura Fleet, Prepare to Sortie!",
+        "desc": "Have Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo and Shigure in Fleet 3. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Reinforcement Expansion and either a Skilled Lookouts OR a Furniture Fairy OR 3 Combat Rations"
+    },
+    "672": {
+        "code": "F64",
+        "name": "The Establishment of the Striking Force's Fleet Command Facility",
+        "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
+        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
+    },
+    "872": {
+        "code": "Le1B1",
+        "name": "Secure the Supply Line Logistics for Operation Sho-Ichi-Go!",
+        "desc": "Sortie to [E-2]. A-Rank+ the boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Mamiya and either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report"
+    }
 }

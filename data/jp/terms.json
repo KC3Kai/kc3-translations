@@ -523,6 +523,7 @@
 	"BattleAntiAirCutIn" : "対空カットインが発動？",
 	"BattleItemDrop"     : "期間限定アイテムドロップ",
 	"BattleNightNeeded"  : "夜戦が必要？",
+	"BattleDayNeeded"    : "昼戦が必要？",
 	"BattleRating"       : "戦闘評価",
 	"BattleAvoided"      : "気のせいだった。",
 	"BattleSelect"       : "針路選択：",
@@ -545,6 +546,7 @@
 	"BattleKindAirBattleOnly" : "航空戦マス",
 	"BattleKindAirDefendOnly" : "空襲戦マス",
 	"BattleKindEnemyCombined" : "敵連合艦隊",
+	"BattleKindNightToDay" : "払暁戦マス",
 	"BattlePreviousEncounters" : "遭遇したことある敵編成",
 	"Debuffed"           : "ボスギミック解除した！",
 
@@ -623,7 +625,7 @@
 	"PanelNextLvGoalLeft"  : "次の設定目標Lv {0} まで {1} 回戦",
 	"PanelResupplyCosts"   : "補給する資材{3}\n　燃料：{0}、弾薬：{1}、ボーキ：{2}",
 	"PanelResupplyMarriedHint" : " (燃料と弾薬ケッコン15%減少済み)",
-	"PanelBattleConsumes"  : "1回の戦闘で消費する資材 (ケッコン前基準)\n　通常戦マス燃料：{0}、弾薬：{1} (夜戦込み：{2})\n　空襲戦マス燃料：{3}、弾薬：{4}\n　イベ対潜戦燃料：{0}、弾薬：0",
+	"PanelBattleConsumes"  : "1回の戦闘で消費する資材 (ケッコン前基準)\n　通常戦マス燃料：{0}、弾薬：{1} (夜戦込み：{2})\n　空襲戦マス燃料：{3}、弾薬：{4}\n　イベ対潜戦燃料：{3}、弾薬：0",
 	"PanelConsumedSteel"   : "　噴式機消費する鋼材：{0}",
 	"PanelLbasSortieCosts" : "出撃時に消費する資材\n　燃料：{0}、弾薬：{1}",
 	"PanelTransportPoints" : "輸送作戦ボスA/S勝利の時：{0} / {1} TP",
@@ -720,6 +722,8 @@
 	"ExpedGSRateExplainMissingSparkle": "キラキラじゃない艦娘がいます",
 	"ExpedGSRateExplainNoOverdrum": "規定数以上のドラム缶が大成功率を上げます\n　ドラム缶：{0} / {1}",
 	"ExpedGSRateExplainSparkle": "キラキラ艦娘が大成功率を上げます\n　キラ艦：{0}",
+
+	"ConsumablesFCoinBoxes" : "家具箱（小）x{0} = {1}\n家具箱（中）x{2} = {3}\n家具箱（大）x{4} = {5}\n全部交換すると = {6}\n+所持家具コイン = {7}",
 
 	"CraftEquipNoteFirst" : "この装備は初入手です！",
 	"CraftEquipNoteExists" : "この装備は{0}個持ってます！",

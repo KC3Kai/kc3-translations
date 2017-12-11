@@ -1492,6 +1492,12 @@
         "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
         "tracking": [ [0,2] ]
     },
+    "873": {
+        "code": "Bq5",
+        "name": "Quarterly [W3]",
+        "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. B?-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bExecute Patrols of the Northern Region!\n\u27a3Rewards either a Medal OR a Furniture Fairy OR a +3 12.7cm Twin Gun Mount Model C Kai Ni"
+    },
     
     
     "301": {
@@ -1849,6 +1855,18 @@
         "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
         "unlock": [ 637, 638 ],
         "tracking": [ [0,1] ]
+    },
+    "673": {
+        "code": "F65",
+        "name": "Daily Development Material",
+        "desc": "Scrap 4 small caliber main guns.",
+        "memo": "\u203bConsolidation of Equipment Development Capabilities"
+    },
+    "674": {
+        "code": "F66",
+        "name": "Daily Development Material 2",
+        "desc": "Have 300 steel. Scrap 4 anti-air machine guns.",
+        "memo": "\u203bArsenal Environmental Consolidation"
     },
     
     "601": {
@@ -2234,6 +2252,12 @@
         "name": "Development of a Night Operations-class Ship-Based Bomber Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a TBF.",
         "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
+    },
+    "675": {
+        "code": "F67",
+        "name": "Quarterly Interceptor",
+        "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards 4 Screws and either a Type 1 Fighter Hayabusa OR a Shiden Model 11"
     },
 
     "701": {

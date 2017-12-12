@@ -533,6 +533,7 @@
 	"BattleAntiAirCutIn" : "ระบบต่อต้านอากาศยาน (AACI)",
 	"BattleItemDrop" : "ได้รับของรางวัลพิเศษ",
 	"BattleNightNeeded" : "รบกลางคืน",
+	"BattleDayNeeded"    : "รบกลางวัน",
 	"BattleRating" : "ระดับผลการรบ",
 	"BattleAvoided" : "~ไม่ต้องสู้~",
 	"BattleSelect" : "เลือก: ",
@@ -555,6 +556,7 @@
 	"BattleKindAirBattleOnly" : "รบน่านฟ้า",
 	"BattleKindAirDefendOnly" : "ป้องกันน่านฟ้า",
 	"BattleKindEnemyCombined" : "กองเรือผสมทะเลลึก",
+	"BattleKindNightToDay" : "รบกลางคืนต่อกลางวัน",
 	"BattlePreviousEncounters" : "ศัตรูที่เคยเจอ",
 
 	"ShipHp"      : "HP",
@@ -748,6 +750,8 @@
 	"ExpedGSRateExplainMissingSparkle": "ไม่มีเรือที่มีกำลังใจสูงในกองเรือ",
 	"ExpedGSRateExplainNoOverdrum": "จำนวนถังสำรวจไม่เพียงพอสำหรับการเพิ่มโอกาสสำเร็จโบนัส \nต้องการ: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "มีเรือที่มีกำลังใจสูง เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0}",
+
+	"ConsumablesFCoinBoxes" : "{0} × กล่องเล็ก 200 = {1}\n{2} × กล่องกลาง 400 = {3}\n{4} × กล่องใหญ่ 700 = {5}\nรวมในกล่อง = {6}\nรวมทั้งหมด = {7}",
 
 	"CraftEquipNoteFirst": "เพิ่งจะเคยได้ <strong>ชิ้นแรก</strong>!",
 	"CraftEquipNoteExists": "ตอนนี้มี <strong>{0}</strong> ชิ้น!",

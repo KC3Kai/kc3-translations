@@ -1502,7 +1502,10 @@
         "code": "Bq5",
         "name": "Quarterly [W3]",
         "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 874 ],
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+1 [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
     },
     
     
@@ -1836,7 +1839,7 @@
         "name": "Daily Development 2",
         "desc": "Attempt to construct 3 pieces of equipment. Failures count toward this.",
         "memo": "\u203bConcentrated Enhanced Equipment Development",
-        "unlock": [ 608 ],
+        "unlock": [ 608, 673 ],
         "tracking": [ [0,3] ]
     },
      "608": {
@@ -1866,13 +1869,16 @@
         "code": "F65",
         "name": "Daily Development Material",
         "desc": "Scrap 4 small caliber main guns.",
-        "memo": "\u203bConsolidation of Equipment Development Capabilities"
+        "memo": "\u203bConsolidation of Equipment Development Capabilities",
+        "unlock": [ 674 ],
+        "tracking": [ [0,4] ]
     },
     "674": {
         "code": "F66",
         "name": "Daily Development Material 2",
         "desc": "Have 300 steel. Scrap 4 anti-air machine guns.",
-        "memo": "\u203bArsenal Environmental Consolidation"
+        "memo": "\u203bArsenal Environmental Consolidation",
+        "tracking": [ [0,4] ]
     },
     
     "601": {

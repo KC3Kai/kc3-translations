@@ -1505,7 +1505,7 @@
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
         "unlock": [ 874 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
-        "trackingDesc": [ "{0} A-Rank+1 [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
+        "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
     },
     
     
@@ -1878,6 +1878,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
+        "unlock": [ 675 ],
         "tracking": [ [0,3] ]
     },
     

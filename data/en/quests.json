@@ -1264,6 +1264,12 @@
         "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (or D), Ooshio Kai Ni, Michishio Kai Ni and up to 2 other ships to [W3-2] and [W5-4]. S-Rank the boss nodes of each. Overlay: F10",
         "memo": "\u27a3Rewards 4 Screws and either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Daihatsu Landing Craft OR a Type 22 Surface Radar"
     },
+    "874": {
+        "code": "B110",
+        "name": "Execute a Combat Patrol of the Northern Region!",
+        "desc": "Sortie a CL, an AV, a CVL and up to 3 additional ships to [W3-5]. S-Rank the boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a present box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
+    },
     
     
     "201": {
@@ -1491,6 +1497,15 @@
         "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
         "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
         "tracking": [ [0,2] ]
+    },
+    "873": {
+        "code": "Bq5",
+        "name": "Quarterly [W3]",
+        "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 874 ],
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
     },
     
     
@@ -1758,9 +1773,9 @@
     },
     "428": {
         "code": "D26",
-        "name": "Suppress the Enemy Submarine Incursions into Coastal Waters!",
+        "name": "Quarterly Expeditions 2",
         "desc": "Complete Expeditions 4, A2 and A3. Clear each of them twice.",
-        "memo": "\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
+        "memo": "\u203bSuppress the Enemy Submarine Incursions into Coastal Waters!\n\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
     },
@@ -1824,7 +1839,7 @@
         "name": "Daily Development 2",
         "desc": "Attempt to construct 3 pieces of equipment. Failures count toward this.",
         "memo": "\u203bConcentrated Enhanced Equipment Development",
-        "unlock": [ 608 ],
+        "unlock": [ 608, 673 ],
         "tracking": [ [0,3] ]
     },
      "608": {
@@ -1849,6 +1864,22 @@
         "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
         "unlock": [ 637, 638 ],
         "tracking": [ [0,1] ]
+    },
+    "673": {
+        "code": "F65",
+        "name": "Daily Gun Dismantlement",
+        "desc": "Scrap 4 small caliber main guns.",
+        "memo": "\u203bConsolidation of Equipment Development Capabilities",
+        "unlock": [ 674 ],
+        "tracking": [ [0,4] ]
+    },
+    "674": {
+        "code": "F66",
+        "name": "Daily AA Gun Dismantlement",
+        "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
+        "memo": "\u203bArsenal Environmental Consolidation",
+        "unlock": [ 675 ],
+        "tracking": [ [0,3] ]
     },
     
     "601": {
@@ -2234,6 +2265,12 @@
         "name": "Development of a Night Operations-class Ship-Based Bomber Aircraft",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a TBF.",
         "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
+    },
+    "675": {
+        "code": "F67",
+        "name": "Quarterly Interceptor",
+        "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
+        "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
     },
 
     "701": {

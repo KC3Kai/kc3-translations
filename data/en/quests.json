@@ -1350,7 +1350,7 @@
         "memo": "\u203bOperation A-Go",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
-        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-ranks" ]
+        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
     "220": {
         "code": "Bw2",
@@ -1616,9 +1616,9 @@
         "code": "C15",
         "name": "A Project to Facilitate the War Potential of the Type-A Destroyers",
         "desc": "Secure 3 victories in Exercises using 2+ Kagerou-class or Yuugumo-class DDs. Then, sortie to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the bosses. Overlay: F10.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nUse the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nDo the exercises first(?)\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR an Action Report\n\u00B6Second choice: Either 5 Buckets OR 2 Battle Rations"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nUse the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nYou must use fleet 1.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR a Furniture Fairy\n\u00B6Second choice: Either 5 Buckets OR 2 Combat Rations"
     },
-    
+
     
     "401": {
         "code": "D1",
@@ -2284,11 +2284,23 @@
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a TBF.",
         "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
     },
+    "672": {
+        "code": "F64",
+        "name": "The Establishment of the Striking Force's Fleet Command Facility",
+        "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
+        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
+    },
     "675": {
         "code": "F67",
         "name": "Quarterly Interceptor",
         "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
         "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
+    },
+    "676": {
+        "code": "F68",
+        "name": "Weekly Gun Dismantlement",
+        "desc": "Have 2400 Steel. Scrap 3 medium-calibur main guns, 3 secondary guns and a Drum Canister.",
+        "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources."
     },
 
     "701": {
@@ -2321,14 +2333,6 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    },
-
-    "672": {
-        "code": "F64",
-        "name": "The Establishment of the Striking Force's Fleet Command Facility",
-        "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
-        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
-    }
-    
+    } 
     
 }

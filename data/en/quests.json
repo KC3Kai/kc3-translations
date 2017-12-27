@@ -534,6 +534,12 @@
         "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
     },
+    "188": {
+        "code": "A83",
+        "name": "Elite DesDiv 31, First Platoon, Prepare to Sortie!",
+        "desc": "Have Naganami Kai Ni as flagship and ONLY ONE of Takanami Kai, Asashimo Kai or Okinami Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy"
+    },
     
     "202": {
         "code": "B1",
@@ -1502,10 +1508,16 @@
         "code": "Bq5",
         "name": "Quarterly [W3]",
         "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "memo": "\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
         "unlock": [ 874 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
+    },
+    "875": {
+        "code": "Bq6",
+        "name": "Quarterly [W5-4]",
+        "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
+        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box"
     },
     
     
@@ -2310,12 +2322,6 @@
         "name": "The Establishment of the Striking Force's Fleet Command Facility",
         "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
         "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
-    },
-    "188": {
-        "code": "",
-        "name": "Quest ID Conflict",
-        "desc": "This is not the Fully Formed Nishimura Fleet quest. A proper translation for this quest is forthcoming. Sorry for the inconvenience.",
-        "memo": "\u27a3Rewards ?"
     }
     
     

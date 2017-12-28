@@ -287,6 +287,7 @@
 	"SettingsPowerCapPostcap" : "Pre-cap & Post-cap",
 	"SettingsPowerCritical"   : "Показывать Криты",
 	"SettingsPowerCriticalTip" : "Критическая мощь недоступна, если Post-cap не включён.",
+	"SettingsFormatNumbers":"Формат чисел",
 	
 	"SettingsScreenshot" : "Снимки экрана",
 	"SettingsSSOutput" : "Вывод",
@@ -735,6 +736,7 @@
 	"ExpedTotalAsw" : "ΣASW",
 	"ExpedTotalLos" : "ΣLoS",
 	"ExpedTotalAa" : "ΣAA",
+	"ExpedTotalFp":"ΣFP",
 	"ExpedEscortTip" : "DE могут заменить DD, но учтите, что их смешивание\nможет негативно отразиться на результатах некоторых экспедиций.",
 	"ExpedCheckReq" : "Проверка требований",
 	"ExpedExpUnit" : " опыта",
@@ -842,6 +844,8 @@
 	"MasterShipGoQuotes" : "Проверка реплик",
 	
 	"DownloadErrorReport": "Скачать файл отчёта об ошибке",
+	
+	"ConsumablesFCoinBoxes":"{0} × 200 монет = {1}\n{2} × 400 монет = {3}\n{4} × 700 монет = {5}\nВ коробках = {6}\nИтого = {7}",
 
 	"Dummy" : "Dummy"
 

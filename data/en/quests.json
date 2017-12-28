@@ -538,7 +538,8 @@
         "code": "A83",
         "name": "Elite DesDiv 31, First Platoon, Prepare to Sortie!",
         "desc": "Have Naganami Kai Ni as flagship and ONLY ONE of Takanami Kai, Asashimo Kai or Okinami Kai in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy"
+        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy",
+        "unlock": [ 875 ]
     },
     
     "202": {
@@ -1517,7 +1518,8 @@
         "code": "Bq6",
         "name": "Quarterly [W5-4]",
         "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
-        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box"
+        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "tracking": [ [0,2] ]
     },
     
     
@@ -2300,7 +2302,9 @@
         "code": "F68",
         "name": "Weekly Gun Dismantlement",
         "desc": "Have 2400 Steel. Scrap 3 medium-calibur main guns, 3 secondary guns and a Drum Canister.",
-        "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources."
+        "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
+        "tracking": [ [0,3], [0,3], [0,1] ],
+        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ]
     },
 
     "701": {

@@ -287,6 +287,7 @@
 	"SettingsPowerCapPostcap" : "Pre-cap & Post-cap",
 	"SettingsPowerCritical"   : "Показывать Криты",
 	"SettingsPowerCriticalTip" : "Критическая мощь недоступна, если Post-cap не включён.",
+	"SettingsFormatNumbers":"Формат чисел",
 	
 	"SettingsScreenshot" : "Снимки экрана",
 	"SettingsSSOutput" : "Вывод",
@@ -630,7 +631,7 @@
 	"PanelCombinedShipBarsHint" : "Осталось опыта = {0}, топлива = {1}%, снарядов = {2}%",
 	"PanelNextRemodelLv" : "Следующая модернизация на {0} уровне",
 	"PanelPossibleRemodel" : "Доступна модернизация",
-	"PanelNextLvGoalLeft" : "Цель: {0} ур.\nBОсталось {1} боёв",
+	"PanelNextLvGoalLeft" : "Цель: {0} ур.\nОсталось {1} боёв",
 	"PanelResupplyCosts" : "Понадобится топлива = {0}, снарядов = {1}, бокситов = {2}",
 	"PanelResupplyMarriedHint" : "(Замужние корабли тратят на 15% меньше)",
 	"PanelBattleConsumes" : "Траты за бой\n\u2003Обычные точки - Топливо: {0:fuel}, снаряды: {1:dayAmmo} (Ночь: {2:incNightAmmo})\n\u2003Авиарейды - Топливо: {3:airRaidFuel}, Снаряды: {4:airRaidAmmo}",
@@ -735,6 +736,7 @@
 	"ExpedTotalAsw" : "ΣASW",
 	"ExpedTotalLos" : "ΣLoS",
 	"ExpedTotalAa" : "ΣAA",
+	"ExpedTotalFp":"ΣFP",
 	"ExpedEscortTip" : "DE могут заменить DD, но учтите, что их смешивание\nможет негативно отразиться на результатах некоторых экспедиций.",
 	"ExpedCheckReq" : "Проверка требований",
 	"ExpedExpUnit" : " опыта",
@@ -842,6 +844,8 @@
 	"MasterShipGoQuotes" : "Проверка реплик",
 	
 	"DownloadErrorReport": "Скачать файл отчёта об ошибке",
+	
+	"ConsumablesFCoinBoxes":"{0} × 200 монет = {1}\n{2} × 400 монет = {3}\n{4} × 700 монет = {5}\nВ коробках = {6}\nИтого = {7}",
 
 	"Dummy" : "Dummy"
 

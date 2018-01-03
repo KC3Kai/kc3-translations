@@ -1924,7 +1924,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675, 676 ],
+        "unlock": [ 675, 676, 803 ],
         "tracking": [ [0,3] ]
     },
     
@@ -2330,7 +2330,8 @@
         "desc": "Have 2400 Steel. Scrap 3 medium-caliber main guns, 3 secondary guns and a Drum Canister.",
         "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
         "tracking": [ [0,3], [0,3], [0,1] ],
-        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ]
+        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ],
+        "unlock": [ 804 ]
     },
 
     "701": {

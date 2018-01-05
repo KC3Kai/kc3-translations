@@ -534,6 +534,13 @@
         "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
     },
+    "188": {
+        "code": "A83",
+        "name": "Elite DesDiv 31, First Platoon, Prepare to Sortie!",
+        "desc": "Have Naganami Kai Ni as flagship and ONLY ONE of Takanami Kai, Asashimo Kai or Okinami Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy",
+        "unlock": [ 875 ]
+    },
     
     "202": {
         "code": "B1",
@@ -653,7 +660,7 @@
         "code": "B20",
         "name": "Sortie the 8th Destroyer Division!",
         "desc": "Sortie Asashio, Michishio, Ooshio, Arashio and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
-        "unlock": [ 132, 264, 412, 812 ]
+        "unlock": [ 132, 188, 264, 412, 812 ]
     },
     "240": {
         "code": "B21",
@@ -1270,7 +1277,33 @@
         "desc": "Sortie a CL, an AV, a CVL and up to 3 additional ships to [W3-5]. S-Rank the boss node twice. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a present box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
     },
-    
+    "801": {
+        "code": "SB26",
+        "name": "Happy New Year! Torpedo Squadron, Commence with the Sorties!",
+        "desc": "Sortie a CL as flagship and up to 5 DD to [W1-2] and [W1-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards an Emergency Repair Goddess and either 2 Combat Rations OR 5 Development Materials",
+        "unlock": [ 802 ]
+    },
+    "802": {
+        "code": "SB27",
+        "name": "Helping Out Irako in the New Year!",
+        "desc": "Sortie an AV/CA(V)/CL(T)/CT as flagship and up to 5 additional ships to [W2-2] and [W2-3]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 3 Irako and either a Combat Ration (Special Onigiri) OR 5 Buckets OR a New Model Artillery Armament Materials",
+        "unlock": [ 803 ]
+    },
+    "803": {
+        "code": "SB28",
+        "name": "Commence the Escorts! A New Year for the Naval Escort Squadrons!",
+        "desc": "Sortie only DD/DE (1 CVL is allowed) to [W1-5] and [W1-6]. A-Rank+ the [W1-5] boss node three times. Reach [W1-6] node N three times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 3 Screws, a Furniture Fairy and either 2 Type 2 Depth Charges OR an Action Report OR a Raiden",
+        "unlock": [ 804 ]
+    },
+    "804": {
+        "code": "SB29",
+        "name": "Happy New Year! Carrier Task Force, Sortie at Full Strength!",
+        "desc": "Sortie a CV(B/L) as flagship, 2 DD and 3 additional ships to [W5-5]. A-Rank+ the boss node four times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a Skilled Crew Member OR 2 New Model Aviation Armament Materials OR 3 Shiden Kai Ni"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1344,7 +1377,7 @@
         "memo": "\u203bOperation A-Go",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
-        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-ranks" ]
+        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
     "220": {
         "code": "Bw2",
@@ -1502,10 +1535,17 @@
         "code": "Bq5",
         "name": "Quarterly [W3]",
         "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
-        "unlock": [ 874 ],
+        "memo": "\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 874, 875 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
+    },
+    "875": {
+        "code": "Bq6",
+        "name": "Quarterly [W5-4]",
+        "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
+        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "tracking": [ [0,2] ]
     },
     
     
@@ -1583,7 +1623,7 @@
         "unlock": [ 644 ]
     },
     "314": {
-        "code": "C11",
+        "code": "C14",
         "name": "Mass Exercises for Winter",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya"
@@ -1600,7 +1640,13 @@
         "desc": "Secure 4 victories in Exercises within the same day. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards 2 Screws and either a Furniture Fairy OR a Daihatsu Landing Craft."
     },
-    
+    "317": {
+        "code": "C15",
+        "name": "A Project to Facilitate the Combat Readiness of the Type-A Destroyers",
+        "desc": "Secure 3 S-Ranks in Exercises using 2+ Kagerou-class or Yuugumo-class DDs. Then, sortie to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the bosses. Overlay: F10.",
+        "memo": "Use the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nYou must use fleet 1.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR a Furniture Fairy\n\u00B6Second choice: Either 5 Buckets OR 2 Combat Rations"
+    },
+
     
     "401": {
         "code": "D1",
@@ -1870,7 +1916,7 @@
         "name": "Daily Gun Dismantlement",
         "desc": "Scrap 4 small caliber main guns.",
         "memo": "\u203bConsolidation of Equipment Development Capabilities",
-        "unlock": [ 674 ],
+        "unlock": [ 188, 317, 674 ],
         "tracking": [ [0,4] ]
     },
     "674": {
@@ -1878,7 +1924,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675 ],
+        "unlock": [ 675, 676, 803 ],
         "tracking": [ [0,3] ]
     },
     
@@ -2266,11 +2312,26 @@
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a TBF.",
         "memo": "Have a New Model Aviation Armament Materials, a Skilled Crew Member, 10 Screws, 5000 Ammo, 8000 Bauxite and 40 Development Materials.\nSet a CV as secretary and equip a TBF in her first slot.\nScrap two Type 13 Air Radars and two Type 22 Surface Radars.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3D"
     },
+    "672": {
+        "code": "F64",
+        "name": "The Establishment of the Striking Force's Fleet Command Facility",
+        "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
+        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
+    },
     "675": {
         "code": "F67",
         "name": "Quarterly Interceptor",
         "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
         "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
+    },
+    "676": {
+        "code": "F68",
+        "name": "Weekly Gun Dismantlement",
+        "desc": "Have 2400 Steel. Scrap 3 medium-caliber main guns, 3 secondary guns and a Drum Canister.",
+        "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
+        "tracking": [ [0,3], [0,3], [0,1] ],
+        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ],
+        "unlock": [ 804 ]
     },
 
     "701": {
@@ -2303,24 +2364,6 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    },
-
-    "188": {
-        "code": "Le1A1",
-        "name": "Fully Formed Nishimura Fleet, Prepare to Sortie!",
-        "desc": "Have Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo and Shigure in Fleet 3. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Reinforcement Expansion and either a Skilled Lookouts OR a Furniture Fairy OR 3 Combat Rations"
-    },
-    "672": {
-        "code": "F64",
-        "name": "The Establishment of the Striking Force's Fleet Command Facility",
-        "desc": "Have 10 Development Materials, 2000 Steel and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.",
-        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Striking Force Fleet Command Facility"
-    },
-    "872": {
-        "code": "Le1B1",
-        "name": "Secure the Supply Line Logistics for Operation Sho-Ichi-Go!",
-        "desc": "Sortie to [E-2]. A-Rank+ the boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Mamiya and either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report"
-    }
+    } 
+    
 }

@@ -541,6 +541,13 @@
         "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy",
         "unlock": [ 875 ]
     },
+    "189": {
+        "code": "A84",
+        "name": "Elite DesRon 4, Prepare to Set Sail!",
+        "desc": "Have Murasame Kai Ni as flagship and at least three of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai in a fleet.",
+        "memo": "\u27a3Rewards a Repair Goddess",
+        "unlock": [ 877 ]
+    },
     
     "202": {
         "code": "B1",
@@ -1277,33 +1284,18 @@
         "desc": "Sortie a CL, an AV, a CVL and up to 3 additional ships to [W3-5]. S-Rank the boss node twice. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a present box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
     },
-    "801": {
-        "code": "SB26",
-        "name": "Happy New Year! Torpedo Squadron, Commence with the Sorties!",
-        "desc": "Sortie a CL as flagship and up to 5 DD to [W1-2] and [W1-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards an Emergency Repair Goddess and either 2 Combat Rations OR 5 Development Materials",
-        "unlock": [ 802 ]
-    },
-    "802": {
-        "code": "SB27",
-        "name": "Helping Out Irako in the New Year!",
-        "desc": "Sortie an AV/CA(V)/CL(T)/CT as flagship and up to 5 additional ships to [W2-2] and [W2-3]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards 3 Irako and either a Combat Ration (Special Onigiri) OR 5 Buckets OR a New Model Artillery Armament Materials",
-        "unlock": [ 803 ]
-    },
-    "803": {
-        "code": "SB28",
-        "name": "Commence the Escorts! A New Year for the Naval Escort Squadrons!",
-        "desc": "Sortie only DD/DE (1 CVL is allowed) to [W1-5] and [W1-6]. A-Rank+ the [W1-5] boss node three times. Reach [W1-6] node N three times. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards 3 Screws, a Furniture Fairy and either 2 Type 2 Depth Charges OR an Action Report OR a Raiden",
-        "unlock": [ 804 ]
-    },
-    "804": {
-        "code": "SB29",
-        "name": "Happy New Year! Carrier Task Force, Sortie at Full Strength!",
-        "desc": "Sortie a CV(B/L) as flagship, 2 DD and 3 additional ships to [W5-5]. A-Rank+ the boss node four times. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards furniture and either a Skilled Crew Member OR 2 New Model Aviation Armament Materials OR 3 Shiden Kai Ni"
-    },
+    "876": {
+        "code": "B111",
+        "name": "Prime Transport Operation, Commence!",
+        "desc": "Sortie Tatsuta Kai or Kai Ni as flagship and 3+ DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node twice. Reach [W1-6] node N twice. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Daihatsu Landing Craft OR an Action Report"
+    },  
+    "877": {
+        "code": "B112",
+        "name": "Elite DesRon 4, Deploy to the Southern Region!",
+        "desc": "Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.",
+        "memo": "You can bring up to two additional ships.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a 12.7cm Twin Gun Mount Model C Kai Ni OR 2 Type 22 Surface Radars OR 2 12.7cm Twin Gun Mount Model B Kai Nis\n\u00B6Second choice: Either 3 Drum Canisters OR 2 Underway Replenishments OR 4 Screws"
+    },  
     
     "201": {
         "code": "Bd1",
@@ -1916,7 +1908,7 @@
         "name": "Daily Gun Dismantlement",
         "desc": "Scrap 4 small caliber main guns.",
         "memo": "\u203bConsolidation of Equipment Development Capabilities",
-        "unlock": [ 188, 317, 674 ],
+        "unlock": [ 188, 317, 674, 876 ],
         "tracking": [ [0,4] ]
     },
     "674": {

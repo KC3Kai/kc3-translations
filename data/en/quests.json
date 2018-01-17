@@ -544,7 +544,7 @@
     "189": {
         "code": "A84",
         "name": "Elite DesRon 4, Prepare to Set Sail!",
-        "desc": "Have Murasame Kai Ni as flagship and at least three of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai in a fleet.",
+        "desc": "Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.",
         "memo": "\u27a3Rewards a Repair Goddess",
         "unlock": [ 877 ]
     },
@@ -1294,7 +1294,7 @@
         "code": "B112",
         "name": "Elite DesRon 4, Deploy to the Southern Region!",
         "desc": "Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.",
-        "memo": "You can bring up to two additional ships.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a 12.7cm Twin Gun Mount Model C Kai Ni OR 2 Type 22 Surface Radars OR 2 12.7cm Twin Gun Mount Model B Kai Nis\n\u00B6Second choice: Either 3 Drum Canisters OR 2 Underway Replenishments OR 4 Screws"
+        "memo": "You can bring up to two additional ships.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a 12.7cm Twin Gun Mount Model C Kai Ni OR 2 Type 22 Surface Radars OR 2 12.7cm Twin Gun Mount Model B Kai Nis\n\u00B6Second choice: Either 2 Underway Replenishments OR 3 Drum Canisters OR 4 Screws"
     },  
     
     "201": {
@@ -1639,10 +1639,10 @@
         "memo": "Use the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nYou must use fleet 1.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR a Furniture Fairy\n\u00B6Second choice: Either 5 Buckets OR 2 Combat Rations"
     },
     "318": {
-        "code": "",
+        "code": "C16",
         "name": "Monthly Exercises 2",
         "desc": "Secure 3 victories in Exercises using 2 CLs. Then, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay when selecting your rewards.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bSupport for Supply Ship Irako\n\u27a3Rewards 2 Buckets or 2 Development Materials"
+        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bThe Supply Ship Irako's Support\n\u27a3Rewards an Irako and either 2 Buckets OR 2 Development Materials"
     },
 
     
@@ -2332,10 +2332,10 @@
         "unlock": [ 318, 804 ]
     },
     "677": {
-        "code": "F69?",
+        "code": "F69",
         "name": "Weekly Dismantlement 2",
         "desc": "Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.",
-        "memo": "\u203b(Quest title translation TBD)\n\u2718Consumes the resources.",
+        "memo": "\u203bConsolidation of Faculties to Support Ongoing War Efforts\n\u2718Consumes the resources.",
         "tracking": [ [0,4], [0,2], [0,3] ],
         "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
     },

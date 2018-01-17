@@ -1916,7 +1916,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675, 676, 803 ],
+        "unlock": [ 675, 676, 677, 803 ],
         "tracking": [ [0,3] ]
     },
     
@@ -2322,8 +2322,16 @@
         "desc": "Have 2400 Steel. Scrap 3 medium-caliber main guns, 3 secondary guns and a Drum Canister.",
         "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
         "tracking": [ [0,3], [0,3], [0,1] ],
-        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ],
+        "trackingDesc": [ "{0} Medium Cal. Main Guns", "{0} Secondary Guns", "{0} Drum Canisters" ],
         "unlock": [ 804 ]
+    },
+    "677": {
+        "code": "F69?",
+        "name": "Weekly Dismantlement 2",
+        "desc": "Have 3600 Steel. Scrap 4 large-caliber main guns, 2 recon seaplanes and 3 torpedoes.",
+        "memo": "\u203b(Quest title translation TBD)\n\u2718Consumes the resources.",
+        "tracking": [ [0,4], [0,2], [0,3] ],
+        "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
     },
 
     "701": {

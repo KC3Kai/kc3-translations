@@ -399,7 +399,7 @@
 	"SettingsPanelOpacity" : "Interface Opacity",
 	"SettingsPanelBoxBackColor" : "Panel Box Back Color",
 	"SettingsPanelCustomCSS" : "Custom CSS",
-	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, close and reopen devtools panel. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. Changes will be applied immediately on this field saved. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
@@ -778,6 +778,8 @@
 	"PvpFormationPred"   : "Formation",
 	"FirstFleetLevelTip" : "Exp. for PvP opponents:\nBase: {0}\nS-Rank: {1} with no CT",
 	
+	"RemodelItemListTitle" : "Here are recipes today<br/>(<span>{0:weekday} JST</span>)",
+
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition {1}",
 	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",

@@ -505,7 +505,7 @@
         "name": "Form the New 4th Torpedo Squadron!",
         "desc": "Have Yura Kai Ni as flagship, Murasame, Yuudachi, Harusame, Samidare, and 1 other DD in Fleet 1.",
         "memo": "\u27a3Rewards a Repair Team",
-        "unlock": [ 860 ]
+        "unlock": [ 189, 860 ]
     },
     "184": {
         "code": "A79",
@@ -744,7 +744,7 @@
         "name": "Emergency Deployment of a Torpedo Squadron!",
         "desc": "Sortie a CL as flagship and either (1 CL and 4 DD) or (5 DD) to [W2-2]. S-Rank the boss node.",
         "memo": "\u203bEmergency Deployment of a Torpedo Squadron into the Bashi Islands Region!\n\u27a3Rewards a Furniture Fairy",
-        "unlock": [ 256 ]
+        "unlock": [ 256, 876 ]
     },
     "258": {
         "code": "B31",
@@ -770,7 +770,8 @@
         "code": "B34",
         "name": "Sortie the 6th Cruiser Division into the Southwestern Sea!",
         "desc": "Sortie Furutaka, Kako, Aoba, Kinugasa and 2 additional ships to [W2-5]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy"
+        "memo": "\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 189 ]
     },
     "267": {
         "code": "B35",
@@ -1237,7 +1238,8 @@
         "code": "B103",
         "name": "Flagship Yura, Set Sail!",
         "desc": "Sortie Yura Kai Ni as Fleet 1 flagship, at least 2 of Akizuki, Yuudachi, Murasame, Harusame or Samidare, and 3 others to [W2-3] and [W5-1]. S-Rank the boss nodes.",
-        "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards a Skilled Crew Member and either a Daihatsu Landing Craft OR a Reinforcement Expansion."
+        "memo": "\u203bPress F10 to clear the overlay.\n\u27a3Rewards a Skilled Crew Member and either a Daihatsu Landing Craft OR a Reinforcement Expansion.",
+        "unlock": [ 877 ]
     },
     "863": {
         "code": "B104",

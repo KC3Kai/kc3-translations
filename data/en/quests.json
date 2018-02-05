@@ -1895,7 +1895,7 @@
         "name": "Daily Development 1",
         "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
         "memo": "\u203bOrders to Develop New Equipment",
-        "unlock": [ 606 ],
+        "unlock": [ 606, 678 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -2366,6 +2366,12 @@
         "memo": "\u203bConsolidation of Faculties to Support Ongoing War Efforts\n\u2718Consumes the resources.",
         "tracking": [ [0,4], [0,2], [0,3] ],
         "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
+    },
+    "678": {
+        "code": "",
+        "name": "An Update for the Mainstay Carrier-based Fighter Aircraft",
+        "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u2718Consumes the resources.\n\u27a3Rewards two Shiden Kai Ni either a New Model Aviation Armament Materials OR 8 Development Materials"
     },
     "679": {
         "code": "F?",

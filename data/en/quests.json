@@ -1308,7 +1308,7 @@
     "878": {
         "code": "B113",
         "name": "Continue to Execute the Matsu Transport Operation!",
-        "desc": "Sortie a CL/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6] node N three times. Overlay: F10.",
+        "desc": "Sortie a CL(T)/CT/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6] node N three times. Overlay: F10.",
         "memo": "You may use up to 2 additional ships of any class.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR 3 Screws\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR two 12cm 30-tube Rocket Launchers OR a Furniture Fairy"
     },
     "879": {
@@ -2368,13 +2368,13 @@
         "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
     },
     "678": {
-        "code": "",
+        "code": "F70",
         "name": "An Update for the Mainstay Ship-based Fighter Aircraft",
         "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u2718Consumes the resources.\n\u27a3Rewards two Shiden Kai Ni either a New Model Aviation Armament Materials OR 8 Development Materials"
     },
     "679": {
-        "code": "F?",
+        "code": "F71",
         "name": "An Expansion of Anti-Air Armaments",
         "desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns. Press F10 to clear the overlay.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers OR a Reinforcement Expansion"

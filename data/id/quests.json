@@ -453,6 +453,18 @@
         "desc": "Miliki Mogami, Asagumo, Michishio, Shigure dan Yamagumo di Armada ke-3.",
         "memo": "\u27a3Hadiahnya ANTARA 2 Irako ATAU Furniture Fairy ATAU New Model Artillery Armament Materials"
     },
+    "188": {
+        "code": "A83",
+        "name": "Kapal Perusak Divisi Ke-31 Elit, Peleton Pertama, Bersiap untuk Sorti!",
+        "desc": "Miliki Naganami Kai Ni sebagai pemimpin dan SALAH SATU dari Takanami Kai, Asashimo Kai ATAU Okinami Kai di armada. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Antara 2 Combat Ration (Special Onigiri) ATAU Furniture Fairy"
+    },
+    "189": {
+        "code": "A84",
+        "name": "Pasukan Kapal Perusak Ke-4 Elit, Bersiap untuk Berlayar!",
+        "desc": "Miliki Murasame Kai Ni sebagai pemimpin, 3 (Tiga) dari Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai Dan/Atau Akizuki Kai dengan kapal lainnya sesukamu sampai penuh di armada.",
+        "memo": "\u27a3Hadiahnya Repair Goddess"
+    },
     "202": {
         "code": "B1",
         "name": "Sorti Pertama Kali!",
@@ -756,18 +768,6 @@
         "name": "Sorti Pasukan Divisi ke-16 (Generasi Pertama)",
         "desc": "Sorti Ashigara sebagai kapal pemimpin, Kuma, Nagara dan 3 kapal tambahan ke [W2-2] dan dapatkan Rank S pada Boss Node"
      },
-    "290": {
-        "name": "Memancing Ikan Sauri: Ayo tangkap saurinya!",
-        "desc": "Kalahkan armada musuh pada Daerah Utara Perikanan dan Zona Perbatasan dan dapatkan 3 sauri!"
-    },
-    "291": {
-        "name": "Memancing Ikan Sauri: Kita harus tangkap sauri lebih banyak!",
-        "desc": "Memang sedikit melelahkan, tapi kau harus mengamankan daerah perikanan dan dapatkan 10 sauri!"
-    },
-    "292": {
-        "name": "Memancing Ikan Sauri: Kau pasti bisa berusuha lebih keras lagi!",
-        "desc": "Akan sangat menyulitkan, tapi coba tangkaplah ikan sauri lebih banyak lagi!"
-    },
     "293": {
         "code": "B53",
         "name": "Kapal Induk divisi ke-3: Lindungi Pulau Nensei",
@@ -1101,24 +1101,17 @@
         "desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai and up to 2 additional ships to [W3-2] dan dapatkan S-Rank pada Boss Node.",
         "memo": "\u27a3Hadiahnya 2 Irako dan ANTARA Daihatsu Landing Craft ATAU New Model Gun Mount Improvement Material ATAU Reinforcement Expansion."
     },
-	
-    "866": {
-        "code": "SB23",
-        "name": "Memancing Saori: Aku akan menjaga panen Sauri! Mata Pancing, Yes!",
-        "desc": "Punya 4 Saori di inventorimu.",
-        "memo": "\u27a3Hadiahnya:\n\u00B6Pilihan pertama: Furniture Fairy ATAU 4 Development Material\n\u00B6Pilihan kedua: Type 3 Active Sonar ATAU Searchlight ATAU 4 Combat Ration"
+    "864": {
+        "code": "B105",
+        "name": "Kapal Induk Kuat Bersekala Besar, Berlayar!",
+        "desc": "Sorti Saratoga Mk.II Atau Mod.2 sebagai pemimpin, 1 CL, 2 DD dan 2 kapal tambahan ke [W5-5] dan [W6-2] dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya:\n\u00B6Pertama : ANTARA F6F-3 ATAU Skilled Crew Member ATAU New Model Aviation Armament Materials\n\u00B6Kedua: ANTARA TBF ATAU Night Operations Aviation Personnel"
     },
-    "867": {
-        "code": "SB24",
-        "name": "Memancing Saori: Aku siap untuk mendukung pemancingan sampai titik darah penghabisan! Mancing Mania, Mantap!",
-        "desc": "Punya 12 Saori di inventorimu.",
-        "memo": "\u27a3Hadiahnya:\n\u00B6Pilihan pertama: Daihatsu Landing Craft ATAU WG42 (Wurfgerät 42) ATAU New Model Aviation Armament Materials\n\u00B6Pilihan kedua: 2 Swordfish ATAU 2 Shiden Kai Ni ATAU Skilled Crew Member"
-    },
-    "868": {
-        "code": "SB25",
-        "name": "Memancing Saori: DUAAAARR! Aku benar-benar bersemangat untuk mendapat tangkapan yang besar!",
-        "desc": "Punya 30 Saori di inventorimu.",
-        "memo": "\u27a3Hadiahnya Type 17 Fleet Fishery Banner DAN salah satu antara Type124 ASDIC ATAU TBF ATAU Type 16 Fleet Fishery Banner "
+    "865": {
+        "code": "B106",
+        "name": "Operasi Malam Kapal Induk, Sorti menuju Garis Depan!",
+        "desc": "Sorti Saratoga Mk.II (BUKAN Mod.2) sebagai pemimpin ke [W6-5] dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA TBF ATAU New Model Aviation Armament Materials ATAU Night Operations Aviation Personnel + Skilled Deck Hands\n\u00B6Kedua: ANTARA Reinforcement Expansion ATAU New Model Aviation Armament Materials ATAU Skilled Crew Member"
     },
     "869": {
           "code": "B107",
@@ -1138,106 +1131,152 @@
         "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (atau D), Ooshio Kai Ni, Michishio Kai Ni dan boleh ditambah 2 kapal lainnya ke [W3-2] dan [W5-4].\n Dapatkan Rank S di semua Boss node.",
         "memo": "\u27a3Hadiahnya 4 Improvement Material DAN salah satu antara 12.7cm Twin Gun Mount Model C Kai Ni ATAU Daihatsu Landing Craft ATAU Type 22 Surface Radar"
     },
+    "874": {
+        "code": "B110",
+        "name": "Lakukan Patroli Tempur pada Bagian Utara!",
+        "desc": "Sorti CL, AV, CVL dan 3 kapal tambahan ke [W3-5]dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya present box dan ANTARA 2 Shiden Kai Ni ATAU 4 Baut ATAU New Model Aviation Armament Materials"
+    },
+    "876": {
+        "code": "B111",
+        "name": "Matsu Transport Operation, Commence!",
+        "desc": "Sorti Tatsuta Kai atau Kai Ni sebagai pemimpin dan 3+ DE/DD ke [W1-4] dan [W1-6]. Rank A [W1-4] pada Boss Node 2x, dan menuju Node N di [W1-6] 2x. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "Tambah 2 kapal lagi juga tak apa.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA New Model Artillery Armament Materials ATAU New Model Aviation Armament Materials\n\u00B6Kedua: ANTARA Furniture Fairy ATAU Daihatsu Landing Craft ATAU Action Report"
+    },  
+    "877": {
+        "code": "B112",
+        "name": "Pasukan Kapal Perusak Ke-4 Elit, Menuju Bagian Selatan!",
+        "desc": "Sorti Murasame Kai Ni sebagai pemimpin dan 3+ dari Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai Dan/Atau Akizuki Kai ke [W5-1], [W5-3] dan [W5-4] dan dapatkan setidaknya Rank A pada Boss Node tsb.",
+        "memo": "Tambah 2 kapal lagi juga tak apa.\nTekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA 12.7cm Twin Gun Mount Model C Kai Ni ATAU 2 Type 22 Surface Radar ATAU 2 12.7cm Twin Gun Mount Model B Kai Ni\n\u00B6Kedua: ANTARA 2 Underway Replenishment ATAU 3 Drum Canister ATAU 4 Baut"
+    },
     "201": {
         "code": "Bd1",
         "name": "Sorti Harian 1",
         "desc": "Kalahkan Armada Abyssal (setidaknya Rank B)",
-	"memo": "\u203bHajar armada musuh!"
+	"memo": "\u203bHajar armada musuh!",
+        "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
         "name": "Sorti Harian 2",
         "desc": "Kalahkan Kapal Pemimpin Armada Abyssal",
-	"memo": "\u203bHancurkan kapal pemimpin armada musuh!"
+	"memo": "\u203bHancurkan kapal pemimpin armada musuh!",
+        "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
         "name": "Sorti Harian 3",
         "desc": "Serang 10 Armada Abyssal (Tidak harus menang)",
-	"memo": "\u203bSeranglah 10 Armada Abyssal!"
+	"memo": "\u203bSeranglah 10 Armada Abyssal!",
+        "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
         "name": "Sorti Harian 4",
         "desc": "Tenggelamkan 3 Kapal Induk/CV(L) Abyssal",
-	"memo": "\u203bTenggelamkan Saja 3 Kapal Induk Abyssal!"
+	"memo": "\u203bTenggelamkan Saja 3 Kapal Induk Abyssal!",
+        "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
         "name": "Sorti Harian 5",
         "desc": "Tenggelamkan 3 Kapal Transport Abyssal",
-	"memo": "\u203bTenggelamkan Saja 3 Kapal Suplai Abyssal!"
+	"memo": "\u203bTenggelamkan Saja 3 Kapal Suplai Abyssal!",
+        "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
         "name": "Sorti Harian 6",
         "desc": "Tenggelamkan 5 Kapal Transport Abyssal",
-	"memo": "\u203bSerang konvoi transport musuh!"
+	"memo": "\u203bSerang konvoi transport musuh!",
+        "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
         "name": "Sorti Harian 7",
         "desc": "Kalahkan 5 Boss pada Node bertanduk di [W2]",
-	"memo": "\u203bRenggut kekuasaan di Wilayah Kepulauan Nansei!"
+	"memo": "\u203bRenggut kekuasaan di Wilayah Kepulauan Nansei!",
+        "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
         "name": "Sorti Harian 8",
         "desc": "Tenggelamkan 6 Kapal Selam Abyssal",
-	"memo": "\u203bGanyang Kapal Selam Musuh!"
+	"memo": "\u203bGanyang Kapal Selam Musuh!",
+        "tracking": [ [0,6] ]
     },
+	
+	
+	
+	
+	
     "214": {
         "code": "Bw1",
         "name": "Sorti Mingguan 1",
         "desc": "Sorti 36x, Lawan 24 Boss, Menang 12x di Boss Node, 6x Rank S",
+        "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
 	"trackingDesc": [ "{0}x sorti", "{0}x boss", "{0}x B+ boss", "{0}x rank S" ]
     },
     "220": {
         "code": "Bw2",
         "name": "Sorti Mingguan 2",
-        "desc": "Tenggelamkan 20 Kapal Induk/CV(L) Abyssal"
+        "desc": "Tenggelamkan 20 Kapal Induk/CV(L) Abyssal",
+        "tracking": [ [0,20] ]
     },
     "213": {
         "code": "Bw3",
         "name": "Sorti Mingguan 3",
-        "desc": "Tenggelamkan 20 Kapal Transport Abyssal"
+        "desc": "Tenggelamkan 20 Kapal Transport Abyssal",
+        "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
         "name": "Sorti Mingguan 4",
-        "desc": "Tenggelamkan 50 Kapal Transport Abyssal"
+        "desc": "Tenggelamkan 50 Kapal Transport Abyssal",
+        "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
         "name": "Sorti Mingguan 5",
-        "desc": "Tenggelamkan 15 Kapal Selam/SS Abyssal"
+        "desc": "Tenggelamkan 15 Kapal Selam/SS Abyssal",
+        "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
         "name": "Sorti Mingguan 6",
-        "desc": "Kalahkan 12 Boss pada Node bertanduk di [W4]"
+        "desc": "Kalahkan 12 Boss pada Node bertanduk di [W4]",
+        "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
         "name": "Sorti Mingguan 7",
-        "desc": "Kalahkan 5 Boss di [W3-3], [W3-4] atau [W3-5]"
+        "desc": "Kalahkan 5 Boss di [W3-3], [W3-4] atau [W3-5]",
+        "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
         "name": "Sorti Mingguan 8",
-        "desc": "Kalahkan Boss di [W4-4]"
+        "desc": "Kalahkan Boss di [W4-4]",
+        "tracking": [ [0,1] ]
     },
     "243": {
         "code": "Bw9",
         "name": "Sorti Mingguan 9",
-        "desc": "Sorti ke [W5-2] dan dapatkan 2x Rank S pada Boss Node"
+        "desc": "Sorti ke [W5-2] dan dapatkan 2x Rank S pada Boss Node",
+        "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
         "name": "Sorti Mingguan 10",
-        "desc": "Sorti ke [W1-5] dan dapatkan 3x setidaknya Rank A pada Boss Node"
+        "desc": "Sorti ke [W1-5] dan dapatkan 3x setidaknya Rank A pada Boss Node",
+        "tracking": [ [0,3] ]
     },
-        "249": {
+	
+	
+	
+	
+	
+    "249": {
         "code": "Bm1",
         "name": "Sorti Bulanan 1",
         "desc": "Sorti Myoukou, Nachi, Haguro, dan 3 Kapal tambahan ke [W2-5] dan dapatkan Rank S pada Boss Node",
@@ -1247,7 +1286,8 @@
         "code": "Bm2",
         "name": "Sorti Bulanan 2",
         "desc": "Sorti ke [W6-1] dan dapatkan 3x Rank S pada Boss Node",
-        "memo": "\u203bSorti Armada Kapal Selam!\n\u27a3Hadiahnya Irako"
+        "memo": "\u203bSorti Armada Kapal Selam!\n\u27a3Hadiahnya Irako",
+        "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
@@ -1265,7 +1305,8 @@
         "code": "Bm5",
         "name": "Sorti Bulanan 5",
         "desc": "Sorti ke [W1-5] dan dapatkan 10x setidaknya Rank A pada Boss Node",
-        "memo": "\u203bTugas pengawalan bulanan\n\u27a3Hadiahnya 3 Improvement Material"
+        "memo": "\u203bTugas pengawalan bulanan\n\u27a3Hadiahnya 3 Improvement Material",
+        "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
@@ -1284,27 +1325,47 @@
         "code": "Bq1",
         "name": "Triwulanan ke [W2-4]",
         "desc": "Sorti ke [W2-4] dan dapatkan 2x Rank S pada Boss Node.",
-        "memo": "\u203bOperasi Serangan balik daerah Okinoshima \n\u27a3Hadiahnya 5 Development Material"
+        "memo": "\u203bOperasi Serangan balik daerah Okinoshima \n\u27a3Hadiahnya 5 Development Material",
+        "tracking": [ [0,2] ]
     },
 	"854": {
         "code": "Bq2",
         "name": "Triwulanan Poin Peringkat",
         "desc": "Sorti ke [W2-4], [W6-1] dan [W6-3], dan dapatkan setidaknya Rank A pada Boss Node. lalu Sorti ke [W6-4] dan dapatkan Rank S pada Boss Node.",
         "memo": "\u203bMisi Hasil Perang Tambahan! \"Operasi Z\", Operasi Awal\n\u27a3Hadiahnya 3 Mamiya, 4 Development Material dan 350 Poin Peringkat",
+        "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0}x rank A [W2-4]", "{0}x rank A [W6-1]", "{0}x rank A [W6-3]", "{0}x rank S [W6-4]" ]
     },
     "861": {
         "code": "Bq3",
         "name": "Triwulan ke [W1-6]",
         "desc": "Sorti 2 BBV/AO dan secukupnya 4 kapal tambahan ke [W1-6] dan menuju node N 2x.",
-        "memo": "\u203bArmada Pengawal Bantuan, Berlayar!\n\u27a3Hadiahnya Underway Replenishment"
+        "memo": "\u203bArmada Pengawal Bantuan, Berlayar!\n\u27a3Hadiahnya Underway Replenishment",
+        "tracking": [ [0,2] ]
     },
     "862": {
         "code": "Bq4",
         "name": "Triwulan ke [W6-3]",
         "desc": "Sorti 1 AV, 2 CL dan secukupnya 3 kapal tambahan ke [W6-3] dan dapatkan setidaknya Rank A pada Boss Node 2x.",
-        "memo": "\u203bBawa Pengintai Udara pada Garis Depan!\n\u27a3Hadiahnya 4 Development Material"
+        "memo": "\u203bBawa Pengintai Udara pada Garis Depan!\n\u27a3Hadiahnya 4 Development Material",
+        "tracking": [ [0,2] ]
     },
+    "873": {
+        "code": "Bq5",
+        "name": "Triwulan [W3]",
+        "desc": "Sorti CL dan 5 kapal tambahan ke [W3-1], [W3-2] dan [W3-3] dan dapatkan setidaknya Rank A pada Boss Node tsb. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u203bAmankan Pertahanan pada Bagian Utara!\n\u27a3Hadiahnya Combat Ration dan ANTARA Furniture Fairy ATAU \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni ATAU Medal",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
+    },
+    "875": {
+        "code": "Bq6",
+        "name": "Triwulan [W5-4]",
+        "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
+        "memo": "\u203bKapal Perusak Divisi ke-31 Elit, Menuju Iron Bottom Sound!\n\u27a3Hadiahnya:\n\u00B6Pertama: ANATAR 2 Type 13 Air Radars ATAU 2 Type 22 Surface Radars ATAU Action Report\n\u00B6Kedua: ANTARA New Model Artillery Armament Materials ATAU Present Box",
+        "tracking": [ [0,2] ]
+    },
+	
 	
     "301": {
         "code": "C1",
@@ -1314,47 +1375,56 @@
      "303": {
         "code": "C2",
         "name": "Latihan Harian 1",
-        "desc": "Tantang 3 Armada lain pada Mode Latihan"
+        "desc": "Tantang 3 Armada lain pada Mode Latihan",
+        "tracking": [ [0,3] ]
     },
     "304": {
         "code": "C3",
         "name": "Latihan Harian 2",
-        "desc": "Dapatkan 5 Kemenangan pada Mode Latihan Di Hari yang sama"
+        "desc": "Dapatkan 5 Kemenangan pada Mode Latihan Di Hari yang sama",
+        "tracking": [ [0,5] ]
     },
     "302": {
         "code": "C4",
         "name": "Latihan Mingguan",
-        "desc": "(Mingguan) Dapatkan 20 kemenagan pada Mode Latihan"
+        "desc": "(Mingguan) Dapatkan 20 kemenagan pada Mode Latihan",
+        "tracking": [ [0,20] ]
     },
     "307": {
         "code": "C5",
         "name": "Tingkatkan efisiensi Armada",
-        "desc": "Dapatkan 3 Kemenangan di Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 3 Kemenangan di Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,3] ]
     },
     "308": {
         "code": "C6",
         "name": "Sekali lagi, Tingkatkan efisiensi Armada",
-        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,4] ]
     },
     "309": {
     "code": "C7",
         "name": "Upaya Meningkatkan Level Latihan Untuk Menanggulangi Operasi 'KE'",
-        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,4] ]
     },
     "311": {
         "code": "C8",
         "name": "Latihan Armada Elit",
-        "desc": "Dapatkan 7 Kemenangan pada mode latihan di hari yang sama"
+        "desc": "Dapatkan 7 Kemenangan pada mode latihan di hari yang sama",
+        "tracking": [ [0,7] ]
     },
     "312": {
         "code": "C9",
         "name": "Latihan Angkatan Pendaratan",
-        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama"
+        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama",
+        "tracking": [ [0,4] ]
     },
     "313": {
         "code": "C10",
         "name": "Latihan Musim Gugur Berskala Besar",
-        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama"
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama",
+        "tracking": [ [0,8] ]
     },
     "314": {
         "code": "C11",
@@ -1367,6 +1437,27 @@
         "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama",
         "memo": "\u27a3Hadiahnya Present Box"
     },
+    "316": {
+        "code": "C13",
+        "name": "Berjuang untuk Meningkatkan Pasukan Transport Tingkatan Latihan!",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya 2 Baut dan ANTARA Furniture Fairy ATAU Daihatsu Landing Craft."
+    },
+    "317": {
+        "code": "C15",
+        "name": "Projek untuk Menyiapkan Persiapan Bertempur untuk Kapal Perusak Tipe-A",
+        "desc": "Dapatkan 3x S-Ranks Pada mode latihan dengan 2+ Kagerou-class ATAU Yuugumo-class. Lalu, sorti ke [W2-2], [W2-3], [W2-4] dan [W2-5]. Setidaknya Rank A pada Boss Node.  TL: F10.",
+        "memo": "Gunakan kelas yang sama untuk pergi ke [W2] juga.\nUntuk quest ini dapat gunakan 4 kapal dan di armada 1.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA Action Report ATAU Furniture Fairy\n\u00B6Kedua: ANTARA 5 Ember ATAU 2 Combat Ration"
+    },
+    "318": {
+        "code": "C16",
+        "name": "Latihan Bulanan 2",
+        "desc": "Dapatkan 3 kemenangan pada mode latihan dengan 2 CL. Lalu, Beri pemimpin 2 Combat Ration. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Senjata akan Hilang. Pastikan Senjatanya tidak dikunci!\n\u203bKapal Suplai Bantuan Irako\n\u27a3Hadiahnya Irako dan ANTARA 2 Ember ATAU 2 DevMat.",
+        "tracking": [ [0,3] ]
+    },
+	
+	
     "401": {
         "code": "D1",
         "name": "Ekspedisi Pertama",
@@ -1375,17 +1466,20 @@
     "402": {
         "code": "D2",
         "name": "Ekspedisi Harian 1",
-        "desc": "Lakukan 3 Ekspedisi dengan Sukses"
+        "desc": "Lakukan 3 Ekspedisi dengan Sukses",
+        "tracking": [ [0,3] ]
     },
     "403": {
         "code": "D3",
         "name": "Ekspedisi Harian 2",
-        "desc": "Lakukan 10 Ekspedisi dengan Sukses"
+        "desc": "Lakukan 10 Ekspedisi dengan Sukses",
+        "tracking": [ [0,10] ]
     },
     "404": {
         "code": "D4",
         "name": "Ekspedisi Mingguan",
-        "desc": "Lakukan 30 Ekspedisi dengan Sukses"
+        "desc": "Lakukan 30 Ekspedisi dengan Sukses",
+        "tracking": [ [0,30] ]
     },
     "405": {
         "code": "D5",
@@ -1400,7 +1494,8 @@
     "408": {
         "code": "D7",
         "name": "Kelanjutan dari Operasi Kapal Selam",
-        "desc": "Selesaikan Ekspedisi 30 dua kali lagi"
+        "desc": "Selesaikan Ekspedisi 30 dua kali lagi",
+        "tracking": [ [0,2] ]
     },
     "409": {
         "code": "D8",
@@ -1410,7 +1505,8 @@
     "410": {
         "code": "D9",
         "name": "Ekspedisi Mingguan 2",
-        "desc": "Selesaikan Ekspedisi 37 atau 38"
+        "desc": "Selesaikan Ekspedisi 37 atau 38",
+        "tracking": [ [0,1] ]
     },
     "412": {
         "code": "D10",
@@ -1420,12 +1516,14 @@
     "411": {
         "code": "D11",
         "name": "Ekspedisi Mingguan 3",
-        "desc": "Selesaikan Ekspedisi 37 atau 38 sebanyak 7 kali"
+        "desc": "Selesaikan Ekspedisi 37 atau 38 6x",
+        "tracking": [ [0,6] ]
     },
     "413": {
         "code": "D12",
         "name": "Operasi Memperkuat BBV (Lanjutan.)",
-        "desc": "Selesaikan Ekspedisi 23 Empat kali lagi"
+        "desc": "Selesaikan Ekspedisi 23 Tiga kali lagi",
+        "tracking": [ [0,3] ]
     },
     "414": {
         "code": "D13",
@@ -1453,7 +1551,8 @@
     "418": {
         "code": "D17",
         "name": "Persiapan Upacara Angkatan Laut",
-        "desc": "Selesaikan Ekspedisi 7 dua kali"
+        "desc": "Selesaikan Ekspedisi 7 dua kali",
+        "tracking": [ [0,7] ]
     },
     "419": {
         "code": "D18",
@@ -1481,18 +1580,21 @@
         "code": "D22",
         "name": "Expedisi 5 Bulanan",
         "desc": "Expedisi 5 4x.",
-        "memo": "\u203bPerkuat Pengawal Armada Transport!"
+        "memo": "\u203bPerkuat Pengawal Armada Transport!",
+        "tracking": [ [0,4] ]
     },
     "425": {
         "code": "D23",
         "name": "Armada Pengawal Laut, Mulai Expedisi!",
-        "desc": "Selesaikan Expedisi 4, 5 dan 9."
+        "desc": "Selesaikan Expedisi 4, 5 dan 9.",
+        "tracking": [ [0,3] ]
     },
     "426": {
         "code": "D24",
         "name": "Expedisi Triwulan",
         "desc": "Selesaikan Expedisi 3, 4, 5 dan 10.",
         "memo": "\u203bLakukan penjagaan ketat terhadap jalur dagang laut!\n\u27a3Hadiahnya 2 Combat Rations",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Ekspedisi 3", "{0} Ekspedisi 4", "{0} Ekspedisi 5", "{0} Ekspedisi 10" ]
     },
     "427": {
@@ -1506,6 +1608,7 @@
         "name": "Desak Pasukan Serbu Kapal Selam Musuh Kembali ke Perairan Dalam!",
         "desc": "Selesaikan Ekspedisi 4, A2 dan A3. (Masing-masing dua kali)",
         "memo": "\u27a3Hadiahnya 3 Improvement Material dan Type 95 Depth Charge",
+        "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} Ekspedisi 4", "{0} Ekspedisi A2", "{0} Ekspedisi A3" ]
     },
     "429": {
@@ -1514,6 +1617,8 @@
         "desc": "Selesaikan Ekspedisi 3, A1 and B1.",
         "memo": "\u27a3Hadiahnya 2 Underway Replenishment"
     },
+	
+	
     "501": {
         "code": "E1",
         "name": "Isi Ulang Pertama",
@@ -1527,38 +1632,53 @@
     "503": {
         "code": "E3",
         "name": "Perbaikan Harian",
-        "desc": "Perbaiki 5 Kapal"
+        "desc": "Perbaiki 5 Kapal",
+        "tracking": [ [0,5] ]
     },
     "504": {
         "code": "E4",
         "name": "Isi Ulang Harian",
-        "desc": "Isi Ulang Kapal 15 kali"
+        "desc": "Isi Ulang Kapal 15 kali",
+        "tracking": [ [0,15] ]
     },
-        "605": {
+	
+	
+	
+	
+	
+    "605": {
         "code": "F1",
         "name": "Perkembangan Harian 1",
-        "desc": "Buat 1 Persenjataan (Gagal tak masalah)"
+        "desc": "Buat 1 Persenjataan (Gagal tak masalah)",
+        "tracking": [ [0,1] ]
     },
     "606": {
         "code": "F2",
         "name": "Konstruksi Harian 1",
-        "desc": "Buat sebuah Kapal"
+        "desc": "Buat sebuah Kapal",
+        "tracking": [ [0,1] ]
     },
     "607": {
         "code": "F3",
         "name": "Pengembangan Harian 2",
-        "desc": "Buat 3 Persenjataan (Gagal tak masalah)"
+        "desc": "Buat 3 Persenjataan (Gagal tak masalah)",
+        "tracking": [ [0,3] ]
     },
      "608": {
         "code": "F4",
         "name": "Konstruksi Harian 2",
-        "desc": "Buat 3 Kapal"
+        "desc": "Buat 3 Kapal",
+        "tracking": [ [0,3] ]
     },
      "609": {
         "code": "F5",
         "name": "Pembongkaran Harian",
-        "desc": "Hancurkan 2 Kapal"
+        "desc": "Hancurkan 2 Kapal",
+        "tracking": [ [0,2] ]
     },
+	
+	
+	
     "601": {
         "code": "F6",
         "name": "Konstruksi Pertama",
@@ -1582,17 +1702,20 @@
     "610": {
         "code": "F10",
         "name": "Persiapan untuk LSC (Bagian 2)",
-        "desc": "Hancurkan Persenjataan 4 kali"
+        "desc": "Hancurkan Persenjataan 4 kali",
+        "tracking": [ [0,4] ]
     },
     "612": {
         "code": "F11",
         "name": "Siapkan Drum Canisters",
-        "desc": "Hancurkan Persenjataan 3 kali"
+        "desc": "Hancurkan Persenjataan 3 kali",
+        "tracking": [ [0,3] ]
     },
      "613": {
         "code": "F12",
         "name": "Pembongkaran Mingguan",
-        "desc": "Hancurkan Persenjataan 24 kali"
+        "desc": "Hancurkan Persenjataan 24 kali",
+        "tracking": [ [0,24] ]
     },
      "614": {
         "code": "F13",
@@ -1622,11 +1745,31 @@
         "name": "Modernisasi Perlangkapan Pertama",
         "desc": "Lakukan Modernisasi Persenjataan sekali"
     },
+	
+	
+	
     "619": {
         "code": "F18",
         "name": "Modernisasi Persenjataan Harian",
         "desc": "Lakukan Modernisasi Persenjataan sekali"
     },
+    "673": {
+        "code": "F65",
+        "name": "Penghancuran Senjata Harian",
+        "desc": "Hancurkan 4 small caliber main gun.",
+        "memo": "\u203bPenggabungan Kemampuan Pengingkatan Senjata",
+        "tracking": [ [0,4] ]
+    },
+    "674": {
+        "code": "F66",
+        "name": "Penghancuran Senjata Anti Udara",
+        "desc": "Miliki 300 Besi. Hancurkan 3 anti-air machine gun.",
+        "memo": "\u203bPenggabungan Lingkungan Gudang senjata",
+        "tracking": [ [0,3] ]
+    },
+	
+	
+	
     "622": {
         "code": "F19",
         "name": "Konversi model: \"Type 97 Torpedo Bomber (Murata Squadron ke Tenzan)\"",
@@ -1907,6 +2050,46 @@
         "desc": "Karena panjang, lihat Memo.",
         "memo": "Miliki New Model Aviation Armament Materials, 6 Development Material, 5000 Bauksit dan 30 Development Material.\nJadikan CV sebagai kapal sekretaris dan kasih dia sebuah F6F-3 \u2605max >> di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radar.\n\u2718Semua sumber daya dan senjata akan hilang. Pastikan senjatannya tidak dikunci!\n\u27a3Hadiahnya F6F-3N"
     },
+    "670": {
+        "code": "F63",
+        "name": "Lakukan Penguatan Kelas Pesawat Tempur Malam Hari Berbasis Kapal Induk",
+        "desc": "Karena Panjang, lihat Memo.",
+        "memo": "Miliki New Model Aviation Armament Materials, 8 Baut, 6000 Bauxit dan 40 DevMat.\nJadikan CV sebagai sekretaris lalu beri >> \u2605max F6F-5 di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radars.\n\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya F6F-5N."
+    },
+    "671": {
+        "code": "F62",
+        "name": "Pengembangan Kelas Pesawat Tempur Malam Hari Berbasis Kapal Induk",
+        "desc": "Karena Panjang, lihat Memo.",
+        "memo": "Miliki New Model Aviation Armament Materials, Skilled Crew Member, 10 Baut, 5000 Peluru, 8000 Bauxit dan 40 DevMat.\nJadikan CV sebagai sekretaris dan beri dia TBF di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radar.\n\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya TBM-3D."
+    },
+    "672": {
+        "code": "F64",
+        "name": "Pembentukan Fasilitas Perintah Armada untuk Pasukan Penyerang",
+        "desc": "Miliki 10 DevMat, 2000 Besi dan 2 Action Report. Beri sekretaris Fleet Command Facility di slot pertamanya. Hancurkan 3 Radar.",
+        "memo": "\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Striking Force Fleet Command Facility"
+    },
+    "675": {
+        "code": "F67",
+        "name": "Pencegahan Triwulan",
+        "desc": "Miliki 800 Bauxit. Hancurkan 6 pesawat fighter dan 4 senjata AA. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u203bPenggabungan Gabungan Operasional Senjata\n\u27a3Hadiahnya ANTARA Type 1 Fighter Hayabusa Model II ATAU Shiden Model 11 ATAU 4 Baut"
+    },
+    "676": {
+        "code": "F68",
+        "name": "Penghancuran Senjata Mingguan",
+        "desc": "Miliki 2400 Besi. hancurkan 3 Medium Cal. Main Gun, 3 Secondary Gun dan Drum Canister.",
+        "memo": "\u203bKemampuan Penggabungan Gabungan Operasional Senjata\n\u2718Bahan sumber daya akan hilang.",
+        "tracking": [ [0,3], [0,3], [0,1] ],
+        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ]
+    },
+    "677": {
+        "code": "F69",
+        "name": "Penghancuran Senjata Mingguan 2",
+        "desc": "Miliki 3600 Besi. Hancurkan 4 Large Cal. Main Gun, 2 Pesawat Recon dan 3 Torpedo.",
+        "memo": "\u203bPenggabungan Pabrik Produksi untuk Membantu Jalannya Pertempuran\n\u2718Bahan sumber daya akan hilang .",
+        "tracking": [ [0,4], [0,2], [0,3] ],
+        "trackingDesc": [ "{0} Large Cal. Main Gun", "{0} Pesawat Recon", "{0} Torpedo" ]
+    },
 	
     "701": {
         "code": "G1",
@@ -1916,17 +2099,20 @@
     "702": {
         "code": "G2",
         "name": "Modernisasi Harian",
-        "desc": "Lakukan 2 Modernisasi dengan Sukses"
+        "desc": "Lakukan 2 Modernisasi dengan Sukses",
+        "tracking": [ [0,2] ]
     },
     "703": {
         "code": "G3",
         "name": "Modernisasi Mingguan",
-        "desc": "(Mingguan) Lakukan 15 kali Modernisasi dengan Sukses"
+        "desc": "(Mingguan) Lakukan 15 kali Modernisasi dengan Sukses",
+        "tracking": [ [0,15] ]
     },
     "704": {
         "code": "G4",
         "name": "Persiapan untuk LSC (Bagian 1)",
-        "desc": "Lakukan 4 Modernisasi dengan Sukses"
+        "desc": "Lakukan 4 Modernisasi dengan Sukses",
+        "tracking": [ [0,4] ]
     },
     "705": {
         "code": "G5",

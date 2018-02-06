@@ -74,6 +74,12 @@
             "0": "Nishimura Fleet\u2014<br />mission accomplished!",
             "4120,7780": "Admiral,<br />thank you."
         },
+        "1101": {
+            "0": "Wakaba: \"DesDiv 21, action stations! I, Wakaba, shall be the commanding destroyer. Everyone, what's your status?\"",
+            "10100": "Nenohi: \"Oh wow, Wakaba, didn't expect you to be so eager! Nenohi, at action station. Look, I'm here~!\"",
+            "18300": "Hatsuharu: \"Oh my goodness gracious, are you noisy! Of course we are ready to weigh anchor whenever you are.\"",
+            "26300,37200": "Hatsushimo: \"Y-yes! Hatsushimo, present! Wakaba, All ships of DesDiv 21 are ready to sortie!\""
+        },
         "1186": {
             "0": "",
             "1060": "Michishio: \"Everyone, sorry for the wait!\"",
@@ -102,6 +108,18 @@
             "31500": "All: \"Nishimura Fleet organization completed!\"",
             "35900,39318": "All: \"Sortie preparations complete!\""
         },
+        "1189": {
+            "0": "Murasame: Mfufufu, make sure you check out all my good points in detail, okay?",
+            "7500": "Yura: Murasame, I'll be counting on you, okay? I'm looking forward to all the help you'll give the 4th Torpedo Squadron in the upcoming battle, sound good?",
+            "19000": "Murasame: Yura-san, Murasame understands, Roger that!",
+            "24500": "Yuudachi: Poi! I want to go with Yura and everyone else poi!",
+            "29000,36400": "Murasame: I'll take good care of the 4th Torpedo Squadron. Okay, let's go, everyone!"
+        },
+        "1190": {
+            "0": "Wakaba: \"DesDiv 21, action stations! I, Wakaba, shall be the commanding destroyer. Everyone, what's your status?\"",
+            "10700": "Hatsuharu: \"Oh my goodness gracious, are you noisy! Of course we are ready to weigh anchor whenever you are.\"",
+            "16500,29600": "Hatsushimo: \"Y-yes! Hatsushimo, present! Wakaba, All ships of DesDiv 21 are ready to sortie!\""
+        },
         "1871": {
             "0": "Asashio: \"8th Destroyer Division\u2014<br />All-Out Sortie Mission: complete!\"",
             "4120": "Michishio: \"Heh. With how we are now,<br />this was a piece of cake!\"",
@@ -111,12 +129,10 @@
             "22510": "Asashio: \"Commander, it's all thanks to you!\"",
             "26040,30374": "Michishio: \"Uh... um... ...thanks...\""
         },
-        "1189": {
-            "0": "Murasame: Mfufufu, make sure you check out all my good points in detail, okay?",
-            "7500": "Yura: Murasame, I'll be counting on you, okay? I'm looking forward to all the help you'll give the 4th Torpedo Squadron in the upcoming battle, sound good?",
-            "19000": "Murasame: Yura-san, Murasame understands, Roger that!",
-            "24500": "Yuudachi: Poi! I want to go with Yura and everyone else poi!",
-            "29000,36400": "Murasame: I'll take good care of the 4th Torpedo Squadron. Okay, let's go, everyone!"
+        "1877": {
+            "0": "Murasame: \"Yay~! Our mission in the sourthern Solomon area was a success! All ships have returned to the base! I did it, Yura!\"",
+            "13000": "Yura: \"You certainly did, Murasame. Well done! I'm really glad we were all able to return safely.\"",
+            "26000,42000": "Murasame: \"Returning command of DesRon 4! ...Oof, that was nerve-racking. But also pretty awesome! Right?\""
         }
     },
     "event": {
@@ -449,7 +465,8 @@
         "3@Zuiun": "A Zuiun... Festival, Hyuuga-san? Yes, I'm sure I had plans for something like that too... Eh? That's something else?",
         "2@WhiteDay": "Admiral! Is it alright for Yamato to take these? I'm sorry. Thank you very much. I humbly accept. I'll do my best next year!",
         "2@EarlySummer": "It's gotten a bit hotter, right Admiral? Summer is here again this year, huh. Eh? A swimsuit? Ah, yes. I went and bought one with Musashi just in case.",
-        "2@LateFall2017": "Musashi? What's wrong? Are you cold? Is there something wrong with your engine room? I see, that's fine then. Let me know if anything happens, alright?"
+        "2@LateFall2017": "Musashi? What's wrong? Are you cold? Is there something wrong with your engine room? I see, that's fine then. Let me know if anything happens, alright?",
+        "3@Valentines2018": "Now, dessert will be my special Heart Gateau Chocolate Cake. Alright, it's done! Now, I need to call the Admiral. Admiral! Admiral~! Huh, Admiral?"
     },
     "136": {
         "Intro": "First of the Yamato-class battleships, Yamato, now with drastically improved anti-air weaponry.",
@@ -1592,7 +1609,8 @@
         "2@Xmas2017": "\u0425\u043e\u0440\u043e\u0448\u043e! Let's drink some champagne! Here, good! Ahahahaha!",
         "2@YearsEnd2017": "\"O-souji\"? Don't know what that means, but leave it to me! What's that thing? A dust cloth? Huh? Why me?",
         "2@NewYears2018": "\u0441 \u043d\u043e\u0432\u044b\u043c \u0433\u043e\u0434\u043e\u043c! Happy New Year! I look forward to fighting alongside you this year too, you!",
-        "2@Setsubun2018": "What? Setsubu-bun? The hell's that? Oooh, you take these beans and throw them? I see, well then. TARGET, The Kongou Class Ship in front of me, Kirishima! Here goes!"
+        "2@Setsubun2018": "What? Setsubu-bun? The hell's that? Oooh, you take these beans and throw them? I see, well then. TARGET, The Kongou Class Ship in front of me, Kirishima! Here goes!",
+        "2@Valentines2018": "This is for you. Ah, well, that's all."
     },
     "512": {
         "Intro": "The Battleship, Oktyabrskaya Revolutsiya.<br />Sortie preparations are complete.<br />Alright! That's a good look on your face! Let's go!",
@@ -1677,7 +1695,8 @@
         "2@Xmas2017": "Joyeux No\u00ebl. Spendid, this is fun. This fleet's festival is truly a marvelous thing.",
         "2@YearsEnd2017": "Ah, the kotatsu, it's so nice. This is a great invention. You want to get in too? I'll move over a bit. Huh, you want to clean? No...that's not possible right now.",
         "2@NewYears2018": "Bonne Ann\u00e9e!\u3000I'm counting on you this year too, okay? That's right, I'll stay with you. What, you don't want me to?",
-        "2@Setsubun2018": "Mmfufufu, so this is \"Setsubun\", is it, how fun. Haguro, prepare yourself. Hmph! What? I got hit? How about that, huh?"
+        "2@Setsubun2018": "Mmfufufu, so this is \"Setsubun\", is it, how fun. Haguro, prepare yourself. Hmph! What? I got hit? How about that, huh?",
+        "2@Valentines2018": "Please accept this, mon amiral. Just take it. Good."
     },
     "392": {
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
@@ -2931,7 +2950,8 @@
         "2@Xmas2017": "Admiral, I see that you celebrate Christmas in this fleet as well. Well let's have a toast. Cheers! Ooh, not bad.",
         "2@YearsEnd2017": "You're cleaning? That is very important. Right then, I'll lend a hand. Bismarck, show me how it's do-huh? She's gone? She ran away? That girl... why does she run away each and every time? Hey, wait up!",
         "2@NewYears2018": "It's New Year's... Admiral, I'll be counting on you this year too. Oh, of course, I'll do my best.",
-        "2@Setsubun2018": "Heehee, I know this, it's \"Setsubun\", right?  I already got all my information about it from the other girls. What? My intonation is wrong? Impossible."
+        "2@Setsubun2018": "Heehee, I know this, it's \"Setsubun\", right?  I already got all my information about it from the other girls. What? My intonation is wrong? Impossible.",
+        "2@Valentines2018": "Admiral, ummm... you know, no, nevermind. It's nothing. ... Actually, accept my chocolate, please."
     },
     "393": {
         "Intro": {
@@ -3968,7 +3988,9 @@
         "2@Spring": "Admiral, it's Spring. I can feel the breath of spring! Alright! Let's work hard together this Spring! Yes!",
         "2@WhiteDay": "Eh, this is for Hayasui? A return gift for the chocolate? Admiral... Thank you very much! I'll make sure to eat them with great care!",
         "3@Setsubun2018": "You want to order a supply of beans for Setsubun, Admiral? Roger that, I'll take care of it.",
-        "4@Setsubun2018": "Admiral....the beans for Setsubun, umm, there, put them there. Yup.... Thanks so much!"
+        "4@Setsubun2018": "Admiral....the beans for Setsubun, umm, there, put them there. Yup.... Thanks so much!",
+        "3@Valentines2018": "This torpedo... Urmm... It's not a torpedo... Ooi? Ah, yes! Roger that! Resupplying!",
+        "2@Valentines2018": "Please accept this chocolate, Admiral! I-it's handmade."
     },
     "352": {
         "Intro": "Good morning. Aircraft carrying oiler, Hayasui, will do her best. Preparations for sortie of aircraft are perfect!",
@@ -4120,7 +4142,8 @@
         "2@Xmas2017": "Today I made some grilled Yezo deer. How is it, Admiral? Oh? Thats good to hear.",
         "2@YearsEnd2017": "It's time for the year-end cleaning of the Naval Base. Lot of work, isn't it? Mizuho, let's do our best. We need to prepare the soba for New Year's too!",
         "2@NewYears2018": "Admiral, have a happy New Year. I would appreciate your continued guidance this year as well.",
-        "2@Setsubun2018": "It's Setsubun, isn't it? Admiral, why don't I take care of the job of Oni this year? Eh? I don't have to do it?"
+        "2@Setsubun2018": "It's Setsubun, isn't it? Admiral, why don't I take care of the job of Oni this year? Eh? I don't have to do it?",
+        "2@Valentines2018": "Umm, I tried making... some... white chocolate. It's white... ummm... It's delicious."
     },
     "499": {
         "Intro": {
@@ -4684,7 +4707,8 @@
         "2@Xmas2017": "Iyo-chan, you're drinking...you're drinking too much...aaah...that's way too much...ahh... Admiral, I'm so sorry.",
         "2@YearsEnd2017": "Wow, it's the end of the year, huh. Oh? Shioi-san, what's that? I see, you're cleaning like that? I'll give it a try too. Hyaa! What? Wh-wh-what?",
         "2@NewYears2018": "Admiral, I hope you have a happy New Year. Yup, my fortune... for this year is...whaaat?",
-        "2@Setsubun2018": "The Oni for all of us here in Maizuru is...Ro-chan? It's fine? You sure?"
+        "2@Setsubun2018": "The Oni for all of us here in Maizuru is...Ro-chan? It's fine? You sure?",
+        "2@Valentines2018": "I'll make some chocolate... No, this is my responsibility as an older sister... Ah!"
     },
     "374": {
         "Intro": "Large submarine aircraft carrier, born for the purpose of complementing the Sentoku-class...<br />I-13-class submarine, I-13 here. Please call me Hitomi.<br />This time... I'll make it.",
@@ -4752,7 +4776,8 @@
         "2@Xmas2017": "Main tank blow, diving to periscope depth, magazines filled with champagne! My body is...huh?",
         "2@YearsEnd2017": "Shioi-san, what're ya up to? Wha- cleaning? Roger, I'll help out with all I got! Yay!",
         "2@NewYears2018": "Admiral, have a happy New Year. I'll leave the 1st Submarine Division in your care this year too, yay!",
-        "2@Setsubun2018": "Setsubun, huh~ Ah, I sense bloodlust! Full stop! Crash dive! Hatches checked, vents open! Whew, that was close, so close!"
+        "2@Setsubun2018": "Setsubun, huh~ Ah, I sense bloodlust! Full stop! Crash dive! Hatches checked, vents open! Whew, that was close, so close!",
+        "2@Valentines2018": "Jeez, big sis, give that here. This is how you make chocolate. Eh!? Why are you crying!? Why!?"
     },
     "375": {
         "Intro": "I'm I-14, a 1st Class submarine born to carry Seiran.  Yup, today's gonna be another great day! Let's get cracking, admiral!",
@@ -5106,7 +5131,8 @@
         "2@Xmas2017": "Merry Christmas, Admiral. ...Oh, Ro-chan, what's this? ...Ooh it's delicious! Is this a cake from your country?",
         "2@YearsEnd2017": "Yes, it's time for the Naval Base's o-souji, isn't it! We of the 6th Fleet will be sure to lend a proper hand. The back of my Seiran hangar also needs...",
         "2@NewYears2018": "Happy New Year, Admiral. I hope you'll take care of the 6th Fleet, 1st Submarine Division this year too.",
-        "2@Setsubun2018": "It's not \"SEtsubun\", it's pronounced \"Setsubun.\"  You see the first sound is like Setsubun and...oh...uh..."
+        "2@Setsubun2018": "It's not \"SEtsubun\", it's pronounced \"Setsubun.\"  You see the first sound is like Setsubun and...oh...uh...",
+        "2@Valentines2018": "Please accept my handmade chocolates, Admiral! I made it pretty fancy. Open it up here, and then..."
     },
     "606": {
         "Intro": "Good day, Admiral. I'm the eldest of the Sentoku-class, the 1st ship, I-400, Shion. Have you gotten used to calling me by that yet? Hmm? Really? Then let's keep each other company today too!",
@@ -5187,7 +5213,6 @@
         "Attack": "Go get em!",
         "Yasen(1)": "Fufu~n\u266a You can't escape from the pursuit of I-400 class!",
         "Yasen(2)": "The Seirans are my friends, after all.",
-        "MVP": "Ah, I did it? Hurray! The I-400's are good, after all",
         "Sunk": "Uuu...I wonder if I ran wild enough this time round. A ship really sinks when they're sunk, huh. Bye bye."
     },
     "163": {
@@ -5529,7 +5554,8 @@
         "2@Xmas2017": "Eh? What's that over here? It's great, it's delicious! Here, U-chan, I mean, Ro-chan try some too, it's good!",
         "2@YearsEnd2017": "Oh, what's this? \"O-souji\"? Huh? Roma, what are we supposed to do? Hmm, hmm, hmm.",
         "2@NewYears2018": "Happy New Year, Ammiraglio-dechi! Oh, shoot, I'm saying it too now.",
-        "2@Setsubun2018": "This is that Setsubun I've heared about! This'll be fun! The target is...hmm....there she is! The one they call Taigei over there! Take that! And that and that!"
+        "2@Setsubun2018": "This is that Setsubun I've heared about! This'll be fun! The target is...hmm....there she is! The one they call Taigei over there! Take that! And that and that!",
+        "2@Valentines2018": "Hum, yup, you can have this. Hanya, hanya."
     },
     "605": {
         "Intro": "Buongiorno! I got a small remodel. How is it? Is it useful?",
@@ -7988,7 +8014,8 @@
         "2@Saury2017": "Of course I'll be the center for saury fishing too! I'll do my best as the idol of the fishing grounds!",
         "2@Xmas2017": "Everyone, welcome to Naka-chan's Christmas live! Naka-chan will sing her heart out for you on this Christmas Eve.",
         "2@YearsEnd2017": "What, an idol shouldn't be doing this sort of job! Naka-chan hates cleaning. Admiral, switch with me!",
-        "2@NewYears2018": "Alright! Naka-chan will be just as cute in the New Year! Admiral, please continue to show me your favor this year too, okay!"
+        "2@NewYears2018": "Alright! Naka-chan will be just as cute in the New Year! Admiral, please continue to show me your favor this year too, okay!",
+        "2@Valentines2018": "I'm an idol so it's only obglitatory chocolate, but this is for you. Aha!"
     },
     "224": {
         "Idle": "Hrm. The next job's location.. wha, today's an off day... I see..."
@@ -8654,7 +8681,8 @@
         "2@LateFall2017": "What're you up to, Sis? A kotatsu? Heh, you'll get fat if you spend too much time under there. Ah, it's surprisingly nice. Whoa, can't underestimate this.",
         "2@Xmas2017": "Fu, Christmas, huh. This frothy layer at the top is the best. It's a bit different, but I'll drink as much as I can. How about you? Want to have a drinking contest with me? There's no way I'll lose, though.",
         "2@NewYears2018": "You don't have to force me, sis! I know, you have to take New Year's seriously. I hope the New Year brings you cause to rejoice, Commander. How was that? Ow! What was that for?",
-        "2@Setsubun2018": "Setsubun, huh. It's all good, I don't dislike it. Let's go, sis! Are you ready? Aim, fire! Bracketed! Load the next shot! Now, fire!"
+        "2@Setsubun2018": "Setsubun, huh. It's all good, I don't dislike it. Let's go, sis! Are you ready? Aim, fire! Bracketed! Load the next shot! Now, fire!",
+        "2@Valentines2018": "What's with all these chocolates? What use is it giving it to me? Right? Hmm, what's wrong? Hey?"
     },
     "371": {
         "Intro": "I'm Matsukaze, the 4th ship of the Kamikaze-class destroyers. And of course you're my commander.<br />Naturally, that means you've got my back!  All right, let's go!<br />",
@@ -8722,7 +8750,9 @@
         "2@Xmas2017": "Hm...Oh?...This is good! What is this cuisine called? I-It's called Haikara? I'll try to make it next time. Right!",
         "2@YearsEnd2017": "Why does Harukaze nee-san look so happy? Is cleaning really that fun? I'll try my best too. Commander, I'll by start cleaning up this room, okay?",
         "2@NewYears2018": "Commander, I hope you have a happy New Year. Please take good care of me this year too.",
-        "2@Setsubun2018": "Setsubun... This afternoon's Oni is... Kami-neesan I see. Roger that. I'm starting to throw! Take this, a direct hit! Take this, hmm? What is it, Haru-neesan?"
+        "2@Setsubun2018": "Setsubun... This afternoon's Oni is... Kami-neesan I see. Roger that. I'm starting to throw! Take this, a direct hit! Take this, hmm? What is it, Haru-neesan?",
+        "3@Valentines2018": "Commander, Haru-neesan, please have some of this if you like. Help yourself. Th-thank you very much! Alright!",
+        "2@Valentines2018": "What's that, Ryuuhou-san? \"Chocolate\"? I-I see. So that's the occasion. I'll work hard too. Alright!"
     },
     "387": {
         "Intro": "The Kamikaze-class destroyer Hatakaze has arrived, Commander. I'll be accompanying you today as well. Yes, please take care of me.",
@@ -10631,7 +10661,8 @@
         "2@Setsubun": "Hm! Setsubun is a ceremony of great import! It holds many meanings! Ah! Did you already know?",
         "2@Anniversary": "Yeah, congrats! To celebrate a day like today with you, we, too, are happy. Good.",
         "2@Xmas": "Ku-Kurisu...masu... thou sayeth!? Such a queer festival! This is... chicken? *nod nod*",
-        "2@Kessen": "Well, that is, we trust you... Yes, well, that's all!"
+        "2@Kessen": "Well, that is, we trust you... Yes, well, that's all!",
+        "2@Valentines2018": "Well, we mean, we want to experience the customs of the world once in a while...so we are giving this to you!"
     },
     "238": {
         "Idle": "Aah, well, you know, it would be all right if we did some work... it would be all right, you know?",
@@ -10701,7 +10732,8 @@
         "2@NewYears": "New Year's! Happy New Year! Best wishes! Please take care of me again this year. Okay?",
         "2@Setsubun": "When it comes to February, it's all about Nenohi- I mean, Setsubun. Setsubun. I'll throw the beans! Tah~!",
         "2@Anniversary": "What day is it today? Yeah! It's Nenohi~! It's not, but it's a special day! Yeah!",
-        "2@Xmas": "...! It's Christmas! Christmas! Nenohi loves Christmas! ...Hey, what day does Christmas fall on? What was it...?"
+        "2@Xmas": "...! It's Christmas! Christmas! Nenohi loves Christmas! ...Hey, what day does Christmas fall on? What was it...?",
+        "2@Valentines2018": "Nenohi Valentine's Attack! Take this! Uh, that's not it. Here, it's my chocolate."
     },
     "239": {
         "Intro": "Ye~s! It's Nenohi. Have you memorized my name? hey? Hey~!",
@@ -10745,7 +10777,8 @@
         "Sunk": "Wakaba. Is sunk. I... hate it.. a bit...",
         "2@NewYears": "New Year's, huh... I've been looking forward to this moment. Admiral, I'll be counting on you again this year. Yeah, it'll be fine!",
         "2@Setsubun": "It's Setsubun? Should I throw this bean at the admiral? ...So that's not it. Then what should I do?",
-        "2@Xmas": "Christmas... huh... It's fine! I've already bought the turkey and cake. It's fine!"
+        "2@Xmas": "Christmas... huh... It's fine! I've already bought the turkey and cake. It's fine!",
+        "2@Valentines2018": "It's some chocolate I made. It shouldn't taste bad. If possible, please eat it within 24 ho... Ah, you're already eating them?"
     },
     "240": {
         "Poke(2)": "Wakaba is perfectly prepared.",
@@ -10788,12 +10821,38 @@
         "Sunk": "Admiral...everyone...are you okay...? Then...it's fine...",
         "2@NewYears": "Happy New Year. Best wishes for the coming year! I will do my best again this year! Aye!",
         "2@Setsubun": "Demons, begone! Fortune, welcome! Ei! Ah, Admiral!? Sorry about that. I'll clean this up.",
-        "2@Anniversary": "Today is an important day, isn't it? We'll celebrate in something like a diamond formation. Eh? We won't?"
+        "2@Anniversary": "Today is an important day, isn't it? We'll celebrate in something like a diamond formation. Eh? We won't?",
+        "3@Valentines2018": "How was it, Admiral? Was it to your lik... Ah, really? Great! Thank you very much! Phew.",
+        "2@Valentines2018": "Umm, this is for you, Admiral! I hope you don't mind that I made it. It...it went well. Yes!"
     },
     "241": {
         "Idle": "Hamakaze...Yahagi too, I wonder if they're okay...ah! Admiral! I'm just fine. I would save you too!",
         "Married": "Eh? I feel...a little sad. ...N-No, it's okay. You understand me, Admiral. That's more than enough for me... Thank you, Admiral...",
-        "Supply": "Thank you for resupplying me. Should I set down the flammable materials?"
+        "Supply": "Thank you for resupplying me. Should I set down the flammable materials?",
+        "H0000": "Admiral, today I believe it's my duty to be at your side and mark the passing of time. I'll lend a hand if anything comes up, so please let me know no matter what it is. I’ll give it my best and do as much as I can!",
+        "H0100": "It's now 0100. Admiral, is there anything you need help with? Please let me know.",
+        "H0200": "It's now 0200. Huh, at this hour….what am I looking at? What’s this?",
+        "H0300": "It's now 0300. Admiral...he doesn’t seem to be here, but the door is open…huh?",
+        "H0400": "It's now 0400. Roger that! Same as usual!",
+        "H0500": "It's now 0500. Admiral, would you like another cup of tea? Okay, roger that!",
+        "H0600": "It's now 0600. Admiral, do you want me to call for all of the members of the fleet? Don't worry, I'll do it gently. *inhales*",
+        "H0700": "It's now 0700. Admiral, if you'd like your breakfast, I have it here for you. Today's miso soup has daikon radishes and nappa cabbage in it.",
+        "H0800": "It’s 0800. For lunch, how do rice balls sound? I’ll make enough for my big sisters to have a share too. Right, here I go!",
+        "H0900": "It’s 0900. Admiral, what do you have planned for the fleet to start off the morning? Fleet exercises? Roger that!",
+        "H1000": "It's 1000 now. Asashimo, good morning to you! Are you just getting back right now? Keep up the good work!",
+        "H1100": "It’s 110- oh, Ooyodo, thanks for everything. Yes, I’m doing fine. I’m always in good spirits!",
+        "H1200": "It's now 1200. Admiral, here’s your lunch. Yes, it’s rice balls! Here dig in! Your tea is right here. It’s hot though, so be careful.",
+        "H1300": "It's now 1300. Eh? You're looking for my older sisters? Okay, okay, Admiral, I’m sorry, but please hang on a minute okay?",
+        "H1400": "It's 1400 now. Uwa, no, I’m fine. My older sisters, everyone, they’re all in good spirits today. I’m glad.",
+        "H1500": "It's now 1500. Huh? The Hokugo Operation? We'll be sure not to lose. Ise, Hyuuga, just like I'd expect from you!",
+        "H1600": "It's now 160-Yahagi-san! Thanks for everything! Yes, I’ve no problems on my end. Same as always, yup!",
+        "H1700": "It's now 1700. Admiral, yes, that’s right. That battle was very tough, wasn’t it? But I...but I...",
+        "H1800": "It's now 1800. I’m sorry Admiral, I’ll go make some Western style food right now. Please wait a moment.",
+        "H1900": "It's now 1900. Today I made sardine fish dumplings with boiled barley and rice. Yes, of course I made enough for seconds. Please dig in!",
+        "H2000": "It's now 2000. Admiral and everyone in the fleet, thank you so much for everything. Thanks for your hard work today.",
+        "H2100": "It's now 2100. Admiral, the time right now is really important, it’s a really important time. Yes, at least I think it must be.",
+        "H2200": "It's now 2200. Admiral, it’ll be nearly bedtime soon. Why don’t you take it easy, okay?",
+        "H2300": "It's now 2300. Admiral, it must be tough, but thanks for getting all of us through today, and every other day. Tomorrow too, I’m sure we’ll be in your debt tomorrow as well. Good night."
     },
     "419": {
         "Intro": "Fourth ship of the Hatsuharu-class, Hatsushimo. Let's go and give it our all!",
@@ -11010,11 +11069,12 @@
         "Poke(1)": "Just a minute, you called for me?",
         "Poke(2)": "Hey hey, Yura-san, look, look! I'm trying to show you all my considerable good points, you know.",
         "Poke(3)": "Mmfufu, Okay, I'll go on standby!",
-        "Join": "Murasame moving out~!　Okay, let's get going with caution and determination.",
+        "Join": "Murasame moving out~! Okay, let's get going with caution and determination.",
         "Construction": "A new comrade, welcome to the 4th Torpedo-...eh? That's wrong?",
         "Return": "The fleet definitely feels fine. Thanks for your hard work, everyone.",
         "Sortie": "Whether it's Anti-Ship, Anti-Sub, or Anti-Air, let's do it!",
-        "Yasen(2)": "Feels good, feels good!"
+        "Yasen(2)": "Feels good, feels good!",
+        "2@Valentines2018": "Would you like some of my pretty delicious chocolate, Admiral? It's sweet and juuust a bit bitter. You do? Okay. Then, here~ you~ go~. Ufu, help yourself~"
     },
     "45": {
         "Intro": "Hello. I'm the Shiratsuyu-class destroyer, Yuudachi. I'm in your care!",
@@ -13544,7 +13604,8 @@
         "3@Xmas2017": "Wah, Commander, I'm busy right now, but I guess it's okay. Here Commander, have some of this cake. Hehe, it's pretty good, right?",
         "2@Xmas2017": "Choukai, please take some of this cake. You...you think it's delicious? I'm so glad...ah...umm...try this one too.",
         "2@NewYears2018": "Happy New Year Commander, let's do our best this year too. Yeah. So... my New Year's money, please. Heeheehee, 'course!",
-        "2@Setsubun2018": "Let's see, the person playing the Oni for us is... Choukai-san? ...That's not right, Noshiro-san? Well... then...! Take this! And this! Oh... Oh no! Let's scram, Okicchi!"
+        "2@Setsubun2018": "Let's see, the person playing the Oni for us is... Choukai-san? ...That's not right, Noshiro-san? Well... then...! Take this! And this! Oh... Oh no! Let's scram, Okicchi!",
+        "2@Valentines2018": "This is for you, Commander. It's handmade. Totally!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -14272,7 +14333,8 @@
         "2@Xmas2017": "Merry Christmashu! Commander, have you eaten anything-su? Make sure you eat lots-su! And of course, there's a lot of liqour too-shu!",
         "2@YearsEnd2017": "Wow, it's December-shu. The end of the year came pretty fast-su. Gather around, coastal defense ships-shu! Let's start cleaning-shu!",
         "2@NewYears2018": "Commander! Congrashulations! Shimushu, Kuna, and the rest'll stay by you in the New Year-shu! Heeheehee!",
-        "2@Setsubun2018": "Huh? SeTSUbun? No, No, No! Setsubun is pronounced: Se-tsu-BU-n! Ah, jeez, that's not it either-su!"
+        "2@Setsubun2018": "Huh? SeTSUbun? No, No, No! Setsubun is pronounced: Se-tsu-BU-n! Ah, jeez, that's not it either-su!",
+        "2@Valentines2018": "Fuhehe, I made some chocolate. Fuhehe, now I can beat the Commander-su. I won't lose to Kuna and the others either-su!"
     },
     "376": {},
     "518": {
@@ -14311,7 +14373,8 @@
         "2@Xmas2017": "Ah, Kamikaze, come here, come here. And here you go! I made a Christmas cake as well. I hope you enjoy it! Okay, open wide!",
         "2@YearsEnd2017": "Gather up, little sisters. Your big sister says it's the season to get cleaning, and we're going to pitch in. Ah, yup, you get it - I knew you would. Thanks.",
         "2@NewYears2018": "Hey, wait up sis, wait! Huff, I caught up with her. Commander, everyone, I'm counting on you all this year too, 'kay! Happy New Year!",
-        "2@Setsubun2018": "Oh, Nenohi, you're playing the Oni this year? Well then, I guess it can't be helped. I'll come at you full force. Take this! Missed. The next one will hit for sure."
+        "2@Setsubun2018": "Oh, Nenohi, you're playing the Oni this year? Well then, I guess it can't be helped. I'll come at you full force. Take this! Missed. The next one will hit for sure.",
+        "2@Valentines2018": "Fufu, I learned it! The special chocolate cake recipe! Now I'm going to make one too! Just you wait, Commander, neesan, Kamikaze!"
     },
     "377": {},
     "524": {
@@ -14351,7 +14414,8 @@
         "2@Xmas2017": "Mmmmm! Commander, this cake, it's totally delicious!",
         "2@YearsEnd2017": "Coastal defense ships, let's do our best to clean up the Naval Base too! Yeah!",
         "2@NewYears2018": "Commander, have a Happy New Year!",
-        "2@Setsubun2018": "It's Setsubun, I'll do my best. Come on everyone, you too!"
+        "2@Setsubun2018": "It's Setsubun, I'll do my best. Come on everyone, you too!",
+        "2@Valentines2018": "Commander...please accept this chocolate!"
     },
     "383": {
         "Poke(1)": "I'll really do my best!",
@@ -14393,7 +14457,8 @@
         "2@Xmas2017": "Christmas, it's so nice, isn't it? I like it a lot .... Oh, Etorofu, have some cake...here. .....Admiral, you too!",
         "2@YearsEnd2017": "O-souji. Commander, that place might be a little too high for me to reach. I'll clean here, like this, wipe it down, and scrub it...",
         "2@NewYears2018": "Commander, have a Happy New Year! I... I hope you'll look after me again this year... uhm...",
-        "2@Setsubun2018": "Etorofu-chan, I...I can't throw it! I'm sorry, I just can't!"
+        "2@Setsubun2018": "Etorofu-chan, I...I can't throw it! I'm sorry, I just can't!",
+        "2@Valentines2018": "Umm, th-this is for you... Commander, Etorofu! I made it myself."
     },
     "384": {
         "Poke(1)": "Yes, Commander? Ummm...",
@@ -14432,7 +14497,8 @@
         "2@Xmas2017": "Christmas, it's great. Love it, love it! Oh, Matsu, give Sado-sama some of that cake. Oooh, so good! It's really great!",
         "2@YearsEnd2017": "Matsu, you seen to be pretty excited about cleaning. Heheh, you must really like this kind of thing. Sado-sama's gonna skip out for a bit.",
         "2@NewYears2018": "Co-man-der! Happy New Year! Take care of Sado-sama this year too, kay? I'm countin' on you!",
-        "2@Setsubun2018": "Argh! What's with you Tsushi? Did you forget it's Setsubun, what are you waiting for? Matsu, what's with you acting like such a wuss? Throw it like this!"
+        "2@Setsubun2018": "Argh! What's with you Tsushi? Did you forget it's Setsubun, what are you waiting for? Matsu, what's with you acting like such a wuss? Throw it like this!",
+        "2@Valentines2018": "Hehe, I learned how to make chocolate from Hayasui! Now, let's do this! Just wait and see, Commander!"
     },
     "385": {
         "Intro": "I'm the 3rd ship of the Etorofu-class Kaiboukan that just got stronger, Sado-sama! Let's have a good day, Commander! Heheh.",
@@ -14473,7 +14539,8 @@
         "2@Xmas2017": "Christmas in Singapore is so much fun. Fufu, fufufu. Commander, Merry Christmas.",
         "2@YearsEnd2017": "Ukuru-chan, Daitou-chan, I know already. The end of year cleaning, right? Sweeping... here I go.",
         "2@NewYears2018": "Commander, the New Year's begun... I hope...you have... a happy one.  This year ple...please...umm...",
-        "2@Setsubun2018": "But, we didn't have Setsubun in Taiwan. Oh, SetsuBUn? I have even less a clue what that is."
+        "2@Setsubun2018": "But, we didn't have Setsubun in Taiwan. Oh, SetsuBUn? I have even less a clue what that is.",
+        "2@Valentines2018": "I'll give you this, just this once, Commander. Ah, umm, because I won't lose."
     },
     "386": {
         "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll protect the Southern and Taiwanese Corridors. I'll do my best to not lose with this body of mine.",

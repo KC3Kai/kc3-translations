@@ -332,6 +332,7 @@
 	"SettingsSeasonalShipIcon" : "舰娘限定头像",
 	"SettingsCheckNewShipFromDex" : "从舰娘图鉴判断是否新船",
 	"SettingsCheckNewShipFromDexTip" : "注意为了取得数据，需要最少查看过游戏中图鉴左边的每一页一次。如果禁用该项，掉落或建造时的新船高亮就只会从当前玩家所持有的船来判断。过去强化用掉、拆掉或沉过的船仍会认为是新船。",
+	"SettingsFormatNumbers" : "显示数字分组符号",
 
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
@@ -445,7 +446,7 @@
 	"SettingsGearHolder" : "装备背景色",
 	"SettingsPanelBoxBackColor" : "情报面板背景色",
 	"SettingsPanelCustomCSS" : "自定义CSS样式",
-	"SettingsPanelCustomCSSTip" : "使用合法的CSS3语法定制信息面板样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要关闭再重新打开信息面板。不要忘记有些情况下要用`!important`标记覆盖默认值。",
+	"SettingsPanelCustomCSSTip" : "使用合法的CSS3语法定制信息面板样式。如果你不熟悉CSS及KC3改源码，请不要改动。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
 	"SettingsLegacyPanel" : "面板（旧主题）",
 
@@ -649,6 +650,13 @@
 	"ShipAACIMaxBonus"    : "最大对空CI: {0}",
 	"ShipAAShotdownTitles" : "敌搭载/皆成功/仅比例/仅固定/皆失败",
 
+	"ShipAAEffectNormal"           : "机枪",
+	"ShipAAEffectHighAngleMount"   : "高角炮",
+	"ShipAAEffectRocketLauncher"   : "喷进炮",
+	"ShipAAEffectRocketLauncherK2" : "喷进炮改二",
+	"ShipAAEffectType3Shell"       : "三式弹",
+	"ShipAAEffectType3ShellRockeLaunK2" : "三式弹+改二",
+
 	"PredictionStampSortie" : "击沉",
 	"PredictionStampPvP" : "出局",
 
@@ -792,6 +800,7 @@
 	"ExpedTotalAsw" : "总对潜",
 	"ExpedTotalLos" : "总索敌",
 	"ExpedTotalAa" : "总对空",
+	"ExpedTotalFp" : "总火力",
 	"ExpedEscortTip" : "可以使用海防DE替换驱逐DD，\n但要注意部分远征不允许两种混合。",
 	"ExpedCheckReq" : "符合要求？",
 	"ExpedExpUnit" : " 经验",

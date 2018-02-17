@@ -258,6 +258,7 @@
 	"SettingsSeasonalShipIcon" : "ไอคอนรูปเรือตามเทศกาล",
 	"SettingsCheckNewShipFromDex" : "ตรวจสอบเรือใหม่จากแกลลอรี่",
 	"SettingsCheckNewShipFromDexTip" : "หากต้องการตรวจสอบเรือใหม่จากแกลลอรี่ ต้องทำการเข้าหน้าแกลลอรี่รูปเรือทุกหน้า เพื่อเก็บข้อมูลเรือที่เคยมีแล้ว หากไม่ทำเช่นนั้น เรือที่ไม่มีในกองเรือแต่เคยได้มาแล้ว แต่ปัจจุบันไม่มีในกองเรือเนื่องจากถูกแยกส่วน อัพเกรด หรือจมไปแล้ว จะขึ้นว่าเป็นเรือใหม่เสมอ",
+	"SettingsFormatNumbers" : "รูปแบบตัวเลข",
 
 	"SettingsFormulas" : "สูตรคำนวน",
 	"SettingsELosFormula" : "สูตรคำนวนค่าค้นหา (LoS)",
@@ -533,6 +534,7 @@
 	"BattleAntiAirCutIn" : "ระบบต่อต้านอากาศยาน (AACI)",
 	"BattleItemDrop" : "ได้รับของรางวัลพิเศษ",
 	"BattleNightNeeded" : "รบกลางคืน",
+	"BattleDayNeeded"    : "รบกลางวัน",
 	"BattleRating" : "ระดับผลการรบ",
 	"BattleAvoided" : "~ไม่ต้องสู้~",
 	"BattleSelect" : "เลือก: ",
@@ -555,6 +557,7 @@
 	"BattleKindAirBattleOnly" : "รบน่านฟ้า",
 	"BattleKindAirDefendOnly" : "ป้องกันน่านฟ้า",
 	"BattleKindEnemyCombined" : "กองเรือผสมทะเลลึก",
+	"BattleKindNightToDay" : "รบกลางคืนต่อกลางวัน",
 	"BattlePreviousEncounters" : "ศัตรูที่เคยเจอ",
 
 	"ShipHp"      : "HP",
@@ -601,6 +604,15 @@
 	"ShipAAFixedShotdown" : "จำนวนที่ยิงตกแน่นอน: {0}",
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
 	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
+
+	"ShipAAEffectNone" : "ปกติ",
+	"ShipAAEffectNormal" : "ปืนกล",
+	"ShipAAEffectHighAngleMount" : "ปืนลำกล้องสูง",
+	"ShipAAEffectRocketLauncher" : "ยิงจรวด",
+	"ShipAAEffectRocketLauncherK2" : "ยิงจรวด 2",
+	"ShipAAEffectType3Shell" : "กระสุนเขียว",
+	"ShipAAEffectType3ShellRockeLaunK2" : "กระสุนเขียว+จรวด 2",
+	"ShipAAEffectUnknown" : "ไม่ทราบ",
 
 	"PredictionStampSortie" : "จม",
 	"PredictionStampPvP" : "น็อกเอ๊าต์",
@@ -733,6 +745,7 @@
 	"ExpedTotalAsw" : "ΣASW",
 	"ExpedTotalLos" : "ΣLoS",
 	"ExpedTotalAa" : "ΣAA",
+	"ExpedTotalFp" : "ΣFP",
 	"ExpedEscortTip" : "สามารถใช้ DE แทน DD ได้ในบางด่าน โปรดใช้ด้วยความระมัดระวัง",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
 	"ExpedExpUnit" : " EXP",
@@ -748,6 +761,8 @@
 	"ExpedGSRateExplainMissingSparkle": "ไม่มีเรือที่มีกำลังใจสูงในกองเรือ",
 	"ExpedGSRateExplainNoOverdrum": "จำนวนถังสำรวจไม่เพียงพอสำหรับการเพิ่มโอกาสสำเร็จโบนัส \nต้องการ: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "มีเรือที่มีกำลังใจสูง เพิ่มโอกาสสำเร็จโบนัส \nขณะนี้: {0}",
+
+	"ConsumablesFCoinBoxes" : "{0} × กล่องเล็ก 200 = {1}\n{2} × กล่องกลาง 400 = {3}\n{4} × กล่องใหญ่ 700 = {5}\nรวมในกล่อง = {6}\nรวมทั้งหมด = {7}",
 
 	"CraftEquipNoteFirst": "เพิ่งจะเคยได้ <strong>ชิ้นแรก</strong>!",
 	"CraftEquipNoteExists": "ตอนนี้มี <strong>{0}</strong> ชิ้น!",
@@ -771,6 +786,8 @@
 	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
 	"PvpFormationPred"   : "ฟอร์เมชั่น",
 	"FirstFleetLevelTip" : "Exp พื้นฐานของฝ่ายเรา: {0}\nชนะ S+: {1} (ไม่รวม CT)",
+
+	"RemodelItemListTitle" : "นี่เป็นรายการของวันที่ <br/>(<span>{0:weekday} JST</span>)",
 
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ {1} แล้ว",
@@ -842,4 +859,6 @@
 	"DownloadErrorReport": "ดาวน์โหลดไฟล์รายงานปัญหาข้อผิดพลาด",
 
 	"Dummy" : "Dummy"
+
+
 }

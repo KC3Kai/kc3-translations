@@ -79,5 +79,41 @@
         "name": "Saiun Dismantlement for Transport",
         "desc": "Have 20 Development Materials and one Saiun. Scrap one Type 0 Reconnaissance Seaplane. \u2623BEWARE OF CHANGING DIFFICULTIES AFTERWARDS\u2623",
         "memo": "\u2623Changing difficulties after the completion of this quest will cause the Saiun (Disassembled for Transport) to disappear!!!\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3 Rewards Saiun (Disassembled for Transport)"
+    },
+    "188": {
+        "code": "Le1A1",
+        "name": "Fully Formed Nishimura Fleet, Prepare to Sortie!",
+        "desc": "Have Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo and Shigure in Fleet 3. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Reinforcement Expansion and either a Skilled Lookouts OR a Furniture Fairy OR 3 Combat Rations"
+    },
+    "872": {
+        "code": "Le1B1",
+        "name": "Secure the Supply Line Logistics for Operation Sho-Ichi-Go!",
+        "desc": "Sortie to [E-2]. A-Rank+ the boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Mamiya and either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report"
+    },
+    "801": {
+        "code": "SB26",
+        "name": "Happy New Year! Torpedo Squadron, Commence with the Sorties!",
+        "desc": "Sortie a CL as flagship and up to 5 DD to [W1-2] and [W1-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards an Emergency Repair Goddess and either 2 Combat Rations OR 5 Development Materials"
+    },
+    "802": {
+        "code": "SB27",
+        "name": "Helping Out Irako in the New Year!",
+        "desc": "Sortie an AV/CA(V)/CL(T)/CT as flagship and up to 5 additional ships to [W2-2] and [W2-3]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 3 Irako and either a Combat Ration (Special Onigiri) OR 5 Buckets OR a New Model Artillery Armament Materials"
+    },
+    "803": {
+        "code": "SB28",
+        "name": "Commence the Escorts! A New Year for the Naval Escort Squadrons!",
+        "desc": "Sortie only DD/DE (1 CVL is allowed) to [W1-5] and [W1-6]. A-Rank+ the [W1-5] boss node three times. Reach [W1-6] node N three times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards 3 Screws, a Furniture Fairy and either 2 Type 2 Depth Charges OR an Action Report OR a Raiden"
+    },
+    "804": {
+        "code": "SB29",
+        "name": "Happy New Year! Carrier Task Force, Sortie at Full Strength!",
+        "desc": "Sortie a CV(B/L) as flagship, 2 DD and 3 additional ships to [W5-5]. A-Rank+ the boss node four times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a Skilled Crew Member OR 2 New Model Aviation Armament Materials OR 3 Shiden Kai Ni"
     }
 }

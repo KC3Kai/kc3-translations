@@ -380,6 +380,7 @@
 	"SettingsPushAlertsKey" : "Access Token",
 
 	"SettingsDBSubmission" : "ส่งข้อมูลให้ Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsDBSubmissionWarn" : "Kancolle DB ได้ยุติการให้บริการแล้ว",
 	"SettingsEnableDBSubmission" : "เปิดใช้งาน",
 	"SettingsDBSubmissionKey" : "Access key",
 
@@ -605,6 +606,15 @@
 	"ShipAACIMaxBonus" : "โบนัส AACI: {0}",
 	"ShipAAShotdownTitles" : "ทดสอบ/ทั้งหมด/ตก/ตกแน่/พลาด",
 
+	"ShipAAEffectNone" : "ปกติ",
+	"ShipAAEffectNormal" : "ปืนกล",
+	"ShipAAEffectHighAngleMount" : "ปืนลำกล้องสูง",
+	"ShipAAEffectRocketLauncher" : "ยิงจรวด",
+	"ShipAAEffectRocketLauncherK2" : "ยิงจรวด 2",
+	"ShipAAEffectType3Shell" : "กระสุนเขียว",
+	"ShipAAEffectType3ShellRockeLaunK2" : "กระสุนเขียว+จรวด 2",
+	"ShipAAEffectUnknown" : "ไม่ทราบ",
+
 	"PredictionStampSortie" : "จม",
 	"PredictionStampPvP" : "น็อกเอ๊าต์",
 
@@ -736,6 +746,7 @@
 	"ExpedTotalAsw" : "ΣASW",
 	"ExpedTotalLos" : "ΣLoS",
 	"ExpedTotalAa" : "ΣAA",
+	"ExpedTotalFp" : "ΣFP",
 	"ExpedEscortTip" : "สามารถใช้ DE แทน DD ได้ในบางด่าน โปรดใช้ด้วยความระมัดระวัง",
 	"ExpedCheckReq" : "ผ่านเงื่อนไข",
 	"ExpedExpUnit" : " EXP",
@@ -776,6 +787,8 @@
 	"PvpDispBaseExpWoCT" : "ชนะ S ไม่รวม x{0} โบนัสเรือฝึกซ้อม",
 	"PvpFormationPred"   : "ฟอร์เมชั่น",
 	"FirstFleetLevelTip" : "Exp พื้นฐานของฝ่ายเรา: {0}\nชนะ S+: {1} (ไม่รวม CT)",
+
+	"RemodelItemListTitle" : "นี่เป็นรายการของวันที่ <br/>(<span>{0:weekday} JST</span>)",
 
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ {1} แล้ว",

@@ -377,7 +377,7 @@
 	"SettingsPanelOpacity" : "不透明度",
 	"SettingsPanelBoxBackColor" : "情報パネル背景色",
 	"SettingsPanelCustomCSS" : "CSSカスタマイズ",
-	"SettingsPanelCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。これを有効するにはパネルを一度閉じてから再開する必要があります。一部のCSSに`!important`をつけるのを忘れないでね。",
+	"SettingsPanelCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。一部のCSSに`!important`をつけるのを忘れないでね。",
 
 	"SettingsStrategyRoom" : "戦闘指揮所",
 	"SettingsStrategyTheme" : "テーマ",
@@ -596,12 +596,21 @@
 	"ShipAACIMaxBonus"    : "最大対空CI: {0}",
 	"ShipAAShotdownTitles": "対敵機/両方/割合/固定/失敗",
 
+	"ShipAAEffectNormal"           : "機銃",
+	"ShipAAEffectHighAngleMount"   : "高角砲",
+	"ShipAAEffectRocketLauncher"   : "噴進砲",
+	"ShipAAEffectRocketLauncherK2" : "噴進砲改二",
+	"ShipAAEffectType3Shell"       : "三式弾",
+	"ShipAAEffectType3ShellRockeLaunK2" : "三式弾+改二",
+
 	"PredictionStampSortie" : "轟　　沈",
 	"PredictionStampPvP"    : "行動不能",
 
 	"EventRankHardAbbr"    : "甲",
 	"EventRankNormalAbbr"  : "乙",
 	"EventRankEasyAbbr"    : "丙",
+	"EventRankCasualAbbr"  : "丁",
+	"EventHistoryRank1C"   : "丁",
 	"EventHistoryRank1"    : "丙",
 	"EventHistoryRank2"    : "乙",
 	"EventHistoryRank3"    : "甲",
@@ -708,6 +717,7 @@
 	"ExpedTotalAsw"   : "Σ対潜",
 	"ExpedTotalLos"   : "Σ索敵",
 	"ExpedTotalAa"    : "Σ対空",
+	"ExpedTotalFp"    : "Σ火力",
 	"ExpedEscortTip"  : "駆逐艦の代わりに海防艦を使えますが、\n一部の遠征には混在出来ない場合もあります。",
 	"ExpedCheckReq"   : "必須条件チェック",
 	"ExpedExpUnit"    : " exp",
@@ -748,6 +758,8 @@
 	"PvpDispBaseExpWoCT" : "練巡x{0:ボーナス}除いたS評価",
 	"PvpFormationPred"   : "敵陣形予想",
 	"FirstFleetLevelTip" : "演習を挑んだ相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除く)",
+
+	"RemodelItemListTitle" : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",

@@ -47,8 +47,6 @@
 	"MenuKancolleName" : "Bermain Kantai Collection",
 	"MenuKancolleDesc" : "Membuka tab KC3改 yang dapat dikostumisasi sesuka hati.",
 		
-	"MenuCookiesName" : "Aktifkan Cookies",
-	"MenuCookiesDesc" : "Gunakan ini saat Kamu menemukan tampilan \"Error Area\" pada DMM.com.",
 	"MenuStrategyName" : "Ruangan Strategi",
 	"MenuStrategyDesc" : "Fasilitas untuk membantu menganalisa, menstrategikan dan mengatur armada.",
 	"MenuSettingsDesc" : "Konfigurasi ekstensi yang diterapkan pada sesi permainan berikutnya.",
@@ -106,19 +104,6 @@
 	"GameAPIRemoveTitle" : "Hapus API link",
 	"GameAPIRemoveDesc" : "Jika Kamu ingin menghapus API Link yang telah tersimpan?:",
 	"GameAPIRemoveBtn" : "Hapus API Link",
-	
-	"GameAPIPlayFlashNoticeTitle" : "Chrome 54+ API Link Whitescreen",
-	"GameAPIPlayFlashNoticeDesc" : "Semenjak Chrome versi 54 keatas, bermain via API Link hanya akan memperlihatkan layar putih dan tidak otomatis seperti biasa. Ini salah satu cara Chrome untuk mencela Flash Player. Akan ada 1 (satu) cara tambahan untuk lanjut bermain, walaupun Kami merekomendasikan bermain via DMM Frame. Jika masih ingin lanjut, silahkan ikuti langkah-langkah berikut. Ini Aman kok, hanya masalah Chrome vs Flash, bukan dari Kancollenya~<br /><ul></ul>",
-	"GameAPIPlayFlashNoticeStep1": "Pergi kesini: <code>chrome://plugins/</code>",
-	"GameAPIPlayFlashNoticeStep2": "Cari bagian \"Adobe Flash Player\"",
-	"GameAPIPlayFlashNoticeStep3": "Petik dikotak \"Always allowed to run\"",
-	"GameAPIPlayFlashNoticeStep4": "Restart browsernya lalu Kancolle~",
-	
-	"GameChrome55FrameNoticeTitle": "via Bingkai DMM tidak cocok dengan Chrome ver.55+",
-	"GameChrome55FrameNoticeDesc": "Chrome Ver.55+ mematikan pembacaan flash antar situs dan itu lah sebabnya Kamu hanya melihat layar hitam. Ini masalah dari Chrome bukan dari DMM jadi tenang saja. Untuk sementara bermainlah via Portal DMM atau Bingkai DMM sampai kami menuntaskan masalah ini. Kami berusaha sebaik mungkin agar Kamu dapat bermain kembali seperti biasa.",
-	
-	"GameChrome55APINoticeTitle": "via Bingkai DMM tidak cocok dengan Chrome ver.55+",
-	"GameChrome55APINoticeDesc": "Sayangnya Chrome Ver.55+ berhenti melaporkan riwayat jaringan ke panel alat pengembang ketika langsung mulai. Ini masalah dari Chrome bukan dari DMM jadi tenang saja. Untuk sementara bermainlah via Portal DMM atau Bingkai DMM sampai kami menuntaskan masalah ini. Kami berusaha sebaik mungkin agar Kamu dapat bermain kembali seperti biasa.",
 	
 	"GameAPINoExist" : "Kamu tidak memiliki API Link tersimpan",
 	"GameAPIGetTitle" : "Untuk mendapatkan API link baru",
@@ -236,19 +221,6 @@
 	"SettingsUpdateNotifPage" : "Halaman Pembaharuan",
 	"SettingsUpdateNotifPop" : "Muncul di Desktop",
 
-	
-	"MapNameWorld1" : "Dunia 1",
- 	"MapNameWorld2" : "Dunia 2",
- 	"MapNameWorld3" : "Dunia 3",
- 	"MapNameWorld4" : "Dunia 4",
- 	"MapNameWorld5" : "Dunia 5",
- 	"MapNameWorld6" : "Dunia 6",
- 	"MapNameEventWorld" : "{0:season} {1:year}",
- 	"MapNameEventSeasonSpring" : "Musim Semi",
- 	"MapNameEventSeasonSummer" : "Musim Panas",
- 	"MapNameEventSeasonFall" : "Musim Gugur",
- 	"MapNameEventSeasonWinter" : "Musim Dingin",
-	
 	"SettingsErrors" : "Galat",
 	"SettingsShowCatBombs" : "Tampilan Galat Kucing",
 	"SettingsShowAPIError" : "Tampilan Galat API",
@@ -260,6 +232,7 @@
 	"SettingsConstructionFaces" : "Wajah Konstruksi",
 	"SettingsCraftBox" : "Hasil Pembuatan",
 	"SettingsCompass" : "Kompas dan Data Pertempuran",
+	"SettingsPrevEncounters" : "Pertempuran sebelumnya",
 	"SettingsBattleData" : "Prediksi Pertempuran",
 	"SettingsBattleRank" : "Prediksi Rank Akhir",
 	"SettingsBattleMvp" : "Prediksi Calon MVP",
@@ -281,8 +254,11 @@
 	"SettingsShipStatsUnequipped" : "(Tak Terpakai) Sekarang", 
 	"SettingsShipStatsLeftToMax" : "Sekarang +tersisa ke MAX", 
 	"SettingsShipStatsAll" : "(Tak Terpakai) Sekarang +tersisa ke MAX ",
-	"SettingsSeasonalShipIcon" : "Ikon Musiman untuk Kapal",
 	"SettingsDamagedShipIcon" : "Ikon Kapal Terluka",
+	"SettingsSeasonalShipIcon" : "Ikon Musiman untuk Kapal",
+	"SettingsCheckNewShipFromDex" : "Cek Kapal Baru via Galeri",
+	"SettingsCheckNewShipFromDexTip" : "Memunculkan wajah Kapal yang baru pertama kali datang di pangkalanmu, opsi ini memerlukan kamu untuk pergi ke Seluruh Halaman di Galeri Kapal di dalam Game untuk mengambil datanya. Jika tidak di cek, setiap kapal yang telah di makan, di hancurkan, atau (sengaja/tak disengaja) Tenggelam akan dihitung Baru di Pangkalan.",
+	"SettingsFormatNumbers" : "Format Angka",
 	
 	"SettingsFormulas" : "Formula Game",
 	"SettingsELosFormula" : "Efektivitas Formula LoS",
@@ -378,6 +354,7 @@
 	"SettingsSubtitleDisplay": "Tampilan Subtitle",
 	"SettingsSubtitleSpeaker": "Subtitle dengan Nama Kapal",
 	"SettingsSubtitleHourly" : "Subtitle kata-kata tiap jam",
+	"SettingsSubtitleAccurateDuration" : "Durasi Akurat Subtitle",
 	"SettingsGoogleTranslate": "Bantuan Google Translate",
 	"SettingsMuteGameTab" : "Bisukan Tab saat Dimulai",
 
@@ -414,6 +391,9 @@
 	
 	"SettingsKC3DBSubmission" :"Kirim data ke KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Gunakan dan bantu kami",
+	
+	"SettingsTsunDBSubmission" :"Kirim data ke para Tsundere (http://kckai.cybersnets.com)",
+	"SettingsEnableTsunDBSubmission" : "Gunakan Fitur ini",
 	
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
@@ -554,6 +534,7 @@
 	"BattleAntiAirCutIn" : "Anti-Air cut-in terpicu?",
 	"BattleItemDrop"     : "Drop item spesial",
 	"BattleNightNeeded"  : "Yasen diperlukan?",
+	"BattleDayNeeded"    : "Tempur Siang diperlukan?",
 	"BattleRating"	     : "Battle Rating",
 	"BattleAvoided"	     : "~Abyssal Dihindari~",
 	"BattleSelect"	     : "Pilih: ",
@@ -576,6 +557,8 @@
  	"BattleKindAirBattleOnly" : "Titik Aerial Battle",
  	"BattleKindAirDefendOnly" : "Titik Air Raid",
  	"BattleKindEnemyCombined" : "Titik Armada Gabungan",
+	"BattleKindNightToDay" : "Titik Tempur Yasen ke Siang",
+	"BattlePreviousEncounters" : "Perlawanan Sebelumnya",
 	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "FP",
@@ -592,23 +575,11 @@
 	"ShipMorale"  : "Morale",
 	"ShipYasenFp" : "Yasen",
 	
-	"ShipDayAttack" : "Siang {0:warfareType} Kekuatan: {1:power} ({2:attackType})",
-	"ShipNightAttack" : "Malam {0:warfareType} Kekuatan: {1:power} ({2:attackType})",
-	"ShipAccShelling" : "Akurasi Penembakan: {0} (Pakai: {1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit} {5:cutinModifier})",
-	"ShipEvaShelling" : "Penghindaran: {0} (Pakai:{1:byStats},\u2605{2:byImprovement},Bensin:{3:fuelPenalty})",
-	"ShipAAAdjusted" : "Anti-udara yang ditetapkan: {0}",
-	"ShipAAShotdownRate" : "Persentase yang ditembak jatuh: {0}%",
-	"ShipAAFixedShotdown" : "Yang tertembak jatuh: {0}",
-	"ShipAACIMaxBonus" : "Bonus maksimal penembakan jatuh oleh AACI: {0}",
-	"ShipAAShotdownTitles" : "Tes:/Keduanya/Lebih/Tetap/Gagal",
-	
-	"PredictionStampSortie" : "TENGGELAM!!",
-	"PredictionStampPvP" : "Pingsan",
-	
 	"ShipWarfareShelling" : "Shelling",
 	"ShipWarfareTorpedo"  : "Torpedo",
 	"ShipWarfareAntisub"  : "Anti-Sub",
 	"ShipWarfareAntiLand" : "Anti-Land",
+	"ShipWarfareAerial"   : "Aerial",
 	
 	"ShipAttackTypeLandingAttack" : "Daratan",
 	"ShipAttackTypeRocket"        : "Roket",
@@ -621,10 +592,34 @@
 	"ShipExtraPhaseOpeningASW"     : "OASW",
 	"ShipExtraPhaseOpeningTorpedo" : "OTA",
 	"ShipExtraPhaseClosingTorpedo" : "CTA",
+	"ShipExtraPhaseOpeningAirStrike" : "OAirStk",
+	"ShipExtraPhaseOpeningJetAssault" : "OJets",
+		
+	"ShipDayAttack" : "Siang {0:warfareType} Kekuatan: {1:power} ({2:attackType})",
+	"ShipNightAttack" : "Malam {0:warfareType} Kekuatan: {1:power} ({2:attackType})",
+	"ShipAccShelling" : "Akurasi Penembakan: {0} (Pakai: {1:byStats},\u2605{2:byImprovement},Fit:{3:byGunfit} {5:cutinModifier})",
+	"ShipEvaShelling" : "Penghindaran: {0} (Pakai:{1:byStats},\u2605{2:byImprovement},Bensin:{3:fuelPenalty})",
+	"ShipAAAdjusted" : "Anti-udara yang ditetapkan: {0}",
+	"ShipAAShotdownRate" : "Persentase yang ditembak jatuh: {0}%",
+	"ShipAAFixedShotdown" : "Yang tertembak jatuh: {0}",
+	"ShipAACIMaxBonus" : "Bonus maksimal penembakan jatuh oleh AACI: {0}",
+	"ShipAAShotdownTitles" : "Tes:/Keduanya/Lebih/Tetap/Gagal",
 	
-	"EventRankHardAbbr"	: "S",
-	"EventRankNormalAbbr"  	: "N",
-	"EventRankEasyAbbr"	: "M",
+	"ShipAAEffectNone" : "NA",
+	"ShipAAEffectNormal" : "MG",
+	"ShipAAEffectHighAngleMount" : "HA",
+	"ShipAAEffectRocketLauncher" : "RL",
+	"ShipAAEffectRocketLauncherK2" : "RLK2",
+	"ShipAAEffectType3Shell" : "T3S",
+	"ShipAAEffectType3ShellRockeLaunK2" : "T3S&RLK2",
+	"ShipAAEffectUnknown" : "UNK",
+	
+	"PredictionStampSortie" : "TENGGELAM!!",
+	"PredictionStampPvP" : "Pingsan",
+		
+	"EventRankHardAbbr"     : "S",
+	"EventRankNormalAbbr"   : "N",
+	"EventRankEasyAbbr"     : "M",
 	"EventHistoryRank1"	: "MUDAH",
 	"EventHistoryRank2"	: "NORMAL",
 	"EventHistoryRank3"	: "SULIT",
@@ -643,8 +638,9 @@
 	"PanelRepairMoreDays" : "Lebih dari 24 jam",
 	"PanelRepairing" : "Memperbaiki...",
 	"PanelCombinedShipBarsHint" : "Exp tersisa = {0}, Bensin = {1}%, Peluru = {2}%",
-	"PanelNextRemodelLv" : "Remodel Berikutnya {0}",
+	"PanelNextRemodelLv" : "Remodel Berikutnya Lv. {0:level}",
 	"PanelPossibleRemodel" : "Kemungkinan Remodel",
+	"PanelNextLvGoalLeft" : "Target Level: {0}\nTersisa {1}x Lawan",
 	"PanelResupplyCosts" : "Akan memakan {0} Bensin, {1} Peluru, {2} Bauxit",
 	"PanelResupplyMarriedHint" : "(Diskon 15% untuk yang sudah Menikah\u2665~)",
 	"PanelBattleConsumes" : "Biaya per Lawan\n\u2003Biasa - Bensin: {0:fuel}, Peluru: {1:dayAmmo} (Yasen: {2:incNightAmmo})\n\u2003Node Serangan Udara - Bensin: {3:airRaidFuel}, peluru: {4:airRaidAmmo}",
@@ -654,6 +650,7 @@
  	"PanelSupportExpCosts" : "Tipe Banruan: {0}\nBiaya Bantuan\n\u2003Bensin: {1}, Peluru: {2}",
 	"PanelAirContactTip" : "Untuk {0:airControl}:\n\u2003Kemungkinan Kontak Sukses: {1}%\n\u2003Kemungkinan Kontak Terpicu: {2}%\n\u2003Kemungkinan Kontak Gagal: {3}%{4:contactPlanes}",
   	"PanelAirContactPlanes" : "\nPilihan Pesawat Prioritas Utama {0}:\n{1:planeRateList}",
+	"PanelAirStrikeTip" : "{1:airContact} Kekuatan Serangan Udara : {0}",
 	
 	"PanelHasTaiha" : "Kritis",
 	"PanelFSTaiha" : "Pemimpin",
@@ -697,6 +694,7 @@
 	"CombinedSurface" : "Surface TF",
 	"CombinedTransport" : "Transport",
 	"CombinedNone" : "Tunggal",
+	"CombinedLbas" : "LBAS",
 
 	"LandBaseActionWaiting" : "Menunggu",
 	"LandBaseActionSortie" : "Sortie",
@@ -719,6 +717,18 @@
 	"PanelWaitActions" : "Menunggu Game Dimulai...",
 	"PanelErrorStorage" : "Chrome localStorage dinonaktifkan di pengaturanmu. KC3改 memerlukan fitur tersebut. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">Bagaimana cara mengaktifkannya?</a>.",
 	
+	"MapNameWorld1" : "Dunia 1",
+ 	"MapNameWorld2" : "Dunia 2",
+ 	"MapNameWorld3" : "Dunia 3",
+ 	"MapNameWorld4" : "Dunia 4",
+ 	"MapNameWorld5" : "Dunia 5",
+ 	"MapNameWorld6" : "Dunia 6",
+ 	"MapNameEventWorld" : "{0:season} {1:year}",
+ 	"MapNameEventSeasonSpring" : "Musim Semi",
+ 	"MapNameEventSeasonSummer" : "Musim Panas",
+ 	"MapNameEventSeasonFall" : "Musim Gugur",
+ 	"MapNameEventSeasonWinter" : "Musim Dingin",
+	
 	"NatsuiroBasic" : "Awal",
 	"NatsuiroBattle" : "Tempur",
 	"NatsuiroExped" : "Exped",
@@ -736,6 +746,7 @@
 	"ExpedTotalAsw" : "ΣASW",
  	"ExpedTotalLos" : "ΣLoS",
  	"ExpedTotalAa" : "ΣAA",
+	"ExpedTotalFp" : "ΣFP",
 	"ExpedExpUnit" : " exp",
 	"ExpedBaseNormal" : "Dasar",
 	"ExpedBaseGreat" : "Dasar (Sukses Besar)",
@@ -751,6 +762,8 @@
 	"ExpedGSRateExplainSparkle": "Memiliki kapal yang berkilau menambah tingkat #DTE\nSekarang: {0}",
 	"ExpedEscortTip" : "DE bisa menggantikan DD, namun ketika dicampur \ndapat menyebabkan ekspedisi gagal.",
 	
+	"ConsumablesFCoinBoxes" : "{0} × 200 kotak = {1}\n{2} × 400 kotak = {3}\n{4} × 700 kotak = {5}\nDalam kotak = {6}\nTotal = {7}",
+	
 	"CraftEquipNoteFirst" : "<strong>Pertama Kali</strong> Kamu dapat item ini!",
 	"CraftEquipNoteExists" : "Kamu memilki <strong>{0}</strong> item ini!",
 	"CraftEquipNotePenguin" : "Pembuatan equip gagal",
@@ -764,14 +777,6 @@
 	"EquipOaswMessage" : "Bisa lakukan Opening ASW",
 	"EquipOaswPower" : "Kekuatan OASW Pra-Kap:",
 	
-	"FitWeight_-3": "Bonus Ketidakcocokan Besar",
-	"FitWeight_-2": "Bonus Ketidakcocokan Menengah",
-	"FitWeight_-1": "Bonus Ketidakcocokan Kecil",
-	"FitWeight_0": "Netral",
-	"FitWeight_1": "Bonus Kecocokan Kecil",
-	"FitWeight_2": "Bonus Kecocokan Menengah",
-	"FitWeight_3": "Bonus Kecocokan Besar",
-	
 	"PvpListTitle" : "Lawan Latihan",
 	"PvpListCreateType0" : "Armada Latihan [Grup 1]",
 	"PvpListCreateType1" : "Armada Latihan [Grup 2]",
@@ -781,6 +786,8 @@
 	"PvpDispBaseExpWoCT" : "SS/S tanpa bonus x{0} CT ",
 	"PvpFormationPred"   : "Formasi",
 	"FirstFleetLevelTip" : "EXP dasar yang akan didapat lawanmu: {0}\nKetika Rank S+: {1} (tanpa CT)",
+	
+	"RemodelItemListTitle" : "Resep untuk Hari ini~ <br/>(<span>{0:hari} JST</span>)",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Ekspedisi Selesai!",
 	"DesktopNotifyExpedCompleteMessage" : "Armada {0} baru saja kambali dari Ekspedisi #{1}",
@@ -849,7 +856,6 @@
 	"MasterShipSaltUnCheck" : "#TeamBurem",
 	"MasterShipGoQuotes" : "Cek Subtittle",
 	
-	"Chrome55Incompatible": "Tidak bekerja dengan Chrome Ver.55+",
 	"DownloadErrorReport": "Unduh file laporan galat",
 	
 	"Dummy" : "Dummy"

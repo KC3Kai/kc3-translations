@@ -379,7 +379,8 @@
 	"SettingsEnablePushAlerts" : "Enable this feature",
 	"SettingsPushAlertsKey" : "Access Token",
 	
-	"SettingsDBSubmission" :"Send data to Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsDBSubmission" : "Send data to Kancolle DB (http://kancolle-db.net/login.php)",
+	"SettingsDBSubmissionWarn" : "Kancolle DB has been stopped, setting will be removed in future",
 	"SettingsEnableDBSubmission" : "Enable this feature",
 	"SettingsDBSubmissionKey" : "Access key",
 	

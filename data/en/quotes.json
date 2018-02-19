@@ -558,7 +558,14 @@
         "2@Spring": "Spring... cherry blossoms, huh. Hey, Yamato, it's beautiful, isn't it? Ahah, I guess this isn't very like me. Ahaha...",
         "2@WhiteDay": "What? This is for me? Admiral, thank you. It's a rather unfamiliar combat ration but... I'll accept it.",
         "2@Valentines2018": "It's almost time. Alright, time to do what we said. Right, partner?",
-        "4@Valentines2018": "What is it, Kiyoshimo? Don't make that face. Ahaha, don't be silly. But, thank you."
+        "4@Valentines2018": "What is it, Kiyoshimo? Don't make that face. Ahaha, don't be silly. But, thank you.",
+        "13@Leyte": "1st Striking Force, 1st Section, Battleship Musashi, preparations for sail are complete. Shall we go, partner?",
+        "18@Leyte": "That's right, follow me. Begin pursuit!",
+        "3@Leyte": "An air raid is coming. I'm grateful that the Land Based Air Forces will provide cover but... Will the planes be alright?",
+        "4@Leyte": "Yup, this paint on my equipment works. What's with that look, partner? It'll be fine. This time, I'll return!",
+        "16@Leyte": "I'm not holding back this time. Right, partner?",
+        "17@Leyte": "HAHAHA! What a thrill! Main guns, full broadside. Mow them down!",
+        "2@Leyte": "Alright, it's finally time for my 1st Striking Force to depart. Leave it to me. I'll definitely break through Leyte! Are you ready, partner? Great, that's a good expression."
     },
     "148": {
         "Intro": "The second ship of the Yamato-class battleships, Musashi... Barging in! What do you think of this color? Does this look suit me as well?",
@@ -617,7 +624,11 @@
         "2@NewYears": "It's New Year's! New Year's! Hyuuga, Happy New Year! I'll be counting on you again this year.",
         "2@Valentines": "That's right, it's Valentine's Day. Admiral? Hyuuga? Here, chocolate! Fufu\u266a",
         "2@Anniversary": "Today is a happy day? Hyuuga is in a good mood. Shall we get drunk today?",
-        "2@YearsEnd": "That was fast... It's already the end of the year. Hey, Hyuuga. Should we get some cleaning started?"
+        "2@YearsEnd": "That was fast... It's already the end of the year. Hey, Hyuuga. Should we get some cleaning started?",
+        "2@Leyte": "That's right, Hyuuga. It looks tough. We'll need to be properly prepared to challenge it.",
+        "16@Leyte": "Now, let's go get them!",
+        "3@Leyte": "Ngh, evasive manoeuvres; OK... Rockets; OK! I think this is fine.",
+        "19@Leyte": "Not bad, you scored a hit. But, this is just a scratch."
     },
     "82": {
         "Intro": "I'm the aviation battleship 'Ise'! With a rear-facing flight deck and 2 catapults, I can make use of the power of aviation!",
@@ -693,7 +704,11 @@
         "2@Rainy": "It rains often at this time of year. It'll be a problem if this affects the Zuiuns' operations....",
         "2@EarlySummer": "I don't have a problem with this season. Ise... Ise? Ah, are you sleeping?",
         "2@Xmas": "Oh... so this is Christmas... is it...? Hmm... red and green, and then white? It's not too bad.",
-        "2@YearsEnd": "Hm... it's about time to do the cleaning. I'm going to polish the Zuiuns in the hangar."
+        "2@YearsEnd": "Hm... it's about time to do the cleaning. I'm going to polish the Zuiuns in the hangar.",
+        "2@Leyte": "The next battle looks like it will be hard, Ise.",
+        "16@Leyte": "I'm going to pay you back, let's do this.",
+        "3@Leyte": "Aviation Battleship Hyuuga, I won't... mess up in the fight for air superiority!",
+        "19@Leyte": "Ah, not bad. But I can still do battle manoeuvres."
     },
     "88": {
         "Intro": "Ise-class Aviation Battleship, Hyuuga... Pushing forward.",
@@ -893,7 +908,10 @@
         "2@Xmas": "Hey, Admiral! Merrrrryyyy... CHRISTMAS TO YOU!! Now, hurry up and give me my present, desu! Come on... come on...! ...Ah! He ran away! Wait!",
         "2@YearsEnd": "Oh...! This year's already at December! Time really flies, huh, Admiral? The naval base cleanup? You can count on me, desu!",
         "2@WhiteDay": "Hey, Admiral. What's your big White Day return gift for me?",
-        "3@Valentines2018": "BatDiv 3 has begun preparations too, Admiral."
+        "3@Valentines2018": "BatDiv 3 has begun preparations too, Admiral.",
+        "16@Leyte": "Hit, just a little bit more!",
+        "3@Leyte": "I want to drink tea with the Admiral again after this battle!",
+        "17@Leyte": "I told you I won't let go once I've gotten my hands on you!"
     },
     "209": {
         "Idle": "I told you to keep your eyes on me~! Admiral~ just what are you doing, desu!?",
@@ -1046,7 +1064,10 @@
         "2@Xmas": "Merry Christmas, Admiral! I'm so glad to be able to spend another Christmas together with you! Admiral, I'll open up the champagne. (...) Okay, here you go. I think... I'll have some, too.",
         "2@YearsEnd": "Admiral, it's the time of year for cleaning, isn't it? I'll clean up the things on your desk for you! Okay! I'll arrange the things inside your desk as well, so please leave it to me! Oh... Admiral...? Umm... I can't ope- ...Admiral?",
         "2@WhiteDay": "Eh? A return gift for the chocolate.... That's.... Haruna should not deserve this.... ....I'm really happy.",
-        "3@Valentines2018": "\"I want to protect\", that's...what I feel."
+        "3@Valentines2018": "\"I want to protect\", that's...what I feel.",
+        "16@Leyte": "I won't allow any selfishness here!",
+        "3@Leyte": "Yes, I'll be sortieing. With you, Admiral...",
+        "19@Leyte": "Oh no, I'm hit? But, I'll continue on!"
     },
     "211": {
         "Idle": "Haruna... on standby... roger...",
@@ -1120,7 +1141,8 @@
         "2@Xmas": "So, it's the time of year for Christmas parties! The most important thing for the party host to have is a mic. Naturally, I'd like you to run a mic check regularly. Yes, it's important indeed. I'm counting on you.",
         "2@YearsEnd": "Now, let's show some enthusiasm for December cleaning! Broom, check! Dustpan, check! Kirishima, starting off with sweeping! Sweeping battle: ready! Commencing!",
         "2@WhiteDay": "You know.... You don't have to worry about getting chocolate just for me.... Yes, don't worry....",
-        "3@Valentines2018": "The fleet in port looks so tense... This is the feeling before an operation."
+        "3@Valentines2018": "The fleet in port looks so tense... This is the feeling before an operation.",
+        "3@Leyte": "Bring victory to the fleet... Commander..."
     },
     "212": {
         "Idle": "Mic check. One, two. One-two, one-two... three-FOOUURR! Oh! My fault, Admiral. I thought I'd do some checks while you were away...",
@@ -2101,7 +2123,10 @@
         "2@WhiteDay": "Admiral, is that for me? Your return gift? Oh, I see. Thank you so much. I'm looking forward to it. Uh, Zuikaku? Zuikaku, why are you mad?",
         "4@Setsubun2018": "Umm, after this battle, oh...I see. This will be the last battle for all of us in the Mobile Force, Zuikaku included.",
         "2@Valentines2018": "Over here, Admiral! Ah, you don't have to hurry, I just got here myself. Umm, Admiral, if you'd like...",
-        "4@Valentines2018": "Don't worry, Zuikaku. I'm here, and so is everyone else."
+        "4@Valentines2018": "Don't worry, Zuikaku. I'm here, and so is everyone else.",
+        "16@Leyte": "I'll protect Zuikaku and everyone else. Air wing, take off!",
+        "13@Leyte": "3rd Fleet, Ozawa Task Force Flagship, Shoukaku, sortieing!",
+        "19@Leyte": "Go on ahead of me, Zuikaku!"
     },
     "288": {},
     "461": {
@@ -2195,7 +2220,16 @@
         "4@Setsubun2018": "Admiral, okay, I understand.",
         "2@Valentines2018": "You're late, Admiral! I was waiting for a while. Don't make me wait while it's cold out. Ah, this? This is...",
         "3@Valentines2018": "I'm fine, I have planes this time. Skilled squadrons too. And also...",
-        "4@Valentines2018": "That's right, Shoukaku-nee will be there. I won't lose! Count on it!"
+        "4@Valentines2018": "That's right, Shoukaku-nee will be there. I won't lose! Count on it!",
+        "13@Leyte": "3rd Fleet, Ozawa Task Force flagship, Zuikaku, sortieing!",
+        "29@Leyte": "Admiral! This isn't the time to daydream! Come on, we need to do the sortie preparations for the Carrier Task Force! We can't lose this battle!",
+        "27@Leyte": "I'm very grateful for the resupply of my planes!",
+        "16@Leyte": "This is my Decisive Battle!",
+        "14@Leyte": "Ozawa Fleet flagship, Zuikaku, sortieing!",
+        "17@Leyte": "Put the pressure on! Drop dead! Air wing, take off!",
+        "20@Leyte": "Not bad! But I won't sink this time!",
+        "2@Leyte": "Operation Sho-1 is finally here. It's time for we in the Ozawa Fleet to sortie. I was waiting for this moment.",
+        "19@Leyte": "This isn't even a scratch!"
     },
     "112": {},
     "462": {
@@ -3415,7 +3449,12 @@
         "2@YearsEnd": "Admiral, just like that, the year is ending. Let's get through the cleaning together! I'll go get the brooms.",
         "2@Spring": "Admiral, it's spring. I'm really excited about springtime~ Do you want to try my new springtime tamagoyaki?",
         "2@WhiteDay": "Eh? Admiral, this...is for me? A return gift for the chocolate? Thank you very much!",
-        "2@Valentines2018": "Operation Sho-1 is almost here. I'll be going too."
+        "2@Valentines2018": "Operation Sho-1 is almost here. I'll be going too.",
+        "13@Leyte": "Member of the Carrier Task Force main forces, Zuihou, setting off!",
+        "3@Leyte": "I've completed my sortie preparations. I'm ready anytime, Zuikaku!",
+        "16@Leyte": "I'm counting on you, my dive bomber squadrons!",
+        "14@Leyte": "Yes, I'll definitely be coming along too!",
+        "19@Leyte": "Kyaaah, I won't, I won't sink yet!"
     },
     "117": {
         "Intro": "I'm Zuihou. How do my remodeled clothes look? I'll still do my best!",
@@ -3476,7 +3515,9 @@
         "2@Xmas": "Admiral? Christmas... it's so fun! Oh, hey, Chiyoda! Make sure not to eat too much. Ufufu\u266a",
         "2@YearsEnd": "It's already the end of the year. The year just flew by. I'll have to get the New Year's osechi ready. Chiyoda, help me out.",
         "2@Spring": "It's spring... Chiyoda, shall we invite the admiral and go for some flower viewing? We have some good sake too.",
-        "2@WhiteDay": "Admiral, this is for me? Thank you very much. I'll cherish eating it. Ehe. I'm looking forward to it!"
+        "2@WhiteDay": "Admiral, this is for me? Thank you very much. I'll cherish eating it. Ehe. I'm looking forward to it!",
+        "2@Leyte": "Are you ready... for Operation Sho-1, Chiyoda? ...Let's go.",
+        "3@Leyte": "I won't lose this battle!"
     },
     "104": {
         "Idle": "You're busy aren't you? That's fine, that's fine. How about we take it easy?",
@@ -3588,7 +3629,9 @@
         "2@YearsEnd": "*sigh* End of the year cleaning, huh... My rigging, the naval base and the Admiral's office... there's way too much to clean up!",
         "2@Spring": "Flower viewing with Chitose-onee!? Nice! I will start preparing now! E-Eeh? The admiral too? ...Well, fine I guess!",
         "2@WhiteDay": "Eh? What is this? In return for the chocolate? It's fine... ah, but I'll accept it. Since you went through the trouble!",
-        "2@Saury2017": "Mmmm... so sweet... these potatoes are really delicious. Chitose-onee, you're not having any?"
+        "2@Saury2017": "Mmmm... so sweet... these potatoes are really delicious. Chitose-onee, you're not having any?",
+        "2@Leyte": "I know that, Chitose-onee. We'll definitely return together!",
+        "3@Leyte": "I'll come back too, Chitose-onee!"
     },
     "105": {
         "Idle": "Admiral, it's Chiyoda! Did you forget about me?",
@@ -6125,7 +6168,9 @@
         "2@YearsEnd": "Let's start with the cleanup. Please relay that to Choukai and Maya as well. Atago is... huh? She's gone!?",
         "2@Spring": "It seems a pleasant season has arrived, hasn't it. Flower viewing with the fourth squadron sounds pretty great too. I'll be preparing the bentou with Choukai, is there anything that you would love to have? Seems like things are getting fun!",
         "2@WhiteDay": "Eh? This is... for me? Return sweets? Thank you very much. I'm happy. Ah, no good, I'm tearing up.",
-        "4@Valentines2018": "The fleet is gathering in port. It's almost time to start the operation."
+        "4@Valentines2018": "The fleet is gathering in port. It's almost time to start the operation.",
+        "13@Leyte": "The 4th Squadron will definitely show you how we shine on the battlefield! ...We will!!",
+        "3@Leyte": "Be on ASW high alert, Atago! They'll definitely be coming."
     },
     "269": {
         "Married": "Admiral, is something wrong? Are you... perhaps a bit tired? I understand. Then, would you like to rest your head on my lap? It's okay if it's for a little bit, so please have a good rest. This is also one of your important responsibilities, after all.",
@@ -6176,7 +6221,10 @@
         "2@Spring": "Spring! It feels nice~ Ah, that's right! Let's have Takao prepare us some bentou and go to the park with everyone! I think it'll definitely feels great!",
         "2@WhiteDay": "What would be a good gift in return for the Valentines? Let's see. Oh! How about a \"1-day Date with Admiral Ticket\"? Ufu~",
         "2@LateFall2017": "It's gotten a bit colder, huh. Shall I make you some hot milk, Admiral? Ufu~ He~re~",
-        "2@Valentines2018": "It's almost time, Takao."
+        "2@Valentines2018": "It's almost time, Takao.",
+        "13@Leyte": "I'll show you when we arrive at the operation area. That's where the real show starts.",
+        "3@Leyte": "Jeez! I know~ We even have airborne ASW support this time.",
+        "17@Leyte": "Panpakapan~! Take thiiiiiis~!"
     },
     "270": {
         "Married": "Ufufu... Admiral, what's wrong? Huh? Are your shoulders stiff? What a coincidence\u2014 mine are stiff, too! Oh... you're going to massage them? Hah... that feels great...! Admiral, you're good at this. It feels really nice! I'll let Takao give it a try next time as well! Ahhh~ right there...",
@@ -6220,7 +6268,11 @@
         "2@Fall": "Man, the summer I was looking forward to is over with. Now we're stuck with this gloomy season. Ah... achoo!",
         "2@Xmas": "Christmas, right? Well, whatever. This \"champagne\" alcohol is really... well, tell me what you think. ...So, Admiral?",
         "2@WhiteDay": "Oh. The return gift for the chocolate? Thank you, Admiral. Although I can't stand sweets, maybe I'll try to eat this?",
-        "3@Valentines2018": "C'mon, Choukai, I know. We got our remodels for this day. We won't die in vain. This is why we're here."
+        "3@Valentines2018": "C'mon, Choukai, I know. We got our remodels for this day. We won't die in vain. This is why we're here.",
+        "3@Leyte": "Go on ahead, Choukai. Go on ahead... of me.",
+        "13@Leyte": "Let's do this! 4th Squadron, Maya, taking the stage!!!",
+        "19@Leyte": "Huh!? Did you think that attack would work!?",
+        "17@Leyte": "Over there right? I got it. Take thiiiiis!!"
     },
     "271": {
         "Intro": "Yo, Admiral! Working hard? Cause today is another day for me to kick some ass!",
@@ -6275,7 +6327,8 @@
         "2@WhiteDay": "This.... A return gift for the chocolate.... T-thank you very much, I'm so happy.",
         "3@Valentines2018": "What's wrong, Fujinami-san?",
         "2@Valentines2018": "It's almost time for Operation Sho-1. CruDiv 4, sortie at full force. Are you ready, Maya?",
-        "4@Valentines2018": "Okay. Then, can you take this? It's fine, I have two. Would you please?"
+        "4@Valentines2018": "Okay. Then, can you take this? It's fine, I have two. Would you please?",
+        "16@Leyte": "I'll take them down!"
     },
     "272": {
         "Idle": "I'm confident in my night warfare capability, but... about the enemy aircraft... I see... so I should act as Maya would... Uhm... but, but...",
@@ -7212,7 +7265,11 @@
         "2@Anniversary": "Huh? I forgot....that today is a special day.... Whoa! All the destroyers... don't gather around me...!",
         "2@YearsEnd": "Whew...! It's already the end of the year. The naval base cleanin' stuff isn't even started... ...whew...",
         "16@Valentines2018": "No time to eat a Type 93! Let's do this!",
-        "17@Valentines2018": "No time to eat a Type 93! Let's do this!"
+        "17@Valentines2018": "No time to eat a Type 93! Let's do this!",
+        "2@Leyte": "Ah~ this gives me that feeling~ you know~ whew!",
+        "16@Leyte": "Well, time for me to fight seriously... Take this!",
+        "3@Leyte": "Well, you know what? I just want to take it easy~",
+        "19@Leyte": "Aaah, I might not look like it, but I'm part of the decisive battle's forces. I won't sink!"
     },
     "58": {
         "Intro": "A brand new Kitakami... that's who I am. I feel a little more mature, loaded to the brim with oxygen torpedoes like this\u266a",
@@ -7310,8 +7367,12 @@
         "2@Anniversary": "Today's an important day! During a day like this, it's the best to spend the day with Kitakami-san! Kitakami-saaaaan!",
         "2@EarlySummer": "It's almost summer, isn't it? Time to go buy a matching set of swimsuits with Kitakami. Ufufufufufu.",
         "2@YearsEnd": "Ugh... why does the end of the year have to be so busy...? Ah... cleaning... I'll do my best\u266a",
-		"16@Valentines2018": "Eat my Type 93 Oxygen Love Attaaaaaaack!",
-		"17@Valentines2018": "Eat my Type 93 Oxygen Love Attaaaaaaack!"
+        "16@Valentines2018": "Eat my Type 93 Oxygen Love Attaaaaaaack!",
+        "17@Valentines2018": "Eat my Type 93 Oxygen Love Attaaaaaaack!",
+        "2@Leyte": "Kitakami, the state the fleet is in is... Could this be, that? The \"Decisive Battle\"... What should we do, Admiral?",
+        "16@Leyte": "All those fools who dare stand in the way of Kitakami and me, SINK!",
+        "3@Leyte": "Be careful, Kitakami! This time is a little... Ngh!",
+        "19@Leyte": "Ngh, bring it, you bastards!"
     },
     "57": {
         "Intro": "I'm torpedo cruiser Ooi. By the way, I wonder where Kitakami-san is.",
@@ -8149,7 +8210,8 @@
         "2@EarlySummer": "It's getting a bit hotter huh~ What should we do, Noshiro? Shall we go and buy this summer's latest swimsuits? ...Eh, last year's is fine? Boo~",
         "2@Summer2017": "Kirarin~! It's Summer! Summer! Noshiro, Yahagi, hurry up, let's go to the beach! In swimsuits of course. Sakawa, Admiral, you two hurry up too!",
         "2@LateFall2017": "Brrr, it's cold~! I'm not good with this season. I just want to stand by in a kotatsu. Noshiro is looking well... I'm just going to stand by.",
-        "3@Valentines2018": "The fleet looks very busy. What's going on, Noshiro? Eh, Operation Sho-1? You're going, Noshiro?"
+        "3@Valentines2018": "The fleet looks very busy. What's going on, Noshiro? Eh, Operation Sho-1? You're going, Noshiro?",
+        "2@Leyte": "Ah, jeez, you're being too enthusiastic, Noshiro. It's worrying me. Eh? Me? Ummm, I'm..."
     },
     "305": {
         "Married": "Admiral, how have you been? That's good to hear. If you're not feeling well, I'll use my Kirarin Beam! Hah...! You want me to? Alright... Agano, kirarin!",
@@ -8222,7 +8284,9 @@
         "2@WhiteDay": "I got a return gift from Admiral for my chocolates. What to do... Eating it would be a waste, but if I don't it will go bad... Uuuh",
         "2@EarlySummer": "Eh, you're going to buy a new swimsuit, Agano-nee? Isn't last year's fine? You can't go soliciting! In the first place, we're here for the sake of the Admiral...*nagging fades out*",
         "2@Xmas2017": "It's Christmas? I can't afford to act like a spoiled child, but I suppose I could have a little fun. Ah, Admiral, this cooked bird, it's delicious.",
-        "3@Valentines2018": "1st Striking Force, 1st Section, *sigh*, 2nd Torpedo Squadron, please begin preparations for sortie."
+        "3@Valentines2018": "1st Striking Force, 1st Section, *sigh*, 2nd Torpedo Squadron, please begin preparations for sortie.",
+        "13@Leyte": "It's finally the Decisive Battle. There is no place to return to now! Onwards! Forwards, everyone! Let's go!",
+        "3@Leyte": "Now, let's get going. I'll leave the rest to you, Yahagi."
     },
     "306": {
         "Married": "Admiral, erm... have you see Agano-nee... eh!? Admiral, aren't you exhausted? You look terrible. That's no good, stay right there! Wait, and I'll bring the medicine!",
@@ -8294,7 +8358,11 @@
         "2@WhiteDay": "Is this the return gift, Admiral? Thank you. I guess I should thank Noshiro-nee as well later.",
         "2@EarlySummer": "Isokaze, are you practicing? I see, training from fall to summer... must be hard, huh?",
         "2@Summer2017": "Summer is a great season for training, right? Eh? Why don't we go to the ocean? But we go to the ocean every day.",
-        "3@Valentines2018": "Operation Sho-1... We'll need to halt the enemy advance here. DesRon 10, prepare for operations... *sigh* Noshiro-nee..."
+        "3@Valentines2018": "Operation Sho-1... We'll need to halt the enemy advance here. DesRon 10, prepare for operations... *sigh* Noshiro-nee...",
+        "18@Leyte": "Fleet, move out in line ahead. Yahagi's torpedo squadron, heading forth!",
+        "4@Leyte": "Don't be too enthusiastic, Noshiro-nee. Yes, just, just do it like the exercises. We'll be fine!",
+        "2@Leyte": "1st Striking Force, 2nd Section, 10th Squadron, Yahagi, sortieing.",
+        "3@Leyte": "Let's give the enemy all we have, Kongou. But, when we, when we get to that cruical time... No, nevermind!"
     },
     "307": {
         "Married": "Admiral, what the matter? You looked reddish. Taking care of yourself is important, you know. Hmm... You had slight fever. Right, I'll make you something nutritious. I'm off using Mamiya's kitchen for a while. Wait for me, okay?",
@@ -8366,7 +8434,8 @@
         "2@Spring": "Spring... The season when, Yahagi-chan went out... but, I'm not feeling lonely right now. Because, I have everyone!",
         "2@WhiteDay": "Pya! Admiral returned the favor for my chocolate! I know it's a bit of a shame... but I'll just open it. Wow, it looks delicious.",
         "2@EarlySummer": "Whew~ Somehow I don't really like this season! I mean, I really hate it!",
-        "3@Valentines2018": "Everyone looks so busy. Is there a job to do?"
+        "3@Valentines2018": "Everyone looks so busy. Is there a job to do?",
+        "2@Leyte": "Make sure you return, Yahagi. All of you... have to come back..."
     },
     "314": {
         "Married": "You're always working hard, Commander! How admirable! Do you want me to give you a light shoulder massage? I'm good at it you know... Pyon! Pyan! How's that?",
@@ -10869,10 +10938,10 @@
         "H0500": "It's 0500. Would you like another cup of tea, Admiral? Ah, yes! Roger!",
         "H0600": "It's 0600. It's almost time to rouse the fleet, Admiral. ...Don't worry, I'll go easy on them! *deep breath*",
         "H0700": "It's 0700. Here's your breakfast, Admiral. Today's miso soup has daikon and nappa in it.",
-        "H0800": "It’s 0800. I'm preparing rice balls for lunch. For my sisters too! There, all done!",
-        "H0900": "It’s 0900. What do you have planned for fleet operations this morning, Admiral? Fleet exercises? Roger!",
+        "H0800": "It's 0800. I'm preparing rice balls for lunch. For my sisters too! There, all done!",
+        "H0900": "It's 0900. What do you have planned for fleet operations this morning, Admiral? Fleet exercises? Roger!",
         "H1000": "It's 1000. Oh, Asashimo! Good morning! You just got back? Good work!",
-        "H1100": "It’s 110- Ah, Ooyodo, thanks for your hard work. Yes, I’m fine. I’m always doing great!",
+        "H1100": "It's 110- Ah, Ooyodo, thanks for your hard work. Yes, I\u2019m fine. I\u2019m always doing great!",
         "H1200": "It's 1200. Let's have lunch, Admiral. Yes, it's rice balls. Please help yourself! Have some tea too. Ah, yes! It's hot! Please be careful!",
         "H1300": "It's 1300. ...Eh!? My sister was looking for me? Ah, I'll have to go! Teitoku, I'm sorry! Please wait a minute, okay?",
         "H1400": "It's 1400. Ah, yes. Everything is fine! All of my sisters are doing great today. Thank goodness.",
@@ -12719,7 +12788,11 @@
         "2@YearsEnd": "So we're all the way into December. After the big cleaup, I have ta do the Osechi... ...Ah! Mm! Y'all can just leave it ta me\u266a Ah, Isokaze? ...! Mm! Give me a hand!",
         "2@Spring": "Admiral, it's spring. Spring feels nice and warm, doesn't it? How about some flower viewing with DesDiv17?",
         "2@WhiteDay": "Eh, this is... in return for the chocolate? Fu, Admiral... how great.",
-        "3@Valentines2018": "How's the condition of the fleet, Hamakaze?"
+        "3@Valentines2018": "How's the condition of the fleet, Hamakaze?",
+        "4@Leyte": "You can't sink before I do, Hamakaze. Are you listening?",
+        "13@Leyte": "Roger that, Yahagi! BatDiv10, DesDiv17, seizing the opportunity to charge in! Isokaze, Hamakaze, Yuki-nee, ready?",
+        "19@Leyte": "Aaaaah, urgh, I won't sink...",
+        "3@Leyte": "It's almost time for us to go too right?"
     },
     "317": {},
     "167": {
@@ -12838,7 +12911,11 @@
         "2@YearsEnd": "It's December, and the naval base is having its end of year cleanup. 17th Destroyer Division, on cleaning duty. Orders accepted.",
         "2@Spring": "Spring... is it? That's nice! The sakura flowers... I like them. It's fleeting... and pretty.",
         "2@WhiteDay": "Eh, these return sweets are for me? ...Admiral, thank you very much. I humbly receive.",
-        "3@Valentines2018": "Everything is in order. Urakaze? You're looking unwell."
+        "3@Valentines2018": "Everything is in order. Urakaze? You're looking unwell.",
+        "4@Leyte": "I hear you but... Please worry about yourself! If you... sink first again, I won't forgive you, Urakaze! Got it?",
+        "17@Leyte": "Now is the time. Please hit! Fire!",
+        "3@Leyte": "That's right, the sortie preparations... Ah, are you alright?",
+        "19@Leyte": "Aaaah... Ah... Ah... I won't... I won't... sink... here!"
     },
     "312": {
         "Intro": "I'm destroyer Hamakaze. Henceforth commencing fleet duties.",
@@ -12892,7 +12969,9 @@
         "2@YearsEnd": "Kah...! It's already December! That was so fast! Oh...! I gotta finish with the end of year cleaning...! I can't wait for the New Year's Eve Soba~ ...Right\u266a",
         "2@Spring": "Ah! It's spring! It's spring, isn't it! Admiral~ Let's dressed up and go flower viewing with everyone! 'Kay!? Kaa~ that's chic of you!",
         "2@WhiteDay": "Hey, Admiral what's up? Return for the chocolate? Ku, how nifty! I'm grateful.",
-        "3@Valentines2018": "The fleet is a bit noisy now. Means it's time for that, right?"
+        "3@Valentines2018": "The fleet is a bit noisy now. Means it's time for that, right?",
+        "4@Leyte": "Well, what? Don't underestimate the enemy air raids! Those sons of bitches are going to be riding us hard!",
+        "3@Leyte": "Well, it's not written in stone!"
     },
     "313": {},
     "415": {
@@ -13641,7 +13720,10 @@
         "2@Xmas2017": "Choukai, please take some of this cake. You...you think it's delicious? I'm so glad...ah...umm...try this one too.",
         "2@NewYears2018": "Happy New Year Commander, let's do our best this year too. Yeah. So... my New Year's money, please. Heeheehee, 'course!",
         "2@Setsubun2018": "Let's see, the person playing the Oni for us is... Choukai-san? ...That's not right, Noshiro-san? Well... then...! Take this! And this! Oh... Oh no! Let's scram, Okicchi!",
-        "2@Valentines2018": "This is for you, Commander. It's handmade. Totally!"
+        "2@Valentines2018": "This is for you, Commander. It's handmade. Totally!",
+        "2@Leyte": "I won't die! I'll definitely return!",
+        "13@Leyte": "DesDiv32, Fujinami, sortieing. I'll definitely come back alive!",
+        "3@Leyte": "It's alright, Hamacchi. This sea is... but everyone is here now!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -14123,7 +14205,7 @@
         "2@YearsEnd2017": "Akizuki-neesan, it's time to clean the Naval Base. DesDiv 41, ready to go. Fuyu... huh? She's not here?",
         "2@NewYears2018": "Admiral, Fuyu, have a happy New Year. I hope you'll look after DesDiv 41 and the whole fleet this year as well.",
         "2@Setsubun2018": "The Oni for DesRon2 this year is... Yahagi-san? F-fuyu, that's a bit... Umm, Yahagi-san... Ah, I'm sorry! I need to get away quickly.",
-		"2@Valentines2018": "Ehehe~ It's my special pumpkin chocolate. I made some for you and Fuyu, Admiral. I'm proud of it."
+        "2@Valentines2018": "Ehehe~ It's my special pumpkin chocolate. I made some for you and Fuyu, Admiral. I'm proud of it."
     },
     "537": {
         "H0000": "It's now 12am, Admiral. I, the air defense destroyer Suzutsuki, will work hard by your side today. Please take good care of me, Admiral.",

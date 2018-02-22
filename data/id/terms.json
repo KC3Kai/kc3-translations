@@ -379,7 +379,8 @@
 	"SettingsEnablePushAlerts" : "Gunakan Fitur ini",
 	"SettingsPushAlertsKey" : "Access Token",
 	
-	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)", 
+	"SettingsDBSubmission" :"Kirim data ke Kancolle DB (http://kancolle-db.net/login.php)",
+	"SettingsDBSubmissionWarn" : "Kancolle DB telah terhenti, akan di hapus dari pengaturan secepatnya",	
 	"SettingsEnableDBSubmission" : "Gunakan Fitur ini",
 	"SettingsDBSubmissionKey" : "Access key",
 
@@ -620,6 +621,8 @@
 	"EventRankHardAbbr"     : "S",
 	"EventRankNormalAbbr"   : "N",
 	"EventRankEasyAbbr"     : "M",
+	"EventRankCasualAbbr" 	: "ST",
+	"EventHistoryRank1C": "SANTAI",
 	"EventHistoryRank1"	: "MUDAH",
 	"EventHistoryRank2"	: "NORMAL",
 	"EventHistoryRank3"	: "SULIT",

@@ -1331,7 +1331,7 @@
         "name": "Daily Battle",
         "desc": "Attack 1 Abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
-        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 810 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 678, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
@@ -2357,7 +2357,7 @@
         "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
         "tracking": [ [0,3], [0,3], [0,1] ],
         "trackingDesc": [ "{0} Medium Cal. Main Guns", "{0} Secondary Guns", "{0} Drum Canister" ],
-        "unlock": [ 318, 678, 804 ]
+        "unlock": [ 318, 804 ]
     },
     "677": {
         "code": "F69",

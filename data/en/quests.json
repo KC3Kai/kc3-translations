@@ -1331,7 +1331,7 @@
         "name": "Daily Battle",
         "desc": "Attack 1 Abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
-        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 810 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 678, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
@@ -1662,7 +1662,7 @@
     "318": {
         "code": "C16",
         "name": "Monthly Exercises 2",
-        "desc": "Secure 3 victories in Exercises within the same day using 2 CLs. Then, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay.",
+        "desc": "Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay.",
         "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bThe Supply Ship Irako's Support\n\u27a3Rewards an Irako and either 2 Buckets OR 2 Development Materials",
         "tracking": [ [0,3] ]
     },
@@ -2357,7 +2357,7 @@
         "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
         "tracking": [ [0,3], [0,3], [0,1] ],
         "trackingDesc": [ "{0} Medium Cal. Main Guns", "{0} Secondary Guns", "{0} Drum Canister" ],
-        "unlock": [ 318, 678, 804 ]
+        "unlock": [ 318, 804 ]
     },
     "677": {
         "code": "F69",
@@ -2369,9 +2369,9 @@
     },
     "678": {
         "code": "F70",
-        "name": "An Update for the Mainstay Ship-based Fighter Aircraft",
+        "name": "Quarterly Shiden Kai Ni and Materials",
         "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u2718Consumes the resources.\n\u27a3Rewards two Shiden Kai Ni either a New Model Aviation Armament Materials OR 8 Development Materials"
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials"
     },
     "679": {
         "code": "F71",

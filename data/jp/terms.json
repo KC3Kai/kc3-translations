@@ -241,8 +241,6 @@
 	"SettingsFormulas" : "ゲーム内の計算式",
 	"SettingsELosFormula" : "索敵値計算式",
 	"SettingsELosSum" : "合計",
-	"SettingsELosOld" : "2-5式旧",
-	"SettingsELosNew" : "2-5式秋",
 	"SettingsELosF33" : "2-5判定式33",
 	"SettingsELosF33x3" : "判定式33(分岐点係数3)",
 	"SettingsELosF33x4" : "判定式33(分岐点係数4)",
@@ -358,10 +356,6 @@
 	"SettingsPushAlerts" : "PushBulletへ通知を送信 (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "送信する",
 	"SettingsPushAlertsKey" : "Access Token",
-
-	"SettingsDBSubmission" : "艦これDBへの送信 (http://kancolle-db.net/login.php)",
-	"SettingsEnableDBSubmission" : "送信する",
-	"SettingsDBSubmissionKey" : "API Key",
 
 	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "送信する",

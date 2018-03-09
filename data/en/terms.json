@@ -263,8 +263,6 @@
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",
 	"SettingsELosSum" : "Sum",
-	"SettingsELosOld" : "Old",
-	"SettingsELosNew" : "New",
 	"SettingsELosF33" : "Formula 33",
 	"SettingsELosF33x3" : "F33 (Cn3)",
 	"SettingsELosF33x4" : "F33 (Cn4)",
@@ -380,11 +378,6 @@
 	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "Enable this feature",
 	"SettingsPushAlertsKey" : "Access Token",
-	
-	"SettingsDBSubmission" : "Send data to Kancolle DB (http://kancolle-db.net/login.php)",
-	"SettingsDBSubmissionWarn" : "Kancolle DB has been stopped, setting will be removed in future",
-	"SettingsEnableDBSubmission" : "Enable this feature",
-	"SettingsDBSubmissionKey" : "Access key",
 	
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",

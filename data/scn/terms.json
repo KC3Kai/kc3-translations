@@ -250,8 +250,6 @@
 	"SettingsFormulas" : "游戏公式",
 	"SettingsELosFormula" : "索敌公式",
 	"SettingsELosSum" : "总和",
-	"SettingsELosOld" : "旧公式",
-	"SettingsELosNew" : "新公式",
 	"SettingsELosF33" : "33索敌式",
 	"SettingsELosF33x3" : "33索敌式（分歧点系数3）",
 	"SettingsELosF33x4" : "33索敌式（分歧点系数4）",
@@ -426,10 +424,6 @@
 	"SettingsPushAlerts" : "通过 PushBullet (https://www.pushbullet.com/) 发送移动设备通知",
 	"SettingsEnablePushAlerts" : "启用功能",
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
-
-	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
-	"SettingsEnableDBSubmission" : "启用功能",
-	"SettingsDBSubmissionKey" : "密钥（Access key）",
 
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
 	"SettingsEnablePoiDBSubmission" : "启用功能",

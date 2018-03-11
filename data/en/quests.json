@@ -548,6 +548,13 @@
         "memo": "\u27a3Rewards a Repair Goddess",
         "unlock": [ 877 ]
     },
+    "190": {
+        "code": "A85",
+        "name": "Elite 21st Destroyer Division, Prepare to Set Sail!",
+        "desc": "Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.",
+        "memo": "If Nenohi is in the fleet, additional audio dialogue will play after the quest is turned in. There may be other unknown requirements for this.\n\u27a3Rewards a Combat Ration",
+        "unlock": [ 319 ]
+    },
     
     "202": {
         "code": "B1",
@@ -1297,7 +1304,19 @@
         "name": "Elite DesRon 4, Deploy to the Southern Region!",
         "desc": "Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.",
         "memo": "You can bring up to two additional ships.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a 12.7cm Twin Gun Mount Model C Kai Ni OR 2 Type 22 Surface Radars OR 2 12.7cm Twin Gun Mount Model B Kai Nis\n\u00B6Second choice: Either 2 Underway Replenishments OR 3 Drum Canisters OR 4 Screws"
-    },  
+    },
+    "878": {
+        "code": "B113",
+        "name": "Continue to Execute the Matsu Transport Operation!",
+        "desc": "Sortie a CL(T)/CT/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6] node N three times. Overlay: F10.",
+        "memo": "You may use up to 2 additional ships of any class.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR 3 Screws\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR two 12cm 30-tube Rocket Launchers OR a Furniture Fairy"
+    },
+    "879": {
+        "code": "B114",
+        "name": "New CarDiv 4, Sortie at Full Strength!",
+        "desc": "Sortie Ise Kai, Hyuuga Kai, Ooyodo Kai, at least 1 DD and up to 2 other ships [W1-6], [W2-5], [W3-5] and [W4-5]. Reach [W1-6] node N and A-Rank+ the boss nodes.",
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards a 12cm 30-tube Rocket Launcher Kai Ni and either a New Model Artillery Armament Materials OR an Action Report"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1312,7 +1331,7 @@
         "name": "Daily Battle",
         "desc": "Attack 1 Abyssal fleet.",
         "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
-        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 810 ],
+        "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 678, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
@@ -1643,9 +1662,15 @@
     "318": {
         "code": "C16",
         "name": "Monthly Exercises 2",
-        "desc": "Secure 3 victories in Exercises using 2 CLs. Then, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay when selecting your rewards.",
+        "desc": "Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay.",
         "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bThe Supply Ship Irako's Support\n\u27a3Rewards an Irako and either 2 Buckets OR 2 Development Materials",
         "tracking": [ [0,3] ]
+    },
+    "319": {
+        "code": "C17",
+        "name": "Elite 21st Destroyer Division, Train Intensively!",
+        "desc": "Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards a Mamiya and either 6 Development Materials OR an Action Report"
     },
 
     
@@ -1870,7 +1895,7 @@
         "name": "Daily Development 1",
         "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
         "memo": "\u203bOrders to Develop New Equipment",
-        "unlock": [ 606 ],
+        "unlock": [ 606, 679 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -1915,7 +1940,7 @@
     "673": {
         "code": "F65",
         "name": "Daily Gun Dismantlement",
-        "desc": "Scrap 4 small caliber main guns.",
+        "desc": "Scrap 4 Small Caliber Main Guns.",
         "memo": "\u203bConsolidation of Equipment Development Capabilities",
         "unlock": [ 188, 317, 674, 876 ],
         "tracking": [ [0,4] ]
@@ -2328,7 +2353,7 @@
     "676": {
         "code": "F68",
         "name": "Weekly Gun Dismantlement",
-        "desc": "Have 2400 Steel. Scrap 3 Medium Cal. Main Guns, 3 Secondary Guns and a Drum Canister.",
+        "desc": "Have 2400 Steel. Scrap 3 Medium Caliber Main Guns, 3 Secondary Guns and a Drum Canister.",
         "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
         "tracking": [ [0,3], [0,3], [0,1] ],
         "trackingDesc": [ "{0} Medium Cal. Main Guns", "{0} Secondary Guns", "{0} Drum Canister" ],
@@ -2341,6 +2366,18 @@
         "memo": "\u203bConsolidation of Faculties to Support Ongoing War Efforts\n\u2718Consumes the resources.",
         "tracking": [ [0,4], [0,2], [0,3] ],
         "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
+    },
+    "678": {
+        "code": "F70",
+        "name": "Quarterly Shiden Kai Ni and Materials",
+        "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials"
+    },
+    "679": {
+        "code": "F71",
+        "name": "An Expansion of Anti-Air Armaments",
+        "desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns. Press F10 to clear the overlay.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers OR a Reinforcement Expansion"
     },
 
     "701": {

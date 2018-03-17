@@ -769,7 +769,9 @@
 	"RemodelItemListTitle"    : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
 	"RemodelItemDetail"       : "この装備を<br/>改修しますね！",
 	"RemodelItemConsumeNeeds" : "消費する非ロック無改修装備など",
-	"RemodelItemUpgradeTo"    : "更新する後の装備",
+	"RemodelItemUpgradeTo"    : "改修した後の装備",
+	"RemodelItemResultSuccess": "改修に成功しました！",
+	"RemodelItemResultFailure": "改修に失敗しました…",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",

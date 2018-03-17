@@ -851,6 +851,13 @@
 	"PvpFormationPred" : "敌阵型预测",
 	"FirstFleetLevelTip" : "演习对手将会得到的基础经验值: {0}\nS胜时: {1} (假设对方无练巡经验加成)",
 
+	"RemodelItemListTitle" : "这是<span>{0}</span>的改修菜单！",
+	"RemodelItemDetail" : "要改修该装备吗？",
+	"RemodelItemConsumeNeeds" : "要消费的无改修、无锁装备等",
+	"RemodelItemUpgradeTo" : "改修后的装备",
+	"RemodelItemResultSuccess" : "改修成功了！",
+	"RemodelItemResultFailure" : "改修失败了……",
+
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",
 	"DesktopNotifyRepairCompleteTitle" : "入渠完成！",

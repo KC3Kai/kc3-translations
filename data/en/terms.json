@@ -799,7 +799,9 @@
 	"RemodelItemDetail"       : "To improve this equipment",
 	"RemodelItemConsumeNeeds" : "Needs unimproved unlocked:",
 	"RemodelItemUpgradeTo"    : "Will be upgraded to:",
-
+	"RemodelItemResultSuccess": "Improvement succeeded!",
+	"RemodelItemResultFailure": "Improvement failed...",
+	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition {1}",
 	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",

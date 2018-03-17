@@ -116,10 +116,12 @@
 	"AboutTitle" : "KC3改の開発者たち",
 	"Version" : "バージョン",
 
-	"AboutWebStore" : "Chrome ウェブストア",
+	"AboutWebsite" : "サイト",
+	"AboutWebStore" : "ウェブストア",
 	"AboutFacebook" : "Facebook",
 	"AboutSource" : "ソース",
 	"AboutReport" : "バグレポート",
+	"AboutDiscord" : "Discord",
 
 	"AboutInvdividuals" : "KC3改チーム",
 	"AboutPartners" : "パートナーズ",
@@ -156,19 +158,15 @@
 	"AboutPartnerWhoCallsDesc" : "アプリ内に艦娘達の色んなデータを提供",
 	"AboutPartnerThreeBardsName" : "cyrismustangさんのThreeBards.com",
 	"AboutPartnerThreeBardsDesc" : "艦これバッジジェネレータを提供",
-	"AboutPartnerKCDBNetName" : "KanColle-DB",
-	"AboutPartnerKCDBNetDesc" : "プレイヤーからのAPIデータを集めるサイト",
 	"AboutPartnerKCCalcName" : "KanColle-Calc",
 	"AboutPartnerKCCalcDesc" : "艦隊シミュレーターとデッキビルダーを提供",
 	"AboutPartnerKCTHFBName" : "KC-TH 「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "タイ語に翻訳し、最新情報のFacebookを立ち上げ",
 
-	"AboutWebsite": "リンク",
-
-	"AboutSubtitleHelp": "艦娘ボイス字幕提供言語:",
-	"AboutSourceGakadaVoices": "艦娘達のボイスファイルの解析",
-	"AboutSourceWhoCallsTheFleet": "艦娘データベース",
-	"AboutSourceMdmsScottQuotes": "Wikiaから英語版艦娘セリフ",
+	"AboutSubtitleHelp" : "艦娘ボイス字幕提供言語:",
+	"AboutSourceGakadaVoices" : "艦娘達のボイスファイルの解析",
+	"AboutSourceWhoCallsTheFleet" : "艦娘データベース",
+	"AboutSourceMdmsScottQuotes" : "Wikiaから英語版艦娘セリフ",
 	"AboutSourceHeartSound" : "大破警告の心拍音声",
 	"AboutSampleBattleData" : "新実装機能の戦闘データを提供",
 	"AboutCompleteMapNodes" : "マップマスデータをKCMAPで解析",
@@ -254,6 +252,7 @@
 	"SettingsForDiamond"      : "輪形陣",
 	"SettingsForEchelon"      : "梯形陣",
 	"SettingsForLineAbreast"  : "単横陣",
+	"SettingsForVanguard"     : "警戒陣",
 	"SettingsForCombAntiSub"  : "連合艦隊(対潜警戒)",
 	"SettingsForCombForward"  : "連合艦隊(前方警戒)",
 	"SettingsForCombDiamond"  : "連合艦隊(輪形陣)",
@@ -366,7 +365,7 @@
 	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "協力する",
 
-	"SettingsTsunDBSubmission" :"KC3改への送信 (http://kckai.cybersnets.com)",
+	"SettingsTsunDBSubmission" :"KC3改への送信 (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "協力する",
 
 	"SettingsPanelSize" : "パネルサイズ",
@@ -767,7 +766,10 @@
 	"PvpFormationPred"   : "敵陣形予想",
 	"FirstFleetLevelTip" : "演習を挑んだ相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除く)",
 
-	"RemodelItemListTitle" : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
+	"RemodelItemListTitle"    : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
+	"RemodelItemDetail"       : "この装備を<br/>改修しますね！",
+	"RemodelItemConsumeNeeds" : "消費する非ロック無改修装備など",
+	"RemodelItemUpgradeTo"    : "更新する後の装備",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",

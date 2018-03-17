@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "buona"],
-		["OK-", "buona"],
-		["-", "pessima"],
-		["NO", "pessima"],
-		["OK+", "buona"],
-		["NO+", "pessima"]
+		["OK", "best"],
+		["OK-", "good"],
+		["-", "worst"],
+		["NO", "bad"],
+		["OK+", "good"],
+		["NO+", "bad"]
 	],
 	
 	"airbattle" : [
 		["AP", "", "Parità Aerea"],
 		["AS+", "good", "Vittoria Aerea"],
 		["AS", "good", "Vantaggio Aereo"],
-		["AI", "bad", "Svantaggio Aereo"],
-		["AD", "bad", "Sconfitta Aerea"],
+		["AD", "bad", "Svantaggio Aereo"],
+		["AI", "bad", "Sconfitta Aerea"],
 		["No", "", "Nessuna Battaglia Aerea"]
 	],
 	

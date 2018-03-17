@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "bom"],
-		["OK-", "bom"],
-		["-", "ruim"],
-		["NÃO", "ruim"],
-		["OK+", "bom"],
-		["NÃO+", "ruim"]
+		["OK", "best"],
+		["OK-", "good"],
+		["-", "worst"],
+		["NÃO", "bad"],
+		["OK+", "good"],
+		["NÃO+", "bad"]
 	],
 	
 	"airbattle" : [
 		["PA", "", "Pareamento Aéreo"],
-		["SA+", "bom", "Supremacia Aérea"],
-		["SA", "bom", "Superioridade Aérea"],
-		["IA", "ruim", "Incapacidade Aérea"],
-		["NA", "ruim", "Negação Aérea"]
+		["SA+", "good", "Supremacia Aérea"],
+		["SA", "good", "Superioridade Aérea"],
+		["IA", "bad", "Incapacidade Aérea"],
+		["NA", "bad", "Negação Aérea"]
 	],
 	
 	"engagement" : [

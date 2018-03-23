@@ -555,6 +555,12 @@
         "memo": "If Nenohi is in the fleet, additional audio dialogue will play after the quest is turned in. There may be other unknown requirements for this.\n\u27a3Rewards a Combat Ration",
         "unlock": [ 319 ]
     },
+    "191": {
+        "code": "A86",
+        "name": "Remodeled 17th Destroyer Division, Commence Restructuring!",
+        "desc": "Have Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and a Reinforcement Expansion"
+    },
     
     "202": {
         "code": "B1",
@@ -1674,6 +1680,12 @@
         "desc": "Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards a Mamiya and either 6 Development Materials OR an Action Report"
     },
+    "320": {
+        "code": "C18",
+        "name": "Destroyer Division, Commence Intensive Training!",
+        "desc": "Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Screws OR 4 Development Materials"
+    },
 
     
     "401": {
@@ -2380,6 +2392,12 @@
         "name": "An Expansion of Anti-Air Armaments",
         "desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns. Press F10 to clear the overlay.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers OR a Reinforcement Expansion"
+    },
+    "680": {
+        "code": "F72",
+        "name": "Quarterly AA Guns",
+        "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
+        "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials"
     },
 
     "701": {

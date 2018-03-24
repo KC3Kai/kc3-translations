@@ -133,10 +133,12 @@
 	"AboutTitle" : "About KC3改 Developers",
 	"Version" : "Version",
 	
+	"AboutWebsite": "Website",
 	"AboutWebStore" : "Chrome WebStore",
 	"AboutFacebook" : "Facebook",
 	"AboutSource" : "Source",
 	"AboutReport" : "Report Bugs",
+	"AboutDiscord" : "Discord Server",
 	
 	"AboutInvdividuals" : "KC3改 Team",
 	"AboutPartners" : "Partners",
@@ -177,16 +179,11 @@
 	"AboutPartnerThreeBardsName" : "ThreeBards.com by cyrismustang",
 	"AboutPartnerThreeBardsDesc" : "Integration with KanColle Badge Generator",
 	
-	"AboutPartnerKCDBNetName" : "KanColle-DB.net",
-	"AboutPartnerKCDBNetDesc" : "Intergration of the submission of reports of API Data",
-	
 	"AboutPartnerKCCalcName" : "KanColle-Calc",
 	"AboutPartnerKCCalcDesc" : "Integration for exporting the fleet information into their fleet builder",
 	
 	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "TH translations of the app, and KC3 update posts in Facebook",
-	
-	"AboutWebsite": "Website",
 	
 	"AboutSubtitleHelp": "Contributed subtitle voice lines",
 	"AboutSourceGakadaVoices": "Breakthroughs on voice line decoding",
@@ -263,9 +260,9 @@
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",
 	"SettingsELosSum" : "Sum",
-	"SettingsELosOld" : "Old",
-	"SettingsELosNew" : "New",
 	"SettingsELosF33" : "Formula 33",
+	"SettingsELosF33x3" : "F33 (Cn3)",
+	"SettingsELosF33x4" : "F33 (Cn4)",
 	"SettingsAirFormula" : "Air Formula",
 	"SettingsAFPNoBonus" : "No Proficiency",
 	"SettingsAFPVeteran" : "Whole Number Proficiency",
@@ -276,6 +273,7 @@
 	"SettingsForDiamond"      : "Diamond",
 	"SettingsForEchelon"      : "Echelon",
 	"SettingsForLineAbreast"  : "Line Abreast",
+	"SettingsForVanguard"     : "Vanguard",
 	"SettingsForCombAntiSub"  : "Combined (Anti-Sub)",
 	"SettingsForCombForward"  : "Combined (Forward)",
 	"SettingsForCombDiamond"  : "Combined (Diamond)",
@@ -379,11 +377,6 @@
 	"SettingsEnablePushAlerts" : "Enable this feature",
 	"SettingsPushAlertsKey" : "Access Token",
 	
-	"SettingsDBSubmission" : "Send data to Kancolle DB (http://kancolle-db.net/login.php)",
-	"SettingsDBSubmissionWarn" : "Kancolle DB has been stopped, setting will be removed in future",
-	"SettingsEnableDBSubmission" : "Enable this feature",
-	"SettingsDBSubmissionKey" : "Access key",
-	
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 	
@@ -393,7 +386,7 @@
 	"SettingsKC3DBSubmission" :"Send data to KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Enable and help out",
 	
-	"SettingsTsunDBSubmission" :"Send data to the Tsunderes (http://kckai.cybersnets.com)",
+	"SettingsTsunDBSubmission" :"Send data to the Tsunderes (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "Enable and help out",
 	
 	"SettingsPanelSize" : "Panel Size",
@@ -667,6 +660,10 @@
 	"PanelFSTaiha" : "Flagship",
 	"PanelCombinedFSChuuha" : "Flagship Low",
 	"PanelCombinedFSChuuhaTip" : "Flagship is Chuuha or Taiha and can't sortie next time!",
+	"PanelFCFPossible" : "Extraction",
+	"PanelFCFTipTaihaShip" : "is heavily damaged!",
+	"PanelFCFTipEscortShip" : "Do you want me to escort her back to base?\nIf she withdraws, the Combined Fleet will be affected as follows:",
+	"PanelFCFTipStrikingForce" : "Will you extract her from the battlefield?\nIf you do, the fleet will be affected as follows:",
 	"PanelNoTaiha" : "HP Good",
 	"PanelSupplied" : "Supply Good",
 	"PanelNotSupplied" : "<100% Supply",
@@ -798,8 +795,13 @@
 	"PvpFormationPred"   : "Formation",
 	"FirstFleetLevelTip" : "Exp. for PvP opponents:\nBase: {0}\nS-Rank: {1} with no CT",
 	
-	"RemodelItemListTitle" : "Here are recipes today<br/>(<span>{0:weekday} JST</span>)",
-
+	"RemodelItemListTitle"    : "Here are recipes today<br/>(<span>{0:weekday} JST</span>)",
+	"RemodelItemDetail"       : "To improve this equipment",
+	"RemodelItemConsumeNeeds" : "Needs unimproved unlocked:",
+	"RemodelItemUpgradeTo"    : "Will be upgraded to:",
+	"RemodelItemResultSuccess": "Improvement succeeded!",
+	"RemodelItemResultFailure": "Improvement failed...",
+	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition {1}",
 	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",
@@ -862,6 +864,8 @@
 	"LodgeRatingNG5" : "Excessive Consumption",
 	
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
+	
+	"BattleHistoryAirRaidTip" : "Land Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\nAir Battle: {3}\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 	
 	"MasterShipSaltCheck" : "Accept Existence",
 	"MasterShipSaltUnCheck" : "Deny Existence",

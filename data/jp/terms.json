@@ -108,7 +108,7 @@
 	"GameStartDashWin" : "Windows / Linuxの場合",
 	"GameStartDashOr" : "または",
 	"GameStartDashMac" : "Macの場合",
-	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある \"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見えない場合、「\u00bb」メニューからさがしてください。",
+	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある \"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見当たらない場合は、「\u00bb」メニューからさがしてください。",
 	"GameStartNowTitle" : "KC3改は後で、今すぐ艦これやりたい！",
 	"GameStartNowDesc" : "下のボタンを押せばゲームページが開きます(まず設定でこのボタンを有効に)。KC3改は上記の方法でいつでも呼び出せるので。",
 	"GameStartNowBtn" : "艦これを起動する",
@@ -116,10 +116,12 @@
 	"AboutTitle" : "KC3改の開発者たち",
 	"Version" : "バージョン",
 
-	"AboutWebStore" : "Chrome ウェブストア",
+	"AboutWebsite" : "サイト",
+	"AboutWebStore" : "ウェブストア",
 	"AboutFacebook" : "Facebook",
 	"AboutSource" : "ソース",
 	"AboutReport" : "バグレポート",
+	"AboutDiscord" : "Discord",
 
 	"AboutInvdividuals" : "KC3改チーム",
 	"AboutPartners" : "パートナーズ",
@@ -156,19 +158,15 @@
 	"AboutPartnerWhoCallsDesc" : "アプリ内に艦娘達の色んなデータを提供",
 	"AboutPartnerThreeBardsName" : "cyrismustangさんのThreeBards.com",
 	"AboutPartnerThreeBardsDesc" : "艦これバッジジェネレータを提供",
-	"AboutPartnerKCDBNetName" : "KanColle-DB",
-	"AboutPartnerKCDBNetDesc" : "プレイヤーからのAPIデータを集めるサイト",
 	"AboutPartnerKCCalcName" : "KanColle-Calc",
 	"AboutPartnerKCCalcDesc" : "艦隊シミュレーターとデッキビルダーを提供",
 	"AboutPartnerKCTHFBName" : "KC-TH 「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "タイ語に翻訳し、最新情報のFacebookを立ち上げ",
 
-	"AboutWebsite": "リンク",
-
-	"AboutSubtitleHelp": "艦娘ボイス字幕提供言語:",
-	"AboutSourceGakadaVoices": "艦娘達のボイスファイルの解析",
-	"AboutSourceWhoCallsTheFleet": "艦娘データベース",
-	"AboutSourceMdmsScottQuotes": "Wikiaから英語版艦娘セリフ",
+	"AboutSubtitleHelp" : "艦娘ボイス字幕提供言語:",
+	"AboutSourceGakadaVoices" : "艦娘達のボイスファイルの解析",
+	"AboutSourceWhoCallsTheFleet" : "艦娘データベース",
+	"AboutSourceMdmsScottQuotes" : "Wikiaから英語版艦娘セリフ",
 	"AboutSourceHeartSound" : "大破警告の心拍音声",
 	"AboutSampleBattleData" : "新実装機能の戦闘データを提供",
 	"AboutCompleteMapNodes" : "マップマスデータをKCMAPで解析",
@@ -221,7 +219,7 @@
 	"SettingsBossComp"          : "ボス編成(まだ使えない)",
 	"SettingsAutoExpedTab"        : "遠征選択時自動タブ切り替え",
 	"SettingsAutoSwitchFleetView" : "状況応じて自動艦隊切り替え",
-	"SettingsPvPInfoActivity"     : "演習相手情報に切り替え",
+	"SettingsPvPInfoActivity"     : "演習相手情報に自動切り替え",
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
@@ -241,9 +239,9 @@
 	"SettingsFormulas" : "ゲーム内の計算式",
 	"SettingsELosFormula" : "索敵値計算式",
 	"SettingsELosSum" : "合計",
-	"SettingsELosOld" : "2-5式旧",
-	"SettingsELosNew" : "2-5式秋",
 	"SettingsELosF33" : "2-5判定式33",
+	"SettingsELosF33x3" : "判定式33(分岐点係数3)",
+	"SettingsELosF33x4" : "判定式33(分岐点係数4)",
 	"SettingsAirFormula" : "制空値計算式",
 	"SettingsAFPNoBonus" : "熟練度無視",
 	"SettingsAFPVeteran" : "平均熟練ボーナス有り",
@@ -254,6 +252,7 @@
 	"SettingsForDiamond"      : "輪形陣",
 	"SettingsForEchelon"      : "梯形陣",
 	"SettingsForLineAbreast"  : "単横陣",
+	"SettingsForVanguard"     : "警戒陣",
 	"SettingsForCombAntiSub"  : "連合艦隊(対潜警戒)",
 	"SettingsForCombForward"  : "連合艦隊(前方警戒)",
 	"SettingsForCombDiamond"  : "連合艦隊(輪形陣)",
@@ -357,10 +356,6 @@
 	"SettingsEnablePushAlerts" : "送信する",
 	"SettingsPushAlertsKey" : "Access Token",
 
-	"SettingsDBSubmission" : "艦これDBへの送信 (http://kancolle-db.net/login.php)",
-	"SettingsEnableDBSubmission" : "送信する",
-	"SettingsDBSubmissionKey" : "API Key",
-
 	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "送信する",
 
@@ -370,7 +365,7 @@
 	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "協力する",
 
-	"SettingsTsunDBSubmission" :"KC3改への送信 (http://kckai.cybersnets.com)",
+	"SettingsTsunDBSubmission" :"KC3改への送信 (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "協力する",
 
 	"SettingsPanelSize" : "パネルサイズ",
@@ -386,7 +381,7 @@
 	"SettingsSaveSortieToDb" : "出撃戦闘データを保存",
 	"SettingsSaveSortieToDbTip" : "これを無効にすると、この後すべての海域への出撃データが保存されなくなり、戦闘指揮所の「Maps」や「Events」にて見ることができなくなるので、お勧めしません。「Ledger」では出撃で消費する資源や資材はマップとの関連性も保存されなくなります。",
 	"SettingsSaveSortieButMaps" : "保存したくない海域",
-	"SettingsSaveSortieButMapsTip" : "一部の海域データだけを保存から外したい時には、このリストに海域IDを追加するといいでしょう。例えば、[11,15,54] にすれば、1-1、1-5と5-4への出撃データが保存されなくなり、これらのマップへの出撃で消費する資源や資材も「Ledger」から検索できなくなります。",
+	"SettingsSaveSortieButMapsTip" : "一部の海域データだけを保存から外したい時には、このリストに海域IDを追加してください。例えば、[11,15,54] にすれば、1-1、1-5と5-4への出撃データが保存されなくなり、これらのマップへの出撃で消費する資源や資材も「Ledger」から検索できなくなります。",
 	"SettingsSavePvpToDb" : "演習戦闘データを保存",
 	"SettingsSavePvpToDbTip" : "これを無効にすると、この後の演習戦闘データを保存されなくなり、戦闘指揮所の「PvP History」にて見ることができなくなるので、お勧めしません。",
 
@@ -422,7 +417,7 @@
 	"UpdateNotifText"  : "ここをクリックしてアップデート情報を開く\nアップデートするには再起動が必要ですが…",
 
 	"PageUpdateTitle" : "KC3改アップデート情報",
-	"PageUpdateReadyText" : "KC3改がアップデートできるようになりました。今すぐこの拡張機能のリロードを勧めますが、ゲーム中でやり残したことをやったあとで再起動してもよろしいです。すぐに再起動する場合は、ゲームとKC3改のタブが強制的に閉じられることになりますので、ご注意を。",
+	"PageUpdateReadyText" : "KC3改がアップデートできるようになりました。今すぐこの拡張機能のリロードを勧めますが、ゲーム中でやり残したことをやったあとで再起動しても大丈夫です。すぐに再起動する場合は、ゲームとKC3改のタブが強制的に閉じられますので、ご注意を。",
 	"PageUpdateRestartNow" : "今すぐに再起動する",
 	"PageUpdateRestartLater" : "あとで再起動する",
 	"PageUpdateHowToManual" : "手動で更新するには？",
@@ -456,7 +451,7 @@
 	"GameUpdateLink"     : "詳しくはここをクリックして「戦闘指揮所」で確認できます。",
 
 	"BossDebuffedTitle"   : "ギミック状態変化が検知されました！",
-	"BossDebuffedMessage" : "イベント海域ボスのギミック状態が変わったのを検知されました！<br/>{0}",
+	"BossDebuffedMessage" : "イベント海域ボスのギミック状態が変わったのを検知しました！<br/>{0}",
 	"BossDebuffedYes"     : "ギミック解除でボスが弱体化されたかもしれん！",
 	"BossDebuffedNo"      : "ギミック発動でボスの弱体化がリセットされたかもしれん！",
 
@@ -656,6 +651,10 @@
 	"PanelFSTaiha"       : "旗艦大破",
 	"PanelCombinedFSChuuha" : "旗艦損害",
 	"PanelCombinedFSChuuhaTip" : "旗艦が中破か大破のため、次は出撃できません",
+	"PanelFCFPossible"   : "退避可能",
+	"PanelFCFTipTaihaShip" : "が大きく損傷しています。",
+	"PanelFCFTipEscortShip" : "を護衛に付けて戦場退避させますか？\n退避させた場合の進撃中の連合艦隊への影響：",
+	"PanelFCFTipStrikingForce" : "遊撃部隊より離脱、単艦退避させますか？\n退避させた場合の進撃中の艦隊への影響：",
 	"PanelNoTaiha"       : "耐久良好",
 	"PanelSupplied"      : "補給満タン",
 	"PanelNotSupplied"   : "補給可能",
@@ -767,7 +766,12 @@
 	"PvpFormationPred"   : "敵陣形予想",
 	"FirstFleetLevelTip" : "演習を挑んだ相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除く)",
 
-	"RemodelItemListTitle" : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
+	"RemodelItemListTitle"    : "本日<span>{0:曜日}</span>の<br/>改修メニューです！",
+	"RemodelItemDetail"       : "この装備を<br/>改修しますね！",
+	"RemodelItemConsumeNeeds" : "消費する非ロック無改修装備など",
+	"RemodelItemUpgradeTo"    : "改修した後の装備",
+	"RemodelItemResultSuccess": "改修に成功しました！",
+	"RemodelItemResultFailure": "改修に失敗しました…",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",
@@ -831,6 +835,8 @@
 	"LodgeRatingNG5" : "超赤字だぜ",
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
+
+	"BattleHistoryAirRaidTip" : "航空基地の被ダメージ計：{0}\n損害タイプ：{1}\n燃料またはボーキの損害予測：{2}\n制空状態：{3}\n敵機の被撃墜率：{4}\n敵艦攻の残り：{5}\n敵艦爆の残り：{6}\n迎撃に対敵爆撃最も有効の中隊：\n　スロット1：{7}\n　スロット2：{8}\n　スロット3：{9}\n　スロット4：{10}",
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",

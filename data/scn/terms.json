@@ -161,6 +161,8 @@
 	"AboutHelpLearnMore" : "无需编程基础！点击了解如何贡献 >",
 	"AboutWebStore" : "Chrome网上应用店",
 	"AboutFacebook" : "Facebook",
+	"AboutWebsite": "网站链接",
+	"AboutDiscord" : "Discord",
 
 	"AboutCoders" : "开发人员",
 	"AboutProjectHead" : "项目领头人",
@@ -207,9 +209,6 @@
 	"AboutPartnerPoiStatsName" : "舰娘百科×poi # 掉落统计",
 	"AboutPartnerPoiStatsDesc" : "API数据提交（建造/开发/掉落统计）",
 
-	"AboutPartnerKCDBNetName" : "KanColle-DB",
-	"AboutPartnerKCDBNetDesc" : "API数据提交（建造/开发/掉落统计）",
-
 	"AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
 	"AboutPartnerThreeBardsDesc" : "集成舰队 Collection 签名生成器",
 
@@ -221,8 +220,6 @@
 
 	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "本应用的泰文翻译，以及Facebook上KC3的状态更新",
-
-	"AboutWebsite": "网站链接",
 
 	"AboutSubtitleHelp": "感谢其对相应语言字幕的贡献",
 	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
@@ -250,9 +247,9 @@
 	"SettingsFormulas" : "游戏公式",
 	"SettingsELosFormula" : "索敌公式",
 	"SettingsELosSum" : "总和",
-	"SettingsELosOld" : "旧公式",
-	"SettingsELosNew" : "新公式",
 	"SettingsELosF33" : "33索敌式",
+	"SettingsELosF33x3" : "33索敌式（分歧点系数3）",
+	"SettingsELosF33x4" : "33索敌式（分歧点系数4）",
 	"SettingsAirFormula" : "制空公式",
 	"SettingsAFPNoBonus" : "忽略熟练度加成",
 	"SettingsAFPVeteran" : "熟练度加成（平均值）",
@@ -282,10 +279,11 @@
 	"SettingsForDiamond"      : "轮型阵",
 	"SettingsForEchelon"      : "梯形阵",
 	"SettingsForLineAbreast"  : "单横阵",
+	"SettingsForVanguard"     : "警戒阵",
 	"SettingsForCombAntiSub"  : "联合舰队(对潜警戒)",
-	"SettingsForCombForward"  : "連合艦隊(前方警戒)",
+	"SettingsForCombForward"  : "联合舰队(前方警戒)",
 	"SettingsForCombDiamond"  : "联合舰队(轮型阵)",
-	"SettingsForCombBattle"   : "連合艦隊(战斗队形)",
+	"SettingsForCombBattle"   : "联合舰队(战斗队形)",
 	"SettingsImaginaryEnemySlot" : "假想敌单格搭载量",
 	"SettingsPowerCapLevel"   : "攻击力计算阈值和补正",
 	"SettingsPowerCapNone"    : "无补正",
@@ -425,10 +423,6 @@
 	"SettingsEnablePushAlerts" : "启用功能",
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
 
-	"SettingsDBSubmission" :"向 Kancolle DB (http://kancolle-db.net/login.php) 发送数据",
-	"SettingsEnableDBSubmission" : "启用功能",
-	"SettingsDBSubmissionKey" : "密钥（Access key）",
-
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
@@ -438,7 +432,7 @@
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
 
-	"SettingsTsunDBSubmission" :"向 KC3改 (http://kckai.cybersnets.com) 发送数据",
+	"SettingsTsunDBSubmission" :"向 KC3改 (https://tsundb.kc3.moe) 发送数据",
 	"SettingsEnableTsunDBSubmission" : "启用功能",
 
 	"SettingsPanelSize" : "面板尺寸",
@@ -711,6 +705,10 @@
 	"PanelFSTaiha" : "旗舰",
 	"PanelCombinedFSChuuha" : "旗舰中破",
 	"PanelCombinedFSChuuhaTip" : "因旗舰中破或大破，无法出击",
+	"PanelFCFPossible" : "可以退避",
+	"PanelFCFTipTaihaShip" : "受到了严重的损伤。",
+	"PanelFCFTipEscortShip" : "要让该舰护卫，伴随撤回吗？\n她们撤回后，联合舰队的部分变化有：",
+	"PanelFCFTipStrikingForce" : "要让她从游击部队单独撤回吗？\n她撤回后、舰队状态的部分变化有：",
 	"PanelNoTaiha" : "耐久良好",
 	"PanelSupplied" : "补给充足",
 	"PanelNotSupplied" : "补给未满",
@@ -853,6 +851,13 @@
 	"PvpFormationPred" : "敌阵型预测",
 	"FirstFleetLevelTip" : "演习对手将会得到的基础经验值: {0}\nS胜时: {1} (假设对方无练巡经验加成)",
 
+	"RemodelItemListTitle" : "这是<span>{0}</span>的改修菜单！",
+	"RemodelItemDetail" : "要改修该装备吗？",
+	"RemodelItemConsumeNeeds" : "要消费的无改修、无锁装备等",
+	"RemodelItemUpgradeTo" : "改修后的装备",
+	"RemodelItemResultSuccess" : "改修成功了！",
+	"RemodelItemResultFailure" : "改修失败了……",
+
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",
 	"DesktopNotifyRepairCompleteTitle" : "入渠完成！",
@@ -915,6 +920,8 @@
 	"LodgeRatingNG5" : "活动攻略中？",
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
+
+	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

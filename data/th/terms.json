@@ -133,10 +133,12 @@
 	"AboutTitle" : "เกี่ยวกับทีมงาน KC3Kai",
 	"Version" : "เวอร์ชั่น",
 
+	"AboutWebsite": "เว็บไซต์",
 	"AboutWebStore" : "โครม เว็บสโตร์",
 	"AboutFacebook" : "เฟสบุ๊ค",
 	"AboutSource" : "โค้ด",
 	"AboutReport" : "แจ้งปัญหาและบัค",
+	"AboutDiscord" : "ดิสคอร์ด",
 
 	"AboutInvdividuals" : "ทีมงาน KC3Kai",
 	"AboutPartners" : "พาร์ทเนอร์",
@@ -266,6 +268,8 @@
 	"SettingsELosOld" : "Old",
 	"SettingsELosNew" : "New",
 	"SettingsELosF33" : "Formula 33",
+	"SettingsELosF33x3" : "F33 (Cn3)",
+	"SettingsELosF33x4" : "F33 (Cn4)",
 	"SettingsAirFormula" : "สูตรคำนวนน่านฟ้า",
 	"SettingsAFPNoBonus" : "ไม่รวมยศ",
 	"SettingsAFPVeteran" : "รวมยศทั้งหมด",
@@ -276,6 +280,7 @@
 	"SettingsForDiamond"      : "ล้อมวงเรือธง",
 	"SettingsForEchelon"      : "เรียงขั้นบันได",
 	"SettingsForLineAbreast"  : "แถวหน้ากระดาน",
+	"SettingsForVanguard"     : "เฝ้าระวัง",
 	"SettingsForCombAntiSub"  : "กองเรือผสม (ต่อต้านเรือดำน้ำ)",
 	"SettingsForCombForward"  : "กองเรือผสม (ประจันหน้า)",
 	"SettingsForCombDiamond"  : "กองเรือผสม (ล้อมวง)",
@@ -393,7 +398,7 @@
 	"SettingsKC3DBSubmission" : "ส่งข้อมูลให้ KC3Kai (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "เปิดใช้งาน",
 
-	"SettingsTsunDBSubmission" :"ส่งข้อมูลให้ Tsunderes (http://kckai.cybersnets.com)",
+	"SettingsTsunDBSubmission" :"ส่งข้อมูลให้ Tsunderes (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "เปิดใช้งาน",
 
 	"SettingsPanelSize" : "แผงควบคุมการเล่น",
@@ -667,6 +672,10 @@
 	"PanelFSTaiha" : "เสียหายหนัก",
 	"PanelCombinedFSChuuha" : "เรือธงเสียหาย",
 	"PanelCombinedFSChuuhaTip" : "ตอนนี้เรือธงเสียหายหนักแล้วนะคะ! กลับเถอะค่ะ!",
+	"PanelFCFPossible" : "คำสั่งถอนกำลัง",
+	"PanelFCFTipTaihaShip" : "มีเรือเสียหายหนัก!",
+	"PanelFCFTipEscortShip" : "ต้องการส่งเธอกลับฐานไหม? หากต้องการเธอจะถอนตัวออกจากกองเรือผสม:",
+	"PanelFCFTipStrikingForce" : "ต้องการส่งเธอกลับฐานไหม? หากต้องการเธอจะถอนตัวออกจากกองเรือ:",
 	"PanelNoTaiha" : "เลือดดี",
 	"PanelSupplied" : "ยุทธปัจจัยพร้อม",
 	"PanelNotSupplied" : "ต้องเติม",
@@ -798,7 +807,10 @@
 	"PvpFormationPred"   : "ฟอร์เมชั่น",
 	"FirstFleetLevelTip" : "Exp พื้นฐานของฝ่ายเรา: {0}\nชนะ S+: {1} (ไม่รวม CT)",
 
-	"RemodelItemListTitle" : "นี่เป็นรายการของวันที่ <br/>(<span>{0:weekday} JST</span>)",
+	"RemodelItemListTitle"    : "นี่เป็นรายการของวันนี้ <br/>(<span>{0:weekday} JST</span>)",
+	"RemodelItemDetail"       : "ปรับปรุงอุปกรณ์",
+	"RemodelItemConsumeNeeds" : "ต้องปลดล็อค:",
+	"RemodelItemUpgradeTo"    : "อัพเกรด:",
 
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ {1} แล้ว",

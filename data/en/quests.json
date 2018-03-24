@@ -1915,7 +1915,7 @@
         "name": "Daily Development 1",
         "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
         "memo": "\u203bOrders to Develop New Equipment",
-        "unlock": [ 606, 679 ],
+        "unlock": [ 606, 679, 680 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -1934,7 +1934,7 @@
         "unlock": [ 608, 673 ],
         "tracking": [ [0,3] ]
     },
-     "608": {
+    "608": {
         "code": "F8",
         "name": "Daily Construction 2",
         "desc": "Construct 3 ships.",
@@ -1942,7 +1942,7 @@
         "unlock": [ 609, 617, 619, 669 ],
         "tracking": [ [0,3] ]
     },
-     "609": {
+    "609": {
         "code": "F9",
         "name": "Daily Dismantlement",
         "desc": "Scrap 2 ships.",
@@ -2397,13 +2397,16 @@
         "code": "F71",
         "name": "An Expansion of Anti-Air Armaments",
         "desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns. Press F10 to clear the overlay.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers OR a Reinforcement Expansion"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers OR a Reinforcement Expansion",
+        "unlock": [ 680 ]
     },
     "680": {
         "code": "F72",
         "name": "Quarterly AA Guns",
         "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
-        "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials"
+        "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
+        "tracking": [ [0,4], [0,4] ],
+        "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
     },
 
     "701": {

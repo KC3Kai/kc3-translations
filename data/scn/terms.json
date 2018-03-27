@@ -161,6 +161,8 @@
 	"AboutHelpLearnMore" : "无需编程基础！点击了解如何贡献 >",
 	"AboutWebStore" : "Chrome网上应用店",
 	"AboutFacebook" : "Facebook",
+	"AboutWebsite": "网站链接",
+	"AboutDiscord" : "Discord",
 
 	"AboutCoders" : "开发人员",
 	"AboutProjectHead" : "项目领头人",
@@ -207,9 +209,6 @@
 	"AboutPartnerPoiStatsName" : "舰娘百科×poi # 掉落统计",
 	"AboutPartnerPoiStatsDesc" : "API数据提交（建造/开发/掉落统计）",
 
-	"AboutPartnerKCDBNetName" : "KanColle-DB",
-	"AboutPartnerKCDBNetDesc" : "API数据提交（建造/开发/掉落统计）",
-
 	"AboutPartnerThreeBardsName" : "ThreeBards.com / cyrismustang",
 	"AboutPartnerThreeBardsDesc" : "集成舰队 Collection 签名生成器",
 
@@ -221,8 +220,6 @@
 
 	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "本应用的泰文翻译，以及Facebook上KC3的状态更新",
-
-	"AboutWebsite": "网站链接",
 
 	"AboutSubtitleHelp": "感谢其对相应语言字幕的贡献",
 	"AboutSourceZHKcWiki" : "下列<strong>简体中文</strong>的翻译来自<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，有少许改动：",
@@ -854,6 +851,13 @@
 	"PvpFormationPred" : "敌阵型预测",
 	"FirstFleetLevelTip" : "演习对手将会得到的基础经验值: {0}\nS胜时: {1} (假设对方无练巡经验加成)",
 
+	"RemodelItemListTitle" : "这是<span>{0}</span>的改修菜单！",
+	"RemodelItemDetail" : "要改修该装备吗？",
+	"RemodelItemConsumeNeeds" : "要消费的无改修、无锁装备等",
+	"RemodelItemUpgradeTo" : "改修后的装备",
+	"RemodelItemResultSuccess" : "改修成功了！",
+	"RemodelItemResultFailure" : "改修失败了……",
+
 	"DesktopNotifyExpedCompleteTitle" : "远征完成！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}舰队已自远征#{1}归来",
 	"DesktopNotifyRepairCompleteTitle" : "入渠完成！",
@@ -916,6 +920,8 @@
 	"LodgeRatingNG5" : "活动攻略中？",
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
+
+	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

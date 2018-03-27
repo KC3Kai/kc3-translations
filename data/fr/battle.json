@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "bonne"],
-		["OK-", "bonne"],
-		["-", "mauvaise"],
-		["NO", "mauvaise"],
-		["OK+", "bonne"],
-		["NO+", "mauvaise"]
+		["OK", "best"],
+		["OK-", "good"],
+		["-", "worst"],
+		["NO", "bad"],
+		["OK+", "good"],
+		["NO+", "bad"]
 	],
 	
 	"airbattle" : [
 		["AP", "", "Parité"],
-		["AS+", "bon", "Suprématie"],
-		["AS", "bon", "Supériorité"],
-		["AI", "mauvais", "Incapacité"],
-		["AD", "mauvais", "Déni"],
+		["AS+", "best", "Suprématie"],
+		["AS", "good", "Supériorité"],
+		["AD", "bad", "Incapacité"],
+		["AI", "worst", "Déni"],
 		["None", "", "Pas de combat"]
 	],
 	
@@ -22,8 +22,8 @@
   		["", "", ""],
 		["Prll", "", "Parallèle"],
  		["HdOn", "", "Frontal"],
-		["Gr-T", "bon", "T vert"],
-		["Rd-T", "mauvais", "T rouge"]
+		["Gr-T", "good", "T vert"],
+		["Rd-T", "bad", "T rouge"]
 	],
 	
 	"formation" : [

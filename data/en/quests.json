@@ -1969,7 +1969,7 @@
     "674": {
         "code": "F66",
         "name": "Daily AA Gun Dismantlement",
-        "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
+        "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
         "unlock": [ 675, 676, 677, 803 ],
         "tracking": [ [0,3] ]
@@ -2153,7 +2153,7 @@
     "638": {
         "code": "F34",
         "name": "Weekly AA Gun Dismantlement",
-        "desc": "Scrap 6 anti-air guns. High-angle guns do not count.",
+        "desc": "Scrap 6 AA Machine Guns.",
         "memo": "\u203bAnti-Air Machine Gun Mass Production\n\u27a3Rewards a Screw",
         "unlock": [ 671 ],
         "tracking": [ [0,6] ]
@@ -2368,7 +2368,7 @@
     "675": {
         "code": "F67",
         "name": "Quarterly Interceptor",
-        "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
+        "desc": "Have 800 Bauxite. Scrap 6 Fighter Aircraft and 4 AA Machine Guns. Press F10 to clear the overlay.",
         "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
     },
     "676": {

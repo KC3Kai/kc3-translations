@@ -108,7 +108,7 @@
 	"GameStartDashWin" : "Windows / Linuxの場合",
 	"GameStartDashOr" : "または",
 	"GameStartDashMac" : "Macの場合",
-	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある \"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見えない場合、「\u00bb」メニューからさがしてください。",
+	"GameStartDashChrome" : "上記のショートカットで開発者ツールが開いたら一番右にある \"<strong>KanColle</strong>\"というタブに切り替えてください。<br/>もし見当たらない場合は、「\u00bb」メニューからさがしてください。",
 	"GameStartNowTitle" : "KC3改は後で、今すぐ艦これやりたい！",
 	"GameStartNowDesc" : "下のボタンを押せばゲームページが開きます(まず設定でこのボタンを有効に)。KC3改は上記の方法でいつでも呼び出せるので。",
 	"GameStartNowBtn" : "艦これを起動する",
@@ -219,7 +219,7 @@
 	"SettingsBossComp"          : "ボス編成(まだ使えない)",
 	"SettingsAutoExpedTab"        : "遠征選択時自動タブ切り替え",
 	"SettingsAutoSwitchFleetView" : "状況応じて自動艦隊切り替え",
-	"SettingsPvPInfoActivity"     : "演習相手情報に切り替え",
+	"SettingsPvPInfoActivity"     : "演習相手情報に自動切り替え",
 	"SettingsEnglishShipType"   : "英語の艦種略号を使う",
 	"SettingsShipNamesLang"     : "艦の名称などの言語",
 	"SettingsShipNamesGlobal"   : "全体に従う",
@@ -277,6 +277,7 @@
 	"SettingsSSDirDesc"   : "/Downloads/のサブフォルダになります",
 	"SettingsSSDppx"      : "デバイスピクセル比",
 	"SettingsNormal"      : "普通",
+	"SettingsAuto"        : "自動",
 
 	"SettingsAlerts"         : "警報と通知",
 	"SettingsTimeDiff"       : "タイマー調整",
@@ -653,8 +654,8 @@
 	"PanelCombinedFSChuuhaTip" : "旗艦が中破か大破のため、次は出撃できません",
 	"PanelFCFPossible"   : "退避可能",
 	"PanelFCFTipTaihaShip" : "が大きく損傷しています。",
-	"PanelFCFTipEscortShip" : "を護衛に付けて戦場退避させますか？\n退避させたら、進撃中の連合艦隊への影響：",
-	"PanelFCFTipStrikingForce" : "遊撃部隊より離脱、単艦退避させますか？\n退避させたら、進撃中の艦隊への影響：",
+	"PanelFCFTipEscortShip" : "を護衛に付けて戦場退避させますか？\n退避させた場合の進撃中の連合艦隊への影響：",
+	"PanelFCFTipStrikingForce" : "遊撃部隊より離脱、単艦退避させますか？\n退避させた場合の進撃中の艦隊への影響：",
 	"PanelNoTaiha"       : "耐久良好",
 	"PanelSupplied"      : "補給満タン",
 	"PanelNotSupplied"   : "補給可能",
@@ -766,10 +767,12 @@
 	"PvpFormationPred"   : "敵陣形予想",
 	"FirstFleetLevelTip" : "演習を挑んだ相手が得られる基本経験値: {0}\nS勝利の場合: {1} (練巡のボーナスを除く)",
 
-	"RemodelItemListTitle"    : "今日<span>{0:曜日}</span>の<br/>改修メニューです！",
+	"RemodelItemListTitle"    : "本日<span>{0:曜日}</span>の<br/>改修メニューです！",
 	"RemodelItemDetail"       : "この装備を<br/>改修しますね！",
 	"RemodelItemConsumeNeeds" : "消費する非ロック無改修装備など",
-	"RemodelItemUpgradeTo"    : "更新する後の装備",
+	"RemodelItemUpgradeTo"    : "改修した後の装備",
+	"RemodelItemResultSuccess": "改修に成功しました！",
+	"RemodelItemResultFailure": "改修に失敗しました…",
 
 	"DesktopNotifyExpedCompleteTitle" : "遠征から戻って来ました！",
 	"DesktopNotifyExpedCompleteMessage" : "第{0}艦隊が「遠征 {1}」から帰投しました。",
@@ -833,6 +836,8 @@
 	"LodgeRatingNG5" : "超赤字だぜ",
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
+
+	"BattleHistoryAirRaidTip" : "航空基地の被ダメージ計：{0}\n損害タイプ：{1}\n燃料またはボーキの損害予測：{2}\n制空状態：{3}\n敵機の被撃墜率：{4}\n敵艦攻の残り：{5}\n敵艦爆の残り：{6}\n迎撃に対敵爆撃最も有効の中隊：\n　スロット1：{7}\n　スロット2：{8}\n　スロット3：{9}\n　スロット4：{10}",
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",

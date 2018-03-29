@@ -296,8 +296,9 @@
 	"SettingsSSQuality" : "Image Quality",
 	"SettingsSSDirectory" : "Download Sub-directory",
 	"SettingsSSDirDesc" : "Specify subfolder of /Downloads/",
-	"SettingsSSDppx": "Device Pixel Ratio",
-	"SettingsNormal": "Normal",
+	"SettingsSSDppx" : "Device Pixel Ratio",
+	"SettingsNormal" : "Normal",
+	"SettingsAuto" : "Auto",
 	
 	"SettingsAlerts" : "Alerts",
 	"SettingsTimeDiff" : "Timer Allowance",
@@ -799,7 +800,9 @@
 	"RemodelItemDetail"       : "To improve this equipment",
 	"RemodelItemConsumeNeeds" : "Needs unimproved unlocked:",
 	"RemodelItemUpgradeTo"    : "Will be upgraded to:",
-
+	"RemodelItemResultSuccess": "Improvement succeeded!",
+	"RemodelItemResultFailure": "Improvement failed...",
+	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition {1}",
 	"DesktopNotifyRepairCompleteTitle" : "Repairs Complete!",
@@ -862,6 +865,8 @@
 	"LodgeRatingNG5" : "Excessive Consumption",
 	
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
+	
+	"BattleHistoryAirRaidTip" : "Land Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\nAir Battle: {3}\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 	
 	"MasterShipSaltCheck" : "Accept Existence",
 	"MasterShipSaltUnCheck" : "Deny Existence",

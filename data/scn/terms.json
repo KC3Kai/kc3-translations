@@ -341,8 +341,9 @@
 	"SettingsSSQuality"	  : "画质",
 	"SettingsSSDirectory" : "子目录名",
 	"SettingsSSDirDesc"	  : "指定 /Downloads/ 下的子目录",
-	"SettingsSSDppx" : "设备像素比",
-	"SettingsNormal" : "普通",
+	"SettingsSSDppx" : "设备像素比(DPR)",
+	"SettingsNormal" : "标准",
+	"SettingsAuto" : "自适应",
 
 	"SettingsAlerts" : "提醒",
 	"SettingsTimeDiff" : "倒计时提前",

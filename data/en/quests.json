@@ -565,7 +565,8 @@
         "code": "A87",
         "name": "Form the Elite 18th Destroyer Division!",
         "desc": "Have ONLY Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai and Shiranui Kai in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy"
+        "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
+        "unlock": [ 881 ]
     },
     
     "202": {
@@ -1402,6 +1403,7 @@
         "name": "Daily Submarines",
         "desc": "Sink 6 Abyssal submarines.",
         "memo": "\u203bEnemy Submarine Suppression!",
+        "unlock": [ 881 ],
         "tracking": [ [0,6] ]
     },
     
@@ -1668,7 +1670,7 @@
         "memo": "\u27a3Rewards a Mamiya"
     },
     "315": {
-        "code": "C12",
+        "code": "C19",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"

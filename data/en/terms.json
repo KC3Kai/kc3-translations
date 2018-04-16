@@ -796,12 +796,12 @@
 	"PvpFormationPred"   : "Formation",
 	"FirstFleetLevelTip" : "Exp. for PvP opponents:\nBase: {0}\nS-Rank: {1} with no CT",
 	
-	"RemodelItemListTitle"    : "Here are recipes today<br/>(<span>{0:weekday} JST</span>)",
-	"RemodelItemDetail"       : "To improve this equipment",
-	"RemodelItemConsumeNeeds" : "Needs unimproved unlocked:",
+	"RemodelItemListTitle"    : "I can improve these.<br/>(<span>{0:weekday} JST</span>)",
+	"RemodelItemDetail"       : "In that case,<br/>we're going to need:",
+	"RemodelItemConsumeNeeds" : "Unimproved & unlocked items:",
 	"RemodelItemUpgradeTo"    : "Will be upgraded to:",
-	"RemodelItemResultSuccess": "Improvement succeeded!",
-	"RemodelItemResultFailure": "Improvement failed...",
+	"RemodelItemResultSuccess": "The improvement was a success!",
+	"RemodelItemResultFailure": "The improvement was a failure...",
 	
 	"DesktopNotifyExpedCompleteTitle" : "Expedition Complete!",
 	"DesktopNotifyExpedCompleteMessage" : "Fleet {0} just arrived from Expedition {1}",

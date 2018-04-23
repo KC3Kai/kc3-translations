@@ -2466,8 +2466,13 @@
     "882": {
         "code": "5A02",
         "name": "Fifth Anniversary Mission II: Naval Base Region Patrol",
-        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+? the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DE, Tsushima"
-    }
-    
+        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards the DE, Tsushima\n\u2623CAUTION\u2623You will need this Tsushima reward for the next quest if you lack a modernizable DE."
+    },
+    "706": {
+        "code": "5A03",
+        "name": "Fifth Anniversary Mission III: Modernization",
+        "desc": "Have 555 steel and bauxite. Modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations."
+    }    
 }

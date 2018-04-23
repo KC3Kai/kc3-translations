@@ -2472,7 +2472,19 @@
     "706": {
         "code": "5A03",
         "name": "Fifth Anniversary Mission III: Modernization",
-        "desc": "Have 555 steel and bauxite. Modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations."
-    }    
+        "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
+        "memo": "\u2718If no stats are boosted, it doesn't count.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations."
+    },
+    "321": {
+        "code": "5A04",
+        "name": "Fifth Anniversary Mission IV: Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a +5 Type 95 Depth Charge OR five Mamiyas\n\u00B6Second choice: Either an Action Report OR a +5 12.7cm Twin Gun Mount Model C Kai Ni"
+    },
+    "883": {
+        "code": "5A05",
+        "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
+        "desc": "Sortie a CL and 2 DD/DE. Pick one of these: 1) A-Rank+? all [W2] maps; 2) A-Rank+? [W5-3],[W5-5]; 3) A-Rank+? [W6-5]",
+        "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
+    }
 }

@@ -3,7 +3,7 @@
         "code": "A1",
         "name": "The First Attempt at Fleet Organization!",
         "desc": "Have 2 ships in your main fleet.",
-        "memo": "\u27a3Rewards the DD Shirayuki",
+        "memo": "\u27a3Rewards the DD, Shirayuki",
         "unlock": [ 102 ]
     },
     "102": {
@@ -590,14 +590,14 @@
         "code": "B5",
         "name": "Intercept the Approaching Enemy Vanguard Fleet!",
         "desc": "Sortie to [W1-2]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards the DD Miyuki",
+        "memo": "\u27a3Rewards the DD, Miyuki",
         "unlock": [ 206 ]
     },
     "206": {
         "code": "B6",
         "name": "Sortie a Torpedo Squadron!",
         "desc": "Sortie a CL as flagship and 3 DD to any map.",
-        "memo": "\u27a3Rewards the CL Tatsuta",
+        "memo": "\u27a3Rewards the CL, Tatsuta",
         "unlock": [ 207, 255 ]
     },
     "207": {
@@ -627,7 +627,7 @@
         "code": "B10",
         "name": "Sink an Enemy Carrier!",
         "desc": "Sink an Abyssal CV(L).",
-        "memo": "\u27a3Rewards the CV Akagi",
+        "memo": "\u27a3Rewards the CV, Akagi",
         "unlock": [ 861 ]
     },
     "219": {
@@ -1761,7 +1761,7 @@
         "code": "D8",
         "name": "Operation to Contact a Foreign Ship!",
         "desc": "Complete Expedition 31.",
-        "memo": "\u203bOperation to Contact a Foreign Ship via Continued Submarine Dispatches\n\u27a3Rewards the DD Z1; enables Z3 and Bismarck construction"
+        "memo": "\u203bOperation to Contact a Foreign Ship via Continued Submarine Dispatches\n\u27a3Rewards the DD, Z1; enables Z3 and Bismarck construction"
     },
     "410": {
         "code": "D9",
@@ -2455,6 +2455,40 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    } 
-    
+    },
+	
+    "681": {
+        "code": "5A01",
+        "name": "Fifth Anniversary Mission I: The Arsenal",
+        "desc": "Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR three 12cm 30-tube Rocket Launchers OR two Shiden Kai Ni\n\u00B6Second choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR a Reinforcement Expansion",
+        "unlock": [ 882 ]
+    },
+    "882": {
+        "code": "5A02",
+        "name": "Fifth Anniversary Mission II: Naval Base Region Patrol",
+        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards the DE, Tsushima\n\u2623CAUTION\u2623You will need this Tsushima reward for the next quest if you lack a modernizable DE.",
+        "unlock": [ 706 ]
+    },
+    "706": {
+        "code": "5A03",
+        "name": "Fifth Anniversary Mission III: Modernization",
+        "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
+        "memo": "\u2718If no stats are boosted, it doesn't count.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations.",
+        "unlock": [ 321 ]
+    },
+    "321": {
+        "code": "5A04",
+        "name": "Fifth Anniversary Mission IV: Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Irako OR a +5 Type 95 Depth Charge\n\u00B6Second choice: Either an Action Report OR a +5 12.7cm Twin Gun Mount Model C Kai Ni",
+        "unlock": [ 883 ]
+    },
+    "883": {
+        "code": "5A05",
+        "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
+        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: B-Rank+? all [W2] maps OR B-Rank+? [W5-3] and [W5-5] OR B-Rank+ [W6-5]",
+        "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
+    }
 }

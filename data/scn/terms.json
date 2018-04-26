@@ -321,6 +321,7 @@
 	"SettingsEnglishShipType": "使用英文舰种缩写",
 	"SettingsShipNamesLang" : "舰名与装备名使用语言",
 	"SettingsShipNamesGlobal" : "按照语言设定",
+	"SettingsShipClassName" : "舰级、舰型名",
 	"SettingsShipStatsDiffType" : "舰娘属性值格式",
 	"SettingsShipStatsCurrent" : "当前值",
 	"SettingsShipStatsUnequipped" : "(装备加成除外值) 当前值",
@@ -353,7 +354,14 @@
 	"SettingsSupplyExped" : "舰队补给警报",
 	"SettingsSupplyBarLabel" : "格",
 	"SettingsSoundType" : "提示音",
-	"SettingsDing" : "叮!",
+	"SettingsSoundTypeMorale" : "疲劳解除提示音",
+	"SettingsSoundTypeExped" : "远征完成提示音",
+	"SettingsSoundTypeRepair" : "修理完成提示音",
+	"SettingsSoundTypeConstruction" : "建造完成提示音",
+	"SettingsSFXpop" : "默认",
+	"SettingsSFXding" : "叮!",
+	"SettingsSFXdong" : "咚!",
+	"SettingsSFXbell" : "钟声",
 	"SettingsCustom" : "自定义",
 	"SettingsCustomSound" : "自定义提示音",
 	"SettingsDesktopNotif" : "桌面通知",
@@ -922,7 +930,7 @@
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
 
-	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
+	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

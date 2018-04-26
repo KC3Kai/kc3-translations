@@ -245,6 +245,7 @@
 	"SettingsEnglishShipType" : "English Ship Type Codes",
 	"SettingsShipNamesLang" : "Ship Names Language",
 	"SettingsShipNamesGlobal" : "Follow global",
+	"SettingsShipClassName" : "Ship Class Name",
 	"SettingsBlinkGauge" : "Gauge Blink on Last Dance",
 	"SettingsShipStatsDiffType" : "Ship Stats Format",
 	"SettingsShipStatsCurrent" : "Current",
@@ -308,7 +309,14 @@
 	"SettingsSupplyExped" : "Fleet Supply Warning",
 	"SettingsSupplyBarLabel" : "bars",
 	"SettingsSoundType" : "Sound Type",
-	"SettingsDing" : "DING!",
+	"SettingsSoundTypeMorale" : "Morale Recover Sound",
+	"SettingsSoundTypeExped" : "Expedition Sound",
+	"SettingsSoundTypeRepair" : "Repair Dock Sound",
+	"SettingsSoundTypeConstruction" : "Construction Sound",
+	"SettingsSFXpop" : "POP!",
+	"SettingsSFXding" : "DING!",
+	"SettingsSFXdong" : "DONG!",
+	"SettingsSFXbell" : "BELL",
 	"SettingsCustom" : "Custom",
 	"SettingsCustomSound" : "Custom Sound URL",
 	"SettingsDesktopNotif" : "Desktop Notification",
@@ -866,7 +874,7 @@
 	
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 	
-	"BattleHistoryAirRaidTip" : "Land Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\nAir Battle: {3}\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+	"BattleHistoryAirRaidTip" : "Land Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\nAir Battle: {3}\n{11:inferredEnemyAirPow}\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 	
 	"MasterShipSaltCheck" : "Accept Existence",
 	"MasterShipSaltUnCheck" : "Deny Existence",

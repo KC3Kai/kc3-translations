@@ -305,6 +305,7 @@
 	"SettingsSSDirDesc" : "เลือกโฟเดอร์สำหรับ /Downloads/",
 	"SettingsSSDppx" : "อัตราส่วนพิกเซลของหน้าจอ",
 	"SettingsNormal" : "ปกติ",
+	"SettingsAuto" : "อัตโนมัติ",
 
 	"SettingsAlerts" : "การแจ้งเตือน",
 	"SettingsTimeDiff" : "แจ้งเตือนล่วงหน้า",
@@ -807,10 +808,12 @@
 	"PvpFormationPred"   : "ฟอร์เมชั่น",
 	"FirstFleetLevelTip" : "Exp พื้นฐานของฝ่ายเรา: {0}\nชนะ S+: {1} (ไม่รวม CT)",
 
-	"RemodelItemListTitle"    : "นี่เป็นรายการของวันนี้ <br/>(<span>{0:weekday} JST</span>)",
-	"RemodelItemDetail"       : "ปรับปรุงอุปกรณ์",
+	"RemodelItemListTitle"    : "รายการอัพเกรดของวันนี้ <br/>(<span>{0:weekday} JST</span>)",
+	"RemodelItemDetail"       : "อัพเกรดอุปกรณ์",
 	"RemodelItemConsumeNeeds" : "ต้องปลดล็อค:",
-	"RemodelItemUpgradeTo"    : "อัพเกรด:",
+	"RemodelItemUpgradeTo"    : "อัพเกรดเป็น:",
+	"RemodelItemResultSuccess": "อัพเกรดสำเร็จแล้ว!",
+	"RemodelItemResultFailure": "อัพเกรดล้มเหลว...",
 
 	"DesktopNotifyExpedCompleteTitle" : "กองเรือสำรวจ กลับมาแล้ว!",
 	"DesktopNotifyExpedCompleteMessage" : "กองเรือ {0} กลับมาจากสำรวจ {1} แล้ว",
@@ -874,6 +877,8 @@
 	"LodgeRatingNG5" : "ใครกินทรัพย์ฯ ของฉันไป",
 
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
+
+	"BattleHistoryAirRaidTip" : "เครื่องบินฐาน: {0}\nความเสียหาย: {1}\nบอกไซต์/น้ำมัน: {2}\nทำการเข้าโจมตี: {3}\n{11:ค่ากำลังทางอากาศศัตรู}\nทำการยิงศัตรูตก: {4}\nTB เหลือ: {5}\nDB เหลือ: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 
 	"MasterShipSaltCheck" : "ไม่มีเรือลำนี้",
 	"MasterShipSaltUnCheck" : "มีเรือลำนี้แล้ว",

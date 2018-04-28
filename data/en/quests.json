@@ -3,7 +3,7 @@
         "code": "A1",
         "name": "The First Attempt at Fleet Organization!",
         "desc": "Have 2 ships in your main fleet.",
-        "memo": "\u27a3Rewards the DD Shirayuki",
+        "memo": "\u27a3Rewards the DD, Shirayuki",
         "unlock": [ 102 ]
     },
     "102": {
@@ -558,8 +558,15 @@
     "191": {
         "code": "A86",
         "name": "Remodeled 17th Destroyer Division, Commence Restructuring!",
-        "desc": "Have ONLY Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.",
+        "desc": "Have ONLY Hamakaze B Kai, Isokaze B Kai, Urakaze Kai and Tanikaze Kai in your fleet.",
         "memo": "\u27a3Rewards a Mamiya and a Reinforcement Expansion"
+    },
+    "192": {
+        "code": "A87",
+        "name": "Form the Elite 18th Destroyer Division!",
+        "desc": "Have ONLY Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai and Shiranui Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
+        "unlock": [ 881 ]
     },
     
     "202": {
@@ -583,14 +590,14 @@
         "code": "B5",
         "name": "Intercept the Approaching Enemy Vanguard Fleet!",
         "desc": "Sortie to [W1-2]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards the DD Miyuki",
+        "memo": "\u27a3Rewards the DD, Miyuki",
         "unlock": [ 206 ]
     },
     "206": {
         "code": "B6",
         "name": "Sortie a Torpedo Squadron!",
         "desc": "Sortie a CL as flagship and 3 DD to any map.",
-        "memo": "\u27a3Rewards the CL Tatsuta",
+        "memo": "\u27a3Rewards the CL, Tatsuta",
         "unlock": [ 207, 255 ]
     },
     "207": {
@@ -620,7 +627,7 @@
         "code": "B10",
         "name": "Sink an Enemy Carrier!",
         "desc": "Sink an Abyssal CV(L).",
-        "memo": "\u27a3Rewards the CV Akagi",
+        "memo": "\u27a3Rewards the CV, Akagi",
         "unlock": [ 861 ]
     },
     "219": {
@@ -1328,8 +1335,14 @@
     "880": {
         "code": "B115",
         "name": "Elite Destroyer Division, Wreak Havoc!",
-        "desc": "Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and S?-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nPress F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal"
+        "desc": "Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes. Press F10 to clear the overlay.",
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal"
+    },
+    "881": {
+        "code": "B116",
+        "name": "DesDiv 18, to Kis Island in the Northern Seas!",
+        "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai, Shiranui Kai and up to 2 additional ships to [W3-2]. S-Rank the boss node twice. Press F10 to clear the overlay.",
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards either a Daihatsu Landing Craft OR a 10cm Twin High-angle Gun Mount Kai + Additional Machine Guns OR 5 Screws"
     },
     
     "201": {
@@ -1390,6 +1403,7 @@
         "name": "Daily Submarines",
         "desc": "Sink 6 Abyssal submarines.",
         "memo": "\u203bEnemy Submarine Suppression!",
+        "unlock": [ 881 ],
         "tracking": [ [0,6] ]
     },
     
@@ -1656,7 +1670,7 @@
         "memo": "\u27a3Rewards a Mamiya"
     },
     "315": {
-        "code": "C12",
+        "code": "C19",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -1690,7 +1704,8 @@
         "code": "C18",
         "name": "Destroyer Division, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards either 2 Screws OR 4 Development Materials"
+        "memo": "\u27a3Rewards either 2 Screws OR 4 Development Materials",
+        "unlock": [ 880 ]
     },
 
     
@@ -1746,7 +1761,7 @@
         "code": "D8",
         "name": "Operation to Contact a Foreign Ship!",
         "desc": "Complete Expedition 31.",
-        "memo": "\u203bOperation to Contact a Foreign Ship via Continued Submarine Dispatches\n\u27a3Rewards the DD Z1; enables Z3 and Bismarck construction"
+        "memo": "\u203bOperation to Contact a Foreign Ship via Continued Submarine Dispatches\n\u27a3Rewards the DD, Z1; enables Z3 and Bismarck construction"
     },
     "410": {
         "code": "D9",
@@ -1968,7 +1983,7 @@
     "674": {
         "code": "F66",
         "name": "Daily AA Gun Dismantlement",
-        "desc": "Have 300 steel. Scrap 3 anti-air machine guns.",
+        "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
         "unlock": [ 675, 676, 677, 803 ],
         "tracking": [ [0,3] ]
@@ -2152,7 +2167,7 @@
     "638": {
         "code": "F34",
         "name": "Weekly AA Gun Dismantlement",
-        "desc": "Scrap 6 anti-air guns. High-angle guns do not count.",
+        "desc": "Scrap 6 AA Machine Guns.",
         "memo": "\u203bAnti-Air Machine Gun Mass Production\n\u27a3Rewards a Screw",
         "unlock": [ 671 ],
         "tracking": [ [0,6] ]
@@ -2367,7 +2382,7 @@
     "675": {
         "code": "F67",
         "name": "Quarterly Interceptor",
-        "desc": "Have 800 Bauxite. Scrap 6 fighter aircraft and 4 anti-air machine guns. Press F10 to clear the overlay.",
+        "desc": "Have 800 Bauxite. Scrap 6 Fighter Aircraft and 4 AA Machine Guns. Press F10 to clear the overlay.",
         "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
     },
     "676": {
@@ -2405,6 +2420,7 @@
         "name": "Quarterly AA Guns",
         "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
         "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
+        "unlock": [ 191, 880 ],
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
     },
@@ -2439,6 +2455,40 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    } 
-    
+    },
+	
+    "681": {
+        "code": "5A01",
+        "name": "Fifth Anniversary Mission I: The Arsenal",
+        "desc": "Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR three 12cm 30-tube Rocket Launchers OR two Shiden Kai Ni\n\u00B6Second choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR a Reinforcement Expansion",
+        "unlock": [ 882 ]
+    },
+    "882": {
+        "code": "5A02",
+        "name": "Fifth Anniversary Mission II: Naval Base Region Patrol",
+        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards the DE, Tsushima\n\u2623CAUTION\u2623You will need this Tsushima reward for the next quest if you lack a modernizable DE.",
+        "unlock": [ 706 ]
+    },
+    "706": {
+        "code": "5A03",
+        "name": "Fifth Anniversary Mission III: Modernization",
+        "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
+        "memo": "\u2718If no stats are boosted, it doesn't count.\n\u2718There is an unknown factor that causes the quest to not count even when a modernization attempt does add a stat.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations.",
+        "unlock": [ 321 ]
+    },
+    "321": {
+        "code": "5A04",
+        "name": "Fifth Anniversary Mission IV: Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Irako OR a +5 Type 95 Depth Charge\n\u00B6Second choice: Either an Action Report OR a +5 12.7cm Twin Gun Mount Model C Kai Ni",
+        "unlock": [ 883 ]
+    },
+    "883": {
+        "code": "5A05",
+        "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
+        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5]",
+        "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
+    }
 }

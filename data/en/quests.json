@@ -2383,7 +2383,9 @@
         "code": "F67",
         "name": "Quarterly Interceptor",
         "desc": "Have 800 Bauxite. Scrap 6 Fighter Aircraft and 4 AA Machine Guns. Press F10 to clear the overlay.",
-        "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws"
+        "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws",
+        "tracking": [ [0,6], [0,4] ],
+        "trackingDesc": [ "{0} Fighter Aircraft", "{0} AA Machine Guns" ]
     },
     "676": {
         "code": "F68",

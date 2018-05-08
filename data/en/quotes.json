@@ -145,6 +145,14 @@
             "10700": "Hatsuharu: \"Oh my goodness gracious, are you noisy! Of course we are ready to weigh anchor whenever you are.\"",
             "16500,29600": "Hatsushimo: \"Y-yes! Hatsushimo, present! Wakaba, All ships of DesDiv 21 are ready to sortie!\""
         },
+        "1191": {
+            "0": "Urakaze: \"17th Destroyer Division, all present and accounted for. Isokaze, your radiance is truly superb!\"",
+            "65000": "Isokaze: \"Alright, let's go.\"",
+            "80000": "Hamakaze: \"No problems on this end. How about you, Tanikaze?\"",
+            "140000": "Tanikaze: \"Oh? What's up? You calling for me? Hmm, what, you should know, I'm always in battle formation!\"",
+            "230000": "Isokaze: \"Ah...yeah...she's fine...\"",
+            "265000": "Urakaze: \"Admiral, we've finished makin' preparations, we're ready 'ta go at any time.\""
+        },
         "1871": {
             "0": "Asashio: \"8th Destroyer Division\u2014<br />All-Out Sortie Mission: complete!\"",
             "4120": "Michishio: \"Heh. With how we are now,<br />this was a piece of cake!\"",
@@ -9580,7 +9588,7 @@
         "2@Xmas": "Merry Christmas~ Commander! Isn't this hat cute? I want a present\u266a",
         "2@WhiteDay": "Commander, thank you! Hmm? The ones that Irako always makes and this... don't tell me...",
         "2@Spring2018": "Of course Fumizuki is Fumizuki, Commander. What about it?",
-		"2@Anniversary2018": "Congratulations, Commander. It's finally the 5th Anniversary now. I'm in a good mood too. Ehehe~"
+        "2@Anniversary2018": "Congratulations, Commander. It's finally the 5th Anniversary now. I'm in a good mood too. Ehehe~"
     },
     "257": {
         "Idle": "Commander, what are you doing? Let's have a little chat\u266a Ah... sorry... Am I bothering you?",
@@ -13179,7 +13187,7 @@
         "Docking(1)": "'ya saved me~",
         "Docking(2)": "Man~, I'm totally beat.",
         "Construction": "There's a new ship brought in.",
-        "Return": "There's a fleet that just completed it's mission.",
+        "Return": "There's a fleet that just completed its mission.",
         "Sortie": "Well~then\u266a Urakaze, headin' out!",
         "Battle": "Naval battle, startin'!",
         "Attack": "Bastards!",

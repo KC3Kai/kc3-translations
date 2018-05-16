@@ -655,6 +655,7 @@
 	"PanelAirContactTip"   : "{0}状態での\n触接成功率：{1}%\n触接開始率：{2}%{4:contactPlanes}\n全スロット選択不発率：{3}%",
 	"PanelAirContactPlanes" : "\n選択判定順TOP{0}のスロット：\n{1:planeRateList}",
 	"PanelAirStrikeTip"    : "{1}航空戦での攻撃力：{0}",
+	"PanelAntiLandPowerTip" : "キャップ前後の対地補正：\n　(... x{0} +{1}) x{2}\n中破時の攻撃力：昼{3} 夜{4}",
 
 	"PanelHasTaiha"      : "大破あり",
 	"PanelFSTaiha"       : "旗艦大破",

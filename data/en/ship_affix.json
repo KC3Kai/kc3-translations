@@ -14,8 +14,8 @@
 		" drei" : " Drei",
 		" due"  : " Due",
 		" два" : " Dva",
-		"後期型": " Late Model",
-		"-壊"   : " - Damaged"
+		"後期型": "{ -}? Late Model",
+		"-壊"   : " (Damaged)"
 	},
 
 	"prefixes": {
@@ -58,8 +58,8 @@
 	},
 
 	"yomi": {
-		"elite"    : " Elite",
-		"flagship" : " Flagship"
+		"elite"    : "{ -}? Elite",
+		"flagship" : "{ -}? Flagship"
 	},
 
 	"ctype": {

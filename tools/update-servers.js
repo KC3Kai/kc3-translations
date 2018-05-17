@@ -11,7 +11,7 @@ const vm = require('vm');
 
 // change this if not execute this under `tools` directory
 const langFolderRoot = '../data';
-const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru', 'scn', 'tcn', 'th', 'ua', 'vi' ];
+const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru', 'scn', 'tcn', 'tcn-yue', 'th', 'ua', 'vi' ];
 const serverJsonFilename = "servers.json";
 const indentChar = '\t';
 const bomChar = '\uFEFF';

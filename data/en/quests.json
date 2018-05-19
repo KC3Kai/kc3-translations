@@ -2458,7 +2458,68 @@
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     },
-	
+
+    "505": {
+        "code": "Su01",
+        "name": "Accounting Department Mission: Time to Make Onigiri!",
+        "desc": "Make an Onigiri using 5 Rice while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "Obtain Rice by farming various maps. Go to the item menu where Medals, Gift Boxes, etc. are shown. Click the upper right > arrow. Select the Rice item, use it, and pick the farthest left choice to make Onigiri.\n\u27a3Rewards either a Searchlight OR 2 Screws",
+        "unlock": [ 506, 507 ]
+    },
+    "506": {
+        "code": "Su02",
+        "name": "Accounting Department Mission: Treat Everyone to Onigiri!",
+        "desc": "Make 3 more Onigiri using 15 Rice while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u2718Consumes the Onigiri.\n\u27a3Rewards either a Type 2 Large-sized Flying Boat OR a Toku Daihatsu Landing Craft OR a 61cm Triple (Oxygen) Torpedo Mount Late Model",
+        "unlock": [ 508 ]
+    },
+    "507": {
+        "code": "Su03",
+        "name": "Accounting Department Mission: Time to Make High-Class Onigiri!",
+        "desc": "Make High-Class Onigiri (2nd option) using 6 Rice, 2 Umeboshi and 3 Nori while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Skilled Lookouts OR two 12cm 30-tube Rocket Launchers OR 7 Buckets",
+        "unlock": [ 508, 509 ]
+    },
+    "508": {
+        "code": "Su04",
+        "name": "Accounting Department Mission: A Care Package! It's High-Class Onigiri",
+        "desc": "Make 2 High-Class Onigiri (2nd option) using 12 Rice, 4 Umeboshi and 6 Nori while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either 3 Type 0 Fighter Model 52s OR 2 Shiden Kai Ni OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Reinforcement Expansion",
+        "unlock": [ 510, 513 ]
+    },
+    "509": {
+        "code": "Su05",
+        "name": "Accounting Department Mission: Let's Make Ochazuke!",
+        "desc": "Make Ochazuke (3rd option) using 8 Rice, 3 Umeboshi, 3 Nori and 4 Tea while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Canned Saury OR 7 Screws OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
+        "unlock": [ 511, 512 ]
+    },
+    "510": {
+        "code": "Su06",
+        "name": "Accounting Department Mission: Here, Have Some Ochazuke for Supper!",
+        "desc": "Make 2 Ochazuke (3rd option) using 16 Rice, 6 Umeboshi, 6 Nori and 8 Tea while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Canned Saury OR a Reinforcement Expansion\n\u00B6Second choice: Either a Canned Saury OR a Type 3 Depth Charge Projector (Concentrated Deployment)"
+    },
+    "511": {
+        "code": "Su07",
+        "name": "Accounting Department Mission: Let's Make Nori Rolls!",
+        "desc": "Acquire 12 Rice and 6 Nori. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Canned Saury and either a 25mm Triple Autocannon Mount OR a 12cm 30-tube Rocket Launcher"
+    },
+    "512": {
+        "code": "Su08",
+        "name": "Accounting Department Mission: Make a Japanese set meal and eat up!",
+        "desc": "Make 3 Onigiri (1st option) and a Japanese Meal Set (4th option) using 26 Rice, 5 Umeboshi, 6 Nori and 7 Tea while this quest is activated.",
+        "memo": "Press F10 to clear the overlay if it blocks the reward choices.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Type 2 Depth Charge and furniture",
+        "unlock": [ 513 ]
+    },
+    "513": {
+        "code": "Su09",
+        "name": "Acc. Dpt. Mission: A Mass Production of Rising Sun Lunch Boxes!",
+        "desc": "Have 50 Rice, 15 Umeboshi and 10 Tea in your inventory. Equip a DD secretary with a 12cm30t Rocket in her first slot and a T2 Depth Charge in her second slot.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Prototype 15cm 9-tube ASW Rocket Launcher"
+    },
+
     "681": {
         "code": "5A01",
         "name": "Fifth Anniversary Mission I: The Arsenal",

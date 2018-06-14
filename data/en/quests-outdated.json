@@ -115,5 +115,101 @@
         "name": "Happy New Year! Carrier Task Force, Sortie at Full Strength!",
         "desc": "Sortie a CV(B/L) as flagship, 2 DD and 3 additional ships to [W5-5]. A-Rank+ the boss node four times. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards furniture and either a Skilled Crew Member OR 2 New Model Aviation Armament Materials OR 3 Shiden Kai Ni"
+    },
+
+    "505": {
+        "code": "Su01",
+        "name": "Accounting Department Mission: Time to Make Onigiri!",
+        "desc": "Make an Onigiri using 5 Rice while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "Obtain Rice by farming various maps. Go to the item menu where Medals, Gift Boxes, etc. are shown. Click the upper right > arrow. Select the Rice item, use it, and pick the farthest left choice to make Onigiri.\n\u27a3Rewards either a Searchlight OR 2 Screws",
+        "unlock": [ 506, 507 ]
+    },
+    "506": {
+        "code": "Su02",
+        "name": "Accounting Department Mission: Treat Everyone to Onigiri!",
+        "desc": "Make 3 more Onigiri using 15 Rice while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u2718Consumes the Onigiri.\n\u27a3Rewards either a Type 2 Large-sized Flying Boat OR a Toku Daihatsu Landing Craft OR a 61cm Triple (Oxygen) Torpedo Mount Late Model",
+        "unlock": [ 508 ]
+    },
+    "507": {
+        "code": "Su03",
+        "name": "Accounting Department Mission: Time to Make High-Class Onigiri!",
+        "desc": "Make High-Class Onigiri (2nd option) using 6 Rice, 2 Umeboshi and 3 Nori while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Skilled Lookouts OR two 12cm 30-tube Rocket Launchers OR 7 Buckets",
+        "unlock": [ 508, 509 ]
+    },
+    "508": {
+        "code": "Su04",
+        "name": "Accounting Department Mission: A Care Package! It's High-Class Onigiri",
+        "desc": "Make 2 High-Class Onigiri (2nd option) using 12 Rice, 4 Umeboshi and 6 Nori while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 3 Type 0 Fighter Model 52s OR 2 Shiden Kai Ni OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Reinforcement Expansion",
+        "unlock": [ 510, 513 ]
+    },
+    "509": {
+        "code": "Su05",
+        "name": "Accounting Department Mission: Let's Make Ochazuke!",
+        "desc": "Make Ochazuke (3rd option) using 8 Rice, 3 Umeboshi, 3 Nori and 4 Tea while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Canned Saury OR 7 Screws OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
+        "unlock": [ 511, 512 ]
+    },
+    "510": {
+        "code": "Su06",
+        "name": "Accounting Department Mission: Here, Have Some Ochazuke for Supper!",
+        "desc": "Make 2 Ochazuke (3rd option) using 16 Rice, 6 Umeboshi, 6 Nori and 8 Tea while this quest is activated. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Canned Saury OR a Reinforcement Expansion\n\u00B6Second choice: Either a Canned Saury OR a Type 3 Depth Charge Projector (Concentrated Deployment)"
+    },
+    "511": {
+        "code": "Su07",
+        "name": "Accounting Department Mission: Let's Make Nori Rolls!",
+        "desc": "Have 12 Rice and 6 Nori in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u2718Consumes the food.\n\u27a3Rewards a Canned Saury and either a 25mm Triple Autocannon Mount OR a 12cm 30-tube Rocket Launcher"
+    },
+    "512": {
+        "code": "Su08",
+        "name": "Accounting Department Mission: Make a Japanese Set Meal and Eat Up!",
+        "desc": "Make 3 Onigiri (1st option) and a Japanese Meal Set (4th option) using 24 Rice, 5 Umeboshi, 6 Nori, 7 Tea and 1 Canned Saury while this quest is activated.",
+        "memo": "\u27a3Rewards a Type 2 Depth Charge and furniture",
+        "unlock": [ 513 ]
+    },
+    "513": {
+        "code": "Su09",
+        "name": "Acc. Dpt. Mission: A Mass Production of Rising Sun Lunch Boxes!",
+        "desc": "Have 50 Rice, 15 Umeboshi and 10 Tea in your inventory. Equip a DD secretary with a 12cm30t Rocket in her first slot and a T2 Depth Charge in any other slot.",
+        "memo": "\u2718Consumes the food and the rocket Launcher, but not the depth charge.\n\u27a3Rewards a Prototype 15cm 9-tube ASW Rocket Launcher"
+    },
+
+    "681": {
+        "code": "5A01",
+        "name": "Fifth Anniversary Mission I: The Arsenal",
+        "desc": "Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR three 12cm 30-tube Rocket Launchers OR two Shiden Kai Ni\n\u00B6Second choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR a Reinforcement Expansion",
+        "unlock": [ 882 ]
+    },
+    "882": {
+        "code": "5A02",
+        "name": "Fifth Anniversary Mission II: Naval Base Region Patrol",
+        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
+        "memo": "\u27a3Rewards the DE, Tsushima\n\u2623CAUTION\u2623You will need this Tsushima reward for the next quest if you lack a modernizable DE.",
+        "unlock": [ 706 ]
+    },
+    "706": {
+        "code": "5A03",
+        "name": "Fifth Anniversary Mission III: Modernization",
+        "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
+        "memo": "\u2718If no stats are boosted, it doesn't count.\n\u2718There is an unknown factor that causes the quest to not count even when a modernization attempt does add a stat.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations.",
+        "unlock": [ 321 ]
+    },
+    "321": {
+        "code": "5A04",
+        "name": "Fifth Anniversary Mission IV: Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Irako OR a +5 Type 95 Depth Charge\n\u00B6Second choice: Either an Action Report OR a +5 12.7cm Twin Gun Mount Model C Kai Ni",
+        "unlock": [ 883 ]
+    },
+    "883": {
+        "code": "5A05",
+        "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
+        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5]",
+        "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
     }
 }

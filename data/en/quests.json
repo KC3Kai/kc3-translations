@@ -568,6 +568,13 @@
         "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
         "unlock": [ 881 ]
     },
+    "193": {
+        "code": "A88",
+        "name": "Supreme Type-A Destroyers, Assemble!",
+        "desc": "Have Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni and three level 70+ Kagerou/Yuugumo-class DD in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 323 ]
+    },
     
     "202": {
         "code": "B1",
@@ -1344,6 +1351,24 @@
         "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai, Shiranui Kai and up to 2 additional ships to [W3-2]. S-Rank the boss node twice. Press F10 to clear the overlay.",
         "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards either a Daihatsu Landing Craft OR a 10cm Twin High-angle Gun Mount Kai + Additional Machine Guns OR 5 Screws"
     },
+    "884": {
+        "code": "B117",
+        "name": "Supreme Type-A Destroyers, Rush Them! Break Through Their Ranks!",
+        "desc": "Sortie Kagerou Kai Ni OR Shiranui Kai Ni OR Kuroshio Kai Ni as flagship and 2 Lv75+ Kagerou/Yuugumo-class to [W3-2], [W4-2] and [W5-3]. S-Rank each boss node twice.",
+        "memo": "You may bring up to 3 additional ships.\nPress F10 to clear the overlay.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR an Action Report\n\u00B6Second choice: Either two Medals OR a Prototype Flight Deck Catapult OR a 12.7cm Twin Gun Mount Model D Kai Ni"
+    },
+    "885": {
+        "code": "B118",
+        "name": "Battle Carrier, Sortie!",
+        "desc": "Sortie Ise Kai Ni as flagship and up to 5 additional ships to [W3-5], [W4-5] and [W6-4]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Skilled Crew Member OR a New Model Aviation Armament Materials OR 4 Screws\n\u00B6Second choice: Either a Zuiun (634 Air Group) OR a Suisei Model 22 (634 Air Group) OR two New Model Artillery Armament Materials"
+    },
+    "886": {
+        "code": "B119",
+        "name": "Ise Kai Ni, Intercept the Enemy Task Force!",
+        "desc": "Sortie Ise Kai Ni as flagship, 2 DD and 3 up to additional ships to [W6-5]. S-Rank the boss node 3 times. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either three Type 96 Fighters OR three Type 99 Dive Bombers OR two Type 0 Fighter Model 21s\n\u00B6Second choice: Either two Shiden Kai Ni OR a Medal OR an Action Report"
+    },
     
     "201": {
         "code": "Bd1",
@@ -1707,6 +1732,26 @@
         "memo": "\u27a3Rewards either 2 Screws OR 4 Development Materials",
         "unlock": [ 880 ]
     },
+    "322": {
+        "code": "C22",
+        "name": "Kaiboukan, Commence Exercises!",
+        "desc": "Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a Reinforcement Expansion OR a Medal"
+    },
+    "323": {
+        "code": "C20",
+        "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
+        "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships. F10 will clear the overlay. ",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR an Action Report",
+        "unlock": [ 884 ]
+    },
+    "324": {
+        "code": "C21",
+        "name": "Battle Carrier Lead Ship, Commence Exercises!",
+        "desc": "Secure 3 victories in Exercises within the same day using Ise Kai Ni, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Suisei OR two Zuiun OR a Type 2 Reconnaissance Aircraft\n\u00B6Second choice: Either two Type 22 Surface Radars OR two 12cm 30-tube Rocket Launchers OR a New Model Artillery Armament Materials",
+        "unlock": [ 683, 885, 886 ]
+    },
 
     
     "401": {
@@ -1893,6 +1938,12 @@
         "memo": "\u27a3Rewards 2 Underway Replenishments",
         "unlock": [ 187, 871 ]
     },
+    "430": {
+        "code": "D28",
+        "name": "Kaiboukan, Advance!",
+        "desc": "Complete Expeditions 5, 9, A1 and A2.",
+        "memo": "\u27a3Rewards an Irako and either two Underway Replenishments OR 8 Buckets OR 4 Screws"
+    },
     
     
     "501": {
@@ -1920,9 +1971,7 @@
         "memo": "\u203bThe Fleet Mess Hall Feast!",
         "tracking": [ [0,15] ]
     },
-    
-    
-    
+
     
     
     "605": {
@@ -2426,6 +2475,25 @@
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
     },
+    "682": {
+        "code": "F74",
+        "name": "The Kaiboukan Consolidation Plan",
+        "desc": "Have 500 Fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR four Development Materials OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either DE Matsuwa OR DE Etorofu",
+        "unlock": [ 322, 430 ]
+    },
+    "683": {
+        "code": "F73",
+        "name": "Research on a New Type of Main Battery for Aviation Battleships",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max Prototype 41cm Triple Gun Mount.",
+        "memo": "Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials.\nSet Ise Kai Ni as secretary and equip her with a \u2605max Prototype 41cm Triple Gun Mount in her FIRST slot.\nScrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 41cm Triple Gun Mount Kai Ni"
+    },
+    "684": {
+        "code": "F75",
+        "name": "The Formation of an Elite Aviation Battleship Suisei Squadron",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a Suisei Model 22 (634 Air Group).",
+        "memo": "Have 3000 Bauxite, 40 Development Materials, a New Model Aviation Armament Materials and a Skilled Crew Member.\nSet Ise Kai Ni as secretary and equip her with a Suisei Model 22 (634 Air Group) in her THIRD slot.\nScrap three Type 99 Dive Bombers and three Suisei.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Suisei Model 22 (634 Air Group / Skilled)"
+    },
 
     "701": {
         "code": "G1",
@@ -2457,101 +2525,5 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    },
-
-    "505": {
-        "code": "Su01",
-        "name": "Accounting Department Mission: Time to Make Onigiri!",
-        "desc": "Make an Onigiri using 5 Rice while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "Obtain Rice by farming various maps. Go to the item menu where Medals, Gift Boxes, etc. are shown. Click the upper right > arrow. Select the Rice item, use it, and pick the farthest left choice to make Onigiri.\n\u27a3Rewards either a Searchlight OR 2 Screws",
-        "unlock": [ 506, 507 ]
-    },
-    "506": {
-        "code": "Su02",
-        "name": "Accounting Department Mission: Treat Everyone to Onigiri!",
-        "desc": "Make 3 more Onigiri using 15 Rice while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "\u2718Consumes the Onigiri.\n\u27a3Rewards either a Type 2 Large-sized Flying Boat OR a Toku Daihatsu Landing Craft OR a 61cm Triple (Oxygen) Torpedo Mount Late Model",
-        "unlock": [ 508 ]
-    },
-    "507": {
-        "code": "Su03",
-        "name": "Accounting Department Mission: Time to Make High-Class Onigiri!",
-        "desc": "Make High-Class Onigiri (2nd option) using 6 Rice, 2 Umeboshi and 3 Nori while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either a Skilled Lookouts OR two 12cm 30-tube Rocket Launchers OR 7 Buckets",
-        "unlock": [ 508, 509 ]
-    },
-    "508": {
-        "code": "Su04",
-        "name": "Accounting Department Mission: A Care Package! It's High-Class Onigiri",
-        "desc": "Make 2 High-Class Onigiri (2nd option) using 12 Rice, 4 Umeboshi and 6 Nori while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either 3 Type 0 Fighter Model 52s OR 2 Shiden Kai Ni OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Reinforcement Expansion",
-        "unlock": [ 510, 513 ]
-    },
-    "509": {
-        "code": "Su05",
-        "name": "Accounting Department Mission: Let's Make Ochazuke!",
-        "desc": "Make Ochazuke (3rd option) using 8 Rice, 3 Umeboshi, 3 Nori and 4 Tea while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either a Canned Saury OR 7 Screws OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
-        "unlock": [ 511, 512 ]
-    },
-    "510": {
-        "code": "Su06",
-        "name": "Accounting Department Mission: Here, Have Some Ochazuke for Supper!",
-        "desc": "Make 2 Ochazuke (3rd option) using 16 Rice, 6 Umeboshi, 6 Nori and 8 Tea while this quest is activated. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Canned Saury OR a Reinforcement Expansion\n\u00B6Second choice: Either a Canned Saury OR a Type 3 Depth Charge Projector (Concentrated Deployment)"
-    },
-    "511": {
-        "code": "Su07",
-        "name": "Accounting Department Mission: Let's Make Nori Rolls!",
-        "desc": "Acquire 12 Rice and 6 Nori. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Canned Saury and either a 25mm Triple Autocannon Mount OR a 12cm 30-tube Rocket Launcher"
-    },
-    "512": {
-        "code": "Su08",
-        "name": "Accounting Department Mission: Make a Japanese set meal and eat up!",
-        "desc": "Make 3 Onigiri (1st option) and a Japanese Meal Set (4th option) using 26 Rice, 5 Umeboshi, 6 Nori and 7 Tea while this quest is activated.",
-        "memo": "Press F10 to clear the overlay if it blocks the reward choices.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Type 2 Depth Charge and furniture",
-        "unlock": [ 513 ]
-    },
-    "513": {
-        "code": "Su09",
-        "name": "Acc. Dpt. Mission: A Mass Production of Rising Sun Lunch Boxes!",
-        "desc": "Have 50 Rice, 15 Umeboshi and 10 Tea in your inventory. Equip a DD secretary with a 12cm30t Rocket in her first slot and a T2 Depth Charge in her second slot.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Prototype 15cm 9-tube ASW Rocket Launcher"
-    },
-
-    "681": {
-        "code": "5A01",
-        "name": "Fifth Anniversary Mission I: The Arsenal",
-        "desc": "Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR three 12cm 30-tube Rocket Launchers OR two Shiden Kai Ni\n\u00B6Second choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR a Reinforcement Expansion",
-        "unlock": [ 882 ]
-    },
-    "882": {
-        "code": "5A02",
-        "name": "Fifth Anniversary Mission II: Naval Base Region Patrol",
-        "desc": "Sortie a CL(T)/CT as flagship and 3 or more DD/DE to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ the boss nodes of each.",
-        "memo": "\u27a3Rewards the DE, Tsushima\n\u2623CAUTION\u2623You will need this Tsushima reward for the next quest if you lack a modernizable DE.",
-        "unlock": [ 706 ]
-    },
-    "706": {
-        "code": "5A03",
-        "name": "Fifth Anniversary Mission III: Modernization",
-        "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice. Press F10 to clear the overlay that blocks the reward selection screen.",
-        "memo": "\u2718If no stats are boosted, it doesn't count.\n\u2718There is an unknown factor that causes the quest to not count even when a modernization attempt does add a stat.\n\u2718Consumes the resources.\n\u27a3Rewards furniture and either ten Buckets, five Screws, or five Combat Rations.",
-        "unlock": [ 321 ]
-    },
-    "321": {
-        "code": "5A04",
-        "name": "Fifth Anniversary Mission IV: Exercises",
-        "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Irako OR a +5 Type 95 Depth Charge\n\u00B6Second choice: Either an Action Report OR a +5 12.7cm Twin Gun Mount Model C Kai Ni",
-        "unlock": [ 883 ]
-    },
-    "883": {
-        "code": "5A05",
-        "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
-        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5]",
-        "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
     }
 }

@@ -676,6 +676,7 @@
 	"PanelAirContactTip" : "สำหรับ {0:airControl}:\n\u2003 โอกาสติดต่อสำเร็จ: {1}%\n\u2003 โอกาสติดทริคเกอร์ : {2}%\n\u2003 โอกาสล้มเหลว: {3}%{4:contactPlanes}",
 	"PanelAirContactPlanes" : "\nลำดับความสำคัญของเครื่องบิน {0}:\n{1:planeRateList}",
 	"PanelAirStrikeTip" : "{1:airContact} น่านฟ้า: {0}",
+	"PanelAntiLandPowerTip" : "ต่อต้านบอสประเภทฐานทัพ:\n\u2003(... ก่อนเพดาน) หลังเพดาน\n\u2003(... x{0} +{1}) x{2}\nเสียหาย: {3} / {4}",
 
 	"PanelHasTaiha" : "เสียหายหนัก",
 	"PanelFSTaiha" : "เสียหายหนัก",

@@ -1,84 +1,121 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "best", "Alle Aufklärungsflieger überleben"],
-		["OK-", "good", "Einige Aufklärungsflieger verloren"],
-		["-", "worst", "Alle Aufklärungsflieger verloren"],
-		["NO", "bad", "Keine Aufklärung"],
+		["OK", "best", "Alle Aufklärungsflugzeuge zurückgekehrt"],
+		["OK-", "good", "Einige Aufklärungsflugzeuge verloren"],
+		["-", "worst", "Alle Aufklärungsflugzeuge verloren"],
+		["NO", "bad", "Aufklärung gescheitert"],
 		["OK+", "good", "Keine Aufklärung durchgeführt"],
 		["NO+", "bad", "Keine Aufklärung durchgeführt"]
 	],
-
+	
 	"airbattle" : [
-		["AP", "", "günstige Luftlage"],
+		["AP", "", "Luftparität"],
 		["AS+", "best", "Luftherrschaft"],
 		["AS", "good", "Luftüberlegenheit"],
 		["AD", "bad", "Luftunterlegenheit"],
-		["AI", "worst", "Luftkampfweigerung"],
-		["None", "", "No Air Battle"]
+		["AI", "worst", "Luftraum Verweigerung"],
+		["None", "", "Kein Luft Kampf"]
 	],
-
+	
 	"engagement" : [
-		["", "", ""],
-		["Prll", "", "Parallel"],
-		["Frtl", "", "Frontal"],
-		["Gr-T", "good", "Grünes T"],
-		["Rd-T", "bad", "Rotes T"]
+		["", "", "", ""],
+		["Prll", "", "Parallel", "100% Schaden"],
+		["HdOn", "", "Head-on", "<span style='color:orange'>80% Schaden</span>"],
+		["Gr-T", "good", "Grünes T", "<span style='color:green'>120% Schaden</span>"],
+		["Rd-T", "bad", "Rotes T", "<span style='color:red'>60% Schaden</span>"]
 	],
-
-	"formation" : [ "",
+	
+	"formation" : [
+		"",
 		"Linie voraus",
 		"Doppellinie",
 		"Diamant",
 		"Echelon",
 		"Linie seitlich",
-		"","","","","",
-		"Fahrtformation 1 (Anti-U-Boot)",
-		"Fahrtformation 2 (vorwärts)",
+		"Vorhut",
+		"","","","",
+		"Fahrtformation 1 (U-Boot Abwehr)",
+		"Fahrtformation 2 (Vorwärts)",
 		"Fahrtformation 3 (Diamant)",
 		"Fahrtformation 4 (Kampf)",
 		"","","","","","",
-		"Fahrtformation 1 (Anti-U-Boot)",
-		"Fahrtformation 2 (vorwärts)",
+		"Fahrtformation 1 (U-Boot Abwehr)",
+		"Fahrtformation 2 (Vorwärts)",
 		"Fahrtformation 3 (Diamant)",
 		"Fahrtformation 4 (Kampf)"
 	],
-
-	"support" : [ "",
+	
+	"support" : [
+		"",
 		"Luftunterstützung",
-		"Unterstützung durch Beschuss",
-		"Torpedoattacke"
+		"Feuerunterstützung",
+		"Torpedo Angriff",
+		"ASW Unterstützung"
 	],
-
-	"airraiddamage" : [ "",
+	
+	"airraiddamage" : [
+		"",
 		"Ressourcen",
 		"Ressourcen & LBAS",
 		"LBAS",
 		"Kein Schaden"
 	],
-
-	"aacitype" : [ [],
-		["Akizuki-Klasse","Steilfeuergeschütz","Steilfeuergeschütz","Luftabwehrradar"],
-		["Akizuki-Klasse","Steilfeuergeschütz","Luftabwehrradar"],
-		["Akizuki-Klasse","Steilfeuergeschütz","Steilfeuergeschütz"],
-		["Schlachtschiffe","Großkalibriges Hauptgeschütz","Typ 3 Granate","Luftabwehr-Richtgerät","Luftabwehrradar"],
-		["","Steilfeuergeschütz+Luftabwehr-Richtgerät","Steilfeuergeschütz+Luftabwehr-Richtgerät","Luftabwehrradar"],
-		["Schlachtschiffe","Großkalibriges Hauptgeschütz","Typ 3 Granate","Luftabwehr-Richtgerät"],
-		["","Steilfeuergeschütz","Luftabwehr-Richtgerät","Luftabwehrradar"],
-		["","Steilfeuergeschütz+Luftabwehr-Richtgerät","Luftabwehrradar"],
-		["","Steilfeuergeschütz","Luftabwehr-Richtgerät"],
-		["Maya Kai Ni","Steilfeuergeschütz","Maschinenkanone mit Geschützgruppe","Luftabwehrradar"],
-		["Maya Kai Ni","Steilfeuergeschütz","Maschinenkanone mit Geschützgruppe"],
-		["","Maschinenkanone mit Geschützgruppe","Maschinengewehr","Luftabwehrradar"],
+	
+	"cutinDay" : [
+		"",
+		"AAser",
+		"D Attack [1.2x2]",
+		"Sec CI [1.1]",
+		"Radar CI [1.2]",
+		"Sec/AP CI [1.3]",
+		"Mixed AP CI [1.5]",
+		"CVCI [1.15~1.25]"
+	],
+	
+	"cutinNight" : [
+		"",
+		"D Attack [1.2x2]",
+		"Mixed CI [1.3x2]",
+		"Torp CI [1.5~x2]",
+		"Sec CI [1.75x1]",
+		"Main Gun CI [2.0x1]",
+		"CVCI [1.18~1.25]",
+		"DD Main CI [1.3~x1]",
+		"DD Lookout CI [1.25x1]"
+	],
+	
+	"aacitype" : [
 		[],
-		["Isuzu Kai Ni","Steilfeuergeschütz","Maschinengewehr","Luftabwehrradar"],
-		["Isuzu Kai Ni","Steilfeuergeschütz","Maschinengewehr"],
-		["Kasumi Kai Ni B","Steilfeuergeschütz","Maschinengewehr","Luftabwehrradar"],
-		["Kasumi Kai Ni B","Steilfeuergeschütz","Maschinengewehr"],
-		["Satsuki Kai Ni","Maschinenkanone mit Geschützgruppe"],
-		["Kinu Kai Ni","Steilfeuergeschütz (mit/ohne Luftabwehr-Richtgerät)","Maschinenkanone mit Geschützgruppe"],
-		["Kinu Kai Ni","Maschinenkanone mit Geschützgruppe"],
+		["Akizuki-Klasse", "Steilfeuergeschütz", "Steilfeuergeschütz", "Radar"],
+		["Akizuki-Klasse", "Steilfeuergeschütz", "Radar"],
+		["Akizuki-Klasse", "Steilfeuergeschütz", "Steilfeuergeschütz"],
+		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Type 3 Granate", "Luftabwehr-Richtgerät", "Luftabwehrradar"],
+		["", "Steilfeuergeschütz", "Steilfeuergeschütz", "Luftabwehrradar"],
+		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Type 3 Granate", "Luftabwehr-Richtgerät"],
+		["", "Steilfeuergeschütz", "Luftabwehr-Richtgerät", "Luftabwehrradar"],
+		["", "Steilfeuergeschütz", "Luftabwehrradar"],
+		["", "Steilfeuergeschütz", "Luftabwehr-Richtgerät"],
+		["Maya Kai Ni", "Steilfeuergeschütz", "CD AA Maschinengewehr", "Luftabwehrradar"],
+		["Maya Kai Ni", "Steilfeuergeschütz", "CD AA Maschinengewehr"],
+		["", "CD AA Maschinengewehr", "AA Maschinengewehr", "Luftabwehrradar"],
+		[],
+		["Isuzu Kai Ni", "Steilfeuergeschütz", "AA Maschinengewehr", "Luftabwehrradar"],
+		["Isuzu Kai Ni", "Steilfeuergeschütz", "AA Maschinengewehr"],
+		["Kasumi Kai Ni B", "Steilfeuergeschütz", "AA Maschinengewehr", "Luftabwehrradar"],
+		["Kasumi Kai Ni B", "Steilfeuergeschütz", "AA Maschinengewehr"],
+		["Satsuki Kai Ni", "CD AA Maschinengewehr"],
+		["Kinu Kai Ni", "Steilfeuergeschütz (w/o  FD)", "CD AA Maschinengewehr"],
+		["Kinu Kai Ni", "CD AA Maschinengewehr"],
+		["Yura Kai Ni", "Steilfeuergeschütz", "Luftabwehrradar"],
+		["Fumizuki Kai Ni", "CD AA Maschinengewehr"],
+		["UIT-25, I-504", "Non-CD AA Maschinengewehr"],
+		["Tatsuta Kai Ni", "Steilfeuergeschütz", "Non-CD AA Maschinengewehr"],
+		["Ise-Klasse Kai+", "12cm 30-Rohr Raketenwerfer Kai Ni", "Luftabwehrradar", "Type 3 Granate"],
+		["Musashi Kai Ni", "10cm Zwillings Steilfeuergeschütz Kai + Zusätzliche Maschinengewehre", "Luftabwehrradar"],
+		[],
+		["Musashi Kai+, Ise-Klasse Kai+", "12cm 30-Rohr Raketenwerfer Kai Ni", "Luftabwehrradar"],
+		["Kagerou-Klasse B Kai", "Steilfeuergeschütz", "Luftabwehrradar"],
 		[]
 	]
-
 }

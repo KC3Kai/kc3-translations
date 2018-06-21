@@ -8,8 +8,9 @@
 		["OK+", "good", "Keine Aufklärung durchgeführt"],
 		["NO+", "bad", "Keine Aufklärung durchgeführt"]
 	],
+	
+	"airbattle" : [
 
-	"airbattle": [
 		["AP", "", "Luftparität"],
 		["AS+", "best", "Luftherrschaft"],
 		["AS", "good", "Luftüberlegenheit"],
@@ -34,27 +35,28 @@
 		"Echelon",
 		"Linie seitlich",
 		"Vorhut",
-		"", "", "", "", "",
+		"","","","","",
 		"Fahrtformation 1 (U-Boot-Abwehr)",
 		"Fahrtformation 2 (Vorwärts)",
 		"Fahrtformation 3 (Diamant)",
 		"Fahrtformation 4 (Kampf)",
-		"", "", "", "", "", "",
+		"","","","","","",
 		"Fahrtformation 1 (U-Boot-Abwehr)",
 		"Fahrtformation 2 (Vorwärts)",
 		"Fahrtformation 3 (Diamant)",
 		"Fahrtformation 4 (Kampf)"
 	],
 
-	"support": [
+
+	"support" :  [
 		"",
 		"Luftunterstützung",
 		"Feuerunterstützung",
 		"Torpedoangriff",
-		"U-Jagd Unterstützung"
+		"U-Jagd-Unterstützung"
 	],
 
-	"airraiddamage": [
+	"airraiddamage" : [
 		"",
 		"Ressourcen",
 		"Ressourcen & Flugstützpunkt",
@@ -90,9 +92,9 @@
 		["Akizuki-Klasse", "Steilfeuergeschütz", "Steilfeuergeschütz", "Radar"],
 		["Akizuki-Klasse", "Steilfeuergeschütz", "Radar"],
 		["Akizuki-Klasse", "Steilfeuergeschütz", "Steilfeuergeschütz"],
-		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Typ 3 Granate", "Feuerleitgerät", "Luftabwehrradar"],
+		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Typ-3-Granate", "Feuerleitgerät", "Luftabwehrradar"],
 		["", "Steilfeuergeschütz+Feuerleitgerät", "Steilfeuergeschütz+Feuerleitgerät", "Luftabwehrradar"],
-		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Typ 3 Granate", "Feuerleitgerät"],
+		["Schlachtschiffe", "Großkalibriges Hauptgeschütz", "Typ-3-Granate", "Feuerleitgerät"],
 		["", "Steilfeuergeschütz", "Feuerleitgerät", "Luftabwehrradar"],
 		["", "Steilfeuergeschütz+Feuerleitgerät", "Luftabwehrradar"],
 		["", "Steilfeuergeschütz", "Feuerleitgerät"],
@@ -111,10 +113,10 @@
 		["Fumizuki Kai Ni", "Luftabwehrkanone mit Geschützgruppe"],
 		["UIT-25, I-504", "Luftabwehrkanone (ohne Geschützgruppe)"],
 		["Tatsuta Kai Ni", "Steilfeuergeschütz", "Luftabwehrkanone (ohne Geschützgruppe)"],
-		["Ise-Klasse Kai+", "12cm Dreißig-Rohre Raketenwerfer Kai Ni", "Luftabwehrradar", "Typ 3 Granate"],
+		["Ise-Klasse Kai+", "12cm Dreißig-Rohre Raketenwerfer Kai Ni", "Luftabwehrradar", "Typ-3-Granate"],
 		["Musashi Kai Ni", "10cm Steilfeuer-Zwillingsgeschütz Kai + zusätzliche Luftabwehrkanonen", "Luftabwehrradar"],
 		[],
-		["Musashi Kai+, Ise-Klasse Kai+", "12cm Dreißig-Rohre Raketenwerfer Kai Ni", "Luftabwehrradar"],
+		["Musashi Kai+, Ise-Klasse Kai+", "12cm 30-Rohr Raketenwerfer Kai Ni", "Luftabwehrradar"],
 		["Kagerou-Klasse B Kai", "Steilfeuergeschütz", "Luftabwehrradar"],
 		[]
 	]

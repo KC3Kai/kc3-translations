@@ -20,48 +20,48 @@
 
 	"prefixes": {
 		"正月"         : "Neujahr ",
-		"Valentine"    : "Valentins ",
-		"バレンタイン" : "Valentins ",
+		"Valentine"    : "Valentinstag ",
+		"バレンタイン" : "Valentinstag ",
 		"節分"         : "Setsubun ",
-		"桃節句"       : "Hinamatsuri ",
-		"牛丼"         : "White Day ",
-		"お出掛け"     : "Frühlings Freizeit Outfit ",
-		"春の私服"     : "Frühlings Freizeit Outfit ",
+		"桃節句"       : "Puppenfest ",
+		"牛丼"         : "Rindfleisch-Donburi ",
+		"お出掛け"     : "Ausflug ",
+		"春の私服"     : "Lässige Frühlingskleidung ",
 		"梅雨"         : "Regenzeit ",
 		"夏2017"       : "Sommer 2017 ",
 		"夏2016"       : "Sommer 2016 ",
 		"夏"           : "Sommer ",
 		"炒飯"         : "Gebratener Reis ",
-		"瑞雲"         : "Zuiun Fest ",
-		"水着"         : "Sommer ",
+		"瑞雲"         : "Zuiun-Fest ",
+		"水着"         : "Badekleidung ",
 		"浴衣"         : "Yukata ",
-		"法被"         : "Akimatsuri Happi ",
-		"秋刀魚"       : "Saury ",
-		"秋の味覚"     : "Herbst ",
-		"秋の私服"     : "Herbst Freizeit Outfit ",
-		"晩秋の私服"   : "Herbst Freizeit Outfit ",
+		"法被"         : "Herbstfest-Happi ",
+		"秋刀魚"       : "Makrelen ",
+		"秋の味覚"     : "Geschmack des Herbsts ",
+		"秋の私服"     : "lässige Herbstkleidung ",
+		"晩秋の私服"   : "lässige Herbstkleidung ",
 		"オクトーバーフェスト" : "Oktoberfest ",
 		"ハロウィン"   : "Halloween ",
 		"Xmas"         : "Weihnachten ",
 		"クリスマス"   : "Weihnachten ",
-		"修羅場"       : "Crunch Time ",
-		"超修羅場"     : "Crunch Time ",
-		"打ち上げ"     : "Post Party ",
-		"大掃除"       : "Jahresende ",
-		"売り子"       : "Jahresende ",
-		"記念日"       : "Jahrestag ",
-		"買い物"       : "Wein ",
+		"修羅場"       : "Überstunden ",
+		"超修羅場"     : "noch mehr Überstunden ",
+		"打ち上げ"     : "Abschlussfeier ",
+		"大掃除"       : "Frühjahrsputz ",
+		"売り子"       : "Verkäuferin ",
+		"記念日"       : "Jubiläum ",
+		"買い物"       : "Einkauf ",
 		"買い出し"     : "Shopping ",
 		"親子丼"       : "Oyakodon ",
-		"携帯"         : "Mobile ",
-		"観艦式"       : "Naval Review ",
-		"海峡突入"     : "Herbst 2017 Event ",
-		"決戦"         : "Winter 2018 Event "
+		"携帯"         : "Smartphone ",
+		"観艦式"       : "Flottenschau ",
+		"海峡突入"     : "Herbstevent 2017 ",
+		"決戦"         : "Winterevent 2018 "
 	},
 
 	"yomi": {
-		"elite"    : "{ -}? Elite",
-		"flagship" : "{ -}? Flaggschiff"
+		"elite"    : " Elite",
+		"flagship" : " Flaggschiff"
 	},
 
 	"ctype": {
@@ -71,8 +71,8 @@
 		"丁"   : " D",
 		"改二" : " Kai Ni",
 		"改"   : " Kai",
-		"型"   : " Klasse",
-		"級"   : " Klasse"
+		"型"   : "-Klasse",
+		"級"   : "-Klasse"
 	}
 
 }

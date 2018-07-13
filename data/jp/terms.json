@@ -369,7 +369,7 @@
 	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "送信する",
 
-	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://swaytwig.com/opendb/)",
+	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://opendb.swaytwig.com/)",
 	"SettingsEnableOpenDBSubmission" : "送信する",
 
 	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
@@ -642,6 +642,7 @@
 	"PanelHighestAkashi"   : "最大の泊地修理時間",
 	"PanelRepairMoreDays"  : "24時間以上",
 	"PanelRepairing"       : "修理中...",
+	"PanelLastHomePort"    : "母港の時刻",
 	"PanelCombinedShipBarsHint" : "次のLvまで：{0} exp\n残り燃料：{1}%、弾薬：{2}%",
 	"PanelNextRemodelLv"   : "次の改造可能Lv {0}",
 	"PanelPossibleRemodel" : "すでに改造可能",

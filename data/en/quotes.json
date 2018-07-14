@@ -7377,6 +7377,10 @@
         "Married": "Ahh? Well, that's just the kinda guy you are. It's all good!",
         "Supply": "Oh! I'll take it!"
     },
+    "477": {
+        "Poke(1)": "I gotta get going.",
+        "Yasen(1)": "Alright, it's time to show you my grand charge!"
+    },
     "52": {
         "Intro": "Nice to meet you, I'm Tatsuta~. I hope Tenryuu-chan hasn't been causing you trouble?",
         "Library": "Light cruiser Tatsuta, second of Tenryuu class. I come from Sasebo. I hope Tenryuu-chan hasn't been causing everybody trouble? You really can't take your eyes off that girl, right? Huh? Me? Well, I'm not particularly fond of submarines~",
@@ -11425,6 +11429,24 @@
         "3@Setsubun2018": "It...it's not like I'm interested at all!",
         "4@Setsubun2018": "Mu-Murasame! You think it's fine just to leave your big sister behind like that? Ju...Just...Just you watch! I'm going to get the best, greatest Kai Ni ever! I'm sure of it!"
     },
+    "497": {
+        "Intro": "Admiral, I'm Shiratsuyu, who just received the greatest remodel. I'm definitely the number one ship. Now, let's go!",
+        "Poke(1)": "What is it? Is it my turn? Of course!",
+        "Poke(2)": "Did you call for the number one? Ehehehe, leave it all to me.",
+        "Ranking": "You want to see the intelligence, Admiral? Alright. Here! Hey, lemme see.",
+        "Join": "Now, let's get to work!",
+        "Equip(1)": "Ehehehe, this is definitely it! Thanks, Akashi.",
+        "Equip(2)": "You'll set me up with the best equipment right, Admiral? Really? Hooray!",
+        "Equip(3)": "I'm number one!",
+        "Supply": "I really love rice! I'm going to eat lots! Thanks for the food!",
+        "Docking(1)": "Aaah, I'm going for a short bath. Want to join me? ...I-I'm just kidding.",
+        "Docking(2)": "Guaaaah! My best clothes are... You'll pay for this. Damnit, I'm going to take a bath!",
+        "Construction": "It's a new girl? I'll have to give her the best welcome!",
+        "Sortie": "Alright, Shigure, just watch what your older sister can do.",
+        "MVP": "Of course! It's expected that I'm number one. Right?",
+        "Damaged(2)": "Whoa! Pay attention to evasive maneouvers!",
+        "Damaged(3)": "J-just... you wait and see! I'll come back again and crush you!"
+    },
     "43": {
         "Intro": "I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.",
         "Library": "I'm the second ship of the Shiratsuyu-class destroyers, Shigure. I participated in the Battle of Leyte Gulf under the Nishimura Fleet, in the fateful rush through Surigao Strait. Fusou and Yamashiro were amazing... Even if everyone forgets, I'll always remember them...",
@@ -11493,7 +11515,8 @@
         "3@Valentines2018": "Thank you for taking this. That's right, our next battle will be the decisive one. And the main fleet will be leading the charge.",
         "2@Spring2018": "It's a nice spring, Admiral. The wind feels good too.",
         "3@Spring2018": "What are you doing, Yura? Preparing for a festival? I-I see. Work hard, then.",
-        "2@Anniversary2018": "It's our 5th Anniversary, Admiral. We've been together for a long time but it feels like it went by in a flash. Yeah... please keep taking care of me."
+        "2@Anniversary2018": "It's our 5th Anniversary, Admiral. We've been together for a long time but it feels like it went by in a flash. Yeah... please keep taking care of me.",
+        "4@Shiratsuyu": "I see. Good for you, Shiratsuyu."
     },
     "243": {},
     "145": {
@@ -11576,7 +11599,8 @@
         "2@Spring2018": "Look, Admiral, spring is beautiful. Today is a great day to have a meal outdoors.",
         "4@Spring2018": "What are you looking at, Admiral? Don't worry, I made sure to make dessert too. Here, help yourself.",
         "3@Spring2018": "Want to eat the lunch box I worked hard on outdoors? Yup, yes yes! Great.",
-        "2@Anniversary2018": "Yes yes! It's the 5th Anniversary, Admiral. The 5th Anniversary. It feels so great. Let's~ have~ some~ fun~ this spring too."
+        "2@Anniversary2018": "Yes yes! It's the 5th Anniversary, Admiral. The 5th Anniversary. It feels so great. Let's~ have~ some~ fun~ this spring too.",
+        "3@Shiratsuyu": "Yes, yes! Shiratsuyu-neesan, you’re looking very, very good!"
     },
     "244": {
         "Idle": "I see... you are leaving me aside... I don't have that kind of interest, so I'm upset!",
@@ -11642,7 +11666,8 @@
         "2@WhiteDay": "What is this package, Admiral? Smells nice~ It's cookies-poi! Perhaps these are handmade-poi?",
         "2@Kessen": "You're all getting ready for battle-poi? Night battle preparations-poi?",
         "2@Xmas2017": "Merry Christ-poi! We got a big victory in the night battles in the Strait, poi! Now it's time for the most awesome party, poi!",
-        "2@Anniversary2018": "Poi! Admiral, it's finally our 5th Anniversary-poi! Amazing-poi! We did it-poi! Poi! POI! POPPOI!"
+        "2@Anniversary2018": "Poi! Admiral, it's finally our 5th Anniversary-poi! Amazing-poi! We did it-poi! Poi! POI! POPPOI!",
+        "3@Shiratsuyu": "Shiratsuyu, you've gotten a pretty good remodel-poi! It's amazing-poi! Poooi!"
     },
     "245": {},
     "144": {
@@ -13893,6 +13918,12 @@
         "2@EarlySummer": "Uwaa, It's gotten a bit hotter right?  Eh? Change into Type 4 summer equipment? That's right, it's the season for that, isn't it."
     },
     "302": {},
+    "542": {
+        "Intro": "1st ship of the Remodelled Yuugumo-class, Yuugumo, arriving on station. It's fine to leave everything to me, Admiral.",
+        "Join": "I'm going to set out at full force, Admiral. Destroyer Division 10, weigh anchor!",
+        "Attack": "Enemy fleet spotted. Ready for combat! Alright, all ships, charge!",
+        "MVP": "Aren't you glad that you picked me, Admiral? Of course, there's nothing to regret. You can always depend on me."
+    },
     "134": {
         "Intro": "Yuugumo-class destroyer, I am Makigumo. Following Yuugumo-neesan's example, I'll do my best!",
         "Library": "I'm Makigumo, second ship of the Yuugumo-class Destroyers. While cleaning up after the Hornet, 'situation permitting, tow and capture it'... they said, but that was pretty much impossible... and now Akigumo's pointing and laughing at me. Seriously, what the heck?",

@@ -171,7 +171,7 @@
     "140": {
         "name": "Teste den neuen Radar-Typ!",
         "desc": "Habe Myoukou Kai Ni als Flaggschiff der Ersten Flotte.",
-        "memo": "\u27a3Belohnung: 'Typ 22 Oberflächen RADAR Kai 4'"
+        "memo": "\u27a3Belohnung: 'Typ 22 Oberflächenradar Kai 4'"
     },
     "141": {
         "name": "Stärke die Reformierte 2. Träger Division!",
@@ -401,7 +401,11 @@
         "desc": "Habe Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni und drei weitere level 70+ Kagerou/Yuugumo-Klasse DD in der Flotte. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u27a3Belohnung: Entweder 1x '12.7cm Zwillingsgeschütz Modell C Kai Ni' ODER eine 'Medaille'"
     },
-    
+	"194": {
+		"name": "Bilde die 18. Elite Kreuzer Division!",
+		"desc": "Habe NUR Tenryuu Kai Ni und Tatsuta Kai Ni in der Flotte. Drücke F10 um das Overlay zu verbergen.",
+		"memo": "\u27a3Belohnung: Entweder 5x 'Entwicklungsmaterialien' oder 'Möbelfee'",
+	},		   
     "202": {
         "name": "Der Erste Einsatz!",
         "desc": "Sende die Hauptflotte auf ein Einsatz."
@@ -960,7 +964,7 @@
     "871": {
         "name": "Überlegende 8. Zerstörer Division, Zum Einsatz mit eurer Gesamten Stärke!",
         "desc": "Sende Arashio Kai Ni, Asashio Kai Ni (oder D), Ooshio Kai Ni, Michishio Kai Ni und bis zu 2 weiter Schiffe nach [W3-2] und [W5-4]. S-Rank den Boss knoten beider Karten. Overlay: F10",
-        "memo": "\u27a3Belohnungen: '4 Schrauben' und entweder '12.7cm Zwillingsgeschütz C Kai Ni' ODER 'Daihatsu-Landungsboot' ODER 'Typ 22 Oberflächen Radar'"
+        "memo": "\u27a3Belohnungen: '4 Schrauben' und entweder '12.7cm Zwillingsgeschütz C Kai Ni' ODER 'Daihatsu-Landungsboot' ODER 'Typ 22 Oberflächenradar'"
     },
     "874": {
         "name": "Führe eine Patrouille in der Nördlichen Region aus!",
@@ -975,7 +979,7 @@
     "877": {
         "name": "4. Zerstörer Elite Geschwader, Auf zur Südlichen Region!",
         "desc": "Sende Murasame Kai Ni als Flaggschiff und Drei oder mehr der Folgenden Schiffe: 'Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai oder Akizuki Kai' nach [W5-1], [W5-3] und [W5-4]. A-Rank+ die Boss knoten.",
-        "memo": "Du kannst bis zu Zwei Weitere Schiffe mitnehmen.\nDrücke F10 um das Overlay zu verbergen das denn Belohnungs Auswahl Bildschirm versteckt.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '12.7cm Zwillingsgeschütz Modell C Kai Ni' ODER '2x Typ 22 Oberflächen Radar' ODER '2x 12.7cm Zwillingsgeschütz Modell B Kai Ni'\n\u00B6Zweitewahl: Entweder '2x Seeversorgung' ODER '3 Stahkanister' ODER '4 Schrauben'"
+        "memo": "Du kannst bis zu Zwei Weitere Schiffe mitnehmen.\nDrücke F10 um das Overlay zu verbergen das denn Belohnungs Auswahl Bildschirm versteckt.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '12.7cm Zwillingsgeschütz Modell C Kai Ni' ODER '2x Typ 22 Oberflächenradar' ODER '2x 12.7cm Zwillingsgeschütz Modell B Kai Ni'\n\u00B6Zweitewahl: Entweder '2x Seeversorgung' ODER '3 Stahkanister' ODER '4 Schrauben'"
     },
     "878": {
         "name": "Führe weiterhin die Matsu Transport Operation aus!",
@@ -1012,6 +1016,16 @@
         "desc": "Sende Ise Kai Ni als Flaggschiff, 2 DD und bis zu 3 weitere Schiffe nach [W6-5]. S-Rank den Boss knoten 3 mal. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder  '3x Typ-96-Jagdflugzeug' ODER '3x Typ-99-Sturzflugbomber' ODER '2x Typ-0-Jagdflugzeug Modell 21'\n\u00B6Zweitewahl: Entweder  '2x Shiden Kai Ni' ODER 'Medaille' ODER 'Schlachtbericht'"
     },
+	"887": {
+		"name": "Erweitere die 18. Elite Kreuzer Division!",
+		"desc": "Sende Tenryuu Kai Ni, Tatsuta Kai Ni, 2 DD und bis zu 2 weitere Schiffe nach [W1-2], [W1-4] und [W1-5], S-Rank die Boss Knoten, Erreiche das Ziel in [W1-6] einmal. Drücke F10 um das Overlay zu verbergen.",
+		"memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '5x Eimer' ODER '1x Schlachtbericht''\n\u00B6Zweitewahl: Entweder '2x Typ-22-Oberflächenradar' ODER '1x Medaille' ODER '4x Schrauben"
+	},
+	"889": {
+        "name": "Erster Zug der 27. Elite Zerstörer Division, zum Einsatz!",
+        "desc": "Sende Shiratsuyu Kai Ni, Shigure Kai Ni und bis zu 4 weitere Schiffe nach [W2-3], [W4-1], [W5-5] und [W6-5]. S-Rank die Boss knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u26233Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnung '1x 12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät' und entweder '1x Medaille' ODER '1x Material für neue Geschützturmmodelle' ODER '8x Eimer'"
+    },	
     
     "201": {
         "name": "Täglicher Sieg",
@@ -1156,9 +1170,9 @@
         "memo": "\u203bGegenangriffs Operation in der Okinoshima Region\n\u27a3Belohnung 'Mamiya' und '5 Schrauben'"
     },
     "854": {
-        "name": "Vierteljährlich Rank Punkte",
+        "name": "Vierteljährlich Rank Punkte 1",
         "desc": "Sende die Erste Flotte nach [W2-4], [W6-1] und [W6-3] und A-Rank+ die Boss knoten jeder Karte. Sende die Flotte nach [W6-4] und S-Rank den Boss knoten.",
-        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Vorbereitungs Operation\n\u27a3Belohnungen: '3 Irako', '4 Schrauben' und '350 Rank Punkte'",
+        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Vorbereitungs Operation\n\u27a3Belohnungen: '3 Irako', '4 Schrauben' und '350 Rankpunkte'",
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
     "861": {
@@ -1180,7 +1194,14 @@
     "875": {
         "name": "Vierteljährlich [W5-4]",
         "desc": "Sende Naganami Kai Ni als Flaggschiff und EINS von den folgenden Schiffen 'Takanami Kai, Asashimo Kai oder Okinami Kai' und bis zu 4 weitere Schiffe nach [W5-4]. S-Rank den Boss knoten zweimal. Overlay: F10",
-        "memo": "\u203bElite 31. Zerstörer Division, Stoße zum Iron Bottom Sound vor!\n\u27a3Rewards:\n\u00B6Erstewahl: Entweder '2x Typ 13 Luft Radar' ODER '2x Typ 22 Oberflächen Radar' ODER 'Schlachtbericht'\n\u00B6Zweitewahl: Entweder 'Material für neue Geschützturmmodelle' ODER 'Geschenk Box'"
+        "memo": "\u203bElite 31. Zerstörer Division, Stoße zum Iron Bottom Sound vor!\n\u27a3Rewards:\n\u00B6Erstewahl: Entweder '2x Typ 13 Luft Radar' ODER '2x Typ 22 Oberflächenradar' ODER 'Schlachtbericht'\n\u00B6Zweitewahl: Entweder 'Material für neue Geschützturmmodelle' ODER 'Geschenk Box'"
+    },
+	    "888": {
+        "name": "Vierteljährlich Rank Punkte 2",
+		"desc": "Sende von 'Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari' NUR 4 Stück und bis zu 2 weitere beliebige Schiffe nach [W5-1], [W5-3] und [W5-4]. S-Rank die Boss knoten. Overlay: F10",
+        "memo": "\u203bNeue Mikawa Flotte, Durchbruch zu den Iron Bottom Gewässern!\n\u27a3Belohnung '1x Medaille' ODER '5x Schrauben' und '200 Rankpunkte'",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
     
     
@@ -1283,7 +1304,13 @@
     "324": {
         "name": "Schlachträger leit Schiff führe Übungsgefechte durch!",
         "desc": "Sichere 3 Siege in Übungsgefechten innerhalb des selben Tages während du Ise Kai Ni, 2 DD und bis zu 3 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
-        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '2x Suisei' oder '2x Zuiun' ODER 'Typ 2 Aufklärungsflugzeug'\n\u00B6Zweitewahl: Entweder '2x Typ 22 Oberflächen Radar' ODER '2x 12cm 30-Rohr Raketenwerfer' ODER 'Material für neue Geschützturmmodelle'"
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '2x Suisei' oder '2x Zuiun' ODER 'Typ 2 Aufklärungsflugzeug'\n\u00B6Zweitewahl: Entweder '2x Typ 22 Oberflächenradar' ODER '2x 12cm 30-Rohr Raketenwerfer' ODER 'Material für neue Geschützturmmodelle'"
+    },
+    "325": {
+        "code": "C22",
+        "name": "Verbeserte Yuugumo-Klasse, Beginne Übungen!",
+        "desc": "Sichere 4 Sieg in Übungsgefechten innerhalb des selben Tages während du Yuugumo Kai Ni, Naganami Kai Ni und bis zu 4 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '3x Irako' ODER '2x Typ-2-Wasserbombe'\n\u00B6Zweitewahl: Entweder '1x Schiffshüllenerweiterung' ODER '1x Medaille'"
     },
 
     
@@ -1776,21 +1803,21 @@
     "669": {
         "name": "Entwicklung eines Schiff Basierten Nachtkampf Jäger Flugzeugs",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein >> \u2605max F6F-3.",
-        "memo": "Habe Material für neue Flugzeugmodelle, 6 Schrauben, 5000 Bauxit und 30 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-3 im ersten Slot aus.\nEntsore zwei Typ 13 Luftradar und zwei Typ 22 Oberflächen Radar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-3N'"
+        "memo": "Habe Material für neue Flugzeugmodelle, 6 Schrauben, 5000 Bauxit und 30 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-3 im ersten Slot aus.\nEntsorge zwei Typ 13 Luftradar und zwei Typ 22 Oberflächenradar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-3N'"
     },
     "670": {
         "name": "Leistungs Verbesserung eines eines Nachtkampf Jäger Flugzeugs",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein >> \u2605max F6F-5.",
-        "memo": "Habe Material für neue Flugzeugmodelle, 8 Schrauben, 6000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-5 im ersten Slot aus.\nEntsore 2x Typ 13 Luftradar und 2x Typ 22 Oberflächen Radar.\n\u203bLeistungs Verbesserung eines eines Nachtkampf Jäger Flugzeugs\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-5N'"
+        "memo": "Habe Material für neue Flugzeugmodelle, 8 Schrauben, 6000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-5 im ersten Slot aus.\nEntsorge 2x Typ 13 Luftradar und 2x Typ 22 Oberflächenradar.\n\u203bLeistungs Verbesserung eines eines Nachtkampf Jäger Flugzeugs\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-5N'"
     },
     "671": {
         "name": "Entwicklung eines Schiff basierten Bomber Flugzeug für Nacht Operationen",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein TBF.",
-        "memo": "Habe Material für neue Flugzeugmodelle, Erfahrene Besatzung, 10 Schrauben, 5000 Munition, 8000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein TBF im ersten Slot aus.\nEntsore 2x Typ 13 Luftradar und 2x Typ 22 Oberflächen Radar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'TBM-3D'"
+        "memo": "Habe Material für neue Flugzeugmodelle, Erfahrene Besatzung, 10 Schrauben, 5000 Munition, 8000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein TBF im ersten Slot aus.\nEntsorge 2x Typ 13 Luftradar und 2x Typ 22 Oberflächenradar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'TBM-3D'"
     },
     "672": {
         "name": "The Establishment of the Striking Force's Fleet Command Facility",
-        "desc": "Habe 10 Entwicklungsmaterialien, 2000 Stahl und 2 Schlachtberichte. Rüste eine Sekretärin mit einer Flottenkommando Zentrale im ersten Slot aus. Entsore 3 Radare.",
+        "desc": "Habe 10 Entwicklungsmaterialien, 2000 Stahl und 2 Schlachtberichte. Rüste eine Sekretärin mit einer Flottenkommando Zentrale im ersten Slot aus. Entsorge 3 Radare.",
         "memo": "\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Striking Force Fleet Command Facility'"
     },
     "675": {
@@ -1807,7 +1834,7 @@
     },
     "677": {
         "name": "Wöchentliche Verschrottung 2",
-        "desc": "Habe 3600 Stahl. Entsore 4 Groß Kal. Hauptgeschütze, 2 Aufklärungswasserflugzeuge und 3 Torpedoes.",
+        "desc": "Habe 3600 Stahl. Entsorge 4 Groß Kal. Hauptgeschütze, 2 Aufklärungswasserflugzeuge und 3 Torpedoes.",
         "memo": "\u203bKonsolidierung von Fabriken für die Unterstützung der Kriegsbemühungen\n\u2718Verbraucht die Ressourcen.",
         "trackingDesc": [ "{0} Groß Kal. Hauptgeschütze", "{0} Aufklärungswasserflugzeuge", "{0} Torpedoes" ]
     },
@@ -1829,18 +1856,30 @@
     },
     "682": {
         "name": "Der Kaiboukan Konsolidierungs Plan",
-        "desc": "Habe 500 Treibstoff. Entsore 4 Mittel Kaliber Hauptgeschütze und 4 Groß Kaliber Hauptgeschütze. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Habe 500 Treibstoff. Entsorge 4 Mittel Kaliber Hauptgeschütze und 4 Groß Kaliber Hauptgeschütze. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 'Möbelfee' ODER vier 'Entwicklungsmaterialien' ODER 'Material für neue Geschützturmmodelle'\n\u00B6Zweitewahl: Entweder 'DE, Etorofu' ODER 'DE, Matsuwa'"
     },
     "683": {
         "name": "Erforschugn einer neuen Hauptbatterie für Hybrid-Flugzeugträger",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max Prototyp 41cm Drillingsgeschütz.",
-        "memo": "Habe 40 Entwicklungsmaterialien, 50 Flammenwerfer, 4500 Stahl und 2 Material für neue Geschützturmmodelle.\nHabe Ise Kai Ni als Sekretärin und rüste sie mit einem \u2605max Prototyp 41cm Drillingsgeschütz im ERSTEN Slot aus.\nEntsore 2x Typ 22 Oberflächen Radar und drei 41cm Zwillingsgeschütze.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '41cm Drillingsgeschütz Kai Ni"
+        "memo": "Habe 40 Entwicklungsmaterialien, 50 Flammenwerfer, 4500 Stahl und 2 Material für neue Geschützturmmodelle.\nHabe Ise Kai Ni als Sekretärin und rüste sie mit einem \u2605max Prototyp 41cm Drillingsgeschütz im ERSTEN Slot aus.\nEntsorge 2x Typ 22 Oberflächenradar und drei 41cm Zwillingsgeschütze.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '41cm Drillingsgeschütz Kai Ni"
     },
     "684": {
         "name": "Die Bildung des Elite Hybrid-Flugzeugträger Suisei Geschwaders",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein Suisei-Modell-22 (Flugzeuggruppe 634).",
-        "memo": "Habe 3000 Bauxit, 30 Entwicklungsmaterialien, Material für neue Flugzeugmodelle und Erfahrene Besatzung.\nHabe Ise Kai Ni als Sekretärin und rüste sie mit einem Suisei Modell 22 (Flugzeuggruppe 634) im DRITTEN Slot aus.\nEntsore drei Typ-99-Sturzflugbomber und drei Suisei.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Suisei Modell 22 (Flugzeuggruppe 634 / Erfahren)'"
+        "memo": "Habe 3000 Bauxit, 30 Entwicklungsmaterialien, Material für neue Flugzeugmodelle und Erfahrene Besatzung.\nHabe Ise Kai Ni als Sekretärin und rüste sie mit einem Suisei Modell 22 (Flugzeuggruppe 634) im DRITTEN Slot aus.\nEntsorge drei Typ-99-Sturzflugbomber und drei Suisei.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Suisei Modell 22 (Flugzeuggruppe 634 / Erfahren)'"
+    },
+	    "685": {
+        "name": "Kriegs Aufrüstung der Zerstörer Hauptgeschütze",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "memo": "Habe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
+    },
+	    "686": {
+        "name": "Vierteljährliches Steilfeuergeschütz",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "memo": "\u203bMassen Produktion des Typ-A-Mehrzweckgeschützes während der Kriegs Zeit\n\u203bHabe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
+        "tracking": [ [0,4], [0,1] ],
+        "trackingDesc": [ "{0} 10cm Twin High-angle Gun Mount", "{0} Type 94 Anti-Aircraft Fire Director" ]
     },
 
     "701": {

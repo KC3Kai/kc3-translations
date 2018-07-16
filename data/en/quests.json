@@ -865,7 +865,8 @@
         "code": "B43",
         "name": "The 18th Division Sets Sail!",
         "desc": "Sortie Tenryuu, Tatsuta and at least 2 other ships to [W2-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy"
+        "memo": "\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 194 ]
     },
     "276": {
         "code": "B44",
@@ -1632,13 +1633,14 @@
         "name": "Quarterly [W5-4]",
         "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
         "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "unlock": [ 325 ],
         "tracking": [ [0,2] ]
     },
     "888": {
         "code": "Bq7",
         "name": "Quarterly Ranking Points 2",
         "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\u203bNew Mikawa Fleet, Break into the Iron Bottom Ocean Area!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "memo": "\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
@@ -2506,7 +2508,7 @@
         "name": "Quarterly AA Guns",
         "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
         "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
-        "unlock": [ 191, 686, 880 ],
+        "unlock": [ 191, 685, 686, 880 ],
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
     },
@@ -2515,7 +2517,7 @@
         "name": "The Kaiboukan Consolidation Plan",
         "desc": "Have 500 Fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR four Development Materials OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either DE Etorofu OR DE Matsuwa",
-        "unlock": [ 322, 430 ]
+        "unlock": [ 322, 430, 685 ]
     },
     "683": {
         "code": "F74",

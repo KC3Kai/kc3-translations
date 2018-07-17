@@ -1,29 +1,29 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "best"],
-		["OK-", "good"],
-		["-", "worst"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "best", "Tous les avions de reconn. sont revenus"],
+		["OK-", "good", "Quelques avions de reconn. ont été perdus"],
+		["-", "worst", "Tous les avions de reconn. ont été perdus"],
+		["NO", "bad", "Échec de la reconnaissance"],
+		["OK+", "good", "Aucun avion de reconn. impliqué"],
+		["NO+", "bad", "Aucun avion de reconn. impliqué"]
 	],
 	
 	"airbattle" : [
-		["AP", "", "Parité"],
-		["AS+", "best", "Suprématie"],
-		["AS", "good", "Supériorité"],
-		["AD", "bad", "Incapacité"],
-		["AI", "worst", "Déni"],
+		["AP", "", "Parité aérienne"],
+		["AS+", "best", "Suprématie aérienne"],
+		["AS", "good", "Supériorité aérienne"],
+		["AD", "bad", "Déni aérien"],
+		["AI", "worst", "Incapacité aérienne"],
 		["None", "", "Pas de combat"]
 	],
 	
 	"engagement" : [
-  		["", "", ""],
-		["Prll", "", "Parallèle"],
- 		["HdOn", "", "Frontal"],
-		["Gr-T", "good", "T vert"],
-		["Rd-T", "bad", "T rouge"]
+  		["", "", "", ""],
+		["Prll", "", "Parallèle", "Dégâts : 100%"],
+ 		["HdOn", "", "Frontal", "Dégâts : <span style='color:orange'>80%</span>"],
+		["Gr-T", "good", "T-vert", "Dégâts : <span style='color:green'>120%</span>"],
+		["Rd-T", "bad", "T-rouge", "Dégâts : <span style='color:red'>60%</span>"]
 	],
 	
 	"formation" : [
@@ -33,22 +33,89 @@
 		"Diamant",
 		"Échelon",
 		"Côte à côte",
-		"","","","","",
+		"Avant-Garde",
+		"","","","",
 		"Formation de navigation 1 (anti-sous-marin)",
-		"Formation de navigation 2 (avant)",
-		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 2 (vers l'avant)",
+		"Formation de navigation 3 (convoi)",
 		"Formation de navigation 4 (bataille)",
 		"","","","","","",
 		"Formation de navigation 1 (anti-sous-marin)",
-		"Formation de navigation 2 (avant)",
-		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 2 (vers l'avant)",
+		"Formation de navigation 3 (convoi)",
 		"Formation de navigation 4 (bataille)"
 	],
 	
 	"support" : [
 		"",
-		"Aérien",
-		"Artillerie",
-		"Torpille"
+		"Support Aérien",
+		"Support d'Artillerie",
+		"Support Torpille"
+		"Support Anti-sous-marin"
+	],
+	
+	"airraiddamage" : [
+		"",
+		"Ressources",
+		"Ressources & LBAS",
+		"LBAS",
+		"Aucun dommage"
+	],
+	
+	"cutinDay" : [
+		"",
+		"Laser",
+		"Double Attaque [1.2x2]",
+		"CI Sec. [1.1]",
+		"CI Radar [1.2]",
+		"CI Sec./AP [1.3]",
+		"AP CI Mixte [1.5]",
+		"CVCI [1.15~1.25]"
+	],
+	
+	"cutinNight" : [
+		"",
+		"Double Attaque [1.2x2]",
+		"CI Mixte [1.3x2]",
+		"CI Torp. [1.5~x2]",
+		"CI Tourelle sec.[1.75x1]",
+		"CI Tourelles princ. [2.0x1]",
+		"CVCI [1.18~1.25]",
+		"DD CI Princ. [1.3~x1]",
+		"DD CI Tour de Guet [1.2~x1]"
+	],
+	
+	"aacitype" : [
+		[],
+		["Classe Akizuki", "Angle Élevé", "Angle Élevé", "Radar"],
+		["Classe Akizuki", "Angle Élevé", "Radar"],
+		["Classe Akizuki", "Angle Élevé", "Angle Élevé"],
+		["Cuirassés", "Tourelle Princ. Gros Calibre", "Obus Type 3", "Directeur de Feu AA", "Radar Aérien"],
+		["", "Angle Élevé + DFAA", "Angle Élevé + DFAA", "Radar Aérien"],
+		["Cuirassés", "Tourelle Princ. Gros Calibre", "Obus Type 3", "Directeur de Feu AA"],
+		["", "Angle Élevé", "Directeur de Feu AA", "Radar Aérien"],
+		["", "Angle Élevé + DFAA", "Radar Aérien"],
+		["", "Angle Élevé", "Directeur de Feu AA"],
+		["Maya Kai Ni", "Angle Élevé", "Mitrailleuses AA Dépl. conc.", "Radar Aérien"],
+		["Maya Kai Ni", "Angle Élevé", "Mitrailleuses AA Dépl. conc."],
+		["", "Mitrailleuses AA Dépl. conc.", "Mitrailleuse AA", "Radar Aérien"],
+		[],
+		["Isuzu Kai Ni", "Angle Élevé", "Mitrailleuse AA", "Radar Aérien"],
+		["Isuzu Kai Ni", "Angle Élevé", "Mitrailleuse AA"],
+		["Kasumi Kai Ni B", "Angle Élevé", "Mitrailleuse AA", "Radar Aérien"],
+		["Kasumi Kai Ni B", "Angle Élevé", "Mitrailleuse AA"],
+		["Satsuki Kai Ni", "Mitrailleuses AA Dépl. conc."],
+		["Kinu Kai Ni", "Angle Élevé (sans DFAA)", "Mitrailleuses AA Dépl. conc."],
+		["Kinu Kai Ni", "Mitrailleuses AA Dépl. conc."],
+		["Yura Kai Ni", "Angle Élevé", "Radar Aérien"],
+		["Fumizuki Kai Ni", "Mitrailleuses AA Dépl. conc."],
+		["UIT-25, I-504", "Mitrailleuses AA Dépl. non conc."],
+		["Tatsuta Kai Ni", "Angle Élevé", "Mitrailleuses AA Dépl. non conc."],
+		["Classe Ise Kai+", "Lance-roquettes à 30 tubes de 12cm Kai ni", "Radar Aérien", "Obus Type 3"],
+		["Musashi Kai Ni", "Tourelle de Deux Pièces de 10cm à Angle Élevé Kai + Mitr. Add.", "Radar Aérien"],
+		[],
+		["Musashi Kai+, Classe Ise Kai+", "Lance-roquettes à 30 tubes de 12cm Kai ni", "Radar Aérien"],
+		["Classe Kagerou B Kai", "Angle Élevé", "Radar Aérien"],
+		[]
 	]
 }

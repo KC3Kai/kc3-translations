@@ -10,12 +10,12 @@
 	],
 	
 	"airbattle" : [
-		["AP", "", "Parité aérienne"],
-		["AS+", "best", "Suprématie aérienne"],
-		["AS", "good", "Supériorité aérienne"],
-		["AD", "bad", "Déni aérien"],
-		["AI", "worst", "Incapacité aérienne"],
-		["None", "", "Pas de combat"]
+		["AP", "", "Parité Aérienne"],
+		["AS+", "best", "Suprématie Aérienne"],
+		["AS", "good", "Supériorité Aérienne"],
+		["AD", "bad", "Déni Aérien"],
+		["AI", "worst", "Incapacité Aérienne"],
+		["None", "", "Pas de Combat"]
 	],
 	
 	"engagement" : [
@@ -29,11 +29,11 @@
 	"formation" : [
 		"",
 		"Ligne",
-		"Double ligne",
+		"Double Ligne",
 		"Diamant",
 		"Échelon",
-		"Côte à côte",
-		"Avant-Garde",
+		"Côte à Côte",
+		"Avant-garde",
 		"","","","",
 		"Formation de navigation 1 (anti-sous-marin)",
 		"Formation de navigation 2 (vers l'avant)",

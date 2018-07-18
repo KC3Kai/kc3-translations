@@ -1033,12 +1033,12 @@
         "memo": "\u203bZerstöre die Feind Flotte!"
     },
     "216": {
-        "name": "Tägliche Schlacht",
+        "name": "Tägliches Gefecht",
         "desc": "Greife Eine Tiefsee Flotte an.",
         "memo": "\u203bVersenke das gegnerische Flaggschiff!"
     },
     "210": {
-        "name": "Tägliche Schlachten",
+        "name": "Tägliche Gefechte",
         "desc": "Greife 10 Tiefsee Flotten an.",
         "memo": "\u203bGreife 10 Feind Flotten an!"
     },
@@ -1076,7 +1076,7 @@
         "name": "Wöchentliche Einsätze",
         "desc": "Laufe 36 aus, erreiche 24 Boss knoten, B-Rank+ 12 Boss knoten, und erreiche 6 S-Ränge.",
         "memo": "\u203bOperation A-Go",
-        "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
+        "trackingDesc": [ "{0} Einsätze", "{0} Boss knoten", "{0} B+ Bosse", "{0} S-Ränge" ]
     },
     "220": {
         "name": "Wöchentliche Träger",
@@ -1096,7 +1096,7 @@
     "228": {
         "name": "Wöchentliche U-Boote",
         "desc": "Versenke 15 Tiefsee U-Boote.",
-        "memo": "\u203bMarine Eskort Schlacht\n\u27a3Belohnung: 'Schraube'"
+        "memo": "\u203bMarine Eskort Gefecht\n\u27a3Belohnung: 'Schraube'"
     },
     "229": {
         "name": "Wöchentliche [W4] Bosse",
@@ -1210,7 +1210,7 @@
     },
     "303": {
         "name": "Tägliche Übungsgefechte 1",
-        "desc": "Fordere 3 andere Flotten zu Übungsgefechte.",
+        "desc": "Fordere 3 andere Flotten zu Übungsgefechten heraus.",
         "memo": "\u203bPrüfe dein Training durch Übungsgefechte!"
     },
     "304": {
@@ -1308,7 +1308,7 @@
     "325": {
         "code": "C22",
         "name": "Verbesserte Yuugumo-Klasse, Beginne Übungen!",
-        "desc": "Sichere 4 Sieg in Übungsgefechten innerhalb des selben Tages während du Yuugumo Kai Ni, Naganami Kai Ni und bis zu 4 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
+        "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben Tages während du Yuugumo Kai Ni, Naganami Kai Ni und bis zu 4 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '3x Irako' ODER '2x Typ-2-Wasserbombe'\n\u00B6Zweitewahl: Entweder '1x Schiffshüllenerweiterung' ODER '1x Medaille'"
     },
 
@@ -1428,7 +1428,7 @@
     "426": {
         "name": "Vierteljährlich Expeditionen",
         "desc": "Erfülle Expeditionen 3, 4, 5 und 10.",
-        "memo": "\u203bFühre sättige Wacht über die Maritime Handelsrouten aus!\n\u27a3Belohnungen '2 Feldrationen'",
+        "memo": "\u203bHalte stetige Wacht über die Maritime Handelsrouten!\n\u27a3Belohnungen '2 Feldrationen'",
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
     },
     "427": {
@@ -1511,8 +1511,8 @@
         "memo": "\u203bConsolidation of Equipment Entwicklung Capabilities"
     },
     "674": {
-        "name": "Tägliche AA Geschütz Verschrottung",
-        "desc": "Habe 300 Stahl. Verschrotte 3 AA Maschinengewehre.",
+        "name": "Tägliche Luftabwehr Geschütz Verschrottung",
+        "desc": "Habe 300 Stahl. Verschrotte 3 Luftabwehr Maschinengewehre.",
         "memo": "\u203bArsenal Environmental Consolidation"
     },
     
@@ -1651,8 +1651,8 @@
         "memo": "\u27a3Belohnung: Sondertyp-2-Motorboot"
     },
     "638": {
-        "name": "Wöchentliche AA-Geschütz Verschrottung",
-        "desc": "Entsorge 6 AA Maschinengewehre.",
+        "name": "Wöchentliche Luftabwehr-Geschütz Verschrottung",
+        "desc": "Entsorge 6 Luftabwehr Maschinengewehre.",
         "memo": "\u203bLuftabwehr Maschinengewehre Massenproduktion \n\u27a3Belohnung: 'Schraube'"
     },
     "637": {
@@ -1821,9 +1821,9 @@
     },
     "675": {
         "name": "Vierteljährlicher Abfangjäger",
-        "desc": "Habe 800 Bauxit. Entsorge 6 Jäger Flugzeuge und 4 AA Maschinengewehre. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Habe 800 Bauxit. Entsorge 6 Jäger Flugzeuge und 4 Luftabwehr Maschinengewehre. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u203bKonsolidierung von Operations Ausrüstung\n\u27a3Belohnung: Entweder 'Typ 1 Jäger Hayabusa Modell II' ODER 'Shiden Modell 11' ODER '4 Schrauben'",
-        "trackingDesc": [ "{0} Jäger Flugzeuge", "{0} AA Maschinengewehre" ]
+        "trackingDesc": [ "{0} Jäger Flugzeuge", "{0} Luftabwehr Maschinengewehre" ]
     },
     "676": {
         "name": "Wöchentliche Geschütz Verschrottung",
@@ -1835,7 +1835,7 @@
         "name": "Wöchentliche Verschrottung 2",
         "desc": "Habe 3600 Stahl. Entsorge 4 Groß Kal. Hauptgeschütze, 2 Aufklärungswasserflugzeuge und 3 Torpedoes.",
         "memo": "\u203bKonsolidierung von Fabriken für die Unterstützung der Kriegsbemühungen\n\u2718Verbraucht die Ressourcen.",
-        "trackingDesc": [ "{0} Groß Kal. Hauptgeschütze", "{0} Aufklärungswasserflugzeuge", "{0} Torpedoes" ]
+        "trackingDesc": [ "{0} Groß Kal. Hauptgeschütze", "{0} Aufklärungswasserflugzeuge", "{0} Torpedos" ]
     },
     "678": {
         "name": "Vierteljährliche Shiden Kai Ni und Materialien",
@@ -1848,10 +1848,10 @@
         "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: Entweder zwei '25mm Drillingsmaschinenkanone' ODER 'zwei 12cm 30-Rohr Raktenwerfer' ODER 'Schiffshüllenerweiterung'"
     },
     "680": {
-        "name": "Vierteljährliche AA Geschütze",
-        "desc": "Habe 1500 Bauxit. Entsorge 4 AA Maschinengewehre und 4 Radare. Drücke F10 um das Overlay zu Verbergen.",
+        "name": "Vierteljährliche Luftabwehr Geschütze",
+        "desc": "Habe 1500 Bauxit. Entsorge 4 Luftabwehr Maschinengewehre und 4 Radare. Drücke F10 um das Overlay zu Verbergen.",
         "memo": "\u203bErweiterung der Luftabwehr Bewaffnung\n\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder zwei '10cm Steilfeuer-Zwillingsgeschütze' ODER zwei '12cm 30-Rohr Raketenwerfer'\n\u00B6Zweitewahl: Entweder zwei '8cm Steilfeuergeschütze' ODER sechs 'Entwicklungsmaterialien'",
-        "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
+        "trackingDesc": [ "{0} Luftabwehr Maschinengewehr", "{0} Radare" ]
     },
     "682": {
         "name": "Der Kaiboukan Konsolidierungs Plan",

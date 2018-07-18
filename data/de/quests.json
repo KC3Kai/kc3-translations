@@ -1216,7 +1216,7 @@
     "304": {
         "name": "Tägliche Übungsgefechte 2",
         "desc": "Sichere 5 Siege in Übungsgefechten am selben Tag.",
-        "memo": "\u203bUberwältig andere Adrmirale in Übungsgefechten!"
+        "memo": "\u203bUberwältig andere Admirale in Übungsgefechten!"
     },
     "302": {
         "name": "Wöchentliche Übungsgefechte",
@@ -1365,7 +1365,7 @@
     "411": {
         "name": "Wöchentlicher Tokyo Express 2",
         "desc": "Erfülle Expedition 37 oder 38 sechsmal in der selben Woche.",
-        "memo": "\u203bContinue to Carry Out Southern Tokyo Express Operations!\n\u27a3Belohnung: 'Schraube'"
+		"memo": "\u203bFühre weiterhin die Südlichen Tokyo Express Operationen durch!\n\u27a3Belohnung: 'Schraube'"
     },
     "413": {
         "name": "Erhöhe die Feuerkraft der Flugflotte! (Fortge.)",
@@ -1701,7 +1701,7 @@
     },
     "647": {
         "name": "Errichte eine Luftbasis in der Chubu Region!",
-        "desc": "Habe 1200 Treibstoff, 3000 Bauxit, und ein Konstruktions Battalion in deinem Inventar. Entsorge zwei Metallfass (Transport).",
+        "desc": "Habe 1200 Treibstoff, 3000 Bauxit, und eine Bauarbeitermannschaft in deinem Inventar. Entsorge zwei Metallfass (Transport).",
         "memo": "\u2718Verbraucht die Items und Ressourcen.\n\u27a3Schaltet eine Luftbasis in [W6] frei"
     },
     "648": {
@@ -1710,12 +1710,12 @@
         "memo": "\u2718Verbraucht die Ausrüstung und Ressourcen. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'Möbelfee'"
     },
     "649": {
-        "name": "Entwicklung eines neuen Achsen-Aufklärungsflugzeugs",
+        "name": "Entwicklung eines neuen Achsen-Aufklärungsflugzeug",
         "desc": "Habe ein Landgestützter Typ-1-Bomber und zwei Saiun. Entsorge zwei Typ 0 Aufklärungswasserflugzeuge.",
         "memo": "\u2718Verbraucht die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'Prototyp Keiun (Trägerbasiertes Aufklärungsmodell)"
     },
     "650": {
-        "name": "Entwicklung eines Jet Jagdbombers",
+        "name": "Entwicklung eines Jet Jagdbomber",
         "desc": "Habe zwei Blaupausen für neue Flugzeugmodelle und ein Ne-Typ Triebwerk. Entsorge drei Shiden Kai Ni.",
         "memo": "\u2718Verbraucht die Items.\n\u27a3Belohnung: 'Kikka Kai'"
     },
@@ -1731,8 +1731,8 @@
     },
     "653": {
         "name": "Spezielle Setsubun Mission: Vorbereitung für das Setsubun Fest!",
-        "desc": "Habe 5000 Möbelmünzen, zweil 12cm Geschütze und zwei Typ 0 Aufklärungswasserflugzeuge in deinem Inventar. Entsorge zwei 20.3cm Zwillingsgeschütze.",
-        "memo": "\u2718Verbraucht die Items un die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Möbelfee'"
+        "desc": "Habe 5000 Möbelmünzen, zwei 12cm Geschütze und zwei Typ 0 Aufklärungswasserflugzeuge in deinem Inventar. Entsorge zwei 20.3cm Zwillingsgeschütze.",
+        "memo": "\u2718Verbraucht die Items und die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Möbelfee'"
     },
     "656": {
         "name": "Bilde die Seiran Flugzeuggruppe 631!",
@@ -1755,7 +1755,7 @@
         "memo": "\u2718Verbraucht die Items und einmal Erfahrene Besatzung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: Typ 2 Katapultjäger Kai (Erfahren)"
     },
     "660": {
-        "name": "Die erhöte nachfrage nach Elite Marine Jäger Geschwader",
+        "name": "Die erhöhte nachfrage nach Elite Marine Jäger Geschwader",
         "desc": "Habe 'Erfahrene Besatzung'. Rüste eine Sekretärin mit >> \u2605max Typ 2 Katapultjäger Kai im ersten Slot aus. Entsorge zwei Typ-0-Jagdflugzeug Modell 21 und 2 Zuiun.",
         "memo": "\u2718Verbraucht die Items und einmal Erfahrene Besatzung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'Typ 2 Katapultjäger Kai (Erfahren)'"
     },
@@ -1800,12 +1800,12 @@
         "memo": "\u2718Verbraucht die Ressourcen und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Feldration (Besondere Reisbällchen)'"
     },
     "669": {
-        "name": "Entwicklung eines Schiff Basierten Nachtkampf Jäger Flugzeugs",
+        "name": "Entwicklung eines Schiff Basierten Nachtkampf Jäger Flugzeug",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein >> \u2605max F6F-3.",
         "memo": "Habe Material für neue Flugzeugmodelle, 6 Schrauben, 5000 Bauxit und 30 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-3 im ersten Slot aus.\nEntsorge zwei Typ 13 Luftradar und zwei Typ 22 Oberflächenradar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-3N'"
     },
     "670": {
-        "name": "Leistungs Verbesserung eines Nachtkampf Jäger Flugzeugs",
+        "name": "Leistungs Verbesserung eines Nachtkampf Jäger Flugzeug",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein >> \u2605max F6F-5.",
         "memo": "Habe Material für neue Flugzeugmodelle, 8 Schrauben, 6000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein >> \u2605max F6F-5 im ersten Slot aus.\nEntsorge 2x Typ 13 Luftradar und 2x Typ 22 Oberflächenradar.\n\u203bLeistungs Verbesserung eines eines Nachtkampf Jäger Flugzeugs\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'F6F-5N'"
     },
@@ -1815,9 +1815,9 @@
         "memo": "Habe Material für neue Flugzeugmodelle, Erfahrene Besatzung, 10 Schrauben, 5000 Munition, 8000 Bauxit und 40 Entwicklungsmaterialien.\nHabe ein CV als Sekretärin und rüste ein TBF im ersten Slot aus.\nEntsorge 2x Typ 13 Luftradar und 2x Typ 22 Oberflächenradar.\n\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'TBM-3D'"
     },
     "672": {
-        "name": "The Establishment of the Striking Force's Fleet Command Facility",
+		"name": "Aufbau der Kampfgruppen Kommandozentrale",
         "desc": "Habe 10 Entwicklungsmaterialien, 2000 Stahl und 2 Schlachtberichte. Rüste eine Sekretärin mit einer Flottenkommando Zentrale im ersten Slot aus. Entsorge 3 Radare.",
-        "memo": "\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Striking Force Fleet Command Facility'"
+        "memo": "\u2718Verbraucht die Ressourcen, items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Kampfgruppen-Kommandozentrale'"
     },
     "675": {
         "name": "Vierteljährlicher Abfangjäger",
@@ -1833,7 +1833,7 @@
     },
     "677": {
         "name": "Wöchentliche Verschrottung 2",
-        "desc": "Habe 3600 Stahl. Entsorge 4 Groß Kal. Hauptgeschütze, 2 Aufklärungswasserflugzeuge und 3 Torpedoes.",
+        "desc": "Habe 3600 Stahl. Entsorge 4 Groß Kal. Hauptgeschütze, 2 Aufklärungswasserflugzeuge und 3 Torpedos.",
         "memo": "\u203bKonsolidierung von Fabriken für die Unterstützung der Kriegsbemühungen\n\u2718Verbraucht die Ressourcen.",
         "trackingDesc": [ "{0} Groß Kal. Hauptgeschütze", "{0} Aufklärungswasserflugzeuge", "{0} Torpedos" ]
     },

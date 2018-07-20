@@ -3,7 +3,7 @@
 	
 	"SortieWinCount": "Gewonnene Einsätze",
 	"SortieLoseCount": "Verlorene Einsätze",
-	"SortieWinRate": "Erfoldsquote Einsätze",
+	"SortieWinRate": "Erfolgsquote Einsätze",
 	"TotalExpeditions": "Anzahl Expeditionen",
 	"ExpeditionSuccessCount": "Erfolgreiche Expeditionen",
 	"ExpeditionSuccessRate": "Erfolgsquote Expeditionen",
@@ -51,7 +51,6 @@
 	"MenuStrategyDesc" : "Verschiedene Tools, die dir helfen, deine Flotten zu verwalten, zu analysieren und Strategien zu entwickeln.",
 	"MenuSettingsDesc" : "Erweiterungseinstellungen. Werden beim nächsten Spielstart aktiv.",
 	"MenuAboutDesc" : "Informationen über KC3改, dessen Entwickler, Übersetzer und Tester",
-
 	"MenuFBName" : "Like uns auf Facebook!",
 	"MenuFBDesc" : "Erhalte die letzten Releaseinformationen, Previews und Ankündigungen!",
 	
@@ -164,7 +163,6 @@
 	"AboutReporter" : "Fehlermelder",
 	
 	"AboutProjectHead" : "Projektleitung",
-
 	"AboutLogo" : "Logo-Design",
 	"AboutFairy" : "Feen-Designer",
 	"AboutDevBattleReplay" : "Kampfwiedergabe/Simulator-Entwickler",
@@ -181,7 +179,6 @@
 	
 	"AboutPartnerThreeBardsName" : "ThreeBards.com by cyrismustang",
 	"AboutPartnerThreeBardsDesc" : "Einbindung des KanColle-Abzeichengenerators",
-
 	
 	"AboutPartnerKCCalcName" : "KanColle-Calc",
 	"AboutPartnerKCCalcDesc" : "Integrierte Funktion für das leichte Exportieren von Flotteninformationen in den Flottenersteller",
@@ -367,7 +364,7 @@
 	"SettingsSubtitleHourly" : "Untertitel für Stunden ansagen",
 	"SettingsSubtitleAccurateDuration" : "Subtitle Accurate Duration",
 	"SettingsGoogleTranslate": "Auf Google Übersetzer zurückgreifen",
-	"SettingsMuteGameTab" : "Tab beim Starten Stummschalten",
+	"SettingsMuteGameTab" : "Tab Stummschalten",
 	
 	"SubtitleDisplayBottom": "(Unten) Am unteren Rand des Spiels",
 	"SubtitleDisplayBelow": "(Drunter) Unter dem Rand des Spiels",
@@ -680,7 +677,7 @@
 	"PanelFCFTipEscortShip" : "Möchtest du das ich sie zurück zur Basis eskortiere?\nWenn sie sich zurückzieht, hat das folgenden Effekt auf die Kombinierte Flotte:",
 	"PanelFCFTipStrikingForce" : "Möchtest du die vom Schlachtfeld extrahieren?\nWenn ja, wird dies folgenden Effekt auf die Flotte haben:",
 	"PanelNoTaiha" : "HP gut",
-	"PanelSupplied" : "Versorgung gut",
+	"PanelSupplied" : "Versorgt",
 	"PanelNotSupplied" : "<100% versorgt",
 	"PanelUnderSupplied" : "Versorgung benötigt",
 	"PanelEmptySupply" : "Kein Vorrat mehr",
@@ -726,6 +723,7 @@
 	"LandBaseActionRest" : "Ausruhen",
 	"LandBaseTipFighterPower" : "Einsatz Flugkampfkraft",
 	"LandBaseTipAirDefensePower" : "Luftabwehrkraft",
+	"LandBaseDefenseShotdown" : "Abschüsse unter AS(Luftüberlegenheit):\n\u2003Slot #1: {0}\n\u2003Slot #2: {1}\n\u2003Slot #3: {2}\n\u2003Slot #4: {3}",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
@@ -811,7 +809,7 @@
 	"FirstFleetLevelTip" : "Exp. für PvP Gegner:\nBase: {0}\nS-Rank: {1} ohne CT",
 	
 	"RemodelItemListTitle"    : "Ich kann diese Verbessern.<br/>(<span>{0:weekday} JST</span>)",
-	"RemodelItemDetail"       : "In dem fall,<br/>braucehn wir:",
+	"RemodelItemDetail"       : "In dem fall,<br/>brauchen wir:",
 	"RemodelItemConsumeNeeds" : "Unverbesserete & ungenutzte Items:",
 	"RemodelItemUpgradeTo"    : "Werden Verbesert zu:",
 	"RemodelItemResultSuccess": "Die Verbesserung war ein Erfolg!",

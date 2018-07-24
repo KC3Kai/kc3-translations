@@ -1352,7 +1352,8 @@
         "code": "B115",
         "name": "Elite Destroyer Division, Wreak Havoc!",
         "desc": "Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes. Press F10 to clear the overlay.",
-        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal"
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal",
+        "unlock": [ 889 ]
     },
     "881": {
         "code": "B116",
@@ -1764,27 +1765,27 @@
         "unlock": [ 880 ]
     },
     "322": {
-        "code": "C22",
+        "code": "C20",
         "name": "Kaiboukan, Commence Exercises!",
         "desc": "Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards furniture and either a Reinforcement Expansion OR a Medal"
     },
     "323": {
-        "code": "C20",
+        "code": "C21",
         "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships. F10 will clear the overlay. ",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR an Action Report",
         "unlock": [ 884 ]
     },
     "324": {
-        "code": "C21",
+        "code": "C22",
         "name": "Battle Carrier Lead Ship, Commence Exercises!",
         "desc": "Secure 3 victories in Exercises within the same day using Ise Kai Ni as flagship, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Suisei OR two Zuiun OR a Type 2 Reconnaissance Aircraft\n\u00B6Second choice: Either two Type 22 Surface Radars OR two 12cm 30-tube Rocket Launchers OR a New Model Artillery Armament Materials",
         "unlock": [ 683, 885, 886 ]
     },
     "325": {
-        "code": "C22",
+        "code": "C23",
         "name": "Remodelled Yuugumo-class, Commence Exercises!",
         "desc": "Secure 4 victories in Exercises within the same day using Yuugumo Kai Ni, Naganami Kai Ni and up to 4 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"

@@ -1,143 +1,226 @@
 {
     "101": {
+        "code": "A1",
         "name": "Hạm đội đầu tiên!",
-        "desc": "Có 2 tàu trong hạm đội chính."
+        "desc": "Có 2 tàu trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: Khu trục hạm Shirayuki",
+        "unlock": [ 102 ]
     },
     "102": {
+        "code": "A2",
         "name": "Thành lập hạm đội Khu trục!",
-        "desc": "Có 4 Khu trục hạm trong hạm đội chính."
+        "desc": "Có 4 DD trong hạm đội chính.",
+        "unlock": [ 103 ]
     },
     "103": {
+        "code": "A3",
         "name": "Thành lập Thủy lôi chiến đội!",
-        "desc": "Có 1 CL làm kỳ hạm và 5 DD trong hạm đội chính."
+        "desc": "Có 1 CL làm Kỳ hạm và 5 DD trong hạm đội chính.",
+        "unlock": [ 104, 105 ]
     },
     "104": {
+        "code": "A4",
         "name": "Thành lập hạm đội 6 tàu!",
-        "desc": "Có 6 tàu trong hạm đội chính."
+        "desc": "Có 6 tàu trong hạm đội chính.",
+        "memo": "\u27a3Mở khóa Hạm đội thứ 2 và chức năng Viễn chinh",
+        "unlock": [ 115, 116 ]
     },
     "105": {
-        "name": "Thành lập hạm đội 2 CL!",
-        "desc": "Có 2 CL trong hạm đội chính."
+        "code": "A5",
+        "name": "Thành lập hạm đội Tuần dương hạng nhẹ!",
+        "desc": "Có 2 CL trong hạm đội chính.",
+        "unlock": [ 106, 108, 254, 401 ]
     },
     "106": {
+        "code": "A7",
         "name": "Thành lập hạm đội Tuần dương hạng nặng!",
-        "desc": "Có 2 CA trong hạm đội chính."
+        "desc": "Có 2 CA trong hạm đội chính.",
+        "unlock": [ 215 ]
     },
     "107": {
+        "code": "A12",
         "name": "Thành lập Không mẫu Cơ động Bộ đội!",
-        "desc": "Có 1 CV/CVL làm kì hạm và 3 DD trong hạm đội chính."
+        "desc": "Có 1 CV/CVL làm kì hạm và 3 DD trong hạm đội chính.",
+        "unlock": [ 217 ]
     },
     "108": {
+        "code": "A8",
         "name": "Thành lập lớp Tenryuu!",
-        "desc": "Có Tenryuu (\u5929\u9f8d) và Tatsuta (\u9f8d\u7530) trong hạm đội chính."
+        "desc": "Có Tenryuu (\u5929\u9f8d) và Tatsuta (\u9f8d\u7530) trong hạm đội chính.",
+        "unlock": [ 111 ]
     },
     "109": {
+        "code": "A14",
         "name": "Thành lập lớp Sendai!",
-        "desc": "Có Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) và Naka (\u90a3\u73c2) trong hạm đội chính."
+        "desc": "Có Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) và Naka (\u90a3\u73c2) trong hạm đội chính.",
+        "memo": "\u27a3Mở khóa Hạm đội thứ 3",
+        "unlock": [ 110, 704 ]
     },
     "110": {
+        "code": "A15",
         "name": "Thành lập lớp Myoukou!",
-        "desc": "Có Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) và Haguro (\u7fbd\u9ed2) trong hạm đội chính."
+        "desc": "Có Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) và Haguro (\u7fbd\u9ed2) trong hạm đội chính.",
+        "unlock": [ 118 ]
     },
     "111": {
+        "code": "A17",
         "name": "Thành lập lớp Fusou!",
-        "desc": "Có Fusou (\u6276\u6851) và Yamashiro (\u5c71\u57ce) trong hạm đội chính."
+        "desc": "Có Fusou (\u6276\u6851) và Yamashiro (\u5c71\u57ce) trong hạm đội chính.",
+        "unlock": [ 112 ]
     },
     "112": {
+        "code": "A18",
         "name": "Thành lập lớp Ise!",
-        "desc": "Có Ise (\u4f0a\u52e2) và Hyuuga (\u65e5\u5411) trong hạm đội chính."
+        "desc": "Có Ise (\u4f0a\u52e2) và Hyuuga (\u65e5\u5411) trong hạm đội chính.",
+        "unlock": [ 153 ]
     },
     "113": {
-        "name": "Thành lập hạm đội Chính với BB và CA!",
-        "desc": "Có 1 BB và 2 CA trong hạm đội chính."
+        "code": "A13",
+        "name": "Thành lập hạm đội Chính với Thiết giáp hạm và Tuần dương Hạng nặng!",
+        "desc": "Có 1 BB và 2 CA trong hạm đội chính.",
+        "unlock": [ 114, 119 ]
     },
     "114": {
+        "code": "A19",
         "name": "Thành lập Nam Vân Cơ động Bộ đội!",
-        "desc": "Chỉ có Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) và Souryuu (\u84bc\u9f8d) trong hạm đội chính."
+        "desc": "Chỉ có Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) và Souryuu (\u84bc\u9f8d) trong hạm đội chính.",
+        "unlock": [ 185, 625 ]
     },
     "115": {
+        "code": "A6",
         "name": "Thành lập hạm đội thứ 2!",
-        "desc": "Có 1 mẫu hạm ở trong hạm đội thứ 2."
+        "desc": "Có 1 chiến hạm bất kì ở trong hạm đội thứ 2.",
+        "unlock": [ 215 ]
     },
     "116": {
-        "name": "Có 1 Thuỷ phi cơ mẫu hạm",
-        "desc": "Có 1 AV trong hạm đội chính."
+        "code": "A6",
+        "name": "Triển khai Thuỷ phi cơ mẫu hạm",
+        "desc": "Có 1 AV trong hạm đội chính.",
+        "unlock": [ 120, 146, 174 ]
     },
     "117": {
+        "code": "A11",
         "name": "Thành lập Không mẫu Cơ động Bộ đội ở hạm đội thứ 2!",
-        "desc": "Có 1 CV/CVL và 3 DD trong hạm đội thứ 2."
+        "desc": "Có 1 CV/CVL và 3 DD trong hạm đội thứ 2.",
+        "unlock": [ 217 ]
     },
     "118": {
+        "code": "A16",
         "name": "Thành lập lớp Kongou!",
-        "desc": "Có Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) và Kirishima (\u9727\u5cf6) trong hạm đội chính."
+        "desc": "Có Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) và Kirishima (\u9727\u5cf6) trong hạm đội chính.",
+        "unlock": [ 611 ]
     },
     "119": {
+        "code": "A20",
         "name": "Thành lập hạm đội Mikawa!",
-        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) và 1 tàu tốc độ cao trong hạm đội chính."
+        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) và 1 tàu tốc độ cao trong hạm đội chính.",
+        "unlock": [ 121, 219 ]
     },
     "120": {
+        "code": "A10",
         "name": "Thành lập Hạm đội Khu trục số 6!",
-        "desc": "Chỉ có Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) và Ikazuchi (\u96fb) trong hạm đội chính."
+        "desc": "Chỉ có Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) và Ikazuchi (\u96fb) trong hạm đội chính.",
+        "unlock": [ 128, 222, 274 ]
     },
     "121": {
+        "code": "A21",
         "name": "Thành lập Hạm đội Tuần dương số 4!",
-        "desc": "Có Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) và Maya (\u6469\u8036) trong hạm đội chính."
+        "desc": "Có Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) và Maya (\u6469\u8036) trong hạm đội chính.",
+        "unlock": [ 122, 124, 125, 127, 129, 223 ]
     },
     "122": {
+        "code": "A22",
         "name": "Thành lập Hạm đội Nishimura!",
-        "desc": "Có Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) và Shigure (\u6642\u96e8) trong hạm đội chính."
+        "desc": "Có Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) và Shigure (\u6642\u96e8) trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: Mamiya",
+        "unlock": [ 123, 126, 224 ]
     },
     "123": {
-        "name": "Thành lập Hạm đội Mẫu hạm đội 5!",
-        "desc": "Có Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) và 2 DD trong hạm đội chính."
+        "code": "A23",
+        "name": "Thành lập Hạm đội Mẫu hạm Số 5!",
+        "desc": "Có Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) và 2 DD trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa khẩn cấp",
+        "unlock": [ 143, 148, 161, 225 ]
     },
     "124": {
+        "code": "A24",
         "name": "Thành lập Hạm đội Mikawa kiểu mới!",
-        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) và Tenryuu (\u5929\u9f8d) trong hạm đội chính."
+        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) và Tenryuu (\u5929\u9f8d) trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: Mamiya",
+        "unlock": [ 227 ]
     },
     "125": {
+        "code": "A25",
         "name": "Thành lập 1 hạm đội tàu ngầm!",
-        "desc": "Có 2 SS trong hạm đội chính."
+        "desc": "Có 2 SS trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chửa khẩn cấp",
+        "unlock": [ 131, 231 ]
     },
     "126": {
+        "code": "A26",
         "name": "Thành lập 1 Hạm đội Không vận!",
-        "desc": "Có 2 BBV và 2 CAV trong hạm đội chính."
+        "desc": "Có 2 BBV và 2 CAV trong hạm đội chính.",
+        "unlock": [ 232 ]
     },
     "127": {
+        "code": "A27",
         "name": "Thành lập 1 Hạm đội tàu ngầm cỡ Trung!",
-        "desc": "Có 3 SS trong hạm đội chính."
+        "desc": "Có 3 SS trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: Mamiya",
+        "unlock": [ 139, 405 ]
     },
     "128": {
+        "code": "A28",
         "name": "Thành lập Hạm đội Tuần dương số 6!",
-        "desc": "Có Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) và Kinugasa (\u8863\u7b20) trong hạm đội chính."
+        "desc": "Có Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) và Kinugasa (\u8863\u7b20) trong hạm đội chính.",
+        "memo": "\u27a3Phần thưởng: Mamiya",
+        "unlock": [ 138, 233 ]
     },
     "129": {
+        "code": "A29",
         "name": "Thành lập Hạm đội số 5!",
-        "desc": "Có Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), và Kiso (\u6728\u66fe) trong hạm đội."
+        "desc": "Có Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), và Kiso (\u6728\u66fe) trong hạm đội.",
+        "unlock": [ 130 ]
     },
     "130": {
-        "name": "Thành lập Hạm đội ngư lôi số 1!",
-        "desc": "Có Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) và Shiranui (\u4e0d\u77e5\u706b) trong hạm đội."
+        "code": "A30",
+        "name": "Thành lập Thủy lôi Chiến đội Số 1!",
+        "desc": "Có Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) và Shiranui (\u4e0d\u77e5\u706b) trong hạm đội.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa khẩn cấp",
+        "unlock": [ 410 ]
     },
     "131": {
-        "name": "Thành lập đội khu trục số 8!",
-        "desc": "Có Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) và Arashio (\u8352\u6f6e) trong hạm đội."
+        "code": "A31",
+        "name": "Thành lập Hạm đội Khu trục Số 8!",
+        "desc": "Chỉ có DUY NHẤT Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) và Arashio (\u8352\u6f6e) trong hạm đội.",
+        "unlock": [ 133, 239 ]
     },
     "132": {
-        "name": "Thành lập đội khu trục số 18!",
-        "desc": "Có DUY NHẤT Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) và Shiranui (\u4e0d\u77e5\u706b) trong hạm đội."
+        "code": "A32",
+        "name": "Thành lập Hạm đội Khu trục Số 18!",
+        "desc": "Chỉ có DUY NHẤT Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) và Shiranui (\u4e0d\u77e5\u706b) trong hạm đội.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa khẩn cấp",
+        "unlock": [ 144, 149, 240 ]
     },
     "133": {
-        "name": "Thành lập đội khu trục số 30 (Thế hệ thứ nhất)!",
-        "desc": "Có DUY NHẤT Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) và Mochizuki (\u671b\u6708) trong hạm đội."
+        "code": "A33",
+        "name": "Thành lập Hạm đội Khu trục Số 30 (Thế hệ Đầu)!",
+        "desc": "Chỉ có DUY NHẤT Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) và Mochizuki (\u671b\u6708) trong hạm đội.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa khẩn cấp",
+        "unlock": [ 136, 244 ]
     },
     "134": {
+        "code": "WA01",
         "name": "Chuẩn bị cho tình yêu! (Phần 3)",
-        "desc": "Triển khai hạm đội với một tàu làm kì hạm có cấp độ cao (Lv.90~99)!"
+        "desc": "Triển khai hạm đội với một tàu làm kì hạm có cấp độ cao (Lv.90~99)!",
+        "unlock": [ 245 ]
     },
     "135": {
-        "name": "Một hành trình mới!",
-        "desc": "Tổ chức một hạm đội gồm 6 tàu trong đó có một tàu có cấp độ Lv.100 hoặc cao hơn làm kì hạm!"
+        "code": "WA02",
+        "name": "Hành trình mới!",
+        "desc": "Tổ chức một hạm đội gồm 6 tàu trong đó có một tàu có cấp độ Lv.100 hoặc cao hơn làm kì hạm!",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa khẩn cấp",
+        "unlock": [ 246 ]
     },
     "136": {
         "name": "Thành lập đội khu trục số 30 (Thế hệ thứ 2)",

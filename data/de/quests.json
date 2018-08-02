@@ -1019,7 +1019,7 @@
 	"887": {
 		"name": "Erweitere die 18. Elite Kreuzer Division!",
 		"desc": "Sende Tenryuu Kai Ni, Tatsuta Kai Ni, 2 DD und bis zu 2 weitere Schiffe nach [W1-2], [W1-4] und [W1-5], S-Rank die Boss Knoten, Erreiche das Ziel in [W1-6] einmal. Drücke F10 um das Overlay zu verbergen.",
-		"memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '5x Eimer' ODER '1x Schlachtbericht''\n\u00B6Zweitewahl: Entweder '2x Typ-22-Oberflächenradar' ODER '1x Medaille' ODER '4x Schrauben"
+		"memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '5x Eimer' ODER '1x Schlachtbericht''\n\u00B6Zweitewahl: Entweder '2x Typ-22-Oberflächenradar' ODER '4x Schrauben"
 	},
 	"889": {
         "name": "Erster Zug der 27. Elite Zerstörer Division, zum Einsatz!",
@@ -1840,7 +1840,9 @@
     "678": {
         "name": "Vierteljährliche Shiden Kai Ni und Materialien",
         "desc": "Habe 4000 Bauxit. Rüste eine Sekretärin mit zwei Typ-0-Jagdflugzeug Modell 52 in den ersten beiden Slots aus. Entsorge 3 Typ-96-Jagdflugzeug und 5 Typ-0-Jagdflugzeug Modell 21. Overlay: F10",
-        "memo": "Drücke F10 um das Overlay zu verbergen das denn Belohnungs Auswahl Bildschirm versteckt.\n\u203bEine Aufwertung für die Haupt Jäger Flugzeuge\n\u2718Verbraucht die Ressourcen und Ausrüstung.\n\u27a3Belohnungen: zwei 'Shiden Kai Ni' und entweder 'Material für neue Flugzeugmodelle' ODER '8 Entwicklungsmaterialien'"
+        "memo": "Drücke F10 um das Overlay zu verbergen das denn Belohnungs Auswahl Bildschirm versteckt.\n\u203bEine Aufwertung für die Haupt Jäger Flugzeuge\n\u2718Verbraucht die Ressourcen und Ausrüstung.\n\u27a3Belohnungen: zwei 'Shiden Kai Ni' und entweder 'Material für neue Flugzeugmodelle' ODER '8 Entwicklungsmaterialien'",
+		"tracking": [ [0,3], [0,5] ],
+        "trackingDesc": [ "{0} Typ-96-Jagdflugzeug", "{0} Typ-0-Jagdflugzeug Modell 21" ]
     },
     "679": {
         "name": "Erweiterung der Luftabwehr Bewaffnung",

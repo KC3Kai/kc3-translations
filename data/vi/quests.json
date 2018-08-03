@@ -270,59 +270,174 @@
     },
     "166": {
         "name": "Thành lập Hạm đội Ozawa!",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai and Hyuuga Kai in your main fleet.",
+        "desc": "Đặt Zuikaku Kai làm kì hạm và có Zuihou Kai, Chitose (CVL), Chiyoda (CVL), Ise Kai cùng Hyuuga Kai trong hạm đội chính của bạn",
         "memo": "\u27a3Phần thưởng 1 đội sửa chữa khẩn cấp"
     },
     "167": {
-        "code": "A62",
-        "name": "Form the New Carrier Division!",
-        "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and 2 DD in your fleet.",
-        "memo": "\u27a3Rewards an Irako and a Skilled Crew Member",
-        "unlock": [ 633 ]
+        "name": "Thành lạp Hạm đội Mẫu hạm Kiểu mới!",
+        "desc": "Có Zuikaku Kai Ni, Shoukaku Kai Ni và 2 khu trục hạm (DD) nữa trong hạm đội bất kì.",
+        "memo": "\u27a3Phần thưởng: 1 Irako và 1 Skilled Crew Member"
     },
     "168": {
-        "code": "A63",
-        "name": "Form the 16th Cruiser Division (Second Generation)",
-        "desc": "Have Natori as flagship, Isuzu and Kinu in your fleet.",
-        "unlock": [ 295 ]
+        "name": "Thành lập Hạm đội Tuần dương Số 16 (Thế hệ 2)",
+        "desc": "Đặt Natori làm kì hạm và có Isuzu cùng Kinu trong hạm đội bất kì."
     },
     "169": {
-        "code": "A64",
-        "name": "Form the Newly Organized Carrier Division!",
-        "desc": "Have 2 CV(L), 2 BBV/CAV and 2 DD in your fleet.",
-        "memo": "\u27a3Rewards 2 Screws",
-        "unlock": [ 296 ]
+        "name": "Thành lập Hạm đội Mẫu hạm mới!",
+        "desc": "Có 2 mẫu hạm (CV/CVL), 2 thiết giáp/tuần dương hạm hàng không (BBV/CAV) và 2 khu trục hạm (DD) trong hạm đội bất kì."
     },
     "170": {
-        "code": "A65",
-        "name": "Reform the Strengthened Surface Counterattack Force!",
-        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet.",
-        "unlock": [ 297 ]
+        "name": "Tái thiết Hạm đội Phản công Mặt nước Tăng cường!",
+        "desc": "Đặt Kasumi làm kì hạm cùng Ashigara, Ooyodo, Asashimo và Kiyoshimo trong hạm đội bất kì."
     },
     "171": {
-        "code": "A66",
-        "name": "Form the 31st Cruiser Division (First Generation)!",
-        "desc": "Have Isuzu Kai Ni as flagship, Satsuki Kai Ni and Uzuki Kai in your fleet.",
-        "memo": "\u27a3Rewards an Irako",
-        "unlock": [ 807 ]
+        "name": "Thành lập Hạm đội Tuần dương Số 31 (Thế hệ đầu)!",
+        "desc": "Đặt Isuzu Kai Ni làm kì hạm cùng Satsuki Kai Ni và Uzuki Kai trong hạm đội bất kì.",
+        "memo": "\u27a3Phần thưởng: 1 Irako"
     },
     "172":{
-        "code": "A67",
-        "name": "Form the 27th Destroyer Division!",
-        "desc": "Have ONLY Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare in your fleet.",
-        "unlock": [ 808 ]
+        "name": "Thành lập Hạm đội Khu trục Số 27!",
+        "desc": "Có DUY NHẤT Shiratsuyu Kai (kì hạm), Shigure, Harusame và Samidare trong hạm đội bất kì."
     },
     "173":{
-        "code": "A68",
-        "name": "Form a Forced High-Speed Transport Force!",
-        "desc": "Have Sendai Kai Ni as flagship, Kawakaze Kai Ni, Shigure Kai Ni and 2 DD in your fleet.",
-        "unlock": [ 814 ]
+        "name": "Thành lập Hạm đội Giao vận Cao tốc!",
+        "desc": "Đặt Sendai Kai Ni làm kì hạm cùng Kawakaze Kai Ni, Shigure Kai Ni và 2 khu trục hạm (DD) khác trong hạm đội bất kì."
     },
     "174":{
-        "code": "A69",
-        "name": "Reform the Fleet Composition Into a New Torpedo Squadron!",
-        "desc": "Have a CL/CLT/CT as flagship and 4 DD in any fleet.",
-        "unlock": [ 817 ]
+        "name": "Tái thiết Hạm đội Hỗn hợp thành Tân Thủy lôi Chiến đội!",
+        "desc": "Đặt 1 CL/CLT/CT làm kì hạm và 4 DD khác trong hạm đội bất kì."
+    },
+    "175": {
+        "name": "Tái thiết Hạm đội Khu trục Số 8!",
+        "desc": "Có DUY NHẤT Asashio Kai Ni (hoặc Kai Ni D) làm kì hạm, Michishio, Ooshio và Arashio trong hạm đội.",
+        "memo": "\u2718Nếu thỏa điều kiện mà nhiệm vụ không xóa, hủy nhiệm vụ, sau đó nhận lại để kích hoạt nó."
+    },
+    "176": {
+        "name": "Elite! DesDiv 8, 1st platoon!",
+        "desc": "Have Asashio Kai Ni D and Ooshio Kai Ni in your fleet.",
+        "memo": "\u2718If you meet the conditions and it doesn't clear, switch the quest off and turn it on again.\n\u27a3Rewards an Irako and 3 Screws"
+    },
+    "177": {
+        "code": "A72",
+        "name": "Form the 19th Destroyer Division!",
+        "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet.",
+        "unlock": [ 826 ]
+    },
+    "178": {
+        "code": "A73",
+        "name": "Form the 16th Cruiser Division (Third Generation)!",
+        "desc": "Have Kinu, Aoba, Kitakami and Ooi in your fleet.",
+        "unlock": [ 835 ]
+    },
+    "179": {
+        "code": "A74",
+        "name": "Reform the Elite 16th Cruiser Division!",
+        "desc": "Have Kinu Kai Ni as flagship and any five of Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai and Shikinami Kai in your fleet.",
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 836 ]
+    },
+    "180": {
+        "code": "A75",
+        "name": "Form the New 1st Battleship Division!",
+        "desc": "Have Nagato Kai Ni as flagship and Mutsu Kai in Fleet 1.",
+        "memo": "\u27a3Rewards an Irako",
+        "unlock": [ 856 ]
+    },
+    "181": {
+        "code": "A76",
+        "name": "Form the New 7th Cruiser Division!",
+        "desc": "Have Kumano Kai Ni (or Kou) as flagship, Suzuya Kai Ni (or Kou) as second ship, Mogami Kai and Mikuma Kai in Fleet 1.",
+        "memo": "\u27a3Rewards an Irako",
+        "unlock": [ 858 ]
+    },
+    "182": {
+        "code": "A77",
+        "name": "Reform the Elite 4th Carrier Division!",
+        "desc": "Have Lv.50+ Ise and Lv. 50+ Hyuuga as flagship and second ship, 1 CL, 2 DD, and 1 additional ship in Fleet 1.",
+        "memo": "\u27a3Rewards a Skilled Crew Member",
+        "unlock": [ 859 ]
+    },
+    "183": {
+        "code": "A78",
+        "name": "Form the New 4th Torpedo Squadron!",
+        "desc": "Have Yura Kai Ni as flagship, Murasame, Yuudachi, Harusame, Samidare, and 1 other DD in Fleet 1.",
+        "memo": "\u27a3Rewards a Repair Team",
+        "unlock": [ 189, 860 ]
+    },
+    "184": {
+        "code": "A79",
+        "name": "Reform the Elite 22nd Destroyer Division!",
+        "desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai in your fleet.",
+        "memo": "\u27a3Rewards 2 Combat Rations",
+        "unlock": [ 863 ]
+    },
+    "185": {
+        "code": "A80",
+        "name": "Form the Powerful Task Force!",
+        "desc": "Have Saratoga Mk.II or Mod.2 as flagship, 1 CL and 2 DD in Fleet 1. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a F6F-3 OR a F4U-1D\n\u00B6Second choice: Either a TBF OR a New Model Aviation Armament Materials",
+        "unlock": [ 669, 864 ]
+    },
+    "186": {
+        "code": "A81",
+        "name": "Form the Supreme 8th Destroyer Division!",
+        "desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni (or D), Michishio Kai Ni, and Ooshio Kai Ni in your fleet.",
+        "memo": "\u27a3Rewards a Combat Ration and an Irako",
+        "unlock": [ 871 ]
+    },
+    "187": {
+        "code": "A82",
+        "name": "Nishimura Fleet, 2nd Division Escort Force, Assemble!",
+        "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
+    },
+    "188": {
+        "code": "A83",
+        "name": "Elite DesDiv 31, First Platoon, Prepare to Sortie!",
+        "desc": "Have Naganami Kai Ni as flagship and ONLY ONE of Takanami Kai, Asashimo Kai or Okinami Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy",
+        "unlock": [ 875 ]
+    },
+    "189": {
+        "code": "A84",
+        "name": "Elite DesRon 4, Prepare to Set Sail!",
+        "desc": "Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.",
+        "memo": "\u27a3Rewards a Repair Goddess",
+        "unlock": [ 877 ]
+    },
+    "190": {
+        "code": "A85",
+        "name": "Elite 21st Destroyer Division, Prepare to Set Sail!",
+        "desc": "Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.",
+        "memo": "If Nenohi is in the fleet, additional audio dialogue will play after the quest is turned in. There may be other unknown requirements for this.\n\u27a3Rewards a Combat Ration",
+        "unlock": [ 319 ]
+    },
+    "191": {
+        "code": "A86",
+        "name": "Remodeled 17th Destroyer Division, Commence Restructuring!",
+        "desc": "Have ONLY Hamakaze B Kai, Isokaze B Kai, Urakaze Kai and Tanikaze Kai in your fleet.",
+        "memo": "\u27a3Rewards a Mamiya and a Reinforcement Expansion"
+    },
+    "192": {
+        "code": "A87",
+        "name": "Form the Elite 18th Destroyer Division!",
+        "desc": "Have ONLY Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai and Shiranui Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
+        "unlock": [ 881 ]
+    },
+    "193": {
+        "code": "A88",
+        "name": "Supreme Type-A Destroyers, Assemble!",
+        "desc": "Have Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni and three level 70+ Kagerou/Yuugumo-class DD in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 323 ]
+    },
+    "194": {
+        "code": "A89",
+        "name": "Form the Elite 18th Cruiser Division!",
+        "desc": "Have ONLY Tenryuu Kai Ni and Tatsuta Kai Ni in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 5 Development Materials OR a Furniture Fairy",
+        "unlock": [ 887 ]
     },
     "202": {
         "name": "Xuất kích lần đầu!",

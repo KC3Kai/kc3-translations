@@ -658,7 +658,8 @@
     "223": {
         "code": "B13",
         "name": "Sortie the 4th Cruiser Division!",
-        "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node."
+        "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node.",
+        "unlock": [ 890 ]
     },
     "224": {
         "code": "B14",
@@ -1421,6 +1422,7 @@
         "name": "Daily Battles",
         "desc": "Attack 10 Abyssal fleets.",
         "memo": "\u203bAssault 10 Enemy Fleets!",
+        "unlock": [ 327 ],
         "tracking": [ [0,10] ]
     },
     "211": {
@@ -1664,7 +1666,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 302, 304, 313, 314, 315 ],
+        "unlock": [ 302, 304, 313, 314, 315, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -2558,7 +2560,7 @@
         "name": "Wartime Modification of Destroyer Main Guns",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
         "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
-        "unlock": [ 686 ]
+        "unlock": [ 686, 687 ]
     },
     "686": {
         "code": "F77",

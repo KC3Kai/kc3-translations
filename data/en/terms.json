@@ -63,6 +63,7 @@
 	"MenuScheduledSoon" : "unscheduled",
 	"MenuPvPReset" : "Next PvP Reset",
 	"MenuQuestReset" : "Next Quest Reset",
+	"MenuRankPtsCutoff" : "Next Rank Pts Cut-off",
 	"MenuServerMaintenance" : "Game Maintenance",
 	"MenuTimeUnknown": "Unknown",
 	"MaintenanceComplete": "TBA",
@@ -389,7 +390,7 @@
 	"SettingsPoiDBSubmission" :"Send data to poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 	
-	"SettingsOpenDBSubmission" :"Send data to Kancolle OpenDB (http://swaytwig.com/opendb/)",
+	"SettingsOpenDBSubmission" :"Send data to Kancolle OpenDB (http://opendb.swaytwig.com/)",
 	"SettingsEnableOpenDBSubmission" : "Enable this feature",
 	
 	"SettingsKC3DBSubmission" :"Send data to KC3改 (http://kc3.jetri.co)",
@@ -650,6 +651,7 @@
 	"PanelHighestAkashi" : "Highest Akashi Repair Time",
 	"PanelRepairMoreDays" : "More than 24 hours",
 	"PanelRepairing" : "Repairing...",
+	"PanelLastHomePort" : "Previous Home Port",
 	"PanelCombinedShipBarsHint" : "Exp. Remaining: {0}\nFuel: {1}%, Ammo: {2}%",
 	"PanelNextRemodelLv" : "Next Remodel: Lv. {0:level}",
 	"PanelPossibleRemodel" : "This ship can be remodeled.",
@@ -721,6 +723,7 @@
 	"LandBaseActionRest" : "Rest",
 	"LandBaseTipFighterPower" : "Sortie fighter power",
 	"LandBaseTipAirDefensePower" : "Air defense interception power",
+	"LandBaseDefenseShotdown" : "Shotdowns under AS:\n\u2003Slot #1: {0}\n\u2003Slot #2: {1}\n\u2003Slot #3: {2}\n\u2003Slot #4: {3}",
 	
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",

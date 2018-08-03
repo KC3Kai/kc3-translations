@@ -10,7 +10,6 @@
 	],
 	
 	"airbattle" : [
-
 		["AP", "", "Luftparität"],
 		["AS+", "best", "Luftherrschaft"],
 		["AS", "good", "Luftüberlegenheit"],
@@ -46,7 +45,6 @@
 		"Fahrtformation 3 (Diamant)",
 		"Fahrtformation 4 (Kampf)"
 	],
-
 
 	"support" :  [
 		"",
@@ -84,7 +82,7 @@
 		"Hauptgeschütz-CI [2,0x1]",
 		"CVCI [1,18~1,25]",
 		"DD Primär-CI [1,3~x1]",
-		"DD Ausguck-CI [1,25x1]"
+		"DD Ausguck-CI [1,2~x1]"
 	],
 
 	"aacitype": [
@@ -112,12 +110,15 @@
 		["Yura Kai Ni", "Steilfeuergeschütz", "Luftabwehrradar"],
 		["Fumizuki Kai Ni", "Luftabwehrkanone mit Geschützgruppe"],
 		["UIT-25, I-504", "Luftabwehrkanone (ohne Geschützgruppe)"],
-		["Tatsuta Kai Ni", "Steilfeuergeschütz", "Luftabwehrkanone (ohne Geschützgruppe)"],
+		["Tenryuu-Klasse Kai Ni", "Steilfeuergeschütz", "Luftabwehrkanone (ohne Geschützgruppe)"],
 		["Ise-Klasse Kai+", "12cm Dreißig-Rohre Raketenwerfer Kai Ni", "Luftabwehrradar", "Typ-3-Granate"],
 		["Musashi Kai Ni", "10cm Steilfeuer-Zwillingsgeschütz Kai + zusätzliche Luftabwehrkanonen", "Luftabwehrradar"],
 		[],
 		["Musashi Kai+, Ise-Klasse Kai+", "12cm 30-Rohr Raketenwerfer Kai Ni", "Luftabwehrradar"],
 		["Kagerou-Klasse B Kai", "Steilfeuergeschütz", "Luftabwehrradar"],
+		["Tenryuu Kai Ni", "Steilfeuergeschütz", "Steilfeuergeschütz", "Steilfeuergeschütz"],
+		["Tenryuu Kai Ni", "Steilfeuergeschütz", "Steilfeuergeschütz"],
+		["Royal Navy Schiffe, Kongou-Klasse", "7 Zoll 20-Rohr UP-Raketenwerfer, 16 Zoll Drillingsgeschütz Mk.I Kai + FKR Typ 284", "QF Zweipfünder Pom-Pom Achtlingsgeschütz"],
 		[]
 	]
 }

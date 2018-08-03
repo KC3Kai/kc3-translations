@@ -40,6 +40,7 @@
 	"MenuUpdate"       : "アップデート",
 	"MenuPvPReset"     : "次の演習リセット",
 	"MenuQuestReset"   : "デイリーリセット",
+	"MenuRankPtsCutoff": "次の戦果締め切り",
 	"MenuChangelog"    : "(変更履歴)",
 	"MenuOnLatest"     : "すでに最新",
 	"MenuScheduledNow" : "間もなく",
@@ -368,7 +369,7 @@
 	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "送信する",
 
-	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://swaytwig.com/opendb/)",
+	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://opendb.swaytwig.com/)",
 	"SettingsEnableOpenDBSubmission" : "送信する",
 
 	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
@@ -641,6 +642,7 @@
 	"PanelHighestAkashi"   : "最大の泊地修理時間",
 	"PanelRepairMoreDays"  : "24時間以上",
 	"PanelRepairing"       : "修理中...",
+	"PanelLastHomePort"    : "母港の時刻",
 	"PanelCombinedShipBarsHint" : "次のLvまで：{0} exp\n残り燃料：{1}%、弾薬：{2}%",
 	"PanelNextRemodelLv"   : "次の改造可能Lv {0}",
 	"PanelPossibleRemodel" : "すでに改造可能",
@@ -698,6 +700,7 @@
 	"LandBaseActionRest"    : "休息",
 	"LandBaseTipFighterPower" : "出撃対空値",
 	"LandBaseTipAirDefensePower" : "迎撃防空値",
+	"LandBaseDefenseShotdown" : "航空優勢時の敵機被撃墜率：\n　スロット1：{0}\n　スロット2：{1}\n　スロット3：{2}\n　スロット4：{3}",
 
 	"MapNameWorld1" : "鎮守府海域",
 	"MapNameWorld2" : "南西諸島海域",

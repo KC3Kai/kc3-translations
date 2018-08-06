@@ -1026,6 +1026,13 @@
         "desc": "Sende Shiratsuyu Kai Ni, Shigure Kai Ni und bis zu 4 weitere Schiffe nach [W2-3], [W4-1], [W5-5] und [W6-5]. S-Rank die Boss knoten. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u26233Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnung '1x 12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät' und entweder '1x Medaille' ODER '1x Material für neue Geschützturmmodelle' ODER '8x Eimer'"
     },
+	  "890": {
+        "name": "4. Elite Kreuzer Division, Zweiter Zug, Segel setzen!",
+        "desc": "Sende Choukai Kai Ni, Maya Kai Ni und bis zu 4 weitere Schiffe nach [W1-4], [W2-3], [W3-3] und [W4-5]. S-Rank die Boss knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen 'Möbel' und entweder  '2x 12.7cm Steilfeuer-Zwillingsgeschütz (Spätes Model)' ODER 8 Eimer ODER 'Medaille'"
+    },
+	
+
 
     "201": {
         "name": "Täglicher Sieg",
@@ -1311,6 +1318,17 @@
         "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben Tages während du Yuugumo Kai Ni, Naganami Kai Ni und bis zu 4 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '3x Irako' ODER '2x Typ-2-Wasserbombe'\n\u00B6Zweitewahl: Entweder '1x Schiffshüllenerweiterung' ODER '1x Medaille'"
     },
+	"326": {
+        "name": "Großübungen im Sommer",
+        "desc": "Sichere 8 Siege in Übungsgefechten innerhalb des selben Tages.",
+        "memo": "\u27a3Belohnungen: 'Mamiya' und 'Geschenkbox'"
+    },
+    "327": {
+        "name": "Asashio-Klasse, Angetreten! Auf zum Intensiv Training!",
+        "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben Tages während du mindestens 4 Schiffe der Asashio-Klasse und bis zu 2 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
+        "memo": "\u27a3Belohnungen: '3 Eimer' und entweder '4 Entwicklungsmaterialien' ODER 'Typ-3 Wasserbombenabschussvorrichtung' ORER 'Möbelfee'"
+    },
+    
 
 
     "401": {
@@ -1880,6 +1898,11 @@
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
         "memo": "\u203bMassen Produktion des Typ-A-Mehrzweckgeschützes während der Kriegs Zeit\n\u203bHabe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
         "trackingDesc": [ "{0} 10cm Steilfeuer-Zwillingsgeschütze", "{0} Typ-94-Feuerleitgerät" ]
+    },
+	    "687": {
+        "name": "Kriegs Aufrüstung von Zwei Zerstörer Hauptgeschützen",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "memo": "\u203bHabe Shigure Kai Ni oder Yuudachi Kai Ni als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN slot aus.\nEntsorge fünf 10cm Steilfeuer-Zwillingsgeschütz und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät'"
     },
 
     "701": {

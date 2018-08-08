@@ -1,12 +1,12 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "Cực tốt", "Tất cả trinh sát cơ an toàn trở về"],
-		["OK-", "Tốt", "Chỉ mất vài trinh sát cơ"],
-		["-", "Cực tệ", "Mất toàn bộ phi đội trinh sát"],
-		["NO", "Tệ", "Trinh sát thất bại"],
-		["OK+", "Tốt", "Không có trinh sát cơ nào tham chiến"],
-		["NO+", "Tệ", "Không có trinh sát cơ nào tham chiến"]
+		["OK", "best", "Tất cả trinh sát cơ an toàn trở về"],
+		["OK-", "good", "Chỉ mất vài trinh sát cơ"],
+		["-", "worst", "Mất toàn bộ phi đội trinh sát"],
+		["NO", "bad", "Trinh sát thất bại"],
+		["OK+", "good", "Không có trinh sát cơ nào tham chiến"],
+		["NO+", "bad", "Không có trinh sát cơ nào tham chiến"]
 	],
 	
 	"airbattle" : [

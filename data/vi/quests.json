@@ -63,7 +63,7 @@
         "desc": "Có 1 chiến hạm bất kì ở trong hạm đội thứ 2."
     },
     "116": {
-        "name": "Triển khai Thuỷ phi cơ mẫu hạm",
+        "name": "Xuất kích Thuỷ phi cơ mẫu hạm",
         "desc": "Có 1 AV trong hạm đội chính."
     },
     "117": {
@@ -145,7 +145,7 @@
     },
     "134": {
         "name": "Chuẩn bị cho tình yêu! (Phần 3)",
-        "desc": "Triển khai hạm đội với một tàu làm kì hạm có cấp độ cao (Lv.90~99)!"
+        "desc": "Xuất kích hạm đội với một tàu làm kì hạm có cấp độ cao (Lv.90~99)!"
     },
     "135": {
         "name": "Hành trình mới!",
@@ -169,7 +169,7 @@
         "desc": "Có 1 AS và 4 SS(V) trong hạm đội."
     },
     "140": {
-        "name": "Triển khai thử loại ra đa mới!",
+        "name": "Xuất kích thử loại ra đa mới!",
         "desc": "Đặt Myoukou Kai2 làm kì hạm trong hạm đội chính.",
         "memo": "\u27a3Phần thưởng: 1 Ra đa Mặt đắt Kiểu 22 Kai 4"
     },
@@ -183,7 +183,7 @@
         "memo": "\u27a3Phần thưởng: 1 Nguyên mẫu Pháo 3 nòng 35,6cm"
     },
     "143": {
-        "name": "Triển khai 1 Mẫu hạm Tiêu chuẩn Kiểu mới",
+        "name": "Xuất kích 1 Mẫu hạm Tiêu chuẩn Kiểu mới",
         "desc": "Đặt Unryuu (\u96f2\u9f8d) làm kì hạm cho hạm đội chính."
     },
     "144": {
@@ -358,247 +358,250 @@
     "185": {
         "name": "Thành lập Lực lượng Tinh nhuệ!",
         "desc": "Đặt Saratoga Mk.II hoặc Mod.2 làm kì hạmà cùng 1 CL v 2 DD trong hạm đội chính.",
-        "memo": "\u27a3Phần thưởng:\n\u00B6Lựa chọn thứ 1: 1 F6F-3 hoặc 1 F4U-1D\n\u00B6Lựa chọn thứ 2: 1 TBF hoặc 1 New Model Aviation Armament Materials"
+        "memo": "\u27a3Phần thưởng:\n\u00B6Lựa chọn thứ 1: 1 F6F-3 hoặc 1 F4U-1D\n\u00B6Lựa chọn thứ 2: 1 TBF hoặc 1 Nguyên liệu Vũ trang Không lực Kiểu mới"
     },
     "186": {
-        "code": "A81",
-        "name": "Form the Supreme 8th Destroyer Division!",
-        "desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni (or D), Michishio Kai Ni, and Ooshio Kai Ni in your fleet.",
-        "memo": "\u27a3Rewards a Combat Ration and an Irako",
-        "unlock": [ 871 ]
+        "name": "Thành lập Hạm đội Khu trục Tối thượng Số 8!",
+        "desc": "Có DUY NHẤT Arashio Kai Ni, Asashio Kai Ni (hoặc D), Michishio Kai Ni và Ooshio Kai Ni trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 1 Lương thực Chiến đấu và 1 Irako"
     },
     "187": {
-        "code": "A82",
-        "name": "Nishimura Fleet, 2nd Division Escort Force, Assemble!",
-        "desc": "Have Mogami, Asagumo, Michishio, Shigure and Yamagumo in Fleet 3. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either 2 Irako OR a Furniture Fairy OR a New Model Artillery Armament Materials"
+        "name": "Hải đoàn Nishimura, Đệ nhị Hộ tống Hạm đội, TẬP HỢP!",
+        "desc": "Có Mogami, Asagumo, Michishio, Shigure và Yamagumo trong hạm đội thứ 3.",
+        "memo": "\u27a3Phần thưởng: 2 Irako hoặc 1 Tiên Nội thất hoặc 1 Nguyên liệu Vũ trang Pháo Kiểu mới"
     },
     "188": {
-        "code": "A83",
-        "name": "Elite DesDiv 31, First Platoon, Prepare to Sortie!",
-        "desc": "Have Naganami Kai Ni as flagship and ONLY ONE of Takanami Kai, Asashimo Kai or Okinami Kai in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either 2 Combat Ration (Special Onigiri) OR a Furniture Fairy",
-        "unlock": [ 875 ]
+        "name": "Chiến đội 1 Hạm đội Khu trục Tinh nhuệ Số 31, chuẩn bị XUẤT KÍCH!",
+        "desc": "Đặt Naganami Kai Ni làm kì hạm và chỉ có DUY NHẤT 1 trong các tàu: Takanami Kai, Asashimo Kai và Okinami Kai trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 2 Lương thực Chiến đấu (Cơm nắm Phần đặc biệt) hoặc 1 Tiên Nội thất"
     },
     "189": {
-        "code": "A84",
-        "name": "Elite DesRon 4, Prepare to Set Sail!",
-        "desc": "Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.",
-        "memo": "\u27a3Rewards a Repair Goddess",
-        "unlock": [ 877 ]
+        "name": "Đệ Tứ Khu trục Chiến đội Tinh nhuệ, chuẩn bị xuất kích!",
+        "desc": "Đặt Murasame Kai Ni làm kì hạm, chọn 3 tàu trong số các tàu Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai hoặc Akizuki Kai cùng thêm 2 tàu khác tùy ý.",
+        "memo": "\u27a3Phần thưởng: 1 Tiên Sửa chữa"
     },
     "190": {
-        "code": "A85",
-        "name": "Elite 21st Destroyer Division, Prepare to Set Sail!",
-        "desc": "Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.",
-        "memo": "If Nenohi is in the fleet, additional audio dialogue will play after the quest is turned in. There may be other unknown requirements for this.\n\u27a3Rewards a Combat Ration",
-        "unlock": [ 319 ]
+        "name": "Hạm đội Khu trục Tinh nhuệ Số 21, chuẩn bị xuất kích!",
+        "desc": "Có Wakaba Kai, Hatsuharu Kai Ni và Hatsushimo Kai Ni, cùng 1 DD khác trong hạm đội (hạm đội không quá 4 tàu).",
+        "memo": "Nếu có Nenohi trong hạm đội, sẽ có 1 phần thoại xuất hiện khi nhận nhiệm vụ này. Có thể cần thêm yêu cầu khác để kích hoạt được sự kiện này.\n\u27a3Phần thưởng: 1 Lương thực Chiến đấu"
     },
     "191": {
-        "code": "A86",
-        "name": "Remodeled 17th Destroyer Division, Commence Restructuring!",
-        "desc": "Have ONLY Hamakaze B Kai, Isokaze B Kai, Urakaze Kai and Tanikaze Kai in your fleet.",
-        "memo": "\u27a3Rewards a Mamiya and a Reinforcement Expansion"
+        "name": "Bắt đầu tái cơ cấu, hiện đại hóa Hạm đội Khu trục Số 17!",
+        "desc": "Có DUY NHẤT Hamakaze B Kai, Isokaze B Kai, Urakaze Kai và Tanikaze Kai trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 1 Mamiya và 1 Mở rộng Viện quân"
     },
     "192": {
-        "code": "A87",
-        "name": "Form the Elite 18th Destroyer Division!",
-        "desc": "Have ONLY Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai and Shiranui Kai in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
-        "unlock": [ 881 ]
+        "name": "Thành lập Hạm đội Khu trục Tinh nhuệ Số 18!",
+        "desc": "Có DUY NHẤT Arare Kai Ni, Kasumi Kai Ni (hoặc B), Kagerou Kai và Shiranui Kai trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 1 Reinforcement Expansion hoặc 1 Tiên Nội thất"
     },
     "193": {
-        "code": "A88",
-        "name": "Supreme Type-A Destroyers, Assemble!",
-        "desc": "Have Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni and three level 70+ Kagerou/Yuugumo-class DD in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
-        "unlock": [ 323 ]
+        "name": "Khu trục hạm Kiểu A Tối thượng, TẬP HỢP!",
+        "desc": "Có Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni và 3 DD level 70 trở lên thuộc lớp Kagerou/Yuugumo trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 1 Pháo Nòng đôi 12.7cm Mẫu C Kai Ni hoặc 1 Huân chương"
     },
     "194": {
-        "code": "A89",
-        "name": "Form the Elite 18th Cruiser Division!",
-        "desc": "Have ONLY Tenryuu Kai Ni and Tatsuta Kai Ni in your fleet. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either 5 Development Materials OR a Furniture Fairy",
-        "unlock": [ 887 ]
+        "name": "Thành lập Hạm đội Tuần dương Tinh nhuệ Số 18!",
+        "desc": "Có DUY NHẤT Tenryuu Kai Ni và Tatsuta Kai Ni trong hạm đội của bạn.",
+        "memo": "\u27a3Phần thưởng: 5 Vật liệu Phát triển hoặc 1 Tiên Nội thất"
     },
     "202": {
         "name": "Xuất kích lần đầu!",
-        "desc": "Triển khai hạm đội chính đi một map bất kì."
+        "desc": "Xuất kích hạm đội chính đi một bản đồ bất kì."
     },
     "203": {
-        "name": "Bảo vệ vùng nước quanh Quận Cảng!",
-        "desc": "Triển khai tới World 1-1 và hoàn thành map."
+        "name": "Bảo vệ vùng biển quanh Quận Cảng!",
+        "desc": "Xuất kích tới bản đồ 1-1. Hạng B trở lên ở Boss-node"
     },
     "204": {
         "name": "Xuất kích tới bờ biển quần đảo Nansei!",
-        "desc": "Triển khai tới 1-2 và hoàn thành map."
+        "desc": "Xuất kích tới bản đồ 1-2 và hoàn thành bản đồ."
     },
     "205": {
         "name": "Chặn đánh hạm đội tiên phong của địch!",
-        "desc": "Triển khai tới World 1-2 sau khi đã đánh bại boss và hoàn thành map."
+        "desc": "Xuất kích tới bản đồ 1-2 và đạt hạng B trở lên ở Boss-node.",
+        "memo": "\u27a3Phần thưởng: Khu trục hạm Miyuki"
     },
     "206": {
-        "name": "Triển khai Phóng lôi Hải đoàn!",
-        "desc": "Triển khai 1 hạm đội có 1 CL làm kì hạm và 3 DD hộ tống."
+        "name": "Xuất kích 1 Hải đội Phóng lôi!",
+        "desc": "Xuẩ kích 1 hạm đội có 1 CL làm kì hạm và 3 DD hộ tống vào bản đồ bất kì."
     },
     "207": {
-        "name": "Triển khai 1 Tuần dương hạm hạng nặng!",
-        "desc": "Triển khai 1 hạm đội có 1 CA làm kì hạm."
+        "name": "Xuất kích 1 Tuần dương hạm hạng nặng!",
+        "desc": "Xuất kích 1 hạm đội có CA làm kì hạm."
     },
     "208": {
-        "name": "Triển khai 1 Thiết giáp hạm!",
-        "desc": "Triển khai 1 hạm đội có 1 BB làm kì hạm. BBV không được tính."
+        "name": "Xuất kích 1 Thiết giáp hạm!",
+        "desc": "Xuất kích 1 hạm đội có 1 BB làm kì hạm. BBV không được tính."
     },
     "209": {
-        "name": "Triển khai Không mẫu Cơ động Bộ đội!",
-        "desc": "Triển khai 1 hạm đội bao gồm 1 CV(L) làm kì hạm và 5 DD\/CL\/AV hộ tống."
+        "name": "Xuất kích Không mẫu Cơ động Bộ đội!",
+        "desc": "Xuất kích 1 hạm đội bao gồm 1 CV(L) làm kì hạm và 5 DD\/CL\/AV hộ tống vào bản đồ bất kì."
     },
     "215": {
-        "name": "Xuất kích hạm đội số 2!",
-        "desc": "Triển khai hạm đội số 2 đi một map bất kì"
+        "name": "Hải đoàn số 2, XUẤT KÍCH!",
+        "desc": "Xuất kích hạm đội số 2 đi một bản đồ bất kì (Không tính viễn chinh)."
     },
     "217": {
         "name": "Đánh chìm Không mẫu địch!",
-        "desc": "Đánh chìm một Hàng không Mẫu hạm của địch"
+        "desc": "Đánh chìm một Hàng không Mẫu hạm của địch",
+        "memo": "\u27a3Phần thưởng: Hàng không Mẫu hạm Akagi"
     },
     "219": {
-        "name": "Triển khai hạm đội Mikawa!",
-        "desc": "Triển khai 1 hạm đội bao gồm Choukai, Aoba, Kako, Furutaka, Tenryuu và một tàu có tốc độ nhanh khác."
+        "name": "Xuất kích hạm đội Mikawa!",
+        "desc": "Xuất kích 1 hạm đội bao gồm Choukai, Aoba, Kako, Furutaka, Tenryuu và một tàu có tốc độ nhanh khác vào bản đồ bất kì.",
+        "memo": "\u27a3Phần thưởng: 1 Đội sửa chữa"
     },
     "222": {
-        "name": "Triển khai đội khu trục số 6!",
-        "desc": "Triển khai 1 hạm đội gồm DUY NHẤT Akatsuki, Hibiki, Inazuma, và Ikazuchi."
+        "name": "Xuất kích Hạm đội Khu trục số 6!",
+        "desc": "Xuất kích 1 hạm đội gồm DUY NHẤT Akatsuki, Hibiki, Inazuma, và Ikazuchi tới bản đồ bất kì."
     },
     "223": {
-        "name": "Triển khai đội tuần dương số 4!",
-        "desc": "Triển khai 1 hạm đội bao gồm Atago, Takao, Choukai, Maya và 2 tàu bất kì. Giành 1 chiến thắng trước boss 2-2 (B-rank trở lên)."
+        "name": "Xuất kích Hạm đội Tuần dương số 4!",
+        "desc": "Xuất kích 1 hạm đội bao gồm Atago, Takao, Choukai, Maya và 2 tàu bất kì. Giành 1 chiến thắng trước boss 2-2 (B-rank trở lên)."
     },
     "224": {
-        "name": "Triển khai hạm đội Nishimura!",
-        "desc": "Triển khai 1 hạm đội bao gồm Fusou, Yamashiro, Mogami, Shigure và 2 tàu bất kì. Giành chiến thắng trước boss 2-3."
+        "name": "Xuất kích hạm đội Nishimura!",
+        "desc": "Xuất kích 1 hạm đội bao gồm Fusou, Yamashiro, Mogami, Shigure và 2 tàu bất kì. Giành chiến thắng trước boss 2-3 (B-rank trở lên)."
     },
     "225": {
-        "name": "Triển khai Không đội 5!",
-        "desc": "Triển khai 1 hạm đội gồm Shoukaku, Zuikaku và 4 tàu bất kì. Giành lấy 1 chiến thắng trước boss 3-1 (B-rank trở lên)."
+        "name": "Xuất kích Không đội 5!",
+        "desc": "Xuất kích 1 hạm đội gồm Shoukaku, Zuikaku và 4 tàu bất kì. Giành lấy 1 chiến thắng trước boss 3-1 (B-rank trở lên)."
     },
     "227": {
-        "name": "Triển khai hạm đội Mikawa mới!",
-        "desc": "Triển khai 1 hạm đội bao gồm Choukai, Aoba, Kinugasa, Kako, Furutaka và Tenryuu. Đạt 1 chiến thắng ở boss 2-3 ( B-rank trở lên)."
+        "name": "Xuất kích hạm đội Mikawa mới!",
+        "desc": "Xuất kích 1 hạm đội bao gồm Choukai, Aoba, Kinugasa, Kako, Furutaka và Tenryuu. Đạt 1 chiến thắng ở boss 2-3 ( B-rank trở lên).",
+        "memo": "\u27a3Phần thưởng: 1 Đội Sửa chữa khẩn cấp"
     },
     "231": {
-        "name": "Triển khai 1 hạm đội tàu ngầm!",
-        "desc": "Triển khai 1 hạm đội bao gồm 2 SS và 4 tàu tuỳ chọn. Giành 1 chiến thắng trước boss 2-3 ( B-rank trở lên)."
+        "name": "Xuất kích 1 hạm đội tàu ngầm!",
+        "desc": "Xuất kích 1 hạm đội bao gồm 2 SS và 4 tàu tuỳ chọn. Giành 1 chiến thắng trước boss 2-3 ( B-rank trở lên).",
+        "memo": "\u27a3Phần thưởng: 1 Tiên Nội thất"
     },
     "232": {
-        "name": " Triển khai 1 hạm đội không vận!",
-        "desc": "Triển khai 1 hạm đội gồm có 2 BBV, 2 CAV và 2 tàu khác.Giành 1 chiến thắng trước boss 4-2 (B-rank trở lên) ."
+        "name": " Xuất kích 1 hạm đội không vận!",
+        "desc": "Xuất kích 1 hạm đội gồm có 2 BBV, 2 CAV và 2 tàu khác.Giành 1 chiến thắng trước boss 4-2 (B-rank trở lên) .",
+        "memo": "\u27a3Phần thưởng: 1 Mamiya"
     },
     "233": {
         "name": "Xuất kích đội tuần dương hạm số 6!",
-        "desc": "Triển khai 1 hạm đội bao gồm  Furutaka, Kako, Kinugasa, Aoba và 2 tàu khác. Đạt 1 S rank ở boss 2-3."
+        "desc": "Xuất kích 1 hạm đội bao gồm  Furutaka, Kako, Kinugasa, Aoba và 2 tàu khác. Đạt S rank ở boss 2-3.",
+        "memo": "\u27a3Phần thưởng: 1 Đội Sửa chữa khẩn cấp"
     },
     "239": {
-        "name": "Xuất kích đội khu trục số 8!",
-        "desc": "Triển khai 1 hạm đội gồm Asashio, Michishio, Ooshio, Arashio và 2 tàu tuỳ chọn.Giành chiến thắng trước boss 2-3."
+        "name": "Xuất kích Hạm đội Khu trục số 8!",
+        "desc": "Xuất kích 1 hạm đội gồm Asashio, Michishio, Ooshio, Arashio và 2 tàu tuỳ chọn. Giành chiến thắng trước boss 2-3 (B-rank trở lên)."
     },
     "240": {
-        "name": "Triển khai đội khu trục số 18!",
-        "desc": "Triển khai 1 hạm đội bao gồm Kasumi, Arare, Kagerou, Shiranui và 2 tàu tuỳ chọn. Giành 1 chiến thắng trước boss 3-1 (B-rank trở lên )."
+        "name": "Xuất kích đội khu trục số 18!",
+        "desc": "Xuất kích 1 hạm đội bao gồm Kasumi, Arare, Kagerou, Shiranui và 2 tàu tuỳ chọn. Giành 1 chiến thắng trước boss 3-1 (B-rank trở lên )."
     },
     "244": {
-        "name": "Triển khai đội khu trục số 30 (Thế hệ thứ nhất)",
-        "desc": "Triển khai 1 hạm đội bao gồm Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) và thêm nhiều nhất DD khác tới 3-2 và gặp boss. Yêu cầu đạt từ C-rank trở lên."
+        "name": "Xuất kích đội khu trục số 30 (Thế hệ thứ nhất)",
+        "desc": "Xuất kích 1 hạm đội bao gồm Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) cùng 2 tàu tùy chọn khác tới 3-2 và gặp boss. Yêu cầu đạt từ C-rank trở lên.",
+        "memo": "\u27a3Phần thưởng: 1 Mamiya"
     },
     "245": {
         "name": "Chuẩn bị cho tình yêu! (Cuối cùng)",
-        "desc": "Triển khai 1 hạm đội với kì hạm có cấp độ cao (Lv.90~99) tới 2-3 giành chiến thắng S rank ở boss node."
+        "desc": "Xuất kích 1 hạm đội với kì hạm có cấp độ Lv.90~99 tới 2-3 giành chiến thắng (S-rank) ở boss node.",
+        "memo": "\u27a3Phần thưởng: 1 Nhẫn cưới và Tập tài liệu."
     },
     "246": {
         "name": "Nhiệm vụ đầu tiên cùng nhau!",
-        "desc": "Triển khai hạm đội tới 4-3 với một tàu có Lv.100 hoặc cao hơn làm kì hạm và đạt chiến thắng S rank ở boss node."
+        "desc": "Xuất kích hạm đội tới 4-3 với một tàu có Lv.100 hoặc cao hơn làm kì hạm và đạt chiến thắng S rank ở boss node.",
+        "memo": "\u27a3Phần thưởng: đồ nội thất"
     },
     "247": {
         "name": "Xuất kích một hạm đội Hàng không Thiết giáp hạm!",
-        "desc": "Có 2 BBV trong hạm đội chính và giành chiến thắng boss World 4-4 một lần ( B-rank trở lên) "
+        "desc": "Có 2 BBV trong hạm đội chính và giành chiến thắng boss ở bản đồ 4-4 một lần (B-rank trở lên) "
     },
     "248": {
         "name": "Tuần tra chống ngầm của đội khu trục số 30",
-        "desc": "Triển khai Mutsuki, Yayoi, Uzuki và Mochizuki tới 1-5 và vào được boss, đạt ít nhât 1 C rank."
+        "desc": "Xuất kích hạm đội gồm Mutsuki, Yayoi, Uzuki và Mochizuki tới 1-5. C-rank ở Boss-node (xem thêm luật đi đường ở bản đồ này trên Kancolle Wiki).",
+        "memo": "\u27a3Phần thưởng: 1 Tiên Nội thất"
     },
     "250": {
-        "name": "Triển khai Không đội 2",
-        "desc": "Triển khai Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) làm kì hạm, Souryuu (\u84bc\u9f8d) và hai khu trục hạm tới 5-2. Có thể thêm hai tàu khác. Đạt chiến thắng S rank ở boss node."
+        "name": "Xuất kích Không đội 2",
+        "desc": "Xuất kích Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) làm kì hạm, Souryuu (\u84bc\u9f8d), 2 DD cùng 2 tàu khác tới 5-2. Đạt S-rank ở boss node.",
+        "memo": "\u27a3Phần thưởng: 2 Mamiya"
     },
     "251": {
-        "name": "Triển khai Không đội 2 tinh nhuệ",
-        "desc": "Triển khai Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) làm kì hạm, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) và hai khu trục hạm tới 4-3. Bạn có thể thêm hai tàu khác. Đạt chiến thắng S rank ở boss node."
+        "name": "Xuất kích Không đội 2 tinh nhuệ",
+        "desc": "Xuất kích Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) làm kì hạm, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c), 2 DD cùng 2 tàu khác tới 4-3. Đạt S-rank ở boss node.",
+        "memo": "\u27a3Phần thưởng: 1 Tiên Nội thất"
     },
     "252": {
-        "name": "Triển khai một hạm đội do Haruna dẫn đầu",
-        "desc": "Triển khai 1 hạm đội với Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) làm kì hạm và thêm nhiều nhất 5 tàu khác tới World 5-1 và đạt S rank ở boss ."
+        "name": "Xuất kích Thiết giáp hạm Haruna",
+        "desc": "Xuất kích 1 hạm đội với Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) làm kì hạm cùng 5 tàu khác tới World 5-1. Đạt S-rank ở boss-node.",
+        "memo": "\u27a3Phần thưởng: 1 Nguyên mẫu Pháo 3 nòng 35.6cm"
     },
     "253": {
-        "name": "Triển khai Không đoàn 601",
-        "desc": "Triển khai 1 hạm đội với Unryuu Kai (\u96f2\u9f8d\u6539) làm kì hạm tới 5-2 và đạt S rank ở boss."
+        "name": "Xuất kích Không đoàn 601",
+        "desc": "Xuất kích 1 hạm đội với Unryuu Kai (\u96f2\u9f8d\u6539) làm kì hạm cùng 5 tàu khác tới 5-2 và đạt S-rank ở boss.",
+        "memo": "\u27a3Phần thưởng: 1 Skilled Carrier-based Aircraft Maintenance Personnel"
     },
     "254": {
-        "name": "Triển khai đội Không mẫu hạng nhẹ",
-        "desc": "Triển khai một hạm đội bao gồm 1-2 CVL, 1 CL và 3-4 DD tới 2-1 và đạt S rank ở boss node."
+        "name": "Xuất kích đội Không mẫu hạng nhẹ",
+        "desc": "Xuất kích 1 hạm đội bao gồm 1-2 CVL, 1 CL và 3-4 DD tới 2-1 và đạt S rank ở boss node.",
+        "memo": "\u27a3Phần thưởng: 1 Đội Sửa chữa khẩn cấp"
     },
     "255": {
-        "name": "Triển khai 1 hạm đội phóng lôi tới quần đảo Bashi",
-        "desc": "Triển khai 1 hạm đội bao gồm 1-2 CL (một trong số đó phải là kì hạm) và 4-5 DD tới 2-2. Đạt một chiến thắng ở boss ( B-rank trở lên) và đánh chìm kì hạm của địch."
+        "name": "Xuất kích 1 hạm đội phóng lôi tới quần đảo Bashi",
+        "desc": "Xuất kích 1 hạm đội bao gồm 1-2 CL (một trong số đó phải là kì hạm) và 4-5 DD tới 2-2. Đạt S-rank ở boss-node.",
+        "memo":"\u27a3Phần thưởng: 1 Tiên Nội thất"
     },
     "258": {
-        "name": "Xuất kích Đệ nhị Hải đoàn",
-        "desc": "Triển khai Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) và thêm nhiều nhất hai tàu khác tới 4-2. Đạt S rank hai lần ở boss node."
+        "name": "Xuất kích Đệ nhị Thiết giáp Hải đoàn",
+        "desc": "Xuất kích Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) và 2 tàu khác tới 4-2. Đạt S-rank 2 lần ở boss node.",
+        "memo": "\u27a3Phần thưởng: Đạn Xuyên giáp Kiểu 1"
     },
     "260": {
-        "name": "Triển khai hải đoàn Thiết giáp hạm ở vùng biển phía Bắc",
-        "desc": "Triển khai 2 Thiết giáp hạm, 1 Không mẫu hạng nhẹ và thêm nhiều nhất 3 tàu khác tới 3-5 và đạt S rank  ở boss node."
+        "name": "Xuất kích hải đoàn Thiết giáp hạm ở vùng biển phía Bắc",
+        "desc": "Xuất kích 2 (F)BB (không tính BBV), 1 CVL cùng 3 tàu khác tới 3-5 và đạt S rank ở boss node.",
+        "memo": "\u2718Hạm đội chỉ đc phép có tối đa 1 CVL.\n\u27a3Phần thưởng: Đạn Xuyên giáp Kiểu 1"
     },
     "262": {
-        "name": "Triển khai Hạm đội Nishimura tới vùng biển phía Nam",
-        "desc": "Triển khai Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) và Michishio (\u6e80\u6f6e) (bạn cũng có thể thêm một tàu khác) tới 5-1 và đạt S rank ở boss node."
+        "name": "Xuất kích Hạm đội Nishimura tới vùng biển phía Nam",
+        "desc": "Xuất kích Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8), Michishio (\u6e80\u6f6e) cùng 1 tàu khác tới 5-1 và đạt S rank ở boss node."
     },
     "263": {
-        "name": "Triển khai hải đoàn số 6 tới vùng biển Tây Nam",
-        "desc": "Triển khai Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) và thêm tối đa 2 tàu khác tới 2-5 và đạt S rank ở boss node."
+        "name": "Xuất kích hải đoàn số 6 tới vùng biển Tây Nam",
+        "desc": "Xuất kích Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) và thêm tối đa 2 tàu khác tới 2-5 và đạt S rank ở boss node."
     },
     "267": {
-        "name": "Triển khai đội khu trục số 11",
-        "desc": "Triển khai Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) và thêm tối đa 2 tàu nữa tới 2-3 và đạt 1 chiến thắng ở boss node (B-rank trở lên)."
+        "name": "Xuất kích đội khu trục số 11",
+        "desc": "Xuất kích Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) và thêm tối đa 2 tàu nữa tới 2-3 và đạt 1 chiến thắng ở boss node (B-rank trở lên)."
     },
     "268": {
         "name": "Tuần tra chống ngầm của đội khu trục số 11",
-        "desc": "Triển khai Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) và Murakumo(\u53e2\u96f2) tới 1-5 và giành lấy ít nhất C-rank tại boss node."
+        "desc": "Xuất kích Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) và Murakumo(\u53e2\u96f2) tới 1-5 và giành lấy ít nhất C-rank tại boss node."
     },
     "269": {
-        "name": "Triển khai đội khu trục số 21",
-        "desc": "Triển khai Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) và Hatsushimo (\u521d\u971c) và thêm nhiều nhất 2 tàu khác tới 3-1 và đạt S rank ở boss node."
+        "name": "Xuất kích đội khu trục số 21",
+        "desc": "Xuất kích Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) và Hatsushimo (\u521d\u971c) và thêm nhiều nhất 2 tàu khác tới 3-1 và đạt S rank ở boss node."
     },
     "270": {
-        "name": "Triển khai đội khu trục số 22",
-        "desc": "Triển khai Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 DD bất kì và thêm tối đa 2 tàu khác tới 1-4 và đạt S rank ở boss node."
+        "name": "Xuất kích đội khu trục số 22",
+        "desc": "Xuất kích Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 DD bất kì và thêm tối đa 2 tàu khác tới 1-4 và đạt S rank ở boss node."
     },
     "271": {
-        "name": "Triển khai Hạm đội của Nachi",
+        "name": "Xuất kích Hạm đội của Nachi",
         "desc": "Sortie 1 fleet with Nachi (\u90a3\u667a) as flagship, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) và một tàu tuỳ chọn tới 2-2 và đạt S rank ở boss node."
     },
     "272": {
-        "name": "Triển khai Tuần dương hạm phòng không được cải tạo",
-        "desc": "Triển khai 1 hạm đội bao gồm Maya (\u6469\u8036) Kai hoặc Kai2, 1 CL, 2 DD và thêm nhiều nhất 2 tàu khác tới 2-3 và đạt S rank tại boss node."
+        "name": "Xuất kích Tuần dương hạm phòng không được cải tạo",
+        "desc": "Xuất kích 1 hạm đội bao gồm Maya (\u6469\u8036) Kai hoặc Kai2, 1 CL, 2 DD và thêm nhiều nhất 2 tàu khác tới 2-3 và đạt S rank tại boss node."
     },
     "273": {
-        "name": "Triển khai Hạm đội Mikawa tới quần đảo Solomon",
+        "name": "Xuất kích Hạm đội Mikawa tới quần đảo Solomon",
         "desc": "Xuất kích hạm đội chính bao gồm Choukai Kai2 làm kì hạm và năm tàu bất kì trong số Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari tới 5-1 và đạt S-Rank ở boss"
     },
     "274": {
         "name": "Tuần tra chống ngầm của đội khu trục số 6",
-        "desc": "Triển khai Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma và Ikazuchi tới 1-5. Đạt ít nhất C-rank ở  boss"
+        "desc": "Xuất kích Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma và Ikazuchi tới 1-5. Đạt ít nhất C-rank ở  boss"
     },
     "275": {
-        "name": "Triển khai hạm đội số 18",
+        "name": "Xuất kích hạm đội số 18",
         "desc": "Tenryuu, Tatsuta, và ít nhất 2 tàu khác tới [W2-3] và Giành hạng S ở Boss"
     },
     "276": {
@@ -757,41 +760,41 @@
     
     "249": {
         "code": "Bm1",
-        "name": "Triển khai Hạm đội số 5",
+        "name": "Xuất kích Hạm đội số 5",
         "desc": "Đưa Myoukou, Nachi, Haguro và +3 tàu khác đến [W2-5]. Giành hạng S ở Boss",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
-        "name": "Triển khai 1 đội tàu ngầm đến World 6-1",
-        "desc": "Triển khai đến [W6-1] và giành hạng S ở Boss 3 lần",
+        "name": "Xuất kích 1 đội tàu ngầm đến World 6-1",
+        "desc": "Xuất kích đến [W6-1] và giành hạng S ở Boss 3 lần",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
-        "name": "Triển khai 1 Hạm đội Ngư lôi",
+        "name": "Xuất kích 1 Hạm đội Ngư lôi",
         "desc": "1~3 CL (CL làm kì hạm) và 3~5 DD đến [W1-4]. Giành hạng S ở Boss"
     },
     "259": {
         "code": "Bm4",
-        "name": "Triển khai 1 Hạm đội Tàu chiến",
-        "desc": "Triển khai 3 BB(V) + 1 CL + 2 tàu khác đến [W5-1] và giành hạng S ở Boss"
+        "name": "Xuất kích 1 Hạm đội Tàu chiến",
+        "desc": "Xuất kích 3 BB(V) + 1 CL + 2 tàu khác đến [W5-1] và giành hạng S ở Boss"
     },
     "265": {
         "code": "Bm5",
         "name": "Hộ tống hằng tháng",
-        "desc": "Triển khai 1 đội đến [W1-5] và giành hạng A tại Boss 10 lần",
+        "desc": "Xuất kích 1 đội đến [W1-5] và giành hạng A tại Boss 10 lần",
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
-        "name": "Triển khai Không mẫu Cơ động Bộ đội tới miền Tây",
+        "name": "Xuất kích Không mẫu Cơ động Bộ đội tới miền Tây",
         "desc": "2 CV + 2 DD + 2 tàu khác tới [W4-2]. Giành hạng S ở Boss",
         "unlock": [ 266 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Triển khai Hạm đội Phản công",
+        "name": "Xuất kích Hạm đội Phản công",
         "desc": "4 DD (DD làm kì hạm) + 1 CA (không được dùng CAV) + 1 CL tới [W2-5] và giành hạng S ở Boss"
     },
     
@@ -931,7 +934,7 @@
     },
     "417": {
         "code": "D16",
-        "name": "Triển khai lực lượng nghi binh",
+        "name": "Xuất kích lực lượng nghi binh",
         "desc": "Hoàn thành chuyến viễn chinh số 15"
     },
     "418": {
@@ -1121,7 +1124,7 @@
     "280": {
         "code": "SN01",
         "name": "Second SN strategy, Initial Operations",
-        "desc": "Clear the Summer 2015 Event Map 2"
+        "desc": "Clear the Summer 2015 Event bản đồ 2"
     },
     "620": {
         "code": "SN02",
@@ -1141,7 +1144,7 @@
     "282": {
         "code": "SN05",
         "name": "Snatch Away the Air Superiority in the Solomon Sea Area",
-        "desc": "Clear the Summer 2015 Event Map 4"
+        "desc": "Clear the Summer 2015 Event bản đồ 4"
     },
     "159": {
         "code": "SN06",
@@ -1171,7 +1174,7 @@
     "283": {
         "code": "SN11",
         "name": "Eastern Area Dispatch Fleet, Sortie!",
-        "desc": "Clear the Summer 2015 Event Map 5"
+        "desc": "Clear the Summer 2015 Event bản đồ 5"
     }
 
 }

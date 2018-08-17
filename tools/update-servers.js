@@ -15,7 +15,7 @@ const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru'
 const serverJsonFilename = "servers.json";
 const indentChar = '\t';
 const bomChar = '\uFEFF';
-const kcsConstUrl = "http://203.104.209.7/gadget/js/kcs_const.js";
+const kcsConstUrl = "http://203.104.209.7/gadget_html5/js/kcs_const.js";
 
 const _eval = (content) => {
 	const sandbox = {}, exports = {};

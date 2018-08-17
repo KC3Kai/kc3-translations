@@ -68,6 +68,7 @@
 	"MenuScheduledSoon" : "暂无安排",
 	"MenuPvPReset" : "距演习对手刷新还有",
 	"MenuQuestReset" : "距日常任务刷新还有",
+	"MenuRankPtsCutoff" : "距下次战果统计还有",
 	"MenuServerMaintenance" : "距下次服务器维护还有",
 	"MenuTimeUnknown": "未知",
 	"MaintenanceComplete": "维护完成",
@@ -435,7 +436,7 @@
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
-	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://swaytwig.com/opendb/) 发送数据",
+	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://opendb.swaytwig.com/) 发送数据",
 	"SettingsEnableOpenDBSubmission": "启用功能",
 
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
@@ -584,6 +585,7 @@
 	"BattleNightNeeded"	 : "能否夜战？",
 	"BattleDayNeeded"    : "能否昼战？",
 	"BattleRating"		 : "战斗评价",
+	"BattleDamageGauges" : "交战战果: {0}% vs {1}%",
 	"BattleAvoided"		 : "战斗回避",
 	"BattleSelect"		 : "选择分歧: ",
 	"BattleSelectNodes"	 : "{0} 或 {1}",
@@ -692,9 +694,9 @@
 	"PanelChuuhaHp" : "中破HP {0}",
 	"PanelHighestDocking" : "最长的入渠修理时间",
 	"PanelHighestAkashi" : "最长的明石修理时间",
-
 	"PanelRepairMoreDays"  : "多于24小时",
 	"PanelRepairing"	   : "修理中...",
+	"PanelLastHomePort"    : "回母港的时刻",
 	"PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
 	"PanelNextRemodelLv"   : "改造等级 {0}",
 	"PanelPossibleRemodel" : "可改造",
@@ -760,8 +762,7 @@
 	"LandBaseActionRest" : "休息",
 	"LandBaseTipFighterPower" : "制空战力",
 	"LandBaseTipAirDefensePower" : "防空战力",
-	"LandBaseTipInterceptFighters" : "迎击补正",
-	"LandBaseTipInterceptBombers" : "对爆补正",
+	"LandBaseDefenseShotdown" : "航空优势的敌机击坠率：\n　中队1：{0}\n　中队2：{1}\n　中队3：{2}\n　中队4：{3}",
 
 	"LevelText" : "等级",
 	"LevelShort" : "Lv.",

@@ -568,6 +568,20 @@
         "memo": "\u27a3Rewards either a Reinforcement Expansion OR a Furniture Fairy",
         "unlock": [ 881 ]
     },
+    "193": {
+        "code": "A88",
+        "name": "Supreme Type-A Destroyers, Assemble!",
+        "desc": "Have Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni and three level 70+ Kagerou/Yuugumo-class DD in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either a 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "unlock": [ 323 ]
+    },
+    "194": {
+        "code": "A89",
+        "name": "Form the Elite 18th Cruiser Division!",
+        "desc": "Have ONLY Tenryuu Kai Ni and Tatsuta Kai Ni in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either 5 Development Materials OR a Furniture Fairy",
+        "unlock": [ 887 ]
+    },
     
     "202": {
         "code": "B1",
@@ -644,7 +658,8 @@
     "223": {
         "code": "B13",
         "name": "Sortie the 4th Cruiser Division!",
-        "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node."
+        "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node.",
+        "unlock": [ 890 ]
     },
     "224": {
         "code": "B14",
@@ -837,7 +852,8 @@
         "code": "B41",
         "name": "Sortie the New Mikawa Fleet into the Solomon Islands Region!",
         "desc": "Sortie Choukai Kai Ni as flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari to [W5-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards 3 Screws"
+        "memo": "\u27a3Rewards 3 Screws",
+        "unlock": [ 888 ]
     },
     "274": {
         "code": "B42",
@@ -850,7 +866,8 @@
         "code": "B43",
         "name": "The 18th Division Sets Sail!",
         "desc": "Sortie Tenryuu, Tatsuta and at least 2 other ships to [W2-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy"
+        "memo": "\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 194 ]
     },
     "276": {
         "code": "B44",
@@ -1336,7 +1353,8 @@
         "code": "B115",
         "name": "Elite Destroyer Division, Wreak Havoc!",
         "desc": "Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes. Press F10 to clear the overlay.",
-        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal"
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal",
+        "unlock": [ 889 ]
     },
     "881": {
         "code": "B116",
@@ -1344,6 +1362,44 @@
         "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni (or B), Kagerou Kai, Shiranui Kai and up to 2 additional ships to [W3-2]. S-Rank the boss node twice. Press F10 to clear the overlay.",
         "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards either a Daihatsu Landing Craft OR a 10cm Twin High-angle Gun Mount Kai + Additional Machine Guns OR 5 Screws"
     },
+    "884": {
+        "code": "B117",
+        "name": "Supreme Type-A Destroyers, Rush Them! Break Through Their Ranks!",
+        "desc": "Sortie Kagerou Kai Ni OR Shiranui Kai Ni OR Kuroshio Kai Ni as flagship and 2 Lv75+ Kagerou/Yuugumo-class to [W3-2], [W4-2] and [W5-3]. S-Rank each boss node twice.",
+        "memo": "You may bring up to 3 additional ships.\nPress F10 to clear the overlay.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR an Action Report\n\u00B6Second choice: Either two Medals OR a Prototype Flight Deck Catapult OR a 12.7cm Twin Gun Mount Model D Kai Ni"
+    },
+    "885": {
+        "code": "B118",
+        "name": "Battle Carrier, Sortie!",
+        "desc": "Sortie Ise Kai Ni as flagship and up to 5 additional ships to [W3-5], [W4-5] and [W6-4]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Skilled Crew Member OR a New Model Aviation Armament Materials OR 4 Screws\n\u00B6Second choice: Either a Zuiun (634 Air Group) OR a Suisei Model 22 (634 Air Group) OR two New Model Artillery Armament Materials"
+    },
+    "886": {
+        "code": "B119",
+        "name": "Ise Kai Ni, Intercept the Enemy Task Force!",
+        "desc": "Sortie Ise Kai Ni as flagship, 2 DD and up to 3 additional ships to [W6-5]. S-Rank the boss node 3 times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Type 96 Fighters OR three Type 99 Dive Bombers OR two Type 0 Fighter Model 21s\n\u00B6Second choice: Either two Shiden Kai Ni OR a Medal OR an Action Report",
+        "unlock": [ 684 ]
+    },
+    "887": {
+        "code": "B120",
+        "name": "Expand the Elite 18th Cruiser Division!",
+        "desc": "Sortie Tenryuu Kai Ni, Tatsuta Kai Ni, 2 DD and up to 2 additional ships to [W1-2], [W1-4] and [W1-5]. S-Rank the boss nodes. Reach the goal at [W1-6] once. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 5 Buckets OR an Action Report\n\u00B6Second choice: Either 2 Type 22 Surface Radars OR 4 Screws"
+    },
+    "889": {
+        "code": "B121",
+        "name": "First platoon of the Elite 27th Destroyer Division, Sortie!",
+        "desc": "Sortie Shiratsuyu Kai Ni and Shigure Kai Ni and up to 4 additional ships to [W2-3], [W4-1], [W5-5] and [W6-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets"
+    },
+    "890": {
+        "code": "B122",
+        "name": "Elite CruDiv 4 2nd Platoon, Set Sail!",
+        "desc": "Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3] and [W4-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either two 12.7cm Twin High-angle Gun Mount (Late Model) OR 8 Buckets OR a Medal"
+    },
+    
     
     "201": {
         "code": "Bd1",
@@ -1366,6 +1422,7 @@
         "name": "Daily Battles",
         "desc": "Attack 10 Abyssal fleets.",
         "memo": "\u203bAssault 10 Enemy Fleets!",
+        "unlock": [ 327 ],
         "tracking": [ [0,10] ]
     },
     "211": {
@@ -1479,7 +1536,7 @@
         "name": "Weekly [W5-2]",
         "desc": "Sortie to [W5-2]. S-Rank the boss node 2 times.",
         "memo": "\u203bObtain Air Superiority Over the Southern Coral Sea Islands Region!\n\u27a3Rewards 2 Screws",
-        "unlock": [ 809 ],
+        "unlock": [ 809, 888 ],
         "tracking": [ [0,2] ]
     },
     "261": {
@@ -1551,7 +1608,7 @@
     },
     "854": {
         "code": "Bq2",
-        "name": "Quarterly Ranking Points",
+        "name": "Quarterly Ranking Points 1",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
         "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
@@ -1586,7 +1643,16 @@
         "name": "Quarterly [W5-4]",
         "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
         "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "unlock": [ 325 ],
         "tracking": [ [0,2] ]
+    },
+    "888": {
+        "code": "Bq7",
+        "name": "Quarterly Ranking Points 2",
+        "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
+        "memo": "\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
     
     
@@ -1600,7 +1666,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 302, 304, 313, 314, 315 ],
+        "unlock": [ 302, 304, 313, 314, 315, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -1690,8 +1756,8 @@
     "318": {
         "code": "C16",
         "name": "Monthly Exercises 2",
-        "desc": "Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations. Press F10 to clear the overlay.",
-        "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bThe Supply Ship Irako's Support\n\u27a3Rewards an Irako and either 2 Buckets OR 2 Development Materials",
+        "desc": "Secure 3 victories in Exercises using at least 2 CLs in Fleet 1. Afterwards, equip secretary with 2 Combat Rations. Press F10 to clear the overlay.",
+        "memo": "You must use fleet 1.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u203bThe Supply Ship Irako's Support\n\u27a3Rewards an Irako and either 2 Buckets OR 2 Development Materials",
         "tracking": [ [0,3] ]
     },
     "319": {
@@ -1707,7 +1773,45 @@
         "memo": "\u27a3Rewards either 2 Screws OR 4 Development Materials",
         "unlock": [ 880 ]
     },
-
+    "322": {
+        "code": "C20",
+        "name": "Kaiboukan, Commence Exercises!",
+        "desc": "Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a Reinforcement Expansion OR a Medal"
+    },
+    "323": {
+        "code": "C21",
+        "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
+        "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships. F10 will clear the overlay. ",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR an Action Report",
+        "unlock": [ 884 ]
+    },
+    "324": {
+        "code": "C22",
+        "name": "Battle Carrier Lead Ship, Commence Exercises!",
+        "desc": "Secure 3 victories in Exercises within the same day using Ise Kai Ni as flagship, 2 DD and up to 3 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Suisei OR two Zuiun OR a Type 2 Reconnaissance Aircraft\n\u00B6Second choice: Either two Type 22 Surface Radars OR two 12cm 30-tube Rocket Launchers OR a New Model Artillery Armament Materials",
+        "unlock": [ 683, 885, 886 ]
+    },
+    "325": {
+        "code": "C23",
+        "name": "Remodelled Yuugumo-class, Commence Exercises!",
+        "desc": "Secure 4 victories in Exercises within the same day using Yuugumo Kai Ni, Naganami Kai Ni and up to 4 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"
+    },
+    "326": {
+        "code": "C24",
+        "name": "Mass Exercises for Summer",
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "memo": "\u27a3Rewards a Mamiya and a Present Box"
+    },
+    "327": {
+        "code": "C25",
+        "name": "Asashio-class, Assemble! Commence Intensive Training!",
+        "desc": "Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards 3 Buckets and either 4 Development Materials OR a Type 3 Depth Charge Projector OR a Furniture Fairy"
+    },
+    
     
     "401": {
         "code": "D1",
@@ -1893,6 +1997,12 @@
         "memo": "\u27a3Rewards 2 Underway Replenishments",
         "unlock": [ 187, 871 ]
     },
+    "430": {
+        "code": "D28",
+        "name": "Kaiboukan, Advance!",
+        "desc": "Complete Expeditions 5, 9, A1 and A2.",
+        "memo": "\u27a3Rewards an Irako and either two Underway Replenishments OR 8 Buckets OR 4 Screws"
+    },
     
     
     "501": {
@@ -1920,9 +2030,7 @@
         "memo": "\u203bThe Fleet Mess Hall Feast!",
         "tracking": [ [0,15] ]
     },
-    
-    
-    
+
     
     
     "605": {
@@ -2408,7 +2516,9 @@
         "code": "F70",
         "name": "Quarterly Shiden Kai Ni and Materials",
         "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
-        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials"
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials",
+        "tracking": [ [0,3], [0,5] ],
+        "trackingDesc": [ "{0} Type 96 Fighter", "{0} Type 0 Fighter Model 21" ]
     },
     "679": {
         "code": "F71",
@@ -2422,11 +2532,52 @@
         "name": "Quarterly AA Guns",
         "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
         "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
-        "unlock": [ 191, 880 ],
+        "unlock": [ 191, 685, 686, 880 ],
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
     },
-
+    "682": {
+        "code": "F73",
+        "name": "The Kaiboukan Consolidation Plan",
+        "desc": "Have 500 Fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR four Development Materials OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either DE Etorofu OR DE Matsuwa",
+        "unlock": [ 322, 430, 685 ]
+    },
+    "683": {
+        "code": "F74",
+        "name": "Research on a New Type of Main Battery for Aviation Battleships",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max Prototype 41cm Triple Gun Mount.",
+        "memo": "Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials.\nSet Ise Kai Ni as secretary and equip her with a \u2605max Prototype 41cm Triple Gun Mount in her FIRST slot.\nScrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 41cm Triple Gun Mount Kai Ni"
+    },
+    "684": {
+        "code": "F75",
+        "name": "The Formation of an Elite Aviation Battleship Suisei Squadron",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a Suisei Model 22 (634 Air Group).",
+        "memo": "Have 3000 Bauxite, 30 Development Materials, a New Model Aviation Armament Materials and a Skilled Crew Member.\nSet Ise Kai Ni as secretary and equip her with a Suisei Model 22 (634 Air Group) in her THIRD slot.\nScrap three Type 99 Dive Bombers and three Suisei.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Suisei Model 22 (634 Air Group / Skilled)"
+    },
+    "685": {
+        "code": "F76",
+        "name": "Wartime Modification of Destroyer Main Guns",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
+        "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "unlock": [ 686, 687 ]
+    },
+    "686": {
+        "code": "F77",
+        "name": "Quarterly High-angle Gun Mount",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
+        "memo": "\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "tracking": [ [0,4], [0,1] ],
+        "trackingDesc": [ "{0} 10cm Twin High-angle Gun Mount", "{0} Type 94 Anti-Aircraft Fire Director" ]
+    },
+    "687": {
+        "code": "F78",
+        "name": "Wartime Modification 2 of Destroyer Main Guns",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model B Kai 2.",
+        "memo": "\u203bSet a Shigure Kai Ni or Yuudachi Kai Ni as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model B Kai 2 in her FIRST slot.\nScrap five 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director"
+    },
+    
+    
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

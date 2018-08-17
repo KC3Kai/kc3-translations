@@ -39,18 +39,41 @@ Then wait until reply, and an invitation to the KC3Kai organization, under the *
 
 ## Notes
 The only required file is `terms.json`. If there are missing files from your translation directory, it will extend the English translations by default.
+If there are missing keys in your translated JSON file, it will also extend the English ones by default.
 
-#### Special Case for JP
-Since game data is already in Japanese, `ships.json` and `items.json` do not need to be translated, but will still need to have the files exist, just containing an empty JSON object `{}`.
+By enabling the setting `Dev-Only Strategy Pages`, you can check the missing keys in your selected language via Strategy Room Dev-Only Translations page.
 
-#### Kanji ship names in quest descriptions
-For quest descriptions like
+#### About `quests.json`
+There are some keys used as meta attributes of quests, such as `code`, `unlock` and `tracking`.
+They are not needed to be translated, and can be just omitted in the `quests.json` of your own language, as long as you do not intend to use different values from English's.
+
+By the way, the values of `code` in English file are from the quest identifier system defined by [wikiwiki.jp/kancolle](https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99), which also used by other English wikis.
+
+#### About `en/ctype.json`
+These Japanese ship class names are basically extracted from in-game ship library banner image. They are supposed to be automatically translated using the same mechanism of ship name translation. So just define your translations in your `ships.json` and `ship_affix.json`, and keep the `ctype.json` being empty (only containing `[]`) in your directory.
+
+#### About `servers.json`
+Similar with the `quests.json`, there are keys used as meta data which are not needed to be translated.
+The only key required to be translated is `name`, omitting other keys in your language is fine.
+
+To update the IP address of servers, suggested to execute the script in `tools` folder, instead of manual modification.
+
+#### About `quotes.json`
+It's a bit complicated about our subtitle mechanism, you might need to learn more from our source code, before another detailed document is ready.
+
+#### Special case for JP
+Since game data is already in Japanese, `ships.json` and `items.json` do not need to be translated, but will still need to have the files exist, just containing an empty JSON object `{}`. For more information, please read [this](data/jp/README.md).
+
+#### Kanji or Unicode character in your JSON
+Generally JSON files are recommended to be saved in Unicode `UTF-8` charset.
+
+For Kanji or any non-ascii Unicode character, such as quest descriptions like
 
 `Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet.`
 
-It is your choice if you want to still include kanji representations like `(\u5929\u9f8d)` in your own language
+It is your choice if you want to still include Kanji representations like `(\u5929\u9f8d)` in your own language.
 
-~~sample~~
+But do remember to use escaped chars like `\uHHHH` instead of literal Kanji or non-ascii chars, if you are not sure how to save your JSON file in `UTF-8` charset.
 
 ## Notes & Rules for Specific Languages
 

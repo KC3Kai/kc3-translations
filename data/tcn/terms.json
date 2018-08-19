@@ -64,6 +64,7 @@
   "MenuPvPReset": "距離演習重置",
   "MenuQuestReset": "距離任務重置",
   "MenuServerMaintenance" : "距離維護完成",
+  "MenuRankPtsCutoff" : "距離戰果更新",	 
   "MenuTimeUnknown": "未知！",
   "MaintenanceComplete": "沒有維護啊～",
 
@@ -248,6 +249,7 @@
   "SettingsPvPInfoActivity" : "顯示演習對手訊息頁面",
   "SettingsEnglishShipType": "使用英文艦種簡稱",
   "SettingsShipNamesLang": "艦名語言",
+  "SettingsShipClassName": "顯示艦型名稱",	 
   "SettingsShipNamesGlobal": "跟隨主要設定",
   "SettingsBlinkGauge": "斬殺期時血條閃爍警示",
   "SettingsShipStatsDiffType" : "艦娘數值格式",
@@ -267,6 +269,8 @@
   "SettingsELosOld": "2-5式(舊)",
   "SettingsELosNew": "2-5式(秋)",
   "SettingsELosF33" : "33式",
+  "SettingsELosF33x3":"F33 (3倍)",
+  "SettingsELosF33x4":"F33 (4倍)",	 
   "SettingsAirFormula" : "制空值計算方式",
   "SettingsAFPNoBonus" : "素體值",
   "SettingsAFPVeteran" : "熟練度加成（平均）",
@@ -547,6 +551,7 @@
   "BattleNightNeeded"  : "需要夜戰？",
   "BattleDayNeeded"    : "需要晝戰？",
   "BattleRating"       : "戰鬥評價",
+  "BattleDamageGauges" : "交戰戰果: {0}% vs {1}%",	 
   "BattleAvoided"      : "～迴避戰鬥～",
   "BattleSelect"       : "能動分歧: ",
   "BattleSelectNodes"  : "{0} 或是 {1}",
@@ -656,6 +661,7 @@
   "PanelHighestAkashi": "最長的明石修理時間",
   "PanelRepairMoreDays" : "修理時間多於一天",
   "PanelRepairing" : "修理中...",
+  "PanelLastHomePort"    : "回母港的時間",	 
   "PanelCombinedShipBarsHint" : "剩餘經驗值 = {0}, 燃料 = {1}%, 彈藥 = {2}%",
   "PanelNextRemodelLv" : "改造等級 {0}",
   "PanelPossibleRemodel" : "已可改造！",
@@ -675,6 +681,10 @@
   "PanelFSTaiha": "旗艦大破！",
   "PanelCombinedFSChuuha" : "旗艦中破",
   "PanelCombinedFSChuuhaTip" : "因旗艦中破/大破，無法出擊",
+  "PanelFCFPossible" : "可以退避",
+  "PanelFCFTipTaihaShip" : "受到重大損傷。",
+  "PanelFCFTipEscortShip" : "要讓該艦娘進行護衛退避嗎？\n退避後，聯合艦隊變化如下：",
+  "PanelFCFTipStrikingForce" : "要讓該艦娘從遊擊部隊單獨退避嗎？\n退避後，遊擊部隊變化如下：",	 
   "PanelNoTaiha": "狀態尚好",
   "PanelSupplied": "補給良好",
   "PanelNotSupplied": "補給未滿",
@@ -722,6 +732,7 @@
   "LandBaseActionRest" : "休息",
   "LandBaseTipFighterPower" : "對空戰力",
   "LandBaseTipAirDefensePower" : "防空戰力",
+  "LandBaseDefenseShotdown" : "航空優勢時的敵機擊墜率：\n 中隊#1: {0}\n 中隊 #2: {1}\n 中隊 #3: {2}\n 中隊 #4: {3}",	 
 	
   "LevelText": "等級",
   "LevelShort": "Lv.",
@@ -742,6 +753,7 @@
   "MapNameWorld4" : "西方海域",
   "MapNameWorld5" : "南方海域",
   "MapNameWorld6" : "中部海域",
+  "MapNameWorld7" : "南西海域",	 
   "MapNameEventWorld" : "{1}年{0}季活動",
   "MapNameEventSeasonSpring" : "春",
   "MapNameEventSeasonSummer" : "夏",
@@ -807,6 +819,11 @@
   "FirstFleetLevelTip" : "提供演習經驗：\n基本值：{0}\n完全勝利：{1}（不計算練巡加成）",
 	
   "RemodelItemListTitle" : "這是<span>{0}</span>今天的改修列表！",
+  "RemodelItemDetail"       : "要改修此裝備嗎？",
+  "RemodelItemConsumeNeeds" : "需要消耗的無改修/無鎖裝備為",
+  "RemodelItemUpgradeTo"    : "將升級至",
+  "RemodelItemResultSuccess": "改修成功了！",
+  "RemodelItemResultFailure": "改修失敗了...",	 
 	
   "DesktopNotifyExpedCompleteTitle" : "遠征完成！",
   "DesktopNotifyExpedCompleteMessage" : "提督，第{0}艦隊歸來了！",
@@ -824,6 +841,7 @@
   "NewsfeedConstrct": "「工廠」中的艦娘已建造完成。",
   "NewsfeedExped": "艦隊已從「遠征」歸還。",
   "NewsfeedUnlockMap": "已解放新海域！",
+  "NewsfeedUnlockArea":"已解放新海域！",	 
   "NewsfeedUpdateLib": "圖鑑已更新！",
   "NewsfeedPvPWin": "您在與「{0:opponentName}」的演習中勝利。",
   "NewsfeedPvPLose": "您在與「{0:opponentName}」的演習中敗北。",
@@ -870,10 +888,12 @@
   "LodgeRatingNG5" : "Excessive Consumption",
 	
   "ShipListFullNamePattern": "{0:className} {1:shipName}",
+	 
+   "BattleHistoryAirRaidTip" : "航空基地受損：{0}\n損失狀況：{1}\n燃料/鋁土損失：{2}\n制空狀態：{3}\n{11:敵方推算制空值}\n敵機擊墜率：{4}\n敵方艦攻剩餘：{5}\n敵方艦爆剩餘：{6}\n對敵爆擊最有效之防空航空隊:\n　中隊#1：{7}\n　中隊#2：{8}\n　中隊#3：{9}\n　中隊#4：{10}",	 
 
   "MasterShipSaltCheck" : "Accept Existence",
   "MasterShipSaltUnCheck" : "Deny Existence",
-  "MasterShipGoQuotes" : "Check Quotes",
+  "MasterShipGoQuotes" : "查看台詞",
 	
   "DownloadErrorReport": "下載錯誤報告",
 	

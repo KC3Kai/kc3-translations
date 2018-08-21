@@ -49,6 +49,7 @@
 	"MenuServerMaintenance" : "メンテナンス状況",
 	"MenuTimeUnknown"       : "次回未定",
 	"MaintenanceComplete"   : "お知らせ待ち",
+	"MenuGameVersion"       : "ゲームバージョン",
 
 	"GamePlayViaKC3"       : "KC3改を経由して艦これを遊ぶには？",
 	"GameToggleFeatures"   : "機能切替スイッチ",
@@ -345,7 +346,6 @@
 	"SettingsMapNodeMarkers" : "通常マップにマスヒント",
 	"SettingsMapClearerLetters" : "よく見えるマスマーク",
 	"SettingsMuteGameTab" : "ゲーム音声をミュートする",
-	"SettingsGameLibFixes" : "ゲーム音声問題を修復する",
 
 	"SubtitleDisplayBottom" : "(Bottom) ゲーム画面の下部に固定",
 	"SubtitleDisplayBelow"  : "(Below) ゲーム画面外の下に固定",
@@ -612,14 +612,14 @@
 	"ShipAACIMaxBonus"    : "最大対空CI: {0}",
 	"ShipAAShotdownTitles": "対敵機/両方/割合/固定/失敗",
 
-	"ShipAAEffectNone"             : "NA",
+	"ShipAAEffectNone"             : "なし",
 	"ShipAAEffectNormal"           : "機銃",
 	"ShipAAEffectHighAngleMount"   : "高角砲",
 	"ShipAAEffectRocketLauncher"   : "噴進砲",
 	"ShipAAEffectRocketLauncherK2" : "噴進砲改二",
 	"ShipAAEffectType3Shell"       : "三式弾",
 	"ShipAAEffectType3ShellRockeLaunK2" : "三式弾+改二",
-	"ShipAAEffectUnknown"          : "UNK",
+	"ShipAAEffectUnknown"          : "不明",
 
 	"PredictionStampSortie" : "轟　　沈",
 	"PredictionStampPvP"    : "行動不能",

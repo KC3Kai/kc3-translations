@@ -1849,7 +1849,8 @@
         "2@Anniversary2018": "Cheers. So it's the fleet's 5th Anniversary? Congratulations. Well done.",
         "3@Rainy2018": "What are you making such a fuss about, Commandant Teste? \"I call my planes, Zuiun\"? Zuiun? What? What do you mean? Are you feeling alright?",
         "2@Rainy2018": "So this is \"Tsuyu\"? All the rain is depressing but this teruteru doll is cute. I want to try making one too.",
-        "2@Summer2018": "I see. Everyone has swimsuits. I'm going to buy one too, my Admiral. Accompany me."
+        "2@Summer2018": "I see. Everyone has swimsuits. I'm going to buy one too, my Admiral. Accompany me.",
+        "3@Summer2018": "Humph, it's not a problem. It's fine, we don't have to buy one. Come shopping with me again sometime, my Admiral. Yes, please."
     },
     "392": {
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
@@ -2179,10 +2180,12 @@
         "Battle": "CarDiv 2 Bomber Squadron, take off!"
     },
     "110": {
-        "Intro": "First of the Shoukaku-class carriers, Shoukaku here.<br />I will try to live up to the names of my senpai in CarDiv 1 and CarDiv 2, fighting hard alongside Zuikaku!",
+        "Intro": "First of the Shoukaku-class carriers, Shoukaku here. Along with Zuikaku, I believe we'll be your strength from now on. I'm very pleased to make your acquaintance, Admiral.",
+        "IntroOld": "First of the Shoukaku-class carriers, Shoukaku here.<br />I will try to live up to the names of my senpai in CarDiv 1 and CarDiv 2, fighting hard alongside Zuikaku!",
         "Library": "First of the Shoukaku-class carriers, Shoukaku here.<br /><br />I was designed and built after the Washington Naval Treaty was denounced, and commissioned as a standard large-scale aircraft carrier. Along with my younger sister Zuikaku, we form the Fifth Carrier Division.<br /><br />After a tragic event, we succeeded our senpai and continued to support the front lines.",
         "Poke(1)": "Admiral...? Um, what is it?",
-        "Poke(2)": "Zuikaku, don't give the admiral such a hard time, okay?",
+        "Poke(2)": "Oh, Zuikaku... doesn't your skin look a bit prettier?",
+        "Poke(2)Old": "Zuikaku, don't give the admiral such a hard time, okay?",
         "Poke(3)": "Zuikaku, come on, stop playing with my skirt so mu- Wait... Oh, my goodness... Admiral?",
         "Idle": "Admiral? Um... we should be heading to Port Moresby... Um... that is...",
         "Married": "Admiral, I'm always really grateful for your hard work. Please take a short break, okay?",
@@ -2257,7 +2260,8 @@
         "16@Leyte": "I'll protect Zuikaku and everyone else. Air wing, take off!",
         "13@Leyte": "3rd Fleet, Ozawa Mobile Force flagship, Shoukaku, sortieing!",
         "19@Leyte": "Zuikaku, I'll be going ahead!",
-        "2@Anniversary2018": "It's finally the fleet's 5th Anniversary. I'm delighted as well. Aren't you, Zuikaku? Zuikaku is... H-huh, Zuikaku? She's not here?"
+        "2@Anniversary2018": "It's finally the fleet's 5th Anniversary. I'm delighted as well. Aren't you, Zuikaku? Zuikaku is... H-huh, Zuikaku? She's not here?",
+        "3@Summer2018": "Oh, Zuikaku... doesn't your skin look a bit prettier?"
     },
     "288": {},
     "461": {
@@ -2277,7 +2281,7 @@
         "Yasen(1)": "Oh? Is it another squall? Zuikaku, want to change course a bit?"
     },
     "111": {
-        "Intro": "Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it\u2014 I just fight with all my might... see? As long as I still have planes, I won't lose!",
+        "Intro": "Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it\u2014 I just fight with all my might... see? As long as I still have planes, I won't lose! Once again, nice to meet you, Admiral.",
         "Library": "Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Task Force along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Task Force was completely annihilated...",
         "Poke(1)": "Admiral-san... what is it? An operation?",
         "Poke(2)": "Shoukaku-nee, what is it? A-Admiral-san, it was you!? What do you want? Are you trying to get bombed?",
@@ -2364,7 +2368,8 @@
         "3@Leyte": "Shoukaku-nee, what is it? A-Admiral-san, it was you!? What are you doing? We're in the middle of an operation, you know? Do you seriously want to be bombed?",
         "4@Leyte": "All bomber aircraft, prepare for immediate takeoff! Objective: the admiral in his home port office! Get him!<br>...Wait, belay that order! I'll wait till after the operation. I'll remember this!",
         "2@Homecoming": "I'm home, Admiral. Thank you.",
-        "2@Anniversary2018": "Admiral-san, Shoukaku-nee, congratulations! It's finally the 5th Anniversary. I really can't believe it. That we've made it this far... I hope I'll be able to celebrate our anniversary with all of you again next year."
+        "2@Anniversary2018": "Admiral-san, Shoukaku-nee, congratulations! It's finally the 5th Anniversary. I really can't believe it. That we've made it this far... I hope I'll be able to celebrate our anniversary with all of you again next year.",
+        "3@Summer2018": "Jeez, you too, Shoukaku-nee... Maybe I should cut down on snacks a little... Ah, it's nothing!"
     },
     "112": {},
     "462": {
@@ -3703,9 +3708,11 @@
     "102": {
         "Intro": "I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!",
         "Library": "I'm the Seaplane Tender, Chitose. Although I'm an exceptional ship capable of making use of seaplanes a lot, I was used as an oiler and supplied fuel to other ships. In the latter stages of the war, I was remodeled into an aircraft carrier and fought in the frontline.",
-        "Poke(1)": "Admiral, what do you want to drink?",
+        "Poke(1)": "Admiral, please keep looking after me. Now, what do you want to drink?",
+        "Poke(1)Old": "Admiral, what do you want to drink?",
         "Poke(2)": "You want some more? Here you go!",
-        "Poke(3)": "Admiral~ you can really knock them back! Here, another drink!",
+        "Poke(3)": "I didn't say that you could touch, Admiral... *Sigh* Oh well then. Just this once.",
+        "Poke(3)Old": "Admiral~ you can really knock them back! Here, another drink!",
         "Married": "Admiral, it's not good to work yourself too hard. Once in a while, won't you drink some fine sake with me, and have a little rest? Alright...?",
         "Wedding": {
             "0": "Admiral...",
@@ -3781,9 +3788,9 @@
     "108": {
         "Intro": "I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.",
         "Library": "Renovated from a seaplane carrier to a carrier, I'm Chitose. Slimming down my body by dieting. My legs even became faster. This will let me play a part in the Task Force! I'll do my best for you!",
-        "Poke(1)": "Hey, Admiral, what is it?",
+        "Poke(1)Old": "Hey, Admiral, what is it?",
         "Poke(2)": "Isn't it great, this flightdeck? It's my favorite.",
-        "Poke(3)": "Admiral, I don't recall saying it was okay to touch.",
+        "Poke(3)Old": "Admiral, I don't recall saying it was okay to touch.",
         "Married": "The admiral is always doing his utmost best. It's okay. I understand.",
         "Wedding": "Thank you for always looking out for the reborn Chitose, Admiral.",
         "Ranking": "Admiral, a message has arrived.",
@@ -3809,16 +3816,18 @@
     },
     "291": {},
     "296": {
-        "Poke(1)": "You want a refill, right? It's my pleasure.",
+        "Poke(1)Old": "You want a refill, right? It's my pleasure.",
         "Poke(2)": "Admiral, what do you want to drink?",
         "Idle": "There is no fleet action scheduled for a while. Before the next operation, I'm going to deal with many of trivial things that may bother you in the future. Admiral, drink sake if you like, and please make yourself at home."
     },
     "103": {
         "Intro": "Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?",
         "Library": "Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!",
-        "Poke(1)": "Eh? Did Chitose-onee do something again?",
+        "Poke(1)": "Eh? Did Chitose-onee do something again? Jeez, it can't be helped then. I'll do this.",
+        "Poke(1)Old": "Eh? Did Chitose-onee do something again?",
         "Poke(2)": "Chitose-onee... watch out... ah... A dream?",
-        "Poke(3)": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
+        "Poke(3)": "Chitose-onee! Ngh, I can't eat anymore, so stop pushing me there... Eh? Oh, it's just you, Admiral? What? What's the matter?",
+        "Poke(3)Old": "Chitose-onee.. that tickleeeesss... oh, Admiral, What are you doing?",
         "Married": "Admiral, had you not seen Chitose-onee around here? Ah, is that so, hmm... well, then, umm... you look a little worn-out so I'll lend you my lap! I'll let you rest a little!",
         "Wedding": {
             "0": "Admiral, do you need something?",
@@ -3895,9 +3904,9 @@
     "109": {
         "Intro": "The girl that became an aircraft carrier, Chiyoda. Of course, I'll be assigned to Chitose-onee's fleet, yes?",
         "Library": "Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!",
-        "Poke(1)": "Admiral, wha~t?",
+        "Poke(1)Old": "Admiral, wha~t?",
         "Poke(2)": "Flight decks... are great!",
-        "Poke(3)": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
+        "Poke(3)Old": "Chitose-onee, do that when we're alone in the room... Oh. It's you, Admiral?",
         "Married": "Even though I'm worried for just Chitose-onee, the admiral upon that... really, good grief.",
         "Wedding": {
             "0": "Admiral....",
@@ -3927,7 +3936,7 @@
     },
     "292": {},
     "297": {
-        "Poke(1)": "Chitose-onee, Chiyoda will protect you!",
+        "Poke(1)Old": "Chitose-onee, Chiyoda will protect you!",
         "Poke(2)": "Eh? Did Chitose-onee do something again?",
         "Idle": "Hey, Admiral~! Have you seen Chitose-onee? Oh, is that so! ...Jeez, I'm kinda bored!",
         "Married": "Admiral! Did you see Chitose-onee? Is that so? Then, erm...! Yo... you seem a little tired so I'll lend you my lap to rest on!",
@@ -4912,7 +4921,8 @@
         "2@Kessen": "Are you doing pre-operation maintenance on the seaplanes, Mogami-san? Yes, please let me help too. They're good planes.",
         "2@WhiteDay2018": "Is this for me, Admiral? A return gift? I'm happy. Thank you.",
         "2@Spring2018": "Kamoi? Cherry blossom viewing with the seaplane tenders? Yes, that sounds nice. Please let me join too.",
-        "2@Anniversary2018": "Yes? The fleet's 5th Anniversary is here? I'd like to join in the celebrations, Admiral."
+        "2@Anniversary2018": "Yes? The fleet's 5th Anniversary is here? I'd like to join in the celebrations, Admiral.",
+        "3@Summer2018": "This summer is really hot. But, this ice cream is delicious. Would you like some too, Admiral? Here you go."
     },
     "372": {
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
@@ -11469,7 +11479,7 @@
         "4@Summer2018": "Ah, a swimsuit? Fufufun, don't worry about that. Summer will come again next year, right?"
     },
     "43": {
-        "Intro": "I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.",
+        "Intro": "I'm the Shiratsuyu-class destroyer, Shigure. Please take care of me from now on.",
         "Library": "I'm the second ship of the Shiratsuyu-class destroyers, Shigure. I participated in the Battle of Leyte Gulf under the Nishimura Fleet, in the fateful rush through Surigao Strait. Fusou and Yamashiro were amazing... Even if everyone forgets, I'll always remember them...",
         "Poke(1)": "Admiral, you called?",
         "Poke(2)": "Such a pleasant rain.",
@@ -11540,6 +11550,7 @@
         "4@Shiratsuyu": "I see. Good for you, Shiratsuyu."
     },
     "243": {
+        "Intro": "I'm the Shiratsuyu-class destroyer, Shigure. Please keep taking care of me.",
         "H0000": "It's now midnight. The date has changed.",
         "H0100": "0100. Admiral, aren't you tired?",
         "H0200": "0200. Are you okay?",
@@ -11571,6 +11582,7 @@
         "H1900Old": "1900. It's about time for dinner."
     },
     "145": {
+        "Intro": "I'm the Shiratsuyu-class destroyer, Shigure. Admiral, please keep taking care of me.",
         "3@EarlySummer": "Yeah, even I'm a little embarrassed.",
         "13@EarlySummer": "I wonder. Maybe the armor is too thin, after all?",
         "4@Xmas": "Eh...? This outfit? ...I heard that you're supposed to dress like this during Christmas. ...Admiral, do you maybe not like it...? Sorry..."
@@ -12153,7 +12165,7 @@
         "H0800": "0800. It's 8 o'clock, Commander. The 8th Destroyer Division has all assembled. Yes, of course we're ready anytime.",
         "H0900": "0900. Roger that. We're having an exercise first. Ooshio, Michishio, Arashio; DesDiv8, weigh anchor.",
         "H1000": "1000. Be careful, Arashio. Don't get distracted too, Michishio. How was that, Commander? Our DesDiv8 teamwork is great and our morale is high too. Anytime.",
-        "H1100": "1100. It's almost lunchtime. Ah, thanks for your hard work, Nojima. Is this a lunch box? Thank you very much! Let's eat, Commander.",
+        "H1100": "1100. It's almost lunchtime. Ah, thanks for your hard work, Noshiro. Is this a lunch box? Thank you very much! Let's eat, Commander.",
         "H1200": "It's lunchtime, Commander. Here is the lunch box we got. Hmmmmm... Whoa, it looks delicious, Commander.",
         "H1300": "1300. Yes, I'll never ever forget that important promise. I won't...",
         "H1400": "1400. What operations are we going to be deployed on this afternoon, Commander? Ah, I see, I see. I get it. As I expected of you, Commander.",
@@ -14362,7 +14374,8 @@
         "3@Leyte": "It's alright, Hamacchi. This sea is... but everyone is here now!",
         "2@Homecoming": "Ah, I've been waiting for you, Hamacchi. Yep, I've waited a long time. Well, that's fine. Let's go greet Okichin and the rest. Let's give it our all as DesDiv32. For sure!",
         "2@WhiteDay2018": "That's right, I did it properly this year. So, I'll gladly accept this.",
-        "2@Anniversary2018": "It's the fleet's 5th Anniversary. That means we're entering our 6th year. Hmm, I see. That's amazing. ...Congratulations, Commander. I'll definitely do my best this year too!"
+        "2@Anniversary2018": "It's the fleet's 5th Anniversary. That means we're entering our 6th year. Hmm, I see. That's amazing. ...Congratulations, Commander. I'll definitely do my best this year too!",
+        "3@Summer2018": "Hey, how does my yukata look, Commander? Do I... look good? Really? Well, of course it does. Hey, that looks delicious. Buy it for me, Commander. And Hamacchi's share too, so make it two. Of course!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -14404,7 +14417,8 @@
         "3@Spring2018": "Umm, Acchan... Umm, please have this. I-it's delicious...Uh-umm, thank you.",
         "2@Anniversary2018": "It's the fleet's 5th Anniversary... Con... congratulations, Commander... Let's... let's celebrate.",
         "2@Rainy2018": "What are you making, Fuu-chan? ...A-a teruteru... teruteru bouzu? Ah, I'll make one too... Mmm... Ah... Uhm...",
-        "2@Summer2018": "Ah, you look cute, Fuu-chan. Yep. ...M-me too... Hmmm, well, should I..."
+        "2@Summer2018": "Ah, you look cute, Fuu-chan. Yep. ...M-me too... Hmmm, well, should I...",
+        "3@Summer2018": "Ngh, Umm, Fuu-chan... I...can't eat so much... Yeah... Tha... Thank you..."
     },
     "680": {
         "Intro": "I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. Uhh, umm, I'll... do my best.",

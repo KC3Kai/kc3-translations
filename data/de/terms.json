@@ -781,7 +781,7 @@
 	"ModernizationResultNote": "Angegebene Stats sind Werte ohne Ausrüstung",
 	
 	"FitWeightUnknown": "Unbekannt",
-	"FitWeightValue": "Derzeitges Hauptgeschütz<br/>Ausrüstungs Bonus oder Strafe",
+	"FitWeightValue": "Derzeitiges Hauptgeschütz<br/>Ausrüstungs Bonus oder Strafe",
 	"FitWeightTotal" : "Beschussgenauigkeit:",
 	"EquipOaswMessage" : "Kann ASW Erstschlag ausführen",
 	"EquipOaswPower" : "Pre-Cap Basis Stärke:",
@@ -798,8 +798,8 @@
 	
 	"RemodelItemListTitle"    : "Ich kann diese Verbessern.<br/>(<span>{0:weekday} JST</span>)",
 	"RemodelItemDetail"       : "In dem fall,<br/>brauchen wir:",
-	"RemodelItemConsumeNeeds" : "Unverbesserete & ungenutzte Items:",
-	"RemodelItemUpgradeTo"    : "Werden Verbesert zu:",
+	"RemodelItemConsumeNeeds" : "Unverbesserte & ungenutzte Items:",
+	"RemodelItemUpgradeTo"    : "Werden Verbessert zu:",
 	"RemodelItemResultSuccess": "Die Verbesserung war ein Erfolg!",
 	"RemodelItemResultFailure": "Die Verbesserung ist fehlgeschlagen...",
 	
@@ -815,8 +815,8 @@
 	"DesktopNotifyQuestsSyncTitle" : "Quests Synchronisiert!",
 	"DesktopNotifyQuestsSyncMessage" : "Quests und deren Fortschritt wurden geupdatet\nData from {0}",
 	
-	"NewsfeedRepair"    : "Reparatur fertig.",
-	"NewsfeedConstrct"  : "Konstruktion fertig.",
+	"NewsfeedRepair"    : "Reparatur abgeschlossen.",
+	"NewsfeedConstrct"  : "Konstruktion abgeschlossen.",
 	"NewsfeedExped"     : "Die Expeditionsflotte \"{0:fleetName}\" ist zurück.",
 	"NewsfeedUnlockMap" : "Eine neue Welt freigeschaltet.",
 	"NewsfeedUnlockArea": "Eine neue Karte freigeschaltet.",

@@ -60,13 +60,13 @@
 
 	"NewsfeedRepair"    : "“入渠”的舰娘已完成修复。",
 	"NewsfeedConstrct"  : "“工厂”中的舰娘已建造完成。",
-	"NewsfeedExped"     : "舰队已自“远征”归来。",
-	"NewsfeedUnlockMap" : "已解放新海域！",
-	"NewsfeedUnlockArea": "已解放新作战区域！",
+	"NewsfeedExped"     : "舰队“{0:fleetName}”已自“远征”归来。",
+	"NewsfeedUnlockMap" : "已解放新作战方面！",
+	"NewsfeedUnlockArea": "已解放新作战海域！",
 	"NewsfeedUpdateLib" : "图鉴已更新！",
 	"NewsfeedPvPWin"    : "您在与“{0:opponentName}”的演习中取胜。",
 	"NewsfeedPvPLose"   : "您在与“{0:opponentName}”的演习中败北。",
-	"NewsfeedUnknown"   : "<span style='color:red;'>Unknown. To help, report that type {0:id} is \"{1:message}\"</span>",
+	"NewsfeedUnknown"   : "<span style='color:red;'>{1}</span>",
 
 	"LodgerPageStepRw"  : "前1小时",
 	"LodgerPageStepFw"  : "后1小时",
@@ -77,7 +77,6 @@
 	"LodgerTimeWeekly"  : "按周",
 	"LodgerTimeMonthly" : "按月",
 	"LodgerTimeYearly"  : "按年",
-
 	"LodgerLabel"  : "从 %DATE1 至 %DATE2 的资源变化一览",
 
 	"LodgerSortie" : "出击",
@@ -97,19 +96,19 @@
 	"LodgerLbas"   : "基地航空队",
 	"Lodgeroverall": "合计",
 
-	"LodgeRatingOK0" : "均衡",
-	"LodgeRatingOK1" : "一点微小的收入",
-	"LodgeRatingOK2" : "少量收入",
-	"LodgeRatingOK3" : "中等收入",
-	"LodgeRatingOK4" : "优秀收入",
 	"LodgeRatingOK5" : "绝赞屯资中",
+	"LodgeRatingOK4" : "优秀收入",
+	"LodgeRatingOK3" : "中等收入",
+	"LodgeRatingOK2" : "少量收入",
+	"LodgeRatingOK1" : "一点微小的收入",
+	"LodgeRatingOK0" : "均衡",
 	"LodgeRatingNG1" : "一点微小的消耗",
 	"LodgeRatingNG2" : "少量消耗",
 	"LodgeRatingNG3" : "中等消耗",
 	"LodgeRatingNG4" : "过量消耗",
 	"LodgeRatingNG5" : "活动攻略中？",
 
-	"BattleHistoryAirRaidTip" : "航空基地所受伤害: {0}\n伤害类型: {1}\n石油或铝土损害预测: {2}\n制空状态: {3}\n{11:推测的敌制空值}\n击落的敌机: {4}\n敌机幸存舰攻: {5}\n敌机幸存舰爆: {6}\n防空对爆值最高的中队:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

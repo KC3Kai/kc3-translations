@@ -891,63 +891,7 @@
 	"DesktopNotifyQuestsSyncTitle" : "任务跟踪已同步！",
 	"DesktopNotifyQuestsSyncMessage" : "任务跟踪进度已经被更新\n数据最后更新于 {0}",
 
-	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
-	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",
-	"NewsfeedExped": "舰队“{0:fleetName}”已自“远征”归来。",
-	"NewsfeedUnlockMap": "已解放新海域！",
-	"NewsfeedUnlockArea": "已解放新海域！",
-	"NewsfeedUpdateLib": "图鉴已更新！",
-	"NewsfeedPvPWin": "您在与“{0:opponentName}”的演习中取胜。",
-	"NewsfeedPvPLose": "您在与“{0:opponentName}”的演习中败北。",
-	"NewsfeedUnknown": "{1}",
-
-	"LodgerPageStepRw"	: "前1小时",
-	"LodgerPageStepFw"	: "后1小时",
-	"LodgerPageRefresh" : "应用",
-
-	"LodgerTimeWhole"	: "完整历史",
-	"LodgerTimeDaily"	: "按日",
-	"LodgerTimeWeekly"	: "按周",
-	"LodgerTimeMonthly" : "按月",
-	"LodgerTimeYearly"	: "按年",
-	"LodgerLabel"  : "从 %DATE1 至 %DATE2 的资源变化一览",
-
-	"LodgerSortie" : "出击",
-	"LodgerPvp"	   : "演习",
-	"LodgerExped"  : "远征",
-	"LodgerQuest"  : "任务",
-	"LodgerAkashi" : "泊地修理",
-	"LodgerRegen"  : "自然恢复",
-	"LodgerUseitem": "道具使用",
-
-	"LodgerCrship" : "建造",
-	"LodgerCritem" : "开发",
-	"LodgerDsship" : "解体",
-	"LodgerDsitem" : "废弃",
-	"LodgerRemodel": "改造",
-	"LodgerRmditem": "改修",
-	"LodgerLbas": "基地航空队",
-	"Lodgeroverall": "合计",
-
-	"LodgeRatingOK5" : "绝赞屯资中",
-	"LodgeRatingOK4" : "优秀收入",
-	"LodgeRatingOK3" : "中等收入",
-	"LodgeRatingOK2" : "少量收入",
-	"LodgeRatingOK1" : "一点微小的收入",
-	"LodgeRatingOK0" : "均衡",
-	"LodgeRatingNG1" : "一点微小的消耗",
-	"LodgeRatingNG2" : "少量消耗",
-	"LodgeRatingNG3" : "中等消耗",
-	"LodgeRatingNG4" : "过量消耗",
-	"LodgeRatingNG5" : "活动攻略中？",
-
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
-
-	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
-
-	"MasterShipSaltCheck" : "Existence Accept",
-	"MasterShipSaltUnCheck" : "Existence Deny",
-	"MasterShipGoQuotes" : "查看台词",
 
 	"Dummy" : "Dummy"
 

@@ -62,6 +62,7 @@
 	"NewsfeedConstrct"  : "“工厂”中的舰娘已建造完成。",
 	"NewsfeedExped"     : "舰队已自“远征”归来。",
 	"NewsfeedUnlockMap" : "已解放新海域！",
+	"NewsfeedUnlockArea": "已解放新作战区域！",
 	"NewsfeedUpdateLib" : "图鉴已更新！",
 	"NewsfeedPvPWin"    : "您在与“{0:opponentName}”的演习中取胜。",
 	"NewsfeedPvPLose"   : "您在与“{0:opponentName}”的演习中败北。",
@@ -107,6 +108,8 @@
 	"LodgeRatingNG3" : "中等消耗",
 	"LodgeRatingNG4" : "过量消耗",
 	"LodgeRatingNG5" : "活动攻略中？",
+
+	"BattleHistoryAirRaidTip" : "航空基地所受伤害: {0}\n伤害类型: {1}\n石油或铝土损害预测: {2}\n制空状态: {3}\n{11:推测的敌制空值}\n击落的敌机: {4}\n敌机幸存舰攻: {5}\n敌机幸存舰爆: {6}\n防空对爆值最高的中队:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",

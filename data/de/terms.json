@@ -491,6 +491,7 @@
 	"CatBombAPIDataErrorMsg"   : "Die letzte Aktion beendete die Netzwerkkommunikation mit dem Server, hat aber einen Fehler zurückgegeben. Überprüfe, ob derzeit Wartung stattfindet, oder ob dein API-Link noch funktioniert.",
 	"CatBombMissingServerTimeTitle" : "Serverzeit konnte nicht abgerufen werden",
 	"CatBombMissingServerTimeMsg"   : "Etwas ist falsch bei der Kommunikation mit dem Server (oder über den Proxy). Bitte stelle sicher, dass die Computeruhr korrekt ist, sonst könnte dies einige der Funktionalitäten beeinträchtigen.",
+	"DownloadErrorReport": "Downloade den Fehler Bericht",
 	
 	"APIErrorNoticeTitle": "In KC3改 ist ein Spielfehler aufgetreten.",
 	"APIErrorNoticeMessage": "Es scheint, als hätte es einen Fehler gegeben, als wir die Spieldateien bearbeiteten für {0}. Die Spiel API könnte sich geändert haben, sodass manche Features nicht oder falsch funktionieren.",
@@ -876,8 +877,6 @@
 	"MasterShipSaltCheck" : "Existenz akzeptiert",
 	"MasterShipSaltUnCheck" : "Existenz verneint",
 	"MasterShipGoQuotes" : "Überprüfe Zitate",
-	
-	"DownloadErrorReport": "Downloade den Fehler Bericht",
 	
 	"Dummy" : "Dummy"
 	

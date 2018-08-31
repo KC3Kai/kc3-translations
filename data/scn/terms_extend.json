@@ -1,3 +1,120 @@
-﻿{
+{
+	"StrategyRoomTitle" : "KC3改 作战指挥所",
+	"StrategyRoomTitlePattern" : "{0:StrategyRoomTitle} - {1:activedTabMenuTitle}",
+	"LogoTooltip" : "刷新当前页面",
+	"FirstRunMessage" : "作战指挥所并未就绪，请打开游戏以便获取游戏数据，并在游戏加载前按F12打开开发面板。",
+
+	"FloatToolbarBackToTop" : "回到顶部",
+	"FloatToolbarRefresh"   : "刷新",
+
+	"TabTopMenuPlayer"      : "提督",
+	"TabSubMenuProfile"     : "提督概况",
+	"TabSubMenuScreenshots" : "截图管理",
+	"TabSubMenuResources"   : "资源图表",
+	"TabSubMenuConsumables" : "资材图表",
+	"TabSubMenuExperience"  : "经验图表",
+	"TabSubMenuShowcase"    : "陈列柜",
+	"TabSubMenuLedger"      : "流水帐",
+	"TabSubMenuDataBackup"  : "数据备份",
+
+	"TabTopMenuShips"        : "舰娘",
+	"TabSubMenuShipList"     : "舰娘一览",
+	"TabSubMenuConstruction" : "建造历史",
+	"TabSubMenuLSC"          : "大型建造",
+	"TabSubMenuDocking"      : "入渠一览",
+	"TabSubMenuLeveling"     : "练级帮助",
+	"TabSubMenuBadge"        : "签名生成",
+	"TabSubMenuBlueprints"   : "改造图纸",
+
+	"TabTopMenuEquipment"     : "装备",
+	"TabSubMenuEquipmentList" : "装备一览",
+	"TabSubMenuCrafting"      : "开发历史",
+	"TabSubMenuAircraft"      : "飞机管理",
+	"TabSubMenuAkashi"        : "改修工厂",
+
+	"TabTopMenuFleet"   : "舰队",
+	"TabSubMenuManager" : "编成管理",
+	"TabSubMenuLocking" : "锁船规划",
+
+	"TabTopMenuQuests"        : "任务",
+	"TabSubMenuFlowchart"     : "任务流程图",
+	"TabSubMenuRequiredShips" : "任务所需舰娘",
+
+	"TabTopMenuBattles"    : "出击",
+	"TabSubMenuMaps"       : "普通海域",
+	"TabSubMenuEvents"     : "活动海域",
+	"TabSubMenuEncounters" : "深海编成",
+	"TabSubMenuPvP"        : "演习历史",
+	"TabSubMenuDropRecord"   : "掉落记录",
+
+	"TabTopMenuExpeditions" : "远征",
+	"TabSubMenuHistory"     : "远征历史",
+	"TabSubMenuScorer"      : "收入计算",
+	"TabSubMenuTable"       : "远征推荐",
+
+	"TabTopMenuLibrary"   : "图鉴",
+	"TabSubMenuUpdates"   : "游戏更新",
+	"TabSubMenuShips"     : "舰娘图鉴",
+	"TabSubMenuEquipment" : "装备图鉴",
+	"TabSubMenuCompare"   : "舰娘比较",
+
+	"NewsfeedRepair"    : "“入渠”的舰娘已完成修复。",
+	"NewsfeedConstrct"  : "“工厂”中的舰娘已建造完成。",
+	"NewsfeedExped"     : "舰队已自“远征”归来。",
+	"NewsfeedUnlockMap" : "已解放新海域！",
+	"NewsfeedUnlockArea": "已解放新作战区域！",
+	"NewsfeedUpdateLib" : "图鉴已更新！",
+	"NewsfeedPvPWin"    : "您在与“{0:opponentName}”的演习中取胜。",
+	"NewsfeedPvPLose"   : "您在与“{0:opponentName}”的演习中败北。",
+	"NewsfeedUnknown"   : "<span style='color:red;'>Unknown. To help, report that type {0:id} is \"{1:message}\"</span>",
+
+	"LodgerPageStepRw"  : "前1小时",
+	"LodgerPageStepFw"  : "后1小时",
+	"LodgerPageRefresh" : "应用",
+
+	"LodgerTimeWhole"   : "完整历史",
+	"LodgerTimeDaily"   : "按日",
+	"LodgerTimeWeekly"  : "按周",
+	"LodgerTimeMonthly" : "按月",
+	"LodgerTimeYearly"  : "按年",
+
+	"LodgerLabel"  : "从 %DATE1 至 %DATE2 的资源变化一览",
+
+	"LodgerSortie" : "出击",
+	"LodgerPvp"    : "演习",
+	"LodgerExped"  : "远征",
+	"LodgerQuest"  : "任务",
+	"LodgerAkashi" : "泊地修理",
+	"LodgerRegen"  : "自然恢复",
+	"LodgerUseitem": "道具使用",
+
+	"LodgerCrship" : "建造",
+	"LodgerCritem" : "开发",
+	"LodgerDsship" : "解体",
+	"LodgerDsitem" : "废弃",
+	"LodgerRemodel": "改造",
+	"LodgerRmditem": "改修",
+	"LodgerLbas"   : "基地航空队",
+	"Lodgeroverall": "合计",
+
+	"LodgeRatingOK0" : "均衡",
+	"LodgeRatingOK1" : "一点微小的收入",
+	"LodgeRatingOK2" : "少量收入",
+	"LodgeRatingOK3" : "中等收入",
+	"LodgeRatingOK4" : "优秀收入",
+	"LodgeRatingOK5" : "绝赞屯资中",
+	"LodgeRatingNG1" : "一点微小的消耗",
+	"LodgeRatingNG2" : "少量消耗",
+	"LodgeRatingNG3" : "中等消耗",
+	"LodgeRatingNG4" : "过量消耗",
+	"LodgeRatingNG5" : "活动攻略中？",
+
+	"BattleHistoryAirRaidTip" : "航空基地所受伤害: {0}\n伤害类型: {1}\n石油或铝土损害预测: {2}\n制空状态: {3}\n{11:推测的敌制空值}\n击落的敌机: {4}\n敌机幸存舰攻: {5}\n敌机幸存舰爆: {6}\n防空对爆值最高的中队:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+
+	"MasterShipSaltCheck" : "Existence Accept",
+	"MasterShipSaltUnCheck" : "Existence Deny",
+	"MasterShipGoQuotes" : "查看台词",
+
 	"Dummy" : "Dummy"
+
 }

@@ -491,6 +491,7 @@
 	"CatBombAPIDataErrorMsg"   : "The most recent action completed the network communication with the server, but it returned an error. Check if the game is under maintenance or if your API link is still working.",
 	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication to the server (or with your proxy). Make sure your computer's clock is correct or else problems will occur.",
+	"DownloadErrorReport": "Download the error report file",
 	
 	"APIErrorNoticeTitle": "KC3改 encountered an error with game data.",
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. The game API might have changed, so some features may be broken or inaccurate",
@@ -876,8 +877,6 @@
 	"MasterShipSaltCheck" : "Accept Existence",
 	"MasterShipSaltUnCheck" : "Deny Existence",
 	"MasterShipGoQuotes" : "Check Quotes",
-	
-	"DownloadErrorReport": "Download the error report file",
 	
 	"Dummy" : "Dummy"
 	

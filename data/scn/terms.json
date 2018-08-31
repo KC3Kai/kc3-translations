@@ -560,6 +560,7 @@
 	"CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
+	"DownloadErrorReport": "下载错误报告",
 
 	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
 	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",
@@ -947,9 +948,6 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "查看台词",
-
-	"Chrome55Incompatible": "与Chrome 55+不兼容",
-	"DownloadErrorReport": "下载错误报告",
 
 	"Dummy" : "Dummy"
 

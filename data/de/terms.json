@@ -490,7 +490,7 @@
 	"CatBombAPIDataErrorTitle" : "API Datenfehler",
 	"CatBombAPIDataErrorMsg"   : "Die letzte Aktion beendete die Netzwerkkommunikation mit dem Server, hat aber einen Fehler zurückgegeben. Überprüfe, ob derzeit Wartung stattfindet, oder ob dein API-Link noch funktioniert.",
 	"CatBombMissingServerTimeTitle" : "Serverzeit konnte nicht abgerufen werden",
-	"CatBombMissingServerTimeMsg"   : "Etwas ist falsch bei der Kommunikation mit dem Server (oder über den Proxy). Bitte stelle sicher, dass die Computeruhr korrekt ist, sonst könnte dies einige der Funktionalitäten beeinträchtigen.",
+	"CatBombMissingServerTimeMsg"   : "Bei der Kommunikation mit dem Server ist ein Fehler aufgetreten (oder es gibt ein Problem mit deinem Proxy). Bitte stelle sicher, dass die Computeruhr korrekt eingestellt ist, anderenfalls könnte dies zu Problemen führen.",
 	"DownloadErrorReport": "Downloade den Fehler Bericht",
 	
 	"APIErrorNoticeTitle": "In KC3改 ist ein Spielfehler aufgetreten.",

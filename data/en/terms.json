@@ -557,6 +557,7 @@
 	"BattleKindEnemyCombined" : "Enemy Fleets Combined",
 	"BattleKindNightToDay" : "Night to Day Battle node",
 	"BattlePreviousEncounters" : "Past Encounters",
+	"BattleUnexpectedDamageTip" : "{0:attackerName} attacks [{2:id}] {1:defenderName} dealing {3} damage, but expected: {4} ~ {5}",
 	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "FP",

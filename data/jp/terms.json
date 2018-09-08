@@ -373,15 +373,18 @@
 	"SettingsPushAlertsKey" : "Access Token",
 
 	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
+	"SettingsFeatureTogglePoiDB" :"poi-statisticsへの送信",
 	"SettingsEnablePoiDBSubmission" : "送信する",
 
 	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://opendb.swaytwig.com/)",
+	"SettingsFeatureToggleOpenDB" :"Kancolle OpenDBへの送信",
 	"SettingsEnableOpenDBSubmission" : "送信する",
 
 	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "協力する",
 
-	"SettingsTsunDBSubmission" :"KC3改への送信 (https://tsundb.kc3.moe)",
+	"SettingsTsunDBSubmission" :"KC3改TsunDBへの送信 (https://tsundb.kc3.moe)",
+	"SettingsFeatureToggleTsunDB" :"KC3改TsunDBへの送信",
 	"SettingsEnableTsunDBSubmission" : "協力する",
 
 	"SettingsPanelSize" : "パネルサイズ",

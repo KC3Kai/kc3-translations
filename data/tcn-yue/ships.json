@@ -65,6 +65,9 @@
 
 			"_class": "大鷹級",
 			"大鷹":"大鷹",
+	
+			"_class": "神鷹級",
+			"神鷹":"神鷹",
 
 		"_shiptype": "水母",
 
@@ -275,6 +278,7 @@
 			"早霜":"早霜",
 			"清霜":"清霜",
 			"浜波":"浜波",
+			"岸波":"岸波",
 
 			"_class": "秋月級",
 			"秋月":"秋月",
@@ -355,18 +359,31 @@
 	
 			"_class": "希佩爾海軍上將級",
 			"Admiral Hipper":"希佩爾海軍上將",
+			"Blücher":"布呂歇爾",
 			"Prinz Eugen":"歐根親王",
 	
 		"_shiptype": "驅逐",
 		
 			"_class": "1934型驅逐艦",
-			"Z1":"Z1",
-			"Z3":"Z3",
+			"Z1":"Z1 萊伯雷希特·馬斯",
+			"Z2":"Z2 格奧爾格·提勒",
+			"Z3":"Z3 馬克斯·舒爾茨",
+			"Z4":"Z4 理察·拜岑",
 			
 		"_shiptype": "潛艇",
 		"UボートIXC型/呂号潜水艦":"U型潛艇IXc型",
 	
 			"_class": "U型潛艇IXc型",
+			"U-501":"U-501",
+			"U-502":"U-502",
+			"U-503":"U-503",
+			"U-504":"U-504",
+			"U-505":"U-505",
+			"U-506":"U-506",
+			"U-507":"U-507",
+			"U-508":"U-508",
+			"U-509":"U-509",
+			"U-510":"U-510",
 			"U-511":"U-511",
 	
 			"_class": "馬可尼級",
@@ -377,10 +394,13 @@
 		"_shiptype": "戰艦/航戰/戰巡",
 	
 			"_class": "維托里奧·維內托級",
-			"V.Veneto":"維托里奧·維內托",
-			"Littorio":"列托利奧",
-			"Italia":"義大利",
+			"Vittorio Veneto":"維托里奧·維內托",
+			"Littorio":"利托里奧",
 			"Roma":"羅馬",
+	
+			"Italia":"義大利",
+	
+			"V.Veneto":"維托里奧·維內托",
 	
 		"_shiptype": "航母/裝母",
 	
@@ -395,23 +415,31 @@
 	
 		"_shiptype": "驅逐",
 	
-			"_class": "密斯脫拉風級",
-			"Maestrale":"密斯脫拉風",
+			"_class": "西北風級",
+			"Maestrale":"西北風",
+			"Grecale":"東北風",
 			"Libeccio":"西南風",
+			"Scirocco":"東南風",
 	
 		"_shiptype": "潛艇",
 	
-			"_class": "古列爾莫·馬可尼級",
+			"_class": "馬可尼級",
 			"Guglielmo Marconi":"古列爾莫·馬可尼",
-			"Luigi Torelli":"路智·托雷利",
+			"Leonardo da Vinci":"李奧納多·達文西",
+			"Michele Bianchi":"米凱萊·比安基",
+			"Luigi Torelli":"路易吉·托雷利",
 	
 	"_nation": "英國",
 	
 		"_shiptype": "戰艦/航戰/戰巡",
 	
-			"_class": "伊莉莎白女王級",
-			"Queen Elizabeth":"伊莉莎白女王",
+			"_class": "伊麗莎白女王級",
+			"Queen Elizabeth":"伊麗莎白女王",
 			"Warspite":"厭戰",
+	
+			"_class": "尼克遜級",
+			"Nelson":"尼克遜",
+			"Rodney":"朗尼",
 	
 		"_shiptype": "航母/裝母",
 	
@@ -423,6 +451,13 @@
 	
 			"_class": "J 級",
 			"Jervis":"積費斯",
+
+	"_nation": "瑞典",
+	
+		"_shiptype": "輕巡",
+	
+			"_class": "哥特蘭島級",
+			"Gotland":"哥特蘭島",
 	
 	"_nation": "法國",
 			
@@ -430,19 +465,22 @@
 	
 			"_class": "黎希留級",
 			"Richelieu":"黎希留",
+			"Jean Bart":"哲巴",
 	
 		"_shiptype": "水母",
 	
 			"_class": "特斯殿長官級",
-			"C.Teste":"特斯殿長官",
 			"Commandant Teste":"特斯殿長官",
-	
+
+			"C.Teste":"特斯殿長官",
+
 	"_nation": "蘇聯/俄羅斯",
 	
 		"_shiptype": "戰艦/航戰/戰巡",
 	
 			"_class": "甘古特級",
 			"Гангут":"甘古特",
+
 			"Октябрьская революция":"十月革命",
 	
 		"_shiptype": "驅逐",
@@ -466,6 +504,17 @@
 			"Lexington":"列星頓",
 			"Saratoga":"薩拉托加",
 	
+			"_class": "遊騎兵級",
+			"Ranger":"遊騎兵",
+	
+			"_class": "約克鎮級",
+			"Yorktown":"約克鎮",
+			"Enterprise":"企業",
+			"Hornet":"大黃蜂",
+	
+			"_class": "胡蜂級",
+			"Wasp":"胡蜂",
+	
 			"_class": "艾塞克斯級",
 			"Essex":"艾塞克斯",
 			"Intrepid":"無畏",
@@ -474,12 +523,75 @@
 
 			"_class": "卡薩布蘭卡級",
 			"Casablanca":"卡薩布蘭卡",
+			"Liscome Bay":"利斯康灣",
+			"Anzio":"安濟奧",
+			"Corregidor":"科雷希多島",
+			"Mission Bay":"傳教灣",
+			"Guadalcanal":"瓜達爾卡納爾島",
+			"Manila Bay":"馬尼拉灣",
+			"Natoma Bay":"納托馬灣",
+			"St. Lo":"聖羅",
+			"Tripoli":"的黎波里",
+			"Wake Island":"威克島",
+			"White Plains":"白原",
+			"Solomons":"索羅門群島",
+			"Kalinin Bay":"加里寧灣",
+			"Kasaan Bay":"卡薩安灣",
+			"Fanshaw Bay":"範肖灣",
+			"Kitkun Bay":"基昆灣",
+			"Tulagi":"圖拉吉島",
 			"Gambier Bay":"甘比亞灣",
+
+			"St.Lo":"聖羅",
 
 		"_shiptype": "護驅",
 
 			"_class": "莊‧C‧巴特勒級",
 			"John C.Butler":"莊‧C‧巴特勒",
+			"O'Flaherty":"奧弗萊厄蒂",
+			"Raymond":"雷蒙德",
+			"Richard W.Suesens":"理察‧W‧修森斯",
+			"Abercrombie":"阿伯克龍比",
+			"Oberrender":"奧伯倫德",
+			"Robert Brazier":"羅伯特‧布拉齊爾",
+			"Edwin A.Howard":"埃德溫‧A‧霍華德",
+			"Jesse Rutherford":"傑西‧拉瑟福",
+			"Key":"基",
+			"Gentry":"金特里",
+			"Traw":"特勞",
+			"Maurice J.Manuel":"莫里斯‧J‧曼紐爾",
+			"Naifeh":"奈弗",
+			"Doyle C.Barnes":"多伊爾‧C‧巴恩斯",
+			"Kenneth M.Willett":"肯尼思‧M‧威利特",
+			"Jaccard":"傑卡德",
+			"Lloyd E.Acree":"勞埃德‧E‧艾克里",
+			"George E.Davis":"喬治‧E‧戴維斯",
+			"Mack":"麥克",
+			"Woodson":"伍德森",
+			"Johnnie Hutchins":"約翰尼‧哈欽斯",
+			"Walton":"沃爾頓",
+			"Rolf":"羅爾夫",
+			"Pratt":"普拉特",
+			"Rombach":"龍巴克",
+			"McGinty":"麥金蒂",
+			"Alvin C.Cockrell":"阿爾文‧C‧科克雷爾",
+			"French":"弗倫奇",
+			"Cecil J.Doyle":"塞西爾‧J‧多伊爾",
+			"Thaddeus Parker":"撒迪厄斯‧帕克",
+			"John L.Williamson":"約翰‧L‧威廉森",
+			"Presley":"普雷斯利",
+			"Williams":"威廉士",
+			"Richard S.Bull":"理察‧S‧布爾",
+			"Richard M.Rowell":"理察‧M‧羅厄爾",
+			"Eversole":"埃弗索爾",
+			"Dennis":"丹尼斯",
+			"Edmonds":"埃德蒙茲",
+			"Shelton":"謝爾頓",
+			"Straus":"施特勞斯",
+			"La Prade":"拉普拉德",
+			"Jack Miller":"傑克‧米勒",
+			"Stafford":"斯塔福德",
+			"Walter C.Wann":"沃爾特‧C‧沃恩",
 			"Samuel B.Roberts":"森姆‧B‧羅拔絲",
 	
 	"_nation": "未實裝",
@@ -509,7 +621,6 @@
 			"涼波":"涼波",
 			"早波":"早波",
 			"濱波":"濱波",
-			"岸波":"岸波",
 			"秋霜":"秋霜",
 
 			"松":"松",

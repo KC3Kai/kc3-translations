@@ -724,7 +724,7 @@
 	"PanelAirContactTip"   : "在{0:制空权}的情况下\n接触成功率：{1}%\n接触触发开始率：{2}%{4:contactPlanes}\n接触舰载机全部选择失败率：{3}%",
 	"PanelAirContactPlanes" : "\n选择判定优先前{0}位的舰载机：\n{1:选择率列表}",
 	"PanelAirStrikeTip"    : "开幕{1:接触}航空攻击力：{0}",
-	"PanelAntiLandPowerTip" : "取阈值前后的对陆基特效：\n　(... x{0} +{1}) x{2}\n中破时的攻击力：昼{3} 夜{4}",
+	"PanelAntiLandPowerTip" : "取阈值前后的对陆基特效：\n　(... x{0} +{1}) x{2} +{3}\n中破时的攻击力：昼{4} 夜{5}",
 
 	"PanelHasTaiha" : "大破",
 	"PanelFSTaiha" : "旗舰",

@@ -667,7 +667,7 @@
 	"PanelAirContactTip" : "Contact Under {0:airControl}:\n\u2003Success Chance: {1}%\n\u2003Trigger Chance: {2}%\n\u2003Aircraft Selection Failure: {3}%{4:contactPlanes}",
 	"PanelAirContactPlanes" : "\nAircraft Selection Priority Top {0}:\n{1:planeRateList}",
 	"PanelAirStrikeTip" : "{1:airContact} Airstrike Power: {0}",
-	"PanelAntiLandPowerTip" : "Anti-installation modifiers:\n\u2003(... pre-cap) post-cap\n\u2003(... x{0} +{1}) x{2}\nChuuha Powers: {3} / {4}",
+	"PanelAntiLandPowerTip" : "Anti-installation modifiers:\n\u2003(... pre-cap) post-cap\n\u2003(... x{0} +{1}) x{2} +{3}\nChuuha Powers: {4} / {5}",
 	
 	"PanelHasTaiha" : "Critical",
 	"PanelFSTaiha" : "Flagship",

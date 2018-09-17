@@ -82,14 +82,14 @@
 		"ปืนหลัก [2.0x1]",
 		"เครื่องบิน [1.18~1.25]",
 		"เรือพิฆาต ปืนหลัก [1.3~x1]",
-		"เรือพิฆาต พลรังกา [1.25x1]"
+		"เรือพิฆาต พลรังกา [1.2~x1]"
 	],
 
 	"aacitype" : [
 		[],
-		["Akizuki-Class", "High-angle Mount", "High Angle Mount", "Radar"],
+		["Akizuki-Class", "High-angle Mount", "High-angle Mount", "Radar"],
 		["Akizuki-Class", "High-angle Mount", "Radar"],
-		["Akizuki-Class", "High-angle Mount", "High Angle Mount"],
+		["Akizuki-Class", "High-angle Mount", "High-angle Mount"],
 		["Battleships", "Large Cal. Main Gun", "Type 3 Shell", "AA Fire Director", "Air Radar"],
 		["", "Built-in High-angle Mount", "Built-in High-angle Mount", "Air Radar"],
 		["Battleships", "Large Cal. Main Gun", "Type 3 Shell", "AA Fire Director"],
@@ -110,12 +110,15 @@
 		["Yura Kai Ni", "High-angle Mount", "Air Radar"],
 		["Fumizuki Kai Ni", "CD AA Machine Gun"],
 		["UIT-25, I-504", "Non-CD AA Machine Gun"],
-		["Tatsuta Kai Ni", "High-angle Mount", "Non-CD AA Machine Gun"],
-		["Ise Kai, Hyuuga Kai", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar", "Type 3 Shell"],
+		["Tenryuu-Class Kai Ni", "High-angle Mount", "Non-CD AA Machine Gun"],
+		["Ise-Class Kai+", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar", "Type 3 Shell"],
 		["Musashi Kai Ni", "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns", "Air Radar"],
 		[],
-		["Ise Kai, Hyuuga Kai, Musashi Kai, Kai Ni", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar"],
-		["Isokaze B Kai, Hamakaze B Kai", "High-angle Mount", "Air Radar"],
+		["Musashi Kai+, Ise-Class Kai+", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar"],
+		["Kagerou-Class B Kai", "High-angle Mount", "Air Radar"],
+		["Tenryuu Kai Ni", "High-angle Mount", "High-angle Mount", "High-angle Mount"],
+		["Tenryuu Kai Ni", "High-angle Mount", "High-angle Mount"],
+		["Royal Navy Ships, Kongou-Class Kai Ni", "20-tube 7inch UP Rocket Launchers, 16inch Mk.I Triple Gun Mount Kai + FCR Type 284", "QF 2-pounder Octuple Pom-pom Gun Mount"],
 		[]
 	]
 }

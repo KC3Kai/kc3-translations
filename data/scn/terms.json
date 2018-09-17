@@ -68,10 +68,12 @@
 	"MenuScheduledSoon" : "暂无安排",
 	"MenuPvPReset" : "距演习对手刷新还有",
 	"MenuQuestReset" : "距日常任务刷新还有",
+	"MenuRankPtsCutoff" : "距下次战果统计还有",
 	"MenuServerMaintenance" : "距下次服务器维护还有",
 	"MenuTimeUnknown": "未知",
 	"MaintenanceComplete": "维护完成",
 	"UpdateAvailableNow" : "可以更新！",
+	"MenuGameVersion" : "游戏主版本号",
 
 	"GamePlayViaKC3": "通过KC3改开始游戏",
 	"GameToggleFeatures": "定制特性（覆盖层／退出确认）",
@@ -332,6 +334,10 @@
 	"SettingsCheckNewShipFromDex" : "从舰娘图鉴判断是否新船",
 	"SettingsCheckNewShipFromDexTip" : "注意为了取得数据，需要最少查看过游戏中图鉴左边的每一页一次。如果禁用该项，掉落或建造时的新船高亮就只会从当前玩家所持有的船来判断。过去强化用掉、拆掉或沉过的船仍会认为是新船。",
 	"SettingsFormatNumbers" : "显示数字分组符号",
+	"SettingsItemsIconSet" : "装备种类图标集",
+	"SettingsStatsIconSet" : "状态属性图标集",
+	"SettingsIconSetPhase1" : "Flash版",
+	"SettingsIconSetPhase2" : "HTML5版",
 
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",
@@ -409,6 +415,7 @@
 	"SettingsSubtitleAccurateDuration" : "字幕精确时间轴",
 	"SettingsGoogleTranslate": "Google翻译（缺翻译时）",
 	"SettingsMapNodeMarkers" : "地图节点标记",
+	"SettingsMapClearerLetters" : "地图节点字母",
 	"SettingsMuteGameTab" : "启动游戏时静音",
 
 	"SubtitleDisplayBottom": "固定于下方（界面内）",
@@ -433,15 +440,18 @@
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
 
 	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
+	"SettingsFeatureTogglePoiDB" :"提交数据到 poi-statistics",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
-	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://swaytwig.com/opendb/) 发送数据",
+	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://opendb.swaytwig.com/) 发送数据",
+	"SettingsFeatureToggleOpenDB" :"提交数据到 OpenDB",
 	"SettingsEnableOpenDBSubmission": "启用功能",
 
 	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
 
-	"SettingsTsunDBSubmission" :"向 KC3改 (https://tsundb.kc3.moe) 发送数据",
+	"SettingsTsunDBSubmission" :"向 KC3改 TsunDB (https://tsundb.kc3.moe) 发送数据",
+	"SettingsFeatureToggleTsunDB" :"提交数据到 TsunDB",
 	"SettingsEnableTsunDBSubmission" : "启用功能",
 
 	"SettingsPanelSize" : "面板尺寸",
@@ -553,6 +563,7 @@
 	"CatBombAPIDataErrorMsg"   : "最新一次与服务器的通信已完成但返回错误。请确认现在是否处于维护阶段或是您的API链接是否正常。",
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
+	"DownloadErrorReport": "下载错误报告",
 
 	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
 	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",
@@ -584,6 +595,7 @@
 	"BattleNightNeeded"	 : "能否夜战？",
 	"BattleDayNeeded"    : "能否昼战？",
 	"BattleRating"		 : "战斗评价",
+	"BattleDamageGauges" : "交战战果: {0}% vs {1}%",
 	"BattleAvoided"		 : "战斗回避",
 	"BattleSelect"		 : "选择分歧: ",
 	"BattleSelectNodes"	 : "{0} 或 {1}",
@@ -607,6 +619,7 @@
 	"BattleKindEnemyCombined" : "深海联合舰队",
 	"BattleKindNightToDay" : "夜转昼战点",
 	"BattlePreviousEncounters" : "该节点以前遭遇过的敌舰队",
+	"BattleUnexpectedDamageTip" : "{0:舰名} 对 {2:敌ID}:{1:敌舰名} 造成{3}点伤害，预期为{4}～{5}",
 
 	"Debuffed" : "Boss已削弱！",
 
@@ -661,6 +674,8 @@
 	"ShipAACIMaxBonus"    : "最大对空CI: {0}",
 	"ShipAAShotdownTitles" : "敌搭载/皆成功/仅比例/仅固定/皆失败",
 
+	"ShipAAEffectNone"             : "无",
+	"ShipAAEffectUnknown"          : "未知",
 	"ShipAAEffectNormal"           : "机枪",
 	"ShipAAEffectHighAngleMount"   : "高角炮",
 	"ShipAAEffectRocketLauncher"   : "喷进炮",
@@ -692,16 +707,16 @@
 	"PanelChuuhaHp" : "中破HP {0}",
 	"PanelHighestDocking" : "最长的入渠修理时间",
 	"PanelHighestAkashi" : "最长的明石修理时间",
-
 	"PanelRepairMoreDays"  : "多于24小时",
 	"PanelRepairing"	   : "修理中...",
+	"PanelLastHomePort"    : "回母港的时刻",
 	"PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
 	"PanelNextRemodelLv"   : "改造等级 {0}",
 	"PanelPossibleRemodel" : "可改造",
-	"PanelNextLvGoalLeft"  : "距目标等级 {0} 还需 {1} 场战斗",
+	"PanelNextLvGoalLeft"  : "距目标等级 {0} 还需 {1} 场战斗\n设定的基本经验值 {2}",
 	"PanelResupplyCosts"   : "补给消耗：{3}\n燃料：{0}，弹药：{1}，铝土矿：{2}",
 	"PanelResupplyMarriedHint" : "（已为婚舰减少15%油弹）",
-	"PanelBattleConsumes"  : "每战消耗：（消耗值不受结婚影响）\n〖通常战斗点〗燃料：{0}，弹药：{1} (夜战时：{2})\n〖活动潜水点〗燃料：{0}，弹药：0\n〖远程空袭点〗燃料：{3}，弹药：{4}",
+	"PanelBattleConsumes"  : "每战消耗：（消耗值不受结婚影响）\n〖通常战斗点〗燃料：{0}，弹药：{1} (夜战时：{2})\n〖夜战开始点〗燃料：{5}，弹药：{6}\n〖反潜水艇点〗燃料：{7}，弹药：{8}\n〖远程空袭点〗燃料：{3}，弹药：{4}",
 	"PanelConsumedSteel"   : "〖喷气机消耗〗钢材：{0}",
 	"PanelLbasSortieCosts" : "基地航空队出击时的消耗\n燃料：{0}，弹药：{1}",
 	"PanelTransportPoints" : "输送作战A或S胜将得到 {0}TP 或 {1}TP",
@@ -709,6 +724,7 @@
 	"PanelAirContactTip"   : "在{0:制空权}的情况下\n接触成功率：{1}%\n接触触发开始率：{2}%{4:contactPlanes}\n接触舰载机全部选择失败率：{3}%",
 	"PanelAirContactPlanes" : "\n选择判定优先前{0}位的舰载机：\n{1:选择率列表}",
 	"PanelAirStrikeTip"    : "开幕{1:接触}航空攻击力：{0}",
+	"PanelAntiLandPowerTip" : "取阈值前后的对陆基特效：\n　(... x{0} +{1}) x{2} +{3}\n中破时的攻击力：昼{4} 夜{5}",
 
 	"PanelHasTaiha" : "大破",
 	"PanelFSTaiha" : "旗舰",
@@ -759,8 +775,7 @@
 	"LandBaseActionRest" : "休息",
 	"LandBaseTipFighterPower" : "制空战力",
 	"LandBaseTipAirDefensePower" : "防空战力",
-	"LandBaseTipInterceptFighters" : "迎击补正",
-	"LandBaseTipInterceptBombers" : "对爆补正",
+	"LandBaseDefenseShotdown" : "航空优势的敌机击坠率：\n　中队1：{0}\n　中队2：{1}\n　中队3：{2}\n　中队4：{3}",
 
 	"LevelText" : "等级",
 	"LevelShort" : "Lv.",
@@ -775,6 +790,11 @@
 	"RangeMedium": "中",
 	"RangeLong": "长",
 	"RangeVeryLong": "超长",
+	"RangeShortAbbr": "短",
+	"RangeMediumAbbr": "中",
+	"RangeLongAbbr": "长",
+	"RangeVeryLongAbbr": "超",
+	"RangeExtremeLongAbbr": "极",
 
 	"Screenshot" : "截图",
 	"Expedition" : "远征",
@@ -795,6 +815,7 @@
 	"MapNameWorld4" : "西方海域",
 	"MapNameWorld5" : "南方海域",
 	"MapNameWorld6" : "中部海域",
+	"MapNameWorld7" : "南西海域",
 	"MapNameEventWorld" : "{1}年{0}季活动",
 	"MapNameEventSeasonSpring" : "春",
 	"MapNameEventSeasonSummer" : "夏",
@@ -881,8 +902,9 @@
 
 	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
 	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",
-	"NewsfeedExped": "舰队已自“远征”归来。",
+	"NewsfeedExped": "舰队“{0:fleetName}”已自“远征”归来。",
 	"NewsfeedUnlockMap": "已解放新海域！",
+	"NewsfeedUnlockArea": "已解放新海域！",
 	"NewsfeedUpdateLib": "图鉴已更新！",
 	"NewsfeedPvPWin": "您在与“{0:opponentName}”的演习中取胜。",
 	"NewsfeedPvPLose": "您在与“{0:opponentName}”的演习中败北。",
@@ -935,9 +957,6 @@
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "查看台词",
-
-	"Chrome55Incompatible": "与Chrome 55+不兼容",
-	"DownloadErrorReport": "下载错误报告",
 
 	"Dummy" : "Dummy"
 

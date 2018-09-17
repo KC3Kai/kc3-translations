@@ -14,8 +14,9 @@
 		" drei" : " Drei",
 		" due"  : " Due",
 		" два" : " Dva",
-		"後期型": " Late Model",
-		"-壊"   : " - Damaged"
+		"後期型": "{ -}? Late Model",
+		" バカンスmode" : " Vacation Mode",
+		"-壊"   : " (Damaged)"
 	},
 
 	"prefixes": {
@@ -25,6 +26,8 @@
 		"節分"         : "Setsubun ",
 		"桃節句"       : "Hinamatsuri ",
 		"牛丼"         : "White Day ",
+		"お出掛け"     : "Spring Casual Outfit ",
+		"春の私服"     : "Spring Casual Outfit ",
 		"梅雨"         : "Rainy Season ",
 		"夏2017"       : "Summer 2017 ",
 		"夏2016"       : "Summer 2016 ",
@@ -58,8 +61,8 @@
 	},
 
 	"yomi": {
-		"elite"    : " Elite",
-		"flagship" : " Flagship"
+		"elite"    : "{- }?Elite",
+		"flagship" : "{- }?Flagship"
 	},
 
 	"ctype": {

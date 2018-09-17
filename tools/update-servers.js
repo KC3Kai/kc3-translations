@@ -11,11 +11,11 @@ const vm = require('vm');
 
 // change this if not execute this under `tools` directory
 const langFolderRoot = '../data';
-const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru', 'scn', 'tcn', 'th', 'ua', 'vi' ];
+const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru', 'scn', 'tcn', 'tcn-yue', 'th', 'ua', 'vi' ];
 const serverJsonFilename = "servers.json";
 const indentChar = '\t';
 const bomChar = '\uFEFF';
-const kcsConstUrl = "http://203.104.209.7/gadget/js/kcs_const.js";
+const kcsConstUrl = "http://203.104.209.7/gadget_html5/js/kcs_const.js";
 
 const _eval = (content) => {
 	const sandbox = {}, exports = {};

@@ -1653,6 +1653,9 @@
         "2@Anniversary2018": "Congratulations on the 5th Anniversary. Thank you very much, Admiral."
     },
     "364": {
+        "142": "Roger that! Begin the attack!",
+        "242": "Sorry to keep you waiting! Battleship Warspite has arrived on the battlefield! We'll now back you up. Are you ready, Nelson? Let's go!",
+        "342": "Sorry to keep you waiting! Battleship Warspite has arrived on the battlefield! We'll now back you up.",
         "H0000": "Admiral, the date has changed. I shall serve as flagship of the fleet for today.",
         "H0100": "It's one o'clock. I hope that tone of voice was good.",
         "H0200": "It's two o'clock now. The late night is so quiet. I'm rather fond of this hour.",
@@ -1706,7 +1709,8 @@
         "Damaged(1)": "Ngh, it's just a scratch! There's no problem at all.",
         "Damaged(2)": "Whoa! Tch, that was pretty good. Interesting!",
         "Damaged(3)": "Y-you... to reduce someone called the \"Big 7\" like me to this state... I won't sink yet, just watch.",
-        "Sunk": "I see... So this is... what they mean by \"sinking\"... So this is... falling in battle... Dark... so dark... I... see..."
+        "Sunk": "I see... So this is... what they mean by \"sinking\"... So this is... falling in battle... Dark... so dark... I... see...",
+        "900": "Nelson Touch. Main guns 1 and 2, one more shot!"
     },
     "576": {
         "Intro": "I'm Nelson. You're looking well today. That's the best. Heh, show me how you command today as well. I'm counting on you, my Admiral.",
@@ -1714,6 +1718,8 @@
         "Equip(2)": "Hmm, this might be a good pick. Thank you.",
         "Sortie": "1st ship of the Nelson-class battleships, fleet flagship Nelson, sortieing! All ships, don't fall behind! Follow me!",
         "MVP": "Hmm, a battle honour? It's all thanks to your command, my Admiral. But, it's... not bad. Thank you very much indeed.",
+        "142": "Battleship Nelson, roger. I'll show you what I can do. We'll attack in double line! Split the enemy down the middle. Let's go!",
+        "242": "I've kept you waiting. Home Fleet flagship, Nelson, has arrived! Let's go! Each should do their duty! Charge!",
         "H0000": "Very well, I'll be by your side today, Admiral. Ah, really? Of course! Alright, the time just turned exactly 12am.",
         "H0100": "1 o'clock. Yes, you need this for the night shift. Do you want some? I see, alright, let's have a toast! Yes, you can sure drink.",
         "H0200": "2 o'clock. Well, we shouldn't drink too much. Let's slow down. Hmm, who is it at this time...? Hmm? It's Ark! What's the matter?",
@@ -1917,6 +1923,7 @@
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
         "Join": "Battleship Richelieu, heading out! Ready? Venez avec moi!",
         "Yasen(2)": "Feu! Feu!",
+        "142": "I'm Richelieu. I've come. I'll back you up. Now, open fire!",
         "H0000": "12 a.m. Today it will be me... ...Isn't that so?",
         "H0100": "1 a.m. Bonsoir, Amiral.",
         "H0200": "2 a.m. Would you like some vin rouge? Oh?",
@@ -3132,6 +3139,7 @@
         "Married": "If this were all a game, how should it be? In this wonderful comic I read once - what was the title again? I really liked it too! Uhm... ah, forget it.",
         "Equip(2)": "Wonderful! Honey, there's no problems, right?",
         "Docking(2)": "Ahhhh, jeez, they got me. I will enter the dock! Oh, but this isn't a decommissioning or anything! The Sea Museum comes - la - ter!",
+        "142": "Shall we sally forth at full force?",
         "H0000": "Hey, I'll help you out with things today! Wonderful, isn't it! Reporting, the time? Leave it to me! I learned how they do it here!",
         "H0100": "It is 1 o'clock! Z- 01, 00! How's that? OK?",
         "H0200": "2 o'clock! 02, 00! How's that? Perfect, right? Yep, good!",
@@ -3285,6 +3293,8 @@
             "1080,6860": "Force H Carrier Task Force flagship, Ark Royal, sortieing!"
         },
         "Battle": "I've found them! They won't get away! Ark Royal Bomber Squadron, begin takeoff!",
+        "142": "The Home Fleet has arrived! Come, I'll show you! Let's go! Follow me, Nelson!",
+        "242": "Roger! Swordfish squadrons, begin takeoff!",
         "H0000": "Admiral. That's right, I'll be in charge of this today. Oh? What is it? Don't tell me you're unhappy with that?",
         "H0100": "It's 1. ...What?",
         "H0200": "It's 2. ...What!? Could it be that something about this leaves you dissatisified?",
@@ -4677,7 +4687,8 @@
     "396": {
         "Intro": "Good morning! Admiral, Gambier Bay is doing well! Yes! I'll do my best today as well, for sure!",
         "Equip(2)": "This one? I see! This is nice! Good!",
-        "Yasen(1)": "Night battle? Maybe I can do it now? No, no, there's definitely no way! I still can't handle the night after all!"
+        "Yasen(1)": "Night battle? Maybe I can do it now? No, no, there's definitely no way! I still can't handle the night after all!",
+        "142": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!"
     },
     "154": {
         "Intro": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -5057,6 +5068,8 @@
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
         "Docking(2)": "Kh... this is unbelievable... I shall retire. Merci beaucoup. Thank you very much for your concern.",
         "Attack": "Oui! Let's go. Bomber Squadron, begin takeoff!",
+        "142": "I'll support you even though I'm not that capable. Feu!",
+        "242": "Merci. Even I have managed to make it to the battlefield. Begin the attack.",
         "H0000": "It is now midnight. For today, I have been given the responsibility of putting the directives into practice.",
         "H0100": "It is now 1 a.m. This truly is a time when one should already be in bed.",
         "H0200": "It is now 2 a.m. I would recommend taking at least a short rest. Otherwise, tomorrow will be difficult.",
@@ -9073,6 +9086,8 @@
         "Join": "Anti-air cruiser Gotland, weighing anchor.  Watch me do my best.",
         "Equip(2)": "Yes, they're good, right? The weapons from my homeland. I wasn't wrong, right?",
         "Sortie": "Fleet flagship, anti-air cruiser Gotland, sortieing! Attack!",
+        "142": "Aviation cruiser Gotland. We'll be backing you up now!",
+        "242": "European Combined Fleet representative flagship, Gotland, has arrived at the operation area! We'll now back up the friendly fleet. All ships, increase speed. Attack!",
         "H0000": "Now, today, I, Got, am on duty. Well, it's okay, right? Hey, Admiral, are you glad? Oh? He turned away from me. It's now exactly 12am.",
         "H0100": "It's 0,100. My intonation is a bit off? Well, that much is fine? *Yawn* So sleepy...",
         "H0200": "It's 0,200. You really do get sleepy around this time... I know! Shall I make some bl\u00c5b\u00c4rs soppa? I'll go and get to it.",
@@ -9221,6 +9236,7 @@
         "Supply": "Of course I'll have some. Let's keep at it!",
         "Sortie": "DesRon 5, heading out! Is everyone ready? Matsukaze? If you fall behind, I won't let you hear the end of it!",
         "MVP": "Please observe! I, Asakaze, am the greatest, am I not? Well, haven't I known the Commander for a long time? And my training is on a whole other level! Uh...? Commander? Why are you still laughing? What's with you!?",
+        "142": "2nd ship of the Kamikaze-class destroyers, Asakaze, charging in!",
         "H0000": "Midnight. *whew* I'll be the one to accompany you today. ...What? Is there a problem? ...Oh, so I see. Then I guess it's fine.",
         "H0100": "2 a.m.! Er... what, you want it the other way? How pretentious... Well, whatever. Aye! 0100. Is that fine?",
         "H0200": "3 a-! ...Oh, right... 0200. Well, I guess it's fine. It's 02. 02. Hey, are you even listening?",
@@ -9367,6 +9383,7 @@
         "Join": "5th Torpedo Squad, Matsukaze, heading out. Follow me, guys.",
         "Sortie": "We're a special escort fleet, full capable of defending too!  I'm well used to painful battles!",
         "MVP": "Ah, me?  Nah, it's fine, I don't need that. But thanks, it's the thought that counts and I'll accept that, okay?",
+        "142": "Aha, I like this.",
         "H0000": "Today it's my turn to help you out. Sounds good?",
         "H0100": "0100.  Yup, it's one o'clock.",
         "H0200": "0200. I see it's two o'clock.",
@@ -14439,7 +14456,8 @@
         "Equip(1)": "That's right, give it all to me! Ah, hey, Admiral! I can do it myself, dummy.",
         "Equip(2)": "Oi, you aren't giving me more barrels, right? It's fine, but I'd like torpedoes too, alright?",
         "Return": "I've returned safely again. Thanks to you, Admiral!",
-        "Sortie": "Oh, what is it? Time for me to sortie? Alright!"
+        "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
+        "142": "Alriiight, this is my time to shine. I'm charging in!"
     },
     "424": {
         "Intro": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -14668,6 +14686,8 @@
         "Join": "DesDiv31, Okinami. I'll protect it... definitely! Moving out!",
         "Equip(2)": "Alright. With this gear, with this gear, I think I can protect everyone from the enemy planes. Surely!",
         "Attack": "It's okay, just aim carefully. That's right... now! Fire!",
+        "142": "The 31st Destroyer Division has arrived on the battlefield. Kishi-chan, Asa-chan, are you ready? Let's attack!",
+        "242": "Roger that! We'll begin the attack! Feel free to go all out, Asa-chan!",
         "H0000": "Commander, I'll be the one who declares the time right? I'll be in your care.",
         "H0100": "Commander, it's 0100.",
         "H0200": "Commander, it's 0200. Yes...",
@@ -14728,6 +14748,9 @@
         "Poke(1)": "Roger that.",
         "Poke(2)": "Oki-nee, Asa-chan, yes, let's go.",
         "Poke(3)": "What is it, Admiral? There's no particular problem with my rigging. Not with my rigging... No, it's nothing. There's no problem here.",
+        "142": "Roger that! DesDiv31, attack!",
+        "242": "The 31st Destroyer Division has arrived on the battlefield! We'll now back up the friendly fleet. Oki-nee, Naga-nee, Asa-chan... Let's attack!",
+        "342": "The 31st Destroyer Division has arrived on the battlefield! We'll now back up the friendly fleet.",
         "H0000": "The time is now 12am, Admiral. I'll be your secretary ship for today. Please take good care of me.",
         "H0100": "0100. Let me know if your throat is dry, Admiral. I'll make some tea.",
         "H0200": "0200. Isn't it kinda hot, Admiral? I must be imagining things.",
@@ -15338,6 +15361,8 @@
         "Poke(2)": "Yes, I am the oldest! I'll do my best! Leave it to me!",
         "Join": "Fleet flagship, Maestrale heading out! Everyone ready?",
         "Damaged(1)": "Ahhh~! No~! My butt again? Are you serious, jeez!?",
+        "142": "From: 10th Destroyer Division, Maestrale. To: Special Operations Fleet. We will now proceed to back you up. Attack!",
+        "242": "Maestrale Division, roger! Got it, Libe? Follow me!",
         "H0000": "I, Maestrale, the eldest of the Maestrale-class will be helping you out today! Please count on me!",
         "H0100": "0~1~00! It's like this right? I'll report the time, don't worry!",
         "H0200": "0~2~00! Things go more smoothly than with Libe right? Yup! I am the eldest sister! Of course!",
@@ -15408,6 +15433,8 @@
         "2@Anniversary2018": "Isn't today a day to celebrate, Admiral? I'll celebrate too! Congratulations!"
     },
     "347": {
+        "142": "Ciao, ciao! Roger!",
+        "242": "Ciao, ciao! I'm here! Are you all doing well? I'm here to back you up! Raaaawr!",
         "H0000": "Ciao~ Admiral. Libeccio will be your time keeper. No problem, just leave it to me!",
         "H0100": "Admiral! 0100! How's that? Libeccio's perfect yes? Ehen!",
         "H0200": "Admiraaal! 0200! Hehe, Libeccio has gotten really good at this you know~!",
@@ -15540,7 +15567,8 @@
     "395": {
         "Intro": "Hello, I'm the destroyer leader, Tashkent. Please look after me today too, Comrade Admiral.",
         "Poke(2)": "The sky-blue cruiser... Yeah, well, that's what they called me, Comrade Admiral... It's kind of, a bit, embarrassing. Really?",
-        "MVP": "Am I, the sky blue cruiser, number one again, Comrade Admiral? No, it still makes me happy. Yup, it's great!"
+        "MVP": "Am I, the sky blue cruiser, number one again, Comrade Admiral? No, it still makes me happy. Yup, it's great!",
+        "142": "Alright, good. Are you ready, Comrades? Hurrah!"
     },
     "561": {
         "Intro": "I'm John C. Butler-class destroyer escort Samuel B. Roberts! Make sure to remember it! Ah, too long? Then \"Sam\" is fine, okay? Nice to meet you!",
@@ -15586,6 +15614,7 @@
         "Sortie": "Roger! Taffy 3, leave the escorting to me!",
         "Yasen(2)": "Well, if I fight like a heavy cruiser... no, that's not enough! I'll fight as hard as a battleship!",
         "Yasen(1)": "Prepare to fire torpedoes! We're charging in! That's fine, right!?",
+        "142": "Attack! Fire!",
         "H0000": "Sam'll be doing it today! Secretary ship yeoman, ready to go! Leave it to me! Even if I look like this... hya! No problem... o-okay!?",
         "H0100": "It is one now. Uhm, these documents go here... ahh, so sleepy...",
         "H0200": "It is two now. Aren't you sleepy, Admiral? Really?",
@@ -16200,8 +16229,8 @@
         "417179630": "The bottom of the sea... it's cold... being alone is... LOOONEEEELYY!!",
         "417179640": "Phew... That's enough. I mean... I did what I could have done... That's right... at that day... at that sea... I did what I could have done... Eh? You, you are... I...I see... alright!",
         
-        "423182110": "",
-        "423182120": "",
+        "423182110": "I don't... like... battles... at all...!",
+        "423182120": "I don't... like... battles... at all... but that... can't be helped...!",
         "423182130": "Stop that...!",
         "423182140": "",
         "423182410": "",

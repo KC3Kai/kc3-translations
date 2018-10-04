@@ -1,4 +1,4 @@
-﻿{
+{
 	"available": true,
 
 	"SortieWinCount": "출격 승리수",
@@ -82,7 +82,7 @@
 	"GameCustomizeWeb": "DMM 웹 사이트 커스터마이즈",
 	"GameGameModes": "게임 모드",
 	"GameReadMore": "더 읽기...",
-	"GameAltDMMInfo": "By being here, you are already set to play via DMM website. This is our recommended mode. Don't worry it has subtitles, translations, and backgrounds. Just proceed as instructed in 'Start the Game' section.",
+	"GameAltDMMInfo": "이미 설정된 값으로 DMM공식 사이트에 접속합니다. 추천모드입니다. 자막, 번역, 배경화면등도 작동합니다. 단지, 게임을 시작만 하세요.",
 	"GameAltFrameInfo": "몇몇 크롬 버전(55+)에서, DMM 프레임이 렌더링되지 않습니다. 검은 화면만 나오지만 소리는 들을 수 있습니다.",
 	"GameAltAPIInfo": "몇몇 크롬 버전(55+)에서, API 링크가 패널에서 감지되지 않고, '게임 활동 대기중...'에서 멈춥니다.",
 	"GameAltIgnore": "작동하지 않을 것을 인지하고 있으나, 이를 열고 싶습니다.",
@@ -91,6 +91,8 @@
 	"GameOReither": "혹은",
 	"GameStep2": "열려 있는 개발자 툴 패널에서 <code><strong>KanColle</strong></code> 탭을 클릭 (없을 경우 오른쪽의 \u00bb 드롭다운 메뉴 확인)",
 	"GameStep3": "즐거운 플레이 되세요!",
+	"GameStepHint"         : "Hint",
+	"GameStepHintRam"      : "메모리 절약을 위해서 로그 기록을 사용하지 않기를 권합니다. <code><strong>Network</strong></code>탭으로 전환해서, <span style='color:red'>🔴</span> 버튼을 누르거나, <kbd>Ctrl</kbd> <kbd>E</kbd>를 누르세요.",
 	"GameSocialLinks": "링크",
 
 	"SocialTextWebstore": "웹스토어에 리뷰 남기기",
@@ -245,8 +247,10 @@
 	"SettingsConstructionFaces": "건조 결과 예보",
 	"SettingsCraftBox": "개발 결과",
 	"SettingsCompass": "나침반 결과",
+	"SettingsPrevEncounters"    : "조우했던 적편성",
 	"SettingsBattleData": "전투예보",
 	"SettingsBattleRank": "전투 랭크 예측",
+	"SettingsBattleMvp"         : "전투MVP평가",
 	"SettingsBattleStamp": "건조 로그",
 	"SettingsBossComp": "보스방 편성",
 	"SettingsSaltyShip": "KC3改 현실 부정 처리",
@@ -255,12 +259,27 @@
 	"SettingsFleetStatus": "함대 현황 개요",
 	"SettingsAutoExpedTab": "원정 탭 자동 열기",
 	"SettingsAutoSwitchFleetView": "전황판 함대 자동 변경",
-	"SettingsPvPInfoActivity": "연습 상대 정보",
+	"SettingsPvPInfoActivity": "연습 상대 정보 자동 전환",
 	"SettingsEnglishShipType": "영자 약어 활용",
 	"SettingsShipNamesLang": "칸무스 이름 표시 언어",
 	"SettingsShipNamesGlobal": "기본 설정과 동일",
 	"SettingsBlinkGauge": "막트일 경우 게이지 점멸",
-
+	"SettingsShipClassName"     : "함형・함급도 표시",
+	"SettingsShipStatsDiffType" : "함선 스테이터스 수치",
+	"SettingsShipStatsCurrent"  : "현재값",
+	"SettingsShipStatsUnequipped" : "(장비를 제외한 값) 현재값",
+	"SettingsShipStatsLeftToMax" : "현재값 + 최대값까지 남은수",
+	"SettingsShipStatsAll"      : "(장비를 제외한 값) 현재값 + 최대값까지 남은수",
+	"SettingsDamagedShipIcon"   : "칸무스 중파 아이콘 표시",
+	"SettingsSeasonalShipIcon"  : "칸무스 기간한정 아이콘 사용",
+	"SettingsCheckNewShipFromDex" : "칸무스 도감에서 새로운 함선 체크",
+	"SettingsCheckNewShipFromDexTip" : "드랍이나 건조시 미소지 칸무스를 표시하기 위해, 게임내의 도감의 모든 페이지를 한번씩 표시할 필요가 있습니다. 앞의 과정을 하지 않으면 진수부가 지금 가지고 있는 함선만으로 판단, 해체・개수소비・굉침 등으로 없어진 칸무스는 미소지로 잘못 판단할수 있습니다.",
+	"SettingsItemsIconSet"      : "장비종류 아이콘 세트",
+	"SettingsStatsIconSet"      : "스테이터스 아이콘 세트",
+	"SettingsIconSetPhase1"     : "1기",
+	"SettingsIconSetPhase2"     : "2기",
+	"SettingsFormatNumbers"     : "수치 형식",
+	
 	"SettingsFormulas": "게임 내장 공식",
 	"SettingsELosFormula": "색적치 공식",
 	"SettingsELosSum": "합계",
@@ -288,6 +307,14 @@
 	
 	"SettingsImaginaryEnemySlot": "적 공/폭격기 슬롯",
 	"SettingsSpecialCounterAdjust": "임무 카운터 수정",
+	"SettingsPowerCapLevel"   : "공격력 계산 캡보정",
+	"SettingsPowerCapNone"    : "보정 없음",
+	"SettingsPowerCapPrecap"  : "캡전",
+	"SettingsPowerCapCapped"  : "캡전 & 캡",
+	"SettingsPowerCapPostcap" : "캡전 & 캡후",
+	"SettingsPowerCritical"   : "크리티컬 공격력 표시",
+	"SettingsPowerCriticalTip" : "캡후 보정이 설정되어 있지 않으면 표시가 되지 않습니다.",
+
 
 	"SettingsScreenshot": "스크린샷",
 	"SettingsSSOutput": "출력모드",
@@ -300,6 +327,7 @@
 	"SettingsSSDirDesc": "/Downloads/ 서브디렉토리를 정하세요",
 	"SettingsSSDppx": "기기 픽셀 비율",
 	"SettingsNormal": "기본",
+	"SettingsAuto" : "자동",
 
 	"SettingsAlerts": "경보음",
 	"SettingsTimeDiff": "타이머 여유",
@@ -308,8 +336,11 @@
 	"SettingsSupplyRate": "최소 자원",
 	"SettingsSupplyExped": "함대 보급 경고",
 	"SettingsSupplyBarLabel": "줄",
-	"SettingsSeconds": "초",
-	"SettingsSoundType": "소리 종류",
+	"SettingsSoundType"       : "경보음 종류",
+	"SettingsSoundTypeMorale" : "피로도 회복음 종류",
+	"SettingsSoundTypeExped"  : "원정 귀환음 종류",
+	"SettingsSoundTypeRepair" : "수리 완료음 종류",
+	"SettingsSoundTypeConstruction" : "건조 완료음 종류",
 	"SettingsDing": "땡!",
 	"SettingsCustom": "커스텀",
 	"SettingsCustomSound": "커스텀 음향 설정",
@@ -319,6 +350,8 @@
 	"SettingsShowCounter": "카운터 표시",
 	"SettingsIdleWarnStartAt": "대기 화면 표시",
 	"SettingsIdleWarnDesc": "대기 화면을 보여주기 전까지의 시간(초), 비활성화하려면 0을 입력",
+	"SettingsRscCapWarnFrom" : "최대비축가능 각 자원량 초과시 경고",
+
 
 	"SettingsTaihaAlert": "요란한 대파 경고",
 	"SettingsScreenBlur": "대파시 게임 화면 흐리게",
@@ -328,6 +361,8 @@
 	"SettingsRedShadeOnPanel": "대파시 패널에 적색 점멸",
 	"SettingsDisableHomePort": "모항에 있을 시 무효화",
 	"SettingsDisableHasDamecon": "다메콘 장착 칸무스 무시",
+	"SettingsNoAnimation" : "애니메이션 연출 없음",
+	
 
 	"SettingsAPIGameScreen": "API 게임 화면",
 	"SettingsQuestOverlay": "퀘스트 번역",
@@ -354,6 +389,9 @@
 	"SettingsSubtitleSpeaker": "칸무스 이름 포함한 자막 표시",
 	"SettingsSubtitleHourly" : "시보 자막 표시",
 	"SettingsGoogleTranslate": "구글 번역기 활용",
+	"SettingsSubtitleAccurateDuration" : "정확한 자막 표시 시간",
+	"SettingsMapClearerLetters" : "잘 보이는 맵 마커",
+	"SettingsMuteGameTab" : "시작시 음 소거",
 
 	"SubtitleDisplayBottom": "(게임 화면 하단) 게임 화면 하단에 고정",
 	"SubtitleDisplayBelow": "(게임 화면 밑) 게임 하면 바로 밑에 고정",
@@ -365,6 +403,10 @@
 	"SettingsDMMGameplay": "DMM 옵션",
 	"SettingsDMMCustomize": "커스터마이징 적용",
 	"SettingsDMMForceCookies": "강제 쿠키 핵",
+	
+	"SettingsDataSynchronization" : "Chrome Storage를 사용하여 데이터 동기화",
+	"SettingsEnableDataSyncNotif" : "동기화시 알림",
+	"SettingsChromeSyncQuests" : "임무 동기화",
 
 	"SettingsDBSubmission": "칸코레 DB에 데이터 전송 (http://kancolle-db.net/login.php)",
 	"SettingsEnableDBSubmission": "이 기능 활성화",
@@ -372,13 +414,28 @@
 
 	"SettingsPoiDBSubmission": "poi-statistics에 데이터 전송 (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission": "이 기능 활성화",
+	"SettingsFeatureTogglePoiDB" :"poi-statistics에 데이터 전송",
 
 	"SettingsKC3DBSubmission": "KC3改에 데이터 전송 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission": "활성화해서 돕기",
+	
+	"SettingsOpenDBSubmission" :"Kancolle OpenDB에 데이터 전송 (http://opendb.swaytwig.com/)",
+	"SettingsEnableOpenDBSubmission" : "이 기능 활성화",
+	"SettingsFeatureToggleOpenDB" :"Kancolle OpenDB에 데이터 전송",
+	
+	"SettingsTsunDBSubmission" :"Tsunderes에 데이터 전송 (https://tsundb.kc3.moe)",
+	"SettingsEnableTsunDBSubmission" : "활성화해서 돕기",
+	"SettingsFeatureToggleTsunDB" :"Tsunderes에 데이터 전송",
+	
+	"SettingsPushAlerts" : "PushBullet에 알림 전송 (https://www.pushbullet.com/)",
+	"SettingsEnablePushAlerts" : "송신하기",
+	"SettingsPushAlertsKey" : "Access Token",
 
 	"SettingsPanelSize": "패널 크기",
 	"SettingsPanelOpacity": "UI 불투명도",
 	"SettingsGearHolder": "기어 배경색",
+	"SettingsPanelBoxBackColor" : "정보 패널 배경색",
+	"SettingsPanelCustomCSS" : "CSS 커스터마이즈",
 
 	"SettingsChuuiWarningDangerousFeature": "정말로 이 내용을 변경하실 건가요?\n이로 인한 위험은 KC3改의 책임 외의 사항입니다.\n\n주의하시기 바랍니다.",
 	"SettingsErrorNG": "저장 완료!",
@@ -388,9 +445,22 @@
 	"SettingsErrorLength": "값 길이",
 	"SettingsErrorValue": "값",
 	"SettingsErrorOrder": "%TYP %CMP %VAL",
+	
+	"SettingsYears" : "년",
+	"SettingsMonths" : "월",
+	"SettingsDays" : "일",
+	"SettingsHours" : "시간",
+	"SettingsMinutes" : "분",
+	"SettingsSeconds" : "초",
 
 	"SettingsStrategyRoom": "전략실",
 	"SettingsStrategyTheme": "전략실 테마",
+	"SettingsStrategyCustomCSS" : "CSS 커스터마이즈",
+	"SettingsStrategyCustomCSSTip" : "유효한CSS3을 사용하여 KC3改의 테마를 커스터마이즈 가능합니다. CSS와 KC3改의 소스코드를 잘 이해하여,자기책임하에 써주세요. 이것을 유효하게 하기위해서는 전투 지휘소 페이지를 리로드할 필요가 있습니다. 일부의 CSS에 `!important`를 붙이는 것을 잊지 마세요.",
+	"SettingsSaveSortieToDb" : "출격전투 테마를 보존",
+	"SettingsSaveSortieButMaps" : "보존하고 싶지 않은 해역",
+	"SettingsSavePvpToDb" : "연습 전투 데이터를 보존",
+	
 
 	"InstalledTitle": "KC3改 준비 완료!",
 	"InstallText": "KC3改를 설치해주셔서 감사합니다! 저희가 개발한 기능들이 여러분의 칸코레 플레이를 보다 쾌적하게 해드릴 수 있길 바랍니다. 도움이 필요하시면 언제든지 알려주세요. 저희에게 연락하실 수 있는 곳은 'KC3改에 관하여' 페이지에서 찾으실 수 있습니다.",
@@ -422,7 +492,7 @@
 	"LearnMore": "상세히",
 	"Saved": "저장완료!",
 	"TimerComplete": "완료!",
-	"Debuffed": "디버프 완료!",
+	"Debuffed": "보스 기믹 해제 완료!",
 
 	"UnwantedExit": "API 링크는 1회 사용 후 무효화 됩니다. 새로고침을 하려면 메뉴를 통해 'API 링크를 새로고침'하셔야 합니다. 아니면 에러코를 만나러 갑니다.",
 	"UnwantedExitDMM": "으아악! 칸무스들을 두고 떠나다니! 진짜요? 새로고침이라면 에러코 걱정은 하지 마세요. API 링크와는 관계 없습니다!",
@@ -462,6 +532,11 @@
 	"RangeMedium": "중",
 	"RangeLong": "장",
 	"RangeVeryLong": "초장",
+	"RangeShortAbbr"       : "단",
+	"RangeMediumAbbr"      : "중",
+	"RangeLongAbbr"        : "장",
+	"RangeVeryLongAbbr"    : "초",
+	"RangeExtremeLongAbbr" : "극",
 
 	"HQText": "사령부",
 	"HQAdmiralLv": "레벨",
@@ -469,6 +544,8 @@
 	"HQExpAbbrev2": "현재",
 	"HQExpAbbrev3": "총",
 	"HQRankPoints": " 점",
+	"HQRankPointsTip" : "{0} 부터 기간내에 쌓은 제독경험치로부터 산출되며, \n인계나 보나스 전과는 가산 되지 않습니다.",
+
 
 	"BattleMapWorldPvP": "연습",
 	"BattleMapCleared": "돌파",
@@ -500,6 +577,13 @@
 	"BattleAirDefendNo": "요격기 없음",
 	"BattleAirBaseLoss": "손실",
 	"BattleAirBaseLossTip": "공습으로 인한 손실 - 내구도: {0}\n보크사이트/연료: {1}",
+	"BattleKindNightStart" : "야전마스",
+	"BattleKindAirBattleOnly" : "항공전마스",
+	"BattleKindAirDefendOnly" : "공습전마스",
+	"BattleKindEnemyCombined" : "적연합함대",
+	"BattleKindNightToDay" : "새벽전마스",
+	"BattlePreviousEncounters" : "조우할때의 적편성",
+	"BattleUnexpectedDamageTip" : "{0} → [{2}] {1}: {3} 예상: {4}～{5}",
 
 	"ShipHp": "체력",
 	"ShipFire": "화력",
@@ -515,14 +599,53 @@
 	"ShipLength": "사거리",
 	"ShipMorale": "피로도",
 	"ShipYasenFp": "야전",
+	"ShipAccuracy": "명중",
+	"ShipRadius"  : "행동반경",
+	"ShipBombing" : "폭장",
+	"ShipAccAntiBomber" : "대폭",
+	"ShipEvaInterception" : "영격",
+	"ShipDeployCost" : "배치 코스트",
+	
+	"ShipWarfareShelling" : "포격",
+	"ShipWarfareTorpedo"  : "뇌격",
+	"ShipWarfareAntisub"  : "대잠",
+	"ShipWarfareAntiLand" : "대지",
+	"ShipWarfareAerial"   : "항공",
+	
+	"ShipAttackTypeLandingAttack" : "양륙전",
+	"ShipAttackTypeRocket"        : "로켓",
+	"ShipAttackTypeDepthCharge"   : "폭뢰 공격",
+	"ShipAttackTypeAirAttack"     : "항공 공격",
+	"ShipAttackTypeTorpedo"       : "뇌격",
+	"ShipAttackTypeSingleAttack"  : "포격",
+	"ShipAttackTypeNone"          : "공격 불능",
+	
+	"ShipExtraPhaseOpeningASW"     : "선제 대잠",
+	"ShipExtraPhaseOpeningTorpedo" : "개막 뇌격",
+	"ShipExtraPhaseClosingTorpedo" : "뇌격전",
+	"ShipExtraPhaseOpeningAirStrike" : "항공전",
+	"ShipExtraPhaseOpeningJetAssault" : "분식 강습",
 
+	"ShipDayAttack"       : "낮 {0}공격력: {1} ({2})",
+	"ShipNightAttack"     : "밤 {0}공격력: {1} ({2})",
+	"ShipAccShelling"     : "낮 포격 정확율: {0} (장비{1},\u2605{2},Fit포{3},\u263b{4}) {5} {6}",
+	"ShipEvaShelling"     : "낮 포격 회피율: {0} (장비{1},\u2605{2},연료{3}) \u263b{4}",
 	"ShipAAAdjusted": "가중 대공치: {0}",
-	"ShipAAShotDownRate": "격추율: {0}%",
+	"ShipAAShotdownRate": "고정 격추율: {0}%",
 	"ShipAAFixedShotdown": "고정 격추 수: {0}",
 	"ShipAACIMaxBonus": "최대 대공컷인 보너스: {0}",
 	"ShipAAImgEnemySlot": "가상 적 공/폭격기 슬롯: {0}",
 	"ShipAAShotdownPred": "격추수 (상호/비율/고정/실패):\n{0}",
 	"ShipAAShotdownTitles": "상호/비율/고정/실패 시 대공",
+	
+	"ShipAAEffectNone"             : "없음",
+	"ShipAAEffectNormal"           : "기총",
+	"ShipAAEffectHighAngleMount"   : "고각표",
+	"ShipAAEffectRocketLauncher"   : "분진포",
+	"ShipAAEffectRocketLauncherK2" : "분진포 개2",
+	"ShipAAEffectType3Shell"       : "삼식탄",
+	"ShipAAEffectType3ShellRockeLaunK2" : "삼식탄+개2",
+	"ShipAAEffectUnknown"          : "불명",
 
 	"PredictionStampSortie": "굉침",
 	"PredictionStampPvP": "제압됨",
@@ -530,10 +653,13 @@
 	"EventRankHardAbbr": "갑",
 	"EventRankNormalAbbr": "을",
 	"EventRankEasyAbbr": "병",
-	"EventHistoryRank1": "병",
-	"EventHistoryRank2": "을",
-	"EventHistoryRank3": "갑",
+	"EventRankCasualAbbr"  : "정",
+	"EventHistoryRank1C"   : "정작전",
+	"EventHistoryRank1": "병작전",
+	"EventHistoryRank2": "을작전",
+	"EventHistoryRank3": "갑작전",
 	"StrategyEventGo": "이벤트",
+	"StrategyEvents1HP"    : "마지막 게이지!",
 
 	"PanelDocking": "입거 독",
 	"PanelAkashi": "아카시",
@@ -544,17 +670,29 @@
 	"PanelHighestAkashi": "최장 아카시 수리 시간",
 	"PanelRepairMoreDays": "24 시간 이상",
 	"PanelRepairing": "수리 중...",
+	"PanelLastHomePort" : "모항 접속 시각",
 	"PanelCombinedShipBarsHint": "잔여 경험치 = {0}, 연료 = {1}%, 탄약 = {2}%",
 	"PanelNextRemodelLv": "다음 개장 레벨 {0}",
 	"PanelPossibleRemodel": "개장 가능",
 	"PanelResupplyCosts": "보급 소요 연료 = {0}, 탄약 = {1}, 보크사이트 = {2}",
 	"PanelConsumedSteel": "전투 당 소모되는 강재 = {0}",
 	"PanelLbasSortieCosts": "기지항공대 비용\n연료: {0}, 탄약: {1}",
+	"PanelTransportPoints" : "수송작전보스スA/S승리시：{0} / {1} TP",
+	"PanelSupportExpCosts" : "지원함대 타입：지원{0}\n지원원정시 소비하는 자재\n 연료：{1}, 탄약：{2}",
+	"PanelAirContactTip"   : "{0}에서의\n촉접성공률：{1}%\n촉접개시율：{2}%{4:contactPlanes}\n전슬롯 선택 불발율：{3}%",
+	"PanelAirContactPlanes" : "\n선택판정순 TOP{0}의 슬롯：\n{1:planeRateList}",
+	"PanelAirStrikeTip"    : "{1}항공전 공격력：{0}",
+	"PanelAntiLandPowerTip" : "캡전후의 대지보정：\n　(... x{0} +{1}) x{2} +{3}\n중파시의 공격력：낮{4} 밤{5}",
+
 
 	"PanelHasTaiha": "대파",
 	"PanelFSTaiha": "기함대파",
 	"PanelCombinedFSChuuha": "기함 체력 낮음",
 	"PanelCombinedFSChuuhaTip": "기함 체력이 중파 이하로 출격이 불가능합니다!",
+	"PanelFCFPossible"   : "퇴피가능",
+	"PanelFCFTipTaihaShip" : "가 커다란 손상을 입었습니다.",
+	"PanelFCFTipEscortShip" : "를 호위로 붙여 퇴피하시겠습니까?\n퇴피한 경우 진격중인 연합합대에 미치는 영향：",
+	"PanelFCFTipStrikingForce" : "유격부대에서 이탈, 단함퇴피 하시겠습니까?\n퇴피한 경우 진격중인 함대에 미치는 영향：",
 	"PanelNoTaiha": "HP 좋음",
 	"PanelSupplied": "보급 완료",
 	"PanelNotSupplied": "보급 필요",
@@ -571,6 +709,10 @@
 	"PanelFitWindow": "창에 맞추기",
 	"PanelExportToKCDB": "Kancolle-calc DeckBuilder로 내보내기",
 	"PanelToggleQuestComplete": "임무 경과 수정 기능 켜기/끄기",
+	"UntranslatedQuest" : "아직 데이터가 없는 새로운 임무",
+	"UntranslatedQuestTip" : "이 임무의 데이터는 아직 갱신되지 않아서, 게임 내에서 확인할 수 없습니다.",
+	"PanelReloadQuests" : "임무 이터 갱신",
+	"PanelReloadQuotes" : "자막 업데이트 갱신",
 
 	"MissionLabelActivity": "결과",
 	"MissionGetItems": "아이템 획득:",
@@ -584,6 +726,7 @@
 	"CombinedSurface": "수상함대",
 	"CombinedTransport": "수송호위함대",
 	"CombinedNone": "연합되지 않음",
+	"CombinedLbas"      : "기지항공대",
 
 	"LandBaseActionWaiting": "대기",
 	"LandBaseActionSortie": "출격",
@@ -594,20 +737,30 @@
 	"LandBaseTipAirDefensePower": "기지 방공치",
 	"LandBaseTipInterceptFighters": "전투기 요격치",
 	"LandBaseTipInterceptBombers": "폭격/공격기 요격치",
+	"LandBaseDefenseShotdown" : "항공우세시의 적기 피격추율：\n 슬롯1：{0}\n 슬롯2：{1}\n 슬롯3：{2}\n 슬롯4：{3}",
 
 	"LevelText": "레벨",
 	"LevelShort": "Lv.",
 	"LevelNext": "다음",
 	"Screenshot": "스크린샷",
 	"Expedition": "원정",
-	"UntranslatedQuest": "번역되지 않은 퀘스트",
-	"UntranslatedQuestTip": "등록 혹은 번역되지 않은 퀘스트입니다. 이곳에서 확인할 수 없으니, 게임 내에서 확인하시기 바랍니다..",
-
-	"StrategyEvents1HP": "마지막 킬!(막트)",
-
+	
 	"PanelWaitActions": "게임 활동 대기중...",
 	"PanelErrorStorage": "Chrome의 localstorage가 무효로 설정되어 있습니다. KC3改는 해당 기능을 필요로 합니다.<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">이를 유효화하는 방법에 대해 참조하세요.</a>.",
 
+	"MapNameWorld1" : "진수부해역",
+	"MapNameWorld2" : "남서제도해역",
+	"MapNameWorld3" : "북방해역",
+	"MapNameWorld4" : "서방해역",
+	"MapNameWorld5" : "남방해역",
+	"MapNameWorld6" : "중부해역",
+	"MapNameWorld7" : "남서해역",
+	"MapNameEventWorld" : "{1}년 {0}이벤트해역",
+	"MapNameEventSeasonSpring" : "봄",
+	"MapNameEventSeasonSummer" : "여름",
+	"MapNameEventSeasonFall"   : "가을",
+	"MapNameEventSeasonWinter" : "겨울",
+	
 	"NatsuiroBasic": "기본",
 	"NatsuiroBattle": "전투",
 	"NatsuiroExped": "원정",
@@ -633,6 +786,8 @@
 	"ExpedGSRate": "대성공 확률",
 	"ExpedGSRateExplainSparkle": "키라작이 된 칸무스가 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}",
 	"ExpedGSRateExplainExtraDrum": "필수 드럼통 수 이상의 드럼통을 장착할 시 대성공 확률이 상승합니다. \n 현재 수: {0}/{1}",
+
+	"ConsumablesFCoinBoxes" : "가구상자（소）x{0} = {1}\n가구상자（중）x{2} = {3}\n가구상자（대）x{4} = {5}\n전부교환하면 = {6}\n+소지가구코인 = {7}",
 
 	"CraftEquipNoteFirst": "현시점 기준 이 장비의 <strong>첫번째</strong>입니다!",
 	"CraftEquipNoteExists": "이 장비를 현재 <strong>{0}</strong>개 보유 중입니다.",
@@ -663,6 +818,15 @@
 	"PvpBaseExp": "기본 EXP",
 	"PvpDispBaseExpWoCT": "연순 없을 시 S승리",
 	"PvpFormationPred": "진형",
+	"FirstFleetLevelTip" : "연습에 도전한 상대방이 얻은 경험치: {0}\nS승리의 경우: {1} (연순 없을시)",
+	
+	"RemodelItemListTitle"    : "오늘<span>{0:요일}</span>의<br/>개수 메뉴 입니다!",
+	"RemodelItemDetail"       : "이 장비를<br/>개수하는거네요!",
+	"RemodelItemConsumeNeeds" : "소비가능한 락이 안된 무개수 장비",
+	"RemodelItemUpgradeTo"    : "개수된 후의 장비",
+	"RemodelItemResultSuccess": "개수에 성공 했습니다!",
+	"RemodelItemResultFailure": "개수에 실패 했습니다...",
+
 
 	"DesktopNotifyExpedCompleteTitle": "원정 완료!",
 	"DesktopNotifyExpedCompleteMessage": "제{0}함대가 원정 #{1}로부터 귀환했습니다.",
@@ -673,11 +837,15 @@
 	"DesktopNotifyConstrCompleteMessageUnknown": "새로운 칸무스가 건조 독에서 대기 중입니다!",
 	"DesktopNotifyMoraleTitle": "함대 피로도 회복 완료!",
 	"DesktopNotifyMoraleMessage": "\"현재 선택된 함대\" 소속 전원의 피로도가 회복되었습니다.",
+	"DesktopNotifyQuestsSyncTitle" : "임무 데이터가 동기화 되었습니다!",
+	"DesktopNotifyQuestsSyncMessage" : "임무의 완성도가 동기화 되었습니다. \n데이터는 {0} 입니다.",
+
 
 	"NewsfeedRepair": "수리가 끝났습니다.",
 	"NewsfeedConstrct": "건조가 끝났습니다.",
 	"NewsfeedExped": "원정 함대가 돌아왔습니다.",
 	"NewsfeedUnlockMap": "새로운 해역이 개방되었습니다.",
+	"NewsfeedUnlockArea": "새로운 작전 에리어가 출격 가능하게 되었습니다!",
 	"NewsfeedUpdateLib": "함선 도감이 업데이트 되었습니다.",
 	"NewsfeedPvPWin": "\"{0:opponentName}\"님과의 연습에서 승리하였습니다!",
 	"NewsfeedPvPLose": "\"{0:opponentName}\"님과의 연습에서 패배하였습니다!",
@@ -724,11 +892,14 @@
 	"LodgeRatingNG5": "과다 출혈",
 
 	"ShipListFullNamePattern": "{0:className} {1:shipName}",
+	
+	"BattleHistoryAirRaidTip" : "항공기지의 피 대미지 합계：{0}\n손해 타입：{1}\n연료 또는 보키의 손해예측：{2}\n제공상태：{3}\n{11:추측된 적 제공치}\n적기의 피격추율：{4}\n적함공의 남은수：{5}\n적함폭의 남은수：{6}\n각방공부대에서 대폭치 MVP：\n 슬롯1：{7}\n 슬롯2：{8}\n 슬롯3：{9}\n 슬롯4：{10}",
 
 	"MasterShipSaltCheck": "존재 인정",
 	"MasterShipSaltUnCheck": "존재 부인",
 	"MasterShipGoQuotes": "대사 확인",
 
+	
 	"Chrome55Incompatible": "크롬 55버전 이상 호환 안됨",
 	"DownloadErrorReport": "오류 보고 파일을 다운로드",
 

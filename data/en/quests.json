@@ -926,6 +926,24 @@
         "memo": "\u27a3Rewards a Present Box",
         "unlock": [ 168 ]
     },
+    "290": {
+        "code": "SB30",
+        "name": "Saury FIshing: This year's Saury is great as well!",
+        "desc": "Have 3 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 6 Development Materials OR 2 Searchlights OR 3 Combat Rations\n\u00B6Second choice: Either a Type 3 Active Sonar OR Skilled Lookouts OR 3 Screws"
+    },
+    "291": {
+        "code": "SB31",
+        "name": "Saury Fishing: I will not yield this important fishery location!",
+        "desc": "Have 10 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Type 95 Depth Charge OR 2 Daihatsu Landing Crafts OR an Action Report\n\u00B6Second choice: Either 2 WG42 (Wurfgerat 42) OR 2 Reinforcement Expansions OR a Night Operations Aviation Personnel"
+    },
+    "292": {
+        "code": "SB32",
+        "name": "Saury Fishing: Such a big haul... It's very helpful.",
+        "desc": "Have 30 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a GFCS Mk.37 OR an Asashio-class fishing banner OR an Agano-class fishing banner"
+    },
     "293": {
         "code": "B53",
         "name": "Sortie CarDiv 3 to the Nansei Islands Defense Line!",
@@ -1641,7 +1659,7 @@
     "875": {
         "code": "Bq6",
         "name": "Quarterly [W5-4]",
-        "desc": "Sortie Naganami Kai Ni as flagship, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
+        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
         "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
@@ -1723,7 +1741,7 @@
         "unlock": [ 636 ]
     },
     "313": {
-        "code": "C10",
+        "code": "C26",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box",

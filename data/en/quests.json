@@ -612,7 +612,7 @@
         "name": "Sortie a Torpedo Squadron!",
         "desc": "Sortie a CL as flagship and 3 DD to any map.",
         "memo": "\u27a3Rewards the CL, Tatsuta",
-        "unlock": [ 207, 255 ]
+        "unlock": [ 207, 255, 290 ]
     },
     "207": {
         "code": "B7",
@@ -930,13 +930,15 @@
         "code": "SB30",
         "name": "Saury Fishing: This year's Saury is great as well!",
         "desc": "Have 3 Sauries in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 6 Development Materials OR 2 Searchlights OR 3 Combat Rations\n\u00B6Second choice: Either a Type 3 Active Sonar OR Skilled Lookouts OR 3 Screws"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 6 Development Materials OR two Searchlights OR 3 Combat Rations\n\u00B6Second choice: Either a Type 3 Active Sonar OR a Skilled Lookouts OR 3 Screws",
+        "unlock": [ 291 ]
     },
     "291": {
         "code": "SB31",
         "name": "Saury Fishing: I will not yield this important fishery location!",
         "desc": "Have 10 Sauries in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Type 95 Depth Charge OR 2 Daihatsu Landing Crafts OR an Action Report\n\u00B6Second choice: Either 2 WG42 (Wurfgerat 42) OR 2 Reinforcement Expansions OR a Night Operations Aviation Personnel"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 95 Depth Charges OR two Daihatsu Landing Crafts OR an Action Report\n\u00B6Second choice: Either two WG42 (Wurfgerat 42) OR 2 Reinforcement Expansions OR a Night Operations Aviation Personnel",
+        "unlock": [ 292 ]
     },
     "292": {
         "code": "SB32",
@@ -1827,7 +1829,7 @@
         "code": "C25",
         "name": "Asashio-class, Assemble! Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards 3 Buckets and either 4 Development Materials OR a Type 3 Depth Charge Projector OR a Furniture Fairy"
+        "memo": "\u27a3Rewards 3 Buckets and either 4 Development Materials OR a Type 3 Depth Charge Projectors OR a Furniture Fairy"
     },
     
     

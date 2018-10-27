@@ -582,6 +582,13 @@
         "memo": "\u27a3Rewards either 5 Development Materials OR a Furniture Fairy",
         "unlock": [ 887 ]
     },
+    "195": {
+        "code": "A90",
+        "name": "Form the Elite 17th Destroyer Division!",
+        "desc": "Have Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards an Irako and either two Combat Rations OR 3 Buckets",
+        "unlock": [ 328, 891 ]
+    },
     
     "202": {
         "code": "B1",
@@ -979,6 +986,12 @@
         "name": "Carry out the Operation Rei-Go!",
         "desc": "Sortie Kasumi as flagship, Ashigara, Ooyodo, Asashimo, Kiyoshimo and 1 additional ship to [W2-5]. S-Rank the boss node.",
         "memo": "\u27a3Rewards 3 Screws and a Present Box"
+    },
+    "298": {
+        "code": "B124",
+        "name": "7th Destroyer Division, sail to the Nansei Islands Region!",
+        "desc": "Sortie any two of Akebono, Ushio, Sazanami and Ushio and up to 4 additional ships to [W2-1], [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Furniture Fairy OR 3 12.7cm Twin Gun Mount Model B Kai Ni OR a Daihatsu Landing Craft\n\u00B6Second choice: Either 8 Development Materials OR 5 Screws OR a Type 0 Passive Sonar"
     },
     "805": {
         "code": "B58",
@@ -1411,15 +1424,21 @@
         "code": "B121",
         "name": "First platoon of the Elite 27th Destroyer Division, Sortie!",
         "desc": "Sortie Shiratsuyu Kai Ni and Shigure Kai Ni and up to 4 additional ships to [W2-3], [W4-1], [W5-5] and [W6-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets"
+        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets"
     },
     "890": {
         "code": "B122",
         "name": "Elite CruDiv 4 2nd Platoon, Set Sail!",
         "desc": "Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3] and [W4-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either two 12.7cm Twin High-angle Gun Mount (Late Model) OR 8 Buckets OR a Medal"
+        "memo": "\u27a3Rewards furniture and either two 12.7cm Twin High-angle Gun Mount (Late Model) OR 8 Buckets OR a Medal"
     },
-    
+    "891": {
+        "code": "B123",
+        "name": "Elite 17th Destroyer Division, to the North, to the South!",
+        "desc": "Sortie Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai and up to 2 additional ships to [W1-5], [W3-2], [W7-1] and [W5-1]. A-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Type 3 Sonar OR a 12.7cm Single High-angle Gun Mount (Late Model) OR a Furniture Fairy\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+    },
+
     
     "201": {
         "code": "Bd1",
@@ -1831,6 +1850,12 @@
         "desc": "Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards 3 Buckets and either 4 Development Materials OR a Type 3 Depth Charge Projectors OR a Furniture Fairy"
     },
+    "328": {
+        "code": "C27",
+        "name": "Elite 17th Destroyer Division, Commence Intensive Training!",
+        "desc": "Secure 4 victories in Exercises within the same day using Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards a Maimiya and either a Type 2 Depth Charge OR a Reinforcement Expansion"
+    },
     
     
     "401": {
@@ -2113,7 +2138,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675, 676, 677, 803 ],
+        "unlock": [ 675, 676, 677, 803, 688 ],
         "tracking": [ [0,3] ]
     },
     
@@ -2596,8 +2621,14 @@
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model B Kai 2.",
         "memo": "\u203bSet a Shigure Kai Ni or Yuudachi Kai Ni as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model B Kai 2 in her FIRST slot.\nScrap five 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director"
     },
+    "688": {
+        "code": "F79",
+        "name": "Aerial Force Enhancement",
+        "desc": "Have 1800 Bauxite and a Skilled Crew Member. Scrap 3 Fighters, 3 Dive Bombers, 3 Torpedo Bombers and 3 Reconnaissance Seaplanes. Press F10 to clear the overlay.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Type 0 Fighter Model 32 (Skilled) OR a Type 1 Fighter Hayabusa Model II OR a Zuiun (631 Air Group)"
+    },
     
-    
+
     "701": {
         "code": "G1",
         "name": "The First Modernization!",

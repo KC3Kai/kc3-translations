@@ -406,6 +406,11 @@
 		"desc": "Habe NUR Tenryuu Kai Ni und Tatsuta Kai Ni in der Flotte. Drücke F10 um das Overlay zu verbergen.",
 		"memo": "\u27a3Belohnung: Entweder 5x 'Entwicklungsmaterialien' oder 'Möbelfee'"
 	},
+	"195": {
+        "name": "Bilde die 17. Elite Zerstörer Division!",
+        "desc": "Habe Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai und Tanikaze D Kai in deiner Flotte. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u27a3Belohnung 'Irako' und entweder 2x 'Feldration' ODER 3x 'Eimer'"
+	},
     "202": {
         "name": "Der Erste Einsatz!",
         "desc": "Sende die Hauptflotte auf ein Einsatz."
@@ -534,12 +539,12 @@
     },
     "252": {
         "name": "Sende das Schlachtschiff Haruna aus!",
-        "desc": "Sende Haruna Kai Ni als Flaggschiff und 5 weitere Schiffe nach [W5-1]. S-Rank den Boss knoten.",
+        "desc": "Sende Haruna Kai Ni und 5 weitere Schiffe nach [W5-1]. S-Rank den Boss knoten.",
         "memo": "\u27a3Belohnung: '35.6cm Drillingsgeschütz Prototyp'"
     },
     "253": {
         "name": "Sende die 601te Marine Luft Gruppe aus!",
-        "desc": "Send Unryuu Kai als Flaggschiff und 5 weitere Schiffe nach [W5-2]. S-Rank den Boss knoten.",
+        "desc": "Send Unryuu Kai und 5 weitere Schiffe nach [W5-2]. S-Rank den Boss knoten.",
         "memo": "\u27a3Belohnung: 'Erfahrenes Bordflugzeug-Wartungspersonal'"
     },
     "254": {
@@ -662,7 +667,7 @@
         "desc": "Sende Ashigara als Flaggschiff und Kuma, Nagara und bis zu 3 weitere Schiffe nach [W2-2]. S-Rank den Boss knoten.",
         "memo": "\u27a3Belohnung: 'Geschenk Box'"	
     },
-	 "290": {
+	"290": {
         "name": "Makrelen Fischen: Die Makrelen sind dieses Jahr wieder gut!",
         "desc": "Habe 3 Makrelen in deinem Inventar. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder '6 Entwicklungsmaterialien' ODER '2 Suchscheinwerfer' ODER '3 Feldrationen'\n\u00B6Zweitewahl: Entweder '1 Typ-3-Aktives Sonar' ODER 'Erfahrener Ausguck' ODER '3 Schrauben'"
@@ -702,6 +707,11 @@
         "desc": "Sende Kasumi als Flaggschiff und Ashigara, Ooyodo, Asashimo, Kiyoshimo und 1 weiteres Schiff nach [W2-5]. S-Rank den Boss Knoten.",
         "memo": "\u27a3Belohnung: '3 Schrauben' und 'Geschenkbox'"
     },
+	"298": {
+        "name": "7. Zerstörer Division, segel setzen zur Nansei Insel Region!",
+        "desc": "Sende zwei von den folgenden Schiffen 'Akebono, Ushio, Sazanami und Oboro' und bis zu 4 weitere Schiffe nach [W2-1], [W2-2], [W2-3] und [W2-4]. S-Rank die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird nich geprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Möbelfee' ODER 3x '12.7cm Zwillingsgeschütz B Kai Ni' ODER 1x 'Daihatsu Landungsboot'\n\u00B6Zweitewahl: Entweder 8x 'Entwicklungsmaterialien' ODER 5x 'Schrauben' ODER 1x 'Typ-0-Passives Sonar'"
+    },	
     "805": {
 		"name": "Sende das Flaggschiff Kasumi um die Nördlichen Gewässer zu Patrouillieren!",
         "desc": "Sende Kasumi Kai Ni als Flaggschiff, 3 DD und bis zu 2 weitere Schiffe nach [W3-1]. B-Rank+ den Boss knoten.",
@@ -1039,14 +1049,18 @@
 	"889": {
         "name": "Erster Zug der 27. Elite Zerstörer Division, zum Einsatz!",
         "desc": "Sende Shiratsuyu Kai Ni, Shigure Kai Ni und bis zu 4 weitere Schiffe nach [W2-3], [W4-1], [W5-5] und [W6-5]. S-Rank die Boss knoten. Drücke F10 um das Overlay zu verbergen.",
-        "memo": "\u26233Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnung '1x 12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät' und entweder '1x Medaille' ODER '1x Material für neue Geschützturmmodelle' ODER '8x Eimer'"
+        "memo": "\u27a3Belohnung '1x 12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät' und entweder '1x Medaille' ODER '1x Material für neue Geschützturmmodelle' ODER '8x Eimer'"
     },
 	  "890": {
         "name": "4. Elite Kreuzer Division, Zweiter Zug, Segel setzen!",
         "desc": "Sende Choukai Kai Ni, Maya Kai Ni und bis zu 4 weitere Schiffe nach [W1-4], [W2-3], [W3-3] und [W4-5]. S-Rank die Boss knoten. Drücke F10 um das Overlay zu verbergen.",
-        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen 'Möbel' und entweder  '2x 12.7cm Steilfeuer-Zwillingsgeschütz (Spätes Model)' ODER 8 Eimer ODER 'Medaille'"
+        "memo": "\u27a3Belohnungen 'Möbel' und entweder  '2x 12.7cm Steilfeuer-Zwillingsgeschütz (Spätes Model)' ODER 8 Eimer ODER 'Medaille'"
     },
-	
+    "891": {
+        "name": "17. Zerstörer Elite Division, Auf in den Norden, Ab in den Süden!",
+        "desc": "Sende Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai und bis zu 2 weitere Schiffe nach [W1-5], [W3-2], [W7-1] und [W5-1]. A-Rank die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Typ-3-Sonar' ODER 1x '12.7cm Steilfeuergeschütz (Spätes Modell)' ODER 1x 'Möbelfee'\n\u00B6Zweitewahl: Entweder 1x 'Schlachtbericht' ODER 1x '12.7cm Zwillingsgeschütz C Kai Ni' ODER 1x '61cm (Sauerstoff) Vierlingstorpedo Spätes Modell'"
+    },
 
 
     "201": {
@@ -1215,7 +1229,7 @@
     },
     "875": {
         "name": "Vierteljährliche [W5-4] Einsätze",
-        "desc": "Sende Naganami Kai Ni als Flaggschiff und EINS von den folgenden Schiffen 'Takanami Kai, Asashimo Kai oder Okinami Kai' und bis zu 4 weitere Schiffe nach [W5-4]. S-Rank den Boss knoten zweimal. Overlay: F10",
+        "desc": "Sende Naganami Kai Ni und EINS von den folgenden Schiffen 'Takanami Kai, Asashimo Kai oder Okinami Kai' und bis zu 4 weitere Schiffe nach [W5-4]. S-Rank den Boss knoten zweimal. Overlay: F10",
         "memo": "\u203bElite 31. Zerstörer Division, Stoße zum Iron Bottom Sound vor!\n\u27a3Rewards:\n\u00B6Erstewahl: Entweder '2x Typ-13-Luftabwehrradar' ODER '2x Typ-22-Oberflächenradar' ODER 'Schlachtbericht'\n\u00B6Zweitewahl: Entweder 'Material für neue Geschützturmmodelle' ODER 'Geschenk Box'"
     },
 	    "888": {
@@ -1343,7 +1357,11 @@
         "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben Tages während du mindestens 4 Schiffe der Asashio-Klasse und bis zu 2 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
         "memo": "\u27a3Belohnungen: '3 Eimer' und entweder '4 Entwicklungsmaterialien' ODER 'Typ-3 Wasserbombenabschussvorrichtung' ORER 'Möbelfee'"
     },
-    
+    "328": {
+        "name": "17. Elite Zerstörer Division, Auf zum Intensiv Training!",
+        "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben Tages während du Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai und bis zu 2 weitere Schiffe benutzt. F10 verbirgt das Overlay.",
+        "memo": "\u27a3Belohnungen 1x 'Maimiya' und entweder 1x 'Typ-2-Wasserbombe' ODER 1x 'Schiffshüllenerweiterung'"
+    },
 
 
     "401": {
@@ -1919,7 +1937,13 @@
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
         "memo": "\u203bHabe Shigure Kai Ni oder Yuudachi Kai Ni als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN slot aus.\nEntsorge fünf 10cm Steilfeuer-Zwillingsgeschütz und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät'"
     },
-
+    "688": {
+        "name": "Verbesserung der Lufttruppen",
+        "desc": "Habe 1800 Bauxite und Erfahrene Besatzung. Entsorge 3 Jäger, 3 Sturzflugbomber, 3 Torpedobomber und 3 Aufklärungswasserflugzeuge. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: Entweder 1x 'Typ-0-Jagdflugzeug Modell 32 (Erfahren) ODER 1x 'Typ-1-Jagdflugzeug Hayabusa Modell II' ODER 1x 'Zuiun (Flugzeuggruppe 631)'"
+    },
+	
+	
     "701": {
         "name": "Die erste Modernisierung!",
         "desc": "Führe erfolgreich eine Modernisierung durch."

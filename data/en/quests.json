@@ -590,6 +590,13 @@
         "memo": "\u27a3Rewards an Irako and either two Combat Rations OR 3 Buckets",
         "unlock": [ 328, 891 ]
     },
+    "196": {
+        "code": "A91",
+        "name": "Elite 10th Destroyer Division, Prepare To Sortie!",
+        "desc": "Have Yuugumo Kai Ni and Makigumo Kai Ni in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Combat Ration and either 5 Buckets OR a Furniture Fairy",
+        "unlock": [ 892 ]
+    },
     
     "202": {
         "code": "B1",
@@ -992,7 +999,13 @@
         "code": "B124",
         "name": "7th Destroyer Division, sail to the Nansei Islands Region!",
         "desc": "Sortie any two of Akebono, Ushio, Sazanami and Oboro and up to 4 additional ships to [W2-1], [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Furniture Fairy OR 3 12.7cm Twin Gun Mount Model B Kai Ni OR a Daihatsu Landing Craft\n\u00B6Second choice: Either 8 Development Materials OR 5 Screws OR a Type 0 Passive Sonar"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Furniture Fairy OR 3 12.7cm Twin Gun Mount Model B Kai Ni OR a Daihatsu Landing Craft\n\u00B6Second choice: Either 8 Development Materials OR 5 Screws OR a Type 0 Passive Sonar"
+    },
+    "299": {
+        "code": "B125",
+        "name": "Reinforce Surveillance and Patrols of the Coastal Sea!",
+        "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report"
     },
     "805": {
         "code": "B58",
@@ -1437,7 +1450,13 @@
         "code": "B123",
         "name": "Elite 17th Destroyer Division, to the North, to the South!",
         "desc": "Sortie Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai and up to 2 additional ships to [W1-5], [W3-2], [W7-1] and [W5-1]. A-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Type 3 Sonar OR a 12.7cm Single High-angle Gun Mount (Late Model) OR a Furniture Fairy\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Type 3 Sonar OR a 12.7cm Single High-angle Gun Mount (Late Model) OR a Furniture Fairy\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+    },
+    "892": {
+        "code": "B126",
+        "name": "Mainstay of Mainstay, set sail!",
+        "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni and up to 4 additional ships to [W5-3], [W5-4] and [W5-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws"
     },
 
     

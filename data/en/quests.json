@@ -1005,7 +1005,8 @@
         "code": "B125",
         "name": "Reinforce Surveillance and Patrols of the Coastal Sea!",
         "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report",
+        "unlock": [ 893 ]
     },
     "805": {
         "code": "B58",
@@ -1532,7 +1533,7 @@
         "name": "Weekly Sorties",
         "desc": "Sortie 36 times, reach 24 boss nodes, B-Rank+ 12 boss nodes, and obtain 6 S-Ranks.",
         "memo": "\u203bOperation A-Go",
-        "unlock": [ 221 ],
+        "unlock": [ 221, 893 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
         "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
@@ -1733,7 +1734,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 890, 893 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {

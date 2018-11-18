@@ -379,7 +379,8 @@
         "Equip(3)": "Hmph, don't underestimate me.",
         "Return": "The fleet has returned. Alright.",
         "Sortie": "Battleship Nagato, sortieing, follow me!",
-        "Battle": "Don't underestimate the power of the remodeled Big Seven."
+        "Battle": "Don't underestimate the power of the remodeled Big Seven.",
+        "SpCutin": "Let's do this! Full broadside! FIRE!!!!!!!"
     },
     "81": {
         "Intro": "Second of the Nagato-class battleships, Mutsu. Pleased to meet you. Don't play with fire too much, okay? ...Please?",
@@ -1936,7 +1937,10 @@
         "2@Rainy2018": "So this is \"Tsuyu\"? All the rain is depressing but this teruteru doll is cute. I want to try making one too.",
         "2@Summer2018": "I see. Everyone has swimsuits. I'm going to buy one too, my Admiral. Accompany me.",
         "3@Summer2018": "Humph, it's not a problem. It's fine, we don't have to buy one. Come shopping with me again sometime, my Admiral. Yes, please.",
-        "2@Saury2018": "Did you eat that thing that I made specially for you, My Admiral? Hmmm? I see, you ate it. I see..."
+        "2@Saury2018": "Did you eat that thing that I made specially for you, My Admiral? Hmmm? I see, you ate it. I see...",
+        "4@LateFall2018": "Now, it's done, help yourself. I've taken the time to make this especially for you. You better savour every last bit. How is it? Re-really? That's good then. Thank you.",
+        "3@LateFall2018": "It can't be helped then, if it's that delicious then I'll make some for you right now. Just wait.",
+        "2@LateFall2018": "My Admiral, is that really that delicious? Really? I see..."
     },
     "392": {
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
@@ -3523,7 +3527,8 @@
         "Damaged(3)": "No! Fire? If that ignites my fuel...ahh!",
         "Sunk": "I'm sinking...I'm sinking...again? It's dark...the sea...I'm scared...I'm sc...a...",
         "2@Saury2018": "Saury? Is it a fish? ...I understand, I'll work hard too. First I'll need to prepare my equipment and planes, right?",
-        "2@Fall2018": "When autumn... when it deepens... I start to hate the sea. Why is that? It's the same beautiful sea I love so much..."
+        "2@Fall2018": "When autumn... when it deepens... I start to hate the sea. Why is that? It's the same beautiful sea I love so much...",
+        "3@LateFall2018": "Taiyou-neesan... Ah, Houshou, are you making a hotpot? Yes, I'll help. Whoa, it looks good. It's wonderful."
     },
     "381": {
         "Intro": "Guten! I mean, good morning, Admiral. Aircraft carrier Shinyou reporting in...I'm sorry I'm still getting used to things... but, I'll do my best today as well.",
@@ -4716,7 +4721,8 @@
         "3@Saury2018": "The Naval Base Saury Festival. Whoaaa, so this is how it's like this year.",
         "4@Saury2018": "Would you like some too, Sam? Ah, so much? If you eat that fast you'll... Ah, yes, I'll get some water!",
         "3@Fall2018": "Wow, this... this is delicious!",
-        "2@Fall2018": "I was ordered to do a new task this autumn but... I wonder if I can..."
+        "2@Fall2018": "I was ordered to do a new task this autumn but... I wonder if I can...",
+        "4@LateFall2018": "Wowowow, this season's concert... Admiral, isn't it great? Whoaaa."
     },
     "396": {
         "Intro": "Good morning! Admiral, Gambier Bay is doing well! Yes! I'll do my best today as well, for sure!",
@@ -5099,7 +5105,9 @@
         "3@Summer2018": "This summer is really hot. But, this ice cream is delicious. Would you like some too, Admiral? Here you go.",
         "2@Saury2018": "Yes, I'll take part in the Saury Festival too. A sonar, lookouts, searchlight... Depth charges will... just scare the fishes away.",
         "3@Saury2018": "Is this salt-grilled saury? It's good, it's delicious.",
-        "4@Saury2018": "So this is the flagship restaurant... It's so lovely. I wonder what seafood I should have."
+        "4@Saury2018": "So this is the flagship restaurant... It's so lovely. I wonder what seafood I should have.",
+        "3@LateFall2018": "Yes? Yes, I'm all organised. Look, I've gotten all the alcohol together. Next is... the cocktail recipes, right? Ah, Ashigara, Nachi... Eh, this is...? Thanks, it helps.",
+        "2@LateFall2018": "Excuse me? Gambier Bay, Tashkent, how are the preparations?"
     },
     "372": {
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
@@ -5670,7 +5678,8 @@
         "2@WhiteDay2018": "How were my hangar-like chocolates, Admiral? Were they to your liking? Ah, that's great.",
         "2@Spring2018": "The cherry blossoms are beautiful. Hmmm... I know, let's go cherry blossom viewing! We can go with the other members of Nanao Bay. I can't wait~",
         "2@Anniversary2018": "I heard the news, Admiral. It's the fleet's 5th Anniversary! Isn't that wonderful? I'm thankful to everyone. I want to be together with you again next year.",
-        "2@Rainy2018": "I won't say it's just because of the rainy season but... This season somehow... just makes me want to hide... Why? Open the vents! Crash dive! Shion, hiding!"
+        "2@Rainy2018": "I won't say it's just because of the rainy season but... This season somehow... just makes me want to hide... Why? Open the vents! Crash dive! Shion, hiding!",
+        "2@LateFall2018": "It's gotten really cold. It's the time of year when we submarine carriers want to get under the kotatsu too. Hmmm... I want to... dive right in! Whoaaa... Aaaah, it's warm... Mmmm."
     },
     "606": {
         "Intro": "Good day, Admiral. I'm the eldest of the Sentoku-class, the 1st ship, I-400, Shion. Have you gotten used to calling me by that yet? Hmm? Really? Then let's keep each other company today too!",
@@ -6778,7 +6787,8 @@
         "17@Leyte": "Over there right? I got it. Take thiiiiis!!",
         "2@WhiteDay2018": "Oh, that's right. I did give you something. Thank you. Let's see~ *nom* Ooh, it's delicious. No way, it's handmade!?",
         "2@Spring2018": "Hey, what are you doing, Choukai? ...Ah, a lunch box for the cherry blossom viewing? Very nice. *Nom*... That's good! Now where is the booze... Ow!",
-        "2@Anniversary2018": "So it's finally our 5th Anniversary? Admiral, Choukai, thanks for everything. Ah, yeah, I'm glad."
+        "2@Anniversary2018": "So it's finally our 5th Anniversary? Admiral, Choukai, thanks for everything. Ah, yeah, I'm glad.",
+        "3@LateFall2018": "Aaaaaah... This kotatsu is really useful. Even if you sleep in light clothes, it has this enveloping warmth... Aah, I'm seriously... sleepy..."
     },
     "271": {
         "Intro": "Yo, Admiral! Working hard? Cause today is another day for me to kick some ass!",
@@ -6839,7 +6849,8 @@
         "3@Leyte": "Yes, Maya. I won't be careless! I'll do this with all my might.",
         "2@Homecoming": "CruDiv4, Choukai, operation complete! We can go home together this time, Commander... *sob*... Thank you.",
         "2@Spring2018": "Ah, Takao. Yes, lunch boxes for the cherry blossom viewing? Let me help you... Ah, hey, Maya! No sneaking a bite!",
-        "2@Anniversary2018": "It's finally our 5th Anniversary. Congratulations, and thank you for everything."
+        "2@Anniversary2018": "It's finally our 5th Anniversary. Congratulations, and thank you for everything.",
+        "3@LateFall2018": "It's cold, but braving winter is a good thing, right? Right, Maya? Maya? Ah, jeez. You'll catch a cold."
     },
     "272": {
         "Idle": "I'm confident in my night warfare capability, but... about the enemy aircraft... I see... so I should act as Maya would... Uhm... but, but...",
@@ -8573,7 +8584,8 @@
         "2@Xmas2017": "Admiral, if it's alright with you, please have some of this cake...umm...yes, I made it myself. It's just a little bit sweet.",
         "2@YearsEnd2017": "Naka-chan, please take care of all the dust that's gathered over there. Neesan, please be gentle when wiping down the floor.",
         "2@Setsubun2018": "The Oni for DesRon2 is... me. I see. Ouch! Again... Ufufu... I see.",
-        "2@Anniversary2018": "Congratulations, Admiral. The fleet's 5th Anniversary has come. I congratulate you."
+        "2@Anniversary2018": "Congratulations, Admiral. The fleet's 5th Anniversary has come. I congratulate you.",
+        "2@LateFall2018": "Admiral, it's gotten colder recently, hasn't it? I'll go and make some warm tea now. Please wait a moment."
     },
     "223": {
         "Idle": "Admiral... um... that is... um...! I'm sorry... it was nothing...",
@@ -9823,7 +9835,8 @@
         "2@WhiteDay": "Commander, this is the returning gift for Minazuki's chocolate? Thank you, I'm glad.",
         "2@EarlySummer": "Yeah, that's right. Back then, this season used to be known as 'Minazuki'. Isn't this name interesting?",
         "2@Summer2017": "Ah, jeez, everyone is playing around in swimsuits. Honestly, what's up with this fleet? I mean...that's so nice. Tch.",
-        "2@Anniversary2018": "Wha, it's finally the 5th Anniversary? Amazing. I'll congratulate you too. Congratulations, Commander... Mmm, thank you. I'm kinda... yeah, happy."
+        "2@Anniversary2018": "Wha, it's finally the 5th Anniversary? Amazing. I'll congratulate you too. Congratulations, Commander... Mmm, thank you. I'm kinda... yeah, happy.",
+        "3@LateFall2018": "*Achoo*! It's really gotten colder. Commander, don't catch a cold. Eh, me? I'm todally fide... *Achoo*! Oh? Uhoh."
     },
     "366": {
         "Intro": "Sixth ship of the Mutsuki-class destroyers, Minazuki here. Commander, let's have another lively day. Take care! ...Ehehe\u266a",
@@ -11724,7 +11737,9 @@
         "3@Xmas2017": "Alright, Admiral, please give Shiratsuyu the best present you have! The best one you have, best one!",
         "2@Anniversary2018": "Ta-daaah! Hooray! It's the 5th Anniversary, Admiral! The~ 5th~ Anniversary! It's amazing, Admiral. I'm kinda proud.",
         "3@Rainy2018": "Aaah, jeez! I don't really like how there's so much rain during this season. Can we do something fun, Admiral? Eh, rigging maintenance... Ah, yes.",
-        "3@Saury2018": "I see, it's already saury season. Oh well, let's do this!"
+        "3@Saury2018": "I see, it's already saury season. Oh well, let's do this!",
+        "3@LateFall2018": "Really? OK. Here you go. How is it? It's delicious, right? This is definitely number one!",
+        "2@LateFall2018": "Ah, Admiral, want to have some sweet potato? I'll share a bit with you."
     },
     "242": {
         "Idle": "Admiral\u00a0! work a little harder\u00a0! aim to be number one\u00a0!",
@@ -11915,7 +11930,9 @@
         "3@Spring2018": "Want to eat the lunch box I worked hard on outdoors? Yup, yes yes! Great.",
         "2@Anniversary2018": "Yes yes! It's the 5th Anniversary, Admiral. The 5th Anniversary. It feels so great. Let's~ have~ some~ fun~ this spring too.",
         "3@Shiratsuyu": "Yes, yes! Shiratsuyu-neesan, you're looking very, very good!",
-        "2@Saury2018": "Yes yes! I want to try acting like a teacher like Yura does. What do you think?"
+        "2@Saury2018": "Yes yes! I want to try acting like a teacher like Yura does. What do you think?",
+        "3@LateFall2018": "Looking very nice! Just as I thought, it really suits you. I wonder if I should make one for myself. Ufufufu, of course.",
+        "2@LateFall2018": "My pretty good muffler is done! Of course, I put my heart into making this. Now, try it on."
     },
     "244": {
         "Idle": "I see... you are leaving me aside... I don't have that kind of interest, so I'm upset!",
@@ -12027,7 +12044,8 @@
         "H2200": "2200. Fufun, there's lots of pickings tonight-poi. I'll show you lots of wonderful nightmares. Here I go-poooi!",
         "H2300": "2300. I've been running around all day again-poi. Admiral, work hard together with me tomorrow too-poi. Poooi!",
         "3@EarlySummer": "I can move so easily in this, poi! Poi!",
-        "13@EarlySummer": "Is it my imagination, or is this armor thin, poi. Poi..."
+        "13@EarlySummer": "Is it my imagination, or is this armor thin, poi. Poi...",
+        "2@LateFall2018": "Admiral, are you still cold-poi? Hmmm, then shall I share my muffler with you-poi? Here you go. Ehihi, is it warm-poi?"
     },
     "405": {
         "Intro": "Fifth Shiratsuyu-class destroyer, Harusame, yes. Leave the transport missions to me... desu.",
@@ -14257,7 +14275,8 @@
         "2@Xmas": "*nom* Admiral, this turkey is good! It tastes so good! It's insane how good this is turkey is! Eh? Zuikaku-san, what's up? From above!? W-Woah! Evasive action!",
         "2@YearsEnd": "Eh, what? Why do I have to help with the Yuugumo-class' cleaning? Eh, what's with this cloth? I'm telling you! I need to sleep early to wake up in time to get to Ariake!",
         "2@Spring": "So it's spring... everyone's in high spirit, but it's not quite the likable season, is it~ Hm? What's that? The flower viewing of all flower viewing? ...Can't be helped, I'll go along.",
-        "2@WhiteDay": "Eh? What, Admiral? This is for me? This is bad~ I wasn't prepared for this at all! Uwah, I was caught with my guards down! It's delicious! Good senses. It's quite something!"
+        "2@WhiteDay": "Eh? What, Admiral? This is for me? This is bad~ I wasn't prepared for this at all! Uwah, I was caught with my guards down! It's delicious! Good senses. It's quite something!",
+        "3@LateFall2018": "It's cold... Too cold! I don't wanna do anything! I'm gonna sleep under the kotatsu. Hey! Tama, Kuma! You're in the way! Ah, jeez, even the battleships! There's no room for me!"
     },
     "301": {},
     "133": {
@@ -14327,7 +14346,8 @@
         "2@YearsEnd": "Now, everyone in the Yuugumo-class, it's cleaning season. It's now time to show what the mainstay of mainstays can do. Alright, now get your dust cloth from Makigumo-san.",
         "2@Spring": "Nfufu! It'll be spring soon. A good season has come by. Let's go for the flower viewing of all flower viewing with the Yuugumo-class.",
         "2@WhiteDay": "Admiral, this is for Yuugumo? A bit off the whole, I guess? Ufufu. Thank you, I'll accept it.",
-        "2@EarlySummer": "Uwaa, It's gotten a bit hotter right?  Eh? Change into Type 4 summer equipment? That's right, it's the season for that, isn't it."
+        "2@EarlySummer": "Uwaa, It's gotten a bit hotter right?  Eh? Change into Type 4 summer equipment? That's right, it's the season for that, isn't it.",
+        "3@LateFall2018": "Oh, Admiral, what's the matter? You look frozen. Are you feeling cold? Ehe, it can't be helped then. You can cuddle with me a bit more. How's that?"
     },
     "302": {},
     "542": {
@@ -14404,6 +14424,12 @@
         "2@EarlySummer": "Yuugumo-nee-chan, by \"Type 4 Summer equipment\"... do you mean swimsuits?... What should I do?  Jeez."
     },
     "303": {},
+    "563": {
+        "Intro": "2nd ship of the Yuugumo-class destroyers, Makigumo, reporting for duty. I'll do my best to follow Yuugumo-neesan's example!",
+        "Poke(1)": "That's strange, I'm sure the uniform size was right. So strange... Mmm... Right?",
+        "Wedding": "Commander, I think it's about time I swap my glasses for contacts right? I just heard about them. What do you think? ...Eh, I'm fine the way I am? Really? Alriiight! Then, I'll stay just the way I am alright? Hehe, hehehehe!",
+        "H2200": "It's 10pm. Commander... Hu-huh? That light... Hey, Akigumo you idiot! Turn. Off. The. Searchlight!"
+    },
     "453": {
         "Intro": "Third ship of the Yuugumo class destroyers, Kazagumo. So you're the admiral. Roger. Well then, your orders!",
         "Library": "Fleet type destroyer, Yuugumo class, Kazagumo. Regards. From Midway to Solomon, I advanced around the main battlefields. On that fateful night, I looked upon the burning aircraft carrier. I'll never forget the dragon's last moments.",
@@ -14542,7 +14568,8 @@
         "2@YearsEnd": "Right! I feel like busting though something! I'm so pumped up now! Oh, what is it Makigumo-nee? Just a dust cloth? Leave it to me! Let's go! Raaaaah!",
         "2@Spring": "Ah, what's this? The flower viewing of all flower viewing? Why say it twice? Aah, so it's the idea from Yuugumo-nee. Nice, let's invite that Akigumo as well. She's surprisingly a worrywart, that person.",
         "2@WhiteDay": "Heh? Is it okay for me to accept these? Somehow, I feel bad, Admiral. I'm fine! Next year-Next year it'll happen for sure! Maybe... but, thank you.",
-        "2@EarlySummer": "Wheew~  What are you wearing a swimsuit for, Yuugumo-nee? Hmm, not bad.  Oh, what's that Takanami?  I don't need that. I really dont!"
+        "2@EarlySummer": "Wheew~  What are you wearing a swimsuit for, Yuugumo-nee? Hmm, not bad.  Oh, what's that Takanami?  I don't need that. I really dont!",
+        "3@LateFall2018": "Maan, it's gotten cold recently. Kotatsus are definitely the best. Shimakaze, Yukikaze, aren't you cold? Amazing, respect."
     },
     "304": {
         "Married": "Ahh~ you know your stuff, Admiral~ Lovely. This is why I can just leave it to you. Nice, just like that. It's been a while.",
@@ -14684,7 +14711,8 @@
         "2@WhiteDay2018": "That's right, I did it properly this year. So, I'll gladly accept this.",
         "2@Anniversary2018": "It's the fleet's 5th Anniversary. That means we're entering our 6th year. Hmm, I see. That's amazing. ...Congratulations, Commander. I'll definitely do my best this year too!",
         "3@Summer2018": "Hey, how does my yukata look, Commander? Do I... look good? Really? Well, of course it does. Hey, that looks delicious. Buy it for me, Commander. And Hamacchi's share too, so make it two. Of course!",
-        "2@Saury2018": "It's the Saury Festival, Hamacchi. I'll definitely be joining in too. You'll come with me, right?"
+        "2@Saury2018": "It's the Saury Festival, Hamacchi. I'll definitely be joining in too. You'll come with me, right?",
+        "2@LateFall2018": "Ah, Hamacchi. This? Yeah, I'm getting the preparations done for a filming. For something like a news programme. No, no, Choukai taught me to do it kinda like this. I know, help me out, Hamacchi. It's definitely fine, right? Yup, thanks."
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -14728,7 +14756,8 @@
         "2@Rainy2018": "What are you making, Fuu-chan? ...A-a teruteru... teruteru bouzu? Ah, I'll make one too... Mmm... Ah... Uhm...",
         "2@Summer2018": "Ah, you look cute, Fuu-chan. Yep. ...M-me too... Hmmm, well, should I...",
         "3@Summer2018": "Ngh, Umm, Fuu-chan... I...can't eat so much... Yeah... Tha... Thank you...",
-        "2@Saury2018": "F-fuuchan... Ngh, that's not it... That's not too much... Haaa..."
+        "2@Saury2018": "F-fuuchan... Ngh, that's not it... That's not too much... Haaa...",
+        "2@LateFall2018": "Uh-umm, what are you doing, Fuu-chan? A camera? Here too? Is it... fine for me to help too?"
     },
     "680": {
         "Intro": "I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. Uhh, umm, I'll... do my best.",
@@ -15600,7 +15629,8 @@
         "2@Rainy2018": "It's raining. So this is \"Tsuyu\" right? Yup, I've heard of it.",
         "2@Summer2018": "Summer in this country sure is hot. Hmmm? ...What's this lightly armoured rigging? What's it for?",
         "2@Saury2018": "It's a Sanma Operation, right? Leave it to me. With this excellent sonar, I'll... Eh, that's not enough? This is hard. Teach me, Darling.",
-        "2@Fall2018": "What's wrong, Lady? Ah, it's that, right? That old wound? Now that you mention it, my head hurts too... Yes, let's watch the skies for each other."
+        "2@Fall2018": "What's wrong, Lady? Ah, it's that, right? That old wound? Now that you mention it, my head hurts too... Yes, let's watch the skies for each other.",
+        "3@LateFall2018": "I'll... I'll need to be careful of *that* during this time of year! Janus, keep the anti-air watch on alert! I hate those things!"
     },
     "394": {
         "Intro": "Hey, how's it going? Lucky Jervis, today will be an absolutely fine day as well! All right! Leave it to me!",
@@ -15671,7 +15701,8 @@
         "2@Anniversary2018": "Congratulations, Comrade Admiral! It's the fleet's 5th Anniversary? Nice. I'll make some borscht tonight. It's pretty tasty.",
         "2@Rainy2018": "Huh... \"Teeribouzu\"? Hmmm, so that's how you make them. Can you teach me to make them, Comrade Gangut? Thank you!",
         "2@Saury2018": "Saury? What's that? Ah, you're going fishing in the northern seas? I understand.",
-        "2@Fall2018": "Hmmm, this is a nice mood. This country's autumn is great. The food is delicious too. Yummy!"
+        "2@Fall2018": "Hmmm, this is a nice mood. This country's autumn is great. The food is delicious too. Yummy!",
+        "3@LateFall2018": "Gangut, if you stay under the kotatsu for too long you'll grow soft. Eh, is that so? ...I see..."
     },
     "395": {
         "Intro": "Hello, I'm the destroyer leader, Tashkent. Please look after me today too, Comrade Admiral.",
@@ -15791,7 +15822,8 @@
         "2@Valentines2018": "Fuhehe, I made some chocolate. Fuhehe, now I can beat the Commander-su. I won't lose to Kuna and the others either-su!",
         "2@WhiteDay2018": "Thanks for the return gift-su, Commander. I'm a bit proud of it-su. Hehe, aren't return gifts great? Heh, hehe~",
         "2@Spring2018": "It's the time of year for cherry blossom viewing-su! The cherry blossoms are amazing-su! Kuna, Gaki, Hachi, Commander, let's go cherry blossom viewing-su! Gaki, Hachi, we'll make lots of delicious things-su!",
-        "2@Anniversary2018": "Commander, this is amazing-shu! It's the 5th Anniversary celebration-su! It's our 1st Anniversary and the fleet's 5th-shu!"
+        "2@Anniversary2018": "Commander, this is amazing-shu! It's the 5th Anniversary celebration-su! It's our 1st Anniversary and the fleet's 5th-shu!",
+        "2@LateFall2018": "Uhihi, it's winter-su. Winter. But, winter in the Naval Base is a breeze since the drift ice doesn't come here-su. The Souya Strait will be blocked and impassable now-su. Shimushusu-su."
     },
     "376": {},
     "518": {
@@ -15834,7 +15866,8 @@
         "2@Valentines2018": "Fufu, I learned it! The special chocolate cake recipe! Now I'm going to make one too! Just you wait, Commander, neesan, Kamikaze!",
         "2@WhiteDay2018": "Can I eat these, Commander? I see. Thank you...... Oh, oh my, they're delicious. Did you bake them yourself?",
         "2@Spring2018": "Ah, my little sisters are getting ready for the cherry blossom viewing. ...Hey, is there anything I can help with? Ah, roger that. Leave it to me.",
-        "2@Anniversary2018": "I see, it's the fleet's 5th Anniversary. Wow. That's great. Congratulations, Commander. Wh-what?"
+        "2@Anniversary2018": "I see, it's the fleet's 5th Anniversary. Wow. That's great. Congratulations, Commander. Wh-what?",
+        "2@LateFall2018": "Nee-san, is it about time we brought out the kotatsu? Wha, she's not interested. Wow. She really loves winter. Ah, she's having the time of her life."
     },
     "377": {},
     "524": {
@@ -15926,7 +15959,8 @@
         "2@Spring2018": "It's spring. The cherry blossoms are beautiful. The coastal defense ships are having a cherry blossom viewing, Etorofu? Yes, I'll make some food, then.",
         "2@Anniversary2018": "Congratulations on the 5th Anniversary, Commander. I'll celebrate too. Hawawa.",
         "2@Rainy2018": "It's raining. I'll make a teruteru bouzu too, Etorofu-chan. Just like this... I-it's cute!",
-        "2@Summer2018": "I don't... I don't... like... summer. I'm scared. ...Sorry."
+        "2@Summer2018": "I don't... I don't... like... summer. I'm scared. ...Sorry.",
+        "3@LateFall2018": "It's cold. Etorofu, are you alright? Don't catch a cold... Re-really?"
     },
     "384": {
         "Poke(1)": "Yes, Commander? Ummm...",
@@ -16018,7 +16052,8 @@
         "2@Anniversary2018": "Congratulations, Commander. I congratulate you on the 5th Anniversary. *sigh*",
         "2@Rainy2018": "My body has been feeling really... strange lately. Commander, shall we... shall we go to Taiwan? ...Ah, we can't.",
         "2@Summer2018": "Daitou? Ah, that's good. Eh, a swimsuit? I don't have anything like that though... Eh?",
-        "2@Saury2018": "The saury fisheries? Yes, it's the season for them to appear along the route... Ah, they won't? I need to equip a searchlight?"
+        "2@Saury2018": "The saury fisheries? Yes, it's the season for them to appear along the route... Ah, they won't? I need to equip a searchlight?",
+        "2@LateFall2018": "This is the season when I couldn't follow Kashi to the end... During the air raids... it was already..."
     },
     "386": {
         "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll protect the Southern and Taiwanese Corridors. I'll do my best to not lose with this body of mine.",
@@ -16100,7 +16135,8 @@
         "2@Anniversary2018": "Congratulations. It's the fleet's 5th Anniversary. On behalf of the Hiburi-class, I congratulate you.",
         "2@Rainy2018": "It's been pouring recently. It can't be helped since it's the rainy season. Dai-chan? Ah, depth charges are dangerous!",
         "2@Summer2018": "Sacchan, Macchan, it's gotten kinda hot this year too. We'll need to take care on summer nights or mornings... Sacchan?",
-        "2@Saury2018": "It's the Naval Base Saury Festival, right? Leave it to the Hiburi-class. Let's get going, Dai-chan. What's with those depth charges? What are you going to do with them!?"
+        "2@Saury2018": "It's the Naval Base Saury Festival, right? Leave it to the Hiburi-class. Let's get going, Dai-chan. What's with those depth charges? What are you going to do with them!?",
+        "2@LateFall2018": "It's gotten a bit colder. But I'm fine! I'll work hard! Dai-chan too... Dai-chan? H-huh? Huuuh!?"
     },
     "678": {
         "Intro": "1st ship of the Hiburi-class Kaiboukan, Hiburi. The Hiburi-class will do our very best today, Admiral.",
@@ -16144,7 +16180,8 @@
         "2@Anniversary2018": "Oh, the 5th Anniversary. Amazing. Let me praise you. There, there! Well, now that we've reached this point, let's try for the 6th Anniversary. Alright?",
         "2@Rainy2018": "Gaaah, jeez, you're annoying, Hibu. It's fine. I'm bored since it's the rainy season. Right, Admiral? Right, right!?",
         "2@Summer2018": "Ehe, it's gotten hot this year too! This is definitely the time for swimsuits! What do you think of this, Hibu? Ah, what's with that look?",
-        "2@Saury2018": "The Saury Festival, huh... It's my turn to shine! I'm going to use these depth charges I'm so proud of...! Huh, why are you stopping me, Hibu? Why!?"
+        "2@Saury2018": "The Saury Festival, huh... It's my turn to shine! I'm going to use these depth charges I'm so proud of...! Huh, why are you stopping me, Hibu? Why!?",
+        "2@LateFall2018": "Aaah, it's cold! Well, it's better than winter in Hokkaido... Ah, a kotatsu! Aaaah, this is great... I'll become a useless coastal defense ship... Aaaah..."
     },
     "679": {
         "Intro": "2nd ship of the Hiburi-class Kaiboukan, Daitou! I'm right here! Hehe, you're looking good, Admiral, isn't that great! Now, let's get going!",

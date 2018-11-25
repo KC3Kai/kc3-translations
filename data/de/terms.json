@@ -377,20 +377,21 @@
 	"SettingsEnablePushAlerts" : "Dieses Feature Aktivieren",
 	"SettingsPushAlertsKey" : "Access Token",
 	
-	"SettingsPoiDBSubmission" :"Sende Daten zu poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsPoiDBSubmission" : "Sende Daten zu poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Dieses Feature Aktivieren",
-	"SettingsFeatureTogglePoiDB" :"Sende Daten zu poi-statistics ",
+	"SettingsFeatureTogglePoiDB" : "Sende Daten zu poi-statistics ",
 	
-	"SettingsOpenDBSubmission" :"Sende Daten zur Kancolle OpenDB (http://opendb.swaytwig.com/)",
+	"SettingsOpenDBSubmission" : "Sende Daten zur Kancolle OpenDB (http://opendb.swaytwig.com/)",
 	"SettingsEnableOpenDBSubmission" : "Dieses Feature Aktivieren",
-	"SettingsFeatureToggleOpenDB" :"Sende Daten zur Kancolle OpenDB",
+	"SettingsFeatureToggleOpenDB" : "Sende Daten zur Kancolle OpenDB",
 	
-	"SettingsKC3DBSubmission" :"Sende Daten zu KC3改 (http://kc3.jetri.co)",
+	"SettingsKC3DBSubmission" : "Sende Daten zu KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Einschalten und helfen",
 	
-	"SettingsTsunDBSubmission" :"Sende Daten zu den Tsunderes (https://tsundb.kc3.moe)",
+	"SettingsTsunDBSubmission" : "Sende Daten zu den Tsunderes (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "Einschalten und helfen",
-	"SettingsFeatureToggleTsunDB" :"Sende Daten zur TsunDB",
+	"SettingsFeatureToggleTsunDB" : "Sende Daten zur TsunDB",
+	"SettingsEnableTsunDBExtraSubmission" : "Zusätzliche Daten senden",
 	
 	"SettingsPanelSize" : "Panelgröße",
 	"SettingsPanelOpacity" : "Interface transparenz",
@@ -501,6 +502,10 @@
 	
 	"Bomb201Title": "Spielfehler 201",
 	"Bomb201Message": "Du hast einen Fehler 201 vom Spiel-API erhalten. Du könntest noch auf einem anderen Gerät angemeldet sein, oder es hat etwas mit Makro-Erkennung zu tun. Wenn du diese Meldung öfter siehst sei bitte vorsichtig beim Spielen.",
+	
+	"TsunDBTestInactiveTitle": "Abgelaufner Test Zeitraum erkannt",
+	"TsunDBTestInactiveMessage": "Vielen dank für deine Hilfe! Der Test an dem teilnimmst hat genügend Einsendungen erhalten.",
+	"TsunDBTestLink": "Hier klicken um mehr über weitere Tests zu erfahren",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Langsam",

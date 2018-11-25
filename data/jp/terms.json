@@ -370,22 +370,23 @@
 
 	"SettingsPushAlerts" : "PushBulletへ通知を送信 (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "送信する",
-	"SettingsPushAlertsKey" : "Access Token",
+	"SettingsPushAlertsKey" : "アクセストークン",
 
-	"SettingsPoiDBSubmission" :"poi-statisticsへの送信 (http://db.kcwiki.moe/)",
-	"SettingsFeatureTogglePoiDB" :"poi-statisticsへの送信",
+	"SettingsPoiDBSubmission" : "poi-statisticsへの送信 (http://db.kcwiki.moe/)",
+	"SettingsFeatureTogglePoiDB" : "poi-statisticsへの送信",
 	"SettingsEnablePoiDBSubmission" : "送信する",
 
-	"SettingsOpenDBSubmission" :"Kancolle OpenDBへの送信 (http://opendb.swaytwig.com/)",
-	"SettingsFeatureToggleOpenDB" :"Kancolle OpenDBへの送信",
+	"SettingsOpenDBSubmission" : "Kancolle OpenDBへの送信 (http://opendb.swaytwig.com/)",
+	"SettingsFeatureToggleOpenDB" : "Kancolle OpenDBへの送信",
 	"SettingsEnableOpenDBSubmission" : "送信する",
 
-	"SettingsKC3DBSubmission" :"KC3改への送信 (http://kc3.jetri.co)",
+	"SettingsKC3DBSubmission" : "KC3改への送信 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "協力する",
 
-	"SettingsTsunDBSubmission" :"KC3改TsunDBへの送信 (https://tsundb.kc3.moe)",
-	"SettingsFeatureToggleTsunDB" :"KC3改TsunDBへの送信",
-	"SettingsEnableTsunDBSubmission" : "協力する",
+	"SettingsTsunDBSubmission" : "KC3改TsunDBへの送信 (https://tsundb.kc3.moe)",
+	"SettingsFeatureToggleTsunDB" : "KC3改TsunDBへの送信",
+	"SettingsEnableTsunDBSubmission" : "基本情報",
+	"SettingsEnableTsunDBExtraSubmission" : "検証中のデータ",
 
 	"SettingsPanelSize" : "パネルサイズ",
 	"SettingsPanelOpacity" : "不透明度",
@@ -494,6 +495,10 @@
 	"APIErrorNoticeTitle": "APIデータ処理エラー",
 	"APIErrorNoticeMessage": "[{0}] APIデータを処理する時に失敗しました。もしゲームAPIが変更されたなら、一部の機能が不具合になってしまったので、それを確認するためにご報告をお願いします。",
 	"DownloadErrorReport": "エラーレポートを‌DLする",
+
+	"TsunDBTestInactiveTitle"   : "停止した検証項目が検知されました！",
+	"TsunDBTestInactiveMessage" : "ご協力ありがとうございました！今検証しようとするアイテムのサンプルはもう十分だと設定されたため、データの送信はしません。",
+	"TsunDBTestLink"            : "ここをクリックして他の検証項目をチェック",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

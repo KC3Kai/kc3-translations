@@ -512,7 +512,7 @@
         "name": "Reform the Elite 22nd Destroyer Division!",
         "desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai in your fleet.",
         "memo": "\u27a3Rewards 2 Combat Rations",
-        "unlock": [ 863 ]
+        "unlock": [ 196, 863 ]
     },
     "185": {
         "code": "A80",
@@ -559,7 +559,8 @@
         "code": "A86",
         "name": "Remodeled 17th Destroyer Division, Commence Restructuring!",
         "desc": "Have ONLY Hamakaze B Kai, Isokaze B Kai, Urakaze Kai and Tanikaze Kai in your fleet.",
-        "memo": "\u27a3Rewards a Mamiya and a Reinforcement Expansion"
+        "memo": "\u27a3Rewards a Mamiya and a Reinforcement Expansion",
+        "unlock": [ 195 ]
     },
     "192": {
         "code": "A87",
@@ -588,6 +589,13 @@
         "desc": "Have Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai in your fleet. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards an Irako and either two Combat Rations OR 3 Buckets",
         "unlock": [ 328, 891 ]
+    },
+    "196": {
+        "code": "A91",
+        "name": "Elite 10th Destroyer Division, Prepare To Sortie!",
+        "desc": "Have Yuugumo Kai Ni and Makigumo Kai Ni in your fleet. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Combat Ration and either 5 Buckets OR a Furniture Fairy",
+        "unlock": [ 892 ]
     },
     
     "202": {
@@ -991,7 +999,14 @@
         "code": "B124",
         "name": "7th Destroyer Division, sail to the Nansei Islands Region!",
         "desc": "Sortie any two of Akebono, Ushio, Sazanami and Oboro and up to 4 additional ships to [W2-1], [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Furniture Fairy OR 3 12.7cm Twin Gun Mount Model B Kai Ni OR a Daihatsu Landing Craft\n\u00B6Second choice: Either 8 Development Materials OR 5 Screws OR a Type 0 Passive Sonar"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Furniture Fairy OR 3 12.7cm Twin Gun Mount Model B Kai Ni OR a Daihatsu Landing Craft\n\u00B6Second choice: Either 8 Development Materials OR 5 Screws OR a Type 0 Passive Sonar"
+    },
+    "299": {
+        "code": "B125",
+        "name": "Reinforce Surveillance and Patrols of the Coastal Sea!",
+        "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report",
+        "unlock": [ 893 ]
     },
     "805": {
         "code": "B58",
@@ -1436,7 +1451,13 @@
         "code": "B123",
         "name": "Elite 17th Destroyer Division, to the North, to the South!",
         "desc": "Sortie Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai and up to 2 additional ships to [W1-5], [W3-2], [W7-1] and [W5-1]. A-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Type 3 Sonar OR a 12.7cm Single High-angle Gun Mount (Late Model) OR a Furniture Fairy\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Type 3 Sonar OR a 12.7cm Single High-angle Gun Mount (Late Model) OR a Furniture Fairy\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+    },
+    "892": {
+        "code": "B126",
+        "name": "Mainstay of Mainstay, set sail!",
+        "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni and up to 4 additional ships to [W5-3], [W5-4] and [W5-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws"
     },
 
     
@@ -1445,7 +1466,7 @@
         "name": "Daily Victory",
         "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
         "memo": "\u203bCrush the Enemy Fleet!",
-        "unlock": [ 216, 211, 212 ],
+        "unlock": [ 216, 211, 212, 892 ],
         "tracking": [ [0,1] ]
     },
     "216": {
@@ -1512,7 +1533,7 @@
         "name": "Weekly Sorties",
         "desc": "Sortie 36 times, reach 24 boss nodes, B-Rank+ 12 boss nodes, and obtain 6 S-Ranks.",
         "memo": "\u203bOperation A-Go",
-        "unlock": [ 221 ],
+        "unlock": [ 221, 893 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
         "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
@@ -1693,6 +1714,14 @@
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
+    "893": {
+        "code": "Bq8",
+        "name": "Quarterly Ranking Points 3",
+        "desc": "Sortie to [W1-5], [W7-1], [W7-2]. S-Rank the boss node of [W1-5] and [W7-1] 3 times. S-Rank both boss nodes of [W7-2] 3 times. Overlay: F10",
+        "memo": "\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards a Skilled Lookouts OR a Skilled Crew Member OR 4 Underway Replenishments and 300 Ranking Points",
+        "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
+        "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W7-1]", "{0} S-Rank [W7-2-G]", "{0} S-Rank [W7-2-M]" ]
+    },
     
     
     "301": {
@@ -1705,7 +1734,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 302, 304, 313, 314, 315, 890 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {

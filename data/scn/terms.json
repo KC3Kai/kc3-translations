@@ -452,7 +452,8 @@
 
 	"SettingsTsunDBSubmission" :"向 KC3改 TsunDB (https://tsundb.kc3.moe) 发送数据",
 	"SettingsFeatureToggleTsunDB" :"提交数据到 TsunDB",
-	"SettingsEnableTsunDBSubmission" : "启用功能",
+	"SettingsEnableTsunDBSubmission" : "提交基本数据",
+	"SettingsEnableTsunDBExtraSubmission" : "提交更多验证数据",
 
 	"SettingsPanelSize" : "面板尺寸",
 	"SettingsPanelOpacity" : "界面不透明度 (opacity)",
@@ -570,6 +571,10 @@
 
 	"Bomb201Title": "游戏错误 201",
 	"Bomb201Message": "从游戏API收到错误 201，可能已在别处登录或是与脚本检测机制相关。您可忽略本条消息，但请适度游戏。",
+
+	"TsunDBTestInactiveTitle": "发现未激活的验证测试项",
+	"TsunDBTestInactiveMessage": "当前出击的验证舰队中存在已经收集到充分数据的测试项，非常感谢您的帮助。",
+	"TsunDBTestLink": "点此在作战指挥所查看其它测试项",
 
 	"HQText" : "司令部",
 	"HQAdmiralLv"  : "提督",

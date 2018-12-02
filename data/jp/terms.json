@@ -40,6 +40,7 @@
 	"MenuUpdate"       : "アップデート",
 	"MenuPvPReset"     : "次の演習リセット",
 	"MenuQuestReset"   : "デイリーリセット",
+	"MenuQuarterlyReset" : "クォータリーリセット",
 	"MenuRankPtsCutoff": "次の戦果締め切り",
 	"MenuChangelog"    : "(変更履歴)",
 	"MenuOnLatest"     : "すでに最新",
@@ -366,8 +367,15 @@
 
 	"SettingsDataSynchronization" : "Chrome Storageを使って同期するデータ",
 	"SettingsEnableDataSyncNotif" : "同期した際の通知",
-	"SettingsChromeSyncQuests" : "任務達成度",
+	"SettingsChromeSyncQuests" : "任務進捗",
 
+	"SettingsDataBackupReminder" : "データバックアップリマインダー",
+	"SettingsBackupFrequency"    : "通知頻度",
+	"SettingsBackupFrequencyNone"      : "なし",
+	"SettingsBackupFrequencyWeekly"    : "ウィークリー",
+	"SettingsBackupFrequencyMonthly"   : "マンスリー",
+	"SettingsBackupFrequencyQuarterly" : "クォータリー",
+	
 	"SettingsPushAlerts" : "PushBulletへ通知を送信 (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "送信する",
 	"SettingsPushAlertsKey" : "アクセストークン",
@@ -500,6 +508,10 @@
 	"TsunDBTestInactiveMessage" : "ご協力ありがとうございました！今検証しようとするアイテムのサンプルはもう十分だと設定されたため、データの送信はしません。",
 	"TsunDBTestLink"            : "ここをクリックして他の検証項目をチェック",
 
+	"BackupReminderTitle"   : "バックアップリマインダー",
+	"BackupReminderMessage" : "前回のKC3改データバックアップから{0}日経ちました。",
+	"BackupReminderLink"    : "ここをクリックしてバックアップしよう",
+
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",
 	"LevelNext"  : "次Lv",
@@ -596,6 +608,8 @@
 	"ShipAccuracy": "命中",
 	"ShipRadius"  : "行動半径",
 	"ShipBombing" : "爆装",
+	"ShipFuel"    : "燃料",
+	"ShipAmmo"    : "弾薬",
 	"ShipAccAntiBomber" : "対爆",
 	"ShipEvaInterception" : "迎撃",
 	"ShipDeployCost" : "配置コスト",

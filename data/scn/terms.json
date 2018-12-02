@@ -68,6 +68,7 @@
 	"MenuScheduledSoon" : "暂无安排",
 	"MenuPvPReset" : "距演习对手刷新还有",
 	"MenuQuestReset" : "距日常任务刷新还有",
+	"MenuQuarterlyReset" : "距季常任务刷新还有",
 	"MenuRankPtsCutoff" : "距下次战果统计还有",
 	"MenuServerMaintenance" : "距下次服务器维护还有",
 	"MenuTimeUnknown": "未知",
@@ -435,6 +436,13 @@
 	"SettingsEnableDataSyncNotif" : "同步成功时显示桌面通知",
 	"SettingsChromeSyncQuests" : "同步任务追踪",
 
+	"SettingsDataBackupReminder" : "数据备份提醒",
+	"SettingsBackupFrequency" : "提醒频率",
+	"SettingsBackupFrequencyNone" : "无",
+	"SettingsBackupFrequencyWeekly" : "每周",
+	"SettingsBackupFrequencyMonthly" : "每月",
+	"SettingsBackupFrequencyQuarterly" : "每季",
+
 	"SettingsPushAlerts" : "通过 PushBullet (https://www.pushbullet.com/) 发送移动设备通知",
 	"SettingsEnablePushAlerts" : "启用功能",
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
@@ -576,6 +584,10 @@
 	"TsunDBTestInactiveMessage": "当前出击的验证舰队中存在已经收集到充分数据的测试项，非常感谢您的帮助。",
 	"TsunDBTestLink": "点此在作战指挥所查看其它测试项",
 
+	"BackupReminderTitle": "数据备份提醒",
+	"BackupReminderMessage": "自从上次备份KC3改的数据有 {0} 天已经过去了。",
+	"BackupReminderLink": "点此在作战指挥所备份数据",
+
 	"HQText" : "司令部",
 	"HQAdmiralLv"  : "提督",
 	"HQExpAbbrev1" : "还需",
@@ -645,6 +657,8 @@
 	"ShipAccuracy": "命中",
 	"ShipRadius"  : "航程",
 	"ShipBombing" : "爆装",
+	"ShipFuel"    : "燃料",
+	"ShipAmmo"    : "弹药",
 	"ShipAccAntiBomber" : "对爆",
 	"ShipEvaInterception" : "迎击",
 	"ShipDeployCost" : "配置消耗",

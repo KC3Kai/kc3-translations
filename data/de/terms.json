@@ -45,6 +45,7 @@
 	"MenuScheduledSoon" : "Unbekannt",
 	"MenuPvPReset" : "Nächster PVP-Reset",
 	"MenuQuestReset" : "Nächster Quest-Reset",
+	"MenuQuarterlyReset" : "Nächster Vierteljährlicher Quest-Reset",
 	"MenuRankPtsCutoff" : "Nächster RankPkte Cut-off",
 	"MenuServerMaintenance" : "Serverwartung",
 	"MenuTimeUnknown": "Unbekannt",
@@ -372,6 +373,13 @@
 	"SettingsDataSynchronization" : "Daten Synchronisation via Chrome Storage",
 	"SettingsEnableDataSyncNotif" : "Benachrichtigungen Aktivieren",
 	"SettingsChromeSyncQuests" : "Quests Synchronisieren",
+	
+	"SettingsDataBackupReminder" : "Datensicherungs Erinnerung",
+	"SettingsBackupFrequency" : "Erinnerungs Häufigkeit",
+	"SettingsBackupFrequencyNone" : "Nie",
+	"SettingsBackupFrequencyWeekly" : "Wöchentlich",
+	"SettingsBackupFrequencyMonthly" : "Monatlich",
+	"SettingsBackupFrequencyQuarterly" : "Vierteljährlich",
 	
 	"SettingsPushAlerts" : "Sende Benachrichtigung durch PushBullet (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "Dieses Feature Aktivieren",

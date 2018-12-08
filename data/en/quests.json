@@ -1733,6 +1733,8 @@
         "name": "Quarterly [W1/2]",
         "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
         "memo": "\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ],
         "unlock": [ 895 ]
     },
     

@@ -720,7 +720,7 @@
     "299": {
         "name": "Verstärke die Überwachung und die Partoulien in den Küsten Gewässern!",
         "desc": "Sende ein CL als Flaggschiff, 2 DD/DE und bis zu 3 weitere Schiffe nach [W1-2], [W1-3], [W1-4], [W2-1] und [W2-2]. S-Rank die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
-        "memo": "\u2623Dieser Quest wird nich geprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Medaille' ODER 1x 'Schiffshüllenerweiterung'\n\u00B6Zweitewahl: Entweder 2x 'Material für neue Geschützturmmodelle' ODER 2x 'Suchscheinwerfer' ODER 1x 'Schlachtbericht'"
+        "memo": "\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Medaille' ODER 1x 'Schiffshüllenerweiterung'\n\u00B6Zweitewahl: Entweder 2x 'Material für neue Geschützturmmodelle' ODER 2x 'Suchscheinwerfer' ODER 1x 'Schlachtbericht'"
     },	
     "805": {
 		"name": "Sende das Flaggschiff Kasumi um die Nördlichen Gewässer zu Patrouillieren!",
@@ -1074,12 +1074,12 @@
 	"892": {
         "name": "Die Stütze der Stützen, Segel setzen!",
         "desc": "Sende Yuugumo Kai Ni, Makigumo Kai Ni und bis zu 4 weitere Schiffe nach [W5-3], [W5-4] und [W5-5]. S-Rank die Boss Knoten. Drücke F10 umd das Overlay zu verbergen.",
-        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Material für neue Geschützturmmodelle' ODER 1x 'Material für neue Flugzeugmodelle' ODER 1x 'Daihatsu Landungsboot'\n\u00B6Zweitewahl: Entweder 1x 'Erfahrene Besatzung' ODER 4x 'Schrauben'"
+        "memo": "\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 1x 'Material für neue Geschützturmmodelle' ODER 1x 'Material für neue Flugzeugmodelle' ODER 1x 'Daihatsu Landungsboot'\n\u00B6Zweitewahl: Entweder 1x 'Erfahrene Besatzung' ODER 4x 'Schrauben'"
     },
 	"895": {
-		"name": "B127? PLATZHALTER",
+		"name": "Winter Operationen in der Nördlichen Region",
 		"desc": "Sende eine Flotte mit einem CL als Flaggschiff und bis zu 5 weitere Schiffe nach [W3-1], [W3-3], [W3-4], und [W3-5]. S-Rank jeden Boss Knoten ZWEIMAL.",
-		"memo": "\u27a3Belohnungen: \n\u00B6Erstewahl 3x 'Typ-0-Jagdflugzeug Modell 21' ODER 2x 'Typ-0-Jagdflugzeug Modell 32' ODER 1x 'Möbelfee'\n\u00B6Zweitewahl: 4x 'Schrauben' ODER 3x 'Typ-22-Oberflächenradar' ODER 2x 'Material für neue Flugzeugmodelle'"
+		"memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl 3x 'Typ-0-Jagdflugzeug Modell 21' ODER 2x 'Typ-0-Jagdflugzeug Modell 32' ODER 1x 'Möbelfee'\n\u00B6Zweitewahl: 4x 'Schrauben' ODER 3x 'Typ-22-Oberflächenradar' ODER 2x 'Material für neue Flugzeugmodelle'"
 	},	
 
 
@@ -1264,9 +1264,9 @@
         "memo": "\u203bSichere das Gebiet um Anchorage!\n\u27a3Belohnung: '1x Erfahrener Ausguck' ODER 1x 'Erfahrene Besatzung' ODER '4x Seeversorgung' und 300 Rank Punkte"
     },
 	"894": {
-		"name": "BQ9 PLATZHALTER",
+		"name": "Vierteljährliche [W1/2]",
 		"desc": "Sende eine Flotte mit MINDESTENS 1 CVL-/CVB-/CV und bis zu 5 weitere Schiffe nach [W1-3], [W1-4], [W2-1], [W2-2], und [W2-3]. Erreiche einen S-Rank an jedem Boss Knoten.",
-		"memo": "\u27a3Belohnungen: \n\u00B6Erstewahl: 1x 'Material für neue Flugzeugmodelle' oder 4x 'Entwicklungsmaterial' \n\u00B6Zweitewahl: 1x 'Saiun' oder 1x 'Erfahrene Besatzung' oder 1x 'Geschenkbox'"
+		"memo": "\u203bSichere die Versorgungslinien mit einer Träger Einsatzflotte\n\u27a3Belohnungen: \n\u00B6Erstewahl: 1x 'Material für neue Flugzeugmodelle' oder 4x 'Entwicklungsmaterial' \n\u00B6Zweitewahl: 1x 'Saiun' oder 1x 'Erfahrene Besatzung' oder 1x 'Geschenkbox'"
 	},
 
 
@@ -1954,12 +1954,12 @@
 	    "685": {
         "name": "Kriegs Aufrüstung der Zerstörer Hauptgeschütze",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
-        "memo": "Habe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'"
+        "memo": "Habe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'"
     },
 	    "686": {
         "name": "Vierteljährliches Steilfeuergeschütz",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
-        "memo": "\u203bMassen Produktion des Typ-A-Mehrzweckgeschützes während der Kriegs Zeit\n\u203bHabe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
+        "memo": "\u203bMassen Produktion des Typ-A-Mehrzweckgeschützes während der Kriegs Zeit\n\u203bHabe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
         "trackingDesc": [ "{0} 10cm Steilfeuer-Zwillingsgeschütze", "{0} Typ-94-Feuerleitgerät" ]
     },
 	    "687": {
@@ -1973,12 +1973,12 @@
         "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: Entweder 1x 'Typ-0-Jagdflugzeug Modell 32 (Erfahren) ODER 1x 'Typ-1-Jagdflugzeug Hayabusa Modell II' ODER 1x 'Zuiun (Flugzeuggruppe 631)'"
     },
 	"689": {
-		"name":"F80 PLATZHALTER",
+		"name":"Verbesserung der Flugzeug Geschwader",
 		"desc":"Habe 3000 Bauxit, 1x 'Erfahrene Besatzung' und 1x 'Material für neue Flugzeugmodelle' in deinem Inventar. Entsorge 4x Jäger, 4x Aufklärungsflugzeuge und 2x Trägergestützte Aufklärungsflugzeuge",
 		"memo":"\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: 1x 'Reppu Kai' ODER 2x 'Typ-3-Jagdflugzeug Hien' oder 2x 'Spitfire Mk.I"
 	},
 	"690": {
-		"name":"F81 PLATZHALTER",
+		"name":"Verbesserung der Landgestützten Lufttruppen",
 		"desc":"Habe 4800 Bauxit, 1x 'Erfahrene Besatzung' und 2x'Material für neue Flugzeugmodelle' in deinem Inventar. Entsorge 4x 'Sturzflugbomber', 4x 'Torpedobomber' und 4x 'Jäger'",
 		"memo":"\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: 1x 'Raiden' ODER 1x 'Prototyp Toukai' oder 2x 'Shiden Modell-11"
 	},

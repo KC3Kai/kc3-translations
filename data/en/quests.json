@@ -1005,7 +1005,7 @@
         "code": "B125",
         "name": "Reinforce Surveillance and Patrols of the Coastal Sea!",
         "desc": "Sortie a CL as flagship, 2 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report",
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two Searchlights OR an Action Report",
         "unlock": [ 893 ]
     },
     "805": {
@@ -1457,10 +1457,16 @@
         "code": "B126",
         "name": "Mainstay of Mainstay, set sail!",
         "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni and up to 4 additional ships to [W5-3], [W5-4] and [W5-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws"
+    },
+    "895": {
+        "code": "B127",
+        "name": "Winter Northern Region Operation",
+        "desc": "Sortie a CL as flagship and up to 5 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank the boss nodes twice. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either 3 Type 0 Fighter Model 21 OR two Type 0 Fighter Model 32 OR a Furniture Fairy\n\u00B6Second choice: Either 4 Improvement Materials, 3 Type 22 Surface Radar OR two New Model Aviation Armament Materials."
     },
 
-    
+
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -1722,6 +1728,13 @@
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W7-1]", "{0} S-Rank [W7-2-G]", "{0} S-Rank [W7-2-M]" ]
     },
+    "894": {
+        "code": "Bq9",
+        "name": "Quarterly [W1/2]",
+        "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
+        "memo": "\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "unlock": [ 895 ]
+    },
     
     
     "301": {
@@ -1734,7 +1747,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 890 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 689, 890, 894 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -2633,14 +2646,14 @@
         "code": "F76",
         "name": "Wartime Modification of Destroyer Main Guns",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
-        "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
         "unlock": [ 686, 687 ]
     },
     "686": {
         "code": "F77",
         "name": "Quarterly High-angle Gun Mount",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
-        "memo": "\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "memo": "\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
         "tracking": [ [0,4], [0,1] ],
         "trackingDesc": [ "{0} 10cm Twin High-angle Gun Mount", "{0} Type 94 Anti-Aircraft Fire Director" ]
     },
@@ -2657,6 +2670,19 @@
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Type 0 Fighter Model 32 (Skilled) OR a Type 1 Fighter Hayabusa Model II OR a Zuiun (631 Air Group)",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} Fighters", "{0} Dive Bombers", "{0} Torpedo Bombers", "{0} Reconnaissance Seaplanes" ]
+    },
+    "689": {
+        "code": "F80",
+        "name": "Fighter Squadron Enhancement",
+        "desc": "Have 3000 Bauxite, a Skilled Crew Member and a New Model Aviation Armament Materials. Scrap 4 Fighters, 4 Reconnaissance Seaplanes and two Carrier-based Reconnaissance Aircraft.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Reppuu Kai OR two Type 3 Fighter Hien OR two Spitfire Mk.1",
+        "unlock": [ 690 ]
+    },
+    "690": {
+        "code": "F81",
+        "name": "Land Based Aerial Force Enhancement",
+        "desc": "Have 4800 Bauxite, a Skilled Crew Member and two New Model Aviation Armament Materials. Scrap 4 Fighters, 4 Dive Bombers and 4 Torpedo Bombers.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Raiden OR a Prototype Toukai OR two Shiden Model 11"
     },
     
 

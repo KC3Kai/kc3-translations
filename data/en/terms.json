@@ -45,6 +45,7 @@
 	"MenuScheduledSoon" : "unscheduled",
 	"MenuPvPReset" : "Next PvP Reset",
 	"MenuQuestReset" : "Next Quest Reset",
+	"MenuQuarterlyReset" : "Next Quarterly Reset",
 	"MenuRankPtsCutoff" : "Next Rank Pts Cut-off",
 	"MenuServerMaintenance" : "Game Maintenance",
 	"MenuTimeUnknown": "Unknown",
@@ -373,6 +374,13 @@
 	"SettingsEnableDataSyncNotif" : "Enable notifications",
 	"SettingsChromeSyncQuests" : "Synchronize quests",
 	
+	"SettingsDataBackupReminder" : "Data Backup Reminder",
+	"SettingsBackupFrequency" : "Reminder Frequency",
+	"SettingsBackupFrequencyNone" : "None",
+	"SettingsBackupFrequencyWeekly" : "Weekly",
+	"SettingsBackupFrequencyMonthly" : "Monthly",
+	"SettingsBackupFrequencyQuarterly" : "Quarterly",
+	
 	"SettingsPushAlerts" : "Send notifications via PushBullet (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "Enable this feature",
 	"SettingsPushAlertsKey" : "Access Token",
@@ -507,6 +515,10 @@
 	"TsunDBTestInactiveMessage": "Thank you for your help! The test you are contributing towards has received enough samples.",
 	"TsunDBTestLink": "Click here to check out other avaliable tests",
 	
+	"BackupReminderTitle" : "Backup Reminder",
+	"BackupReminderMessage" : "It has been {0} days since your last backup.",
+	"BackupReminderLink" : "Click here to backup your data",
+	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Slow",
 	"SpeedFast"    : "Fast",
@@ -589,6 +601,8 @@
 	"ShipAccuracy": "Hit",
 	"ShipRadius"  : "Radius",
 	"ShipBombing" : "Bombing",
+	"ShipFuel"    : "Fuel",
+	"ShipAmmo"    : "Ammo",
 	"ShipAccAntiBomber" : "Anti-bombers",
 	"ShipEvaInterception" : "Interception",
 	"ShipDeployCost" : "Deploy-cost",

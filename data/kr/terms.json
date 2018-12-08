@@ -65,6 +65,7 @@
 	"MenuScheduledSoon": "곧 적용 예정...",
 	"MenuPvPReset": "다음 연습 리셋",
 	"MenuQuestReset": "다음 임무 리셋",
+	"MenuQuarterlyReset" : "다음 분기 임무 리셋",
 	"MenuServerMaintenance": "게임 점검",
 	"MenuTimeUnknown": "불확실",
 	"MaintenanceComplete": "발표 예정",
@@ -417,6 +418,13 @@
 	"SettingsEnableDataSyncNotif" : "동기화시 알림",
 	"SettingsChromeSyncQuests" : "임무 동기화",
 
+	"SettingsDataBackupReminder" : "데이터 백업 자동 알림",
+	"SettingsBackupFrequency" : "백업 빈도",
+	"SettingsBackupFrequencyNone" : "없음",
+	"SettingsBackupFrequencyWeekly" : "주",
+	"SettingsBackupFrequencyMonthly" : "달",
+	"SettingsBackupFrequencyQuarterly" : "분기",
+
 	"SettingsDBSubmission": "칸코레 DB에 데이터 전송 (http://kancolle-db.net/login.php)",
 	"SettingsEnableDBSubmission": "이 기능 활성화",
 	"SettingsDBSubmissionKey": "접속 키",
@@ -554,6 +562,10 @@
 	"TsunDBTestLink"            : "여기를 클릭해서 다른 가능한 테스트를 확인해보세요.",
 
 
+	"BackupReminderTitle" : "백업 리마인더",	
+	"BackupReminderMessage" : "저번 KC3 백업에서 {0}일 지났습니다.",
+	"BackupReminderLink" : "여기를 클릭해서 백업을 하세요.",
+
 	"SpeedLand": "지상",
 	"SpeedSlow": "저속",
 	"SpeedFast": "고속",
@@ -637,6 +649,8 @@
 	"ShipAccuracy": "명중",
 	"ShipRadius"  : "행동반경",
 	"ShipBombing" : "폭장",
+	"ShipFuel"    : "연료",
+	"ShipAmmo"    : "탄약",
 	"ShipAccAntiBomber" : "대폭",
 	"ShipEvaInterception" : "영격",
 	"ShipDeployCost" : "배치 코스트",

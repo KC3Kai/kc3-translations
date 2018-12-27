@@ -515,6 +515,10 @@
 	"TsunDBTestInactiveMessage": "Vielen Dank für deine Hilfe! Der Test an dem teilnimmst hat genügend Einsendungen erhalten.",
 	"TsunDBTestLink": "Hier klicken um mehr über weitere Tests zu erfahren",
 	
+	"BackupReminderTitle" : "Backup Erinnerung",
+	"BackupReminderMessage" : "Es ist {0} Tage seit deinem letzten Backup.",
+	"BackupReminderLink" : "Drücke hier um ein Backup zu erstellen",
+	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Langsam",
 	"SpeedFast"    : "Schnell",
@@ -577,6 +581,7 @@
 	"BattleKindAirDefendOnly" : "Luftangriff Knoten",
 	"BattleKindEnemyCombined" : "Kombinierte Feind Flotten",
 	"BattleKindNightToDay" : "Nacht bis Morgen Kampf Knoten",
+	"BattleKindLongRangeRaid" : "Radar Hinterhalts Knoten",
 	"BattlePreviousEncounters" : "Frühere Begegnungen",
 	"BattleUnexpectedDamageTip" : "{0:attackerName} hat [{2:id}] {1:defenderName} angegriffen und verursachte {3} Schaden. Erwarteter Schaden: {4} ~ {5}",
 	

@@ -1,6 +1,6 @@
 {
 	"detection" : [
-		["", ""],
+		["", "", ""],
 		["OK", "best", "All recon aircraft returned"],
 		["OK-", "good", "Some recon aircraft lost"],
 		["-", "worst", "All recon aircraft lost"],

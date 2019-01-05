@@ -688,7 +688,7 @@
 	"PanelRepairCost"      : "修理にかかる費用\n　鋼材：{1}、燃料：{0}",
 	"PanelResupplyCosts"   : "補給する資材{3}\n　燃料：{0}、弾薬：{1}、ボーキ：{2}",
 	"PanelResupplyMarriedHint" : " (燃料と弾薬ケッコン15%減少済み)",
-	"PanelBattleConsumes"  : "1回の戦闘で消費する資材 (ケッコン前基準)\n　通常戦マス燃料：{0}、弾薬：{1} (夜戦込み：{2})\n　　夜戦マス燃料：{5}、弾薬：{6}\n　対潜戦マス燃料：{7}、弾薬：{8}\n　空襲戦マス燃料：{3}、弾薬：{4}",
+	"PanelBattleConsumes"  : "1回の戦闘で消費する資材 (ケッコン前基準)\n　通常戦マス燃料：{0}、弾薬：{1} (夜戦込み：{2})\n　　夜戦マス燃料：{5}、弾薬：{6}\n　対潜戦マス燃料：{7}、弾薬：{8}\n　空襲戦マス燃料：{3}、弾薬：{4}\n　小鬼群マス燃料：{9}、弾薬：{10} (レーダー射撃：0)",
 	"PanelConsumedSteel"   : "　噴式機消費する鋼材：{0}",
 	"PanelLbasSortieCosts" : "出撃時に消費する資材\n　燃料：{0}、弾薬：{1}",
 	"PanelTransportPoints" : "輸送作戦ボスA/S勝利の時：{0} / {1} TP",
@@ -891,6 +891,7 @@
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
 
 	"BattleHistoryAirRaidTip" : "航空基地の被ダメージ計：{0}\n損害タイプ：{1}\n燃料またはボーキの損害予測：{2}\n制空状態：{3}\n{11:推測された敵制空値}\n敵機の被撃墜率：{4}\n敵艦攻の残り：{5}\n敵艦爆の残り：{6}\n各防空部隊で対爆値が最も高い中隊：\n　スロット1：{7}\n　スロット2：{8}\n　スロット3：{9}\n　スロット4：{10}",
+	"BattleHistoryFleetAndLbasCostTip" : "現時点の資材差分：{0}\n基地航空隊コスト：{1}",
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",

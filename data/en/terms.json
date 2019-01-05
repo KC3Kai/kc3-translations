@@ -903,6 +903,7 @@
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 	
 	"BattleHistoryAirRaidTip" : "Land Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\nAir Battle: {3}\n{11:inferredEnemyAirPow}\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+	"BattleHistoryFleetAndLbasCostTip" : "Fleet Cost: {0}\nPotential LBAS Cost: {1}",
 	
 	"MasterShipSaltCheck" : "Accept Existence",
 	"MasterShipSaltUnCheck" : "Deny Existence",

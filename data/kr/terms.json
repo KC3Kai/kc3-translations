@@ -620,8 +620,8 @@
 	"BattleContactYes": "접촉",
 	"BattleContactNo": "미접촉",
 	"BattleAirDefend": "기지방공",
-	"BattleAirDefendYes": "요격기: {0}",
-	"BattleAirDefendNo": "요격기 없음",
+	"BattleAirDefendYes": "방공: {0}",
+	"BattleAirDefendNo": "기지 없음",
 	"BattleAirBaseLoss": "손실",
 	"BattleAirBaseLossTip": "공습으로 인한 손실 - 내구도: {0}\n보크사이트/연료: {1}",
 	"BattleKindNightStart" : "야전마스",
@@ -731,7 +731,7 @@
 	"PanelRepairCost"      : "수리 비용\n 연료: {0}, 강재: {1}",
 	"PanelResupplyCosts": "보급 소요 연료 = {0}, 탄약 = {1}, 보크사이트 = {2}",
 	"PanelResupplyMarriedHint" : "(결혼함은 소모 비용 15% 감소)",
-	"PanelBattleConsumes" : "전투당 소모 비용 (결혼전 기준)\n 통상전 마스 - 연료: {0}, 탄약: {1} (야전: {2})\n 야전 시작 마스 - 연료: {5}, 탄약: {6}\n 대잠전 마스 - 연료: {7}, 탄약: {8}\n 공습전 마스 - 연료: {3}, 탄약: {4}",
+	"PanelBattleConsumes" : "전투당 소모 비용 (결혼전 기준)\n 통상전 마스 - 연료: {0}, 탄약: {1} (야전: {2})\n 야전 시작 마스 - 연료: {5}, 탄약: {6}\n 대잠전 마스 - 연료: {7}, 탄약: {8}\n 공습전 마스 - 연료: {3}, 탄약: {4}\n 소귀군 PT 맵 연료：{9}, 탄약：{10} (레이더 사격：0)}",
 	"PanelConsumedSteel": "전투 당 소모되는 강재 = {0}",
 	"PanelLbasSortieCosts": "기지항공대 비용\n연료: {0}, 탄약: {1}",
 	"PanelTransportPoints": "수송작전보스 A/S승리시：{0} / {1} TP",
@@ -957,6 +957,7 @@
 	"ShipListFullNamePattern": "{0:className} {1:shipName}",
 	
 	"BattleHistoryAirRaidTip": "항공기지의 피 대미지 합계：{0}\n손해 타입：{1}\n연료 또는 보키의 손해 예측：{2}\n제공상태：{3}\n{11:추측된 적 제공치}\n적기의 피 격추율：{4}\n적함공의 남은수：{5}\n적 함폭의 남은수：{6}\n각 방공부대의 대폭치 MVP：\n 슬롯1：{7}\n 슬롯2：{8}\n 슬롯3：{9}\n 슬롯4：{10}",
+	"BattleHistoryFleetAndLbasCostTip" : "함대 자원 : {0}\n기지항공대 코스트: {1}",
 
 	"MasterShipSaltCheck": "존재 인정",
 	"MasterShipSaltUnCheck": "존재 부인",

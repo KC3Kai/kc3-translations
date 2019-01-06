@@ -602,6 +602,8 @@
 	"ShipAccuracy": "Hit",
 	"ShipRadius"  : "Radius",
 	"ShipBombing" : "Bombing",
+	"ShipFuel"    : "Treibstoff",
+	"ShipAmmo"    : "Munition",
 	"ShipAccAntiBomber" : "Anti-bombers",
 	"ShipEvaInterception" : "Interception",
 	"ShipDeployCost" : "Einsatz-Kosten",
@@ -901,6 +903,7 @@
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 	
 	"BattleHistoryAirRaidTip" : "Land-Basierter Schaden: {0}\nVerluste verstrichen: {1}\nBauxit oder Treibstoff verloren: {2}\nLuftkamp: {3}\n{11:inferredEnemyAirPow}\nFeinde Abgeschossen: {4}\nTB Verbleibend: {5}\nDB Verbleibend: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+	"BattleHistoryFleetAndLbasCostTip" : "Kosten der Flotte : {0}\nPotentielle LBAS Kosten: {1}",
 	
 	"MasterShipSaltCheck" : "Existenz akzeptiert",
 	"MasterShipSaltUnCheck" : "Existenz verneint",

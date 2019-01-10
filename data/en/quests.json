@@ -613,7 +613,7 @@
         "code": "B4",
         "name": "Sortie into the Nansei Islands Region!",
         "desc": "Sortie to [W1-2]. Reach the end of the map.",
-        "unlock": [ 201 ]
+        "unlock": [ 201, 689 ]
     },
     "205": {
         "code": "B5",
@@ -685,7 +685,8 @@
     "225": {
         "code": "B15",
         "name": "Sortie the 5th Carrier Division!",
-        "desc": "Sortie Shoukaku, Zuikaku and 4 additional ships to [W3-1]. B-Rank+ the boss node."
+        "desc": "Sortie Shoukaku, Zuikaku and 4 additional ships to [W3-1]. B-Rank+ the boss node.",
+        "unlock": [ 689 ]
     },
     "227": {
         "code": "B16",
@@ -1776,7 +1777,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 689, 890, 894 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 689, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -2193,7 +2194,7 @@
         "name": "Daily Upgrade",
         "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal. Failures count toward this.",
         "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
-        "unlock": [ 637, 638 ],
+        "unlock": [ 637, 638, 689 ],
         "tracking": [ [0,1] ]
     },
     "673": {
@@ -2201,7 +2202,7 @@
         "name": "Daily Gun Dismantlement",
         "desc": "Scrap 4 Small Caliber Main Guns.",
         "memo": "\u203bConsolidation of Equipment Development Capabilities",
-        "unlock": [ 188, 317, 674, 876 ],
+        "unlock": [ 188, 317, 674, 689, 876 ],
         "tracking": [ [0,4] ]
     },
     "674": {
@@ -2418,7 +2419,7 @@
         "name": "Advance Preparation for the Airbase Construction",
         "desc": "Have two Type 96 Fighters and two 7.7mm Machine Guns in your inventory. Scrap two Drum Canisters.",
         "memo": "\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 96 Land-based Attack Aircraft",
-        "unlock": [ 642 ]
+        "unlock": [ 642, 690 ]
     },
     "642": {
         "code": "F38",
@@ -2725,7 +2726,7 @@
         "name": "Daily Modernization",
         "desc": "Complete 2 successful modernizations within the same day.",
         "memo": "\u203bCarry Out Ship Modernizations!",
-        "unlock": [ 703 ],
+        "unlock": [ 689, 703 ],
         "tracking": [ [0,2] ]
     },
     "703": {

@@ -287,7 +287,7 @@
 	"SettingsSSFileType" : "Filetype",
 	"SettingsSSQuality" : "Image Quality",
 	"SettingsSSDirectory" : "Download Sub-directory",
-	"SettingsSSDirDesc" : "A file path relative to the /Download/ directory to contain the image file, possibly containing subdirectories. Absolute paths, empty paths, and paths containing back-references '..' will cause an error. The location of /Download/ directory is in your browser settings.",
+	"SettingsSSDirDesc" : "A file path relative to the /Download/ directory to contain the downloaded file, possibly containing subdirectories. Absolute paths and paths containing back-references '..' will cause an error. The location of /Download/ directory is in your browser settings.",
 	"SettingsSSDppx" : "Device Pixel Ratio",
 	"SettingsNormal" : "Normal",
 	"SettingsAuto" : "Auto",

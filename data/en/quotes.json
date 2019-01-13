@@ -3573,7 +3573,8 @@
         "Intro": "Good morning, Admiral. Aircraft carrier Shinyou reporting in...I've gotten used to the fleet here a bit...I hope to do my best today to be of use to you and everyone else, Admiral.",
         "Poke(1)": "Aircraft carrier Shinyou, roger that.",
         "Poke(2)": "Admiral...I'll work harder so I can protect everyone!",
-        "Poke(3)": "With these Stuka...With these wings...I'll protect everyone."
+        "Poke(3)": "With these Stuka...With these wings...I'll protect everyone.",
+        "Friend43(1)": "Maritime Escort Division, carrier Shinyou, ready to provide support."
     },
     "76": {
         "Intro": "Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out planes one after another is right proper for a carrier, ya know! You can count on me!",
@@ -5096,6 +5097,7 @@
         "Poke(2)": "Despite my appearance, I can run fast along with equipping a lot of stuff, wouldn't you say I'm a pre~tt~y good ship?",
         "Equip(1)": "Feeling good.",
         "Yasen(2)": "There! Begone!",
+        "Friend43(2)": "Nisshin Squardon has reached the operation area! We'll now begin the attack!",
         "H0000": "Well, I'm the secretary today? Leave it to me!",
         "H0100": "The time is, 0100. Hehe~, how's that? Being a secretary is easy peasy!",
         "H0200": "It's 0200. It's more boring than I expected.",
@@ -5125,7 +5127,8 @@
         "Intro": "Hey admiral~ you're looking fearless as ever. Nisshin, the midget submarine tender, will weigh anchor today as well!",
         "Join": "Nisshin, the midget submarine tender. Ready... to Weigh Anchor!",
         "Equip(2)": "This is some nice equipment, everyone will be happy.",
-        "Attack": "Nisshin, midget submarine fleet, start launching! I'm going to take all the good parts! Begin the attack!"
+        "Attack": "Nisshin, midget submarine fleet, start launching! I'm going to take all the good parts! Begin the attack!",
+        "Friend43(1)": "Nisshin Squardon has reached the operation area! We'll now begin the attack! Midget Sub Squadron, begin launching!"
     },
     "491": {
         "Intro": "Bonjour. Enchant\u00e9. Je m'appelle Commandant Teste. Admiral, I look forward to the possibility of working together.",
@@ -12034,7 +12037,9 @@
         "Sortie": "Whether it's Anti-Ship, Anti-Sub, or Anti-Air, let's do it!",
         "Yasen(2)": "Feels good, feels good!",
         "2@Valentines2018": "Would you like some of my pretty delicious chocolate, Admiral? It's sweet and juuust a bit bitter. You do? Okay. Then, here~ you~ go~. Ufu, help yourself~",
-        "4@Summer2018": "That's right, I'll fight properly this summer. But next year... is fine right, Admiral? Really? Hooray."
+        "4@Summer2018": "That's right, I'll fight properly this summer. But next year... is fine right, Admiral? Really? Hooray.",
+        "Friend43(1)": "Roger that. We'll be charging in! Let's gooooo!",
+        "Friend43(2)": "Murasame Squadron has arrived at Kula Gulf. Radar contact; we've detected the allied fleet and the enemy fleet. We'll now charge in to support the allied fleet! Minegumo, let's go."
     },
     "45": {
         "Intro": "Hello. I'm the Shiratsuyu-class destroyer, Yuudachi. I'm in your care!",
@@ -12978,6 +12983,9 @@
         "Poke(1)": "Yes, I'm here.",
         "Poke(2)": "Admiral, Murasame, yes. I'm ready to set off at any time. Let's go together.",
         "Join": "9th Destroyer Division flagship, Minegumo, sortieing. Everyone... let's go!",
+        "Friend43(1)": "Murasame, I, Minegumo will be with you. That's why...",
+        "Friend43(2)": "Roger that. I'll follow you.",
+        "Friend43(3)": "The 9th Destroyer Division has arrived at the operation area. Flagship, increase speed! Everyone, let's go!",
         "H0000": "Admiral, it's midnight. The date has changed. I'll be your secretary tonight. I may not be very competent, but please take good care of me.",
         "H0100": "0100. ...Admiral, as expected it looks like even DesRon3 is quiet at this time. *sigh*",
         "H0200": "0200. Admiral, I'll make some tea. I'll make it juuuust a little strong to help you stay awake. ...Here you go, I'll just leave it here. It's hot so be careful, alright?",
@@ -14621,6 +14629,7 @@
         "2@Saury2018": "Yuugumo, Makigumo, roger that. I'll do my best to prepare to participate in the Naval Base Saury Festival!"
     },
     "349": {
+        "Friend43(1)": "The 10th Destroyer Divison has arrived! Akigumo, ready? Yuugumo-nee, Makigumo-nee, let's do this!",
         "H0000": "I, Kazagumo will be in charge for today's hourly notification duty! ...What's with that face? Are you saying that you have a problem with it!?",
         "H0100": "Ah, really? Then it's okay... Admiral! It's now precisely 0100!",
         "H0200": "It's 0200. Hmm... And that's that\u266a It's not a problem right?",
@@ -14863,7 +14872,10 @@
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
         "Poke(2)": "Ah, jeez.  I'm busy....how bout later.",
         "Poke(3)": "Aaa...jeez, seriously.  I said Fujinami's busy right now!  Jeez, seriously....Commander does it really have to be now, don't you get its' not a good time?",
-        "Equip(1)": "Thx, I guess?  This is pretty good."
+        "Equip(1)": "Thx, I guess?  This is pretty good.",
+        "Friend43(1)": "Roger that! Let's go! Hamacchi, ready? Hayacchi, you too. Let's go!",
+        "Friend43(2)": "DesDiv32, attacking! Let's go! Hayacchi, keep up!",
+        "Friend43(3)": "Roger that! Let's go!"
     },
     "528": {
         "Intro": "Onee-chan, Commander, thank you. 12th ship of the Yuugumo-class, Hayanami, has arrived.",
@@ -14901,6 +14913,8 @@
         "Equip(1)": "Looks good? I can use this.",
         "Return": "I'm home, onee-chan. I've returned.",
         "Yasen(2)": "There they are. Now that we've found them, don't let them escape!",
+        "Friend43(1)": "Onee-chan, I understand! Let's gooo!",
+        "Friend43(2)": "The 32nd Destroyer Division has arrived at the operation area. Onee-chan, ready? Let's charge right in!",
         "H0000": "I'll be in charge today. Eh, I don't wanna. I can do it properly. Even I can be a secretary!",
         "H0100": "Uhmm, the time is now... Ah, yes, 0100. It's midnight.",
         "H0200": "The night is really quiet... Isn't it kinda scary when the Naval Base is too quiet? Well? ...Ah, the time is 0200.",
@@ -14974,7 +14988,8 @@
         "Join": "I-I'm s-sortieing now, so... Yes, now.",
         "Supply": "Ngh, th-thank you. *whew*",
         "Damaged(2)": "Ow, that hurt, jerk!",
-        "Damaged(3)": "I said I didn't like this. But I won't lose to something like this."
+        "Damaged(3)": "I said I didn't like this. But I won't lose to something like this.",
+        "Friend43(1)": "Ah, Fu-chan, I got it... Full speed ahead... Hamanami, attacking!"
     },
     "452": {
         "Intro": "As the fourteenth ship of the Yuugumo-class Destroyers, I'm Okinami. Umm... Yes, I'll do my best. Pleased to meet you!",
@@ -15094,6 +15109,7 @@
         "Friend42(1)": "Roger that! DesDiv31, attack!",
         "Friend42(2)": "The 31st Destroyer Division has arrived on the battlefield! We'll now back up the friendly fleet. Oki-nee, Naga-nee, Asa-chan... Let's attack!",
         "Friend42(3)": "The 31st Destroyer Division has arrived on the battlefield! We'll now back up the friendly fleet.",
+        "Friend43(1)": "The 31st Destroyer Division has arrived on the battlefield! We'll now back up the friendly fleet.",
         "H0000": "The time is now 12am, Admiral. I'll be your secretary ship for today. Please take good care of me.",
         "H0100": "0100. Let me know if your throat is dry, Admiral. I'll make some tea.",
         "H0200": "0200. Isn't it kinda hot, Admiral? I must be imagining things.",

@@ -323,6 +323,7 @@
 	"SettingsScreenBlood" : "Blutiger Schirm (Alter Modus)",
 	"SettingsAppearOnScreenshots" : "Auf Screenshots zeigen",
 	"SettingsHeartbeatSound" : "Herzschlaggeräusch",
+	"SettingsAlertCustomSound" : "Eigende Sound URL",
 	"SettingsRedShadeOnPanel" : "Roter Schatten im Feld",
 	"SettingsDisableHomePort" : "Im Heimathafen deaktiviert",
 	"SettingsDisableHasDamecon" : "Schiffe ignorieren w/Damecon",
@@ -514,6 +515,11 @@
 	"TsunDBTestInactiveTitle": "Abgelaufener Test Zeitraum erkannt",
 	"TsunDBTestInactiveMessage": "Vielen Dank für deine Hilfe! Der Test an dem teilnimmst hat genügend Einsendungen erhalten.",
 	"TsunDBTestLink": "Hier klicken um mehr über weitere Tests zu erfahren",
+	"TsunDBTestWrongMoraleTitle": "Moral Anforderungen nicht erriecht",
+	"TsunDBTestWrongMoraleMessage": "Bitte überprüfe und stelle sicher das du die Moral Anforderungen erfüllst.",
+	"TsunDBTestWrongSetupTitle": "Ausrüstungs Anforderungen nicht erreicht",
+	"TsunDBTestWrongSetupMessage": "Bitte stelle sicher das du die Anforderungen an das Schiffs level erreichst, Bitte rüste zu dem nur Test Relevante Ausrüstung aus und erreiche (sofern gegeben) die Genauigkeits Anforderungen. Dieser Test benötigt gegebenenfalls die neueste Version von KC3Kai.",
+	
 	
 	"BackupReminderTitle" : "Backup Erinnerung",
 	"BackupReminderMessage" : "Es sind {0} Tage vergangen seit deinem letzten Backup.",

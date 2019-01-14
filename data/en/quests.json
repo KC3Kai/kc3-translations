@@ -1013,28 +1013,28 @@
         "code": "SB33",
         "name": "Happy New Year! New Year's Torpedo Squadron, begin Sortie!",
         "desc": "Sortie a CL/CT/CLT as flagship and up to 5 DD to [W1-2], [W1-3] and [W1-4]. A-Rank+ the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Repair Goddess and either two 25mm Triple Autocannon Mount OR two Combat Rations OR 5 Development Materials",
+        "memo": "\u27a3Rewards a Repair Goddess and either two 25mm Triple Autocannon Mount OR two Combat Rations OR 5 Development Materials",
         "unlock": [ 802 ]
     },
-      "802": {
+    "802": {
         "code": "SB34",
         "name": "Happy Zuiun! Ise and Hyuuga's help!",
         "desc": "Sortie a AV/CAV/BBV as flagship and up to 5 additional ships to [W2-2], [W2-3] and [W2-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either 4 Zuiuns OR a Zuiun Model 12 OR 3 Improvement Materials\n\u00B6Second choice: Either a Skilled Crew Member OR 4 12cm 30-tube Rocket Launchers OR two Type 13 Air Radar Kai",
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either 4 Zuiuns OR a Zuiun Model 12 OR 3 Improvement Materials\n\u00B6Second choice: Either a Skilled Crew Member OR 4 12cm 30-tube Rocket Launchers OR two Type 13 Air Radar Kai",
         "unlock": [ 803 ]
     },
-      "803": {
+    "803": {
         "code": "SB35",
         "name": "The year begins with escorting! The New Year's of the Escort Convoy",
-        "desc": "Sortie a fleet of DD/DE and up to 1 CVL to [W1-5], [W1-6] and [W2-1]. Reach [W1-6] node N twice and A-Rank+ the boss nodes twice. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards: \n\u00B6First choice: Either a Mamiya OR two Type 2 Depth Charges OR two Present Boxes\n\u00B6Second choice: Either a Furniture Fairy OR 9 Buckets",
+        "desc": "Sortie a fleet of ONLY DD/DE and 0-1 CVL to [W1-5], [W1-6] and [W2-1]. Reach [W1-6] node N twice and A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Mamiya OR two Type 2 Depth Charges OR two Present Boxes\n\u00B6Second choice: Either a Furniture Fairy OR 9 Buckets",
         "unlock": [ 804 ]
     },
-      "804": {
+    "804": {
         "code": "SB36",
         "name": "New Year's Greeting! Carrier Task Force welcoming the Year of the Boar in the West!",
         "desc": "Sortie a CV(L/B) as flagship, 2 DD and up to 3 additional ships to [W4-5]. A-rank+ the boss node four times. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Steady Progress Hanging Scroll and either two New Model Aviation Armament Materials OR a Kyoufuu Kai OR a Shiun"
+        "memo": "\u27a3Rewards a Steady Progress Hanging Scroll and either two New Model Aviation Armament Materials OR a Kyoufuu Kai OR a Shiun"
     },
     "805": {
         "code": "B58",
@@ -1697,14 +1697,14 @@
         "code": "Bq1",
         "name": "Quarterly [W2-4]",
         "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
-        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards a Mamiya and 5 Screws",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards a Mamiya and 5 Screws",
         "tracking": [ [0,2] ]
     },
     "854": {
         "code": "Bq2",
         "name": "Quarterly Ranking Points 1",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
-        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
@@ -1712,7 +1712,7 @@
         "code": "Bq3",
         "name": "Quarterly [W1-6]",
         "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
-        "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
         "unlock": [ 862 ],
         "tracking": [ [0,2] ]
     },
@@ -1720,14 +1720,14 @@
         "code": "Bq4",
         "name": "Quarterly [W6-3]",
         "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
-        "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
         "tracking": [ [0,2] ]
     },
     "873": {
         "code": "Bq5",
         "name": "Quarterly [W3]",
         "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
         "unlock": [ 874, 875 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
@@ -1736,7 +1736,7 @@
         "code": "Bq6",
         "name": "Quarterly [W5-4]",
         "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
-        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
     },
@@ -1744,7 +1744,7 @@
         "code": "Bq7",
         "name": "Quarterly Ranking Points 2",
         "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
@@ -1752,7 +1752,7 @@
         "code": "Bq8",
         "name": "Quarterly Ranking Points 3",
         "desc": "Sortie to [W1-5], [W7-1], [W7-2]. S-Rank the boss node of [W1-5] and [W7-1] 3 times. S-Rank both boss nodes of [W7-2] 3 times. Overlay: F10",
-        "memo": "\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards a Skilled Lookouts OR a Skilled Crew Member OR 4 Underway Replenishments and 300 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards a Skilled Lookouts OR a Skilled Crew Member OR 4 Underway Replenishments and 300 Ranking Points",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W7-1]", "{0} S-Rank [W7-2-G]", "{0} S-Rank [W7-2-M]" ]
     },
@@ -1760,7 +1760,7 @@
         "code": "Bq9",
         "name": "Quarterly [W1/2]",
         "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ],
         "unlock": [ 895 ]
@@ -2087,7 +2087,7 @@
         "code": "D24",
         "name": "Quarterly Expeditions",
         "desc": "Complete Expeditions 3, 4, 5 and 10.",
-        "memo": "\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
         "unlock": [ 428 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]
@@ -2103,7 +2103,7 @@
         "code": "D26",
         "name": "Quarterly Expeditions 2",
         "desc": "Complete Expeditions 4, A2 and A3. Clear each of them twice.",
-        "memo": "\u203bSuppress the Enemy Submarine Incursions into Coastal Waters!\n\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSuppress the Enemy Submarine Incursions into Coastal Waters!\n\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
     },
@@ -2401,7 +2401,7 @@
         "code": "F35",
         "name": "Quarterly Skilled Crew Member Training",
         "desc": "Have 2 Medals. Set Houshou as secretary. Equip her with a >> \u2605max Type 96 Fighter.",
-        "memo": "\u2718Consumes 2 Medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes 2 Medals and the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards 4 Screws and a Skilled Crew Member"
     },
     "639": {
         "code": "F36",
@@ -2432,7 +2432,7 @@
         "code": "F39",
         "name": "Quarterly Type 1 Land-based Attack Aircraft",
         "desc": "Have one Type 96 Land-based Attack Aircraft and two Type 97 Torpedo Bombers in your inventory. Scrap two Type 0 Fighter Model 21s.",
-        "memo": "\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft"
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft"
     },
     "644": {
         "code": "F40",
@@ -2544,7 +2544,7 @@
         "code": "F55",
         "name": "Quarterly Medal or Materials",
         "desc": "Have 18000 steel. Scrap 10 Large Caliber Main Guns. Press F10 to clear the overlay.",
-        "memo": "\u203bDevelopmental Study on a New Model of Rigging\n\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Model Artillery Armament Materials.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bDevelopmental Study on a New Model of Rigging\n\u2718Consumes the resources.\n\u27a3Rewards a Medal OR a New Model Artillery Armament Materials.",
         "tracking": [ [0,10] ]
     },
     "664": {
@@ -2608,7 +2608,7 @@
         "code": "F67",
         "name": "Quarterly Interceptor",
         "desc": "Have 800 Bauxite. Scrap 6 Fighter Aircraft and 4 AA Machine Guns. Press F10 to clear the overlay.",
-        "memo": "\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bIntegrated Consolidation of Operational Equipment\n\u27a3Rewards either a Type 1 Fighter Hayabusa Model II OR a Shiden Model 11 OR 4 Screws",
         "tracking": [ [0,6], [0,4] ],
         "trackingDesc": [ "{0} Fighter Aircraft", "{0} AA Machine Guns" ]
     },
@@ -2633,7 +2633,7 @@
         "code": "F70",
         "name": "Quarterly Shiden Kai Ni and Materials",
         "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s. Overlay: F10",
-        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials",
+        "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bAn Update for the Mainstay Ship-based Fighter Aircraft\n\u2718Consumes the resources and equipment.\n\u27a3Rewards two Shiden Kai Ni and either a New Model Aviation Armament Materials OR 8 Development Materials",
         "tracking": [ [0,3], [0,5] ],
         "trackingDesc": [ "{0} Type 96 Fighter", "{0} Type 0 Fighter Model 21" ]
     },
@@ -2648,7 +2648,7 @@
         "code": "F72",
         "name": "Quarterly AA Guns",
         "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars. Press F10 to clear the overlay.",
-        "memo": "\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bA Consolidated Expansion of Anti-Air Armaments\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two 10cm Twin High-angle Gun Mounts OR two 12cm 30-tube Rocket Launchers\n\u00B6Second choice: Either two 8cm High-angle Guns OR six Development Materials",
         "unlock": [ 191, 685, 686, 880 ],
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} AA Machine Guns", "{0} Radars" ]
@@ -2683,7 +2683,7 @@
         "code": "F77",
         "name": "Quarterly High-angle Gun Mount",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
-        "memo": "\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
         "tracking": [ [0,4], [0,1] ],
         "trackingDesc": [ "{0} 10cm Twin High-angle Gun Mount", "{0} Type 94 Anti-Aircraft Fire Director" ]
     },

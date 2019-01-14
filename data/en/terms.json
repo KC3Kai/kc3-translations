@@ -1,4 +1,4 @@
-{
+﻿{
 	"available": true,
 	
 	"SortieWinCount": "Sortie Win Count",
@@ -515,6 +515,10 @@
 	"TsunDBTestInactiveTitle": "Inactive test detected",
 	"TsunDBTestInactiveMessage": "Thank you for your help! The test you are contributing towards has received enough samples.",
 	"TsunDBTestLink": "Click here to check out other avaliable tests",
+	"TsunDBTestWrongMoraleTitle": "Morale requirements not met",
+	"TsunDBTestWrongMoraleMessage": "Please check the morale requirements for this test and ensure you are within the bounds before sortie.",
+	"TsunDBTestWrongSetupTitle": "Gunfit test requirements not met",
+	"TsunDBTestWrongSetupMessage": "Please ensure you have met the required ship level, equipped only test related equipment and met the accuracy requirements (if any). This test may also require you to update to the latest version of KC3Kai.",
 	
 	"BackupReminderTitle" : "Backup Reminder",
 	"BackupReminderMessage" : "It has been {0} days since your last backup.",

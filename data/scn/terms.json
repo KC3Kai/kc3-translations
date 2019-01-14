@@ -584,6 +584,10 @@
 	"TsunDBTestInactiveTitle": "发现未激活的验证测试项",
 	"TsunDBTestInactiveMessage": "当前出击的验证舰队中存在已经收集到充分数据的测试项，非常感谢您的帮助。",
 	"TsunDBTestLink": "点此在作战指挥所查看其它测试项",
+	"TsunDBTestWrongMoraleTitle": "验证必要的士气条件未被满足",
+	"TsunDBTestWrongMoraleMessage": "出击前请确认舰娘的士气值在测试要求的范围以内。",
+	"TsunDBTestWrongSetupTitle": "验证必要的条件未被满足",
+	"TsunDBTestWrongSetupMessage": "出击前请确认以下条件是否满足测试项的必要条件：舰娘的等级、仅装备被测试的装备、必要的命中率装备、KC3改为最新版本。",
 
 	"BackupReminderTitle": "数据备份提醒",
 	"BackupReminderMessage": "自从上次备份KC3改的数据有 {0} 天已经过去了。",

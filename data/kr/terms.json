@@ -86,8 +86,8 @@
 	"GameGameModes": "게임 모드",
 	"GameReadMore": "더 읽기...",
 	"GameAltDMMInfo": "이미 설정된 값으로 DMM공식 사이트에 접속합니다. 추천모드입니다. 자막, 번역, 배경화면등도 작동합니다. 단지, 게임을 시작만 하세요.",
-	"GameAltFrameInfo": "몇몇 크롬 버전(55+)에서, DMM 프레임이 렌더링되지 않습니다. 검은 화면만 나오지만 소리는 들을 수 있습니다.",
-	"GameAltAPIInfo": "몇몇 크롬 버전(55+)에서, API 링크가 패널에서 감지되지 않고, '게임 활동 대기중...'에서 멈춥니다.",
+	"GameAltFrameInfo": "Flash에서 HTML5로의 이행과 함께, Chrome의 보안 정책에는 저촉 되지 않습니다. 일단 기능이나 실행자체는 문제없이 가능할겁니다.",
+	"GameAltAPIInfo": "몇몇 크롬 버전(55+)에서, API 링크가 패널에서 감지되지 않고, '게임 활동 대기중...'에서 멈춥니다. 과금이나 함대 개명 등의 기능은 쓸수 없습니다.",
 	"GameAltIgnore": "작동하지 않을 것을 인지하고 있으나, 이를 열고 싶습니다.",
 	"GameStartGame": "게임 시작",
 	"GameStartNoPanel": "패널 없이 시작",
@@ -95,7 +95,8 @@
 	"GameStep2": "열려 있는 개발자 툴 패널에서 <code><strong>KanColle</strong></code> 탭을 클릭 (없을 경우 오른쪽의 \u00bb 드롭다운 메뉴 확인)",
 	"GameStep3": "즐거운 플레이 되세요!",
 	"GameStepHint"         : "Hint",
-	"GameStepHintRam"      : "메모리 절약을 위해서 로그 기록을 사용하지 않기를 권합니다. <code><strong>Network</strong></code>탭으로 전환해서, <span style='color:red'>🔴</span> 버튼을 누르거나, <kbd>Ctrl</kbd> <kbd>E</kbd>를 누르세요.",
+	"GameStepHintRam"      : "게임내의 사운드 관련 부분을 꺼시거나, 일정 시간마다 게임을 재기동 하는 것을 권장합니다.",
+	"GameStepHintRamOld"      :"메모리 절약을 위해서 로그 기록을 사용하지 않기를 권합니다. <code><strong>Network</strong></code>탭으로 전환해서, <span style='color:red'>🔴</span> 버튼을 누르거나, <kbd>Ctrl</kbd> <kbd>E</kbd>를 누르세요.",
 	"GameSocialLinks": "링크",
 
 	"SocialTextWebstore": "웹스토어에 리뷰 남기기",
@@ -557,11 +558,12 @@
 	"Bomb201Message": "게임 API로 부터 201 오류를 확인했습니다. 다른 게임 클라이언트에서 로그인되어 있거나, 매크로 감지와 관련되어 있을 수 있습니다. 이 내용을 무시하셔도 무관하나, 주의해주시기 바랍니다.",
 
 	"TsunDBTestInactiveTitle"   : "비활성화된 테스트가 감지 되었습니다.",
-	
 	"TsunDBTestInactiveMessage" : "협력에 감사드립니다! 검증하고자 하는 데이터가 충분하기 때문에 데이터 송신을 할 필요가 없습니다",
-
 	"TsunDBTestLink"            : "여기를 클릭해서 다른 가능한 테스트를 확인해보세요.",
-
+	"TsunDBTestWrongMoraleTitle"  : "테스트에 필요한 피로도가 충분하지 않습니다!",
+	"TsunDBTestWrongMoraleMessage": "출격전에 테스트에 필요한 피로도 수치가 범위내인지 확인해 주세요.",
+	"TsunDBTestWrongSetupTitle"   : "테스트 필요조건이 충분하지 않습니다!",
+	"TsunDBTestWrongSetupMessage" : "출격전에 테스트에 필요한 함딸 레벨, 필요한 장비 등의 조건이 충분히 갖추어 졌는지 확인해 주세요. 최신 버전의 KC3가 필요합니다.",
 
 	"BackupReminderTitle" : "백업 리마인더",	
 	"BackupReminderMessage" : "저번 KC3 백업에서 {0}일 지났습니다.",

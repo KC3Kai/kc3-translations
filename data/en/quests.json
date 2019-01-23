@@ -2648,9 +2648,9 @@
     },
     "688": {
         "code": "F79",
-        "name": "Aerial Force Enhancement",
+        "name": "Quarterly Auxiliary Aircraft",
         "desc": "Have 1800 Bauxite and a Skilled Crew Member. Scrap 3 Fighters, 3 Dive Bombers, 3 Torpedo Bombers and 3 Reconnaissance Seaplanes. Press F10 to clear the overlay.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Type 0 Fighter Model 32 (Skilled) OR a Type 1 Fighter Hayabusa Model II OR a Zuiun (631 Air Group)",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bAerial Force Enhancement\n\u2718Consumes the resources and the Skilled Crew Member.\n\u27a3Rewards either a Type 0 Fighter Model 32 (Skilled) OR a Type 1 Fighter Hayabusa Model II OR a Zuiun (631 Air Group)",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} Fighters", "{0} Dive Bombers", "{0} Torpedo Bombers", "{0} Reconnaissance Seaplanes" ]
     },

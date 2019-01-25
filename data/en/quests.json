@@ -2274,7 +2274,9 @@
         "name": "Monthly Type 0 Fighter Model 21 (Skilled)",
         "desc": "Have a Skilled Crew Member. Set Houshou as secretary. Equip her with a >> Type 0 Fighter Model 21. Scrap two Type 0 Fighter Model 21s and a Type 96 Fighter.",
         "memo": "\u203bThe Newly Formed Elite Fighter Squadron\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 21 (Skilled)",
-        "unlock": [ 627, 630, 632 ]
+        "unlock": [ 627, 630, 632 ],
+        "tracking": [ [0,2], [0,1] ],
+        "trackingDesc": [ "{0} Type 0 Fighter Model 21", "{0} Type 96 Fighter" ]
     },
     "627": {
         "code": "F24",
@@ -2287,7 +2289,9 @@
         "code": "F25",
         "name": "Monthly Type 0 Fighter Model 52 (Skilled)",
         "desc": "Set a CV as secretary. Equip her with a >> Type 0 Fighter Model 21 (Skilled). Scrap two Type 0 Fighter Model 52s.",
-        "memo": "\u203bModel Conversion\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 52 (Skilled)"
+        "memo": "\u203bModel Conversion\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 52 (Skilled)",
+        "tracking": [ [0,2] ],
+        "trackingDesc": [ "{0} Type 0 Fighter Model 52" ]
     },
     "629": {
         "code": "F26",
@@ -2385,7 +2389,9 @@
         "code": "F39",
         "name": "Quarterly Type 1 Land-based Attack Aircraft",
         "desc": "Have one Type 96 Land-based Attack Aircraft and two Type 97 Torpedo Bombers in your inventory. Scrap two Type 0 Fighter Model 21s.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft"
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft",
+        "tracking": [ [0,2] ],
+        "trackingDesc": [ "{0} Type 0 Fighter Model 21" ]
     },
     "644": {
         "code": "F40",

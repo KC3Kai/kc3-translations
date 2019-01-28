@@ -419,6 +419,8 @@
 	"SettingsMapNodeMarkers" : "地图节点标记",
 	"SettingsMapClearerLetters" : "地图节点字母",
 	"SettingsMuteGameTab" : "启动游戏时静音",
+	"SettingsFocusGameTab" : "战斗后切换到游戏标签",
+	"SettingsFocusGameTabTip" : "因为要检测游戏内战斗结束时的音效加载，所以游戏内的音量设定中的SE项必需为开启。使用浏览器或上面的静音功能不影响它的正常工作。",
 
 	"SubtitleDisplayBottom": "固定于下方（界面内）",
 	"SubtitleDisplayBelow": "固定于下方（界面外）",

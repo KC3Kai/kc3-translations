@@ -357,6 +357,8 @@
 	"SettingsSubtitleAccurateDuration" : "Subtitle Accurate Duration",
 	"SettingsGoogleTranslate": "Google Translate Fallback",
 	"SettingsMuteGameTab" : "Mute Tab on Start",
+	"SettingsFocusGameTab" : "Focus Game after Battle",
+	"SettingsFocusGameTabTip" : "This only works when in-game home port sound option 'SE' is on. Because loading event of a sound effect is marked, in order to determine the ending of battle animation. Muted game tab by previous setting or browser doesn't stop this.",
 	
 	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
 	"SubtitleDisplayBelow": "(Below) Fixed right below the game screen",

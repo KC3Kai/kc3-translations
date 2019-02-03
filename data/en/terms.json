@@ -1,4 +1,4 @@
-{
+﻿{
 	"available": true,
 	
 	"SortieWinCount": "Sortie Win Count",
@@ -357,8 +357,8 @@
 	"SettingsSubtitleAccurateDuration" : "Subtitle Accurate Duration",
 	"SettingsGoogleTranslate": "Google Translate Fallback",
 	"SettingsMuteGameTab" : "Mute Tab on Start",
-	"SettingsFocusGameTab" : "Focus Game after Battle",
-	"SettingsFocusGameTabTip" : "This only works when in-game home port sound option 'SE' is on. Because loading event of a sound effect is marked, in order to determine the ending of battle animation. Muted game tab by previous setting or browser doesn't stop this.",
+	"SettingsFocusGameTab" : "Focus Game if Required",
+	"SettingsFocusGameTabTip" : "This option shifts focus to the game window both when the first damage cut-in of a battle occurs and when a battle has ended. Please note that it will only work when the in-game home port sound option 'SE' is enabled. This option will still work if the game is muted out of game, such as by using the KC3 panel's mute toggle or by muting the browser's tab.",
 	
 	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
 	"SubtitleDisplayBelow": "(Below) Fixed right below the game screen",

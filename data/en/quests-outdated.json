@@ -258,5 +258,25 @@
         "name": "New Year's Greeting! Carrier Task Force welcoming the Year of the Boar in the West!",
         "desc": "Sortie a CV(L/B) as flagship, 2 DD and up to 3 additional ships to [W4-5]. A-rank+ the boss node four times. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a Steady Progress Hanging Scroll and either two New Model Aviation Armament Materials OR a Kyoufuu Kai OR a Shiun"
+    },
+    "235": {
+        "code": "SB38",
+        "name": "Weekly Setsubun Mission: Nansei Islands Naval Base Defense Operation!",
+        "desc": "Sortie a CVL/CL as flagship, 2 DD/DE and up to 3 other ships to [W1-2] and [W1-4]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans",
+        "unlock": [ 236 ]
+    },
+    "236": {
+        "code": "SB39",
+        "name": "Weekly Setsubun Mission: The Northern Sea Recon in Force Operation",
+        "desc": "Sortie a CA/AV as flagship, 2 DD and up to 3 other ships to [W3-1] and [W3-5]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans",
+        "unlock": [ 237 ]
+    },
+    "237": {
+        "code": "SB40",
+        "name": "Weekly Setsubun Mission: Decisive Battle at the Nanpou Sea",
+        "desc": "Sortie a BB/CV as flagship, 2 DD and up to 3 other ships to [W5-4] and [W5-5]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards 180 Ranking Points and two units of Setsubun Beans"
     }
 }

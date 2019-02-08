@@ -1446,6 +1446,12 @@
         "desc": "Sortie a CL as flagship and up to 5 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank each boss node twice. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards: \n\u00B6First choice: Either 3 Type 0 Fighter Model 21 OR two Type 0 Fighter Model 32 OR a Furniture Fairy\n\u00B6Second choice: Either 4 Improvement Materials, 3 Type 22 Surface Radar OR two New Model Aviation Armament Materials."
     },
+    "290": {
+        "code": "B128",
+        "name": "Hiei's Sortie",
+        "desc": "Sortie Hiei as flagship and up to 5 other ships to [W5-3] and [W5-4]. S?-Rank the boss nodes of each.",
+        "memo": "Requiescat in pace.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either an Action Report OR a Type 96 150cm Searchlight OR a Medal"
+    },
 
 
     "201": {
@@ -2634,23 +2640,23 @@
     "685": {
         "code": "F76",
         "name": "Wartime Modification of Destroyer Main Guns",
-        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
-        "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai Ni.",
+        "memo": "Have 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai Ni in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mounts and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
         "unlock": [ 686, 687 ]
     },
     "686": {
         "code": "F77",
         "name": "Quarterly High-angle Gun Mount",
-        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai 2.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai 2 in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model A Kai Ni.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bMass Wartime Production of the Type A Dual-Purpose Gun\n\u203bHave 30 Development Materials, 900 Steel and a New Model Artillery Armament Materials.\nSet a Fubuki-class as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model A Kai Ni in her FIRST slot.\nScrap four 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
         "tracking": [ [0,4], [0,1] ],
         "trackingDesc": [ "{0} 10cm Twin High-angle Gun Mount", "{0} Type 94 Anti-Aircraft Fire Director" ]
     },
     "687": {
         "code": "F78",
         "name": "Wartime Modification 2 of Destroyer Main Guns",
-        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model B Kai 2.",
-        "memo": "\u203bSet a Shigure Kai Ni or Yuudachi Kai Ni as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model B Kai 2 in her FIRST slot.\nScrap five 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director"
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is a \u2605max 12.7cm Twin Gun Mount Model B Kai Ni.",
+        "memo": "\u203bSet a Shigure Kai Ni or Yuudachi Kai Ni as secretary and equip her with a \u2605max 12.7cm Twin Gun Mount Model B Kai Ni in her FIRST slot.\nScrap five 10cm Twin High-angle Gun Mount and one Type 94 Anti-Aircraft Fire Director.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director"
     },
     "688": {
         "code": "F79",
@@ -2707,31 +2713,17 @@
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     },
 
-    "329": {
-        "code": "SB37",
-        "name": "Daily Setsubun Mission: Setsubun Exercises!",
-        "desc": "Secure 3 S-Ranks in Exercises within the same day using 2 DD/DE and up to 4 additional ships.",
-        "memo": "\u27a3Rewards one unit of Setsubun Beans",
-        "unlock": [ 235 ]
+    "234": {
+        "code": "SB41",
+        "name": "Limited-Time Valentine's Mission: Operation 1",
+        "desc": "Sortie a CL, 2 DD and up to 3 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S?-Rank the boss nodes of each.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and either two Type 0 Fighter Model 32 OR three Type 91 AP Shells OR a Furniture Fairy"
     },
-    "235": {
-        "code": "SB38",
-        "name": "Weekly Setsubun Mission: Nansei Islands Naval Base Defense Operation!",
-        "desc": "Sortie a CVL/CL as flagship, 2 DD/DE and up to 3 other ships to [W1-2] and [W1-4]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards one unit of Setsubun Beans",
-        "unlock": [ 236 ]
-    },
-    "236": {
-        "code": "SB39",
-        "name": "Weekly Setsubun Mission: The Northern Sea Recon in Force Operation",
-        "desc": "Sortie a CA/AV as flagship, 2 DD and up to 3 other ships to [W3-1] and [W3-5]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards two units of Setsubun Beans",
-        "unlock": [ 237 ]
-    },
-    "237": {
-        "code": "SB40",
-        "name": "Weekly Setsubun Mission: Decisive Battle at the Nanpou Sea",
-        "desc": "Sortie a BB/CV as flagship, 2 DD and up to 3 other ships to [W5-4] and [W5-5]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards 180 Ranking Points and two units of Setsubun Beans"
+    "238": {
+        "code": "SB42",
+        "name": "Limited-Time Valentine's Mission: Operation 2",
+        "desc": "Sortie a CA/CL as flagship and up to 5 other ships to [W2-4], [W3-1], [W3-2] and [W3-3]. S?-Rank the boss nodes of each.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Valentine's Chocolate and either a New Model Aviation Armament Materials OR a Re.2001 OR Kai OR a Reinforcement Expansion"
     }
+
 }

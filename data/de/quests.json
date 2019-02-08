@@ -1066,6 +1066,11 @@
       "desc": "Sende eine Flotte mit einem CL als Flaggschiff und bis zu 5 weitere Schiffe nach [W3-1], [W3-3], [W3-4], und [W3-5]. S-Rang jeden Boss Knoten ZWEIMAL.",
       "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: \n\u00B6Erstewahl 3x 'Typ-0-Jagdflugzeug Modell 21' ODER 2x 'Typ-0-Jagdflugzeug Modell 32' ODER 1x 'Möbelfee'\n\u00B6Zweitewahl: 4x 'Schrauben' ODER 3x 'Typ-22-Oberflächenradar' ODER 2x 'Material für neue Flugzeugmodelle'"
     },
+    "290": {
+        "name": "Hiei's Einsatz",
+        "desc": "Sende Hiei als Flaggschiff und bis zu 5 weitere Schiffen nach [W5-3] und [W5-4]. Erreiche jeweils einen S-Rang.",
+        "memo": "Ruhe in Frieden.\n\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 'Möbel' und 1x 'Action Report' ODER 1x 'Typ-96-150cm Suchscheinwerfer' ODER 1x 'Medaille"
+    },
 
 
     "201": {
@@ -1937,18 +1942,18 @@
     },
 	"685": {
         "name": "Kriegs Aufrüstung der Zerstörer Hauptgeschütze",
-        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai Ni.",
         "memo": "Habe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'"
     },
 	"686": {
         "name": "Vierteljährliches Steilfeuergeschütz",
-        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai Ni.",
         "memo": "Dieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203bMassen Produktion des Typ-A-Mehrzweckgeschützes während der Kriegs Zeit\n\u203bHabe 30 Entwicklungsmaterialien, 900 Stahl und 1x Material für neue Geschützturmmodelle.\nHabe eine Fubuki-Klasse als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN Slot aus.\nEntsorge vier 10cm Steilfeuer-Zwillingsgeschütze und ein Typ-94-Feuerleitgerät.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell A Kai 3 (Kriegs Aufrüstung) + Feuerleitgerät'",
         "trackingDesc": [ "{0} 10cm Steilfeuer-Zwillingsgeschütze", "{0} Typ-94-Feuerleitgerät" ]
     },
 	"687": {
         "name": "Kriegs Aufrüstung von Zwei Zerstörer Hauptgeschützen",
-        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2.",
+        "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist ein \u2605max 12.7cm Zwillingsgeschütz Modell A Kai Ni.",
         "memo": "\u203bHabe Shigure Kai Ni oder Yuudachi Kai Ni als Sekretärin und rüste sie mit einem \u2605max 12.7cm Zwillingsgeschütz Modell A Kai 2 im ERSTEN slot aus.\nEntsorge fünf 10cm Steilfeuer-Zwillingsgeschütz und ein Typ-94-Feuerleitgerät.\n\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u2718Verbraucht die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: '12.7cm Zwillingsgeschütz Modell B Kai 4 (Kriegs Aufrüstung) + Feuerleitgerät'"
     },
     "688": {
@@ -1991,25 +1996,18 @@
         "desc": "Habe 5500 Stahl und 2500 Bauxit. Modernisiere ein CV(B) mit 5 CV(L) zweimal.",
         "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnung: 'Material für neue Flugzeugmodelle'"
     },
-	
-	"329": {
-        "name": "Tägliche Setsubun Quest: Setsubun Übungen!",
-        "desc": "Erreiche 3 S-Ränge in Übungsgefechten mit 2 DD und bis zu 4 weiteren Schiffen.",
-        "memo": "\u27a3Belohnung: 1x 'Setsubun Bohnen'"
+	 
+
+	"234": {
+        "name": "Limitierte Valentins Mission: Operation 1",
+        "desc": "Sende ein CL, 2 DD und bis zu 3 weitere Schiffe nach [W1-4], [W2-1], [W2-2] und [W2-3]. S?-Rang jeweils die Boss Knoten.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 1x 'Mamiya' und entweder 2x 'Typ-0-Jagdflugzeug Modell 32' ODER 3x 'Typ-91 Panzerbrechende Granate' ODER 1x 'Möbelfee'"
     },
-    "235": {
-        "name": "Wöchentliche Setsubun Quest: Verteidigung der Nansei Insel Marinebasis!",
-        "desc": "Sende ein CVL/CL als Flaggschiff, 2 DD/DE und bis zu 3 weitere Schiffe nach [W1-2] und [W1-4]. Errieche bei beiden Boss Knoten einen S-Rang.",
-        "memo": "\u27a3Belohnung: 1x 'Setsubun Bohnen'"
-    },
-    "236": {
-        "name": "Wöchentliche Setsubun Quest: Aufklärungsoperation in den nördlichen Gewässern!",
-        "desc": "Sende ein CA/AV als Flaggschiff, 2 DD und bis zu 3 weitere Schiffe nach [W3-1] und [W3-5]. Errieche bei beiden Boss Knoten einen S-Rang.",
-        "memo": "\u27a3Belohnung 2x 'Setsubun Bohnen'"
-    },
-    "237": {
-        "name": "Wöchentliche Setsubun Quest: Entscheidungsschlacht in den Nanpou Gewässern!",
-        "desc": "Sende ein BB/CV als Flaggschiff, 2 DD und bis zu 3 weitere Schiffe nach [W5-4] und [W5-5]. Errieche bei beiden Boss Knoten einen S-Rang.",
-        "memo": "\u27a3Belohnungen: 180 Rangpunkte und 2x 'Setsubun Bohnen"
+    "238": {
+        "name": "Limitierte Valentins Mission: Operation 1",
+        "desc": "Sende ein CA(V)/CL/CT als Flaggschiff und bis zu 5 weitere Schiffe nach [W2-4], [W3-1], [W3-2] und [W3-3]. S-Rank jeweils die Boss Knoten.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 1x 'Valentins Schokolade' und die wahl zwichen EINEN der folgenden dingen:\n1. 1x 'Blaupause für neue Flugzeugmodelle'\n2. 1x 'Re.2001 OR Kai'\n3. 1x 'Schiffshüllenerweiterung'"
     }
+	
 }
+

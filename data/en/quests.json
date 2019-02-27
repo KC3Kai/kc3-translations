@@ -597,6 +597,12 @@
         "memo": "\u27a3Rewards a Combat Ration and either 5 Buckets OR a Furniture Fairy",
         "unlock": [ 892 ]
     },
+    "158": {
+        "code": "A92",
+        "name": "Unrivaled 1st Battleship Division, Prepare to Set Sail!",
+        "desc": "Have Nagato Kai Ni as Fleet 1 flagship with Mutsu Kai Ni as second ship. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Type 3 Shell Kai and either two 41cm Twin Gun Mounts OR a New Model Artillery Armament Materials OR 8 Development Materials"
+    },
     
     "202": {
         "code": "B1",
@@ -1352,7 +1358,7 @@
         "code": "B110",
         "name": "Execute a Combat Patrol of the Northern Region!",
         "desc": "Sortie a CL, an AV, a CVL and up to 3 additional ships to [W3-5]. S-Rank the boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a present box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards a Present Box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
     },
     "876": {
         "code": "B111",
@@ -1451,6 +1457,18 @@
         "name": "Hiei's Sortie",
         "desc": "Sortie Hiei as flagship and up to 5 other ships to [W5-3] and [W5-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "Requiescat in pace.\n\u27a3Rewards furniture and either an Action Report OR a Type 96 150cm Searchlight OR a Medal"
+    },
+    "281": {
+        "code": "B129",
+        "name": "Unrivaled 1st Battleship Division, Coming Through!",
+        "desc": "Sortie Mutsu Kai Ni, Nagato Kai Ni and up to 4 other ships in Fleet 1 to [W2-2], [W3-5], [W4-5] and [W5-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four 41cm Twin Gun Mounts OR two Type 91 AP Shells OR two Type 3 Shells\n\u00B6Second choice: Either an Action Report OR a Prototype 46cm Twin Gun Mount OR a Prototype Nanzan"
+    },
+    "281": {
+        "code": "B130",
+        "name": "Unrivaled 1st Battleship Division, Coming Through! (Extra Operation)",
+        "desc": "Sortie Mutsu Kai Ni, Nagato Kai Ni and up to 4 other ships in Fleet 1 to [W2-5], [W5-5] and [W6-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 41cm Twin Gun Mount Kai Ni and either a New Model Artillery Armament Materials OR 5 Screws OR a Prototype 46cm Twin Gun Mount"
     },
 
 
@@ -1650,6 +1668,12 @@
         "name": "Monthly [W2-5] Destroyer Fleet",
         "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
         "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
+    },
+    "280": {
+        "code": "Bm8",
+        "name": "Monthly Supply Lines",
+        "desc": "Sortie a CL/CVL, 3 DD/DE and up to 2 other ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S?-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako"
     },
     
     "822": {
@@ -2679,6 +2703,12 @@
         "desc": "Have 4800 Bauxite, a Skilled Crew Member and two New Model Aviation Armament Materials. Scrap 4 Fighters, 4 Dive Bombers and 4 Torpedo Bombers.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Raiden OR a Prototype Toukai OR two Shiden Model 11"
     },
+    "691": {
+        "code": "F82",
+        "name": "A Renovation of the Admiral's Room",
+        "desc": "Have 1600 Bauxite. Scrap 4 Medium Caliber Main Guns, 4 Secondary Guns and 4 AA Machine Guns. Press F10 to clear the overlay",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards: \n\u00B6First choice: Either 5 Development Materials OR 3 Furniture Boxes (Medium)\n\u00B6Second choice: Either a Furniture Fairy OR 3 Furniture Boxes (Medium)"
+    },
     
 
     "701": {
@@ -2711,19 +2741,6 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    },
-
-    "234": {
-        "code": "SB41",
-        "name": "Limited-Time Valentine's Mission: Operation 1",
-        "desc": "Sortie a CL, 2 DD and up to 3 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Mamiya and either two Type 0 Fighter Model 32 OR three Type 91 AP Shells OR a Furniture Fairy"
-    },
-    "238": {
-        "code": "SB42",
-        "name": "Limited-Time Valentine's Mission: Operation 2",
-        "desc": "Sortie a CA(V)/CL(T)/CT as flagship and up to 5 other ships to [W2-4], [W3-1], [W3-2] and [W3-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Valentine's chocolate and a choice of ONE of the following:\n1. a New Model Aviation Armament Materials\n2. a Re.2001 OR Kai\n3. a Reinforcement Expansion"
     }
 
 }

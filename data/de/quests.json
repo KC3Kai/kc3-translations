@@ -416,6 +416,11 @@
         "desc": "Habe Yuugumo Kai Ni und Makigumo Kai Ni in deiner Flotte. Drücke F10 um das Overlay zu verbergen.",
         "memo": "\u27a3Belohnung: 'Feldration' und entweder '5x Eimer' ODER '1x Möbelfee'"
     },
+    "158": {
+        "name": "Unerreichte 1te Schlachtschiff-Division, Bereit machen zum auslaufen!",
+        "desc": "Habe Nagato Kai Ni als Flaggschiff der 1ten Flotte und Mutsu Kai Ni als zweites Schiff. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u27a3Belohnungen: 1x 'Typ-3 Granate Kai' und entweder 2x '41cm Zwillingsgeschütz' ODER 1x 'Material für neue Geschützturmmodelle' ODER 8x 'Entwicklungsmaterial'"
+    },
     "202": {
         "name": "Der Erste Einsatz!",
         "desc": "Sende die Hauptflotte auf ein Einsatz."
@@ -1071,6 +1076,16 @@
         "desc": "Sende Hiei als Flaggschiff und bis zu 5 weitere Schiffen nach [W5-3] und [W5-4]. Erreiche jeweils einen S-Rang. Drücke F10 um das Overlay zu verbergen",
         "memo": "Ruhe in Frieden.\n\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 'Möbel' und 1x 'Action Report' ODER 1x 'Typ-96-150cm Suchscheinwerfer' ODER 1x 'Medaille"
     },
+    "281": {
+        "name": "Unerreichte 1te Schlachtschiff-Division, Durchbruch!",
+        "desc": "Sende Mutsu Kai Ni, Nagato Kai Ni und bis zu 4 weitere Schiffe in der Ersten Flotte nach [W2-2], [W3-5], [W4-5] und [W5-1]. S-Rang jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u00B6Erstewahl: Entweder 4x '41cm Zwillingsgeschütz' ODER 2x 'Typ-91 Panzerbrechende Granate' ODER 2x 'Typ-3-Granate'\n\u00B6Zweitewahl: Entweder 1x 'Schlachtbericht' ODER 1x 'Prototyp 46cm Zwillingsgeschütz' ODER 1x 'Prototype Nanzan'"
+    },
+    "282": {
+        "name": "Unerreichte 1te Schlachtschiff-Division, Durchbruch! (Extra Operation)",
+        "desc": "Sende Mutsu Kai Ni, Nagato Kai Ni und bis zu 4 weitere Schiffe in der Ersten Flotte nach [W2-5], [W5-5] und [W6-4]. S-Rang jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 1x '41cm Zwillingsgeschütz Kai Ni' und entweder 1x 'Material für neue Geschützturmmodelle' ODER 5x 'Schrauben' ODER 1x 'Prototype 46cm Zwillingsgeschütz'"
+    },
 
 
     "201": {
@@ -1208,6 +1223,11 @@
         "name": "Monatliche [W2-5] Zerstörer Flotte",
         "desc": "Sende ein DD als Flaggschiff und 3 weitere DD, 1 CA (kein CAV) und 1 CL nach [W2-5]. S-Rang den Boss knoten.",
         "memo": "\u203bBreche durch mit der Oberflächen Gegenangriffs Einsatzflotte!\n\u27a3Belohnung '2 Schrauben'"
+    },
+    "280": {
+        "name": "Monatliche Versorgungslinie",
+        "desc": "Sende ein CL(T)/CT/CVL, 3 DD/DE und bis zu 2 weitere Schiffe nach [W1-2], [W1-3], [W1-4] und [W2-1]. S-Rang jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u203bSichere die Versorgungslinien! Verstärkt die Meer-Verteidigung!\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 4x 'Entwicklungsmaterial' ODER 4x 'Eimer' ODER 2x 'Schrauben'\n\u00B6Zweitewahl: Entweder 1x 'Typ-95-Wasserbombe' ODER 2x '25mm Maschinenkanone' ODER 1x 'Irako'"
     },
 
     "822": {
@@ -1971,6 +1991,11 @@
       "desc":	"Habe 4800 Bauxit, 1x 'Erfahrene Besatzung' und 2x'Material für neue Flugzeugmodelle' in deinem Inventar. Entsorge 4x 'Sturzflugbomber', 4x 'Torpedobomber' und 4x 'Jäger'",
       "memo":	"\u2718Verbraucht die Ressourcen.\n\u27a3Belohnungen: 1x 'Raiden' ODER 1x 'Prototyp Toukai' oder 2x 'Shiden Modell-11"
     },
+    "691": {
+        "name": "Renovierung des Admiral's Zimmer",
+        "desc": "Habe 1600 Bauxite. Entsorge 4 Mittelkaliber Hauptgeschütze, 4 Sekundär Geschütze und 4 Lauftabwehr Maschinenkanonen. Drücke F10 um das Overlay zu verbergen",
+        "memo": "\u2718Verbraucht dies Ressourcen.\n\u27a3Belohnungen: \n\u00B6Erstewahl: Entweder 5x 'Entwicklungsmaterial' ODER 3x 'Möbelmünzenbox (Mittel)'\n\u00B6Zweitewahl: Entweder 1x 'Möbelfee' ODER 3x 'Möbelmünzenbox (Mittel)'"
+    },
 
 
     "701": {
@@ -1995,19 +2020,7 @@
         "name": "Flugzeug Modifikations Modernisierung",
         "desc": "Habe 5500 Stahl und 2500 Bauxit. Modernisiere ein CV(B) mit 5 CV(L) zweimal.",
         "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnung: 'Material für neue Flugzeugmodelle'"
-    },
-	 
-
-	"234": {
-        "name": "Limitierte Valentins Mission: Operation 1",
-        "desc": "Sende ein CL, 2 DD und bis zu 3 weitere Schiffe nach [W1-4], [W2-1], [W2-2] und [W2-3]. A-Rang+ jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen",
-        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 1x 'Mamiya' und entweder 2x 'Typ-0-Jagdflugzeug Modell 32' ODER 3x 'Typ-91 Panzerbrechende Granate' ODER 1x 'Möbelfee'"
-    },
-    "238": {
-        "name": "Limitierte Valentins Mission: Operation 2",
-        "desc": "Sende ein CA(V)/CL(T)/CT als Flaggschiff und bis zu 5 weitere Schiffe nach [W2-4], [W3-1], [W3-2] und [W3-3]. S-Rank jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen",
-        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen: 1x 'Valentins Schokolade' und die wahl zwichen EINEN der folgenden dingen:\n1. 1x 'Blaupause für neue Flugzeugmodelle'\n2. 1x 'Re.2001 OR Kai'\n3. 1x 'Schiffshüllenerweiterung'"
     }
-	
+	 	
 }
 

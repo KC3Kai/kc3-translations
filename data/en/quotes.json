@@ -111,6 +111,10 @@
             "18300": "Hatsuharu: \"Oh my goodness gracious, are you noisy! Of course we are ready to weigh anchor whenever you are.\"",
             "26300,37200": "Hatsushimo: \"Y-yes! Hatsushimo, present! Wakaba, All ships of DesDiv 21 are ready to sortie!\""
         },
+        "1158": {
+            "0": "Nagato: \"Battleship Nagato, preparation complete! Mutsu, what about you?\"",
+            "4900,10500": "Mutsu: \"Sorry to keep you waiting, Nagato! Remodelled Nagato-class battleship, Mutsu, taking position!\""
+        },
         "1186": {
             "0": "",
             "1060": "Michishio: \"Everyone, sorry for the wait!\"",
@@ -386,7 +390,10 @@
         "Return": "The fleet has returned. Alright.",
         "Sortie": "Battleship Nagato, sortieing, follow me!",
         "Battle": "Don't underestimate the power of the remodeled Big Seven.",
-        "SpCutin": "Let's do this! Full broadside! FIRE!!!!!!!"
+        "SpCutin": "Let's do this! Full broadside! FIRE!!!!!!!",
+        "SpCCutin(1)": "Mutsu, leave it all to me! FIRE!!!",
+        "SpCCutin(2)": "Mutsu, follow me! First fleet, attack! Main guns, full broadside! FIRE!!!",
+        "SpCCutin(3)": "Nelson? Interesting. Let's do this! FIRE!!!"
     },
     "81": {
         "Intro": "Second of the Nagato-class battleships, Mutsu. Pleased to meet you. Don't play with fire too much, okay? ...Please?",
@@ -433,11 +440,50 @@
         "2@Saury2017": "Saury Fishing Support Operation, roger that. Oh my\u266a You're sparkling, Nagato. You want to go fishing? I see\u266a"
     },
     "276": {
-        "Poke(1)": "Do you need something?",
+        "Intro": "I'm the 2nd ship of the Nagato-class battleships, Mutsu. Admiral, I look forward to working with you today too. Please don't play with fire alright. Please?",
+        "Poke(1)": "My my, do you need something?",
         "Poke(2)": "Like I said, be careful with that or you'll start a fire inside of me! Hey, are you listening?",
         "Poke(3)": "Didn't I tell you not to get a fire burning...? Eh? You're serious? Hmm~ then Onee-san... won't be held responsible\u2665",
         "Idle": "My... my, my. You're leaving me all by my lonesome... My, oh, my!",
-        "Supply": "Oh, my\u2665<br />Thank you~"
+        "Ranking": "Information? Wait a minute. Big sis will get it for you.",
+        "Supply": "Oh, my\u2665<br />Thank you~",
+        "H0000": "The date has changed. Oh my, so I'm the secretary today. That's fine. Just leave it all to big sis. The night is long.",
+        "H0100": "It's 0100. It's so quiet now. Even though it's so busy during the day. It just amazes me.",
+        "H0200": "It's 0200. Should I make some tea? You prefer coffee? Is that so?",
+        "H0300": "It's 0300. Would you like more coffee? Ok, wait a minute. I wonder if a little pick-me-up would be fine.",
+        "H0400": "Ngggggh *stretching*... It's 0400. It's almost morning. Dear, it's fine for you to take a short rest. It's fine, I'll keep an eye on things.",
+        "H0500": "It's 0500. Mmmm, it's a lovely morning. Would you like more coffee? I'll go and make some. Yes, wait a minute.",
+        "H0600": "It's 0600. I'll go and wake everyone up, alright? It's fine, you just get some rest... alright? I'll wake Nagato and the others up, alright?",
+        "H0700": "It's 0700. Admiral, Nagato, good morning. Breakfast is set out over here. Mutsu Morning! Please enjoy.",
+        "H0800": "It's 0800. I'll make some rice balls for lunch, alright? Nagato wants salmon and okaka... What would you like, Admiral? Well?",
+        "H0900": "It's 0900. Oh my, Nagato, you're being too enthusiastic. Don't get too far ahead. Right, Admiral?",
+        "H1000": "It's 1000. Nagato, take this. It's rice balls for lunch. I made lots. Here's your share too, Admiral. Alright?",
+        "H1100": "It's 1100. The sea definitely feels great, right? Hmm? Admiral, what's wrong? Is there something on my face?",
+        "H1200": "It's 1200. Let's have lunch. Here, this is your share, Admiral. I made too much. Mmm, don't force yourself to finish it.",
+        "H1300": "It's 1300. Admiral, would you like another cup of tea? Really? Roger. Let's work hard this afternoon too.",
+        "H1400": "140... Oh, Kaga! Eh, have I changed my makeup? It's still the same as usual. Ah, is that so? My, oh my.",
+        "H1500": "It's 1500. That's right! We have some delicious castella from Kyoto. Admiral, would you like some? Ok, roger that. I'll make some tea too, alright?",
+        "H1600": "16... Oh, it's the girls from DesDiv7. What's wrong? My my, that's... not quite right. I'm alright. I mean, look... I'm feeling fine.",
+        "H1700": "It's 1700. Admiral, look at the sunset. It's beautiful... Eh, me? Ah, jeez, I'm not going to say anything to that... But, I'm happy.",
+        "H1800": "It's 1800. You're going to make dinner, Admiral? No, let me do it. Just leave it to me. Is there anything you'd like to have?",
+        "H1900": "1900. Thanks for waiting. Today I made my special Western Dinner Course. For the drink... is red wine fine with you?",
+        "H2000": "It's 2000. How was my meal? Eh, it wouldn't lose to Yamato? Jeez,",
+        "H2100": "It's 2100. Oh, Nelson! How are you? Are you settling in? ...Oh my, tell me if you have anything troubling you, alright?",
+        "H2200": "22... Oh, Akagi. Eh, refreshments? Thank you. Hey, how about you join us if you don't mind? Just once in a while. Yup!",
+        "H2300": "It's 2300. Hey, Admiral, there's a saying that goes \"no one knows the truth of this world\". Such a mysterious saying. You should get a bit of rest, Admiral. Goodnight."
+    },
+    "573": {
+        "Intro": "I'm the 2nd ship of the Improved Nagato-class battleships, Mutsu. Admiral, I look forward to working with you today too. Please don't play with fire... Hmmm? Really? Ufufu. Well that makes me feel better.",
+        "Poke(1)": "That's fine. Big sis will do it.",
+        "Poke(2)": "But, I told you not to play with fire. Yes. That's better.",
+        "Poke(3)": "Really? You aren't just playing around and were serious. Then, I won't hold back. It's fine. Big sis will get serious now too.",
+        "Married": "Nagato... Ah, no... Admiral, should I put on my best big sister act for you today? ...Juuuuust kidding. Ufufu.",
+        "Join": "Battleship Mutsu, weighing anchor! Sortieing!",
+        "Sortie": "Nagato, ready? It's our turn to shine. Fleet, sortie! Forwards!",
+        "Yasen(2)": "Face the 3rd turret to the enemy. They won't get away. Fire!",
+        "SpCutin": "Battleship Mutsu, beginning the attack! Full broadside, FIRE!",
+        "SpCCutin(1)": "Nagato, leave it to me! FIRE!",
+        "SpCCutin(2)": "Nagato, ready? Here we go! First Fleet, full broadside, FIRE!"
     },
     "131": {
         "Intro": "First of the Yamato-class battleships, Yamato.<br />I am at your service!",
@@ -5114,7 +5160,8 @@
         "Damaged(3)": "Ow...ow... You heretics... I'll... I'll show you! I won't lost to such things! I'll beat all of you up!",
         "Sunk": "This... this is the end... I'm... sinking again... no...",
         "2@Setsubun2019": "It's Setsubun. You can leave Setsubun to me too. Nisshin Seaplane Squadron, begin takeoff! Mizuho Squadron, you too!",
-        "2@Valentines2019": "It looks like it's a custom here to give out these \"chocolate\" things. Then, I'll do it too!"
+        "2@Valentines2019": "It looks like it's a custom here to give out these \"chocolate\" things. Then, I'll do it too!",
+        "2@Hina2019": "Whoaa. It's cold. I want to get under the kotatsu too. You there, you light cruiser cat! Move over! Shoo! Shoooo!"
     },
     "690": {
         "Intro": "Hey admiral~ you're looking fearless as ever. Nisshin, the seaplane tender, will weigh anchor today as well!",
@@ -7862,7 +7909,8 @@
         "2@Kessen": "It's almost time for the final battle-nya. The fleet is really busy. I have to work hard too-nya. Ah, but I'm definitely not a cat-nya.",
         "2@Spring2018": "Spring is for sleeping-nya... Good night-nyaa.",
         "2@Anniversary2018": "It's the 5th Anniversary-nya. I'll celebrate too-nya. Nya!",
-        "2@Setsubun2019": "Nya! That hurts-nya! I wish you'd stop throwing beans at me-nya. I-I'm out of here-nya."
+        "2@Setsubun2019": "Nya! That hurts-nya! I wish you'd stop throwing beans at me-nya. I-I'm out of here-nya.",
+        "2@Hina2019": "Brrrrrrr. It's so cold-nya. I want to curl up under the kotatsu-nya. NYA! I was here first-nya!"
     },
     "216": {
         "Idle": "Nya, Nya~! Nya... Nya!",

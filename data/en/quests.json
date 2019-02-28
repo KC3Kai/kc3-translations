@@ -601,7 +601,8 @@
         "code": "A92",
         "name": "Unrivaled 1st Battleship Division, Prepare to Set Sail!",
         "desc": "Have Nagato Kai Ni as Fleet 1 flagship with Mutsu Kai Ni as second ship. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Type 3 Shell Kai and either two 41cm Twin Gun Mounts OR a New Model Artillery Armament Materials OR 8 Development Materials"
+        "memo": "\u27a3Rewards a Type 3 Shell Kai and either two 41cm Twin Gun Mounts OR a New Model Artillery Armament Materials OR 8 Development Materials",
+        "unlock": [ 281 ]
     },
     
     "202": {
@@ -1287,7 +1288,8 @@
         "code": "B99",
         "name": "1st Battleship Division, Set Sail!",
         "desc": "Sortie Nagato Kai Ni as Fleet 1 flagship, Mutsu Kai as second ship, and 4 additional ships to [W4-5] and [W5-5]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards 4 Screws and a New Design Anti-Torpedo Bulge (Large)"
+        "memo": "\u27a3Rewards 4 Screws and a New Design Anti-Torpedo Bulge (Large)",
+        "unlock": [ 158 ]
     },
     "857": {
         "code": "B100",
@@ -1462,7 +1464,8 @@
         "code": "B129",
         "name": "Unrivaled 1st Battleship Division, Coming Through!",
         "desc": "Sortie Mutsu Kai Ni, Nagato Kai Ni and up to 4 other ships in Fleet 1 to [W2-2], [W3-5], [W4-5] and [W5-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four 41cm Twin Gun Mounts OR two Type 91 AP Shells OR two Type 3 Shells\n\u00B6Second choice: Either an Action Report OR a Prototype 46cm Twin Gun Mount OR a Prototype Nanzan"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four 41cm Twin Gun Mounts OR two Type 91 AP Shells OR two Type 3 Shells\n\u00B6Second choice: Either an Action Report OR a Prototype 46cm Twin Gun Mount OR a Prototype Nanzan",
+        "unlock": [ 282 ]
     },
     "282": {
         "code": "B130",
@@ -1673,7 +1676,9 @@
         "code": "Bm8",
         "name": "Monthly Supply Lines",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W1-2]", "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]" ]
     },
     
     "822": {

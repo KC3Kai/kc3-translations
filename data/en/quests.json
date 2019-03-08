@@ -1464,14 +1464,14 @@
         "code": "B129",
         "name": "Unrivaled 1st Battleship Division, Coming Through!",
         "desc": "Sortie Mutsu Kai Ni and Nagato Kai Ni as the first two ships in Fleet 1 along with any other ships to [W2-2], [W3-5], [W4-5] and [W5-1]. S-Rank the boss nodes of each. Overlay: F10.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four 41cm Twin Gun Mounts OR two Type 91 AP Shells OR two Type 3 Shells\n\u00B6Second choice: Either an Action Report OR a Prototype 46cm Twin Gun Mount OR a Prototype Nanzan",
+        "memo": "\u00B6First choice: Either four 41cm Twin Gun Mounts OR two Type 91 AP Shells OR two Type 3 Shells\n\u00B6Second choice: Either an Action Report OR a Prototype 46cm Twin Gun Mount OR a Prototype Nanzan",
         "unlock": [ 282 ]
     },
     "282": {
         "code": "B130",
         "name": "Unrivaled 1st Battleship Division, Coming Through! (Extra Operation)",
         "desc": "Sortie Mutsu Kai Ni and Nagato Kai Ni as the first two ships in Fleet 1 along with any other ships to [W2-5], [W5-5] and [W6-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 41cm Twin Gun Mount Kai Ni and either a New Model Artillery Armament Materials OR 5 Screws OR a Prototype 46cm Twin Gun Mount"
+        "memo": "\u27a3Rewards a 41cm Twin Gun Mount Kai Ni and either a New Model Artillery Armament Materials OR 5 Screws OR a Prototype 46cm Twin Gun Mount"
     },
 
 
@@ -1676,7 +1676,7 @@
         "code": "Bm8",
         "name": "Monthly Supply Lines",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako",
+        "memo": "\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-2]", "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]" ]
     },
@@ -1740,7 +1740,7 @@
         "code": "Bq8",
         "name": "Quarterly Ranking Points 3",
         "desc": "Sortie to [W1-5], [W7-1], [W7-2]. S-Rank the boss node of [W1-5] and [W7-1] 3 times. S-Rank both boss nodes of [W7-2] 3 times. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards a Skilled Lookouts OR a Skilled Crew Member OR 4 Underway Replenishments and 300 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards 300 Ranking Points and either a Skilled Lookouts OR a Skilled Crew Member OR four Underway Replenishments",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W7-1]", "{0} S-Rank [W7-2-G]", "{0} S-Rank [W7-2-M]" ]
     },
@@ -1916,6 +1916,12 @@
         "name": "Elite 17th Destroyer Division, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards a Maimiya and either a Type 2 Depth Charge OR a Reinforcement Expansion"
+    },
+    "330": {
+        "code": "C29",
+        "name": "Carrier Task Force, Commence Exercises!",
+        "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment"
     },
     
     
@@ -2713,7 +2719,13 @@
         "code": "F82",
         "name": "A Renovation of the Admiral's Room",
         "desc": "Have 1600 Bauxite. Scrap 4 Medium Caliber Main Guns, 4 Secondary Guns and 4 AA Machine Guns. Press F10 to clear the overlay",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards: \n\u00B6First choice: Either 5 Development Materials OR 3 Furniture Boxes (Medium)\n\u00B6Second choice: Either a Furniture Fairy OR 3 Furniture Boxes (Medium)"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either 5 Development Materials OR 3 Furniture Boxes (Medium)\n\u00B6Second choice: Either a Furniture Fairy OR 3 Furniture Boxes (Medium)"
+    },
+    "692": {
+        "code": "",
+        "name": "Consolidation of the Naval Vessel Equipment Arsenal",
+        "desc": "Have 3000 Steel. Scrap 4 Small Caliber Main Guns, 5 Large Caliber Main Guns and 5 Recon Seaplanes. Press F10 to clear the overlay",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR 2 Screws OR 5 Development Materials\n\u00B6Second choice: Either two Anti-Torpedo Bulges (Medium) OR an Anti-Torpedo Bulge (Large)"
     },
     
 

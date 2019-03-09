@@ -1480,7 +1480,7 @@
         "name": "Daily Victory",
         "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
         "memo": "\u203bCrush the Enemy Fleet!",
-        "unlock": [ 216, 211, 212, 892 ],
+        "unlock": [ 216, 211, 212, 330, 892 ],
         "tracking": [ [0,1] ]
     },
     "216": {
@@ -1921,7 +1921,8 @@
         "code": "C29",
         "name": "Carrier Task Force, Commence Exercises!",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment",
+        "tracking": [ [0,4] ]
     },
     
     

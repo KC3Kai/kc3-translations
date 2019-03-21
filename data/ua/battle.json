@@ -1,13 +1,12 @@
 ﻿{
 	"detection" : [
 		["", ""],
-		["OK", "best", "Повернулись усі літаки розвідки"],
-		["OK-", "good", "Втрати літаків розвідки"],
-		["-", "worst", "Втрачені усі літаки розвідки"],
+		["OK", "best", "Повернулись усі літаки-розвідники"],
+		["OK-", "good", "Втрати літаків-розвідників"],
+		["-", "worst", "Втрачені усі літаки-розвідники"],
 		["NO", "bad", "Розвідка зазнала невдачі"],
-		["OK+", "good", "Літаки розвідки не були залучені"],
-		["NO+", "bad", "Літаки розвідки не були залучені"]
-	],
+		["OK+", "good", "Літаки-розвідники не були залучені"],
+		["NO+", "bad", "Літаки-розвідники
 	
 	"airbattle" : [
 		["AP", "", "Паритет"],
@@ -20,10 +19,10 @@
 	
 	"engagement" : [
 		["", "", ""],
-		["Prll", "", "Паралельний"],
-		["HdOn", "", "Лоб до лоба"],
-		["Gr-T", "good", "Т+"],
-		["Rd-T", "bad", "Т-"]
+		["Prll", "", "Паралельний", "100% пошкоджень"],
+		["HdOn", "", "Лоб до лоба", "<span style='color:orange'>80% пошкоджень</span>"],
+		["Gr-T", "good", "Т+", "<span style='color:green'>120% пошкоджень</span>"],
+		["Rd-T", "bad", "Т-""<span style='color:red'>60% пошкоджень</span>"]
 	],
 	
 	"formation" : [
@@ -49,7 +48,8 @@
         "",
         "Повітряна",
         "Артилерійська",
-        "Торпедня"
+        "Торпедна",
+	"Протичовнова"
     ],
      
      "airraiddamage" : [
@@ -58,5 +58,77 @@
 	    "Ресурси і Наземна авіабаза",
 	    "Наземна авіабаза",
 	    "Відсутні"
+	],
+	
+	"cutinDay" : [
+		"",
+		"Laser",
+		"Подв. атака [1.2x2]",
+		"Доп. к. CI [1.1]",
+		"Радарне CI [1.2]",
+		"Доп.к./ББ CI [1.3]",
+		"Змішане ББ CI [1.5]",
+		"Авіа-CI [1.15~1.25]",
+		"", "", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch",
+		"Нагато CI",
+		"Муцу CI"
+	],
+	
+	"cutinNight" : [
+		"",
+		"Подв. атака [1.2x2]",
+		"Змішане CI [1.3x2]",
+		"Торп. CI [1.5~x2]",
+		"Доп. к. CI [1.75x1]",
+		"Гол. к. CI [2.0x1]",
+		"Авіа-CI [1.18~1.25]",
+		"DD гол. к. CI [1.3~x1]",
+		"DD спостер. CI [1.2~x1]",
+		"", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch",
+		"Нагато CI"
+	],
+	
+	"aacitype" : [
+		[],
+		["Тип Акізукі", "High-angle Mount", "High-angle Mount", "Radar"],
+		["Тип Акізукі", "High-angle Mount", "Radar"],
+		["Тип Акізукі", "High-angle Mount", "High-angle Mount"],
+		["Лінкори", "Large Cal. Main Gun", "Type 3 Shell", "AA Fire Director", "Air Radar"],
+		["", "Built-in High-angle Mount", "Built-in High-angle Mount", "Air Radar"],
+		["Лінкори", "Large Cal. Main Gun", "Type 3 Shell", "AA Fire Director"],
+		["", "High-angle Mount", "AA Fire Director", "Air Radar"],
+		["", "Built-in High-angle Mount", "Air Radar"],
+		["", "High-angle Mount", "AA Fire Director"],
+		["Мая Кай-2", "High-angle Mount", "CD AA Machine Gun", "Air Radar"],
+		["Мая Кай-2", "High-angle Mount", "CD AA Machine Gun"],
+		["", "CD AA Machine Gun", "AA Machine Gun", "Air Radar"],
+		[],
+		["Ісузу Кай-2", "High-angle Mount", "AA Machine Gun", "Air Radar"],
+		["Ісузу Кай-2", "High-angle Mount", "AA Machine Gun"],
+		["Касумі Кай-2 B", "High-angle Mount", "AA Machine Gun", "Air Radar"],
+		["Касумі Кай-2 B", "High-angle Mount", "AA Machine Gun"],
+		["Сацукі Кай-2", "CD AA Machine Gun"],
+		["Кіну Кай-2", "High-angle Mount (w/o Built-in FD)", "CD AA Machine Gun"],
+		["Кіну Кай-2", "CD AA Machine Gun"],
+		["Юра Кай-2", "High-angle Mount", "Air Radar"],
+		["Фумізукі Кай-2", "CD AA Machine Gun"],
+		["UIT-25, I-504", "Non-CD AA Machine Gun"],
+		["Тип Тенрю Кай-2", "High-angle Mount", "Non-CD AA Machine Gun"],
+		["Тип Ісе Кай+", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar", "Type 3 Shell"],
+		["Мусаші Кай-2", "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns", "Air Radar"],
+		[],
+		["Мусаші Кай+, Ise-Class Kai+", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar"],
+		["Тип Кагеро B Кай", "High-angle Mount", "Air Radar"],
+		["Тенрю Кай-2, Gotland Кай", "High-angle Mount", "High-angle Mount", "High-angle Mount"],
+		["Тенрю Кай-2", "High-angle Mount", "High-angle Mount"],
+		["Кораблі Королівського флоту, Тип Конго Кай-2", "20-tube 7inch UP Rocket Launchers, 16inch Mk.I Triple Gun Mount Kai + FCR Type 284", "QF 2-pounder Octuple Pom-pom Gun Mount, 20-tube 7inch UP Rocket Launchers"],
+		["Gotland Кай", "High-angle Mount", "AA Machine Gun"],
+		["Johnston", "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37", "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37"],
+		["Johnston", "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37", "5inch Single Gun Mount Mk.30 Kai"],
+		["Johnston", "5inch Single Gun Mount Mk.30 Kai", "5inch Single Gun Mount Mk.30 Kai", "GFCS Mk.37"],
+		["Johnston", "5inch Single Gun Mount Mk.30 Kai", "5inch Single Gun Mount Mk.30 Kai"],
+		[]
 	]
 }

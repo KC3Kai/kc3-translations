@@ -1921,8 +1921,7 @@
         "code": "C29",
         "name": "Carrier Task Force, Commence Exercises!",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment",
-        "tracking": [ [0,4] ]
+        "memo": "\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment"
     },
     
     
@@ -2726,7 +2725,7 @@
         "code": "F83",
         "name": "Consolidation of the Naval Vessel Equipment Arsenal",
         "desc": "Have 3000 Steel. Scrap 5 Small Caliber Main Guns, 5 Large Caliber Main Guns and 5 Recon Seaplanes. Press F10 to clear the overlay",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR 2 Screws OR 5 Development Materials\n\u00B6Second choice: Either two Anti-Torpedo Bulges (Medium) OR an Anti-Torpedo Bulge (Large)"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR 2 Screws OR 5 Development Materials\n\u00B6Second choice: Either two Anti-Torpedo Bulges (Medium) OR an Anti-Torpedo Bulge (Large)"
     },
     
 
@@ -2760,6 +2759,19 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
+    },
+
+    "831": {
+        "code": "SB43",
+        "name": "Spring Naval Defense Action! Fleet, Set Sail!",
+        "desc": "Sortie a CL(T)/CT/AV/CVL as flagship, 4 DD/DE and up to 1 additional ship to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR four Buckets\n\u00B6Second choice: Either a Furniture Fairy OR a Mamiya"
+    },
+    "832": {
+        "code": "SB44",
+        "name": "It's Spring! Sortie, DesDiv 31 Flagship Naganami!",
+        "desc": "Sortie Naganami as flagship, any 3 of DesDiv31 and up to 2 additional ships to [W2-1] and [W2-2]. S-Rank each boss node twice. Sortie to [W5-4]. S-Rank the boss node. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nDesDiv 31 members include Asashimo, Kishinami, Okinami and Takanami.\n\u27a3Rewards:\n\u00B6First choice: Either a Present Box OR three Furniture Boxes (Large)\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR a Medal OR an Action Report"
     }
 
 }

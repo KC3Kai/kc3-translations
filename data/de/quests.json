@@ -863,7 +863,7 @@
     },
     "839": {
         "name": "Sende eine Schlachtschiff Division aus!",
-        "desc": "Sende ein (F)BB(V) als Flaggschiff, 1 weites (F)BB(V) und bis zu 4 weitere Schiffe nach [W3-3]. S-Rang den Boss knoten. Du musst nach Abschluss eine Belohnung wählen. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Sende ein (F)BB(V) als Flaggschiff, 1 weites (F)BB(V) und bis zu 4 weitere Schiffe nach [W3-3]. S-Rang den Boss knoten. Du musst nach Abschluss eine Belohnung wählen. Overlay: F10.",
         "memo": "\u27a3Belohnungen: '2 Schrauben' und entweder 'Typ-2-Katapultjäger Kai' ODER 'PBY-5A Catalina'"
     },
     "840": {
@@ -932,8 +932,8 @@
         "memo": "\u27a3Belohnungen: '2 Irako' und 'Möbelfee'"
     },
     "855": {
-		    "name": "Strebe danach die Logistik der Küsten Wache zu stärke!",
-        "desc": "Sende mindestens 3 DD/DE nach [W1-3], [W1-4], [W1-5] und [W1-6]. S-Rang den Boss knoten jeder Karte bei der möglich ist. Erreiche knoten N von [W1-6] einmal.",
+		"name": "Verbessere die Logistik der Küsten Wache",
+        "desc": "Sende mindestens 3 DD/DE nach [W1-3], [W1-4], [W1-5] und [W1-6]. S-Rang den Boss knoten jeder Karte bei der es möglich ist. Erreiche knoten N von [W1-6] einmal.",
         "memo": "\u27a3Belohnung: 'Möbelfee'"
     },
     "856": {
@@ -998,7 +998,7 @@
     },
     "876": {
         "name": "Führe die Matsu Transport Operation durch!",
-        "desc": "Sende Tatsuta Kai oder Kai Ni als Flaggschiff und 3+ DE/DD nach [W1-4] und [W1-6]. A-Rang+ den [W1-4] Boss knoten zweimal. Erreiche [W1-6] knoten N zweimal. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Sende Tatsuta Kai oder Kai Ni als Flaggschiff und 3+ DE/DD nach [W1-4] und [W1-6]. A-Rang+ den [W1-4] Boss knoten zweimal. Erreiche [W1-6] knoten N zweimal. Overlay: F10.",
         "memo": "Du kannst bis zu 2 weitere zusätzliche Schiffe einer beliebigen Klasse mitnehmen.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 'Material für neue Geschützturmmodelle' ODER 'Material für neue Flugzeugmodelle'\n\u00B6Zweitewahl: Entweder 'Möbelfee' ODER 'Daihatsu-Landungsboot' ODER 'Schlachtbericht'"
     },
     "877": {
@@ -1348,7 +1348,7 @@
     },
     "317": {
 		"name": "Projekt um die Typ-A Zerstörer kampfbereit zu machen",
-        "desc": "Sichere 3 S-Ränge in Übungsgefechten mit 2+ Kagerou-Klasse oder Yuugumo-Klasse DDs. Dann sende die Flotte nach [W2-2], [W2-3], [W2-4] und [W2-5]. A-Rang+ die Boss knoten. Overlay: F10.",
+        "desc": "Sichere 3 S-Ränge in Übungen mit 2+ Kagerou-Klasse oder Yuugumo-Klasse DDs. Dann sende die Flotte nach [W2-2], [W2-3], [W2-4] und [W2-5]. A-Rang+ die Boss knoten. Overlay: F10.",
         "memo": "Benutzte die oben genannten Zerstörer für ebenfalls für [W2] Einsätze .\nDu kannst bis zu 4 weitere Schiffe benutzten.\nDu musst die Erste Flotte benutzten.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 'Schlachtbericht' ODER 'Möbelfee'\n\u00B6Zweitewahl: Entweder '5x Eimer' ODEr '2x Feldrationen'"
     },
     "318": {
@@ -1404,7 +1404,7 @@
     },
     "330": {
         "name": "Flugzeugträger-Einsatzflotte führt Übungsgefechte durch!",
-        "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben während du ein CV(L/B) als Flaggschiff, 1 weitren CV(L/B), 2 DD und bis zu 2 weietre Schiffe benutzt. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Sichere 4 Siege in Übungsgefechten innerhalb des selben während du ein CV(L/B) als Flaggschiff, 1 weitren CV(L/B), 2 DD und bis zu 2 weitere Schiffe benutzt. Overlay: F10.",
         "memo": "\u00B6Erstewahl: Entweder 4x 'Typ-99 Sturzflugbomber' ODER 2x 'Suisei' ODER 3x 'Entwicklungsmaterial'\n\u00B6Zweitewahl: Entweder 3x 'Typ-0-Jagdflugzeug Modell 21' ODER 2x 'Typ-0-Jagdflugzeug Modell 52' ODER 1x 'Seeversorgung'"
     },
 
@@ -2034,12 +2034,12 @@
 
     "831": {
         "name": "Frühlings Marine Verteidigungs Einsatz! Flotte, Segel setzen!",
-        "desc": "Sende ein CL(T)/CT/AV/CVL als Flaggschiff, 4 DD/DE und bis zu 1 weiteres Schiffnach[W1-1], [W1-2], [W1-3] und [W1-4]. S-Rang jeweils die Boss Knoten. Drücke F10 um das Overlay zu verbergen.",
+        "desc": "Sende ein CL(T)/CT/AV/CVL als Flaggschiff, 4 DD/DE und bis zu 1 weiteres Schiff nach[W1-1], [W1-2], [W1-3] und [W1-4]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 2x 'Irako' ODER 4x 'Eimer'\n\u00B6Zweitewahl: Entweder 1x 'Möbelfee' ODER 1x 'Mamiya'"
     },
     "832": {
         "name": "Es ist Frühling! DesDiv 31 Flaggschiff Naganami, Bereit machen zum Auslaufen!",
-        "desc": "Sende Naganami als Flaggschiff, 3 beliebige DesDiv31 Schiffe und bis zu 2 weietre Schiffe nach [W2-1] und [W2-2]. S-Rang jeweils die Boss Knoten ZWEIMAL. Sende die Flotte nach [W5-4]. A-Rang+ den Boss Knoten. Overlay: F10",
+        "desc": "Sende Naganami als Flaggschiff, 3 DesDiv31 Schiffe und bis zu 2 weitere Schiffe nach [W2-1],[W2-2] und [W5-4]. S-Rang die [W2] Boss Knoten ZWEIMAL und A-Rang+ den [W5-4] Knoten. Overlay: F10",
         "memo": "Zu den DesDiv 31 Mitgliedern gehören: Asashimo, Kishinami, Okinami und Takanami.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 1x 'Geschenkbox' ODER 3x 'Möbelmünzenbox (Groß)'\n\u00B6Zweitewahl: Entweder 2x 'Material für neue Geschützturmmodelle' ODER 1x 'Medaille' ODER 1x 'Schlachtbericht'"
     }
 

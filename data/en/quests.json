@@ -1473,6 +1473,19 @@
         "desc": "Sortie Mutsu Kai Ni and Nagato Kai Ni as the first two ships in Fleet 1 along with any other ships to [W2-5], [W5-5] and [W6-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a 41cm Twin Gun Mount Kai Ni and either a New Model Artillery Armament Materials OR 5 Screws OR a Prototype 46cm Twin Gun Mount"
     },
+    "896": {
+        "code": "B131",
+        "name": "Aviation Battleship Division, on Combat Patrol!",
+        "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either an Action Report OR two more Medals",
+        "unlock": [ 897 ]
+    },
+    "897": {
+        "code": "B132",
+        "name": "Supreme 4th Carrier Division, Sortie!",
+        "desc": "Sortie Hyuuga Kai Ni, Ise Kai Ni and up to 4 additional ships to [W4-5], [W5-5] and [W6-5]. S-Rank each boss node once. Reach [W1-6] node N twice. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Zuiun Kai Ni (634 Air Group) and either an S-51J OR two Medals"
+    },
 
 
     "201": {
@@ -1765,7 +1778,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 689, 890 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 689, 832, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -1836,7 +1849,7 @@
         "memo": "\u27a3Rewards a Mamiya"
     },
     "315": {
-        "code": "C19",
+        "code": "C30",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -1915,7 +1928,7 @@
         "code": "C27",
         "name": "Elite 17th Destroyer Division, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards a Maimiya and either a Type 2 Depth Charge OR a Reinforcement Expansion"
+        "memo": "\u27a3Rewards a Mamiya and either a Type 2 Depth Charge OR a Reinforcement Expansion"
     },
     "330": {
         "code": "C29",
@@ -1923,6 +1936,13 @@
         "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment",
         "tracking": [ [0,4] ]
+    },
+    "331": {
+        "code": "C31",
+        "name": "Carrier-Based Aircraft Exercises",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using a CV(B) flagship, 1 other CV(B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards a Suisei Model 12A and either a New Model Aviation Armament Materials OR three Suisei OR six Development Materials",
+        "unlock": [ 694, 695 ]
     },
     
     
@@ -2151,7 +2171,7 @@
         "name": "Daily Development 1",
         "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
         "memo": "\u203bOrders to Develop New Equipment",
-        "unlock": [ 606, 679, 680 ],
+        "unlock": [ 606, 679, 680, 693 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -2728,7 +2748,32 @@
         "desc": "Have 3000 Steel. Scrap 5 Small Caliber Main Guns, 5 Large Caliber Main Guns and 5 Recon Seaplanes. Press F10 to clear the overlay",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR 2 Screws OR 5 Development Materials\n\u00B6Second choice: Either two Anti-Torpedo Bulges (Medium) OR an Anti-Torpedo Bulge (Large)"
     },
-    
+    "693": {
+        "code": "F84",
+        "name": "Rotorcraft Development",
+        "desc": "Have 3000 Bauxite and 20 Development Materials. Scrap 4 Recon Seaplanes, 3 Fighter Aircraft and 2 Torpedo Bombers. Press F10 to clear the overlay",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two New Model Aviation Armament Materials OR an O Type Observation Autogyro Kai",
+        "unlock": [ 694, 695 ]
+    },
+    "694": {
+        "code": "F85",
+        "name": "Research on a New Model of Aviation Rigging",
+        "desc": "Have 8500 Steel, 4000 Bauxite and 60 Development Materials. Scrap 4 Zuiun, 4 Suisei and 2 Ryuusei. Press F10 to clear the overlay",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Prototype Flight Deck Catapult OR three New Model Aviation Armament Materials",
+        "unlock": [ 897 ]
+    },
+    "695": {
+        "code": "F86",
+        "name": "New Operations Research on the Suisei Dive Bomber",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is Ise Kai Ni or Hyuuga Kai Ni equipped with a Suisei Model 12A.",
+        "memo": "Have 2500 Ammo, 5000 Bauxite and 1 New Model Aviation Armament Materials.\nSet Ise Kai Ni or Hyuuga Kai Ni as flagship.\nEquip an unlocked Suisei Model 12A in her first slot.\nScrap 4 Suisei, 3 Type 99 Dive Bombers and 2 Zuiun.\n\u2718Consumes the resources, items and equipment.\n\u27a3Rewards a Suisei Model 12 (634 Air Group w/Type 3 Cluster Bombs)"
+    },
+    "696": {
+        "code": "F87",
+        "name": "Formation of the Supreme Zuiun Squadron",
+        "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is Ise Kai Ni or Hyuuga Kai Ni equipped with a \u2605max Zuiun Kai Ni (634 Air Group).",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nHave 2000 Ammo, 8000 Bauxite, 1 New Model Aviation Armament Materials and 2 Skill Crew Members.\nSet Ise Kai Ni or Hyuuga Kai Ni as flagship.\nEquip an unlocked \u2605max Zuiun Kai Ni (634 Air Group) in her first slot.\nScrap 6 Zuiun, 3 Suisei and 1 Prototype Reppuu Late Model.\n\u2718Consumes the resources, items and equipment.\n\u27a3Rewards a Zuiun Kai Ni (634 Air Group / Skilled)"
+    },
 
     "701": {
         "code": "G1",

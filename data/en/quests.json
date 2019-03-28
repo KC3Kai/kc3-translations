@@ -1477,7 +1477,8 @@
         "code": "B131",
         "name": "Aviation Battleship Division, on Combat Patrol!",
         "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either an Action Report OR two more Medals"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either an Action Report OR two more Medals",
+        "unlock": [ 897 ]
     },
 
 
@@ -1771,7 +1772,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 689, 890 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 689, 832, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -1934,7 +1935,8 @@
         "code": "C31",
         "name": "Carrier-Based Aircraft Exercises",
         "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using a CV(B) flagship, 1 other CV(B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards a Suisei Model 12A and either a New Model Aviation Armament Materials OR three Suisei OR six Development Materials"
+        "memo": "\u27a3Rewards a Suisei Model 12A and either a New Model Aviation Armament Materials OR three Suisei OR six Development Materials",
+        "unlock": [ 694, 695 ]
     },
     
     
@@ -2163,7 +2165,7 @@
         "name": "Daily Development 1",
         "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
         "memo": "\u203bOrders to Develop New Equipment",
-        "unlock": [ 606, 679, 680 ],
+        "unlock": [ 606, 679, 680, 693 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -2744,13 +2746,15 @@
         "code": "F84",
         "name": "Rotorcraft Development",
         "desc": "Have 3000 Bauxite and 20 Development Materials. Scrap 4 Recon Seaplanes, 3 Fighter Aircraft and 2 Torpedo Bombers. Press F10 to clear the overlay",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two New Model Aviation Armament Materials OR an O Type Observation Autogyro Kai"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either two New Model Aviation Armament Materials OR an O Type Observation Autogyro Kai",
+        "unlock": [ 694, 695 ]
     },
     "694": {
         "code": "F85",
         "name": "Research on a New Model of Aviation Rigging",
         "desc": "Have 8500 Steel, 4000 Bauxite and 60 Development Materials. Scrap 4 Zuiun, 4 Suisei and 2 Ryuusei. Press F10 to clear the overlay",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Prototype Flight Deck Catapult OR three New Model Aviation Armament Materials"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Prototype Flight Deck Catapult OR three New Model Aviation Armament Materials",
+        "unlock": [ 897 ]
     },
     "695": {
         "code": "F86",

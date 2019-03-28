@@ -858,7 +858,7 @@
         "2@Leyte": "The next battle looks like it will be hard, Ise.",
         "16@Leyte": "I'm going to pay you back for that. Here it comes!",
         "3@Leyte": "Aviation Battleship Hyuuga, I won't... mess up in the fight for air superiority!",
-        "19@Leyte": "Ah, not bad. But I can still do battle manoeuvres.",
+        "19@Leyte": "Ah, not bad. But I can still do combat manoeuvres.",
         "2@Homecoming": "Ise, well, the most important thing is we got back safely.",
         "4@Sasebo": "Ise is from Sasebo and I'm from Maizuru... Hmm, what was that? Ah, it certainly is comforting. The final front line was also here.",
         "2@WhiteDay2018": "Huh, aren't you dutiful. A return gift? I accept.",
@@ -869,11 +869,14 @@
         "2@Fall2018": "Oooh, this festival isn't bad. Let's have fun once in a while, Ise."
     },
     "88": {
-        "Intro": "Ise-class Aviation Battleship, Hyuuga... Pushing forward.",
+        "Intro": "I'm the Ise-class aviation battleship, Hyuuga. I'll show you what an aviation battleship can really do after being remodelled. Let's go.",
+        "IntroOld": "Ise-class Aviation Battleship, Hyuuga... Pushing forward.",
         "Library": "I'm Hyuuga. I got the ability of carrying aircrafts, and now I am an aviation battleship. I fought bravely in Battle of Leyte Gulf. An operation of transporting tactical goods \"Operation Hoku-Go\", it is one with a lot of memories for me. Ah yes, JMSDF's DDH \"Hyuuga\" succeeds to my name.",
-        "Poke(1)": "Oh... It's you. You're still here.",
-        "Poke(2)": "Looks like the days of plain-old battleship is over.",
+        "Poke(1)": "Ah, this remodelled flight deck? You know, this flight deck... Eh, you didn't need to know more?",
+        "Poke(1)Old": "Oh... It's you. You're still here.",
+        "Poke(2)": "Looks like the days of plain-old battleships are over.",
         "Poke(3)": "What's this \"first escort flotilla\"\u2026?",
+        "Idle": "Ah, I'm not really bored. I have Zuiun maintenance to do. Yes, on the Zuiun.",
         "Married": "Yeah... I expected that.",
         "Wedding": {
             "0": "Aviation Battleship...",
@@ -901,6 +904,20 @@
         "Damaged(2)": "N, not bad...",
         "Damaged(3)": "Ugh... I wouldn't want Ise to see me like this.",
         "Sunk": "Even if I get heavily damaged and sunk to the bottom of the sea, it is inside Kure naval base that I'll accept this fate, I surely decided so, but\u2026 it cannot be helped."
+    },
+    "554": {
+        "Intro": "I'm the remodelled aviation battleship, Hyuuga. Yes, I've strengthened my aviation equipment even more. What's that? Don't you worry. I can still use Zuiun. Let's go.",
+        "Poke(1)": "You don't need to worry, because I'm a part of this carrier group.",
+        "Poke(3)": "That's right, it's important to be on anti-air and anti-submarine alert. Mmm.",
+        "Idle": "You think so too, Admiral? You've finally realised how useful aviation battleships can be? Oh, that is great news. Yes, we have a lot we need to talk about.",
+        "Equip(1)": "Yes, I see.",
+        "Equip(2)": "Is that so? Well, I guess so.",
+        "Battle": "Hyuuga Air Wing, begin takeoff.",
+        "Yasen(2)": "I’ll pay you back for that. Here I come.",
+        "Yasen(1)": "It's time for the attack following the daytime airstrike and shelling. This is the decisive blow.",
+        "Damaged(1)": "Ah, not bad. But I can still do combat manoeuvres.",
+        "Damaged(2)": "Evasive manoeuvres! Starboard! Hard to starboard!",
+        "Damaged(3)": "Urgh, they've damaged my aviation equipment? My battleship equipment still works. I can still keep going!"
     },
     "26": {
         "Intro": "Of the two Fusou-class super-dreadnought battleships, I am the elder sister, Fusou. Please take care of me and my younger sister Yamashiro.",

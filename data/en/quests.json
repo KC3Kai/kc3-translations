@@ -72,7 +72,7 @@
         "code": "A18",
         "name": "Arrange Both of the Ise-class Battleship Sisters!",
         "desc": "Have Ise and Hyuuga in your main fleet.",
-        "unlock": [ 153 ]
+        "unlock": [ 153, 896 ]
     },
     "113": {
         "code": "A13",
@@ -1360,7 +1360,8 @@
         "code": "B110",
         "name": "Execute a Combat Patrol of the Northern Region!",
         "desc": "Sortie a CL, an AV, a CVL and up to 3 additional ships to [W3-5]. S-Rank the boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Present Box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards a Present Box and either 2 Shiden Kai Ni OR 4 Screws OR a New Model Aviation Armament Materials",
+        "unlock": [ 692 ]
     },
     "876": {
         "code": "B111",
@@ -1476,7 +1477,7 @@
     "896": {
         "code": "B131",
         "name": "Aviation Battleship Division, on Combat Patrol!",
-        "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2-M]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either an Action Report OR two more Medals",
         "unlock": [ 897 ]
     },
@@ -1834,7 +1835,7 @@
         "code": "C9",
         "name": "Landing Force Exercises",
         "desc": "Secure 4 victories in Exercises within the same day.",
-        "unlock": [ 636 ]
+        "unlock": [ 330, 636 ]
     },
     "313": {
         "code": "C26",
@@ -1943,7 +1944,7 @@
         "name": "Carrier-Based Aircraft Exercises",
         "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using a CV(B) flagship, 1 other CV(B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards a Suisei Model 12A and either a New Model Aviation Armament Materials OR three Suisei OR six Development Materials",
-        "unlock": [ 694, 695 ]
+        "unlock": [ 695 ]
     },
     
     
@@ -2180,7 +2181,7 @@
         "name": "Daily Construction 1",
         "desc": "Construct a ship.",
         "memo": "\u203bOrders to Construct a New Ship",
-        "unlock": [ 607 ],
+        "unlock": [ 607, 896 ],
         "tracking": [ [0,1] ]
     },
     "607": {
@@ -2681,7 +2682,7 @@
         "name": "The Kaiboukan Consolidation Plan",
         "desc": "Have 500 Fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR four Development Materials OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either DE Etorofu OR DE Matsuwa",
-        "unlock": [ 322, 430, 685 ]
+        "unlock": [ 322, 430, 685, 693 ]
     },
     "683": {
         "code": "F74",

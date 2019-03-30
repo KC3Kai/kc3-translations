@@ -72,7 +72,7 @@
         "code": "A18",
         "name": "Arrange Both of the Ise-class Battleship Sisters!",
         "desc": "Have Ise and Hyuuga in your main fleet.",
-        "unlock": [ 153 ]
+        "unlock": [ 153, 896 ]
     },
     "113": {
         "code": "A13",
@@ -2181,7 +2181,7 @@
         "name": "Daily Construction 1",
         "desc": "Construct a ship.",
         "memo": "\u203bOrders to Construct a New Ship",
-        "unlock": [ 607 ],
+        "unlock": [ 607, 896 ],
         "tracking": [ [0,1] ]
     },
     "607": {

@@ -524,7 +524,6 @@
 	"TsunDBTestWrongSetupTitle": "Ausrüstungs Anforderungen nicht erfüllt",
 	"TsunDBTestWrongSetupMessage": "Bitte stelle sicher das du die Anforderungen an das Schiffs level erfüllst, Bitte rüste zu dem nur Test Relevante Ausrüstung aus und erfülle (Sofern gegeben) die Genauigkeits Anforderungen. Dieser Test benötigt gegebenenfalls die neueste Version von KC3Kai.",
 	
-	
 	"BackupReminderTitle" : "Backup Erinnerung",
 	"BackupReminderMessage" : "Es sind {0} Tage vergangen seit deinem letzten Backup.",
 	"BackupReminderLink" : "Drücke hier um ein Backup zu erstellen",
@@ -830,6 +829,12 @@
 	"FitWeightTotal" : "Beschussgenauigkeit:",
 	"EquipOaswMessage" : "Kann ASW Erstschlag ausführen",
 	"EquipOaswPower" : "Pre-Cap Basis Stärke:",
+	
+	"SurfaceRadar" : "Belibiges Oberflächenrader",
+	"AirRadar" : "Belibiges Luftradar",
+	"TripleTorpedo" : "61cm Drillings ODER Drilings (Sauerstoff) Torpedos",
+	"TripleTorpedoOxygenLateModel" : "61cm Drillings (Sauerstoff) Torpedos ODER Spätes Modell",
+	"QuadrupleTorpedoOxygenLateModel" : "61cm Vierlings (Sauerstoff) Torpedos ODER Spätes Modell",
 	
 	"PvpListTitle" : "PvP Gegner",
 	"PvpListCreateType0" : "Übungs Flotte [1te Gruppe]",

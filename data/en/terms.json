@@ -319,6 +319,14 @@
 	"SettingsIdleWarnDesc" : "Time in seconds before idle screen shows, 0 for disable.",
 	"SettingsRscCapWarnFrom" : "Warn Resources Cap From",
 	
+	"SettingsReminder": "Reminder",
+	"SettingsReminderRefreshStart": "Refresh reminder start after",
+	"SettingsReminderRefreshStartDesc": "Show reminder after specific time, 0 = disable",
+	"SettingsReminderRefreshRepeat": "Refresh reminder repeat interval",
+	"SettingsReminderRefreshRepeatDesc": "Show reminder every specific time after first one, 0 = disable",
+	"SettingsReminderRefreshPopupTitle": "Refresh Reminder",
+	"SettingsReminderRefreshPopupMessage": "Please refresh your game ASAP or it might crash 😥.",
+	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	"SettingsScreenBlur" : "Screen Blur (Old mode)",
 	"SettingsScreenBlood" : "Screen Blood (Old mode)",

@@ -319,14 +319,6 @@
 	"SettingsIdleWarnDesc" : "Zeit, in Sekunden, bis der Untätigkeits Screen angezeigt wird, 0 zum Abschalten.",
 	"SettingsRscCapWarnFrom" : "Ressourcen Cap Warnung ab",
 	
-	"SettingsReminder": "Erinnerung",
-	"SettingsReminderRefreshStart": "Aktualisierungs Erinnerung starten nach",
-	"SettingsReminderRefreshStartDesc": "Erinnerung nach einer gewissen Zeit anzeigen, 0 = Inaktiv",
-	"SettingsReminderRefreshRepeat": "Aktualisierungs Erinnerung wiederholungs Interval",
-	"SettingsReminderRefreshRepeatDesc": "Zeige Erinnerung immer zu einem gewissen Zeitpunkt nach der Ersten, 0 = Inaktiv",
-	"SettingsReminderRefreshPopupTitle": "Aktualisierungs Erinnerung",
-	"SettingsReminderRefreshPopupMessage": "Bitte aktualisiere den Spiel-Tab so bald wie möglich, ansonsten könnte das Spiel abstürzen 😥.",
-	
 	"SettingsTaihaAlert" : "Lästige Taiha-Benachrichtigung",
 	"SettingsScreenBlur" : "Trüber Schirm (Alter Modus)",
 	"SettingsScreenBlood" : "Blutiger Schirm (Alter Modus)",
@@ -419,6 +411,11 @@
 	"SettingsPanelBoxBackColor" : "Hintergrundfarbe",
 	"SettingsPanelCustomCSS" : "Eigene CSS Einstellungen",
 	"SettingsPanelCustomCSSTip" : "Gültige CSS3 Deklarationen. Bitte nicht ändern sofern du dich nicht mit CSS und KC3 Quellen auskennst. Änderungen werden sofort angezeigt. Nicht Vergessen, manchmal wird '!important' gebraucht um die Standard Einstellungen zu überschreiben.",
+	
+	"SettingsPanelReloadReminderStart": "Aktualisierungs Erinnerung starten nach",
+	"SettingsPanelReloadReminderStartTip": "Erinnerung nach einer gewissen Zeit anzeigen um die Chrome Devtools neuzustarten um Speicher freizugeben der vom Spiel benutzt wird, 0 = Inaktiv",
+	"SettingsPanelReloadReminderStartRepeat": "Aktualisierungs Erinnerung wiederholungs Interval",
+	"SettingsPanelReloadReminderStartRepeatTip": "Zeige Erinnerung immer zu einem gewissen Zeitpunkt nach der Ersten, 0 = Nur einmal",
 	
 	"SettingsChuuiWarningDangerousFeature" : "Möchtest du das wirklich?\nKC3改 übernimmt keine Verantwortung für Folgen dieses Features\n\nSei dir sicher was du tust.",
 	"SettingsErrorNG" : "Gespeichert!",
@@ -535,6 +532,9 @@
 	"BackupReminderTitle" : "Backup Erinnerung",
 	"BackupReminderMessage" : "Es sind {0} Tage vergangen seit deinem letzten Backup.",
 	"BackupReminderLink" : "Drücke hier um ein Backup zu erstellen",
+	
+	"PanelReloadReminderTitle": "Aktualisierungs Erinnerung",
+	"PanelReloadReminderMessage": "Bitte aktualisiere den Spiel-Tab so bald wie möglich, ansonsten könnte das Spiel abstürzen 😥  <br>Protip: Du kannst nur Devtools Konsole schließen; zu den Docks in-game wechseln; und daraufhin die Devtools Konsole erneut öffnen und dann den Hauptbildschirm Öffnen ..",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Langsam",

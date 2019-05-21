@@ -407,6 +407,11 @@
 	"SettingsPanelCustomCSS" : "CSSカスタマイズ",
 	"SettingsPanelCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。一部のCSSに`!important`をつけるのを忘れないでね。",
 
+	"SettingsPanelReloadReminderStart" : "再起動リマインダーまで",
+	"SettingsPanelReloadReminderStartTip" : "ゲームクラッシュを防ぐために、指定時間の後にChrome devtoolsの再起動リマインダーを表示する。0にすると無効になります。",
+	"SettingsPanelReloadReminderStartRepeat" : "再起動リマインダーリピート",
+	"SettingsPanelReloadReminderStartRepeatTip" : "指定時間の毎に再起動リマインダーを表示する。0にすると一度きりになります。",
+
 	"SettingsStrategyRoom" : "戦闘指揮所",
 	"SettingsStrategyTheme" : "テーマ",
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
@@ -520,6 +525,9 @@
 	"BackupReminderTitle"   : "バックアップリマインダー",
 	"BackupReminderMessage" : "前回のKC3改データバックアップから{0}日経ちました。",
 	"BackupReminderLink"    : "ここをクリックしてバックアップしよう",
+
+	"PanelReloadReminderTitle" : "パネル再起動リマインダー",
+	"PanelReloadReminderMessage" : "なるべく早くゲームを再起動してください。さもなければゲームがクラッシュしかねませんよ😥",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

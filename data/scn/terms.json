@@ -475,7 +475,10 @@
 	"SettingsPanelCustomCSS" : "自定义CSS样式",
 	"SettingsPanelCustomCSSTip" : "使用合法的CSS3语法定制信息面板样式。如果你不熟悉CSS及KC3改源码，请不要改动。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
-	"SettingsLegacyPanel" : "面板（旧主题）",
+	"SettingsPanelReloadReminderStart" : "面板重启提醒开始于",
+	"SettingsPanelReloadReminderStartTip" : "为防止游戏标签因内存溢出而崩溃，在设定时间之后弹出重启Chrome devtools面板的提醒。设为0关闭此功能。",
+	"SettingsPanelReloadReminderStartRepeat" : "反复面板重启提醒每",
+	"SettingsPanelReloadReminderStartRepeatTip" : "设置每若干分钟重复弹出重启提醒。设为0表示只提醒一次。",
 
 	"SettingsChuuiWarningDangerousFeature" : "确定更改？\n接下来你所做的一切“KC3改”概不负责。\n\n请确保知晓后果。",
 	"SettingsErrorNG" : "已保存",
@@ -596,6 +599,9 @@
 	"BackupReminderTitle": "数据备份提醒",
 	"BackupReminderMessage": "自从上次备份KC3改的数据有 {0} 天已经过去了。",
 	"BackupReminderLink": "点此在作战指挥所备份数据",
+
+	"PanelReloadReminderTitle" : "面板重启提醒",
+	"PanelReloadReminderMessage" : "请尽快重启游戏以防止内存溢出崩溃😥<br>也可以只重开devtools：在关闭面板后进一次游戏的改装或入渠再重开面板。",
 
 	"HQText" : "司令部",
 	"HQAdmiralLv"  : "提督",

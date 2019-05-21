@@ -319,6 +319,14 @@
 	"SettingsIdleWarnDesc" : "Zeit, in Sekunden, bis der Untätigkeits Screen angezeigt wird, 0 zum Abschalten.",
 	"SettingsRscCapWarnFrom" : "Ressourcen Cap Warnung ab",
 	
+	"SettingsReminder": "Erinnerung",
+	"SettingsReminderRefreshStart": "Aktualisierungs Erinnerung starten nach",
+	"SettingsReminderRefreshStartDesc": "Erinnerung nach einer gewissen Zeit anzeigen, 0 = Inaktiv",
+	"SettingsReminderRefreshRepeat": "Aktualisierungs Erinnerung wiederholungs Interval",
+	"SettingsReminderRefreshRepeatDesc": "Zeige Erinnerung immer zu einem gewissen Zeitpunkt nach der Ersten, 0 = Inaktiv",
+	"SettingsReminderRefreshPopupTitle": "Aktualisierungs Erinnerung",
+	"SettingsReminderRefreshPopupMessage": "Bitte aktualisiere den Spiel-Tab so bald wie möglich, ansonsten könnte das Spiel abstürzen 😥.",
+	
 	"SettingsTaihaAlert" : "Lästige Taiha-Benachrichtigung",
 	"SettingsScreenBlur" : "Trüber Schirm (Alter Modus)",
 	"SettingsScreenBlood" : "Blutiger Schirm (Alter Modus)",

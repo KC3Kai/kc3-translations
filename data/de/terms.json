@@ -412,6 +412,11 @@
 	"SettingsPanelCustomCSS" : "Eigene CSS Einstellungen",
 	"SettingsPanelCustomCSSTip" : "Gültige CSS3 Deklarationen. Bitte nicht ändern sofern du dich nicht mit CSS und KC3 Quellen auskennst. Änderungen werden sofort angezeigt. Nicht Vergessen, manchmal wird '!important' gebraucht um die Standard Einstellungen zu überschreiben.",
 	
+	"SettingsPanelReloadReminderStart": "Aktualisierungs Erinnerung starten nach",
+	"SettingsPanelReloadReminderStartTip": "Erinnerung nach einer gewissen Zeit anzeigen um die Chrome Devtools neuzustarten um Speicher freizugeben der vom Spiel benutzt wird, 0 = Inaktiv",
+	"SettingsPanelReloadReminderStartRepeat": "Aktualisierungs Erinnerung wiederholungs Interval",
+	"SettingsPanelReloadReminderStartRepeatTip": "Zeige Erinnerung immer zu einem gewissen Zeitpunkt nach der Ersten, 0 = Nur einmal",
+	
 	"SettingsChuuiWarningDangerousFeature" : "Möchtest du das wirklich?\nKC3改 übernimmt keine Verantwortung für Folgen dieses Features\n\nSei dir sicher was du tust.",
 	"SettingsErrorNG" : "Gespeichert!",
 	"SettingsErrorSuper" : "Ungültiger Wert!",
@@ -522,12 +527,14 @@
 	"TsunDBTestWrongMoraleTitle": "Moral Anforderungen nicht erfüllt",
 	"TsunDBTestWrongMoraleMessage": "Bitte überprüfe und stelle sicher das du die Moral Anforderungen erfüllst.",
 	"TsunDBTestWrongSetupTitle": "Ausrüstungs Anforderungen nicht erfüllt",
-	"TsunDBTestWrongSetupMessage": "Bitte stelle sicher das du die Anforderungen an das Schiffs level erfüllst, Bitte rüste zu dem nur Test Relevante Ausrüstung aus und erfülle (Sofern gegeben) die Genauigkeits Anforderungen. Dieser Test benötigt gegebenenfalls die neueste Version von KC3Kai.",
-	
+	"TsunDBTestWrongSetupMessage": "Bitte stelle sicher das du die Anforderungen an das Schiffs level erfüllst, Bitte rüste zu dem nur Test relevante Ausrüstung aus und erfülle (Sofern gegeben) die Genauigkeits Anforderungen. Dieser Test benötigt gegebenenfalls die neueste Version von KC3Kai.",
 	
 	"BackupReminderTitle" : "Backup Erinnerung",
 	"BackupReminderMessage" : "Es sind {0} Tage vergangen seit deinem letzten Backup.",
 	"BackupReminderLink" : "Drücke hier um ein Backup zu erstellen",
+	
+	"PanelReloadReminderTitle": "Aktualisierungs Erinnerung",
+	"PanelReloadReminderMessage": "Bitte aktualisiere den Spiel-Tab so bald wie möglich, ansonsten könnte das Spiel abstürzen 😥  <br>Protip: Du kannst nur die Devtools Konsole schließen; zu den Docks in-game wechseln; und daraufhin die Devtools Konsole erneut öffnen und dann wieder den Hauptbildschirm öffnen ..",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Langsam",
@@ -830,6 +837,12 @@
 	"FitWeightTotal" : "Beschussgenauigkeit:",
 	"EquipOaswMessage" : "Kann ASW Erstschlag ausführen",
 	"EquipOaswPower" : "Pre-Cap Basis Stärke:",
+	
+	"SurfaceRadar" : "Belibiges Oberflächenrader",
+	"AirRadar" : "Belibiges Luftradar",
+	"TripleTorpedo" : "61cm Drillings ODER Drilings (Sauerstoff) Torpedos",
+	"TripleTorpedoOxygenLateModel" : "61cm Drillings (Sauerstoff) Torpedos ODER Spätes Modell",
+	"QuadrupleTorpedoOxygenLateModel" : "61cm Vierlings (Sauerstoff) Torpedos ODER Spätes Modell",
 	
 	"PvpListTitle" : "PvP Gegner",
 	"PvpListCreateType0" : "Übungs Flotte [1te Gruppe]",

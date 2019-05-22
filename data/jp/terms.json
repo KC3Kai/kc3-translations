@@ -407,6 +407,11 @@
 	"SettingsPanelCustomCSS" : "CSSカスタマイズ",
 	"SettingsPanelCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。CSSとKC3改のソースコードをよく理解し、自己責任で書いてください。一部のCSSに`!important`をつけるのを忘れないでね。",
 
+	"SettingsPanelReloadReminderStart" : "再起動リマインダーまで",
+	"SettingsPanelReloadReminderStartTip" : "ゲームクラッシュを防ぐために、指定時間の後にChrome devtoolsの再起動リマインダーを表示する。0にすると無効になります。",
+	"SettingsPanelReloadReminderStartRepeat" : "再起動リマインダーリピート",
+	"SettingsPanelReloadReminderStartRepeatTip" : "指定時間の毎に再起動リマインダーを表示する。0にすると一度きりになります。",
+
 	"SettingsStrategyRoom" : "戦闘指揮所",
 	"SettingsStrategyTheme" : "テーマ",
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
@@ -520,6 +525,9 @@
 	"BackupReminderTitle"   : "バックアップリマインダー",
 	"BackupReminderMessage" : "前回のKC3改データバックアップから{0}日経ちました。",
 	"BackupReminderLink"    : "ここをクリックしてバックアップしよう",
+
+	"PanelReloadReminderTitle" : "パネル再起動リマインダー",
+	"PanelReloadReminderMessage" : "なるべく早くゲームを再起動してください。さもなければゲームがクラッシュしかねませんよ😥",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",
@@ -817,6 +825,12 @@
 	"FitWeightTotal"   : "昼砲戦のフィット補正値:",
 	"EquipOaswMessage" : "先制対潜攻撃可能になりました",
 	"EquipOaswPower"   : "キャップ前基本攻撃力:",
+
+	"SurfaceRadar"  : "水上電探(索敵+5以上)",
+	"AirRadar"      : "対空電探(対空+1以上)",
+	"TripleTorpedo" : "61cm三連装魚雷・61cm三連装(酸素)魚雷",
+	"TripleTorpedoOxygenLateModel"    : "61cm三連装(酸素)魚雷・後期型",
+	"QuadrupleTorpedoOxygenLateModel" : "61cm四連装(酸素)魚雷・後期型",
 
 	"PvpListTitle"       : "演習を挑む提督たち",
 	"PvpListCreateType0" : "演習艦隊【第一群】",

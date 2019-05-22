@@ -477,6 +477,11 @@
 	"SettingsMinutes" : "분",
 	"SettingsSeconds" : "초",
 
+	"SettingsPanelReloadReminderStart" : "재시작 알림 까지",
+	"SettingsPanelReloadReminderStartTip" : "메모리 부족으로 인한 강제 종료를 막기위해, 지정시간 후 Chrome devtools를 재시작 하기 위한 알림을 표시합니다. 0으로 하면 작동하지 않습니다.",
+	"SettingsPanelReloadReminderStartRepeat" : "재시작 알림 반복",
+	"SettingsPanelReloadReminderStartRepeatTip" : "지정시간마다 재시작 알림을 표시합니다. 0으로 하면 한번만 표시합니다.",
+
 	"SettingsStrategyRoom": "전략실",
 	"SettingsStrategyTheme": "전략실 테마",
 	"SettingsStrategyCustomCSS" : "CSS 커스터마이즈",
@@ -569,9 +574,12 @@
 	"TsunDBTestWrongSetupTitle"   : "테스트 필요조건이 충분하지 않습니다!",
 	"TsunDBTestWrongSetupMessage" : "출격전에 테스트에 필요한 함딸 레벨, 필요한 장비 등의 조건이 충분히 갖추어 졌는지 확인해 주세요. 최신 버전의 KC3가 필요합니다.",
 
-	"BackupReminderTitle" : "백업 리마인더",	
+	"BackupReminderTitle" : "백업 알림",	
 	"BackupReminderMessage" : "저번 KC3 백업에서 {0}일 지났습니다.",
 	"BackupReminderLink" : "여기를 클릭해서 백업을 하세요.",
+
+	"PanelReloadReminderTitle" : "패널 재시작 알림",
+	"PanelReloadReminderMessage" : "가능한 한 빨리 게임을 재시작 해주세요. 그렇지 않으면 강제 종료될 가능성이 있습니다.😥",
 
 	"SpeedLand": "지상",
 	"SpeedSlow": "저속",

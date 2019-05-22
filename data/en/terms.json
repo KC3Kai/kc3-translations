@@ -421,6 +421,11 @@
 	"SettingsPanelCustomCSS" : "Custom CSS",
 	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. Changes will be applied immediately on this field saved. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	
+	"SettingsPanelReloadReminderStart" : "Reload Reminder starts after",
+	"SettingsPanelReloadReminderStartTip" : "Show a reminder after specific time to reopen Chrome devtools panels in order to release memory taken by game tab process. 0 = disable",
+	"SettingsPanelReloadReminderStartRepeat" : "Reload Reminder repeats every",
+	"SettingsPanelReloadReminderStartRepeatTip" : "Show the reminder every specific time after first one, 0 = only once",
+	
 	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
 	"SettingsErrorSuper" : "Invalid value!",
@@ -524,7 +529,7 @@
 	
 	"Bomb201Title": "Game Error 201",
 	"Bomb201Message": "An Error 201 from the game API has occured. This may be because you're still logged in on another game client or it may be related to macro detection. Exercise caution if you see this repeatedly.",
-
+	
 	"TsunDBTestInactiveTitle": "Inactive test detected",
 	"TsunDBTestInactiveMessage": "Thank you for your help! The test you are contributing towards has received enough samples.",
 	"TsunDBTestLink": "Click here to check out other avaliable tests",
@@ -536,6 +541,9 @@
 	"BackupReminderTitle" : "Backup Reminder",
 	"BackupReminderMessage" : "It has been {0} days since your last backup.",
 	"BackupReminderLink" : "Click here to backup your data",
+	
+	"PanelReloadReminderTitle" : "Panel Reload Reminder",
+	"PanelReloadReminderMessage" : "Please restart your game ASAP or it might crash 😥 <br>Pro hint: you may just close devtools panel first; go to docking in-game; then reopen devtools and back to home port.",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Slow",
@@ -846,7 +854,7 @@
 	"AirRadar" : "Any Air Radar",
 	"TripleTorpedo" : "61cm Triple OR Triple (Oxygen) Torpedo Mount",
 	"TripleTorpedoOxygenLateModel" : "61cm Triple (Oxygen) Torpedo Mount OR Late Model",
-	"QuadrupleTorpedoOxygenLateModel" : "61cm Quad (Oxygen) Torpedo Mount OR Late Model", 
+	"QuadrupleTorpedoOxygenLateModel" : "61cm Quad (Oxygen) Torpedo Mount OR Late Model",
 	
 	"PvpListTitle" : "PvP Opponents",
 	"PvpListCreateType0" : "Exercise Fleet [1st Group]",

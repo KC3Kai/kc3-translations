@@ -498,9 +498,9 @@
 	"GameUpdateLink"     : "詳しくはここをクリックして「戦闘指揮所」で確認できます。",
 
 	"BossDebuffedTitle"   : "ギミック状態変化が検知されました！",
-	"BossDebuffedMessage" : "イベント海域ボスのギミック状態が変わったのを検知しました！<br/>{0}",
-	"BossDebuffedYes"     : "ギミック解除でボスが弱体化されたかもしれん！",
-	"BossDebuffedNo"      : "ギミック発動でボスの弱体化がリセットされたかもしれん！",
+	"BossDebuffedMessage" : "イベント海域のギミック状態が変わったのを検知しました！<br/>{0}",
+	"BossDebuffedYes"     : "新たなルートが解放されたか、ボスが弱体化されたかもしれん！",
+	"BossDebuffedNo"      : "ギミック再発動でボスの弱体化がリセットされたかもしれん！",
 
 	"PanelWaitActions"  : "母港まで表示させてください",
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">ここ</a>を参照して有効にしてください。",

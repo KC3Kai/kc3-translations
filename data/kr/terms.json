@@ -476,6 +476,9 @@
 	"SettingsHours" : "시간",
 	"SettingsMinutes" : "분",
 	"SettingsSeconds" : "초",
+ 
+	"SettingsPanelPvPFriends" : "연습전 우군 제독",
+	"SettingsPanelPvPFriendsTip" : "우군 제독을 추가합니다. 연습시 정보창의 제독명이 다른 색으로 표시됩니다. 또한, 제독명을 클릭해서 상태를 바꿀수가 있습니다. 추가나 삭제도 가능합니다.",
 
 	"SettingsPanelReloadReminderStart" : "재시작 알림 까지",
 	"SettingsPanelReloadReminderStartTip" : "메모리 부족으로 인한 강제 종료를 막기위해, 지정시간 후 Chrome devtools를 재시작 하기 위한 알림을 표시합니다. 0으로 하면 작동하지 않습니다.",
@@ -542,10 +545,10 @@
 	"GameUpdateEquips": "<strong>{0}종의 신규 장비</strong>가 확인되었습니다! 전략실에서 더욱 상세한 내용을 확인해보세요!",
 	"GameUpdateLink"     : "자세한 것은 여기를 클릭, '전략실'에서 확인해보세요.",
 
-	"BossDebuffedTitle"   : "기믹해제가 탐지되었습니다!",
-	"BossDebuffedMessage" : "이벤트 해역 보스의 기믹해제가 탐지되었습니다!<br/>{0}",
-	"BossDebuffedYes"     : "기믹해제로 보스가 약체화 되었습니다!",
-	"BossDebuffedNo"      : "기믹발동으로 보스의 약체화가 리셋 되었습니다!",
+	"BossDebuffedTitle"   : "기믹 해제가 탐지되었습니다!",
+	"BossDebuffedMessage" : "이벤트 해역의 기믹 해제가 탐지되었습니다!<br/>{0}",
+	"BossDebuffedYes"     : "기믹 해제로 새로운 루트가 개방되었거나, 보스가 약체화 되었습니다!",
+	"BossDebuffedNo"      : "기믹 재발동으로 보스의 약체화가 리셋 되었습니다!",
 
 	"CatBombServerCommErrorTitle": "서버 접속 실패",
 	"CatBombServerCommErrorMsg": "[{0}]을 서버로 전달하는 데에 실패했습니다. API 링크의 문제가 아니라 인터넷 접속 상황 혹은 환경의 문제입니다.",

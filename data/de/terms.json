@@ -420,6 +420,8 @@
 	"MoonSmallFont" : "Vergrößerter kleiner Text",
 	"SettingsPanelCustomCSS" : "Eigene CSS Einstellungen",
 	"SettingsPanelCustomCSSTip" : "Gültige CSS3 Deklarationen. Bitte nicht ändern sofern du dich nicht mit CSS und KC3 Quellen auskennst. Änderungen werden sofort angezeigt. Nicht Vergessen, manchmal wird '!important' gebraucht um die Standard Einstellungen zu überschreiben.",
+	"SettingsPanelPvPFriends" : "Hervorhebung von PvP Freunden",
+	"SettingsPanelPvPFriendsTip" : "Liste von Benutzernamen die im PvP Panel hervorgehoben werden sollen. Namen sollten durch Absätze getrennt sein. Außerdem ist es möglich im PvP Panel auf den Benutzernamen zu drücken um diesen hervorheben zu lassen.",
 	
 	"SettingsPanelReloadReminderStart": "Aktualisierungs Erinnerung starten nach",
 	"SettingsPanelReloadReminderStartTip": "Erinnerung nach einer gewissen Zeit anzeigen um die Chrome Devtools neuzustarten um Speicher freizugeben der vom Spiel benutzt wird, 0 = Inaktiv",
@@ -506,9 +508,9 @@
 	"GameUpdateLink" : "Klicke hier, um in der Operationszentrale mehr darüber zu lernen!",
 	
 	"BossDebuffedTitle"   : "Eine Änderung einer Spielmechanik  wurde erkannt!",
-	"BossDebuffedMessage" : "Eine Änderung in der Mechanik des Event Bosses wurde erkannt. {0}",
-	"BossDebuffedYes"     : "Ein Boss wurde gegebenenfalls debuffed!",
-	"BossDebuffedNo"      : "Ein Boss debuff wurde gegebenenfalls zurückgesetzt!",
+	"BossDebuffedMessage" : "Eine Änderung in der Mechanik der Map wurde erkannt. {0}",
+	"BossDebuffedYes"     : "Etwas wurde gegebenenfalls freigeschaltet!",
+	"BossDebuffedNo"      : "Etwas wurde gegebenenfalls zurückgesetzt!",
 	
 	"CatBombServerCommErrorTitle" : "Serverkommunikationsfehler",
 	"CatBombServerCommErrorMsg"   : "[{0}] konnte nicht mit dem Server kommunizieren. Hierbei handelt es sich höchstwahrscheinlich um einen Verbindungsfehler und nicht an deinem API Link.",

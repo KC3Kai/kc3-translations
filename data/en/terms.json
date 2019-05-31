@@ -420,8 +420,8 @@
 	"MoonSmallFont" : "Larger Small Text",
 	"SettingsPanelCustomCSS" : "Custom CSS",
 	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. Changes will be applied immediately on this field saved. Don't forget that sometimes `!important` is needed to overwrite defaults.",
-	"SettingsPanelPvPFriends" : "PvP friends highlighting",
-	"SettingsPanelPvPFriendsTip" : "List of usernames of friends to highlight in PvP panel. Names should be seperated with lines. You can also click on a name in the PvP panel to toggle friend highlighting for that player.",
+	"SettingsPanelPvPFriends" : "PvP Friends Highlighting",
+	"SettingsPanelPvPFriendsTip" : "List of user names of friends to be highlighted in PvP panel. Names should be seperated with lines. You can also click on a name in the PvP panel to toggle friend highlighting for that player.",
 	
 	"SettingsPanelReloadReminderStart" : "Reload Reminder starts after",
 	"SettingsPanelReloadReminderStartTip" : "Show a reminder after specific time to reopen Chrome devtools panels in order to release memory taken by game tab process. 0 = disable",

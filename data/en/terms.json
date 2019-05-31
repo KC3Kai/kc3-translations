@@ -506,9 +506,9 @@
 	"GameUpdateLink" : "Click here to learn more about this in the Strategy Room!",
 	
 	"BossDebuffedTitle"   : "A mechanism change has been detected!",
-	"BossDebuffedMessage" : "A change in event boss mechanics has been detected. {0}",
-	"BossDebuffedYes"     : "A boss may have been debuffed!",
-	"BossDebuffedNo"      : "A boss debuff may have been reset!",
+	"BossDebuffedMessage" : "A change in event map mechanics has been detected. {0}",
+	"BossDebuffedYes"     : "Something may have been unlocked!",
+	"BossDebuffedNo"      : "Something may have been reset!",
 	
 	"CatBombServerCommErrorTitle" : "Server Communication Error",
 	"CatBombServerCommErrorMsg"   : "[{0}] failed to communicate with the server. This was most likely a connectivity error and is unrelated to your API link.",

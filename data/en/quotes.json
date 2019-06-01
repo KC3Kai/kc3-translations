@@ -1741,7 +1741,7 @@
         "Damaged(2)": "Kyaaaah!",
         "Damaged(3)": "Oh my God! I've been hit? Look at what you've done now.",
         "Sunk": "Oh my... God... Someone like me is... sinking... into this sea? ...The water is cold... Cold and... dark...",
-		"SpCutin": "Colorado Squadron, full broadside! Open fire when you've confirmed your target! We'll destroy them in one shot. Fire!"
+        "SpCutin": "Colorado Squadron, full broadside! Open fire when you've confirmed the targets! We'll destroy them in one shot. Fire!"
     },
     "1496": {
         "Intro": "Hi, one of the Big Seven from the States, 1st ship of the Colorado-class battleships, USS Colorado, arriving on station. Admiral, make sure you stick real close to me today too. What do you say? OK!",
@@ -1765,7 +1765,7 @@
         "H1200": "It is noon. Come on, open it up. Well? It's my special sandwich lunch box! Isn't it grand? Help yourself.",
         "H1300": "It is 1. Would you like some coffee after your meal? OK.",
         "H1400": "It is 2. Now, can we do some exercises this afternoon?",
-        "H1500": "It is 3. Oh, Nelson! I'm fine.",
+        "H1500": "It is 3. Oh, Nelson! Are you doing fine?",
         "H1600": "It is 4. Right, double line... But, don't you think you shouldn't ignore echelon? You can face both forwards and broadside.",
         "H1700": "It is 5. The sun is sinking below the sea. It's beautiful. I like this magic hour. What about you?",
         "H1800": "It is 6. Now, I'll go get dinner ready. The menu will be New York cut steak. Just wait.",
@@ -5070,6 +5070,7 @@
         "Intro": "Admiral-san, thanks for your hard work. Kashima here. Let's do our best again today. I'm counting on you.",
         "Poke(1)": "Training cruiser, Kashima here! Ufufu\u266a",
         "Join": "Fourth fleet flagship Kashima, sortieing! Everyone, let's do our best!",
+        "Friend44(1)": "Yes! Kashima, charging in!",
         "H0000": "Admiral-san, for today, I, Kashima, will be undertaking the position of secretary ship. Fufu, I'm so happy.",
         "H0100": "It's 0100, Admiral-san. Fufufu. How fun\u266a ...Eh? \"What was that\", you asked? I-It was nothing... ehehe\u266a",
         "H0200": "It's 0200, Admiral-san. The night sure is long, isn't it. I'll make some tea, okay? Or is coffee better?",
@@ -8177,7 +8178,8 @@
         "Construction": "A new ship got launched, yep.",
         "Battle": "These single gun mounts are elegant in their own special way, y'know?",
         "Attack": "My 40 oxygen torpedo tubes aren't just for show!",
-        "Sunk": "I'd like to be... a carrier in my next life, pl... ease...<br />Hey, maybe a repair ship would work... ...ahaha..."
+        "Sunk": "I'd like to be... a carrier in my next life, pl... ease...<br />Hey, maybe a repair ship would work... ...ahaha...",
+        "Friend44(1)": "Squadron flagship, Kitakami. Now, beware of air raids, everyone. Shall we get going then?"
     },
     "24": {
         "Intro": "Hello. I'm Light Cruiser Ooi. Pleased to make your acquaintance.",
@@ -8284,7 +8286,8 @@
         "Construction": "Eh? A new ship? ...Tch, another nuisance. No, it's nothing.",
         "Sortie": "Now, I will strike with the true power of these wonderfully cold oxygen torpedoes!",
         "Battle": "I get all worked up when I hear about exchanging shells!",
-        "Attack": "Become scrap at the bottom of the sea!"
+        "Attack": "Become scrap at the bottom of the sea!",
+        "Friend44(1)": "A-are you ready?"
     },
     "101": {
         "Intro": "It's Kiso. I'll bestow upon you absolute victory.",
@@ -9264,7 +9267,8 @@
     },
     "307": {
         "Married": "Admiral, what the matter? You looked reddish. Taking care of yourself is important, you know. Hmm... You had slight fever. Right, I'll make you something nutritious. I'm off using Mamiya's kitchen for a while. Wait for me, okay?",
-        "Idle(2)": "Admiral\u2026 The fleet girls are complimenting you for your hard work, you know? ...he isn't listening..."
+        "Idle(2)": "Admiral\u2026 The fleet girls are complimenting you for your hard work, you know? ...he isn't listening...",
+        "Friend44(1)": "Fleet, line ahead. Let's go. Yahagi Torpedo Squadron, setting forth!"
     },
     "140": {
         "Intro": "Pyan\u266a The fourth Agano class Light Cruiser, Sakawa! Commander, nice to meet you!",
@@ -9341,7 +9345,8 @@
     },
     "314": {
         "Married": "You're always working hard, Commander! How admirable! Do you want me to give you a light shoulder massage? I'm good at it you know... Pyon! Pyan! How's that?",
-        "Idle(2)": "Commander, aren't you working a bit too hard? If you're tired, wanna have some rest together with Sakawa?"
+        "Idle(2)": "Commander, aren't you working a bit too hard? If you're tired, wanna have some rest together with Sakawa?",
+        "Friend44(1)": "I've practiced too. I think I can do this... Yahagi, Nagato, just watch. I'm sure I can do this!"
     },
     "183": {
         "Intro": "Admiral, light cruiser Ooyodo has entered the line of battle. Please entrust the fleet directives and administration to me.",
@@ -11695,7 +11700,9 @@
         "2@Xmas": "I can feel the strength of this poultry. So you call this \"turkey\"...? \u0445\u043e\u0440\u043e\u0448\u043e",
         "2@WhiteDay": "Commander, what's this? Return gift? Thank you. I'll take it."
     },
-    "235": {},
+    "235": {
+        "Friend44(1)": "Full speed ahead... Hurrah!"
+    },
     "147": {
         "Intro": "Hibi-<br />...I'm Verniy.<br />It's a name that means \"reliable\".",
         "Poke(1)": "Commander, are you alright?",
@@ -12086,7 +12093,8 @@
         "Poke(3)": "A-Admiral? Ahh, you're adjusting my RADAR, aren't you? How silly of me; thank you as always.",
         "Ranking": "Yes, our combat strategy is important. Say \"no\" to reckless plans! Right?",
         "Sortie": "A sortie, then? I'll brace myself and do my best!",
-        "Yasen(1)": "It's time to demonstrate the Torpedo Squadron's true power!"
+        "Yasen(1)": "It's time to demonstrate the Torpedo Squadron's true power!",
+        "Friend44(1)": "I won't let them do any more. I'll be your shield!"
     },
     "42": {
         "Intro": "First ship of the Shiratsuyu-class destroyers, 'Shiratsuyu'!. Yes, the first ship!",
@@ -13458,7 +13466,8 @@
         "16@Summer2018": "It's hard to move well dressed like this.",
         "11@Summer2018": "DON'T PEEK! YOU IDIOT!",
         "12@Summer2018": "DON'T PEEK! YOU IDIOT! ...Really, you're always like this.",
-        "5@Summer2018": "Ah, jeez, summer is really full of idiots!"
+        "5@Summer2018": "Ah, jeez, summer is really full of idiots!",
+        "Friend44(1)": "I've steeled myself. All that's left... is to do it! Let's go!"
     },
     "470": {
         "Poke(2)": "I can't stand backstabbers! I will only advance forward.",
@@ -13808,7 +13817,9 @@
         "2@Anniversary2018": "It's lady luck's 5th Anniversary, Co~ man~ der! I'm happy! Congratulations! We'll never sink, Commander!",
         "3@Anniversary2019": "Co-man-der, it's the 6th Anniversary. I'm happy too. Congratulations. We'll definitely be alright!"
     },
-    "228": {},
+    "228": {
+        "Friend44(1)": "Member of the 2nd Torpedo Squadron, Kagerou-class destroyer Yukikaze, charging in!"
+    },
     "181": {
         "Intro": {
             "0": "Is a good breeze on the way?",
@@ -14353,7 +14364,8 @@
         "Sortie": "Yahagi, DesDiv17, Hamakaze, reporting for duty.",
         "Battle": "Let's fight, bring it!",
         "Attack": "This the duty of a destroyer. Fleet, increase speed; we're charging in.",
-        "Sunk": "Urakaze, Isokaze, Tanikaze... I'm..I'm... going on ahead."
+        "Sunk": "Urakaze, Isokaze, Tanikaze... I'm..I'm... going on ahead.",
+        "Friend44(1)": "Hamakaze, acknowledging. There are no problems. I'm fully equipped and trained for this."
     },
     "169": {
         "Intro": "Admiral, I'm Tanikaze! I'll be in your care from now on.",
@@ -16396,7 +16408,7 @@
         "Poke(1)": "Did you happen to call the Lucky 13?",
         "Poke(2)": "This net? Yes, it's very useful. If you use it like this...",
         "Poke(3)": "Wh~at? Who~ is it? Jenkins? Ah, Admir...No, Admiral, what's the matter? A sortie? Ah, these documents? I finished these earlier.",
-        "Idle": "My sisters? Yes... I've never seen some of them as well... well... yes. There's easily over a hundred of them.",
+        "Idle": "My sisters? Yes... I've never even met some of them... well... yes. There's easily over a hundred of them.",
         "Married": "Are you tired? Would you like some sweets to relieve you? I'll prepare some delicious pancakes and coffee.",
         "Wedding": "Engagement ring? Really? I... I love you so much...",
         "Ranking": "Information? Give me one second.",
@@ -17264,8 +17276,17 @@
         "443186530": "Ouch... It comes here...",
         "443186540": "No way... I was beaten... So I will be told off by my sis...",
         "443186810": "Why... Why won't you \"follow\" me...? Why...? I say you leave them there!",
-        "443186820": "I will knock down you...!",
+        "443186820": "I will knock you down...!",
         "443186830": "I will be told off by my sis...",
-        "443186840": "No way... I was doomed... Eh...? Sis...? Ah... It's bright... Alright, I'm going to go ahead. Look! Say, Admiral!"
+        "443186840": "No way... I was doomed... Eh...? Sis...? Ah... It's bright... Alright, I'm going to go ahead. Look! Say, Admiral!",
+        
+        "445187110": "You...have a nerve coming here... I'm glad! I welcome you... with all my power...!",
+        "445187120": "More... Even more!",
+        "445187130": "You're a bit capable...",
+        "445187140": "Gh... How impertinent...! I won't allow you to go here... I'll repair my wounds... Just wait!",
+        "445187410": "I won't let you do any worse...! I won't allow you to go any further...! Go back...!",
+        "445187420": "It's pointless!",
+        "445187430": "It...doesn't work at all...!",
+        "445187441": "Oh my god...! How could I be defeated... here... in this sea... by such people... How absurd...! Eh...? It is warm...I'm...floating...? Admiral... Friend fleet... That's right... now I can... It's wonderful!"
     }
 }

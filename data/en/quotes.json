@@ -1142,7 +1142,8 @@
         "Join": "1st Striking Force, 2nd Section, now it's our turn! Follow me! Everyone, please don't fall behind!",
         "Sortie": "Haruna, are you ready? 3rd fleet, weigh anchor! We'll be the ones to win the Admiral's heart!",
         "Battle": "I'll show you the firepower of the new Kongou-class!",
-        "Yasen(1)": "I told you, I won't let go once I've gotten my hands on you!"
+        "Yasen(1)": "I told you, I won't let go once I've gotten my hands on you!",
+        "Friend44(1)": "Hey, Admiral! Make sure you pay close attention to our efforts, please!"
     },
     "86": {
         "Intro": "I'm Hiei, Kongou Onee-sama's sister. I'm looking forward to gaining experience and getting closer to my sister's brilliance.",
@@ -1196,11 +1197,12 @@
         "2@Anniversary2019": "I'll give it my absolute all for love or for the 6th Anniversary! Yes! The 6th Anniversary Curry that I'm proud of is ready!"
     },
     "210": {
-        "Idle": "Oh yeah! I'm feelin' psyched! ...or so I felt? huh what?... whattt...?"
+        "Idle": "Oh yeah! I'm feelin' psyched! ...or so I felt? huh what?... whattt...?",
+        "Supply": "Alright! With this, I'm good to go!"
     },
     "150": {
         "Equip(3)": "Leave it to me-!",
-        "Supply": "Alright! With this, I'm good to go!",
+        "Friend44(1)": "11th Squadron, flagship Hiei, we've reached the operational area. We'll now support the allied forces. Kirishima, let's go!",
         "H0000": "It's 0 A.M. Hiei's go~ing to be~d.",
         "H0100": "It's 1 A.M... Hiei is fast asleep.",
         "H0200": "2 A.M. Admiral, aren't you sleepy?",
@@ -1367,6 +1369,8 @@
     },
     "152": {
         "Equip(3)": "Hm... this is a good thing.",
+        "Friend44(1)": "11th Squadron, battleship Kirishima, has broken through to the battlefield. We'll now support the allied forces. FIRE!",
+        "Friend44(2)": "Kirishima, acknowledging. Main guns, make ready! FIRE!",
         "H0000": "Mic check. One, two. Alright. 0000. The date has been updated.",
         "H0100": "0100. Time announcer... this is something that I, Kirishima, am well-suited for.",
         "H0200": "0200... ... ... na... ... ...ga... Huh? The mic output is...",
@@ -1687,6 +1691,8 @@
         "Equip(1)": "Aren't battleships amazing? Right on!",
         "Equip(2)": "Harpoon? Mmm... it's not bad, but... isn't it too soon for that? You can wait... can't you?",
         "Attack": "If you think the age of battleships is over, then pay attention. Fire!",
+        "Friend44(1)": "The battleships from your country have come too... Aha, OK, I like interesting things. Let's get along.",
+        "Friend44(2)": "Aha, so that's it. OK.",
         "H0000": "Today I'll be your secretary ship. That okay? Hmhm! Leave it to me.",
         "H0100": "It's one o'clock. Okay?",
         "H0200": "Two o'clock now. Is that fine?",
@@ -2038,7 +2044,7 @@
         "H1900": "1900. Yup, this smell is the borscht I'm proud of. It's delicious and will warm you right up!",
         "H2000": "2000. How about another helping of \u043f\u0438\u0440\u043e\u0436\u043a\u0438? Eat it all up! Ahahaha~",
         "H2100": "2100. My sisters? Yeah, I'd like to meet one or two of them again one day.",
-        "H2200": "22... Oh, the little ones in this fleet are energetic, but the little ones back in my home country are amazing too. I wonder how Tashkent is doing.",
+        "H2200": "22... Oh, the little ones in this fleet are energetic, but the little ones back in my home country are amazing too. I'll introduce them to you!",
         "H2300": "2300. You did your best today. I'm counting on you tomorrow! \u0414\u043e\u0431\u0440\u043e\u0439 \u043d\u043e\u0447\u0438!"
     },
     "513": {
@@ -2048,7 +2054,9 @@
         "Join": "Fleet, now sortieing. You can just follow me. Battleship Gangut\u2014 I'm setting sail!",
         "Sortie": "Come, let us go. Fleet flagship, Gangut. We're setting sail.",
         "Attack": "Ready! Aim! ...Fire!",
-        "Yasen(1)": "Where are you looking? Apologies, but I'm annihilating you. \u0423\u0440\u0430\u0430\u0430\u0430!"
+        "Yasen(1)": "Where are you looking? Apologies, but I'm annihilating you. \u0423\u0440\u0430\u0430\u0430\u0430!",
+        "Friend44(1)": "Great! Now it's time for me to crush them!",
+        "H2200": "22... Oh, the little ones in this fleet are energetic, but the little ones back in my home country are amazing too. I wonder how Tashkent is doing."
     },
     "492": {
         "Intro": "Je suis vraiment ravie de vous rencontrer, Amiral.<br />A pleasure to meet you, Amiral.<br />Battleship Richelieu, at your service.",
@@ -4935,7 +4943,9 @@
         "Intro": "Good morning! Admiral, Gambier Bay is doing well! Yes! I'll do my best today as well, for sure!",
         "Equip(2)": "This one? I see! This is nice! Good!",
         "Yasen(1)": "Night battle? Maybe I can do it now? No, no, there's definitely no way! I still can't handle the night after all!",
-        "Friend42(1)": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!"
+        "Friend42(1)": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!",
+        "Friend44(1)": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!",
+        "Friend44(2)": "Uhmmm, sorry!"
     },
     "154": {
         "Intro": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -8068,7 +8078,9 @@
         "Equip(1)": "I'm sort of interested in this white camouflage you've given me, nya.",
         "Attack": "Found you, nya. Nya!",
         "Yasen(1)": "My remodeled camouflage isn't just for show, nya. Nya!",
-        "MVP": "I'm the best? Nya. It's because I received my remodel, nya. I've put on my hidden battle gear now, nya. Nya."
+        "MVP": "I'm the best? Nya. It's because I received my remodel, nya. I've put on my hidden battle gear now, nya. Nya.",
+        "Friend44(1)": "You need me to lend a hand, nya? I'll help you, nya",
+        "Friend44(2)": "I'll attack too, nya."
     },
     "25": {
         "Intro": "I'm light cruiser Kitakami. Nice ta meet ya.",
@@ -8337,7 +8349,9 @@
         "Intro": "You're still worried? It's fine. Leave it to me.",
         "Poke(3)": "Damn straight. You and I are good together!",
         "Idle": "Someday, together with you... No, forget it. That's so unlike me. Heheh.",
-        "Supply": "A resupply, huh? My thanks. Make sure you eat something, too."
+        "Supply": "A resupply, huh? My thanks. Make sure you eat something, too.",
+        "Friend44(1)": "Kiso Squad, we're charging in now. Let's go!",
+        "Friend44(2)": "Kiso, charging in. Come on, come on, make way!"
     },
     "21": {
         "Intro": "Light Cruiser Nagara! Please take good care of me!",
@@ -8712,7 +8726,9 @@
         "Sortie": "Getting into the enemy lines undetected is a specialty of mine. Leave it to me!",
         "Attack": "Everyone, follow my instructions. Follow my instructions pleeease~!",
         "Yasen(2)": "There you are~ I knew you'd be here!",
-        "MVP": "Even someone like me can do it if I try! Hey, Admiral, thank you so much."
+        "MVP": "Even someone like me can do it if I try! Hey, Admiral, thank you so much.",
+        "Friend44(1)": "Everyone, please get ready!",
+        "Friend44(2)": "If there's an operation in the North, it's my turn to shine, right?"
     },
     "115": {
         "Intro": "Oka~y, thanks for waiting! The experimental armament cruiser 'Yuubari' has arrived!",
@@ -9478,6 +9494,7 @@
         "Join": "Anti-air cruiser Gotland, weighing anchor.  Watch me do my best.",
         "Equip(2)": "Yes, they're good, right? The weapons from my homeland. I wasn't wrong, right?",
         "Sortie": "Fleet flagship, anti-air cruiser Gotland, sortieing! Attack!",
+        "Friend44(1)": "It's fine, let's work hard together.",
         "H0000": "Now, today, I, Got, am on duty. Well, it's okay, right? Hey, Admiral, are you glad? Oh? He turned away from me. It's now exactly 12am.",
         "H0100": "It's 0,100. My intonation is a bit off? Well, that much is fine? *Yawn* So sleepy...",
         "H0200": "It's 0,200. You really do get sleepy around this time... I know! Shall I make some bl\u00c5b\u00c4rs soppa? I'll go and get to it.",
@@ -11239,7 +11256,8 @@
         "Supply": "This is a necessity, so I won't be thanking you for it. ...It's not bad, though.",
         "Sortie": "Akebono, taking off! Time to kick some heads!",
         "Battle": "It's the enemy, Shitty Admiral. I guess I'll go do something about it!",
-        "Yasen(1)": "One after another. Piss off already!"
+        "Yasen(1)": "One after another. Piss off already!",
+        "Friend44(1)": "You shitty Admiral, watch closely."
     },
     "94": {
         "Intro": "Ayanami-class destroyer Sazanami here, Master. You write it like this, but read it as \"Sazanami\".",
@@ -13467,7 +13485,8 @@
         "11@Summer2018": "DON'T PEEK! YOU IDIOT!",
         "12@Summer2018": "DON'T PEEK! YOU IDIOT! ...Really, you're always like this.",
         "5@Summer2018": "Ah, jeez, summer is really full of idiots!",
-        "Friend44(1)": "I've steeled myself. All that's left... is to do it! Let's go!"
+        "Friend44(1)": "I've steeled myself. All that's left... is to do it! Let's go!",
+        "Friend44(2)": "Asashio-class destroyer, Kasumi, charging in!"
     },
     "470": {
         "Poke(2)": "I can't stand backstabbers! I will only advance forward.",
@@ -13527,7 +13546,9 @@
         "Ranking": "I know, I know. You want the intelligence, right? I'll show it to you.",
         "Equip(1)": "Thanks! I can make it with this!",
         "Sortie": "DesDiv18, Kagerou, sortieing! Now, let's go!",
-        "Battle": "Alright, ready, everyone? I'll show you the might of the remodelled Kagerou-class! Let's go!"
+        "Battle": "Alright, ready, everyone? I'll show you the might of the remodelled Kagerou-class! Let's go!",
+        "Friend44(1)": "Combat speed! Now, let's go!",
+        "Friend44(2)": "Kagerou, starting the assault!"
     },
     "18": {
         "Intro": "I'm Shiranui. I look forward to your guidance and encouragement.",
@@ -13584,7 +13605,8 @@
         "Ranking": "Intelligence? Here you go.",
         "Join": "2nd ship of the Remodelled Kagerou-class, Shiranui, deploying!",
         "Equip(1)": "Hmmm, this will do.",
-        "Damaged(3)": "Fufu... I'm really angry now. Those fools."
+        "Damaged(3)": "Fufu... I'm really angry now. Those fools.",
+        "Friend44(1)": "Alright then, sink. Sink!"
     },
     "19": {
         "Intro": "I'm Kuroshio, nice to meet 'cha!",
@@ -16322,7 +16344,10 @@
         "Intro": "Hello, I'm the destroyer leader, Tashkent. Please look after me today too, Comrade Admiral.",
         "Poke(2)": "The sky-blue cruiser... Yeah, well, that's what they called me, Comrade Admiral... It's kind of, a bit, embarrassing. Really?",
         "MVP": "Am I, the sky blue cruiser, number one again, Comrade Admiral? No, it still makes me happy. Yup, it's great!",
-        "Friend42(1)": "Alright, good. Are you ready, Comrades? Hurrah!"
+        "Friend42(1)": "Alright, good. Are you ready, Comrades? Hurrah!",
+        "Friend44(1)": "Great! Our fleet has broken into the operational area. Now we'll support the allied forces. Hurrah!",
+        "Friend44(2)": "Alriiight, good. We'll now support the Northern Combined Fleet. Comrades, are you ready?",
+        "Friend44(3)": "Alright! Hurrah!"
     },
     "561": {
         "Intro": "I'm John C. Butler-class destroyer escort Samuel B. Roberts! Make sure to remember it! Ah, too long? Then \"Sam\" is fine, okay? Nice to meet you!",
@@ -16500,6 +16525,7 @@
         "Poke(2)": "You are pretty busy yourself... I'll help you out.",
         "Equip(1)": "Hmm... Well~ it's alright.",
         "Attack": "Onward! Open fire!",
+        "Friend44(1)": "We're here! Target in sight. Have all of you prepared yourselves? Then, let's get started. Go!",
         "H0000": "Can't be helped... I'll support you today. Alright?",
         "H0100": "It is one. You want some coffee? Alright, wait a sec.",
         "H0200": "It is two. People here call it \"ushimitsu.\" What does that mean?.",

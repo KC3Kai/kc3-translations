@@ -1263,6 +1263,7 @@
         "Damaged(3)": "No way... this is... but still... I can keep going!",
         "Sunk": "If this is to be my fate... then so be it... ...I'm so sorry...",
         "Friend41(1)": "We're entering a night battle now? Please leave it to me.",
+        "Friend44(1)": "We're entering a night battle now? Please leave it to me.",
         "2@NewYears": "Admiral? Best wishes for the coming year! The four of us Kongou-class sisters including myself will be counting on you again this year! Now, let's visit the shrine! And then we can draw fortunes!",
         "2@Setsubun": "Admiral, it's Setsubun! Fortune, we~lcome! Demons, bego~one! Fufu\u266a This is pretty fun. Oh? Admiral, what is that? Ehou... maki? The sushi is so big. This is my first time seeing one!",
         "2@Valentines": "Admiral... if you'd like... my chocolates... won't you have some?",
@@ -3360,6 +3361,8 @@
         "Equip(2)": "Wonderful! Honey, there's no problems, right?",
         "Docking(2)": "Ahhhh, jeez, they got me. I will enter the dock! Oh, but this isn't a decommissioning or anything! The Sea Museum comes - la - ter!",
         "Friend42(1)": "Shall we sally forth at full force?",
+        "Friend44(1)": "Shall we sally forth at full force?",
+        "Friend44(2)": "Intrepid all squadrons, attack!",
         "H0000": "Hey, I'll help you out with things today! Wonderful, isn't it! Reporting, the time? Leave it to me! I learned how they do it here!",
         "H0100": "It is 1 o'clock! Z- 01, 00! How's that? OK?",
         "H0200": "2 o'clock! 02, 00! How's that? Perfect, right? Yep, good!",
@@ -5340,7 +5343,9 @@
         "Join": "Nisshin, the midget submarine tender. Ready... to Weigh Anchor!",
         "Equip(2)": "This is some nice equipment, everyone will be happy.",
         "Attack": "Nisshin, midget submarine fleet, start launching! I'm going to take all the good parts! Begin the attack!",
-        "Friend43(1)": "Nisshin Squardon has reached the operation area! We'll now begin the attack! Midget Sub Squadron, begin launching!"
+        "Friend43(1)": "Nisshin Squadron has reached the operation area! We'll now begin the attack! Midget Sub Squadron, begin launching!",
+		"Friend44(1)": "Listen well! Carve victory into the dawn horizons!",
+        "Friend44(2)": "Nisshin Squadron has reached the operation area! We'll now begin the attack!"
     },
     "491": {
         "Intro": "Bonjour. Enchant\u00e9. Je m'appelle Commandant Teste. Admiral, I look forward to the possibility of working together.",
@@ -9200,7 +9205,8 @@
     },
     "306": {
         "Married": "Admiral, erm... have you see Agano-nee... eh!? Admiral, aren't you exhausted? You look terrible. That's no good, stay right there! Wait, and I'll bring the medicine!",
-        "Idle(2)": "Admiral, just one more push. Come on!"
+        "Idle(2)": "Admiral, just one more push. Come on!",
+		"Friend44(1)": "All fleets, check your formation. Please and thanks."
     },
     "139": {
         "Intro": "Light Cruiser Yahagi, reporting for duty. Let's work at it together to the end, Admiral!",
@@ -9541,7 +9547,7 @@
         "Return": "I'm back home. Haah, that was tiring.",
         "Sortie": "I, Garibaldi, am now the fleet flagship! Weigh anchor! Now, everyone follow me!",
         "Battle": "Now, begin the battle. I'm itching to get started. Everyone, let's get started!",
-        "Attack": "Never surrender! Here I go!",
+        "Attack": "Alright, here I go!",
         "Yasen(2)": "You know, I'm quite state-of-the-art. The real deal.",
         "Yasen(1)": "Aaah, it's night. Well, that's fine. Let's do this!",
         "MVP": "Thanks! Is it alright for me to take it? Sorry, everyone. Well, that's that. Hoooray!",
@@ -14227,7 +14233,8 @@
         "Married": "Wanna go for a stroll wit me, Admiral? Hmmm? Heh~ Well?",
         "Ranking": "Intelligence? Leave it ta me. Hup... There... we...ngh... go... Here!",
         "Equip(2)": "This is a nice upgrade. Feelin' great.",
-        "Battle": "Gotta stay on anti-submarine alert. Humph!"
+        "Battle": "Gotta stay on anti-submarine alert. Humph!",
+		"Friend44(1)": "DesDiv 17, seizing the opportunity to charge in!"
     },
     "167": {
         "Intro": "12th Kagerou-class destroyer, Isokaze. Don't worry, I will protect you.",
@@ -14388,6 +14395,7 @@
         "Attack": "This the duty of a destroyer. Fleet, increase speed; we're charging in.",
         "Sunk": "Urakaze, Isokaze, Tanikaze... I'm..I'm... going on ahead.",
         "Friend44(1)": "Hamakaze, acknowledging. There are no problems. I'm fully equipped and trained for this."
+        "Friend44(2)": "Hamakaze, acknowledging."
     },
     "169": {
         "Intro": "Admiral, I'm Tanikaze! I'll be in your care from now on.",
@@ -17159,8 +17167,8 @@
         "33366230": "UAAARGH! CURSE YOU...!!",
         "33366240": "How could I be defeated... by useless trash... That's really a regret... I didn' t expect that...... Wait... Rather, my mind is... What is in my body...? I see... So actually I am...",
         
-        "34668440": "Why... just how... did you come here... Just... How...?",
-        "34668441": "Why... just how... did you come here... Just... How...? It can't be...!",
+        "34668410": "Why... just how... did you come here... Just... How...?",
+        "34668411": "Why... just how... did you come here... Just... How...? It can't be...!",
         "34668420": "As if... I'll be done in! Sink!",
         "34668430": "That's... absurd...! I can't believe it!",
         "34668440": "I see... you accomplished... your raison d'\u00eatre, didn't you...? That's right. That feeling, I know it well.",

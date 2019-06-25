@@ -1479,14 +1479,14 @@
         "code": "B131",
         "name": "Aviation Battleship Division, on Combat Patrol!",
         "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2-M]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either an Action Report OR two more Medals",
+        "memo": "\u27a3Rewards a Medal and either an Action Report OR two more Medals",
         "unlock": [ 897 ]
     },
     "897": {
         "code": "B132",
         "name": "Supreme 4th Carrier Division, Sortie!",
         "desc": "Sortie Hyuuga Kai Ni, Ise Kai Ni and up to 4 additional ships to [W4-5], [W5-5] and [W6-5]. S-Rank each boss node once. Reach [W1-6] node N twice. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Zuiun Kai Ni (634 Air Group) and either an S-51J OR two Medals",
+        "memo": "\u27a3Rewards a Zuiun Kai Ni (634 Air Group) and either an S-51J OR two Medals",
         "unlock": [ 696 ]
     },
     "292": {
@@ -1499,19 +1499,19 @@
         "code": "B134",
         "name": "Strengthening the Fleet Command Directorate (Execution Stage)",
         "desc": "Sortie Ooyodo as flagship, an AV or Akashi, and up to 4 additional ships to [W2-3], [W3-3] and [W4-1]. S-Rank each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal"
+        "memo": "\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal"
     },
     "235": {
         "code": "B135",
         "name": "Execute Coastal Patrols!",
-        "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3], [W2-1] and [W2-2]. S?-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards an Action Report and either three Development Materials OR three Buckets OR two 25mm Triple Autocannon Mounts"
+        "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards an Action Report and either three Development Materials OR three Buckets OR two 25mm Triple Autocannon Mounts"
     },
     "236": {
         "code": "B136",
         "name": "Sortie the Elite 24th Destroyer Division!",
-        "desc": "Sortie Umikaze Kai Ni as flagship, any two of Yamakaze, Kawakaze or Suzukaze, and up to 3 additional ships to [W2-3], [W2-4], [W5-1] and [W5-3]. S?-Rank the boss nodes. Overlay:F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 12.7cm Twin Gun Mount Model C Kai Ni and either a New Model Artillery Armament Materials OR three Type 13 Air Radars OR a Furniture Fairy"
+        "desc": "Sortie Umikaze Kai Ni as flagship, any two of Yamakaze, Kawakaze or Suzukaze, and up to 3 additional ships to [W2-3], [W2-4], [W5-1] and [W5-3]. S-Rank the boss nodes. Overlay:F10",
+        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model C Kai Ni and either a New Model Artillery Armament Materials OR three Type 13 Air Radars OR a Furniture Fairy"
     },
     "283": {
         "code": "B137",
@@ -2202,6 +2202,12 @@
         "desc": "Complete Expeditions 10, A2 and B1.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either four Development Materials OR two Screws OR two 7.7mm Machine Guns"
     },
+    "433": {
+        "code": "D31",
+        "name": "Carry Out Southern Front Expeditions!",
+        "desc": "Complete Expeditions 35, 36, 37, 38 and 40.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards unknown."
+    },
     
     "501": {
         "code": "E1",
@@ -2837,7 +2843,13 @@
         "code": "F87",
         "name": "Formation of the Supreme Zuiun Squadron",
         "desc": "Due to the lengthy requirements, please refer to the panel mouseover description. The main requirement is Ise Kai Ni or Hyuuga Kai Ni equipped with a \u2605max Zuiun Kai Ni (634 Air Group).",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nHave 2000 Ammo, 8000 Bauxite, 1 New Model Aviation Armament Materials and 2 Skill Crew Members.\nSet Ise Kai Ni or Hyuuga Kai Ni as flagship.\nEquip an unlocked \u2605max Zuiun Kai Ni (634 Air Group) in her first slot.\nScrap 6 Zuiun, 3 Suisei and 1 Prototype Reppuu Late Model.\n\u2718Consumes the resources, items and equipment.\n\u27a3Rewards a Zuiun Kai Ni (634 Air Group / Skilled)"
+        "memo": "Have 2000 Ammo, 8000 Bauxite, 1 New Model Aviation Armament Materials and 2 Skill Crew Members.\nSet Ise Kai Ni or Hyuuga Kai Ni as flagship.\nEquip an unlocked \u2605max Zuiun Kai Ni (634 Air Group) in her first slot.\nScrap 6 Zuiun, 3 Suisei and 1 Prototype Reppuu Late Model.\n\u2718Consumes the resources, items and equipment.\n\u27a3Rewards a Zuiun Kai Ni (634 Air Group / Skilled)"
+    },
+    "620": {
+        "code": "F88",
+        "name": "Formation of the CarDiv 1's Elite Ryuusei Squadron",
+        "desc": "Have 2800 Steel, 9000 Baux. and 2 Sk. Crew Members. Set Akagi Kai Ni as secretary with a >> Ryuusei Kai (CarDiv 1) in her 1st slot. Scrap 4 Ryuusei Kai, a Saiun and 2 T97 Torp. Bombers.",
+        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ryuusei Kai (CarDiv 1 / Skilled)"
     },
 
     "701": {

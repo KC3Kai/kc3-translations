@@ -1501,6 +1501,24 @@
         "desc": "Sortie Ooyodo as flagship, an AV or Akashi, and up to 4 additional ships to [W2-3], [W3-3] and [W4-1]. S-Rank each boss node twice. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal"
     },
+    "235": {
+        "code": "B135",
+        "name": "Execute Coastal Patrols!",
+        "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3], [W2-1] and [W2-2]. S?-Rank the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards an Action Report and either three Development Materials OR three Buckets OR two 25mm Triple Autocannon Mounts"
+    },
+    "236": {
+        "code": "B136",
+        "name": "Sortie the Elite 24th Destroyer Division!",
+        "desc": "Sortie Umikaze Kai Ni as flagship, any two of Yamakaze, Kawakaze or Suzukaze, and up to 3 additional ships to [W2-3], [W2-4], [W5-1] and [W5-3]. S?-Rank the boss nodes. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 12.7cm Twin Gun Mount Model C Kai Ni and either a New Model Artillery Armament Materials OR three Type 13 Air Radars OR a Furniture Fairy"
+    },
+    "283": {
+        "code": "B137",
+        "name": "Such Power! Sortie, Carrier Division 1!",
+        "desc": "Sortie Akagi Kai Ni as flagship, Kaga as 2nd ship and 4 other ships to [W4-5] and [W5-2]. S-Rank each boss node once. Sortie to [W6-5]. S-Rank the boss node twice. Overlay:F10",
+        "memo": "\u27a3Rewards a Ryuusei Kai (CarDiv 1) and either five Screws OR a New Model Aviation Armament Materials OR a Skilled Crew Member"
+    },
 
 
     "201": {
@@ -1965,6 +1983,18 @@
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using a CL, 3 DD/DE and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR six Flamethrowers\n\u00B6Second choice: Either six Type 0 Fighter Model 52s OR six 35.6cm Twin Gun Mounts OR a Medal"
     },
+    "333": {
+        "code": "C33",
+        "name": "Aerial Squadron Exercises (Step One)",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using 3 CV(L/B), 2 DD and up to 1 additional ship. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Development Materials OR three Flamethrowers\n\u00B6Second choice: Either three Type 97 Torpedo Bombers OR two Underway Replenishments OR a New Model Aviation Armament Materials"
+    },
+    "334": {
+        "code": "C34",
+        "name": "Aerial Squadron Exercises (Step Two)",
+        "desc": "Secure 6 S-Rank victories in Exercises within the same day using 3 CV(L/B), 2 DD and up to 1 additional ship. F10 will clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either two Type 13 Air Radars OR four Development Materials\n\u00B6Second choice: Either a +2 Saiun OR two +2 Tenzan OR a Skilled Crew Member"
+    },
     
     
     "401": {
@@ -2165,6 +2195,12 @@
         "desc": "Complete Expeditions 17, A1, A2 and B1.",
         "memo": "\u27a3Rewards three Screws and either five Underway Replenishments OR a Shiun OR a Type 0 Reconnaissance Seaplane Model 11B",
         "unlock": [ 291 ]
+    },
+    "432": {
+        "code": "D30",
+        "name": "Reinforce the Recon Patrols and Defenses!",
+        "desc": "Complete Expeditions 10, A2 and B1.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either four Development Materials OR two Screws OR two 7.7mm Machine Guns"
     },
     
     "501": {
@@ -2834,32 +2870,5 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
-    },
-
-    "831": {
-        "code": "SB43",
-        "name": "Spring Naval Defense Action! Fleet, Set Sail!",
-        "desc": "Sortie a CL(T)/CT/AV/CVL as flagship, 4 DD/DE and up to 1 additional ship to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR four Buckets\n\u00B6Second choice: Either a Furniture Fairy OR a Mamiya"
-    },
-    "832": {
-        "code": "SB44",
-        "name": "It's Spring! Sortie, DesDiv 31 Flagship Naganami!",
-        "desc": "Sortie Naganami as flagship, any 3 of DesDiv31 and up to 2 additional ships to [W2-1] and [W2-2]. S-Rank each boss node twice. Sortie to [W5-4]. A-Rank+ the boss node. Overlay: F10",
-        "memo": "DesDiv 31 members include Asashimo, Kishinami, Okinami and Takanami.\n\u27a3Rewards:\n\u00B6First choice: Either a Present Box OR three Furniture Boxes (Large)\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR a Medal OR an Action Report"
-    },
-    "283": {
-        "code": "SB45",
-        "name": "G.W. Limited-Time Sixth Anniversary Sortie Mission",
-        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards Furniture and either six Development Materials OR six Flamethrowers OR a Furniture Fairy",
-        "unlock": [ 284 ]
-    },
-    "284": {
-        "code": "SB46",
-        "name": "G.W. Limited-Time Sixth Anniversary Sortie Mission -Extra Operation-",
-        "desc": "Sortie a CL(T)/CT/AV, 2 DD and up to 3 additional ships to [W3-2], [W4-5], [W5-3] and [W6-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR two Skilled Crew Members\n\u00B6Second choice: Either three New Model Artillery Armament Materials OR 88 Development Materials OR a Blueprint"
     }
-
 }

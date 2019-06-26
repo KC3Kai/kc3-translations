@@ -1200,13 +1200,15 @@
         "name": "Special Winter Mission: Elite Destroyer Division, Sortie!",
         "desc": "Sortie 4 DD ONLY to [W1-1] and [W1-2]. S-Rank the boss nodes of both maps. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a Furniture Fairy and either a \u2605+3 25mm Triple Autocannon Mount OR an Anti-Torpedo Bulge (Large)",
-        "unlock": [ 841 ]
+        "unlock": [ 841 ],
+        "hash": 60709992
     },
     "841": {
         "code": "SB16",
         "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
         "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
-        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
+        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion",
+        "hash": 1970544976
     },
     "842": {
         "code": "B89",
@@ -1218,7 +1220,8 @@
         "code": "SB21",
         "name": "Setsubun Special Sorties: Maintain Control of the Seas!",
         "desc": "Sortie 2 DD and 2 additional ships to [W1-1], [W1-2], [W2-3]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards furniture"
+        "memo": "\u27a3Rewards furniture",
+        "hash": -1462303224
     },
     "844": {
         "code": "B90",
@@ -1237,7 +1240,8 @@
         "code": "SB22",
         "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
         "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
-        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion"
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion",
+        "hash": -24724241
     },
     "848": {
         "code": "B92",
@@ -1500,6 +1504,20 @@
         "name": "Strengthening the Fleet Command Directorate (Execution Stage)",
         "desc": "Sortie Ooyodo as flagship, an AV or Akashi, and up to 4 additional ships to [W2-3], [W3-3] and [W4-1]. S-Rank each boss node twice. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal"
+    },
+    "831": {
+        "code": "SB43",
+        "name": "Spring Naval Defense Action! Fleet, Set Sail!",
+        "desc": "Sortie a CL(T)/CT/AV/CVL as flagship, 4 DD/DE and up to 1 additional ship to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR four Buckets\n\u00B6Second choice: Either a Furniture Fairy OR a Mamiya",
+        "hash": 2048583092
+    },
+    "832": {
+        "code": "SB44",
+        "name": "It's Spring! Sortie, DesDiv 31 Flagship Naganami!",
+        "desc": "Sortie Naganami as flagship, any 3 of DesDiv31 and up to 2 additional ships to [W2-1] and [W2-2]. S-Rank each boss node twice. Sortie to [W5-4]. A-Rank+ the boss node. Overlay: F10",
+        "memo": "DesDiv 31 members include Asashimo, Kishinami, Okinami and Takanami.\n\u27a3Rewards:\n\u00B6First choice: Either a Present Box OR three Furniture Boxes (Large)\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR a Medal OR an Action Report",
+        "hash": -1612992899
     },
     "235": {
         "code": "B135",

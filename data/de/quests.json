@@ -869,12 +869,14 @@
     "840": {
         "name": "Spezielle Winter Mission: Elite Zerstörer Division, zum Einsatz!",
         "desc": "Sende NUR 4 DD nach [W1-1] und [W1-2]. S-Rang den Boss knoten beider Karten. Du musst nach Abschluss eine Belohnung wählen, sei also vorsichtig. Overlay: F10.",
-        "memo": "\u27a3Belohnungen: 'Möbelfee' und entweder '\u2605+3 25mm Drillingsmaschinenkanone' ODER 'Torpedowulst (Groß)'"
+        "memo": "\u27a3Belohnungen: 'Möbelfee' und entweder '\u2605+3 25mm Drillingsmaschinenkanone' ODER 'Torpedowulst (Groß)'",
+		"hash": 60709992
     },
     "841": {
         "name": "Spezielle Winter Mission: Flugzeugmutterschiff, Segel setzen!",
         "desc": "Sende ein AV als Flaggschiff, 3 DD und bis zu 2 weitere Schiffe nach [W1-3] und [W1-4]. S-Rang den Boss knoten beider Karten.",
-        "memo": "\u27a3Belohnung: 'Möbel' und 'Schiffshüllenerweiterung'"
+        "memo": "\u27a3Belohnung: 'Möbel' und 'Schiffshüllenerweiterung'",
+		"hash": 1970544976
     },
     "842": {
         "name": "Hauptschlachtschiffdivision, Segel setzen!!",
@@ -884,7 +886,8 @@
     "843": {
         "name": "Setsubun Spezialeinsatz: Erhalte die Kontrolle über die See!",
         "desc": "Sende 2 DD und 2 weitere Schiff nach [W1-1], [W1-2], [W2-3]. S-Rang den Boss knoten.",
-        "memo": "\u27a3Belohnung: 'Möbel'"
+        "memo": "\u27a3Belohnung: 'Möbel'",
+		"hash": -1462303224
     },
     "844": {
 		"name": "Durchbruch mit der 8. Zerstörer Elite Division!",
@@ -899,7 +902,8 @@
     "847": {
         "name": "Frühlings Vorbereitungs Mission: Führe Vorbereitungen für das Hinamatsuri Fest aus!",
         "desc": "Sende eine Flotte [W2-3]. S-Rang den Boss knoten 5 mal.",
-        "memo": "\u27a3Belohnungen: '3 Hishimochi' und 'Schiffshüllenerweiterung'"
+        "memo": "\u27a3Belohnungen: '3 Hishimochi' und 'Schiffshüllenerweiterung'",
+		"hash": -24724241
     },
     "848": {
         "name": "Gepanzerter Schwerer Kreuzer, Eile nach Iron Bottom Sound!",
@@ -1089,22 +1093,34 @@
 	"896": {
         "name": "Hybridflugzeugträger-Division auf Kampfpatrouille!",
         "desc": "Sende 2 BBV und bis zu 4 weitere Schiffe nach [W1-4], [W1-5], [W2-3] und [W7-2]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
-        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen: 1x 'Medaille' und entweder 1x 'Schlachtbericht' ODER 2x 'Medaillen'"
+        "memo": "\u27a3Belohnungen: 1x 'Medaille' und entweder 1x 'Schlachtbericht' ODER 2x 'Medaillen'"
     },
     "897": {
         "name": "Überlegende 4. Trägerdivision, Auf zum Einsatz!",
         "desc": "Sende Hyuuga Kai Ni, Ise Kai Ni und bis zu 4 weitere Schiffe nach [W4-5], [W5-5] und [W6-5]. S-Rang jeweils die Boss Knoten. Errieche den [W1-6] Knoten N zweimal. Overlay: F10.",
-        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen: 1x 'Zuiun Kai Ni (Flugzeuggruppe 634)' und entweder 1x 'S-51J' ODER 2x 'Medaillen'"
+        "memo": "\u27a3Belohnungen: 1x 'Zuiun Kai Ni (Flugzeuggruppe 634)' und entweder 1x 'S-51J' ODER 2x 'Medaillen'"
     },
     "292": {
-        "name": "Stark umgebautes schnelles Schlachtschiff Kongou Kai Ni C, Durchbruch in den Süden!",
+        "name": "Aufgerüstetes schnelles Schlachtschiff Kongou Kai Ni C, Durchbruch in den Süden!",
         "desc": "Sende Kongou Kai Ni C als Flaggschiff, 1 weitere Kongou-Klasse, 2 DD und bis zu 2 weitere Schiffe nach [W5-1], [W5-3], [W5-4] und [W5-5]. S-Rang jeweils die Boss Knoten ZWEIMAL. Overlay: F10.",
-        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen: 1x '35.6cm Zwillingsgeschütz Kai Ni' und entweder 1x 'Schlachtbericht' ODER 2x 'Material für neue Geschützturmmodelle' ODER 1x 'Medaille'"
+        "memo": "\u27a3Belohnungen: 1x '35.6cm Zwillingsgeschütz Kai Ni' und entweder 1x 'Schlachtbericht' ODER 2x 'Material für neue Geschützturmmodelle' ODER 1x 'Medaille'"
     },
     "291": {
         "name": "Verstärkung der Führung des Flottenkommandos (Ausführungsphase)",
         "desc": "Sende Ooyodo als Flaggschiff, ein AV oder Akashi und bis zu 4 weitere Schiffe nach [W2-3], [W3-3] und [W4-1]. S-Rang jeweils die Boss Knoten ZWEIMAL. Overlay: F10.",
         "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen 1x 'Hauptquartierpersonal' und entweder 1x 'Möbelmünzenbox (Groß)' ODER 1x 'Schiffshüllenerweiterung' ODER 1x 'Medaille'"
+    },
+    "831": {
+        "name": "Frühlings Marine Verteidigung! Flotte, Segel setzen!",
+        "desc": "Sende ein CL(T)/CT/AV/CVL als Flaggschiff, 4 DD/DE und bis zu ein weiteres Schiff nach [W1-1], [W1-2], [W1-3] und [W1-4]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 2x 'Irako' ODER 4x 'Eimer'\n\u00B6Zweitewahl: Entweder 1x 'Möbelfee' ODER 1x 'Mamiya'",
+        "hash": 2048583092
+    },
+    "832": {
+        "name": "Es ist Frühling! Auslaufen, DesDiv 31 Flaggschiff Naganami!",
+        "desc": "Sende Naganami Flaggschiff, beliebige 3 Mitglieder der DesDiv31 und bis zu 2 weitere Schiffe nach [W2-1] und [W2-2]. S-Rang die Boss Knoten jeweils zweimal. Laufe nach [W5-4] aus. A-Rank+ den Boss Knoten. Overlay: F10",
+        "memo": "DesDiv 31 Mitglieder beinhalten Asashimo, Kishinami, Okinami und Takanami.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 1x 'Geschenkbox' ODER 3x 'Möbelmünzenbox(Groß)'\n\u00B6Zweitewahl: Entweder 2x 'Material für neue Geschützturmmodelle' ODER 1x 'Medaille' ODER 1x 'Schlachtbericht'",
+        "hash": -1612992899
     },
     "235": {
         "name": "Ausführung von Küsten Partoulien!",
@@ -1113,8 +1129,8 @@
     },
     "236": {
         "name": "Entsende die 24. Elite Zerstörer Division!",
-        "desc": "Sende Umikaze Kai Ni als Flaggschiff, und zwei weitere von entweder Yamakaze, Kawakaze oder Suzukaze, und bis zu 3 zusätzliche Schiff nach [W2-3], [W2-4], [W5-1] und [W5-3]. S?-Rang jeweils die Boss Knoten. Overlay: F10",
-        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team.\n\u27a3Belohnungen 1x '12.7cm Zwillingsgeschütz Modell C Kai Ni' aund entweder 1x 'Material für neue Geschützturmmodelle' ODER 3x 'Typ-13-Luftabwehrradar' ODER 1x 'Möbelfee'"
+        "desc": "Sende Umikaze Kai Ni als Flaggschiff, und zwei weitere von entweder Yamakaze, Kawakaze oder Suzukaze, und bis zu 3 zusätzliche Schiff nach [W2-3], [W2-4], [W5-1] und [W5-3]. S-Rang jeweils die Boss Knoten. Overlay: F10",
+        "memo": "\u27a3Belohnungen 1x '12.7cm Zwillingsgeschütz Modell C Kai Ni' aund entweder 1x 'Material für neue Geschützturmmodelle' ODER 3x 'Typ-13-Luftabwehrradar' ODER 1x 'Möbelfee'"
     },
     "283": {
         "name": "Solche Kraft! Auslaufen, 1. Träger Division!",
@@ -1612,6 +1628,11 @@
         "desc": "Erfülle Expeditionen 10, A2 und B1.",
         "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 1x 'Mamiya' ODER 1x 'Möbelfee'\n\u00B6Zweitewahl: Entweder 4x 'Entwicklungsmaterial' ODER 2x 'Schrauben' ODER 2x '7.7mm Maschinenkanone'"
     },
+    "433": {
+        "name": "Führe Expeditionen an der Südlichen Front aus!",
+        "desc": "Erfülle Expeditionen 35, 36, 37, 38 und 40.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen Unbekannt."
+    },
 
 
     "501": {
@@ -2089,6 +2110,11 @@
         "name": "Aufbau des Überlegenden Zuiun Geschwanders",
         "desc": "Aufgrund der langen Anforderungen, Bitte siehe den Tooltip im Panel. Die Hauptanforderung ist Ise Kai Ni ODER Hyuuga Kai Ni ausgerüstet mit einem \u2605max Zuiun Kai Ni (Flugzeuggruppe 634).",
         "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\nHabe 2000 Munition, 8000 Bauxit, 1x 'Material für neue Flugzeugmodelle' und 2x 'Erfahrene Besatzung'.\nHabe Ise Kai Ni oder Hyuuga Kai Ni als Flaggschiff.\nRüste ein UNGESPERRTEN \u2605max Zuiun Kai Ni (Flugzeuggruppe 634) im ERSTEN Slot aus.\nEntsorge 6 Zuiun, 3 Suisei und '1 Prototyp Reppuu (Spätes Modell)'.\n\u2718Verbraucht die Ressourcen, Items und Ausrüstung.\n\u27a3Belohnung: Zuiun Kai Ni (Flugzeuggruppe 634 / Erfahren)"
+    },
+    "620": {
+        "name": "Formierung des Elite Ryuusei Geschwanders der 1. CarDiv",
+        "desc": "Habe 2800 Stahl, 9000 Baux. und 2x Erfahrene Besatzung. Habe Akagi Kai Ni als Sekretärin und ein >> Ryuusei Kai (CarDiv 1) in ihrem ersten Slot. Entsorge 4x 'Ryuusei Kai', 1x 'Saiun' und 2x 'T97-Torp. Bomber'",
+        "memo": "\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle bitte sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 1x 'Ryuusei Kai (CarDiv 1 / Erfahren)'"
     },
 
 

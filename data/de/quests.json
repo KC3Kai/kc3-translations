@@ -1136,6 +1136,11 @@
         "desc": "Sende Haguro, Kamikaze und entweder [4 DD] ODER [1 CA(V), 2 DD und KEIN weiteres Schiff] nach [W2-1], [W2-2] und [W2-3]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
         "memo": "\u27a3Belohnungen: 'Möbel' und entweder 1x 'Material für neue Flugzeugmodelle' ODER 1x 'Schiffshüllenerweiterung' ODER 1x 'Möbelfee'"
     },
+    "833": {
+		"name": "Testläufe von Schiffgestüzter Boden Ausrüstung im echten Gefecht",
+        "desc": "Sende ein LHA/AV und bis zu 5 weitere Schiffe nach [W4-5] und [W6-4]. A-Rang+ die Boss knoten jeweil ZWEIMAL. Overlay: F10.",
+        "memo": "\u27a3Belohnungen: Entweder 3x 'Typ-2 12cm Mörser Kai' ODER 1x 'Trägergestützter Typ-4 20cm Bodenabwehr Raketenwerfer'"
+    },
 
 
     "201": {
@@ -1328,6 +1333,18 @@
 		"desc": "Sende eine Flotte mit MINDESTENS 1 CVL-/CVB-/CV und bis zu 5 weitere Schiffe nach [W1-3], [W1-4], [W2-1], [W2-2], und [W2-3]. Erreiche einen S-Rang an jedem Boss Knoten.",
 		"memo": "Dieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203bSichere die Versorgungslinien mit einer Träger Einsatzflotte\n\u27a3Belohnungen: \n\u00B6Erstewahl: 1x 'Material für neue Flugzeugmodelle' oder 4x 'Entwicklungsmaterial' \n\u00B6Zweitewahl: 1x 'Saiun' oder 1x 'Erfahrene Besatzung' oder 1x 'Geschenkbox'"
 	},
+    "872": {
+        "name": "Vierteljährliche Rang Punkte 4",
+        "desc": "Sende die 1.Flotte nach [W7-2-M], [W5-5], [W6-2] und [W6-5]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
+        "memo": "Dieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203bMilitärische Vorstoß Extra Operation: \"Operation Z\" Späte Operation\n\u27a3Belohnungen: 400x 'Rangpunkte' und entweder 4x 'Schrauben' ODER 3x 'Irako' ODER 4x 'Seeversorgung'",
+        "trackingDesc": [ "{0} S-Rang [W7-2-M]", "{0} S-Rang [W5-5]", "{0} S-Rang [W6-2]", "{0} S-Rang [W6-5]" ]
+    },
+    "284": {
+        "name": "Vierteljährliche Rangpunkte 4",
+        "desc": "Sende ein CL(T)/CT/CVL, 3 DD/DE und bis zu 2 weitere Schiffe nach [W1-4], [W2-1], [W2-2] und [W2-3]. S-Rang jeweils die Boss Knoten. Overlay: F10.",
+        "memo": "Dieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203b\"Oberflächen sicherungs Operation\" um die Nansei Archipelago Bekanntmachung\n\u27a3Belohnungen: 1x 'Geschenkbox' und 80x 'Rangpunkte' und entweder 2x 'Schrauben' ODER 2x 'Typ-94-Wasserbombenabschussvorrichtung' ODER 2x 'Metallfass (Transport'",
+        "trackingDesc": [ "{0} S-Rang [W1-4]", "{0} S-Rang [W2-1]", "{0} S-Rang [W2-2]", "{0} S-Rang [W2-3]" ]
+    },
 
 
     "301": {
@@ -1481,6 +1498,11 @@
         "name": "Der neue Schild",
         "desc": "Sichere 3 S-Rang Siege in Übungsgefechten innerhalb des selben Tages während du Haguro und Maya benutzt. Overlay: F10.",
         "memo": "\u27a3Belohnungen: 1x 'Material für neue Flugzeugmodelle' und entweder 4x 'Entwicklungsmaterial' ODER 3x '25mm Drillingsmaschinenkanone' ODER 2x '12cm 30-Rohr Raketenwerfer'"
+    },
+    "336": {
+        "name": "Übungen für die Transport Flotte",
+        "desc": "Ereiche 4 A-Rang+ Siege in Übungsgefechten innerhalb des selben Tages während du 2 LHA/AO/DE und bis zu 4 weitere Schiffe benutzt. Overlay: F10.",
+        "memo": "\u27a3Belohnungen entweder 1x 'Typ-94-Wasserbombenabschussvorrichtung' ODER 1x 'Typ-2 12cm Mörser Kai ODER 2x 'Typ-95 Wasserbombe'"
     },
 	
 
@@ -2120,6 +2142,12 @@
         "name": "Formierung des Elite Ryuusei Geschwanders der 1. CarDiv",
         "desc": "Habe 2800 Stahl, 9000 Baux. und 2x Erfahrene Besatzung. Habe Akagi Kai Ni als Sekretärin und ein >> Ryuusei Kai (CarDiv 1) in ihrem ersten Slot. Entsorge 4x 'Ryuusei Kai', 1x 'Saiun' und 2x 'T97-Torp. Bomber'",
         "memo": "Agaki Kai Ni E kann ebenfalls benutzt werden.\n\\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Stelle bitte sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 1x 'Ryuusei Kai (CarDiv 1 / Erfahren)'"
+    },
+    "621": {
+        "name": "Erforschung von Schiffgestüzter Boden Ausrüstung",
+        "desc": "Habe 1700 Munition, 30 Ent.Materialien und 10 Flammenwerfer. Habe CL(T)/CT als Sekretärin mit '7.7mm Maschinenkanone' in ihrem ersten Slot. Entsorge 4x '25mm Maschinenkanone', 2x 'Metallfass (Transport)' 1x '12cm 30-Rohr Raketenwerfer'.",
+        "memo": "\u2718Verbraucht die Ressourcen, Items und Ausrüstung. Bitte stelle sicher das die Ausrüstung freigegeben ist!\n\u27a3Belohnungen 1x 'Typ-2 12cm Mörser Kai'"
+
     },
 
 

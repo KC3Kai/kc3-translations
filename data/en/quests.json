@@ -1142,7 +1142,8 @@
         "code": "B80",
         "name": "Carry Out Preparations for the Airfield Construction!",
         "desc": "Sortie to [W6-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Construction Battalion"
+        "memo": "\u27a3Rewards a Construction Battalion",
+        "unlock": [ 833 ]
     },
     "829": {
         "code": "B81",
@@ -1545,6 +1546,12 @@
         "desc": "Sortie Haguro, Kamikaze and either [4 DD] OR [1 CA(V), 2 DD and NO other ship] to [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Reinforcement Expansion OR a Furniture Fairy"
     },
+    "833": {
+        "code": "B139",
+        "name": "Research of Ship-borne Land Based Equipment in Actual Combat",
+        "desc": "Sortie a LHA/AV and up to 5 additional ships to [W4-5] and [W6-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards either three Type 2 12cm Mortar Kai OR a Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
+    },
 
 
     "201": {
@@ -1749,6 +1756,7 @@
         "name": "Monthly Supply Lines",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako",
+        "unlock": [ 284 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-2]", "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]" ]
     },
@@ -1765,6 +1773,7 @@
         "name": "Quarterly Ranking Points 1",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
+        "unlock": [ 872 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
@@ -1824,6 +1833,22 @@
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ],
         "unlock": [ 895 ]
+    },
+    "872": {
+        "code": "Bq10",
+        "name": "Quarterly Ranking Points 4",
+        "desc": "Sortie Fleet 1 to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bMilitary Gains Extra Operation: \"Operation Z\" Latter Operation\n\u27a3Rewards 400 Ranking Points and either 4 Screws OR 3 Irako OR 4 Underway Replenishments",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W7-2-M]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-2]", "{0} S-Rank [W6-5]" ]
+    },
+    "284": {
+        "code": "Bq11",
+        "name": "Quarterly Ranking Points 5",
+        "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203b\"Surface Security Actions\" around the Nansei Archipelago Annoucement\n\u27a3Rewards a Present Box and 80 Ranking Points and either 2 Screws OR two Type 94 Depth Charge Launcher OR two Drum Canister",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     
     
@@ -2026,7 +2051,15 @@
         "code": "C35",
         "name": "The New Shield",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using Haguro and Maya. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards a New Model Aviation Armament Materials and either four Development Materials OR three 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers"
+        "memo": "\u27a3Rewards a New Model Aviation Armament Materials and either four Development Materials OR three 25mm Triple Autocannon Mounts OR two 12cm 30-tube Rocket Launchers",
+        "unlock": [ 336 ]
+    },
+    "336": {
+        "code": "C37",
+        "name": "Transport Fleet Exercise",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 LHA/AO/DE and up to 4 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards either a Type 94 Depth Charge Projector OR a Type 2 12cm Mortar Kai OR two Type 95 Depth Charge",
+        "unlock": [ 621 ]
     },
     
     
@@ -2884,6 +2917,13 @@
         "name": "Formation of the CarDiv 1's Elite Ryuusei Squadron",
         "desc": "Have 2800 Steel, 9000 Baux. and 2 Sk. Crew Members. Set Akagi Kai Ni as secretary with a >> Ryuusei Kai (CarDiv 1) in her 1st slot. Scrap 4 Ryuusei Kai, a Saiun and 2 T97 Torp. Bombers.",
         "memo": "Agaki Kai Ni E is also acceptable.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ryuusei Kai (CarDiv 1 / Skilled)"
+    },
+    "621": {
+        "code": "F89",
+        "name": "Research of Ship-borne Land Based Equipment",
+        "desc": "Have 1700 Ammo, 30 Devel. Materials and 10 Flamethrowers. Set CL(T)/CT as secretary with a 7.7mm Machine Gun in her 1st slot. Scrap 4 25mm Single Autocannon, 2 Drum Canister and a 12cm 30-tube Rocket Launcher.",
+        "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 12cm Mortar Kai",
+        "unlock": [ 833 ]
     },
 
     "701": {

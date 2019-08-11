@@ -1548,9 +1548,9 @@
     },
     "833": {
         "code": "B139",
-        "name": "Research of Ship-borne Land Based Equipment in Actual Combat",
+        "name": "Combat Operations Research on Shipborne Land-Based Equipment",
         "desc": "Sortie a LHA/AV and up to 5 additional ships to [W4-5] and [W6-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards either three Type 2 12cm Mortar Kai OR a Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
+        "memo": "\u27a3Rewards either three Type 2 12cm Mortar Kais OR a Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
     },
 
 
@@ -1770,7 +1770,7 @@
     },
     "854": {
         "code": "Bq2",
-        "name": "Quarterly Ranking Points 1",
+        "name": "Quarterly Operation Z, Part 1",
         "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
         "unlock": [ 872 ],
@@ -1811,7 +1811,7 @@
     },
     "888": {
         "code": "Bq7",
-        "name": "Quarterly Ranking Points 2",
+        "name": "Quarterly Mikawa Fleet",
         "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
         "tracking": [ [0,1], [0,1], [0,1] ],
@@ -1819,7 +1819,7 @@
     },
     "893": {
         "code": "Bq8",
-        "name": "Quarterly Ranking Points 3",
+        "name": "Quarterly Anchorage Region",
         "desc": "Sortie to [W1-5], [W7-1], [W7-2]. S-Rank the boss node of [W1-5] and [W7-1] 3 times. S-Rank both boss nodes of [W7-2] 3 times. Overlay: F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards 300 Ranking Points and either a Skilled Lookouts OR a Skilled Crew Member OR four Underway Replenishments",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
@@ -1836,17 +1836,17 @@
     },
     "872": {
         "code": "Bq10",
-        "name": "Quarterly Ranking Points 4",
+        "name": "Quarterly Operation Z, Part 2",
         "desc": "Sortie Fleet 1 to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bMilitary Gains Extra Operation: \"Operation Z\" Latter Operation\n\u27a3Rewards 400 Ranking Points and either 4 Screws OR 3 Irako OR 4 Underway Replenishments",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bExtension of Military Gains Mission: \"Operation Z\", Second Operation\n\u27a3Rewards 400 Ranking Points and either four Screws OR three Irako OR four Underway Replenishments",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W7-2-M]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-2]", "{0} S-Rank [W6-5]" ]
     },
     "284": {
         "code": "Bq11",
-        "name": "Quarterly Ranking Points 5",
+        "name": "Quarterly Nansei Archipelago",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203b\"Surface Security Actions\" around the Nansei Archipelago Annoucement\n\u27a3Rewards a Present Box and 80 Ranking Points and either 2 Screws OR two Type 94 Depth Charge Launcher OR two Drum Canister",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bThe Declaration of Nansei Archipelago Region Naval Patrol Mobilizations!\n\u27a3Rewards a Present Box, 80 Ranking Points and either two Screws OR two Type 94 Depth Charge Launchers OR two Drum Canisters",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
@@ -2056,9 +2056,9 @@
     },
     "336": {
         "code": "C37",
-        "name": "Transport Fleet Exercise",
+        "name": "Transport Fleet Exercises",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 LHA/AO/DE and up to 4 additional ships. F10 will clear the overlay.",
-        "memo": "\u27a3Rewards either a Type 94 Depth Charge Projector OR a Type 2 12cm Mortar Kai OR two Type 95 Depth Charge",
+        "memo": "\u27a3Rewards either a Type 94 Depth Charge Projector OR a Type 2 12cm Mortar Kai OR two Type 95 Depth Charges",
         "unlock": [ 621 ]
     },
     
@@ -2870,7 +2870,7 @@
     },
     "690": {
         "code": "F81",
-        "name": "Land Based Aerial Force Enhancement",
+        "name": "Land-Based Aerial Force Enhancement",
         "desc": "Have 4800 Bauxite, a Skilled Crew Member and two New Model Aviation Armament Materials. Scrap 4 Fighters, 4 Dive Bombers and 4 Torpedo Bombers.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards either a Raiden OR a Prototype Toukai OR two Shiden Model 11"
     },
@@ -2920,8 +2920,8 @@
     },
     "621": {
         "code": "F89",
-        "name": "Research of Ship-borne Land Based Equipment",
-        "desc": "Have 1700 Ammo, 30 Devel. Materials and 10 Flamethrowers. Set CL(T)/CT as secretary with a 7.7mm Machine Gun in her 1st slot. Scrap 4 25mm Single Autocannon, 2 Drum Canister and a 12cm 30-tube Rocket Launcher.",
+        "name": "Operations Research on Shipborne Land-Based Equipment",
+        "desc": "Have 1700 Ammo, 30 Dev. Mat. and 10 Flamethrowers. Set a CL(T)/CT as sec. with a 7.7mm Machine Gun in slot 1. Scrap 4 25mm Single Autocannons, 2 Drum Can. and a 12cm 30t Rocket.",
         "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 12cm Mortar Kai",
         "unlock": [ 833 ]
     },

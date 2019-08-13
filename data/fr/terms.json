@@ -611,6 +611,7 @@
 	"BattleKindAirDefendOnly" : "Noeu de raid aérien",
 	"BattleKindEnemyCombined" : "Ennemi en flotte combinée",
 	"BattleKindNightToDay" : "Nœud de combat de nuit au jour",
+	"BattleKindLongRangeRaid" : "Nœud d'embuscade au radar",
 	"BattlePreviousEncounters" : "Rencontres passées",
 	"BattleUnexpectedDamageTip" : "{0:attackerName} attaque {2:id}: {1:defenderName}, Dommages: {3}, Attendu: {4}~{5}",
 	
@@ -631,9 +632,12 @@
 	"ShipAccuracy": "Touché",
 	"ShipRadius"  : "Rayon",
 	"ShipBombing" : "Bombardement",
+	"ShipFuel"    : "Carburant",
+	"ShipAmmo"    : "Munition",
 	"ShipAccAntiBomber" : "Anti-bombardiés",
 	"ShipEvaInterception" : "Interception",
 	"ShipDeployCost" : "Coup de déployement",
+	"ShipGearAntiLand" : "Peut anti-sol",
 	
 	"ShipWarfareShelling" : "Bombardement",
 	"ShipWarfareTorpedo"  : "Torpilles",
@@ -711,12 +715,15 @@
 	"PanelConsumedSteel" : "Cout en fer par bataille = {0}",
 	"PanelLbasSortieCosts" : "LBAS Sortie Cost\n\u2003Carburant: {0}, Munition: {1}",
 	"PanelTransportPoints" : "Résultat des cartes de transport TP:\n\u2003Boss rang A: {0:rankA}\n\u2003Boss rang S: {1:rankS}",
+	"PanelTransportPointsAbbr" : "TP",
 	"PanelSupportExpCosts" : "Support Type: {0}\nCoup des expédition de support\n\u2003Carburant: {1}, Munition: {2}",
 	"PanelAirContactTip" : "Contrat sous {0:airControl}:\n\u2003Chance de succès: {1}%\n\u2003Chance d'activation: {2}%\n\u2003Aircraft Selection Failure: {3}%{4:contactPlanes}",
 	"PanelAirContactPlanes" : "\nAircraft Selection Priority Top {0}:\n{1:planeRateList}",
 	"PanelAirStrikeTip" : "{1:airContact} Puissance aérienne: {0}",
 	"PanelAntiLandPowerTip" : "Modification des anti-installation :\n\u2003(... pre-cap) post-cap\n\u2003(... x{0} +{1}) x{2}\nPuissance Chuuha: {3} / {4}",
-		
+	"PanelFleetAATip" : "Flotte anti-air. Utilisé dans les calculs pertinant pour le ratio d'avions abattu.",
+	"PanelFormationTip" : ". La formation selectionné est utilisée dans une variété de calculs, à savoir dans les stats de la flotte anti-air et dans le feuille de stat lorsque vous passez la souris sur l'icone d'un navire dans le panneau.",
+
 	"PanelHasTaiha" : "PdV critique",
 	"PanelFSTaiha" : "Navire amiral",
 	"PanelCombinedFSChuuha" : "Navire amiral faible",
@@ -817,6 +824,8 @@
 	"ExpedTotalLos" : "ΣLoS",
 	"ExpedTotalAa" : "ΣAA",
 	"ExpedTotalFp" : "ΣFP",
+	"ExpedTotalImp" : "ΣImp",
+	"ExpedSampleFleet" : "Exemple de flotte en jeu",
 	"ExpedEscortTip" : "Les DE peuvent être remplacé par des DD mais notez que les mélanger\npeut résoudre à un echec sur certaines expéditions.",
 	"ExpedCheckReq" : "Vérifier exigences",
 	"ExpedExpUnit" : " exp",
@@ -847,6 +856,12 @@
 	"FitWeightTotal" : "Précision du bombardement:",
 	"EquipOaswMessage" : "Peut performer une ouverture ASW",
 	"EquipOaswPower" : "Pre-Cap Basic Power:",
+
+	"SurfaceRadar" : "N'importe quel radar de surface",
+	"AirRadar" : "N'importe quel radar aérien",
+	"TripleTorpedo" : "Torpilles 61cm triple ou triple (à oxygène)",
+	"TripleTorpedoOxygenLateModel" : "Torpilles 61cm triple (à oxygène) ou dernier modèle",
+	"QuadrupleTorpedoOxygenLateModel" : "Torpilles 61cm quadruple (à oxygène) ou dernier modèle",
 	
 	"PvpListTitle" : "Opposents en PvP",
 	"PvpListCreateType0" : "Flotte d'entrainement [1er groupe]",
@@ -929,7 +944,8 @@
 	
 	"ShipListFullNamePattern" : "{0:className} - {1:shipName}",
 
-	"BattleHistoryAirRaidTip" : "Zone de bombardement : {0}\nPertes entrainées : {1}\nPertes de bauxite et de carburant : {2}\nBataille aérienne : {3}\n{11:inferredEnemyAirPow}\nEnemies abattus: {4}\nTB restant: {5}\nDB restant: {6}\nBombardiers MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
+	"BattleHistoryAirRaidTip" : "Zone de bombardement : {0}\nPertes entrainées : {1}\nPertes de bauxite et de carburant : {2}\nBataille aérienne : {3}\n{11:inferredEnemyAirPow}\nEnemies abattus: {4}\nTB restant: {5}\nDB restant: {6}\nBombardiers MVPs:\n\u2003Emplacement #1: {7}\n\u2003Emplacement #2: {8}\n\u2003Emplacement #3: {9}\n\u2003Emplacement #4: {10}",
+	"BattleHistoryFleetAndLbasCostTip" : "Cout de la flotte: {0}\nCout potentiel du LBAS: {1}",
 	
 	"MasterShipSaltCheck" : "Existence acceptée",
 	"MasterShipSaltUnCheck" : "Existence refusée",

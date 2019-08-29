@@ -155,6 +155,7 @@
 
 	"AboutWebStore": "크롬 웹스토어",
 	"AboutFacebook": "페이스북",
+	"AboutTwitter" : "트위터",
 	"AboutSource": "소스",
 	"AboutReport": "버그 신고",
 
@@ -179,6 +180,7 @@
 	"AboutDevTester": "개발 빌드",
 	"AboutReporter": "Git 리포터",
 	"AboutDiscord" : "Discord",
+	"AboutPrivacy" : "개인정보 보호정책",
 
 	"AboutProjectHead": "프로젝트 리더",
 	"AboutLogo": "로고 디자인",
@@ -761,6 +763,9 @@
 	"PanelAirContactPlanes": "\n선택판정순 TOP{0}의 슬롯：\n{1:planeRateList}",
 	"PanelAirStrikeTip"    : "{1}항공전 공격력：{0}",
 	"PanelAntiLandPowerTip": "캡전후의 대지보정：\n　(... x{0} +{1}) x{2} +{3}\n중파시의 공격력：낮{4} 밤{5}",
+ 	"PanelFleetAATip" : "함대 방공치는 함대 전체에 1개 값만 적용 되며, 대공포화의 고정격추에 가중대공치랑 같이 영향을 줍니다.",
+	"PanelFormationTip" : "\n선택된 진형은 비전투 상황의 진형이며 함선의 공격력이나 대공 수치 등의 여러가지 계산에 쓰여집니다.",
+	"PanelLayoutSelection" : "레이아웃 선택:",
 
 
 	"PanelHasTaiha": "대파",

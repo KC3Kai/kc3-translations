@@ -333,6 +333,11 @@
 	"SettingsDisableHasDamecon" : "Ignore Ships w/Damecon",
 	"SettingsDisableUnlockShips" : "Ignore Unlock Ships",
 	"SettingsNoAnimation" : "No Animation Effect",
+	"SettingsNextBlocker" : "\"Advance\" button blocker*",
+	"SettingsNextBlockerTip" : "Enabling this feature doesn't mean you shouldn't pay attention to HP levels of your ships! Also please note that \"SE mode\" will only work when the in-game home port sound option \"SE\" is enabled (game tab can still be muted though).",
+	"SettingsNextBlockerDisabled" : "Disabled",
+	"SettingsNextBlockerSE" : "SE mode",
+	"SettingsNextBlockerNetwork" : "Network mode",
 	
 	"SettingsAPIGameScreen" : "Game Window",
 	"SettingsQuestOverlay" : "Quest Translations",
@@ -466,6 +471,8 @@
 	"SettingsHours" : "hours",
 	"SettingsMinutes" : "minutes",
 	"SettingsSeconds" : "seconds",
+
+	"NextButtonBlockOverlay" : "Taiha predicted. \"Advance\" Button blocked. Press F10 to clear overlay.",
 	
 	"InstalledTitle": "KC3改 has been installed successfully!",
 	"InstalledText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",

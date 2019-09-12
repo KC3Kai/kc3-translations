@@ -2209,7 +2209,9 @@
         "Equip(1)": "Umm, Admiral, I'm just a bit interested... in the newly developed carrier planes.",
         "Yasen(2)": "I'll show you the power of the remodelled 1st Carrier Division!"
     },
-    "599": {},
+    "599": {
+        "Friend44(1)": "1st Carrier Division, attack squadrons, launch all planes! We're counting on you."
+    },
     "84": {
         "Intro": {
             "0": "Aircraft Carrier, Kaga here.",
@@ -2273,6 +2275,7 @@
         "Idle": "CarDiv 5, have you honed your skills? I see. Very well, you shall demonstrate it\u2014 in the field.",
         "Construction": "There's a new ship, but I wonder if she's strong enough.",
         "Damaged(2)": "Akagi... I will not sink and... leave you behind...",
+        "Friend44(1)": "A wise decision.",
         "H0000": "Midnight.",
         "H0100": "0100... it's quiet.",
         "H0200": "0200... the hour of ushimitsu.",
@@ -5421,6 +5424,7 @@
         "Attack": "Oui! Let's go. Bomber Squadron, begin takeoff!",
         "Friend42(1)": "I'll support you even though I'm not that capable. Feu!",
         "Friend42(2)": "Merci. Even I have managed to make it to the battlefield. Begin the attack.",
+        "Friend45(1)": "Yes, I understand. Please leave this operation to me.",
         "H0000": "It is now midnight. For today, I have been given the responsibility of putting the directives into practice.",
         "H0100": "It is now 1 a.m. This truly is a time when one should already be in bed.",
         "H0200": "It is now 2 a.m. I would recommend taking at least a short rest. Otherwise, tomorrow will be difficult.",
@@ -7678,6 +7682,8 @@
         "Damaged(2)": "Uu... I need to snap out of it...",
         "Damaged(3)": "At this rate, Bismarck onee-sama is going to laugh at me...!",
         "Sunk": "I'll... be the... first to go this time... Sakawa... Nagato... see... you...",
+        "Friend45(1)": "Feuer!",
+        "Friend45(2)": "Prinz Eugen has arrived at the operation area. I'll now support the allied forces. Feuer!",
         "2@NewYears": "So this is the Japanese new year, (2 priests!?)...! The (Japanese city!?) is so uniquely pretty...!",
         "2@Setsubun": "So this part of Japanese culture is \"Setsubuuun~!\" I should throw this bean at Nagato? ...Ei! Oh?!",
         "2@Anniversary": "Today is a wonderful day! Good work as usual, Admiral! Ehehe.",
@@ -12276,6 +12282,7 @@
         "MVP": "Of course! It's expected that I'm number one. Right?",
         "Damaged(2)": "Whoa! Pay attention to evasive maneouvers!",
         "Damaged(3)": "J-just... you wait and see! I'll come back again and crush you!",
+        "Friend45(1)": "I'll be the first to attack! Shigure, follow me!",
         "4@Summer2018": "Ah, a swimsuit? Fufufun, don't worry about that. Summer will come again next year, right?"
     },
     "43": {
@@ -12385,6 +12392,8 @@
         "H1900Old": "1900. It's about time for dinner."
     },
     "145": {
+        "Friend45(1)": "Shigure of Sasebo has arrived at the operation area... It's my first time here, but... Admiral, it's a nice place, isn't it?",
+        "Friend45(2)": "Shigure, acknowledging. Beginning the attack. Let's go!",
         "1@Summer2018": "I'm the Shiratsuyu-class destroyer, Shigure. Admiral, please keep taking care of me.",
         "3@EarlySummer": "Yeah, even I'm a little embarrassed.",
         "12@EarlySummer": "I wonder. Maybe the armor is too thin, after all?",
@@ -14594,6 +14603,7 @@
         "Poke(2)": "Commander, is it possible that... you could stop calling me Nowacchi?",
         "Yasen(2)": "Compared to Mariana or Leyte, this is nothing!",
         "MVP": "That's... that's right! Maikaze, you saw it! This is the ability of the 4th DesDiv!",
+        "Friend45(1)": "Destroyer Division 4 has stormed the operation area. We'll now support the allied forces. Follow me and charge!",
         "H0000": "Commander, Nowaki will be serving as your secretary ship for today. I will be in your care.",
         "H0100": "0100. Commander, it is the late night.",
         "H0200": "0200. Commander, it is now the hour of ushimitsu.",
@@ -15840,6 +15850,7 @@
         "Poke(2)": "This additional Anti-Aircraft Fire Director and Long-Barrel 10cm Gun... My true power. With these, I can protect the fleet!",
         "Supply": "Thank you very much for these important supply goods!",
         "Damaged(3)": "I'm hit!? Abandon all torpedoes! Suppress detonations! ...Not yet... I'm still fine!",
+        "Friend45(1)": "Akizuki has arrived. Understood, charging in. I got this!",
         "H0000": "Commander, I, Akizuki, will be reporting the time! The current time is 0000!",
         "H0100": "Reporting in that it's 0100. Is this way fine with you, Commander?",
         "H0200": "It's 0200. The moon tonight is... The moon is so beautiful, Commander. Um... Commander?",
@@ -17322,7 +17333,8 @@
         "Damaged(1)": "Aaah!",
         "Damaged(2)": "Waaah! Begin fire control where the shell landed.",
         "Damaged(3)": "Gah, no matter how strong the enemy is... I'll... I'll never lose! I'll fight to the end!",
-        "Sunk": "I can't go on... So this is... where I'll fall... Admiral, everyone... please... stay safe... I'll... I'll..."
+        "Sunk": "I can't go on... So this is... where I'll fall... Admiral, everyone... please... stay safe... I'll... I'll...",
+        "Friend45(1)": "The reinforced 102nd Squadron has arrived at the operation area. We'll now support the allied forces. Let's go, charge!"
     },
     "616": {
         "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. On alert. Admiral, please continue to care for the coastal defense ships and the Maritime Escort Division. I'll continue to give my best.",

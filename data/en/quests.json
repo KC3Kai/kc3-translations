@@ -1851,6 +1851,12 @@
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
+    "845": {
+        "code": "",
+        "name": "Quarterly Western Waters",
+        "desc": "Sortie to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials"
+    },
     
     
     "301": {
@@ -2061,6 +2067,18 @@
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 LHA/AO/DE and up to 4 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards either a Type 94 Depth Charge Projector OR a Type 2 12cm Mortar Kai OR two Type 95 Depth Charges",
         "unlock": [ 621 ]
+    },
+    "337": {
+        "code": "",
+        "name": "Quarterly DesDiv 18 Exercises",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using Arare, Kagerou, Kasumi, Shiranui and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bDesDiv 18 Exercises!\n\u27a3Rewards a Mamiya and either a Daihatsu Landing Craft OR two 12cm 30-tube Rocket Launchers OR three Screws"
+    },
+    "338": {
+        "code": "",
+        "name": "Mutsuki-class, Assemble! Commence Exercises!",
+        "desc": "Secure 4 victories in Exercises within the same day using 4 Mutsuki-class and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards an Irako and either five Development Materials OR a Furniture Fairy OR a New Model Rocket Development Materials"
     },
     
     
@@ -2649,11 +2667,17 @@
         "desc": "Have 5000 Furniture Coins, two 7.7mm Machine Guns and two Type 96 Fighters in your inventory. Scrap two 12.7cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
-    "653": {
+    "65x3": {
         "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "653": {
+        "code": "",
+        "name": "Quarterly Arsenal",
+        "desc": "Have 6000 Furniture Coins, three 35.6cm Twin Gun Mounts and three Type 96 Fighters. Scrap six 14cm Single Gun Mounts. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai"
     },
     "656": {
         "code": "F49",

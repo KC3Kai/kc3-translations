@@ -1560,7 +1560,7 @@
         "name": "Daily Victory",
         "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
         "memo": "\u203bCrush the Enemy Fleet!",
-        "unlock": [ 216, 211, 212, 330, 892 ],
+        "unlock": [ 216, 211, 212, 330, 337, 892 ],
         "tracking": [ [0,1] ]
     },
     "216": {
@@ -1831,9 +1831,9 @@
         "name": "Quarterly [W1/2]",
         "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "unlock": [ 895 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
-        "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ],
-        "unlock": [ 895 ]
+        "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     "872": {
         "code": "Bq10",
@@ -1848,14 +1848,17 @@
         "name": "Quarterly Nansei Archipelago",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bThe Declaration of Nansei Archipelago Region Naval Patrol Mobilizations!\n\u27a3Rewards a Present Box, 80 Ranking Points and either two Screws OR two Type 94 Depth Charge Launchers OR two Drum Canisters",
+        "unlock": [ 845 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     "845": {
-        "code": "",
+        "code": "Bq12",
         "name": "Quarterly Western Waters",
         "desc": "Sortie to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W4-1]", "{0} S-Rank [W4-2]", "{0} S-Rank [W4-3]", "{0} S-Rank [W4-4]", "{0} S-Rank [W4-5]" ]
     },
     
     
@@ -2677,7 +2680,9 @@
         "code": "",
         "name": "Quarterly Arsenal",
         "desc": "Have 6000 Furniture Coins, three 35.6cm Twin Gun Mounts and three Type 96 Fighters. Scrap six 14cm Single Gun Mounts. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai",
+        "tracking": [ [0,6] ],
+        "trackingDesc": [ "{0} 14cm Single Gun Mount" ]
     },
     "656": {
         "code": "F49",

@@ -2614,6 +2614,7 @@
         "name": "Quarterly Type 1 Land-based Attack Aircraft",
         "desc": "Have one Type 96 Land-based Attack Aircraft and two Type 97 Torpedo Bombers in your inventory. Scrap two Type 0 Fighter Model 21s.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft",
+        "unlock": [ 644 ],
         "tracking": [ [0,2] ],
         "trackingDesc": [ "{0} Type 0 Fighter Model 21" ]
     },

@@ -1930,7 +1930,7 @@
         "unlock": [ 330, 636 ]
     },
     "313": {
-        "code": "C26",
+        "code": "C40",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box",
@@ -2514,8 +2514,7 @@
         "name": "Monthly Type 0 Fighter Model 52 (Skilled)",
         "desc": "Set a CV as secretary. Equip her with a >> Type 0 Fighter Model 21 (Skilled). Scrap two Type 0 Fighter Model 52s.",
         "memo": "\u203bModel Conversion\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 52 (Skilled)",
-        "tracking": [ [0,2] ],
-        "trackingDesc": [ "{0} Type 0 Fighter Model 52" ]
+        "tracking": [ [0,2] ]
     },
     "629": {
         "code": "F26",
@@ -2615,8 +2614,7 @@
         "desc": "Have one Type 96 Land-based Attack Aircraft and two Type 97 Torpedo Bombers in your inventory. Scrap two Type 0 Fighter Model 21s.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft",
         "unlock": [ 644 ],
-        "tracking": [ [0,2] ],
-        "trackingDesc": [ "{0} Type 0 Fighter Model 21" ]
+        "tracking": [ [0,2] ]
     },
     "644": {
         "code": "F40",
@@ -2683,8 +2681,7 @@
         "name": "Quarterly Arsenal",
         "desc": "Have 6000 Furniture Coins, three 35.6cm Twin Gun Mounts and three Type 96 Fighters. Scrap six 14cm Single Gun Mounts. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai",
-        "tracking": [ [0,6] ],
-        "trackingDesc": [ "{0} 14cm Single Gun Mount" ]
+        "tracking": [ [0,6] ]
     },
     "656": {
         "code": "F49",

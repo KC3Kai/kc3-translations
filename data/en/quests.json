@@ -2986,35 +2986,43 @@
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
     },
-	
+
     "866": {
         "code": "SB47",
         "name": "Saury Fishing: It's a Bad Catch Year? But Even So... This is Great!",
         "desc": "Have 3 Sauries in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR five Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR two Searchlights OR three Screws"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR five Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR two Searchlights OR three Screws",
+        "unlock": [ 867, 882 ],
+        "hash": -2016189386
     },
     "867": {
         "code": "SB48",
         "name": "Saury Fishing: I'm Hyped for This Year!",
         "desc": "Have 8 Sauries in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Daihatsu Landing Craft OR three 12cm 30-tube Rocket Launchers OR four Combat Rations\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials OR a Ryuusei Kai (CarDiv 1)"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Daihatsu Landing Craft OR three 12cm 30-tube Rocket Launchers OR four Combat Rations\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials OR a Ryuusei Kai (CarDiv 1)",
+        "unlock": [ 868 ],
+        "hash": -118887193
     },
     "868": {
         "code": "SB49",
         "name": "Saury Fishing: The Big Catch Banner... I Won't... Give Up on It Now!",
         "desc": "Have 18 Sauries in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Type 19 Big Catch Banner and either a Type144/147 ASDIC OR two Action Reports OR a Type 18 Big Catch Banner"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Type 19 Big Catch Banner and either a Type144/147 ASDIC OR two Action Reports OR a Type 18 Big Catch Banner",
+        "hash": 512216414
     },
     "882": {
         "code": "SB50",
         "name": "Special Mission: Don't Worry, We Still Have Sardines!",
         "desc": "Have 25 Sardines in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: One of Etorofu, Matsuwa, Sado, Tsushima or Fukae\n\u00B6Second choice: Either two Type 2 Depth Charges OR a Reinforcement Expansion OR five Screws"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: One of Etorofu, Matsuwa, Sado, Tsushima or Fukae\n\u00B6Second choice: Either two Type 2 Depth Charges OR a Reinforcement Expansion OR five Screws",
+        "unlock": [ 883 ],
+        "hash": 1098286056
     },
     "883": {
         "code": "SB51",
         "name": "Special Mission: This Year is a Good Catch for Sardines!",
         "desc": "Have 50 Sardines in your inventory. Press F10 to clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult",
+        "hash": 1203783945
     }
 }

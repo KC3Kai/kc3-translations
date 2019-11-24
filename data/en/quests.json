@@ -1499,7 +1499,7 @@
         "code": "B133",
         "name": "Highly Remodeled Fast Battleship Kongou Kai Ni C, Break into the South!",
         "desc": "Sortie Kongou Kai Ni C as flagship, 1 other Kongou-class, 2 DD and up to 2 additional ships to [W5-1], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node twice. Overlay:F10.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 35.6cm Twin Gun Mount Kai Ni and either an Action Report OR two New Model Artillery Armament Materials OR a Medal"
+        "memo": "\u27a3Rewards a 35.6cm Twin Gun Mount Kai Ni and either an Action Report OR two New Model Artillery Armament Materials OR a Medal"
     },
     "291": {
         "code": "B134",
@@ -1560,7 +1560,7 @@
         "name": "Daily Victory",
         "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
         "memo": "\u203bCrush the Enemy Fleet!",
-        "unlock": [ 216, 211, 212, 330, 892 ],
+        "unlock": [ 216, 211, 212, 330, 337, 892 ],
         "tracking": [ [0,1] ]
     },
     "216": {
@@ -1805,7 +1805,7 @@
     "875": {
         "code": "Bq6",
         "name": "Quarterly [W5-4]",
-        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
+        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai/Kai Ni or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
@@ -1831,9 +1831,9 @@
         "name": "Quarterly [W1/2]",
         "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "unlock": [ 895 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
-        "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ],
-        "unlock": [ 895 ]
+        "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     "872": {
         "code": "Bq10",
@@ -1848,8 +1848,17 @@
         "name": "Quarterly Nansei Archipelago",
         "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bThe Declaration of Nansei Archipelago Region Naval Patrol Mobilizations!\n\u27a3Rewards a Present Box, 80 Ranking Points and either two Screws OR two Type 94 Depth Charge Launchers OR two Drum Canisters",
+        "unlock": [ 845 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
+    },
+    "845": {
+        "code": "Bq12",
+        "name": "Quarterly [W4]",
+        "desc": "Sortie to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W4-1]", "{0} S-Rank [W4-2]", "{0} S-Rank [W4-3]", "{0} S-Rank [W4-4]", "{0} S-Rank [W4-5]" ]
     },
     
     
@@ -1921,7 +1930,7 @@
         "unlock": [ 330, 636 ]
     },
     "313": {
-        "code": "C26",
+        "code": "C40",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box",
@@ -2061,6 +2070,19 @@
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 LHA/AO/DE and up to 4 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards either a Type 94 Depth Charge Projector OR a Type 2 12cm Mortar Kai OR two Type 95 Depth Charges",
         "unlock": [ 621 ]
+    },
+    "337": {
+        "code": "C38",
+        "name": "Quarterly DesDiv 18 Exercises",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using Arare, Kagerou, Kasumi, Shiranui and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bDesDiv 18 Exercises!\n\u27a3Rewards a Mamiya and either a Daihatsu Landing Craft OR two 12cm 30-tube Rocket Launchers OR three Screws",
+        "tracking": [ [0,3] ]
+    },
+    "338": {
+        "code": "C39",
+        "name": "Mutsuki-class, Assemble! Commence Exercises!",
+        "desc": "Secure 4 victories in Exercises within the same day using 4 Mutsuki-class and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u27a3Rewards an Irako and either five Development Materials OR a Furniture Fairy OR a New Model Rocket Development Materials"
     },
     
     
@@ -2326,7 +2348,7 @@
         "name": "Daily Development 2",
         "desc": "Attempt to construct 3 pieces of equipment. Failures count toward this.",
         "memo": "\u203bConcentrated Enhanced Equipment Development",
-        "unlock": [ 608, 673 ],
+        "unlock": [ 608, 653, 673 ],
         "tracking": [ [0,3] ]
     },
     "608": {
@@ -2492,8 +2514,7 @@
         "name": "Monthly Type 0 Fighter Model 52 (Skilled)",
         "desc": "Set a CV as secretary. Equip her with a >> Type 0 Fighter Model 21 (Skilled). Scrap two Type 0 Fighter Model 52s.",
         "memo": "\u203bModel Conversion\n\u2718Consumes the equipment. Make sure the equipped plane is unlocked!\n\u27a3Rewards a Type 0 Fighter Model 52 (Skilled)",
-        "tracking": [ [0,2] ],
-        "trackingDesc": [ "{0} Type 0 Fighter Model 52" ]
+        "tracking": [ [0,2] ]
     },
     "629": {
         "code": "F26",
@@ -2592,8 +2613,8 @@
         "name": "Quarterly Type 1 Land-based Attack Aircraft",
         "desc": "Have one Type 96 Land-based Attack Aircraft and two Type 97 Torpedo Bombers in your inventory. Scrap two Type 0 Fighter Model 21s.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bProcurement of the Mainstay Attack Aircraft\n\u2718Consumes the equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 1 Land-based Attack Aircraft",
-        "tracking": [ [0,2] ],
-        "trackingDesc": [ "{0} Type 0 Fighter Model 21" ]
+        "unlock": [ 644 ],
+        "tracking": [ [0,2] ]
     },
     "644": {
         "code": "F40",
@@ -2649,11 +2670,18 @@
         "desc": "Have 5000 Furniture Coins, two 7.7mm Machine Guns and two Type 96 Fighters in your inventory. Scrap two 12.7cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
-    "653": {
+    "65x3": {
         "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+    },
+    "653": {
+        "code": "F90",
+        "name": "Quarterly Arsenal",
+        "desc": "Have 6000 Furniture Coins, three 35.6cm Twin Gun Mounts and three Type 96 Fighters. Scrap six 14cm Single Gun Mounts. Press F10 to clear the overlay.",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai",
+        "tracking": [ [0,6] ]
     },
     "656": {
         "code": "F49",
@@ -2957,5 +2985,44 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
+    },
+
+    "866": {
+        "code": "SB47",
+        "name": "Saury Fishing: It's a Bad Catch Year? But Even So... This is Great!",
+        "desc": "Have 3 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR five Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR two Searchlights OR three Screws",
+        "unlock": [ 867, 882 ],
+        "hash": -2016189386
+    },
+    "867": {
+        "code": "SB48",
+        "name": "Saury Fishing: I'm Hyped for This Year!",
+        "desc": "Have 8 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Daihatsu Landing Craft OR three 12cm 30-tube Rocket Launchers OR four Combat Rations\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials OR a Ryuusei Kai (CarDiv 1)",
+        "unlock": [ 868 ],
+        "hash": -118887193
+    },
+    "868": {
+        "code": "SB49",
+        "name": "Saury Fishing: The Big Catch Banner... I Won't... Give Up on It Now!",
+        "desc": "Have 18 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Type 19 Big Catch Banner and either a Type144/147 ASDIC OR two Action Reports OR a Type 18 Big Catch Banner",
+        "hash": 512216414
+    },
+    "882": {
+        "code": "SB50",
+        "name": "Special Mission: Don't Worry, We Still Have Sardines!",
+        "desc": "Have 25 Sardines in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: One of Etorofu, Matsuwa, Sado, Tsushima or Fukae\n\u00B6Second choice: Either two Type 2 Depth Charges OR a Reinforcement Expansion OR five Screws",
+        "unlock": [ 883 ],
+        "hash": 1098286056
+    },
+    "883": {
+        "code": "SB51",
+        "name": "Special Mission: This Year is a Good Catch for Sardines!",
+        "desc": "Have 50 Sardines in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult",
+        "hash": 1203783945
     }
 }

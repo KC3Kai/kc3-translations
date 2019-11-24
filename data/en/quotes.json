@@ -1749,7 +1749,9 @@
         "Damaged(3)": "Oh my God! I've been hit? Look at what you've done now.",
         "Sunk": "Oh my... God... Someone like me is... sinking... into this sea? ...The water is cold... Cold and... dark...",
         "SpCutin": "Colorado Squadron, full broadside! Open fire when you've confirmed the targets! We'll destroy them in one shot. Fire!",
-        "2@Rainy2019": "So it gets pretty rainy here around this season, huh? I prefer when it's sunny. Wee Vee, how about you?"
+        "2@Rainy2019": "So it gets pretty rainy here around this season, huh? I prefer when it's sunny. Wee Vee, how about you?",
+        "2@Fall2019": "The Naval District Autumn Festival... This is nice. The atmosphere of the festivals in this country is... Ah, what is that destroyer eating? I'd like to try some.",
+        "2@Saury2019": "So this is the Saury Festival I've heard about. It's a lot larger than I imagined. Since I'm here, I'd like to try one of those \"salt grilled saury\"! Can I?"
     },
     "1496": {
         "Intro": "Hi, one of the Big Seven from the States, 1st ship of the Colorado-class battleships, USS Colorado, arriving on station. Admiral, make sure you stick real close to me today too. What do you say? OK!",
@@ -1834,12 +1836,17 @@
         "2@Anniversary2018": "Congratulations on the 5th Anniversary. Thank you very much, Admiral.",
         "3@Saury2018": "So this is how the Naval Base Saury Festival is opening this year. Aah, it kind of takes me back!",
         "4@Saury2018": "I'll help out too. Let me help. Please! Ah, this is a nice radish. I'll grate it.",
-        "2@Anniversary2019": "I congratulate it. It's our anniversary, Admiral. Thank you, and congratulations."
+        "2@Anniversary2019": "I congratulate it. It's our anniversary, Admiral. Thank you, and congratulations.",
+        "3@EventShingle": "We need to find Janus, and bring her home.",
+        "3@Fall2019": "The place where Akagi, Yamato, and Nisshin were born? I'm sure it's a wonderful place. I can't wait to see it. What's delicious over there? Nikujaga?",
+        "2@Fall2019": "Kure Naval District? The home of the Japanese Fleet. I wonder what kind of place it is. I would like to go too."
     },
     "364": {
         "Friend42(1)": "Warspite, roger that! Begin the attack!",
         "Friend42(2)": "Sorry to keep you waiting! Battleship Warspite has arrived on the battlefield! We'll now back you up. Are you ready, Nelson? Let's go!",
         "Friend42(3)": "Sorry to keep you waiting! Battleship Warspite has arrived on the battlefield! We'll now back you up.",
+        "Friend45(1)": "The European Combined Grand Fleet, flagship Warspite, has arrived at the operation area. We will not support the friendly fleets. All ships, attack!",
+        "Friend45(2)": "Her Majesty's Ship, Warspite, has arrived to provide support. Come around the front of the enemy. Open fire!",
         "H0000": "Admiral, the date has changed. I shall serve as flagship of the fleet for today.",
         "H0100": "It's one o'clock. I hope that tone of voice was good.",
         "H0200": "It's two o'clock now. The late night is so quiet. I'm rather fond of this hour.",
@@ -2118,7 +2125,9 @@
         "2@Saury2018": "Did you eat that thing that I made specially for you, My Admiral? Hmmm? I see, you ate it. I see...",
         "4@LateFall2018": "Now, it's done, help yourself. I've taken the time to make this especially for you. You better savour every last bit. How is it? Re-really? That's good then. Thank you.",
         "3@LateFall2018": "It can't be helped then, if it's that delicious then I'll make some for you right now. Just wait.",
-        "2@LateFall2018": "My Admiral, is that really that delicious? Really? I see..."
+        "2@LateFall2018": "My Admiral, is that really that delicious? Really? I see...",
+        "3@EventShingle": "Humph, we'll be the ones to protect this sea. Mon Amiral, just watch.",
+        "2@Saury2019": "Mon Amiral? The saury catch is bad this year you say? Well, if there's no saury then let them have sardines. I believe that was a saying in an old book from my country... No wait, I think that was a bit off..."
     },
     "392": {
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
@@ -2207,7 +2216,10 @@
         "Equip(1)": "Umm, Admiral, I'm just a bit interested... in the newly developed carrier planes.",
         "Yasen(2)": "I'll show you the power of the remodelled 1st Carrier Division!"
     },
-    "599": {},
+    "599": {
+        "Friend44(1)": "1st Carrier Division, attack squadrons, launch all planes! We're counting on you.",
+        "Friend44(2)": "Now, let us begin!"
+    },
     "84": {
         "Intro": {
             "0": "Aircraft Carrier, Kaga here.",
@@ -2271,6 +2283,7 @@
         "Idle": "CarDiv 5, have you honed your skills? I see. Very well, you shall demonstrate it\u2014 in the field.",
         "Construction": "There's a new ship, but I wonder if she's strong enough.",
         "Damaged(2)": "Akagi... I will not sink and... leave you behind...",
+        "Friend44(1)": "A wise decision.",
         "H0000": "Midnight.",
         "H0100": "0100... it's quiet.",
         "H0200": "0200... the hour of ushimitsu.",
@@ -3209,6 +3222,7 @@
         "2@Valentines2019": "Admiral, here is my Mediterranean-style Genovese chocolate for you. Yes, it's my own secret recipe. I haven't even tasted it yet."
     },
     "365": {
+        "Friend45(1)": "Now, it's time for my planes to go on a real sortie.",
         "H0000": "As of now, the time is midnight. Buona sera! Admiral? For today, I'll be assigned as your secretary ship.",
         "H0100": "01\u266a00\u266a Admiral? See? I'm perfect for announcing the time!",
         "H0200": "02... umm... 00! Good, good! That was flawless!",
@@ -3310,7 +3324,8 @@
     },
     "545": {
         "Poke(3)": "Admiral, I just ran maintenance on this Hellcat.<br />Can this wait, please? If you wouldn't mind.",
-        "Yasen(2)": "I'm leaving it to you, my little girls. Ready? Attack!"
+        "Yasen(2)": "I'm leaving it to you, my little girls. Ready? Attack!",
+        "Friend44(1)": "Saratoga attack squadrons, all planes, begin the assault. Attack!"
     },
     "549": {
         "Intro": "Hi! I'm the 5th ship of the Essex-class carriers, Intrepid! So you're the Admiral then? Wonderful! Now then, let's get going! That's fine, right?",
@@ -3362,8 +3377,8 @@
         "Married": "If this were all a game, how should it be? In this wonderful comic I read once - what was the title again? I really liked it too! Uhm... ah, forget it.",
         "Equip(2)": "Wonderful! Honey, there's no problems, right?",
         "Docking(2)": "Ahhhh, jeez, they got me. I will enter the dock! Oh, but this isn't a decommissioning or anything! The Sea Museum comes - la - ter!",
-        "Friend42(1)": "Shall we sally forth at full force?",
-        "Friend44(1)": "Shall we sally forth at full force?",
+        "Friend42(1)": "Shall we attack at full force?",
+        "Friend44(1)": "Shall we attack at full force?",
         "Friend44(2)": "Intrepid all squadrons, attack!",
         "H0000": "Hey, I'll help you out with things today! Wonderful, isn't it! Reporting, the time? Leave it to me! I learned how they do it here!",
         "H0100": "It is 1 o'clock! Z- 01, 00! How's that? OK?",
@@ -3508,7 +3523,11 @@
         "2@Summer2018": "Summer here gets quite hot. Supplementary waterproof equipment? I'll think about it. But the defensive capabilities are... Ngh.",
         "3@Saury2018": "Hmmm, so it's the Naval Base Saury Festival... By the way, what about a Swordfish Festival?",
         "4@Saury2018": "Oooh, you have to try this too, Warspite. Yeah, hold this skewer like this... then eat it like this. *Nom* Mmmm, it's delicious!",
-        "3@Xmas2018": "Humph, so it's jazz this time. That's nice. Not a bad idea. Just some adult fun, right?"
+        "3@Xmas2018": "Humph, so it's jazz this time. That's nice. Not a bad idea. Just some adult fun, right?",
+        "3@EventShingle": "We need to find Janus, and bring her back to our Home Fleet.",
+        "3@Fall2019": "The Kure Naval District? Hmmm, interesting. I'd like to go too. That's fine, right?",
+        "4@Fall2019": "The saury catch this year is bad. Well, don't you worry. We can improve that catch with my Swordfish squadrons. Eh, what? That's not the problem?",
+        "2@Fall2019": "This battle was tiring, but it was fun. ...Oh? What are you doing? Warspite, are you preparing for a journey?"
     },
     "393": {
         "Intro": {
@@ -4943,7 +4962,9 @@
         "2@NewYears2019": "Happy New Year, Admiral! I hope to have a wonderful year with everyone!",
         "2@Setsubun2019": "Settsubuun? Ow! St-, Kongou, stop that! Ow! Eeh, Yamato, you too!? I really don't like this. Jeez, air wing, counterattack!",
         "2@Valentines2019": "I will give you chocolate! Ah, thank you very much.",
-        "2@WhiteDay2019": "Yes, this is in return for my chocolates, right? Hawawa... Thank you very much!"
+        "2@WhiteDay2019": "Yes, this is in return for my chocolates, right? Hawawa... Thank you very much!",
+        "3@Fall2019": "*Siigh*. Eh, Johnston? You're going? It'll be fun? Really?",
+        "2@Fall2019": "Eh? Kure Naval District? Yamato... Nagato... 1YB Fleet? Ah, no way, absolutely not!!"
     },
     "396": {
         "Intro": "Good morning! Admiral, Gambier Bay is doing well! Yes! I'll do my best today as well, for sure!",
@@ -5285,7 +5306,7 @@
         "Wedding": "Admiral, what's wrong? ...Ah, you need Chitose and Chiyoda? I'll go and look for them... No? Then Mizuho? ...That's not it either? Huh? Me? Oh, me! Sigh~ you scared me! Don't worry, I'm doing well. You have an eye for people.",
         "Ranking": "What're you looking for? This kind of information?",
         "Join": "Nisshin, the seaplane tender. Preparing for sortie!",
-        "Equip(1)": "This is pretty good.",
+        "Equip(1)": "Feeling good.",
         "Equip(2)": "I can equip a lot of stuff.",
         "Equip(3)": "I'm feeling good.",
         "Supply": "I'm thankful for this.",
@@ -5310,12 +5331,14 @@
         "3@Anniversary2019": "I hear it's the fleet's 6th Anniversary. That's amazing. Admiral, congratulations, and thank you. This is great.",
         "2@Anniversary2019": "I see, it's a big festival. So it's the Zuiun Festival. I want to take part too. The Zuiun Group... Can I, Hyuuga?",
         "2@Rainy2019": "It has rained incessantly as of late... I need to equip an umbrella as well, I suppose. Maybe I should take two... yes?",
-        "2@Summer2019": "It's getting hotter and hotter... Summer is here again..."
+        "2@Summer2019": "It's getting hotter and hotter... Summer is here again...",
+        "2@Fall2019": "Summer is finally over and it's autumn now. I've been looking forward so much to this. Autumn is full of delicious things to eat and the autumn festival is great too. It's a season full of good things, don't you think?",
+        "2@Saury2019": "It's the season for saury. Fresh saury is delicious. Hmm? I'm more suited to eating... What's that? What's with all those searchlights? Eh? I'm going fishing too?"
     },
     "690": {
         "Intro": "Hey admiral~ you're looking fearless as ever. Nisshin, the seaplane tender, will weigh anchor today as well!",
         "Poke(2)": "Despite my appearance, I can run fast along with equipping a lot of stuff, wouldn't you say I'm a pre~tt~y good ship?",
-        "Equip(1)": "Feeling good.",
+        "Equip(1)": "This is pretty good.",
         "Yasen(2)": "There! Begone!",
         "Friend43(2)": "Nisshin Squardon has reached the operation area! We'll now begin the attack!",
         "H0000": "Well, I'm the secretary today? Leave it to me!",
@@ -5349,8 +5372,8 @@
         "Equip(2)": "This is some nice equipment, everyone will be happy.",
         "Attack": "Nisshin, midget submarine fleet, start launching! I'm going to take all the good parts! Begin the attack!",
         "Friend43(1)": "Nisshin Squadron has reached the operation area! We'll now begin the attack! Midget Sub Squadron, begin launching!",
-        "Friend44(1)": "Listen well! Carve victory into the dawn horizons!",
-        "Friend44(2)": "Nisshin Squadron has reached the operation area! We'll now begin the attack!"
+        "Friend44(1)": "Ready? We shall carve victory onto dawn's horizon!",
+        "Friend44(2)": "Nisshin squadron, arriving on the field of battle! The time to strike is upon us!"
     },
     "491": {
         "Intro": "Bonjour. Enchant\u00e9. Je m'appelle Commandant Teste. Admiral, I look forward to the possibility of working together.",
@@ -5409,7 +5432,9 @@
         "3@Saury2018": "Is this salt-grilled saury? It's good, it's delicious.",
         "4@Saury2018": "So this is the flagship restaurant... It's so lovely. I wonder what seafood I should have.",
         "3@LateFall2018": "Yes? Yes, I'm all organised. Look, I've gotten all the alcohol together. Next is... the cocktail recipes, right? Ah, Ashigara, Nachi... Eh, this is...? Thanks, it helps.",
-        "2@LateFall2018": "Excuse me? Gambier Bay, Tashkent, how are the preparations?"
+        "2@LateFall2018": "Excuse me? Gambier Bay, Tashkent, how are the preparations?",
+        "3@EventShingle": "Oui, Admiral. Please leave this operation to me.",
+        "4@Saury2019": "Oui? Admiral, please allow me to provide aviation support for sardine fishing with my seaplanes this year."
     },
     "372": {
         "Equip(1)": "Tr\u00e9s bien! This is impeccable equipment.",
@@ -5417,6 +5442,7 @@
         "Attack": "Oui! Let's go. Bomber Squadron, begin takeoff!",
         "Friend42(1)": "I'll support you even though I'm not that capable. Feu!",
         "Friend42(2)": "Merci. Even I have managed to make it to the battlefield. Begin the attack.",
+        "Friend45(1)": "Yes, I understand. Please leave this operation to me.",
         "H0000": "It is now midnight. For today, I have been given the responsibility of putting the directives into practice.",
         "H0100": "It is now 1 a.m. This truly is a time when one should already be in bed.",
         "H0200": "It is now 2 a.m. I would recommend taking at least a short rest. Otherwise, tomorrow will be difficult.",
@@ -7099,6 +7125,7 @@
         "2@WhiteDay2018": "Oh, that's right. I did give you something. Thank you. Let's see~ *nom* Ooh, it's delicious. No way, it's handmade!?",
         "2@Spring2018": "Hey, what are you doing, Choukai? ...Ah, a lunch box for the cherry blossom viewing? Very nice. *Nom*... That's good! Now where is the booze... Ow!",
         "2@Anniversary2018": "So it's finally our 5th Anniversary? Admiral, Choukai, thanks for everything. Ah, yeah, I'm glad.",
+        "2@LateFall2018": "Aaaaaah... This kotatsu is really useful. Even if you sleep in light clothes, it has this enveloping warmth... Aah, I'm seriously... sleepy...",
         "3@LateFall2018": "Aaaaaah... This kotatsu is really useful. Even if you sleep in light clothes, it has this enveloping warmth... Aah, I'm seriously... sleepy...",
         "3@Anniversary2019": "Seriously? It's finally our 6th Anniversary? Admiral, Choukai, Aneki, thanks for everything. What? You're making me blush."
     },
@@ -7674,10 +7701,13 @@
         "Damaged(2)": "Uu... I need to snap out of it...",
         "Damaged(3)": "At this rate, Bismarck onee-sama is going to laugh at me...!",
         "Sunk": "I'll... be the... first to go this time... Sakawa... Nagato... see... you...",
+        "Friend45(1)": "Feuer!",
+        "Friend45(2)": "Prinz Eugen has arrived at the operation area. I'll now support the allied forces. Feuer!",
         "2@NewYears": "So this is the Japanese new year, (2 priests!?)...! The (Japanese city!?) is so uniquely pretty...!",
         "2@Setsubun": "So this part of Japanese culture is \"Setsubuuun~!\" I should throw this bean at Nagato? ...Ei! Oh?!",
         "2@Anniversary": "Today is a wonderful day! Good work as usual, Admiral! Ehehe.",
-        "2@Xmas": "...Hah...! It wouldn't be Christmas if we couldn't enjoy stollen and lebkuchen! Isn't it good?"
+        "2@Xmas": "...Hah...! It wouldn't be Christmas if we couldn't enjoy stollen and lebkuchen! Isn't it good?",
+        "2@Fall2019": "So this is Japan's... Oktoberfest! Sorry, the Autumn Festival! I'm so happy there are so many delicious things!"
     },
     "177": {
         "Poke(1)": "Oh...! Roger that! Prinz Eugen, sortieing!",
@@ -9537,6 +9567,71 @@
         "H2200": "2200... Admiral, It seems that I can join the seaplane tender gathering next time. It seems that aviation cruisers are allowed to join them.",
         "H2300": "It's 2300. No matter what happens, I'm excited for the days to come! Right, Admiral? Thank you. Let's work hard tomorrow too. Good night."
     },
+    "589": {
+        "Intro": "Good day! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufuu, it's long, isn't it? I'm fine with just being called Abruzzi. Admiral, my sister and I are looking forward to your guidance.",
+        "Library": "I'm the Luigi di Savoia Duca degli Abruzzi-class light cruiser, Abruzzi. Apologies for my long name. With my state-of-the-art body, I have confidence in my firepower and acting ability. After the war, I was an actress in a film. Did you see it? Admiral, please take good care of me.",
+        "Poke(1)": "Are you fine with me? Ufu, roger that.",
+        "Poke(2)": "My sister? Aah, she's so... please excuse her.",
+        "Poke(3)": "Ah, this earring on my right? Ehe, this is the pair... yes, it's the pair I split with my sister. Eheh... Eh, does it look odd? Ah, I see. That's good. Admiral, we sisters will work hard.",
+        "Idle": "I wonder if my sister... if Garibaldi is doing her job... Ah... Yeah, I'm sure she's fine. It's her after all. Right?",
+        "Married": "Admiral, how does my skin look today? Ah, is that... so. Great! I wonder if it's because I\"m with you. Ufufu.",
+        "Wedding": "Ah, I'm sorry. With my sister, I'm... Eh, even then... even then, you're fine with me? ...Thank you very much, Admiral. I gladly accept this honour. Yup, I accept!",
+        "Ranking": "Information? Roger that. I'll go get it.",
+        "Join": "Fleet, sortie! Cruiser Abruzzi, weighing anchor! Everyone, please follow me.",
+        "Equip(1)": "This is wonderful.",
+        "Equip(2)": "This feels good. I'm sure it'll suit my sister too.",
+        "Equip(3)": "This is wonderful.",
+        "Supply": "This is wonderful. Thank you.",
+        "Docking(1)": "I'll go take a shower first... Yes, thank you very much.",
+        "Docking(2)": "Ah, I'm so sorry. They got me... in some weird places...",
+        "Construction": "Yes, a new ship has entered service.",
+        "Return": "Reporting that the fleet has returned.",
+        "Sortie": "I, Abruzzi, will be the flagship. Fleet, forwards! Sortie!",
+        "Battle": "Everyone, good luck. We've cornered the enemy. Begin combat!",
+        "Attack": "Let's do this.",
+        "Yasen(2)": "How about we settle it here?",
+        "Yasen(1)": "We'll pursue them. Fleet, increase speed. Charge!",
+        "MVP": "Thank you! Everyone, thank you very much. I gladly accept this honour.",
+        "Damaged(1)": "Aaaaah!",
+        "Damaged(2)": "Oh no! My face is... Ah, jeez, please stop that!",
+        "Damaged(3)": "Aaah! My face is... Jeez, I won't forgive you!",
+        "Sunk": "It's cold... Haa... So this is where I'll sink... Garibaldi... I'm sorry... I'll be... going on ahead... Haa... I'm sorry...",
+        "2@Fall2019": "So this is the Naval District Autumn Festival. Ah, it feels so amazing. There are so many new Japanese foods... This smells strange but... it's delicious. Gari, is there anything you'd like? You want some wine to start?",
+        "2@Saury2019": "Saury? What's that? Ah, so it's a fish. Does it go well with pasta? What about wine? Ah, that's wonderful. Then I'll have to work hard. Gari, let's give it our best!"
+    },
+    "693": {
+        "Intro": "Good day! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufu, Admiral, just Abruzzi is fine. Please continue to give my sister and me your guidance.",
+        "Poke(2)": "\"The Exiled Cruiser\"? My, that's a nice sounding title. Hey, Garibaldi, what do you think? ...Gari? Did she fall asleep?",
+        "Equip(2)": "This feels good. Gari, how do I look? Does it suit me?",
+        "Sortie": "I, Abruzzi, will be the flagship of the Italian Fleet. Fleet, forwards! Sortie!",
+        "Attack": "Get out of the way of Gari and me!",
+        "Friend45(1)": "Garibaldi, understood. Let's show them what we're really made of. Increasing speed. Main guns towards the enemy!",
+        "Friend45(2)": "Ready, Garibaldi? We'll now support the allied forces. Fleet, increase speed. Please follow me!",
+        "H0000": "The date has just changed. Admiral, please leave the secretary duties to me again today.",
+        "H0100": "Admiral, announcing that it is now 0100.",
+        "H0200": "Admiral, announcing that it is now 0200.",
+        "H0300": "Admiral, it's 0300. Are you asleep? I'll bring you a blanket.",
+        "H0400": "It's almost morning. I wonder if I should wake the Admiral up. The time is 0400... Ah, just a little bit longer?",
+        "H0500": "Admiral, it's 0500. It's morning. Wake up. Admiral, wake- up-. Ufu, now, good morning. Buon giorno!",
+        "H0600": "Everyone, it's 0600. It's morning! Good morning! All hands assemble! All members of the fleet, it's morning! Admiral, let's work hard today too.",
+        "H0700": "Admiral, it's 0700. Here is breakfast. It's my specially made biscotti, fruits yoghurt, and freshly brewed caffe latte. Here you go.",
+        "H0800": "Admiral, it's 0800. Would you like another cup of caffe latte? Alright, I'll go get some.",
+        "H0900": "Admiral, it's 0900. Ah, I'm sorry. The time changed while I was dressing myself. Now I'll go and put on some make-up to go out.",
+        "H1000": "Admiral, it's 1000. Thanks for waiting. I've made a lunch box for lunch too. Look forward to it. Ufufu.",
+        "H1100": "Admiral, it's 1100. Eh, I took a long time to do my make-up? Ah, I'm sorry. I'm an acrtress after all. What did I appear in? A film. A- film-. Ufufu.",
+        "H1200": "Admiral, it's 1200. It's time for lunch. Now, please help yourself to my specially made lunch box. First, the pasta is delicious even if it's cold. Today's is a white sauce.",
+        "H1300": "I'll open a bottle of wine. Is white fine with you? We have plenty of ham, cheese, and crostini. My, you're good at drinking. As I expected of you. Here, have another glass. Would you like to have some fruits too?",
+        "H1400": "Admiral, it's 140... Oh, Zara, Pola, good day to you. Would you like to join us? Eh? Oh my, look at the time. This isn't good. Admiral, it's almost time to begin the fleet operations.",
+        "H1500": "Admiral, it's 1500. Eh? About the movie that I appeared in? Ah, that's right. I played the role of a battleship. Yes, I was offered the role.",
+        "H1600": "Eh? An Italian battleship? Roma? Aha, no. I played a British battleship. \"Why\"? Hmm, I wonder why... Ah, the time is now just past 1600.",
+        "H1700": "Admiral, it's 1700. Look, the sunset is beautiful. The sunsets here are wonderful. The sunsets on the Mediterranean are wonderful too, you know? Ehe, one day I'd like to go together with you, Admiral... Eh, now? Alright, it would be my pleasure.",
+        "H1800": "Admiral, it's 1800. I should get started on making dinner. I'll get my sister to help me today. I'll go and get her, alright? ...Eh? Why are you here? How?",
+        "H1900": "Well, I won't get hung up on the little things. Garibaldi, we're making acqua pazza. Give me a hand. Oh my, you're good at this. Eh? You make it now and then? Where? Here? Eh... why?",
+        "H2000": "That's it, you soak the leftover soup up with the bread... Admiral, you know how to eat my acqua pazza. Eh? My sister did? What? Ah, the time is now 2000 though...",
+        "H2100": "I'm getting a bit tipsy... Ah, Grecale, what's wrong? I can see three of you. The time is 2100... Oh it's still early. Let's have another bottle of wine.",
+        "H2200": "Hmmm, who is it? There's been so many girls coming to the Admiral's room today. You're... I'm sure you're... Zuikaku? Ah, I know you. You acted in a movie too, right? Come, have a seat. Let's drink together.",
+        "H2300": "23... 00... Huh? What happened? My head hurts... Did I drink too much? Me? I couldn't have been... Ah, thanks for the water... *gulp*... *gulp*... Ah, I feel great again... Eh, I was drunk? No way, I couldn't have been. I'm fine now, Admiral."
+    },
     "590": {
         "Intro": "Hello, I'm the state-of-the-art light cruiser from Italy, Giuseppe Garibaldi. It's too long? Well then... Just Garibaldi is fine. Nice to meet you.",
         "Library": "I'm the Luigi di Savoia Duca Degli Abruzzi-class light cruiser, Giuseppe Garibaldi. Whoa, my sister's name is so long... But, I'm a genuine state-of-the-art light cruiser with great firepower and armour! I may have held back quite a bit, but this time I'll work real hard. Just you watch!",
@@ -9566,13 +9661,16 @@
         "Damaged(2)": "Ow! Owowowow! They managed to hit me? Seriously!?",
         "Damaged(3)": "Ngh! I won't sink but, I can't let my sister see this!",
         "Sunk": "No way... I'm seriously... gonna sink... This can't... be happening... Seriously... Sister!",
-        "2@Rainy2019": "Roma! What are you doing? Teroo Teroo Bozuu? Hmm, lemme see... Some kinda charm? Nice! I'll make some too!"
+        "2@Rainy2019": "Roma! What are you doing? Teroo Teroo Bozuu? Hmm, lemme see... Some kinda charm? Nice! I'll make some too!",
+        "2@Fall2019": "Whoaaa. I'm going to get a heaping pile of that delicious looking thing. The Admiral's Naval District Autumn Festival is not bad. Whoa! This is delicious too! Keep the wine flowing! Right, Pola?",
+        "2@Saury2019": "It's the Saury Festival! This is it... right? Alright then, I'll help out too. So equipment is important. Aaah, Zara, teach me all about it!"
     },
     "691": {
         "Intro": "Hello, the state-of-the-art light cruiser, Giuseppe Garibaldi, reporting for duty. Ah, just leave it all to me! I got this!",
         "Poke(1)": "My motto is \"I obey\". Ah, but you knew that.",
         "Equip(1)": "Ooh, this is nice, thanks!",
         "Equip(2)": "Thanks! I'd like my sister to get a matching one.",
+        "Friend45(1)": "Ah, not bad. Let's do this!",
         "H0000": "00... What was the rest... So this is what I'm supposed to do here? I can do that easily.",
         "H0100": "Ah, you know... it's that time... 00... Mmm, no... 0100... Hey, Admiral? I got it, right?",
         "H0200": "0200. Alright, I knew I could do it. I got this!",
@@ -12186,7 +12284,8 @@
         "3@Saury2018": "I see, it's already saury season. Oh well, let's do this!",
         "3@LateFall2018": "Really? OK. Here you go. How is it? It's delicious, right? This is definitely number one!",
         "2@LateFall2018": "Ah, Admiral, want to have some sweet potato? I'll share a bit with you.",
-        "2@Anniversary2019": "Ta-daaaaah! Hooray! It's the 6th Anniversary, Admiral! The~ 6th~ Anniversary~! Ahahaha. We did it. It's your treat!"
+        "2@Anniversary2019": "Ta-daaaaah! Hooray! It's the 6th Anniversary, Admiral! The~ 6th~ Anniversary~! Ahahaha. We did it. It's your treat!",
+        "2@Saury2019": "Admiral, we're going after sardines this year? That's great! I really love sardines! It's the best as sushi with skin-on slices. It's cheap and it's the most delicious thing!"
     },
     "242": {
         "Idle": "Admiral\u00a0! work a little harder\u00a0! aim to be number one\u00a0!",
@@ -12211,6 +12310,7 @@
         "MVP": "Of course! It's expected that I'm number one. Right?",
         "Damaged(2)": "Whoa! Pay attention to evasive maneouvers!",
         "Damaged(3)": "J-just... you wait and see! I'll come back again and crush you!",
+        "Friend45(1)": "I'll be the first to attack! Shigure, follow me!",
         "4@Summer2018": "Ah, a swimsuit? Fufufun, don't worry about that. Summer will come again next year, right?"
     },
     "43": {
@@ -12320,6 +12420,8 @@
         "H1900Old": "1900. It's about time for dinner."
     },
     "145": {
+        "Friend45(1)": "Shigure of Sasebo has arrived at the operation area... It's my first time here, but... Admiral, it's a nice place, isn't it?",
+        "Friend45(2)": "Shigure, acknowledging. Beginning the attack. Let's go!",
         "1@Summer2018": "I'm the Shiratsuyu-class destroyer, Shigure. Admiral, please keep taking care of me.",
         "3@EarlySummer": "Yeah, even I'm a little embarrassed.",
         "12@EarlySummer": "I wonder. Maybe the armor is too thin, after all?",
@@ -12462,7 +12564,15 @@
         "2@Anniversary2018": "Poi! Admiral, it's finally our 5th Anniversary-poi! Amazing-poi! We did it-poi! Poi! POI! POPPOI!",
         "3@Shiratsuyu": "Shiratsuyu, you've gotten a pretty good remodel-poi! It's amazing-poi! Poooi!",
         "2@Saury2018": "You want to act like a teacher, Murasame? I want to too-poi! Eh, it doesn't suit me-poi?",
-        "3@Anniversary2019": "Poooi! Admiral, it's our 6th Anniversary-poi! It's been seven years-poi! I can't believe it-poi! POOOOI!"
+        "3@Anniversary2019": "Poooi! Admiral, it's our 6th Anniversary-poi! It's been seven years-poi! I can't believe it-poi! POOOOI!",
+        "2@Saury2019": "Rawr?",
+        "4@Saury2019": "Rawr-poi?",
+        "13@Saury2019": "I'm sortieing-poi! RAWR!",
+        "14@Saury2019": "Thanks for waiting, rawr!",
+        "15@Saury2019": "Rawr! Now, let's have a wonderful party-poi!",
+        "16@Saury2019": "Now who should I take down first. There's so many to choose from, rawr!",
+        "17@Saury2019": "Rawr?",
+        "26@Saury2019": "Ra...?"
     },
     "245": {
         "Intro": "Shiratsuyu-class destroyer, Yuudachi. I'll be working hard today too-poi. Poi!"
@@ -12508,7 +12618,15 @@
         "13@EarlySummer": "Is it my imagination, or is this armor thin, poi. Poi...",
         "2@LateFall2018": "Admiral, are you still cold-poi? Hmmm, then shall I share my muffler with you-poi? Here you go. Ehihi, is it warm-poi?",
         "2@Summer2019": "Admiral, do you want to have some fried noodles too-poi? ...This is mine-poi!",
-        "3@Summer2019": "I'll go buy some for you. Do you want large or regular? Got it-poi! I'll go get some."
+        "3@Summer2019": "I'll go buy some for you. Do you want large or regular? Got it-poi! I'll go get some.",
+        "2@Saury2019": "Rawr... poi?",
+        "4@Saury2019": "Rawrrr...poi?",
+        "13@Saury2019": "Destroyer Yuudachi, sortieing, RAWR!",
+        "14@Saury2019": "Thanks for waiting, rawrrr!",
+        "15@Saury2019": "Rawr~ Now, let's have a wonderful party-poi!",
+        "16@Saury2019": "Now who should I take down first. There's so many to choose from, rawr!",
+        "17@Saury2019": "Ra-rawr! ...Poi?",
+        "26@Saury2019": "Ra? Rawr."
     },
     "405": {
         "Intro": "Fifth Shiratsuyu-class destroyer, Harusame, yes. Leave the transport missions to me... desu.",
@@ -12916,7 +13034,9 @@
         "2@Anniversary2018": "My and the fleet's... 5th Anniversary is finally here, Commander. I'm always prepared... to protect the important promise I made with you.",
         "4@Summer2018": "Kasumi? Ummm, what's with that rigging? ...Eh, so you can do that mission with the Commander? Eh? Eeeeh?",
         "2@Fall2018": "Co-commander, Trick or Treat!",
-        "3@Fall2018": "Yes! I can still sortie at any time with this outfit!"
+        "3@Fall2018": "Yes! I can still sortie at any time with this outfit!",
+        "3@Fall2019": "Kure Naval District? 8th Destroyer Division, Asashio, accepting the mission.",
+        "2@Fall2019": "Asashio, reporting that the Sasebo Expedition Mission has been completed. Is there another mission?"
     },
     "248": {
         "Idle": "Commander, if you put me on standby, I am prepared to wait here forever!",
@@ -13004,7 +13124,8 @@
         "2@Anniversary2018": "It's the 5th Anniversary, Commander! The fleet is all pumped up and going full speed ahead! This spring, raise your spirits and get all fired up with me too!",
         "4@Summer2018": "You look great this summer, Kasumi! Even I can't beat you with getting into the spirit!",
         "3@Fall2018": "I'll put all of my effort into F-work too!",
-        "4@Fall2018": "Yes, I can go catch lots of fish with this equipment!"
+        "4@Fall2018": "Yes, I can go catch lots of fish with this equipment!",
+        "2@Fall2019": "This karaage is delicious! It's really good! I'm in a great mood too!"
     },
     "249": {
         "Idle": "Commander! I'll be watching over you from here! Always, always, alwaaays!!",
@@ -13090,7 +13211,8 @@
         "4@Summer2018": "The Naval Base Ice Festival... was fun. ...Next time I'd like to dance with... Ngh, i-it's nothing! Humph!",
         "2@Fall2018": "Why are all of you dressed like that? You need to shape up.",
         "3@Fall2018": "Eh, I'm being too serious? I-I see. Eh, me? This is... because I'm working!",
-        "4@Fall2018": "Ngh, jeez, hurry up and eat. I grilled it so you better savour it."
+        "4@Fall2018": "Ngh, jeez, hurry up and eat. I grilled it so you better savour it.",
+        "2@Fall2019": "Ooshio, you're eating too much. Hey... *nom*... Ah, oh wow... This... is delicious. Y-you can buy just one more."
     },
     "250": {
         "Idle": {
@@ -13190,7 +13312,8 @@
         "2@LateFall2017": "Oh, it's gotten quite chilly~ Hot pots are great on a night like this. I wonder if I should go and get Yukikaze-chan.",
         "2@Anniversary2018": "Ufufufu~ It's our 5th Anniversary. How surprising. I was really surprised at the~ 5th~ Anniversary~, you know? Ufufufufu~",
         "4@Summer2018": "Oh my my, you're looking great, Kasumi. Very lovely. I want to buy something cute next year too. Ufufufufu.",
-        "3@Fall2018": "Ufufufufu. Everyone has on such interesting costumes. I wonder if I should do something soon..."
+        "3@Fall2018": "Ufufufufu. Everyone has on such interesting costumes. I wonder if I should do something soon...",
+        "2@Fall2019": "Oh my, Hayanami, what's that camera for? ...For work?"
     },
     "251": {
         "Idle": "My~ Could I have been...<br />forgotten about, I wonder...?<br />How troubling~",
@@ -13365,7 +13488,9 @@
         "3@Anniversary2019": "Admiral, Murasame, it's the fleet's 6th Anniversary. I give you my sincerest congratulations.",
         "2@Anniversary2019": "The Zuiun Festival. So this is what it is... Murasame, what is it? Eh? Put on this green happi and... dance? A folk dance? Eh? What?",
         "2@Rainy2019": "Oh... Rain... What will I do? I don't have an... Oh! Murasame, may I? Thank you very much. Sorry about this.",
-        "2@Summer2019": "It's almost summer. I wonder if Murasame will be wearing a swimsuit again this year... What should... I do? *sigh* I can't decide..."
+        "2@Summer2019": "It's almost summer. I wonder if Murasame will be wearing a swimsuit again this year... What should... I do? *sigh* I can't decide...",
+        "2@Fall2019": "Summer is over. It's now the season of delicious things, autumn. I can't wait for the autumn festival. What about you, Admiral?",
+        "2@Saury2019": "It's the season of delicious saury. Fresh saury is... *nom*... Mmm! It's really delicious. Admiral, have some too."
     },
     "687": {
         "Intro": "Admiral, good morning. Asashio-class destroyer, Minegumo, reporting for duty today too.",
@@ -14523,12 +14648,15 @@
         "2@NewYears": "Happy New Year, Commander! I'm so thankful for what you've done in the last year. I'll be counting on you again this year.",
         "2@Setsubun": "In Setsubun, is it better to throw the beans... or is it better to eat them? Eh? You do both?",
         "2@Anniversary": "I see... today is a special day. Commander, that's great, really...",
-        "2@Xmas": "Christ... mas...? This is... this is cake? *nom nom* Mm... it's sweet... and delicious..."
+        "2@Xmas": "Christ... mas...? This is... this is cake? *nom nom* Mm... it's sweet... and delicious...",
+        "2@Fall2019": "Maikaze, are you going to the autumn festival? Alright then. I'll get the commander to come along too. Is that alright? Ehe, that's true. OK, I got it.",
+        "2@Saury2019": "Guarding the saury fisheries will be a difficult battle. DesDiv4 will head out at full force. We'll be fine. With everyone here, we can do it!"
     },
     "329": {
         "Poke(2)": "Commander, is it possible that... you could stop calling me Nowacchi?",
         "Yasen(2)": "Compared to Mariana or Leyte, this is nothing!",
         "MVP": "That's... that's right! Maikaze, you saw it! This is the ability of the 4th DesDiv!",
+        "Friend45(1)": "Destroyer Division 4 has broken through into the operation area. We'll now support the allied forces. Follow me and charge!",
         "H0000": "Commander, Nowaki will be serving as your secretary ship for today. I will be in your care.",
         "H0100": "0100. Commander, it is the late night.",
         "H0200": "0200. Commander, it is now the hour of ushimitsu.",
@@ -15291,7 +15419,10 @@
         "2@LateFall2018": "Ah, Hamacchi. This? Yeah, I'm getting the preparations done for a filming. For something like a news programme. No, no, Choukai taught me to do it kinda like this. I know, help me out, Hamacchi. It's definitely fine, right? Yup, thanks.",
         "3@Anniversary2019": "Eh, it's the fleet's 6th Anniversary? That means this year is the 7th year. That's kinda amazing. Commander, congrats. I'll keep on working hard. Definitely!",
         "2@Summer2019": "That's right, once the rainy season is over, it's summer. Of course it is!",
-        "3@Summer2019": "When you think of summer, summer festivals come to mind, right? I'll have to put on a yukata. Hmmm... where did I put it... Aha, here!? ...It wasn't there... Huh? Where is it?"
+        "3@Summer2019": "When you think of summer, summer festivals come to mind, right? I'll have to put on a yukata. Hmmm... where did I put it... Aha, here!? ...It wasn't there... Huh? Where is it?",
+        "3@Fall2019": "Shall I come along too? Kure! Kure Naval District!",
+        "2@Fall2019": "A strategic manoeuvre? Alright! We'll be coming from Osaka, right? Coming from Osaka... we'll take the land route.",
+        "3@Saury2019": "Kure? It was lots of fun! Also, there were lots of delicious things too. I think I ate too much. I probably need to go on a bit of a diet."
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -15380,7 +15511,7 @@
         "Poke(3)": "Fuu-chan? Ah, Commander, what is it? It's nothing, I'm fine. I'm fine so...",
         "Idle": "Ah, Ha-chan. Oh, yeah, I'm fine, thank you. Ah, Fuu-chan is here too. Yeah, don't worry.",
         "Married": "U-ummm, I made some tea, Japanese tea. Would you like some?",
-        "Wedding": "",
+        "Wedding": "W-what is it, Commander? If you don't need anything, I'll... Huh... U-ummm, can you repeat that? No way, no way!",
         "Ranking": "You want to read this, commander? Yes. This is the intelligence, here.",
         "Join": "I-I'm s-sortieing. Yes, now...",
         "Equip(1)": "Looks good, *exhales*",
@@ -15543,7 +15674,8 @@
         "2@Spring2019": "Ah, Admiral, there's something on your shoulder... O-Oki-nee! No, it's nothing... Nothing at all... Ah, the sakura are beautiful.",
         "3@Anniversary2019": "So it's the 6th Anniversary. Admiral, congrats. I'm happy too. It's true. Somehow my heart feels warm.",
         "2@Rainy2019": "Oki-nee's favourite season... It rains a lot. Rain... Why don't I try making one? That thing. Eh? Not that. Teru teru bozu.",
-        "2@Summer2019": "It's getting hot again this year. Oki-nee, Asa-chan, all of you change clothes in summertime? Eh, really?"
+        "2@Summer2019": "It's getting hot again this year. Oki-nee, Asa-chan, all of you change clothes in summertime? Eh, really?",
+        "2@Fall2019": "Admiral, Oki-nee, you're spending autumn reading? Do you have any books you can recommend me? Ah, All About Glasses? Huh... Admiral's is a picture book?"
     },
     "686": {
         "Intro": "I'm the 15th ship of the Yuugumo-class destroyers, Kishinami. The 31st Destroyer Division have completed our sortie preparations, Admiral. Please take care of me today too.",
@@ -15621,8 +15753,40 @@
         "2@WhiteDay": "Oh? You givin' me these? Thanks a bunch!"
     },
     "344": {
-        "Idle": "Oh yeah~ Going out with the likes of Yukikaze, Hamakaze and Isokaze once more would be nice. When that happened, you come along too, Commander. It'll be fun, yes.",
-        "Sortie": "I wonder if Ise and Hyuga are fine... Well, I must go too! Asashimo! Move out!"
+        "Intro": "Yo! I'm the 16th ship of the Yuugumo-class destroyers, Asashimo. Ready to sortie anytime! Let's rampage some more! ...Alright! Commander!",
+        "Idle": "That's right~, it'd be nice if I could go out to sea with Yukikaze, Hamakaze, and Isokaze again. When that happens, you come along too, Commander. I'm sure it'll be fun.",
+        "Sortie": "I wonder if Ise and Hyuuga are fine... Well, I must go too! Asashimo! Move out!",
+        "H0000": "Alriiiiight! Commander, I'll be your secretary ship today. Gehehe. That's fine, right?",
+        "H0100": "It's 0100. See~, I can do the hourly announcements perfectly.",
+        "H0200": "It's 0200. Yaaaawn.",
+        "H0300": "It's 0300. Hey, aren't you sleepy? Oh well.",
+        "H0400": "04... 0... 0... No more, Commander... I can't eat any more... Nnnn...",
+        "H0500": "05... Whoa! I-I'm awake! Of course I am! 0500. It's morning.",
+        "H0600": "It's 0600 now, Commander. What are we having for breakfast? I wonder if Kasumi will bring us some rice balls.",
+        "H0700": "0700... I can't! I'm too hungry... Commander, let's go to Mamiya's. Please treat me. Please?",
+        "H0800": "0800! Aaah! I'm so full. I won't have any strength to get through the morning if I don't eat this much. Ehe.",
+        "H0900": "090... Ah, Kiyoshimo! Yo! You need to eat more too. Or you won't grow.",
+        "H1000": "It's 1000, Commander. Hmm? Exercises? Missions? Oh that's right. We need to do them. Let's see.",
+        "H1100": "1100... Aaaah, I'm hungry again. Commander, what's for lunch? The safe choice of curry?",
+        "H1200": "1200! It's lunchtime! Oh, it's Kasumi! Could it be that package is... Wh-whoaaaa!",
+        "H1300": "1300! Aaaah! Having rice balls while at sea is the greatest! Right, Commander? Ah, gimme some tea.",
+        "H1400": "It's 1400. Alright, now that I've filled my belly, it's time to get some work done. Commander, what should I do?",
+        "H1500": "It's 1500. *Sigh*, working hard makes makes me hungry... Ah, no, I'm still fine!",
+        "H1600": "160... Ah, it's Ooyodo and Ashigara! Yahoy! I'm doing fine. Yes!",
+        "H1700": "It's 1700. The sun is setting. Commander, this time of day is great, right? Right? Ehehehe.",
+        "H1800": "1800. It's dinnertime now. Commander, what're we having? ...Eh? I'm making it? Eh, no way, no how, I can't!",
+        "H1900": "1900. Commander, sorry for making you make dinner. Now let's see... *nom*... Mmm! It's delicious!",
+        "H2000": "2000. Maaan, your dinner was so good I ate too much. My belly is sticking out now. Look!",
+        "H2100": "2100. Argh! That light cruiser is noisy! Can I just hit her once? Ah, I can't...",
+        "H2200": "It's 2200. Nnnghh! Ah, today was kinda tiring. Right?",
+        "H2300": "It's now 2300. Ah, Commander, thank for your hard work every day. Let's work hard tomorrow too."
+    },
+    "578": {
+        "Intro": "Yo! The Yuugumo-class destroyer Asashimo is here! Let's do our best today too! Alright!?",
+        "Poke(2)": "Ah, you can leave it to me. I'll follow you till the end.",
+        "Join": "21st Destroyer Division, Asashimo, heading out! Kasumi, Hatsushimo, follow me!",
+        "Sortie": "So it's my turn now. There's no turning back. DesRon2, Asashimo! Weighing anchor!",
+        "Damaged(3)": "Owwwwwwww! But that won't be enough to stop me now! I can still keep going!"
     },
     "409": {
         "Intro": "I've... come again, to these seas. Yuugumo-class destroyer, Hayashimo... reporting for duty.",
@@ -15769,12 +15933,15 @@
         "Sunk": "Shoukaku-san... Taihou-san... are you well? ...Still safe... the fleet is... still... safe...",
         "2@NewYears": "Best wishes for the new year. Commander, please treat me well this year, too!",
         "2@Anniversary3": "Arcade? Commander, what's an Arcade? Hm-hmm... I shall learn more about it!",
-        "2@Xmas": "Merry Christmas to you, Commander! I went ahead and roasted a turkey! ...Ah! I shouldn't have? Why!?"
+        "2@Xmas": "Merry Christmas to you, Commander! I went ahead and roasted a turkey! ...Ah! I shouldn't have? Why!?",
+        "2@Fall2019": "I, Akizuki, will be giving my all for the Naval District Autumn Festival. Teru, Hatsu, Commander, let's go together!",
+        "2@Saury2019": "I'll do my best to protect the saury fisheries and support the saury fishing. That's right, leave it to me!"
     },
     "330": {
         "Poke(2)": "This additional Anti-Aircraft Fire Director and Long-Barrel 10cm Gun... My true power. With these, I can protect the fleet!",
         "Supply": "Thank you very much for these important supply goods!",
         "Damaged(3)": "I'm hit!? Abandon all torpedoes! Suppress detonations! ...Not yet... I'm still fine!",
+        "Friend45(1)": "Akizuki has arrived. Understood, charging in. I won't let them beat me!",
         "H0000": "Commander, I, Akizuki, will be reporting the time! The current time is 0000!",
         "H0100": "Reporting in that it's 0100. Is this way fine with you, Commander?",
         "H0200": "It's 0200. The moon tonight is... The moon is so beautiful, Commander. Um... Commander?",
@@ -16176,6 +16343,8 @@
         "Damaged(1)": "Ahhh~! No~! My butt again? Are you serious, jeez!?",
         "Friend42(1)": "From: 10th Destroyer Division, Maestrale. To: Special Operations Fleet. We will now proceed to back you up. Attack!",
         "Friend42(2)": "Maestrale Division, roger! Got it, Libe? Follow me!",
+        "Friend45(1)": "From: 10th Destroyer Division, Maestrale. To: Special Operations Fleet. We will now proceed to back you up. Attack!",
+        "Friend45(2)": "Maestrale Division, roger! Got it, Libe? Follow me!",
         "H0000": "I, Maestrale, the eldest of the Maestrale-class will be helping you out today! Please count on me!",
         "H0100": "0~1~00! It's like this right? I'll report the time, don't worry!",
         "H0200": "0~2~00! Things go more smoothly than with Libe right? Yup! I am the eldest sister! Of course!",
@@ -16200,6 +16369,71 @@
         "H2100": "There's Zara's finishing blow...21~00! Admiral! Thank you for the food! Thanks!",
         "H2200": "22~00! Even DesRon3 is back! It's sleep time for the naval base as well! Everyone, good work today!",
         "H2300": "23~0~0! Huh? Hmm~ oh well~! Admiral! Good work today! It was a great day!"
+    },
+    "614": {
+        "Intro": "Good day! I'm the 2nd of the Maestrale-class destroyers, Grecale. Admiral, you better treat me nicely, alright? Ufu, you're cute!",
+        "Library": "I'm the 2nd of the Italian Navy's Maestrale-class destroyers, Grecale. What? Don't keep staring at me. I worked hard with my sisters in the 10th Destroyer Division. Everyone else was gone in the end but I survived the war. After the war, I continued to protect the seas. I was even disarmed to serve as the command ship. Make sure you remember me.",
+        "Poke(1)": "Admiral, ciao!",
+        "Poke(2)": "Ah, just then. Ciao! Ciao! My, how cute.",
+        "Poke(3)": "Admiral, look here, flutter, flutter! Did you see just now? You saw, didn't you! Jeez, you're so lewd... Eh, huh, where are you looking? Look at me! Look right at me! Look!",
+        "Idle": "Oh, it's Garibaldi! Hello! Yeah, I'm bored now. You know, back when you were being remodelled, I was put in charge! Nearly all of my weapons were stripped to make room for the command facilities. It was really troublesome!",
+        "Married": "Ah, Ooyodo? Yeah, I feel a kind of kinship with her. I wonder why. Why do you ask? Ah, do you like her? You seriously do? ...\"Don't make fun of adults\"? Come on, it's fine! You're cute!",
+        "Wedding": "Admiral, what is it? To call me out to a place like this... You're being so formal. Could it be a confession or proposal? Ufu, just kidding... Eh? Ah, it is? No way, seriously? ...Ah, so it is. I see... Aha, yes. I accept. Admiral, this new side of you is surprising.",
+        "Ranking": "Ah, what is it? You want to see the numbers or something? Alright. Is this it?",
+        "Join": "10th Destroyer Division, Grecale, setting off!",
+        "Equip(1)": "Hmmm, it's pretty good. Thanks!",
+        "Equip(2)": "Do I need this many torpedoes? Hmm, I guess so.",
+        "Equip(3)": "Hmm, it's pretty good.",
+        "Supply": "Thanks! You have my gratitude.",
+        "Docking(1)": "Aaah, I'm all sweaty. I'm going to take a shower.",
+        "Docking(2)": "Oh no, oh no. I'm a bit hurt. I'll go get fixed up.",
+        "Construction": "Looks like something is complete.",
+        "Return": "Admiral, everyone is back. Good work.",
+        "Sortie": "Mae, Libe, follow me! We'll show them the raging soul of the Italian torpedo squadr... Huh, where's Scirocco?",
+        "Battle": "*Sigh*, it's the enemy. I don't wanna. Well, no helping it. Everyone, make ready. It's time for a fight!",
+        "Attack": "Let loose! Fire!",
+        "Yasen(2)": "How's this!?",
+        "Yasen(1)": "Grecale, beginning night work. Let's go!",
+        "MVP": "There's a nice wind blowing from the north-east. I'm surprisingly useful. You can expect more from me.",
+        "Damaged(1)": "Aaah, jeez!",
+        "Damaged(2)": "Aaah, so annoying! I hate this!",
+        "Damaged(3)": "Oh no, no, I can't believe this is happening. I definitely won't sink!",
+        "Sunk": "No way... this can't be happening... I don't know what it's like to sink... Eh... No... Oh no... This can't be real!",
+        "2@Fall2019": "It's autumn! So this is Japan's Naval District Autumn Festival. I kinda like it. Admiral, what's that? Ehe, come on, buy it for me! I want to try it!",
+        "2@Saury2019": "Libe, you look cute! That's nice... I wonder if I should wear one too...",
+        "2@Saury2019_2": "Libe, you look cute! That's nice... I wonder if I should wear one too... Hmmm... How's this!? Ta-dah!"
+    },
+    "619": {
+        "Intro": "Good day! I'm the 2nd of the Maestrale-class destroyers, Grecale. Admiral, you better treat me really nicely, alright? I don't know what I'll do... if you don't.",
+        "Poke(2)": "Admiral, look over here. Ciao! Ciao! My, you're really cute.",
+        "Equip(2)": "Torpedoes are important, aren't they? Eh, anti-air? Hmmm, you're right.",
+        "Supply": "Thanks! Is a kiss fine as a thank you? No?",
+        "Friend45(1)": "Ah, we've found them. Everyone ready? We'll support the allied fleet. Grecale Squadron, charge! Forwards!",
+        "Friend45(2)": "Alright. Grecale, acknowledging. Increase speed, attack!",
+        "H0000": "Today... Mmm... I, Grecale, 2nd of the Maestrale-class will be your secretary. That's fine, right?",
+        "H0100": "The hourly announcement? 0100. Yup, this is easy. I've got a pretty good head on my shoulders. Did that make you think better of me?",
+        "H0200": "0200. Admiral, how's that? I'm good at this, right? Ehehe.",
+        "H0300": "0300. Oh no, I'm getting a bit bored already.",
+        "H0400": "0400. Admiral, you're still awake? Can I sleep for a while? Eh, I can't?",
+        "H0500": "0500. Ngh, it's morning already? This is bad for my skin. Ngh... *yaaaawn*.",
+        "H0600": "0600. Ah, I need to do that, right? Fleet, all hands assemble! It's morning! Wake up!",
+        "H0700": "0700. Where's breakfast? Eh, I need to make it? Why me?",
+        "H0800": "The Japanese-style breakfast you made is quite good. Couldn't you open a store with this? Thanks for the meal.",
+        "H0900": "0900. Ah, Mae, good morning. Hmmm, why do you look so serious? ...Eh, Japanese? Oh.",
+        "H1000": "100... Ah, Italia, Libe, good morning! Hmm, shall we sortie the fleet soon?",
+        "H1100": "1100. What is it~, Admiral? You're looking at me with such a passionate gaze. Come on, do you want a peek? Eh? You're looking at Libe? Huuuh?",
+        "H1200": "1200. Yay, it's lunchtime! Let's eat the brioche that I got from my older sister. Mmm, it's delicious!",
+        "H1300": "13... *chewing*... 00... *chewing*... It's delicious, but if I eat too much I'll get too fat. What do you think?",
+        "H1400": "1400. Now, shall we get some exercise to help our digestion? But, just relaxing on the sea is nice too, right? Don't you think so too?",
+        "H1500": "1500. Ah, Ooyodo! Hello! Yup, I'm fine. I feel like you've got a lot on your shoulders but do your best. I kind of feel like cheering for you. I really do!",
+        "H1600": "That's true, destroyers should be destroyers. I would definitely like my guns and torpedoes back. If I could. But, I can't help it if it's for a mission. The time? 1600.",
+        "H1700": "1700. Come on, look at that sunset. It's so red. The sunset is beautiful no matter where you see it. Don't you think so?",
+        "H1800": "1800. It's dinnertime. Shall I make it once in a while? Eh, I can do it! Of course I can. I just don't want to. Huuh? Then I'll show you. What would you like to eat?",
+        "H1900": "An authentic pizza? Hmmm, I wonder if we have the ingredients for it... Yes... yes, yes... and... yes we do. I'll go make one for you then. Since we don't have a stone oven I'll just use a normal one then. Well, leave it to me. Go on, go take a seat.",
+        "H2000": "The time? Oh right. It's now 2000. There, it's done. This is margherita, this is marinara, and this is genovese. Go on, help yourself. What do you think of my skills?",
+        "H2100": "Shall I open another bottle of wine? Ah, I won't drink any though. The time? Let me see, the time is now 2100.",
+        "H2200": "2200. Ah, the forever noisy ones are back. They're loud, but I do like them.",
+        "H2300": "2300. Admiral, thanks for your hard work everyday. Would you like to sleep together tonight? ...Hey, hey, I'm just joking! It was just a joke! Hey, what's with that look!? Nnngh, you got me! Damnit!"
     },
     "443": {
         "Intro": "Buongiorno! I'm Libeccio, a Maestrale-class destroyer! Just Libe is fine. Nice to meet you Admiral!",
@@ -16349,6 +16583,70 @@
         "H2100": "It's 9 o'clock! Hmmm~ Oh? Those noisy heavy cruisers over there... I think I know them... Hey! Hey you! Oh! Whoaaa~!",
         "H2200": "It's 10 o'clock! Huh? Shigure? What are you doing on such a night? Hmm? For me? Thanks!",
         "H2300": "It's 11 o'clock! Darling, would you like to drink some of the green tea I got earlier? I'll make you some! Just a moment!"
+    },
+    "520": {
+        "Intro": "Hi, my name is Janus. Yes, from the same flotilla as Jervis... Eh, you don't know me? You really are unqualified to be admiral. Listen up, alright? You better remember this.",
+        "Library": "I'm the J-class destroyer, Janus. Yes, I worked hard doing lots of things with Jervis and the others in the Home and Mediterranean Fleets. We even fought against a French fleet... During Operation Shingle when Jervis and I were supporting the landings at Anzio, that's when... It looked like Jervis was lightly damaged. Fate is such a fickle mistress...",
+        "Poke(1)": "I got it! Leave it to me!",
+        "Poke(2)": "Eh? Eeeh? Where is it!? Eh? You're joking? Jeez, stop that!",
+        "Poke(3)": "Ah, about that. I don't really want to talk about it anymore. It was so impossibly big. It was just unfair. Ah, Jervis? I think she got off with just a scratch.",
+        "Idle": "Admiral? What is it? Eh, bogey? I don't know what that is. Do you mean an enemy? Outer space? A training ship? What are you talking about? Hmmm, Ginga? I know that, it's the new type of bomber here, right? You don't mean that?",
+        "Married": "Ah, Jervis, is it tea time? I'll go get some tea for you and the Admiral. Just leave it to me, I'll be just fine. ...Ngh, what's with that look? I said I'll be fine!",
+        "Wedding": "What is it, Admiral? Do you have orders for me? If you want Jervis, she's over there. ...Eh, you need me? F-for what? ...Ah, this box is... No way! Is it really for me? Are you fine with me? ...I see. So you are. Thanks a lot. I love you too!",
+        "Ranking": "Information? Just wait a minute, I'll get it for yo... Aaah, whoaaa! Urgh... Umm, thanks. Oopsie.",
+        "Join": "Home Fleet, 7th Destroyer Flotilla, weigh anchor! Janus, sortieing!",
+        "Equip(1)": "Thanks a lot. Alright! This is it!",
+        "Equip(2)": "This feels great. I can work with this.",
+        "Equip(3)": "Yes, this is great.",
+        "Supply": "Thanks a lot.",
+        "Docking(1)": "I got a bit dirty. Can I take a shower? Ehe, thanks!",
+        "Docking(2)": "Oh no, my clothes are all... I have to send them for cleaning... I'll get them for this!",
+        "Construction": "A new girl? Welcome to the fleet!",
+        "Return": "Whew, it looks like we somehow made it back safely. Thank goodness.",
+        "Sortie": "I, Janus, will be the flagship. Jervis, are you ready? Follow me!",
+        "Battle": "I've got the enemy in sight.",
+        "Attack": "Shoot! Eh, I missed!? Eh?",
+        "Yasen(2)": "Just so you know, I'm really quite persistent. Got it!?",
+        "Yasen(1)": "Alright, let's finish them! Follow me!",
+        "MVP": "Eh, I worked the hardest? Really? Oh my, Jervis, take a look at my... Y-you've really got a lot of them, huh... Well, no matter. Numbers aren't everything.",
+        "Damaged(1)": "Oh no! A-am I still alright? I am?",
+        "Damaged(2)": "Whaaaa! I said that hurt! You...!",
+        "Damaged(3)": "Whoaaaaah! Urgh, bloody hell! Jeez, I told you this was too much!",
+        "Sunk": "No... It hurts, it's cold... Oh no, am I sinking? ...Jervis, where are you? Hold my hand... Please...",
+        "2@Fall2019": "I like this season. It just passes by peacefully. What's that? *sniff* *sniff*. What's that smell? It smells good. The Naval District Autumn Festival? Ah, Admiral, can we go?",
+        "2@Saury2019": "The saury operation. I've heard all about it. Please let me take part too. I see, so equipment is important. Let's see now... Ah, this might suit me pretty well."
+    },
+    "893": {
+        "Intro": "Hi, I'm the J-class destroyer, Janus. Admiral, let's work hard today too. Eh? Ah, what is it? Is there something on my face?",
+        "Poke(3)": "Eh, what is it? Jervis, did you say something? Really? That's fine then.",
+        "Join": "Mediterranean Fleet, 14th Destroyer Flotilla, weigh anchor! Janus, sortieing!",
+        "Equip(2)": "This feels quite good. I can work with this.",
+        "Sortie": "Leave being the flagship to me, Janus. Everyone, Jervis, are you ready? Follow me!",
+        "Attack": "Shoot! Eh, I missed!? Shooooooooot!",
+        "H0000": "That's right, I'll be taking care of everything today. That's fine, right? Humph, that's good. Leave it to me.",
+        "H0100": "It's 1 o'clock. Hmmm, what shall we do? Is there anything you'd like to do?",
+        "H0200": "It's 2 o'clock. What do you think, Jervis? Ah, I see. Hmmm.",
+        "H0300": "It's 3 o'clock. It's late at night now but how about we have a late-night tea party? I'll go make some tea then. Leave it to me.",
+        "H0400": "It's 4 o'clock. Would you like another cup of tea? ...Yup, got it. It's almost morning.",
+        "H0500": "It's 5 o'clock. It's morning, Admiral. Good morning! I need to wake everyone up.",
+        "H0600": "It's 6 o'clock. All hands, assemble! I repeat. All hands, assemble! This is not a drill! Wake up! Get up!",
+        "H0700": "7 o'clock. Admiral, I've made breakfast. Here you go. Go on, help yourself.",
+        "H0800": "It's 8 o'clock. Admiral, did my full breakfast suit your tastes? Really? Great.",
+        "H0900": "It's 9 o'clock. Jervis, good morning. Ah, Ark is here too. The Home Fleet is definitely doing well.",
+        "H1000": "It's 10 o'clock. Yes, we need to be careful around the Mediterranean. Eh, Iron Bottom Sound? I don't know what that is. It sounds like something hard. Where can you find it?",
+        "H1100": "It's elevenses. Hmm? This? This is a sonar. It's an excellent equipment. It's really important for fleet escort! This? This is my magazine. ...Please don't keep touching it. It's dangerous.",
+        "H1200": "It is noon. It's time for lunch. Would you like some of my handmade sandwiches? You would? Then, here you go. Go on, help yourself. Is black tea fine? Then I'll leave a cup here.",
+        "H1300": "It's 1 o'clock. Did you like my sandwiches? You did? Ehehe. Would you like more Earl Grey? You would? Here!",
+        "H1400": "It's 2 o'cl... Oh, Warspite! Good day. How are you? ...I see! I wouldn't expect anything else. I'm fine too. Just look!",
+        "H1500": "It's 3 o'clock. It's tea time. It's really important. Is Earl Grey... fine for today? You would? Great. Wait a minute.",
+        "H1600": "It's 4 o'clock. Jervis, what is it? You're staring at me so intently. Is there something on me? Eh, what is it?",
+        "H1700": "It's 5. I don't really like the sunset on the Mediterranean. But, the sunset here is beautiful. Ehe, I like it.",
+        "H1800": "It's 6 o'clock. Now then, it's about time we brought the fleet back to port. What are we doing for dinner? We're going out? Really?",
+        "H1900": "It's 7 o'clock. So this is Mamiya's, the restaurant I've heard about. I can't wait! Can I call Jervis too? Ehe, great!",
+        "H2000": "It's 8 o... Mmm, this is delicious! Mamiya's is incredible! Ah, Jervis is here. Over here! We're over here!",
+        "H2100": "It's 9 o'clock. ... Umm, I think I remember that noisy heavy cruiser over there from somewhere... Ah, Jervis don't get involved with them! Ah, aaah! Jeez, you're so reckless!",
+        "H2200": "It's 10 o'clock. Today was tiring. Admiral, every day must be hard for you. Eh, really? It's fun? ...Hmm, I guess it must be if you think so... Really?",
+        "H2300": "It's 11 o'clock. Good work today. It will be nice if tomorrow is a good day too. See you. Good night."
     },
     "516": {
         "Intro": "Hello, I'm the destroyer leader, Tashkent. I've come from afar to meet you. Please look after me, Comrade Admiral.",
@@ -16511,7 +16809,9 @@
         "Damaged(2)": "No! Is everything fine?",
         "Damaged(3)": "No! A direct hit!? Damage control!",
         "Sunk": "Eh? No way... I'm... I'm sinking? No... is this... is this what it feels like... to sink...",
-        "2@Rainy2019": "It rains quite a lot in this region during this season, right? But that's fun in its own right, don't you think? Every day is so lovely."
+        "2@Rainy2019": "It rains quite a lot in this region during this season, right? But that's fun in its own right, don't you think? Every day is so lovely.",
+        "2@Fall2019": "This country has so many traditional festivals in Autumn. It's so very interesting. Ah, what's that?",
+        "2@Saury2019": "I was secretly waiting for this moment. The Saury Festival! Now my net can be put to good use. Eh, it's not the right equipment?"
     },
     "692": {
         "Intro": "Thank you for your hard work. The nameship of the Fletcher-class destroyers, Fletcher, reporting for duty. Admiral, I'll do my best to help everyone today as well.",
@@ -16519,6 +16819,8 @@
         "Ranking": "Information? Roger, please give me a second.",
         "Battle": "Enemy in sight! All ships, prepare for battle!",
         "Attack": "Come at me! I'll take care of all of you at once!",
+        "Friend44(1)": "USS fleet, arriving on the battlefield. We will now be supporting our friend fleet!",
+        "Friend44(2)": "Fletcher, acknowledging.",
         "H0000": "Admiral, Fletcher will be looking after you today. I'm looking forward to working with you.",
         "H0100": "It's 1 o'clock. Admiral, it's quiet, isn't it...",
         "H0200": "It's 2 o'clock. There's still a lot of work to be done. I'll get you some coffee.",
@@ -16726,7 +17028,9 @@
         "Damaged(2)": "Oh no! That hurts! Jeez!",
         "Damaged(3)": "Isn't this... real bad? Is the engine room fine? Al-alright, I can still move!",
         "Sunk": "Eh... No way... This is where I... I see... Sinking is scary... I'm scared!",
-        "2@Rainy2019": "Teru teru bozu, huh? I'll make some too! This is Kuna! This is Shimu-nee! The one with Gaki will be... Eto! Ah! And this is... Fukae?"
+        "2@Rainy2019": "Teru teru bozu, huh? I'll make some too! This is Kuna! This is Shimu-nee! The one with Gaki will be... Eto! Ah! And this is... Fukae?",
+        "2@Fall2019": "It's autumn. Autumn just gives off... a kind of sad feeling. It feels like something is ending. Hey, Admiral, we can't help this feeling, right?",
+        "2@Saury2019": "The Saury Festival... is here! I've heard about this! Don't worry! I'll be your guide through the Northern seas! I can do it!"
     },
     "378": {
         "Intro": "Ah, are you well? Of course, I, the Shimushu-class coastal defense ship Hachijou, am doing great. Admiral, you're... Yup, you look great! Alright, let's do our best today too. Treat me well.",
@@ -16763,7 +17067,9 @@
         "Damaged(2)": "That won't do anything to me.",
         "Damaged(3)": "It hurts! But this won't defeat me!",
         "Sunk": "Hahaa... I'm sinking? Fine then... I'll... just go... back to... Oominato...",
-        "2@Rainy2019": "Hachi-neesan? Is that...me? Oh... I see... That's how it is... Hahhh... Why?"
+        "2@Rainy2019": "Hachi-neesan? Is that...me? Oh... I see... That's how it is... Hahhh... Why?",
+        "2@Fall2019": "It's autumn... Alright. I feel motivated for some reason. I'll do my best. I feel like I won't lose. Humph.",
+        "2@Saury2019": "Supporting the saury fishing? I'll do it then. Please allow me to be your pilot through the Northern seas. I'll do my best."
     },
     "379": {
         "Intro": "I'm the Shimushu-class coastal defense ship, Ishigaki. What? Is there something on my face? ...Oh, alright then. I want to protect the fleet, and you. Please leave it to me.",
@@ -16959,7 +17265,7 @@
     "386": {
         "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll protect the Southern and Taiwanese Corridors. I'll do my best to not lose with this body of mine.",
         "Idle": "*yawn*... Hu-huh, Ukuru? Ah, I made a mistake. Just a wrong guess. Ufu, ufufufu.",
-        "Join": "100th Squadron, Tsu~shi~ma~, setting sail. Ufufu.",
+        "Join": "101st Squadron, Tsu~shi~ma~, setting sail. Ufufu.",
         "Sortie": "Fuwa...Etorofu-class Kaiboukan, Tsushima, sortieing."
     },
     "565": {
@@ -17107,28 +17413,68 @@
         "Join": "101st Escort Squadron, Daitou, sortieing! Follow me!",
         "Damaged(2)": "Ouch... goddammit! This really pisses me off!"
     },
+    "611": {
+        "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. Reporting for duty. Admiral, the Mikura-class will be in your care. I may be small, but I'll try to do my best.",
+        "Library": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. We're an improved version of the Etorofu-class that are more easily produced with better anti-air and anti-submarine capabilities. Although manpower was reduced, we still increased the fighting power of the fleet escorts. Please remember the fight of the Mikura-class, the successors to the Etorofu-class.",
+        "Poke(1)": "Coastal defense ship, Mikura, arriving on station.",
+        "Poke(2)": "Fighting is... difficult. But I won't... back down.",
+        "Poke(3)": "I don't believe there was an error in the Hi-convoy strategy. Our communications and codes were bad... but even then, we still did our best with our jobs. I believe that this won't happen again.",
+        "Idle": "What should I do? The threat of enemy submarines and aircraft will keep on increasing. The maritime escort missions are important. We must do what we can. Wouldn't it... wouldn't it be nice if there came a day when the fighting would end?",
+        "Married": "Admiral, you look tired. Even if it's just a little while, won't you rest? Have some tea. I'm here, so please rest.",
+        "Wedding": "Admiral, did you call me? What did you need me for at this time? Eh, for me? Surely you're joking, please stop that. ...You're not? ...You truly feel this way? ...Umm... Umm... Thank you very much. I'm happy you feel this way.",
+        "Ranking": "You want information? That's important. Please wait.",
+        "Join": "1st Maritime Escort Division, Mikura, sortieing. All ships, please follow me.",
+        "Equip(1)": "Thank you very much.",
+        "Equip(2)": "I'm grateful for this equipment.",
+        "Equip(3)": "Don't let your guard down.",
+        "Supply": "This helps.",
+        "Docking(1)": "Please forgive me, I got damaged.",
+        "Docking(2)": "I've received a major injury on my arm. I'll enter the docks and get a major repair.",
+        "Construction": "A newly built ship has been commissioned.",
+        "Return": "The fleet has returned to port. Whew, I'm back.",
+        "Sortie": "Mikura-class coastal defense ship, Mikura, weighing anchor. Fleet, forwards! Let's sortie.",
+        "Battle": "Enemy spotted, ready for battle.",
+        "Attack": "Open fire!",
+        "Yasen(2)": "Fire!",
+        "Yasen(1)": "A night battle? It's not one of my duties, but I'll do it.",
+        "MVP": "So does this mean I was useful to everyone? That's something to be happy about. I'll keep on doing my best.",
+        "Damaged(1)": "Aaah!",
+        "Damaged(2)": "Waaah! Begin fire control where the shell landed.",
+        "Damaged(3)": "Gah, no matter how strong the enemy is... I'll... I'll never lose! I'll fight to the end!",
+        "Sunk": "I can't go on... So this is... where I'll fall... Admiral, everyone... please... stay safe... I'll... I'll...",
+        "Friend45(1)": "The reinforced 102nd Squadron has arrived at the operation area. We'll now support the allied forces. Let's go, charge!",
+        "2@Fall2019": "It's autumn. The Naval District Autumn Festival is nice. Very nice. It's... it's the return of peacetime. I'm happy. *sigh* I'll have something to eat too. What should I have... Aha, *nom*... Ah, it's delicious!",
+        "2@Saury2019": "Supporting saury fishing and protecting the fisheries is important. I'll sortie. Please wait a minute while I ready my equipment."
+    },
+    "616": {
+        "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. On alert. Admiral, please continue to care for the coastal defense ships and the Maritime Escort Division. I'll continue to give my best.",
+        "Poke(2)": "Everyone... believes in the future. Of course I do too.",
+        "Join": "102nd Squadron, Mikura, sortieing. All ships, please follow me.",
+        "Supply": "This helps. Thank you.",
+        "Yasen(2)": "Oh no you don't. Fire!"
+    },
     "abyssal": {
         "3505871": "Don't come closer... I'm warning you...",
         "3505872": "Don't get... ahead of yourself!",
         "3505873": "Zero... leave it here...",
-        
+
         "3505881": "Go away...!",
         "3505882": "Sink!",
         "3505883": "Reppuu... leave it here...",
-        
+
         "4505731": "Even though I told you... not to come here...",
         "4505732": "Nothing... Not a thing... You understand nothing...",
-        
+
         "4506131": "Obstinate girls...",
 
         "6105851": "Again and again...<br/>I will sink you over and over...",
         "6105852": "Descend!",
         "6105853": "Did you think... it was going to work? That's precious.",
-        
+
         "27305852": "",
         "27305853": "",
         "27305854": "",
-        
+
         "27605861": "Again and again...<br/>I will sink you over and over...",
         "29405861": "Be engulfed in flames...<br/>Sink at once.",
         "29405862": "Sink!",
@@ -17136,7 +17482,7 @@
         "29405864": "Over and over... It will repeat... For as long as nothing changes...",
         "30605862": "Descend!",
         "30605863": "Did you think... it was going to work? That's precious.",
-        
+
         "6466810": "So you've come... this far......",
         "6466820": "Obstinate girls...",
         "6466830": "Very well...",
@@ -17148,12 +17494,12 @@
         "27605574": "So it was useless... ...!",
         "30605572": "Just sink!",
         "30605573": "...!",
-        
+
         "28405991": "You want to pass through...?",
         "28405992": "That's what I'm talking about...Humph!",
         "28405993": "I won't be...defeated!",
         "28405994": "Very well...You may...pass...",
-        
+
         "29306011": "Sink into the depths... from which you can't surface again!",
         "29306012": "I won't let you... I won't let you!",
         "29306013": "If that's the best you can do...",
@@ -17161,32 +17507,32 @@
 
         "30505972": "I won't... be defeated..!!",
         "30505973": "It's... painful...",
-        
+
         "30506091": "I... I can't fly... I can't fly anymore... Do you understand?... Hey...",
         "30506092": "Like I said... no matter how times you come... it'll be the same...",
         "30506093": "Fufu....It hurts... it hurts... Ufufufufufufu...",
         "30506094": "Once again... in that sky... Ah... How beautiful... the great wings...",
-        
+
         "30606031": "You useless... annoying...... pieces of trash!!",
         "30606032": "Cry out... Sink!",
         "30606033": "Not bad... are you...",
         "30606034": "Light... overflowing... on the water... I too... yes... Ah...!",
-        
+
         "31306251": "It's fine, you know...? How about coming over to this side...?",
         "31306252": "More... more... Be engulfed by the darkness... Come on... Come ooon!",
         "31306253": "Ufufufu... That hurts... You just don't get it...",
         "31306254": "What's the meaning of this...? I see... so it's like that, isn't it... Thank... you.",
-        
+
         "31406311": "(Heh heh heh)...It's hot? It's hot, isn't it?",
         "31406312": "Heh heh heh heh...",
         "31406313": "No way...That hurts...I'll break....Heh heh heh...",
         "31406314": "Why...I... What? The world...The sea...",
-        
+
         "31706281": "Fufu... so you've arrived...? I see... so you've arrived...",
         "31706282": "Ufufufu. How is it? Does it hurt? Does it? That's the real thing... Ahahahaha...!",
         "31706283": "How dare you wound me... I'll let you suffer the pain as well...",
         "31706284": "Huh...? I can't move... Ahahaha... The sea and sky are... beautiful.",
-        
+
         "32464410": "So my prey have come.... Heh heh...Ha ha ha...!",
         "32464411": "So my prey have come... Don't get carried awaaay...! ",
         "32464420": "Now...fly...my torpedo pretties!",
@@ -17194,12 +17540,12 @@
         "32464430": "It huuurts! Stop iiit!",
         "32464431": "The water's...leaking inside..!",
         "32464440": "Fu..fufu.... Once again...I'm diving in...to the bottom of the sea... eh? I'm... resurfacing..? To...the waters above...",
-        
+
         "32564710": "The night...is actually...re...ally....scary...isn't it...?",
         "32564720": "HA-HAHAHAHA! In the darkness... SINK!",
         "32564730": "Where...? Haha... where are you shooting from...?",
         "32564740": "Despite... sinking in the dark... cold... lonely... painful... southern sea... I... can see... you're...",
-        
+
         "33265310": "The stockpiled materials are...<br/>I won't let you have them...",
         "33265320": "Fufu... I'm ending this. It's a reversal!",
         "33265330": "It hurts... ...Stop it! ...It'll burn down...",
@@ -17218,37 +17564,37 @@
         "33366220": "Sink... SIIINK!",
         "33366230": "UAAARGH! CURSE YOU...!!",
         "33366240": "How could I be defeated... by useless trash... That's really a regret... I didn' t expect that...... Wait... Rather, my mind is... What is in my body...? I see... So actually I am...",
-        
+
         "34668410": "Why... just how... did you come here... Just... How...?",
         "34668411": "Why... just how... did you come here... Just... How...? It can't be...!",
         "34668420": "As if... I'll be done in! Sink!",
         "34668430": "That's... absurd...! I can't believe it!",
         "34668440": "I see... you accomplished... your raison d'\u00eatre, didn't you...? That's right. That feeling, I know it well.",
-        
+
         "34768710": "So you have pursued us until here again...? You bastards...!",
         "34768720": "Very well. I'll sink it all. No matter how many times... it takes!",
         "34768730": "As if I'll be done in... Don't mess with me!",
         "34768740": "My body's... dissolving... into that light of dawn. So I, too... will be returning... to the world. I see... That's it, isn't it... Thank you.",
-        
+
         "34769020": "Why... Why won't you give up?",
         "34769030": "It hurts... why...",
-        
+
         "35169310": "So my prey have come.... Heh heh...Ha ha ha...!",
         "35169320": "Now...fly...my torpedo pretties!",
         "35169330": "It huuurts!",
         "35169340": "Fu..fufu.... Once again...I'm diving in...to the bottom of the sea... eh?",
-        
+
         "35369910": "What foolish bunch you are...<br>I'll sink you here now!",
         "35369920": "Take this!",
         "35369930": "It hurts!",
         "35369940": "How could I.... But, I will revive again no matter how many times... because, I absolutely will not let you pass this place....",
-        
+
         "35470510": "Such boorish people... go back!",
         "35470511": "Such boorish people... this is payback!",
         "35470520": "Just sink!",
         "35470530": "How can I...be defeated by you...?",
         "35470540": "A direct hit... huh... the vital parts are... I see. Oh... well... But I'm... What is this? This feeling... it's familiar.",
-        
+
         "391173610": "None of you...<br/>are getting through...",
         "391173611": "I said you won't pass...<br />I told you...!",
         "391173620": "This torpedo...<br/>...eat it!",
@@ -17260,12 +17606,14 @@
         "394174510": "You shouldn't... have come here.",
         "394174520": "Get out of here...",
         "394174530": "Stop that...",
-        "394174540": "Adieu... It can't be... I... still... haven't...<br/>...Now I see... you really... aren't? ...The enemy... isn't... here...?",
+        "394174540": "Stop that...",
+        "394174540_old": "Adieu... It can't be... I... still... haven't...<br/>...Now I see... you really... aren't? ...The enemy... isn't... here...?",
 
         "394174810": "Persistent people...<br/>...piss... me... off!",
         "394174820": "You thorn in my side...",
-        "394174830": "Worthless girl... It's useless.",
-        "394174840": "Oh, my... it seems... So this is... the end? I still... I... haven't... haven't...! This... smiling face is...? What...? Now I see... I see... ...That's right... Mon amiral...",
+        "394174830": "Worthless girls... It's useless.",
+        "394174840": "Worthless girls... It's useless.",
+        "394174840_old": "Oh, my... it seems... So this is... the end? I still... I... haven't... haven't...! This... smiling face is...? What...? Now I see... I see... ...That's right... Mon amiral...",
 
         "397175510": "So you've made it this far...? Are you an idiot, or perhaps a fool...?",
         "397175520": "Your sinking here will have been in vain!",
@@ -17276,7 +17624,7 @@
         "397175820": "As I said... You will not be getting through here!",
         "397175830": "I already told you to stop! Did you not hear me?",
         "397175840": "Ahaha... I suppose... I made a bit of a blunder... For this... to have... ...I... ...I... It's a lie... It isn't as if I... wished for... such a thing...",
-    
+
         "404176710": "You can't pass here... and we won't let you pass...!",
         "404176720": "This is... the hell...",
         "404176730": "Stop it...",
@@ -17285,33 +17633,33 @@
         "404177020": "Do you wanna be broken in half!?",
         "404177030": "Even though...I begged you to stop it...!!!",
         "404177040": "I see... You still...want to sail forth... If you want to do that... go... to the thing that waits for you beyond this place...",
-    
+
         "404177310": "I'll be your opponent...",
         "404177320": "I will...go and protect...!    ",
         "404177330": "It doesn't work...",
         "404177340": "How amusing. But...I'll be back. Not yet...it'll not end just yet...!",
         "404177341": "No way... I... there's a sea I can come back to...? That's impossible...I can't come back... Eh..? My arms have gotten free... Yes..I can come back. I can go back, right? I will run on a sea freely again.",
-    
+
         "414178310": "Now... you've come...... How silly... you guys are......<br/>No matter how many shots... you fire at me...... that's... useless............!",
         "414178320": "I will scratch you... Slowly but surely...",
         "414178330": "How can you defeat me... with such a maneuver?",
         "414178340": "Huh? Well, whatever. If you think you've won against me... that's a stupid idea... That's awfully stupid.",
-        
+
         "414178610": "Going onward......!? After you defeat me......!? Are you gonna sail forth...? ......Why not go back at once......? You actually wanna go back, right? You can do that......!?",
         "414178620": "You, too? Sink together, then... Hehehehehehe......!",
         "414178630": "Fire at me as much as you like!",
         "414178640": "I sink... to bottom of this sea... once again, huh. I don't want to stay in that place any more... In the dark... lonely... chilly place... Eh? What's... this hand? May I... May I be with you? Aah... It's warm. It's really... warm.",
-        
+
         "417179310": "You have carelessly come... Ha... How foolish... or perhaps, you've come...to be sunk!",
         "417179320": "Eat this!",
         "417179330": "Gyaaaaah!!! You...!!",
         "417179340": "Do you think...you've won..? HEH! DON'T JOKE WITH ME! Don't think you can go back... because I won't let you!",
-        
+
         "417179610": "Tch... It can't be helped... I will sink you with all my power! In the depths of the sea... the bitterness and sorrow... REMEMBER THEM!!",
         "417179620": "Ahahahaha! This is so fun!",
         "417179630": "The bottom of the sea... it's cold... being alone is... LOOONEEEELYY!!",
         "417179640": "Phew... That's enough. I mean... I did what I could have done... That's right... at that day... at that sea... I did what I could have done... Eh? You, you are... I...I see... alright!",
-        
+
         "423182110": "I don't... like... battles... at all...!",
         "423182120": "You just have to sink...",
         "423182130": "Stop that...!",
@@ -17320,7 +17668,7 @@
         "423182420": "",
         "423182430": "I want to go back...... I want to go where I was!",
         "423182440": "Huhu... I sink... on this night... again... into the dark... dark sea... I don't like that... Eh? I'm... floating... How come...? This hand...... warm... Aah... bright... bright sea... and sky. Admiral, I...!",
-        
+
         "424182710": "Oh my... Thank you for coming...such a faraway place...",
         "424182720": "You should sink here...!",
         "424182730": "I won't go to such a place...!",
@@ -17329,7 +17677,7 @@
         "424183020": "You're so unpleasant... I hate you!",
         "424183030": "Stop that!",
         "424183040": "",
-        
+
         "425184010": "You... are... going to sink... here...! Sink...!",
         "425184020": "I won't let you go!",
         "425184030": "New future...? Who cares!",
@@ -17339,7 +17687,7 @@
         "425184330": "I... don't feel anything now...",
         "425184331": "Ouch...",
         "425184340": "Ahaha...... I really... wanted to play an active role brightly, too! I wanted to run on the sea freely... as I want...... I wanted to... work to live up to expectations... Eh...? This is... light? I see... Yes... Let's go toward the future... with me!",
-    
+
         "431184610": "",
         "431184620": "",
         "431184630": "",
@@ -17348,17 +17696,17 @@
         "431184920": "",
         "431184930": "",
         "431184940": "",
-    
+
         "432154610": "I welcome you... with open arms...",
         "432154620": "I won't let you... pass here...",
         "432154630": "Tch...",
         "432154640": "You had better fall to the bottom...as many times... as you like...",
-        
+
         "433154710": "You had better fall to the bottom...as many times... as you like...",
         "433154720": "I won't let you... pass here...",
         "433154730": "Tch...",
         "433154740": "Foolish...",
-        
+
         "433185210": "Fools... they are! Your fight... ends here!",
         "433185220": "Disappear here! All your carried burdens!",
         "433185230": "How nostalgic... This pain...",
@@ -17367,7 +17715,7 @@
         "433185520": "Sink!",
         "433185530": "It's useless...! Everything!",
         "433185540": "I have been defeated.... Sinking again, huh.... Just a bit further... Ah... this light... what is it? The one I saw... was the opposite... Alright... Yeah! I... once again, in that sea...!",
-        
+
         "443186510": "Leave them...there... Give me... your lives... AHAHAHAHAHA!",
         "443186520": "Give me them...",
         "443186530": "Ouch... It comes here...",
@@ -17376,14 +17724,14 @@
         "443186820": "I will knock you down...!",
         "443186830": "I will be told off by my sis...",
         "443186840": "No way... I was doomed... Eh...? Sis...? Ah... It's bright... Alright, I'm going to go ahead. Look! Say, Admiral!",
-        
+
         "445171110": "So you've reached this place... Then... Shall I be your opponent...?",
         "445171111": "Stupid things... Such foolish things... On the shore... Some day on the shore... Sink into despair and die...",
         "445171120": "This flame is hot... isn't it?",
         "445171130": "No... not this flame...",
         "445171140": "Don't think that... you will get things done easily... Some day you too... shall be incinerated... by this flame...",
         "445171141": "Maybe... maybe this is for the best... With this, I can... sleep at last... What? This light... I... Is it so...?",
-        
+
         "445187110": "You...have a nerve coming here... I'm glad! I welcome you... with all my power...!",
         "445187120": "More... Even more!",
         "445187130": "You're a bit capable...",
@@ -17391,6 +17739,25 @@
         "445187410": "I won't let you do any worse...! I won't allow you to go any further...! Go back...!",
         "445187420": "It's pointless!",
         "445187430": "It...doesn't work at all...!",
-        "445187441": "Oh my god...! How could I be defeated... here... in this sea... by such people... How absurd...! Eh...? It is warm...I'm...floating...? Admiral... Friend fleet... That's right... now I can... It's wonderful!"
+        "445187441": "Oh my god...! How could I be defeated... here... in this sea... by such people... How absurd...! Eh...? It is warm...I'm...floating...? Admiral... Friend fleet... That's right... now I can... It's wonderful!",
+
+        "452187710": "",
+        "452187720": "",
+        "452187730": "",
+        "452187740": "",
+        "452188010": "",
+        "452188020": "",
+        "452188030": "",
+        "452188041": "",
+
+        "453188310": "Hyaaaa!.... So you've come.... I have to discipline you thoroughly..... Here I go!",
+        "453188320": "Hey, how does sinking here sound to you?",
+        "453188330": "Ufufu...! It's not gonna work!",
+        "453188340": "Ahahaha!... I got beaten... But I'm not sinking yet! Because...ahahahahaha!",
+        "453188610": "Hyahaha!... You can sink me if you try... If you try, that is! Try and sink me! Hyahaaha!",
+        "453188620": "That's right~... Look out for the big things... that come down from the sky!!",
+        "453188630": "This... doesn't hurt me one biiit!",
+        "453188631": "I told you to stop!",
+        "453188641": "No way... I was beaten...for real? ...Going for my ammunition magazine...and making it explode... As expected...how unfair of you... Tch... ...Eh, this light... Right...that's right! ...I am... ...I am...! Admiral, take my hand! Thank god...because of you..."
     }
 }

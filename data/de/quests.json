@@ -1345,6 +1345,11 @@
         "memo": "Dieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203b\"Oberflächen sicherungs Operation\" um die Nansei Archipelago Bekanntmachung\n\u27a3Belohnungen: 1x 'Geschenkbox' und 80x 'Rangpunkte' und entweder 2x 'Schrauben' ODER 2x 'Typ-94-Wasserbombenabschussvorrichtung' ODER 2x 'Metallfass (Transport'",
         "trackingDesc": [ "{0} S-Rang [W1-4]", "{0} S-Rang [W2-1]", "{0} S-Rang [W2-2]", "{0} S-Rang [W2-3]" ]
     },
+    "845": {
+        "name": "Vierteljährliche Westliche Gewässer",
+        "desc": "Laufe nach [W4-1], [W4-2], [W4-3], [W4-4] und [W4-5] aus. S-Rang jeweils die Boss Knoten. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team..\nDieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203bEine Bekanntmachung! Operationen in den Westlichen Gewässern\n\u27a3Belohnungen: 330 'Rangpunkte' und entweder 1x 'Medaille' ODER 2x 'Daihatsu Landungsboot' ODER 1x 'Materialien für neue Raketen Modelle'"
+    },
 
 
     "301": {
@@ -1503,6 +1508,16 @@
         "name": "Übungen für die Transport Flotte",
         "desc": "Ereiche 4 A-Rang+ Siege in Übungsgefechten innerhalb des selben Tages während du 2 LHA/AO/DE und bis zu 4 weitere Schiffe benutzt. Overlay: F10.",
         "memo": "\u27a3Belohnungen entweder 1x 'Typ-94-Wasserbombenabschussvorrichtung' ODER 1x 'Typ-2 12cm Mörser Kai ODER 2x 'Typ-95 Wasserbombe'"
+    },
+	"337": {
+        "name": "Vierteljährliche DesDiv 18 Übungen",
+        "desc": "Sichere 3 S-Rang Siege in Übungsgefechten innerhalb des selben Tages während du Arare, Kagerou, Kasumi, Shiranui und bis zu 2 weitere Schiffe benutzt. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team..\nDieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u203bDesDiv 18 Übungen!\n\u27a3Belohnungen: 1x 'Mamiya' und entweder 1x 'Daihatsu Landungsboot' OR 2x '12cm 30-Rohr Raketenwerfer' ODER 3x 'Schraube'"
+    },
+    "338": {
+        "name": "Mutsuki-Klasse, Angetreten! Beginnt Übungen!",
+        "desc": "Sichere 4 Siege innerhalb des selben Tages während du 4 Schiffe der Mutsuki-Klasse und bis zu 2 weitere Schiffe benutzt. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team..\n\u27a3Belohnungen 1x 'Irako' und entweder 5x 'Entwicklungsmaterialien' ODER 1x 'Möbelfee' ODER 1x 'Materialien für neue Raketen Modelle'"
     },
 	
 
@@ -1937,10 +1952,16 @@
         "desc": "Habe 5000 Möbelmünzen, zwei 7.7mm Maschinengewehre und zwei Typ-96-Jagdflugzeug in deinem Inventar. Entsorge zwei 12.7cm Zwillingsgeschütze.",
         "memo": "\u2718Verbraucht die Items und die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung: 'Möbelfee'"
     },
-    "653": {
+    "65x3": {
         "name": "Spezielle Setsubun Mission: Vorbereitung für das Setsubun Fest!",
         "desc": "Habe 5000 Möbelmünzen, zwei 12cm Geschütze und zwei Typ-0-Aufklärungswasserflugzeuge in deinem Inventar. Entsorge zwei 20.3cm Zwillingsgeschütze.",
         "memo": "\u2718Verbraucht die Items und die Ausrüstung. Stelle sicher das die Ausrüstung entsperrt ist!\n\u27a3Belohnung 'Möbelfee'"
+    },
+    "653": {
+        "name": "Vierteljährliches Arsenal",
+        "desc": "Habe 6000 Möbelmünzen, 3x '35.6cm Zwillingsgeschütz' und 3x 'Typ-96 Jagdflugzeug'. Entsorge 6x '14cm Geschütz'. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch geprüft. Bitte melde Fehler dem KC3 team..\nDieser Quest wird am ersten Quest Reset im März, Juni, September und Dezember zurückgesetzt.\n\u2718Verbraucht die Items und Ausrüstung. Bitte stelle sicher das die Ausrüstung entsperrt ist!\n\u203bDas Arsenal in Aktion! Vorbereitungen für die nächste Operation!\n\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 1x 'Daihatsu Landungsboot' ODER 2x 'Typ-0 Jagdflugzeug Modell 21' ODER 1x 'Landgestützter Typ-96-Bomber'\n\u00B6Zweitewahl: Entweder 3x 'Typ-94-Wasserbombenabschussvorrichtung' ODER 2x '12cm 30-Rohr Raketenwerfer' ODER 1x 'Typ-2 12cm Mörser Kai",
+        "trackingDesc": [ "{0} 14cm Geschütz" ]
     },
     "656": {
         "name": "Bilde die Seiran Flugzeuggruppe 631!",
@@ -2173,6 +2194,36 @@
         "name": "Flugzeug Modifikations Modernisierung",
         "desc": "Habe 5500 Stahl und 2500 Bauxit. Modernisiere ein CV(B) mit 5 CV(L) zweimal.",
         "memo": "\u2718Verbraucht die Ressourcen.\n\u27a3Belohnung: 'Material für neue Flugzeugmodelle'"
+    },
+    "866": {
+        "name": "Makrelen Fischen: Es ist ein schlechtes Fangjahr? Selbst dann... Das ist großartig!",
+        "desc": "Habe 3 Makrelen im Inventar. Overlay: F10.",
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 1x 'Möbelfee' ODER 5x 'Entwicklungsmaterialien'\n\u00B6Zweitewahl: Entweder 2x 'Aktives Typ-3-Sonar ' ODER 2x 'Suchscheinwerfer' ODER 3x 'Schraube'",
+        "hash": -2016189386
+    },
+    "867": {
+        "name": "Makrelen Fischen: Ich freue mich auf dieses Jahr!",
+        "desc": "Habe 8 Makrelen im Inventar. Overlay: F10.",
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Entweder 2x 'Daihatsu Landungsboot' ODER 3x '12cm 30-Rohr Raketenwerfer' ODER 4x 'Feldration'\n\u00B6Zweitewahl: Entweder 2x 'Material für neue Geschützturmmodelle' ODER 2x 'Material für neue Flugzeugmodelle' ODER 1x 'Ryuusei Kai (CarDiv 1)'",
+        "hash": -118887193
+    },
+    "868": {
+        "name": "Makrelen Fischen: Das Großfang Banner... Ich werde... jetzt nicht aufgeben!",
+        "desc": "Habe 18 Makrelen im Inventar. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen 1x 'Typ-19 Großfang Banner' und entweder 1x 'Type144/147 ASDIC' ORDER 2x 'Schlachtbericht' ODER 1x 'Typ-18 Großfang Banner'",
+        "hash": 512216414
+    },
+    "882": {
+        "name": "Sondermission: Keine Sorge, wir haben immernoch Sardinen!",
+        "desc": "Habe 25 Sardinen im Inventar. Overlay: F10.",
+        "memo": "\u27a3Belohnungen:\n\u00B6Erstewahl: Eine auswahl zwischen Etorofu, Matsuwa, Sado, Tsushima oder Fukae\n\u00B6Zweitewahl: Entweder 2x 'Typ-2-Wasserbombe' ODER 1x 'Schiffshüllenerweiterung' ODER 5x 'Schrauben'",
+        "hash": 1098286056
+    },
+    "883": {
+        "name": "Sondermission: Dieser Jahr beißen die Sardinen gut!",
+        "desc": "Habe 50 Sardinen im Inventar. Overlay: F10.",
+        "memo": "\u2623Dieser Quest wird noch überprüft. Bitte melde Fehler dem KC3 Team.\n\u27a3Belohnungen:\n\u00B6Erstewahl: Eine auswahl zwischen Hiburi, Daitou, Shimushu, Kunashiri oder Akashi\n\u00B6Zweitewahl: Entweder 1x 'Blaupause' ODER 1x 'Flugdeckkatapultprototyp",
+        "hash": 1203783945
     }
 }
 

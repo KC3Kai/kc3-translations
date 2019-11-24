@@ -30,15 +30,15 @@
 	"Name": "Name",
 	
 	"MenuKancolleName" : "Play Kantai Collection",
-	"MenuKancolleDesc" : "Opens the KC3改 tab, where you can customize the DMM game page.",
+	"MenuKancolleDesc" : "Opens the KC3\u6539 tab, where you can customize the DMM game page.",
 	"MenuStrategyName" : "Strategy Room",
 	"MenuStrategyDesc" : "Various tools that help you analyze, strategize for and manage your fleet.",
 	"MenuSettingsDesc" : "Various extension configurations that will apply after reloading the game.",
-	"MenuAboutDesc" : "Information on KC3改 and its developers, translators and testers.",
+	"MenuAboutDesc" : "Information on KC3\u6539 and its developers, translators and testers.",
 	
 	"MenuVersion" : "Installed Version",
 	"MenuChangelog" : "(Changelogs)",
-	"MenuUpdate" : "KC3改 Update",
+	"MenuUpdate" : "KC3\u6539 Update",
 	"UpdateAvailableNow" : "available now!",
 	"MenuOnLatest" : "You're up to date.",
 	"MenuScheduledNow" : "Scheduled now",
@@ -53,13 +53,13 @@
 	"MaintenanceComplete": "TBA",
 	"MenuGameVersion" : "Game Version",
 	
-	"GamePlayViaKC3": "Play Kantai Collection via KC3改",
+	"GamePlayViaKC3": "Play Kantai Collection via KC3\u6539",
 	"GameToggleFeatures": "Toggle Features",
 	"GameEditMoreSettings": "Edit more settings",
 	"GameSpecialHotkeys": "Special Hotkeys",
 	"GameMoreHotkeys": "View more hotkeys",
 	"GameHotkeyExit": "Quick exit game",
-	"GameHotkeyHUD": "Hold to show KC3改 Special HUD",
+	"GameHotkeyHUD": "Hold to show KC3\u6539 Special HUD",
 	"GameHotkeyType": "Get 20 seconds of keyboard typing time",
 	"GameHotkeyScreenshot": "Take screenshot",
 	"GameHotkeyClear": "Clear current overlays",
@@ -78,7 +78,7 @@
 	"GameStep2": "In the DevTools panel that opened, click on the <code><strong>KanColle</strong></code> tab. Check the <code><strong>\u00bb</strong></code> pull-down menu if it's not visible.",
 	"GameStep3": "Enjoy!",
 	"GameStepHint": "Hint",
-	"GameStepHintRam": "To reduce RAM usage, switch to the <code><strong>Network</strong></code> tab, click the red <span style='color:red'>🔴</span> button or press <kbd>Ctrl</kbd> <kbd>E</kbd> in order to stop the recording log.",
+	"GameStepHintRam": "To reduce RAM usage, switch to the <code><strong>Network</strong></code> tab, click the red <span style='color:red'>\uD83D\uDD34</span> button or press <kbd>Ctrl</kbd> <kbd>E</kbd> in order to stop the recording log.",
 	"GameSocialLinks": "Links",
 	
 	"SocialTextWebstore": "Review on WebStore",
@@ -95,18 +95,18 @@
 	
 	"GameAPINoExist" : "You have do not have any recorded API Link",
 	"GameAPIGetTitle" : "To get a new API link",
-	"GameAPIGetDesc" : "Use the <img src=\"../../assets/img/ui/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> at the top-right of your  browser.",
+	"GameAPIGetDesc" : "Use the <img src=\"../../assets/img/ui/refresh.png\" /> <strong>Refresh API Link</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3\u6539 menu</strong> at the top-right of your  browser.",
 	"GameAPIExistTitle" : "To use Existing API links",
 	"GameAPIExistDesc" : "If you already have an API Link on hand, you may input it here:",
 	"GameAPIExistBtn" : "Use API Link",
 	"GameAPIWhatTitle" : "What is an API Link?",
 	"GameAPIWhatDesc" : "These are direct URLs to your game, <em>recognized as</em> or <em>associated with</em> your account. As long as you carry this link, you are automatically \"logged-in\" and can then bypass login via DMM, therefore eliminating the need to go through VPN each time you open the game.",
 	"GameAPIRemindTitle" : "Reminder for New Players",
-	"GameAPIRemindDesc" : "Do not use KC3改 while you have not yet passed through the lottery process. This viewer assumes that the account being logged-in while extracting API Links is already playable. Once you have joined a server, you will also need to input your admiral name while not in API link.",
+	"GameAPIRemindDesc" : "Do not use KC3\u6539 while you have not yet passed through the lottery process. This viewer assumes that the account being logged-in while extracting API Links is already playable. Once you have joined a server, you will also need to input your admiral name while not in API link.",
 	"GameAPIAltTitle" : "Alternatives",
-	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
+	"GameAPIAltDesc" : "If you do not prefer API links and desire to play KanColle naturally on DMM portal, the <img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>Play on DMM Website</strong> from the <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3\u6539 menu</strong> also supports the <kbd class=\"light\">F12</kbd> panel with the same startup mechanics as this.",
 	"GameAPIExpiredAlert" : "Your current API session has been expired",
-	"GameAPIExpiredExplanation" : "KC3改 detects that your current API link either have been requested about 20 minutes ago or it have been used previously. Also, to make sure that you didn't access this tab directly with expired API link.<br>You may need to refresh your current API either via Popup menu or this button...",
+	"GameAPIExpiredExplanation" : "KC3\u6539 detects that your current API link either have been requested about 20 minutes ago or it have been used previously. Also, to make sure that you didn't access this tab directly with expired API link.<br/>You may need to refresh your current API either via Popup menu or this button...",
 	
 	"GameStartDashTitle" : "To start the game with Admiral Dashboard",
 	"GameStartDashDesc" : "To start your game and get critical information on your HQ and fleet statuses, you can open the Admiral Dashboard. This will show you information such as HQ Rank, Ship slots, Equipment LoS, Air Fighter Power, Fleet Speed, Morale, etc. You may activate this via:",
@@ -118,7 +118,7 @@
 	"GameStartNowDesc" : "If you want to opt out of all those features and just want to start the game now... (be enabled via Settings)",
 	"GameStartNowBtn" : "Start the game anyway",
 	
-	"AboutTitle" : "About KC3改 Developers",
+	"AboutTitle" : "About KC3\u6539 Developers",
 	"Version" : "Version",
 	
 	"AboutWebsite": "Website",
@@ -130,7 +130,7 @@
 	"AboutDiscord" : "Discord Server",
 	"AboutPrivacy" : "Privacy Policy",
 	
-	"AboutInvdividuals" : "KC3改 Team",
+	"AboutInvdividuals" : "KC3\u6539 Team",
 	"AboutPartners" : "Partners",
 	"AboutOtherCredits" : "Other Credits",
 	"AboutDonators" : "Donators",
@@ -172,7 +172,7 @@
 	"AboutPartnerKCCalcName" : "KanColle-Calc",
 	"AboutPartnerKCCalcDesc" : "Integration for exporting the fleet information into their fleet builder",
 	
-	"AboutPartnerKCTHFBName" : "KC-TH　「Kantai Collection Translators」",
+	"AboutPartnerKCTHFBName" : "KC-TH \u300cKantai Collection Translators\u300d",
 	"AboutPartnerKCTHFBDesc" : "TH translations of the app, and KC3 update posts in Facebook",
 	
 	"AboutSubtitleHelp": "Contributed subtitle voice lines",
@@ -185,7 +185,7 @@
 
 	"AboutLoadingLicense": "Loading contents of the license file...",
 	
-	"SettingsTitle" : "KC3改 Settings",
+	"SettingsTitle" : "KC3\u6539 Settings",
 	
 	"SettingsGlobal" : "Global",
 	"SettingsLanguage" : "Language",
@@ -225,8 +225,8 @@
 	"SettingsBattleMvp" : "Ending MVP Candidates",
 	"SettingsBattleStamp" : "Ship Condition Stamps",
 	"SettingsBossComp" : "Boss Composition",
-	"SettingsSaltyShip" : "KC3改 Salt Treatment",
-	"SettingsYasenTroll" : "KC3改 Troll Comments",
+	"SettingsSaltyShip" : "KC3\u6539 Salt Treatment",
+	"SettingsYasenTroll" : "KC3\u6539 Troll Comments",
 	"SettingsHQDelta" : "HQ EXP Delta on Sortie",
 	"SettingsFleetStatus" : "Fleet Status Summary",
 	"SettingsAutoExpedTab" : "Auto-Open Expedition Tab",
@@ -406,7 +406,7 @@
 	"SettingsEnableOpenDBSubmission" : "Enable this feature",
 	"SettingsFeatureToggleOpenDB" : "Send data to OpenDB",
 	
-	"SettingsKC3DBSubmission" : "Send data to KC3改 (http://kc3.jetri.co)",
+	"SettingsKC3DBSubmission" : "Send data to KC3\u6539 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Enable and help out",
 	
 	"SettingsTsunDBSubmission" : "Send data to the Tsunderes (https://tsundb.kc3.moe)",
@@ -427,6 +427,16 @@
 	"SettingsPanelColorTip" : "The default format uses rgba(red (0-255), green (0-255), blue(0-255), opacity(0.00-1.00)). Setting the fourth number (opacity) to 0 will disable the color.",
 	"SettingsMoonSmallFont" : "Larger Small Text",
 	"SettingsMoonLightingEffect" : "Lighting Effect",
+	"SettingsPanelBarStyle" : "Bar Style",
+	"SettingsPanelBarFluid" : "Fluid",
+	"SettingsPanelBarFlats" : "Flat Color",
+	"SettingsPanelBarGlassy" : "Glassy",
+	"SettingsPanelBarShape" : "Bar Shape",
+	"SettingsPanelBarRect" : "Rectangular",
+	"SettingsPanelBarRound" : "Round",
+	"SettingsPanelBarRounder" : "Rounder",
+	"SettingsPanelBarColors" : "Bar Colors",
+	"SettingsPanelBarDim" : "Dim",
 	"SettingsPanelCustomCSS" : "Custom CSS",
 	"SettingsPanelCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. Changes will be applied immediately on this field saved. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	"SettingsPanelPvPFriends" : "PvP Friends Highlighting",
@@ -437,7 +447,7 @@
 	"SettingsPanelReloadReminderStartRepeat" : "Reload Reminder repeats every",
 	"SettingsPanelReloadReminderStartRepeatTip" : "Show the reminder every specific time after first one, 0 = only once",
 	
-	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3改's responsibility.\n\nMake sure you're know what to do before.",
+	"SettingsChuuiWarningDangerousFeature" : "Are you sure that you really want to change this?\nAny risks that you're attempting is beyond KC3\u6539's responsibility.\n\nMake sure you're know what to do before.",
 	"SettingsErrorNG" : "Saved!",
 	"SettingsErrorSuper" : "Invalid value!",
 	"SettingsErrorAbove" : "exceeds",
@@ -474,16 +484,16 @@
 
 	"NextButtonBlockOverlay" : "Taiha predicted. \"Advance\" Button blocked. Press F10 to clear overlay.",
 	
-	"InstalledTitle": "KC3改 has been installed successfully!",
-	"InstalledText": "Thank you for installing KC3改! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
+	"InstalledTitle": "KC3\u6539 has been installed successfully!",
+	"InstalledText": "Thank you for installing KC3\u6539! We hope that these tools can help you play KanColle and make it a better experience! Do not hesitate to approach us if you need help. Check the about page to know where we can be reached.",
 	
-	"UpdatedTitle": "KC3改 has been updated!",
+	"UpdatedTitle": "KC3\u6539 has been updated!",
 	"UpdatedText": "If you are currently playing KanColle, some features in the viewer might be bugged. Please close the game tab and restart the game. If you are in the middle of a sortie, please finish it first, but know what some features such as info and prediction might not work as expected before restarting.",
 	
-	"UpdateNotifTitle": "KC3改 {0} now available!",
+	"UpdateNotifTitle": "KC3\u6539 {0} now available!",
 	"UpdateNotifText": "Update ready. Extension reload required.\nClick here to open the update page.",
 	
-	"PageUpdateTitle": "KC3改 Update Status",
+	"PageUpdateTitle": "KC3\u6539 Update Status",
 	"PageUpdateReadyText": "An extension update is ready to be installed. You may opt to restart now , or finish what you're doing in-game and restart later. Please note that if you choose to restart now, the game tab might automatically close, and the devtools panel will get an error until reloaded.",
 	"PageUpdateRestartNow": "Reload extension now",
 	"PageUpdateRestartLater": "Reload later",
@@ -537,7 +547,7 @@
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication to the server (or with your proxy). Make sure your computer's clock is correct or else problems will occur.",
 	"DownloadErrorReport": "Download the error report file",
 	
-	"APIErrorNoticeTitle": "KC3改 encountered an error with game data.",
+	"APIErrorNoticeTitle": "KC3\u6539 encountered an error with game data.",
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. The game API might have changed, so some features may be broken or inaccurate",
 	
 	"Bomb201Title": "Game Error 201",
@@ -556,7 +566,7 @@
 	"BackupReminderLink" : "Click here to backup your data",
 	
 	"PanelReloadReminderTitle" : "Panel Reload Reminder",
-	"PanelReloadReminderMessage" : "Please restart your game ASAP or it might crash 😥 <br>Protip: you may just close devtools panel first; go to docking in-game; then reopen devtools and back to home port.",
+	"PanelReloadReminderMessage" : "Please restart your game ASAP or it might crash \uD83D\uDE25 <br/>Protip: you may just close devtools panel first; go to docking in-game; then reopen devtools and back to home port.",
 	"PanelReloadReminderLink" : "Click here to change reminder settings",
 	
 	"SpeedLand"    : "Land",
@@ -791,6 +801,7 @@
 	"LandBaseActionRest" : "Rest",
 	"LandBaseTipFighterPower" : "Sortie fighter power",
 	"LandBaseTipAirDefensePower" : "Air defense interception power",
+	"LandBaseTipHighAltitudeAirDefensePower" : "High-altitude interception power: \u2248{0}",
 	"LandBaseDefenseShotdown" : "Shotdowns under AS:\n\u2003Slot #1: {0}\n\u2003Slot #2: {1}\n\u2003Slot #3: {2}\n\u2003Slot #4: {3}",
 	
 	"LevelText" : "Level",
@@ -804,7 +815,7 @@
 	"StrategyEvents1HP" : "Last Dance!",
 	
 	"PanelWaitActions" : "Waiting for game actions...",
-	"PanelErrorStorage" : "Your Chrome's localStorage is disabled in your settings. KC3改 needs this feature. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">See how to enable this</a>.",
+	"PanelErrorStorage" : "Your Chrome's localStorage is disabled in your settings. KC3\u6539 needs this feature. <a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">See how to enable this</a>.",
 	
 	"MapNameWorld1" : "World 1",
 	"MapNameWorld2" : "World 2",
@@ -832,11 +843,11 @@
 	"ExpedShips" : "ships",
 	"ExpedTotalLv" : "Total Lv",
 	"ExpedCanister" : "canisters on ",
-	"ExpedTotalAsw" : "ΣASW",
-	"ExpedTotalLos" : "ΣLoS",
-	"ExpedTotalAa" : "ΣAA",
-	"ExpedTotalFp" : "ΣFP",
-	"ExpedTotalImp" : "ΣImp",
+	"ExpedTotalAsw" : "\u03a3ASW",
+	"ExpedTotalLos" : "\u03a3LoS",
+	"ExpedTotalAa" : "\u03a3AA",
+	"ExpedTotalFp" : "\u03a3FP",
+	"ExpedTotalImp" : "\u03a3Imp",
 	"ExpedSampleFleet" : "Sample fleet in-game",
 	"ExpedEscortTip" : "DE can be substitutes for DD but note that mixed them \nmight result in failure for some expeditions.",
 	"ExpedCheckReq" : "Check requirements",
@@ -854,7 +865,7 @@
 	"ExpedGSRateExplainNoOverdrum": "Carrying insufficient drums imposes a penalty to the GS rate.\nNeeded: {0} / {1}",
 	"ExpedGSRateExplainSparkle": "Having sparkled ships increases the GS rate.\nCurrent: {0}",
 	
-	"ConsumablesFCoinBoxes" : "{0} × 200 box = {1}\n{2} × 400 box = {3}\n{4} × 700 box = {5}\nIn boxes = {6}\nTotal = {7}",
+	"ConsumablesFCoinBoxes" : "{0} \u00d7 200 box = {1}\n{2} \u00d7 400 box = {3}\n{4} \u00d7 700 box = {5}\nIn boxes = {6}\nTotal = {7}",
 	
 	"CraftEquipNoteFirst": "This is your <strong>first</strong>!",
 	"CraftEquipNoteExists": "You now have <strong>{0}</strong> of this item!",

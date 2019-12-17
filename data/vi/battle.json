@@ -1,28 +1,146 @@
 {
 	"detection" : [
-		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["", "", ""],
+		["OK", "best", "Tất cả máy bay trinh sát đã trở về"],
+		["OK-", "good", "Một số máy bay trinh sát đã bị hạ"],
+		["-", "worst", "Tất cả máy bay trinh sát đã bị hạ"],
+		["NO", "bad", "Trinh sát thất bại"],
+		["OK+", "good", "Thành công"],
+		["NO+", "bad", "Thất bại"]
 	],
-	
+
 	"airbattle" : [
 		["AP", "", "Cân bằng trên không"],
-		["AS+", "good", "Ưu thế tuyệt đối trên không"],
+		["AS+", "best", "Ưu thế tuyệt đối trên không"],
 		["AS", "good", "Ưu thế trên không"],
 		["AD", "bad", "Yếu thế trên không"],
-		["AI", "bad", "Mất quyền kiểm soát trên không"]
+		["AI", "worse", "Mất quyền kiểm soát trên không"]
+		["None", "", "Không có không chiến"]
 	],
-	
+
 	"engagement" : [
-		["", "", ""],
-		["Prll", "", "Song song"],
-		["HdOn", "", "Trực diện"],
-		["Gr-T", "good", "T xanh"],
-		["Rd-T", "bad", "T đỏ"]
+			["", "", "", ""],
+			["Prll", "", "Song song", "100% Sát thương"],
+			["HdOn", "", "Trực diện", "<span style='color:orange'>80% Sát thương</span>"],
+			["Gr-T", "good", "T xanh", "<span style='color:green'>120% Sát thương</span>"],
+			["Rd-T", "bad", "T đỏ", "<span style='color:red'>60% Sát thương</span>"]
+		],
+
+	"formation" : [
+		"",
+		"Đơn Tung Trận",
+		"Phức Túng Trận",
+		"Luân Hình Trận",
+		"Thê Hình Trận",
+		"Đơn Hoành Trận",
+		"Cảnh Giới Trận",
+		"","","","",
+		"Đội hình tuần tiễu cảnh giới số 1 (cảnh giới chống ngầm)",
+		"Đội hình tuần tiễu cảnh giới số 2 (cảnh giới tiền phương)",
+		"Đội hình tuần tiễu cảnh giới số 3 (đội hình vòng)",
+		"Đội hình tuần tiễu cảnh giới số 4 (đội hình chiến đấu)",
+		"","","","","","",
+		"Đội hình tuần tiễu cảnh giới số 1 (cảnh giới chống ngầm)",
+		"Đội hình tuần tiễu cảnh giới số 2 (cảnh giới tiền phương)",
+		"Đội hình tuần tiễu cảnh giới số 3 (đội hình vòng)",
+		"Đội hình tuần tiễu cảnh giới số 4 (đội hình chiến đấu)"
+	],
+
+	"support" : [
+		"",
+		"Không Kích",
+		"Pháo Kích",
+		"Lôi Kích",
+		"Đối Tiềm"
+	],
+
+	"airraiddamage" : [
+		"",
+		"Tổn thất tài nguyên",
+		"Tổn thất tài nguyên và LBAS",
+		"Tổn thất LBAS",
+		"Không tổn thất"
+	],
+
+	"cutinDay" : [
+		"",
+		"Laser",
+		"Liên kích [1.2x2]",
+		"Sec CI [1.1]",
+		"Radar CI [1.2]",
+		"Sec/AP CI [1.3]",
+		"Mixed AP CI [1.5]",
+		"CVCI [1.15~1.25]",
+		"", "", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch [2~2.5]",
+		"Nagato CI [1.4~2.61]",
+		"Mutsu CI [1.4~2.61]",
+		"Colorado CI [1.3~2.02]",
+		"", "", "", "", "", "",
+		"Zuiun CI [1.35]",
+		"Air/Sea CI [1.3]"
+	],
+
+	"cutinNight" : [
+		"",
+		"Liên Kích [1.2x2]",
+		"Mixed CI [1.3x2]",
+		"Torp CI [1.5~x2]",
+		"Sec CI [1.75x1]",
+		"Main Gun CI [2.0x1]",
+		"CVCI [1.18~1.25]",
+		"DD Main CI [1.3~x1]",
+		"DD Lookout CI [1.2~x1]",
+		"", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch [2~2.5]",
+		"Nagato CI [1.4~2.61]",
+		"Mutsu CI [1.4~2.61]",
+		"Colorado CI [1.3~2.02]"
+	],
+
+	"aacitype" : [
+		[],
+		["Lớp Akizuki", "Pháo cao xạ", "Pháo cao xạ", "Radar"],
+		["Lớp Akizuki", "Pháo cao xạ", "Radar"],
+		["Lớp Akizuki", "Pháo cao xạ", "Pháo cao xạ"],
+		["Chiến Hạm", "Pháo hạng nặng", "Đạn kiểu 3", "Trang bị cao xạ", "Radar phòng không"],
+		["", "Pháo cao xạ + Trang bị cao xạ", "Pháo cao xạ + Trang bị cao xạ", "Radar phòng không"],
+		["Chiến Hạms", "Pháo hạng nặng", "Đạn kiểu 3", "Trang bị cao xạ"],
+		["", "Pháo cao xạ", "Trang bị cao xạ", "Radar phòng không"],
+		["", "Pháo cao xạ + Trang bị cao xạ", "Radar phòng không"],
+		["", "Pháo cao xạ", "Trang bị cao xạ"],
+		["Maya Kai Ni", "Pháo cao xạ", "Súng máy phòng không lắp tập trung", "Radar phòng không"],
+		["Maya Kai Ni", "Pháo cao xạ", "Súng máy phòng không lắp tập trung"],
+		["", "Súng máy phòng không lắp tập trung", "Súng máy phòng không", "Radar phòng không"],
+		[],
+		["Isuzu Kai Ni", "Pháo cao xạ", "Súng máy phòng không", "Radar phòng không"],
+		["Isuzu Kai Ni", "Pháo cao xạ", "Súng máy phòng không"],
+		["Kasumi Kai Ni B", "Pháo cao xạ", "Súng máy phòng không", "Radar phòng không"],
+		["Kasumi Kai Ni B", "Pháo cao xạ", "Súng máy phòng không"],
+		["Satsuki Kai Ni", "Súng máy phòng không lắp tập trung"],
+		["Kinu Kai Ni", "Pháo cao xạ (Không có Trang bị cao xạ)", "Súng máy phòng không lắp tập trung"],
+		["Kinu Kai Ni", "Súng máy phòng không lắp tập trung"],
+		["Yura Kai Ni", "Pháo cao xạ", "Radar phòng không"],
+		["Fumizuki Kai Ni", "Súng máy phòng không lắp tập trung"],
+		["UIT-25, I-504", "Non-Súng máy phòng không lắp tập trung"],
+		["Tenryuu-Class Kai Ni", "Pháo cao xạ", "Không súng máy phòng không lắp tập trung"],
+		["Ise-Class Kai+", "Pháo phản lực 30 ống 12cm Kai Ni", "Radar phòng không", "Đạn kiểu 3"],
+		["Musashi Kai Ni", "Pháo cao xạ 10cm Kai + Bổ sung súng máy phòng không", "Radar phòng không"],
+		[],
+		["Musashi Kai+, Ise-Class Kai+", "Pháo phản lực 30 ống 12cm Kai Ni", "Radar phòng không"],
+		["Kagerou-Class B Kai", "Pháo cao xạ", "Radar phòng không"],
+		["Tenryuu Kai Ni, Gotland Kai", "Pháo cao xạ", "Pháo cao xạ", "Pháo cao xạ"],
+		["Tenryuu Kai Ni", "Pháo cao xạ", "Pháo cao xạ"],
+		["Royal Navy Ships, Kongou-Class Kai Ni+", "Pháo phản lực 20 ống UP 7 inch, Pháo 3 nòng 16 inch Mk.I Kai + FCR Mẫu 284", "Pháo 8 nòng QF 2-pounder Pom-pom, Pháo phản lực 20 ống UP 7 inch"],
+		["Gotland Kai", "Pháo cao xạ", "Súng máy phòng không"],
+		["Fletcher-Class", "Pháo đơn nòng 5 inch Mk.30 Kai + GFCS Mk37", "Pháo đơn nòng 5 inch Mk.30 Kai + GFCS Mk37"],
+		["Fletcher-Class", "Pháo đơn nòng 5 inch Mk.30 Kai + GFCS Mk37", "Pháo đơn nòng 5 inch Mk.30 Kai"],
+		["Fletcher-Class", "Pháo đơn nòng 5 inch Mk.30 Kai", "Pháo đơn nòng 5 inch Mk.30 Kai", "GFCS Mk.37"],
+		["Fletcher-Class", "Pháo đơn nòng 5 inch Mk.30 Kai", "Pháo đơn nòng 5 inch Mk.30 Kai"],
+		[],
+		["Atlanta-Class", "GFCS Mk37 + Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)", "Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)"],
+		["Atlanta-Class", "Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)", "Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)", "GFCS Mk.37"],
+		["Atlanta-Class", "Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)", "Pháo lưỡng dụng 2 nòng 5 inch (lắp tập trung)"],
+		[]
 	]
-	
 }

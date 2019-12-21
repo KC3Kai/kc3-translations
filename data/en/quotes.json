@@ -7986,6 +7986,8 @@
         "Intro": "I'm Houston, of the Northampton-class. Admiral, let us protect the tranquility of the Pacific and the seas of Asia together. This time... this time I believe we can do it.",
         "Equip(1)": "Good, I like it!",
         "Yasen(2)": "Go ahead, girls, try me!",
+        "Friend46(1)": "Houston, acknowledging. Increase speed. Fire!",
+        "Friend46(2)": "Houston has arrived at the operation area. Friendly fleet spotted. We'll now support the friendly forces. Charge!",
         "H0000": "Sir! Admiral! Today, I, Houston, will be serving as secretary ship.",
         "H0100": "It's 1 o'clock. I am reporting that it is 1 AM.",
         "H0200": "It's 2 o'clock. I am reporting that... Eh? I'm being too formal?",
@@ -8681,6 +8683,7 @@
         "Battle": "Now that I've been remodeled, I won't go easy on you anymore. Admiral, it's time to go. Let's get started.",
         "Yasen(1)": "It's about that time, isn't it? Yura, commencing assault. Follow me.",
         "Yasen(2)": "I will not lose any more.",
+        "Friend46(1)": "It's about time. Yura, charging in. Follow me!",
         "4@Summer2019": "Admiral, in summer, I... Eh... No, nevermind. I'll work hard. Okay?"
     },
     "53": {
@@ -9827,7 +9830,7 @@
         "Ranking": "Information? Here you go.",
         "Join": "CL De Ruyter, heading out! Come on everyone, follow me. Let's sortie!",
         "Equip(1)": "Thank you! Thanks.",
-        "Equip(2)": "I feel you.",
+        "Equip(2)": "I feel you, I feel you!",
         "Equip(3)": "Yeah, oh wow!",
         "Supply": "Supplies? How lovely.",
         "Docking(1)": "Nnnggh. Oh no.",
@@ -9909,6 +9912,8 @@
         "Join": "CL Perth, sortieing. Everyone, follow me. Let's go.",
         "Equip(1)": "Hmmm... Well... this'll do. Thanks.",
         "Equip(2)": "I see. Fair enough.",
+        "Friend46(1)": "Friendly fleet ahead currently engaged with enemy forces. ABDA Fleet, charge!",
+        "Friend46(2)": "Perth, acknowledging. We'll support the friendly fleet. Increase speed!",
         "H0000": "So I, Perth, will be your secretary ship? Understood. What's that look for? I'll be alright. Just watch.",
         "H0100": "It's 1 o'clock. That is all.",
         "H0200": "It's 2 o'clock. That is... What?",
@@ -12724,6 +12729,7 @@
     "145": {
         "Friend45(1)": "Shigure of Sasebo has arrived at the operation area... It's my first time here, but... Admiral, it's a nice place, isn't it?",
         "Friend45(2)": "Shigure, acknowledging. Beginning the attack. Let's go!",
+        "Friend46(1)": "Shigure of Sasebo has arrived at the operation area.",
         "1@Summer2018": "I'm the Shiratsuyu-class destroyer, Shigure. Admiral, please keep taking care of me.",
         "3@EarlySummer": "Yeah, even I'm a little embarrassed.",
         "12@EarlySummer": "I wonder. Maybe the armor is too thin, after all?",
@@ -15284,7 +15290,9 @@
         "4@Xmas2018": "Oh no, I'm not going to make it. I can't make the deadline for the early bird discount. Now that it's come to this, I'll have to ask a favour from my acquaintance's printing company... They're not picking up the phone!",
         "2@Valentines2019": "Fufun! Admiral, I have some chocolate for you. Also, here's a drawing I put my all into. Please use it to decorate your room. You better put it up!"
     },
-    "301": {},
+    "301": {
+        "Friend46(1)": "It's cold... Too cold! I don't wanna do anything! I'm gonna sleep under the kotatsu. Hey! Tama, Kuma! You're in the way! Ah, jeez, even the battleships! There's no room for me!"
+    },
     "133": {
         "Intro": "First ship of the Yuugumo-class, Yuugumo, has arrived. Admiral, it's okay to spoil me a bit.",
         "Library": "First ship of the final mass-production destroyers. Laid down in Maizuru. My first battle was the ignominious defeat at Midway. It's okay, I don't mind. In the Tokyo Express to that island, Operation Ke, the Battle of the Santa Cruz Islands and the evacuation of Kiska, I fought bravely, no? *sigh*",
@@ -15360,7 +15368,8 @@
         "Intro": "1st ship of the Remodelled Yuugumo-class, Yuugumo, arriving on station. It's fine to leave everything to me, Admiral.",
         "Join": "I'm going to set out at full force, Admiral. Destroyer Division 10, weigh anchor!",
         "Attack": "Enemy fleet spotted. Ready for combat! Alright, all ships, charge!",
-        "MVP": "Aren't you glad that you picked me, Admiral? Of course, there's nothing to regret. You can always depend on me."
+        "MVP": "Aren't you glad that you picked me, Admiral? Of course, there's nothing to regret. You can always depend on me.",
+        "Friend46(1)": "Now, let me show you how the best of the best fights. Yuugumo, full speed ahead, attack!"
     },
     "134": {
         "Intro": "Yuugumo-class destroyer, I am Makigumo. Following Yuugumo-neesan's example, I'll do my best!",
@@ -16193,6 +16202,7 @@
         "Poke(1)": "Did you call me? Alright then.",
         "Join": "Destroyer Division 2, flagship Akishimo, heading out! Follow me!",
         "Equip(1)": "Wow, I think this is great! Thanks.",
+        "Friend46(1)": "Yuugumo-class Destroyer Division 2, has broken through into operation area. Haya-Haya, Kiyo-Kiyo, ready? Follow me! Let's go!",
         "H0000": "I'll be your secretary ship today. Aren't you grateful? Hey? ...Huh?",
         "H0100": "0100. It's night. It's so peaceful.",
         "H0200": "0200. It's the Hour of the Ox. You know, I'm kinda scared of this time of day. Don't you think so too, Commander?",
@@ -17590,8 +17600,9 @@
         "Intro": "I'm the 3rd ship of the Etorofu-class Kaiboukan that just got stronger, Sado-sama! Let's have a good day, Commander! Heheh.",
         "Poke(1)": "I'm feeling great today, too!",
         "Join": "It's time for the 1st Surface Escort Division and me to take the stage. Let's go!",
-        "Attack": "Matsu, Hibu, just watch me! Kick their asses!",
-        "MVP": "Ah, me? I'm number one? Hehe... Hey... Taiyou, Hayasui, just watch me. This time I'll protect you. This time for sure."
+        "Attack": "Matsu, Hibu, watch this! I'll kick their asses!",
+        "MVP": "Ah, me? I'm number one? Hehe... Hey... Taiyou, Hayasui, just watch me. This time I'll protect you. This time for sure.",
+        "Friend46(1)": "Matsu, Hibu, watch this! I'll kick their asses!"
     },
     "540": {
         "Intro": "The Etorofu-class Kaiboukan, Tsushima, has arrived. I'll put this body made for defending the Southern Corridor to good use. Just wait and see.",

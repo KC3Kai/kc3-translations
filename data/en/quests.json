@@ -3030,25 +3030,30 @@
         "name": "Happy New Year! Reiwa Era Year 2: Torpedo Squadron, Commence Sorties!",
         "desc": "Sortie a CL(T)/CT as flagship and 4-5 DD to [W1-2], [W1-3], [W1-4] and [W2-1]. No other ship types are allowed. A-Rank+ the boss nodes of each. Overlay: F10",
         "memo": "\u27a3Rewards: a Repair Goddess and either two Combat Rations OR two Type 95 Depth Charges OR two Irako",
-        "unlock": [ 802, 803 ]
+        "unlock": [ 802, 803 ],
+        "hash": 748742842
     },
     "802": {
         "code": "SB53",
         "name": "Best Wishes for the New Year! Sortie, Seaplane Tender!",
         "desc": "Sortie an AV/CAV as flagship and up to 5 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank each boss node twice. Overlay: F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 2 Seaplane Fighter Kais OR a Zuiun (631 Air Group) OR two +2 Laté 298Bs\n\u00B6Second choice: Either a Skilled Carrier-based Aircraft Maintenance Personnel OR three New Model Aviation Armament Materials OR six 12cm 30-tube Rocket Launchers"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 2 Seaplane Fighter Kais OR a Zuiun (631 Air Group) OR two +2 Laté 298Bs\n\u00B6Second choice: Either a Skilled Carrier-based Aircraft Maintenance Personnel OR three New Model Aviation Armament Materials OR six 12cm 30-tube Rocket Launchers",
+        "unlock": [ 804 ],
+        "hash": 1570337322
     },
     "803": {
         "code": "SB54",
         "name": "The Second Year of the Reiwa Era Begins! Set Sail, Naval Escorts!",
         "desc": "Sortie a fleet comprised of only DD/DE and 0-1 CVL to [W1-5] and [W7-1]. S-Rank each boss node twice. Sortie to [W1-6] and reach Node N twice. Overlay: F10",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Ka Type Observation Autogyros OR two Type 2 Depth Charges OR four Screws\n\u00B6Second choice: Either ten Flamethrowers OR eight Development Materials OR a Furniture Fairy",
-        "unlock": [ 804 ]
+        "unlock": [ 804 ],
+        "hash": -128132282
     },
     "804": {
         "code": "SB55",
         "name": "New Year's Greetings! Light Cruiser Yuubari, Northward!",
         "desc": "Sortie Yuubari or a DD as flagship, 2 other DD and up to 3 additional ships to [W3-5]. S-Rank the boss node 3 times. Overlay: F10",
-        "memo": "\u27a3Rewards furniture and either two +8 14cm Twin Gun Mount Kais OR a +4 Type 1 Land-based Attack Aircraft Model 34 OR a Prototype Toukai"
+        "memo": "\u27a3Rewards furniture and either two +8 14cm Twin Gun Mount Kais OR a +4 Type 1 Land-based Attack Aircraft Model 34 OR a Prototype Toukai",
+        "hash": 1725599310
     }
 }

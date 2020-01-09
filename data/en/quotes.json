@@ -9020,6 +9020,8 @@
         "Return": "DesRon3 has returned to port.",
         "Battle": "Now, let's get started. Ready... fire!",
         "Damaged(3)": "Even if you tear my flesh off, I'll use my bones to fight back!",
+        "Friend46(1)": "DesRon3, Sendai has arrived! Come on, everyone, charge!",
+        "Friend46(2)": "Sendai has arrived! Alright! It's a night battle! Let's goooooooo!",
         "H0000": "The night is nice, isn't it? It's midnight now. Do you want to... night battle?",
         "H0100": "Nighttime! 0100! *giggle* Isn't the night nice?",
         "H0200": "Nighttime! 0200! Whew~ Admiral, the night is still young. I won't let you sleep just yet, alright? Come on now, let's night battle!",
@@ -9102,6 +9104,8 @@
         "Yasen(2)": "Torpedoes loaded... firing now!",
         "Damaged(2)": "It hurts... but... not yet!",
         "Damaged(3)": "Not yet... not yet... I refuse to sink! I can still fire!",
+        "Friend46(1)": "DesRon2, Jintsuu, acknowledging. Everyone, please follow me.",
+        "Friend46(2)": "Torpedo Squadron 2 has arrived at the operation area. We'll now begin the attack.",
         "H0000": "Admiral, today I'll be standing by close to you.",
         "H0100": "It's 0100, Admiral. This is... a quiet time... right.",
         "H0200": "It's 0200. I'll get some tea, alright?",
@@ -11851,6 +11855,7 @@
     "390": {
         "Join": "11th Destroyer Division heading off! Don't be late, Yuu-nee! Sortieing!",
         "Battle": "Enemies! Let's charge! Utterly crush them!",
+        "Friend46(1)": "Nice~ I'm getting fired up!",
         "H0000": "Hm? Me? That's fine~, I'll stay by your side today! Yeah! Leave it to me!",
         "H0100": "0100. Yawn~ I'm kinda sleepy~.",
         "H0200": "0200. Ahh~ I'm fine. I'm awake...at least half awake...",
@@ -13277,8 +13282,9 @@
         "Poke(3)": "The hell? Don't touch my equipment... Hm? That's not my equipment...? ARE YOU AN IDIOT!?",
         "Equip(1)": "Ooh, ain't this cool? Thanks!",
         "Battle": "Hm? Enemy fleet spotted! Let's do it! Ready the guns!",
-        "Yasen(1)": "Kihihi! Yosh, begin the night battle! Ready the torpedoes!",
-        "Damaged(1)": "Tch! But I can still go on. I ain't gonna die yet!"
+        "Yasen(1)": "Hehehe! Alriiiight! It's time for night battle! Ready the torpedo salvo! Attack! Follow me!",
+        "Damaged(1)": "Tch! But I can still go on. I ain't gonna die yet!",
+        "Friend46(1)": "Hehehe! Alriiiight! It's time for night battle! Ready the torpedo salvo! Attack! Follow me!"
     },
     "47": {
         "Intro": "'ello! I'm Suzukaze. If I join the fleet it will be equivalent to 100 ships!",
@@ -15533,7 +15539,9 @@
         "Join": "10th Squadron, remodelled Yuugumo-class, Kazagumo, heading out! Fleet sortie! Follow me.",
         "Sortie": "I'll be acting as the 10th Destroyer Division's flagship. We're weighing anchor. Everyone, follow me!",
         "Attack": "I'll have to show you what I'm made of. Target the guns at the enemy ships to port. Battle stations! Fire!",
-        "Yasen(1)": "The moon... Hiryuu... No, I'm fine. All ships, charge. We'll crush the enemy in this night battle!"
+        "Yasen(1)": "The moon... Hiryuu... No, I'm fine. All ships, charge. We'll crush the enemy in this night battle!",
+        "Friend46(1)": "Akigumo? Jeez... Make sure you do this properly, alright?",
+        "Friend46(2)": "The 10th Destroyer Divison has arrived! Akigumo, ready? Yuugumo-nee, Makigumo-nee, let's do this!"
     },
     "135": {
         "Intro": "I'm Naganami, the fourth ship of the Yuugumo-class destroyers. And off we go. Yeah!",
@@ -16211,7 +16219,8 @@
         "Poke(1)": "Did you call me? Alright then.",
         "Join": "Destroyer Division 2, flagship Akishimo, heading out! Follow me!",
         "Equip(1)": "Wow, I think this is great! Thanks.",
-        "Friend46(1)": "Yuugumo-class Destroyer Division 2, has broken through into operation area. Haya-Haya, Kiyo-Kiyo, ready? Follow me! Let's go!",
+        "Friend46(1)": "Yuugumo-class Destroyer Division 2 has broken through into operation area. Haya-Haya, Kiyo-Kiyo, ready? Follow me! Let's go!",
+        "Friend46(2)": "I gotta get going!",
         "H0000": "I'll be your secretary ship today. Aren't you grateful? Hey? ...Huh?",
         "H0100": "0100. It's night. It's so peaceful.",
         "H0200": "0200. It's the Hour of the Ox. You know, I'm kinda scared of this time of day. Don't you think so too, Commander?",

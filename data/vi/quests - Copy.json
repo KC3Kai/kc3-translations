@@ -618,119 +618,119 @@
     },
     "204": {
         "code": "B4",
-        "name": "Sortie into the Nansei Islands Region!",
-        "desc": "Sortie to [W1-2]. Reach the end of the map.",
+        "name": "Xuất kích tới bờ biển quần đảo Nansei!",
+        "desc": "Xuất kích tới [W1-2]. Đi đến node cuối map.",
         "unlock": [ 201, 689 ]
     },
     "205": {
         "code": "B5",
-        "name": "Intercept the Approaching Enemy Vanguard Fleet!",
-        "desc": "Sortie to [W1-2]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards the DD, Miyuki",
+        "name": "Nghênh Kích Tiền Vệ Hạm Đội của địch!",
+        "desc": "Xuất kích tới [W1-2]. B-Rank+ node boss.",
+        "memo": "\u27a3Thưởng Nữ Hạm DD Miyuki",
         "unlock": [ 206 ]
     },
     "206": {
         "code": "B6",
-        "name": "Sortie a Torpedo Squadron!",
-        "desc": "Sortie a CL as flagship and 3 DD to any map.",
-        "memo": "\u27a3Rewards the CL, Tatsuta",
+        "name": "Xuất kích Thủy Lôi Chiến Đội!",
+        "desc": "Xuất kích hạm đội có CL làm kỳ hạm và 3 DD đến map bất kỳ.",
+        "memo": "\u27a3Thưởng Nữ Hạm CL Tatsuta",
         "unlock": [ 207, 255, 290 ]
     },
     "207": {
         "code": "B7",
-        "name": "Sortie a Heavy Cruiser!",
-        "desc": "Sortie a CA as flagship to any map.",
+        "name": "Xuất kích Trọng Tuần Dương Hạm!",
+        "desc": "Xuất kích 1 CA làm kỳ hạm tới map bất kỳ.",
         "unlock": [ 208, 416 ]
     },
     "208": {
         "code": "B8",
-        "name": "Sortie a Battleship!",
-        "desc": "Sortie a BB flagship to any map. A BBV will not count.",
+        "name": "Xuất kích Chiến Hạm!",
+        "desc": "Xuất kích 1 BB làm kỳ hạm đến map bất kỳ. Không tính BBV.",
         "unlock": [ 209 ]
     },
     "209": {
         "code": "B9",
-        "name": "Sortie a Carrier Task Force!",
-        "desc": "Sortie a CV(L) flagship and 5 DD/CL/AV to any map."
+        "name": "Xuất kích Không Mẫu Cơ Động Bộ Đội!",
+        "desc": "Xuất kích hạm đội gồm CV(L) làm kỳ hạm và 5 DD/CL/AV đến map bất kỳ."
     },
     "215": {
         "code": "B3",
-        "name": "Second Fleet, Sortie!",
-        "desc": "Sortie your 2nd Fleet to any map. A sortie, not an expedition.",
+        "name": "Đệ Nhị Hạm Đội, Xuất Kích!",
+        "desc": "Xuất kích hạm đội thứ 2 của bạn đến map bất kỳ. Lưu ý là Xuất Kích chứ không phải Viễn Chinh.",
         "unlock": [ 117 ]
     },
     "217": {
         "code": "B10",
-        "name": "Sink an Enemy Carrier!",
-        "desc": "Sink an Abyssal CV(L).",
-        "memo": "\u27a3Rewards the CV, Akagi",
+        "name": "Đánh chìm Không Mẫu địch!",
+        "desc": "Đánh chìm CV(L) của Thâm Hải Thê Hạm (Hạm Đội Biển Sâu).",
+        "memo": "\u27a3Thưởng Nữ Hạm CV Akagi",
         "unlock": [ 861 ]
     },
     "219": {
         "code": "B11",
-        "name": "Sortie the Mikawa Fleet!",
-        "desc": "Sortie Choukai, Aoba, Kako, Furutaka, Tenryuu and 1 additional FAST ship to any map.",
-        "memo": "\u27a3Rewards a Repair Team"
+        "name": "Xuất Kích Hạm Đội Mikawa!",
+        "desc": "Xuất kích Choukai, Aoba, Kako, Furutaka, Tenryuu và thêm 1 Nữ Hạm tốc độ nhanh đến map bất kỳ.",
+        "memo": "\u27a3Thưởng Đội sửa chữa khẩn cấp"
     },
     "222": {
         "code": "B12",
-        "name": "Sortie the 6th Destroyer Division!",
-        "desc": "Sortie ONLY Akatsuki, Hibiki, Inazuma and Ikazuchi to any map."
+        "name": "Xuất Kích Đệ Lục Khu Trục Đội!",
+        "desc": "Xuất kích CHỈ Akatsuki, Hibiki, Inazuma và Ikazuchi tới map bất kỳ."
     },
     "223": {
         "code": "B13",
-        "name": "Sortie the 4th Cruiser Division!",
-        "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node.",
+        "name": "Xuất kích Đệ Tứ Chiến Đội!",
+        "desc": "Xuất kích Atago, Takao, Choukai, Maya và 2 Nữ Hạm khác tới [W2-2]. B-Rank+ node boss.",
         "unlock": [ 890 ]
     },
     "224": {
         "code": "B14",
-        "name": "Sortie the Nishimura Fleet!",
-        "desc": "Sortie Fusou, Yamashiro, Mogami, Shigure and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
+        "name": "Xuất Kích Hạm Đội Nishimura!",
+        "desc": "Xuất kích Fusou, Yamashiro, Mogami, Shigure và 2 tới khác tới [W2-3]. B-Rank+ node boss.",
         "unlock": [ 147, 155, 182 ]
     },
     "225": {
         "code": "B15",
-        "name": "Sortie the 5th Carrier Division!",
-        "desc": "Sortie Shoukaku, Zuikaku and 4 additional ships to [W3-1]. B-Rank+ the boss node.",
+        "name": "Xuất Kích Đệ Ngũ Hàng Không Chiến Đội!",
+        "desc": "Xuất kích Shoukaku, Zuikaku và 4 Nữ Hạm khác tới [W3-1]. B-Rank+ node boss.",
         "unlock": [ 689 ]
     },
     "227": {
         "code": "B16",
-        "name": "Sortie the New Mikawa Fleet!",
-        "desc": "Sortie Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu to [W2-3]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "Xuất Kích Hạm Đội Mikawa kiểu mới!",
+        "desc": "Xuất kích Choukai, Aoba, Kinugasa, Kako, Furutaka và Tenryuu tới [W2-3]. B-Rank+ node boss.",
+        "memo": "\u27a3Thưởng Đội sửa chữa khẩn cấp",
         "unlock": [ 152, 154 ]
     },
     "231": {
         "code": "B17",
-        "name": "Sortie a Submarine Fleet!",
-        "desc": "Sortie 2 SS and 4 additional ships to [W2-3]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy"
+        "name": "Xuất Kích Tiềm Thủy Hạm Đội!",
+        "desc": "Xuất kích 2 SS và 4 Nữ Hạm khác tới [W2-3]. B-Rank+ node boss.",
+        "memo": "\u27a3Thưởng Tiên nội thất"
     },
     "232": {
         "code": "B18",
-        "name": "Sortie an Aviation Surface Attack Fleet!",
-        "desc": "Sortie 2 BBV, 2 CAV and 2 additional ships to [W4-2]. B-Rank+ the boss node.",
-        "memo": "\u27a3Rewards a Mamiya"
+        "name": "Xuất Kích Hàng Không Thủy Thượng Đả Kích Hạm Đội!",
+        "desc": "Xuất kích 2 BBV, 2 CAV và 2 Nữ Hạm khác tới [W4-2]. B-Rank+ node boss.",
+        "memo": "\u27a3Thưởng Mamiya"
     },
     "233": {
         "code": "B19",
-        "name": "Sortie the 6th Cruiser Division!",
-        "desc": "Sortie Furutaka, Kako, Kinugasa, Aoba and 2 additional ships to [W2-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "Xuất Kích Đệ Lục Chiến Đội!",
+        "desc": "Xuất kích Furutaka, Kako, Kinugasa, Aoba và 2 Nữ Hạm khác tới [W2-3]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Đội sửa chữa khẩn cấp",
         "unlock": [ 263 ]
     },
     "239": {
         "code": "B20",
-        "name": "Sortie the 8th Destroyer Division!",
-        "desc": "Sortie Asashio, Michishio, Ooshio, Arashio and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
+        "name": "Xuất Kích Đệ Bát Khu Trục Đội!",
+        "desc": "Xuất kích Asashio, Michishio, Ooshio, Arashio và 2 Nữ Hạm khác tới [W2-3]. B-Rank+ node boss.",
         "unlock": [ 132, 188, 264, 412, 812 ]
     },
     "240": {
         "code": "B21",
-        "name": "Sortie the 18th Destroyer Division!",
-        "desc": "Sortie Kasumi, Arare, Kagerou, Shiranui and 2 additional ships to [W3-1]. B-Rank+ the boss node.",
+        "name": "Xuất Kích Đệ Thập Bát Khu Trục Đội!",
+        "desc": "Xuất kích Kasumi, Arare, Kagerou, Shiranui và 2 Nữ Hạm khác tới [W3-1]. B-Rank+ node boss.",
         "unlock": [ 265 ]
     },
     "244": {

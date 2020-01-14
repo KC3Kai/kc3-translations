@@ -21,7 +21,7 @@
     "104": {
         "code": "A4",
         "name": "Thành lập hạm đội 6 tàu!",
-        "desc": "Có 6 tàu trong hạm đội chính.",
+        "desc": "Có 6 Nữ Hạm trong hạm đội chính.",
         "memo": "\u27a3Mở khóa Đệ Nhị Hạm và Viễn Chinh",
         "unlock": [ 115, 116 ]
     },
@@ -113,7 +113,7 @@
     "119": {
         "code": "A20",
         "name": "Thành lập hạm đội Mikawa!",
-        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) và 1 tàu tốc độ cao trong hạm đội chính.",
+        "desc": "Có Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) và 1 Nữ Hạm tốc độ cao trong hạm đội chính.",
         "unlock": [ 121, 219 ]
     },
     "120": {
@@ -212,13 +212,13 @@
     "134": {
         "code": "WA01",
         "name": "Chuẩn bị cho tình yêu! (Phần 3)",
-        "desc": "Triển khai hạm đội với một tàu làm kì hạm có cấp độ cao (Lv.90~99)!",
+        "desc": "Triển khai hạm đội với một Nữ Hạm làm kì hạm có cấp độ cao (Lv.90~99)!",
         "unlock": [ 245 ]
     },
     "135": {
         "code": "WA02",
         "name": "Một hành trình mới!",
-        "desc": "Tổ chức một hạm đội gồm 6 tàu trong đó có một tàu có cấp độ Lv.100 hoặc cao hơn làm kì hạm!",
+        "desc": "Tổ chức một hạm đội gồm 6 Nữ Hạm trong đó có một Nữ Hạm có cấp độ Lv.100 hoặc cao hơn làm kì hạm!",
         "memo": "\u27a3Thưởng Đội sửa chữa khẩn cấp",
         "unlock": [ 246 ]
     },
@@ -243,7 +243,7 @@
     "139": {
         "code": "A37",
         "name": "Thành lập Đệ Lục Tiềm Thủy Hạm Đội",
-        "desc": "Có 1 tàu tiếp liệu tàu ngầm (AS) và 4 (hoặc hơn) tàu ngầm trong hạm đội chính.",
+        "desc": "Có 1 Nữ Hạm tiếp liệu tàu ngầm (AS) và 4 (hoặc hơn) Nữ Hạm tàu ngầm trong hạm đội chính.",
         "unlock": [ 414 ]
     },
     "140": {
@@ -273,7 +273,7 @@
     "144": {
         "code": "A42",
         "name": "Thành lập Chủ Lực Chiến Hạm Bộ Đội (Đệ Nhị Chiến Đội)",
-        "desc": "Có tất cả các thiết giáp hạm thuộc lớp Nagato và lớp Fusou (và không có tàu nào khác) trong hạm đội chính.",
+        "desc": "Có tất cả các thiết giáp hạm thuộc lớp Nagato và lớp Fusou (và không có Nữ Hạm nào khác) trong hạm đội chính.",
         "unlock": [ 258 ]
     },
     "145": {
@@ -323,13 +323,13 @@
     "152": {
         "code": "A50",
         "name": "Thành lập Hạm đội Mikawa kiểu mới",
-        "desc": "Có Choukai Kai2 làm kì hạm và 5 tàu bất kì trong số Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari trong hạm đội chính",
+        "desc": "Có Choukai Kai2 làm kì hạm và 5 Nữ Hạm bất kì trong số Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari trong hạm đội chính",
         "unlock": [ 162, 307 ]
     },
     "153": {
         "code": "A51",
         "name": "Tái Tổ chức Đệ Thập Bát Chiến Đội!",
-        "desc": "Có Tenryuu, Tatsuta và ít nhất 2 tàu khác trong hạm đội",
+        "desc": "Có Tenryuu, Tatsuta và ít nhất 2 Nữ Hạm khác trong hạm đội",
         "unlock": [ 275 ]
     },
     "154": {
@@ -496,7 +496,7 @@
     "182": {
         "code": "A77",
         "name": "Thành lập Đệ Tứ Hàng Không Chiến Đội Tinh Nhuệ!",
-        "desc": "Có Lv.50+ Ise and Lv. 50+ Hyuuga làm kỳ hạm và Nữ Hạm ở vị trí thứ 2, 1 CL, 2 DD, và 1 tàu bất kỳ ở hạm đội chính.",
+        "desc": "Có Lv.50+ Ise and Lv. 50+ Hyuuga làm kỳ hạm và Nữ Hạm ở vị trí thứ 2, 1 CL, 2 DD, và 1 Nữ Hạm bất kỳ ở hạm đội chính.",
         "memo": "\u27a3Thưởng phi công tinh nhuệ",
         "unlock": [ 859 ]
     },
@@ -600,7 +600,7 @@
     "158": {
         "code": "A92",
         "name": "Vô Song Đệ Nhất Chiến Đội, Chuẩn bị Ra khơi!",
-        "desc": "Có Nagato Kai Ni làm kỳ hạm cùng Mutsu Kai Ni làm tàu thứ 2.",
+        "desc": "Có Nagato Kai Ni làm kỳ hạm cùng Mutsu Kai Ni làm Nữ Hạm thứ 2.",
         "memo": "\u27a3Thưởng Đạn kiểu 3 Kai hoặc 2 Pháo 2 nòng 41cm hoặc Nguyên liệu cải tiến pháo kiểu mới hoặc 8 Nguyên liệu chế tạo",
         "unlock": [ 281 ]
     },
@@ -735,67 +735,67 @@
     },
     "244": {
         "code": "B22",
-        "name": "Sortie the 30th Destroyer Division (First Generation)!",
-        "desc": "Sortie Mutsuki, Kisaragi, Yayoi, Mochizuki and up to 2 additional ships to [W3-2]. C-Rank+ the boss node.",
+        "name": "Xuất kích Đệ Thập Bát Khu Trục Đội (Thế hệ thứ nhất)!",
+        "desc": "Xuất kích Mutsuki, Kisaragi, Yayoi, Mochizuki và 2 Nữ Hạm khác tới [W3-2]. C-Rank+ node boss.",
         "memo": "\u27a3Rewards a Mamiya"
     },
     "245": {
         "code": "WB01",
-        "name": "Preparation for the Ceremony! (Finale)",
-        "desc": "Sortie a Lv.90-99 flagship to [W2-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Marriage Ring and Documents",
+        "name": "Chuẩn bị cho buổi lễ! (Cuối cùng)",
+        "desc": "Xuất kích Kỳ Hạm Cấp độ 90-99 tới [W2-3]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Nhẫn và Giấy đăng ký kết hôn",
         "unlock": [ 135 ]
     },
     "246": {
         "code": "WB02",
-        "name": "A Couple's First Mission!",
-        "desc": "Sortie a Lv.100+ Fleet 1 flagship to [W4-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards furniture",
+        "name": "Nhiệm vụ đầu tiên của 2 người!",
+        "desc": "Xuất kích Hạm Đội 1 có Kỳ Hạm Cấp Độ 100+ tới [W4-3]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng đồ nội thất",
         "unlock": [ 142 ]
     },
     "247": {
         "code": "B23",
-        "name": "The Aviation Battleships Set Sail!",
-        "desc": "Sortie 2 BBV and up to 4 additional ships to [W4-4]. B-Rank+ the boss node."
+        "name": "Hàng Không Chiến Hạm, Chuẩn bị ra khơi!",
+        "desc": "Xuất kích 2 BBV cùng 4 Nữ Hạm khác tới [W4-4]. B-Rank+ node boss."
     },
     "248": {
         "code": "B24",
-        "name": "The 30th Destroyer Fleet's Anti-Submarine Patrol",
-        "desc": "Sortie Mutsuki, Yayoi, Uzuki and Mochizuki to [W1-5]. C-Rank+ the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy",
+        "name": "Đệ Tam Thập Khu Trục Đội chống tàu ngầm",
+        "desc": "Xuất kích Mutsuki, Yayoi, Uzuki và Mochizuki tới [W1-5]. C-Rank+ node boss.",
+        "memo": "\u27a3Thưởng Tiên nội thất",
         "unlock": [ 137, 252 ]
     },
     "250": {
         "code": "B25",
-        "name": "Sortie the New 2nd Carrier Division",
-        "desc": "Sortie Hiryuu Kai Ni as flagship, Souryuu, 2 DD and up to 2 additional ships to [W5-2]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Mamiya",
+        "name": "Đệ Nhị Hàng Không Chiến Đội kiểu mới, Xuất Kích!",
+        "desc": "Xuất kích Hiryuu Kai Ni làm kỳ hạm, Souryuu, 2 DD cùng 2 Nữ Hạm khác tới [W5-2]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Mamiya",
         "unlock": [ 141, 614, 615 ]
     },
     "251": {
         "code": "B26",
-        "name": "The Elite 2nd Carrier Division Sets Sail!",
-        "desc": "Sortie Souryuu Kai Ni as flagship, Hiryuu Kai Ni, 2 DD and up to 2 additional ships to [W4-3]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Furniture Fairy"
+        "name": "Đệ Nhị Hàng Không Chiến Đội Tinh Nhuệ, Chuẩn bị ra khơi!",
+        "desc": "Xuất kích Souryuu Kai Ni làm kỳ hạm, Hiryuu Kai Ni, 2 DD cùng 2 tàu khác tới [W4-3]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Tiên nội thất"
     },
     "252": {
         "code": "B27",
-        "name": "Sortie the Battleship Haruna!",
-        "desc": "Sortie Haruna Kai Ni and 5 additional ships to [W5-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Prototype 35.6cm Triple Gun Mount"
+        "name": "Chiến Hạm Haruna, Xuất Kích!",
+        "desc": "Xuất kích Haruna Kai Ni cùng 5 Nữ Hạm khác tới [W5-1]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Pháo 3 nòng 35.6cm Nguyên mẫu"
     },
     "253": {
         "code": "B28",
-        "name": "Sortie the 601st Naval Air Group!",
-        "desc": "Sortie Unryuu Kai and 5 additional ships to [W5-2]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Skilled Carrier-based Aircraft Maintenance Personnel",
+        "name": "Xuất Kích Hàng Không Đội 601!",
+        "desc": "Xuất kích Unryuu Kai cùng 5 Nữ Hạm khác tới [W5-2]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Thợ bảo dưỡng Quân cơ Tinh nhuệ",
         "unlock": [ 616 ]
     },
     "254": {
         "code": "B29",
-        "name": "Sortie a Light Aircraft Carrier Division!",
-        "desc": "Sortie 1-2 CVL, 1 CL and 3-4 DD to [W2-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards a Repair Team"
+        "name": "Khinh Không Mẫu Chiến Đội, Xuất Kích!",
+        "desc": "Xuất kích 1-2 CVL, 1 CL và 3-4 DD tới [W2-1]. S-Rank node boss.",
+        "memo": "\u27a3Thưởng Đội Sửa Chữa"
     },
     "255": {
         "code": "B30",

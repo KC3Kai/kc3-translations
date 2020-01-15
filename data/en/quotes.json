@@ -1753,7 +1753,8 @@
         "2@Fall2019": "The Naval District Autumn Festival... This is nice. The atmosphere of the festivals in this country is... Ah, what is that destroyer eating? I'd like to try some.",
         "2@Saury2019": "So this is the Saury Festival I've heard about. It's a lot larger than I imagined. Since I'm here, I'd like to try one of those \"salt grilled saury\"! Can I?",
         "2@YearsEnd2019": "Mary, it's \"o-souji\" you say? That means it's a large-scale cleaning. Well, this is good. We'll help out too!",
-        "2@NewYears2020": "Happy New Year! I'm counting on you again this year. OK? Now, shall we go have some good food?"
+        "2@NewYears2020": "Happy New Year! I'm counting on you again this year. OK? Now, shall we go have some good food?",
+        "2@Setsubun2020": "Ah, I know about this. I heard about this from Sara. Setsubun, right? Leave it to me. I'll get them on the first shot. Mutsu, brace yourself!"
     },
     "1496": {
         "Intro": "Hi, one of the Big Seven from the States, 1st ship of the Colorado-class battleships, USS Colorado, arriving on station. Admiral, make sure you stick real close to me today too. What do you say? OK!",
@@ -7983,7 +7984,8 @@
         "Damaged(1)": "Hyaa!",
         "Damaged(2)": "Oh my god... they're good.",
         "Damaged(3)": "This... isn't enough to stop me. I can still fight!",
-        "Sunk": "Oh god, so much water! The ship is listing... All hands, abandon ship! Hurry! Perth, you have to escape. Promise me!"
+        "Sunk": "Oh god, so much water! The ship is listing... All hands, abandon ship! Hurry! Perth, you have to escape. Promise me!",
+        "2@Setsubun2020": "I've heard of this. It's the speciality of Japanese Naval Bases, \"Setsubun\", right? The Oni for us in the ABDA is... Eh? Perth? You are?"
     },
     "600": {
         "Intro": "I'm Houston, of the Northampton-class. Admiral, let us protect the tranquility of the Pacific and the seas of Asia together. This time... this time I believe we can do it.",
@@ -8924,8 +8926,8 @@
         "Yasen(1)": "It's... the other side of the night!",
         "Yasen(2)": "Heheh, tell me your opinion later!",
         "MVP": "These newly developed naval weapons, I have to check them without fail! Eh? I'm slow? It.. It can't be helped, the equipment is heavy!",
-        "Damaged(1)": "I didn't even get to try them out~!",
-        "Damaged(2)": "Aah! Stop it!",
+        "Damaged(1)": "Aah! Stop it!",
+        "Damaged(2)": "I didn't even get to try them out~!",
         "Damaged(3)": "Nuu... Seems I stacked them up a bit too much, huh...",
         "Sunk": "I got some... good... data, yeah?.... Samidare-chan, is it okay... to have just this result... yeah?",
         "H0000": "0 midnight. Ah! I have to check the recording.",
@@ -8941,7 +8943,7 @@
         "H1000": "It's 10 o'clock. How's it going? Doing alright?",
         "H1100": "It's 11 o'clock. How about something like soba for lunch?",
         "H1200": "It's now 12 o'clock. I want to eat something nice for lunch today~. Maybe Tempura soba?",
-        "H1300": "1 o'clock P.M. I aways get sleepy after a meal~ It's just natural providence.",
+        "H1300": "1 o'clock P.M. I always get sleepy after a meal~ It's just natural providence.",
         "H1400": "2 o'clock P.M. Let's do our best this afternoon too!",
         "H1500": "3 o'clock P.M., I've got a craving for sweets just now...",
         "H1600": "It's now 4 o'clock P.M. I'm getting interested in the admiral's current results!",
@@ -8949,7 +8951,7 @@
         "H1800": "It's 6 P.M. The rice prep hasn't been done. Is Mamiya close by, I wonder?",
         "H1900": "It's 7 P.M. Hey, Admiral, let's have dinner. Ginpai-ing is forbidden!",
         "H2000": "It's 8 P.M. Well? It is tasty?",
-        "H2100": "It's 9 P.M. I've aquired a~ll the data on the admiral's favourite menu!",
+        "H2100": "It's 9 P.M. I've acquired a~ll the data on the admiral's favourite menu!",
         "H2200": "It's 10 P.M. Ah, man, that 5500-ton level is truly noisy. Should we have some words?",
         "H2300": "It's 11 P.M. You're still going strong, huh? In that case, I shall accompany you.",
         "2@NewYears": "Admiral? Best wishes for the new year! Let's spend another year together, okay? Ah... don't leave me behind...",
@@ -8970,6 +8972,22 @@
         "2@Anniversary2018": "Admiral, Admiralll, did you hear? It's the 5th Anniversary. Congratulations, and thank you so much. I'm really happy. Hooray!"
     },
     "293": {},
+    "622": {
+        "Intro": "Heeey! Admiral, thanks for waiting. Light Cruiser Yuubari, on standby today too!",
+        "Poke(2)": "Just take in all of my charm of being a one-off.",
+        "Idle": "Yura, it's almost time to go get ready. Everyone is waiting. Eh? Me? Aaah, I should too.",
+        "Equip(1)": "The balance of equipment is important too. Don't you think so?",
+        "Equip(2)": "I've checked all my new equipment properly. Eh? I'm overloaded? Nah, it's all good.",
+        "Supply": "Whew, tempura soba is delicious.",
+        "Yasen(2)": "Tell me what you think later, alright?"
+    },
+    "623": {
+        "Intro": "Heeey! Admiral, thanks for waiting. You can ask the fully improved me to do anything, alright?",
+        "Equip(1)": "Load up more and more~ Yeah, feeling good!"
+    },
+    "624": {
+        "Equip(1)": "Submarines? Yeah, ASW equipment will probably be important."
+    },
     "54": {
         "Intro": "Sendai, reporting in! You can leave the night battles to me.",
         "Library": "The last of the 5500-ton light cruiser types... would be mine\u2014 the Sendai-class.<br /><br />I'll teach you all about the appeal of a mature light cruiser. Naturally, it'll be with a night battle!",
@@ -9728,7 +9746,8 @@
         "2@Fall2019": "So this is the Naval District Autumn Festival. Ah, it feels so amazing. There are so many new Japanese foods... This smells strange but... it's delicious. Gari, is there anything you'd like? You want some wine to start?",
         "2@Saury2019": "Saury? What's that? Ah, so it's a fish. Does it go well with pasta? What about wine? Ah, that's wonderful. Then I'll have to work hard. Gari, let's give it our best!",
         "2@YearsEnd2019": "O-souji? That's right, this is an important year's end event. Admiral, is there anything I can do? I haven't really done much cleaning... Eh? I just have to listen to Houshou?",
-        "2@NewYears2020": "Admiral, Gari, Happy New Year! The New Year definitely needs to be greeted with a toast of wine! Would you like me to open white or red wine? ...Both? Good call."
+        "2@NewYears2020": "Admiral, Gari, Happy New Year! The New Year definitely needs to be greeted with a toast of wine! Would you like me to open white or red wine? ...Both? Good call.",
+        "2@Setsubun2020": "So this is Setsubun! It looks so fun! So we throw these beans at the person playing the Oni? Our Oni is... a submarine? Oh my, she ran. Oh well. Grecale will do then. Here I come. Take this!"
     },
     "693": {
         "Intro": "Good day! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufu, Admiral, just Abruzzi is fine. Please continue to give my sister and me your guidance.",
@@ -9857,7 +9876,8 @@
         "Damaged(1)": "Aaaaaah!",
         "Damaged(2)": "Seriously? Jeez!",
         "Damaged(3)": "Oh no, this is bad! I don't feel like I'm sinking, but... it's bad.",
-        "Sunk": "Oh... no... I'm sinking... I don't want it to... end here... but... Goodbye... everyone..."
+        "Sunk": "Oh... no... I'm sinking... I don't want it to... end here... but... Goodbye... everyone...",
+        "2@Setsubun2020": "It's Setsubun, right? I totally get that. Who is our Oni? Ah, it's Perth. OK. Then, here goes. Take this!"
     },
     "609": {
         "Intro": "Hi! Admiral, how are you today? I see, I see. I'm the Dutch CL, De Ruyter. That's right, just leave it to me again today.",
@@ -9916,7 +9936,8 @@
         "Damaged(1)": "Gah! Now you've done it.",
         "Damaged(2)": "Oh no you don't!",
         "Damaged(3)": "Aaah, gah! I'm hit? Throw the inflammables overboard. Hurry with the fire fighting. I won't sink to anything less than a direct torpedo strike!",
-        "Sunk": "I've... taken a direct hit... I see... I'm sinking... I don't mind... But, there's something important... I haven't told you yet... Ahh... Admiral, I... I..."
+        "Sunk": "I've... taken a direct hit... I see... I'm sinking... I don't mind... But, there's something important... I haven't told you yet... Ahh... Admiral, I... I...",
+        "2@Setsubun2020": "The ABDA Fleet's Setsubun monster... by which I mean Oni, will be me. Br-bring it on!"
     },
     "618": {
         "Intro": "How are you? I'm the Perth-class light cruiser, Perth. HMAS Perth is here. Don't underestimate my strength - I was raised in Australia. Well, shall we get started?",
@@ -9978,7 +9999,8 @@
         "Damaged(1)": "Ah! What was that?",
         "Damaged(2)": "A direct hit!? It can't be!",
         "Damaged(3)": "Put it out, put it out! Put the fire out! Ah, the water is...! Jeez!",
-        "Sunk": "That's why I said... I didn't like it... This sea is deep. ...Far deeper... than Ironbottom Sound..."
+        "Sunk": "That's why I said... I didn't like it... This sea is deep. ...Far deeper... than Ironbottom Sound...",
+        "2@Setsubun2020": "Ouch. What was that? Who did that? ...A-ka-tsu-ki, you little... Ow! Now it's you, Nightmare... Now listen here you little shits... Whoa!"
     },
     "696": {
         "Intro": "How is everything? I'm the Atlanta-class anti-air cruiser, Atlanta. Reporting in. Admiral... well, I guess I'll work hard today too.",
@@ -16212,7 +16234,8 @@
         "Damaged(1)": "Whoa!",
         "Damaged(2)": "Goddamnit! Don't shoot me!",
         "Damaged(3)": "Whoaa! My bow! Why you...! I won't sink!",
-        "Sunk": "Ah, I'm sinking... My body is going deeper and deeper... So this is the depths, the abyss... Everyone..."
+        "Sunk": "Ah, I'm sinking... My body is going deeper and deeper... So this is the depths, the abyss... Everyone...",
+        "2@Setsubun2020": "It's here! Setsubun is finally here! Who is our Oni? Who is it!? ...Eh? Naga-Naga-nee? Aha, that's... we better not do this? Right?"
     },
     "695": {
         "Intro": "Mornin'! 18th ship of the Yuugumo-class destroyers, Akishimo, reporting in. Hey, no matter how hard it gets, we'll overcome it together! Now, let's go!",
@@ -16804,7 +16827,8 @@
         "2@Saury2019": "Libe, you look cute! That's nice... I wonder if I should wear one too...",
         "2@Saury2019_2": "Libe, you look cute! That's nice... I wonder if I should wear one too... Hmmm... How's this!? Ta-dah!",
         "2@YearsEnd2019": "Eeeeeeeh, Destroyer Division 10 has to do some end of year cleaaaaaaaaning...? Do we really have to? Nee-san, Libe, can I leave it to you?",
-        "2@NewYears2020": "Admiral, Happy New Year! I've gotten quite comfortable here, haven't I? Right?"
+        "2@NewYears2020": "Admiral, Happy New Year! I've gotten quite comfortable here, haven't I? Right?",
+        "2@Setsubun2020": "I've been waiting for Setsubun! Libe, do you think you can take her? She'll be a tough one. Just pretend she's a carrier! There, she's wide open."
     },
     "619": {
         "Intro": "Good day! I'm the 2nd of the Maestrale-class destroyers, Grecale. Admiral, you better treat me really nicely, alright? I don't know what I'll do... if you don't.",
@@ -17019,7 +17043,8 @@
         "2@Fall2019": "I like this season. It just passes by peacefully. What's that? *sniff* *sniff*. What's that smell? It smells good. The Naval District Autumn Festival? Ah, Admiral, can we go?",
         "2@Saury2019": "The saury operation. I've heard all about it. Please let me take part too. I see, so equipment is important. Let's see now... Ah, this might suit me pretty well.",
         "2@YearsEnd2019": "It's the year's end Naval Base Cleaning, right? Understood! Leave it to me! ...So, what am I supposed to do? Uhmmm...",
-        "2@NewYears2020": "A Happy New Year! Admiral, do you know? It's time for \"Hatsumode\", right? I'll be going. I'm off!"
+        "2@NewYears2020": "A Happy New Year! Admiral, do you know? It's time for \"Hatsumode\", right? I'll be going. I'm off!",
+        "2@Setsubun2020": "You can definitely count on us for Setsubun too! The Onis are... those heavy cruiser sisters, right? Understood. Target acquired. Fire a salvo!"
     },
     "893": {
         "Intro": "Hi, I'm the J-class destroyer, Janus. Admiral, let's work hard today too. Eh? Ah, what is it? Is there something on my face?",
@@ -17437,7 +17462,8 @@
         "2@Rainy2019": "Teru teru bozu, huh? I'll make some too! This is Kuna! This is Shimu-nee! The one with Gaki will be... Eto! Ah! And this is... Fukae?",
         "2@Fall2019": "It's autumn. Autumn just gives off... a kind of sad feeling. It feels like something is ending. Hey, Admiral, we can't help this feeling, right?",
         "2@Saury2019": "The Saury Festival... is here! I've heard about this! Don't worry! I'll be your guide through the Northern seas! I can do it!",
-        "2@YearsEnd2019": "Eeeh! The year's end cleaning!? Ngggh, I'm not really good at that... Ah, Gaki, where are you going? I'll come too!"
+        "2@YearsEnd2019": "Eeeh! The year's end cleaning!? Ngggh, I'm not really good at that... Ah, Gaki, where are you going? I'll come too!",
+        "2@Setsubun2020": "OUCH! What's going on? Ouch! I've been hit again? Who did that...? Wha, it's you, Gaki! Re-returning fire! Fire the beans!"
     },
     "378": {
         "Intro": "Ah, are you well? Of course, I, the Shimushu-class coastal defense ship Hachijou, am doing great. Admiral, you're... Yup, you look great! Alright, let's do our best today too. Treat me well.",
@@ -17477,7 +17503,8 @@
         "2@Rainy2019": "Hachi-neesan? Is that...me? Oh... I see... That's how it is... Hahhh... Why?",
         "2@Fall2019": "It's autumn... Alright. I feel motivated for some reason. I'll do my best. I feel like I won't lose. Humph.",
         "2@Saury2019": "Supporting the saury fishing? I'll do it then. Please allow me to be your pilot through the Northern seas. I'll do my best.",
-        "2@YearsEnd2019": "The year's end cleaning? My head kind of hurts. I'm sorry, Admiral, I'll just go to the arsenal... Umm..."
+        "2@YearsEnd2019": "The year's end cleaning? My head kind of hurts. I'm sorry, Admiral, I'll just go to the arsenal... Umm...",
+        "2@Setsubun2020": "Kinugasa, is it Setsubun now? These beans are for... I see... Alright then... Target acquired... The target is...Hachi-neesan... Fire!"
     },
     "379": {
         "Intro": "I'm the Shimushu-class coastal defense ship, Ishigaki. What? Is there something on my face? ...Oh, alright then. I want to protect the fleet, and you. Please leave it to me.",
@@ -17751,7 +17778,8 @@
         "Damaged(1)": "Ehehe. A direct hit? Sinking? Not anymore!",
         "Damaged(2)": "Ehehe. That hurts. Stop it.",
         "Damaged(3)": "Ehehehe. Even if I'm sunk, I won't let you harm the fleet!",
-        "Sunk": "Shikinami... I'm sorry... Did I... protect you this time? ...Everyone... please be safe... I... I..."
+        "Sunk": "Shikinami... I'm sorry... Did I... protect you this time? ...Everyone... please be safe... I... I...",
+        "2@Setsubun2020": "The Oni for our Hi-Convoy Escort Squadron is... Hayasui? Please excuse me. Then I won't hesitate. Demon begone! Fortune welcome! Demon begone! Begone!"
     },
     "684": {
         "Intro": "Commander, I'm the Etorofu-class coastal defense ship, Hirato, reporting for duty. Let's work together today too. Don't worry. I won't let them lay a finger on you or anyone else, Commander. So relax.",
@@ -17891,7 +17919,8 @@
         "2@Fall2019": "It's autumn. The Naval District Autumn Festival is nice. Very nice. It's... it's the return of peacetime. I'm happy. *sigh* I'll have something to eat too. What should I have... Aha, *nom*... Ah, it's delicious!",
         "2@Saury2019": "Supporting saury fishing and protecting the fisheries is important. I'll sortie. Please wait a minute while I ready my equipment.",
         "2@YearsEnd2019": "Mikura, accepting the end of year cleaning mission. Leave it to me.",
-        "2@NewYears2020": "Happy New Year! Please take care of the Maritime Escort Division this year too. Admiral, what's this? ...Eh, New Year's money? Thank you!"
+        "2@NewYears2020": "Happy New Year! Please take care of the Maritime Escort Division this year too. Admiral, what's this? ...Eh, New Year's money? Thank you!",
+        "2@Setsubun2020": "It's Setsubun? I'm ready to give it my all if you need me to participate. Are you Etorofu-class girls ready? Let's go!"
     },
     "616": {
         "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. On alert. Admiral, please continue to care for the coastal defense ships and the Maritime Escort Division. I'll continue to give my best.",

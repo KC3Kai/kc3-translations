@@ -1196,15 +1196,7 @@
         "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina",
         "unlock": [ 870 ]
     },
-    "840": {
-        "code": "SB15",
-        "name": "Special Winter Mission: Elite Destroyer Division, Sortie!",
-        "desc": "Sortie 4 DD ONLY to [W1-1] and [W1-2]. S-Rank the boss nodes of both maps. You will be prompted to select one of two rewards, so be careful. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Furniture Fairy and either a \u2605+3 25mm Triple Autocannon Mount OR an Anti-Torpedo Bulge (Large)",
-        "unlock": [ 841 ],
-        "hash": 60709992
-    },
-    "841": {
+    "841SB16": {
         "code": "SB16",
         "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
         "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
@@ -1218,7 +1210,7 @@
         "memo": "\u27a3Rewards an Irako and either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler",
         "unlock": [ 833 ]
     },
-    "843": {
+    "843SB21": {
         "code": "SB21",
         "name": "Setsubun Special Sorties: Maintain Control of the Seas!",
         "desc": "Sortie 2 DD and 2 additional ships to [W1-1], [W1-2], [W2-3]. S-Rank the boss nodes of each.",
@@ -1553,6 +1545,18 @@
         "desc": "Sortie a LHA/AV and up to 5 additional ships to [W4-5] and [W6-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards either three Type 2 12cm Mortar Kais OR a Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
     },
+    "901": {
+        "code": "B140",
+        "name": "Shall we try out Yuubari Kai Ni?",
+        "desc": "Sortie Yuubari Kai Ni (any variant) as flagship and up to 5 additional ships to [W2-5], [W3-3], [W5-3] and [W6-3]. S-rank the boss nodes of each.",
+        "memo": "\u27a3Rewards a 14cm Twin Gun Mount Kai and either two Type 2 Depth Charge OR two Daihatsu Landing Craft OR a Furniture Fairy"
+    },
+    "902": {
+        "code": "B141",
+        "name": "New 6th Torpedo Squadron, Sortie! Tell me your opinion later!",
+        "desc": "Sortie Yuubari Kai Ni (any variant) as flagship, any three of Torpedo Squadron 6 and up to 2 additional ships to [W1-5], [W1-6], [W2-2], [W3-2] and [W7-1]. S-rank the boss nodes of each. Reach [W1-6] node N once.",
+        "memo": "Torpedo Squadron 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\n\u27a3Rewards a 14cm Twin Gun Mount Kai and either 12 Development Materials OR a Type D Kouhyouteki Kai (Kouryuu Kai) OR 6 Screws"
+    },
 
 
     "201": {
@@ -1859,6 +1863,12 @@
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W4-1]", "{0} S-Rank [W4-2]", "{0} S-Rank [W4-3]", "{0} S-Rank [W4-4]", "{0} S-Rank [W4-5]" ]
+    },
+    "903": {
+        "code": "Bq13",
+        "name": "Expanded 6th Torpedo Squadron, to the Front Lines!",
+        "desc": "Sortie Yuubari Kai Ni (any variant) as flagship, any two of Torpedo Squadron 6 OR Yura Kai Ni and up to 3-4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-rank the boss nodes of each",
+        "memo": "Torpedo Squadron 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\n\u27a3Rewards 300 Ranking Points and either 10 Buckets OR a Medal OR a New Model Artillery Armament Materials"
     },
     
     
@@ -3057,9 +3067,31 @@
         "hash": 1725599310
     },
     "329": {
-        "code": "",
+        "code": "SC2",
         "name": "Daily Setsubun Mission: Setsubun Exercises!",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using 2 DD/DE and up to 4 additional ships.",
-        "memo": "\u27a3Rewards one unit of Setsubun Beans"
+        "memo": "\u27a3Rewards one unit of Setsubun Beans",
+        "hash": 494168864
+    },
+    "840": {
+        "code": "SB56",
+        "name": "Weekly Setsubun Mission: Reiwa 2nd Year Setsubun Operation",
+        "desc": "Sortie a CVL or CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material",
+        "hash": -1632146915
+    },
+    "841": {
+        "code": "SB57",
+        "name": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation",
+        "desc": "Sortie a CA or AV as flagship, 2 DD/DE and up to 3 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans and either five Development Materials OR a Screw",
+        "hash": 1314185599
+    },
+    "843": {
+        "code": "SB58",
+        "name": "Weekly Setsubun Extra Mission: Reiwa 2nd Year Setsubun Operation, All-Out Sortie!",
+        "desc": "Sortie a BB or CV(B) as flagship, 2 DD and up 3 additional ships to [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans and 203 Ranking Points",
+        "hash": -1791353907
     }
 }

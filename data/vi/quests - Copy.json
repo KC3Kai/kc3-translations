@@ -987,7 +987,7 @@
         "code": "B124",
         "name": "Đệ Thất Khu Trục Đội, Tiến vào Vùng Đảo Nansei!",
         "desc": "Xuất kích 2 Nữ Hạm trong số Akebono, Ushio, Sazanami và Oboro cùng 4 Nữ Hạm khác tới [W2-1], [W2-2], [W2-3] và [W2-4]. S-Rank node boss.",
-        "memo": "\u27a3Thưởng: \n\u00B6Lựa chọn đầu tiên: Tiên Nội Thất hoặc 3 Pháo 2 nòng 12.7cm Mẫu B Kai Ni Thuyền Daihatsu\n\u00B6Lựa chọn thứ hai: 8 Vật liệu chế tạo hoặc 5 Ốc hoặc Máy định vị sóng âm Kiểu 0"
+        "memo": "\u27a3Thưởng: \n\u00B6Lựa chọn đầu tiên: Tiên Nội Thất hoặc 3 Pháo 2 nòng 12.7cm Mẫu B Kai Ni Thuyền Daihatsu\n\u00B6Lựa chọn thứ hai: 8 Vật liệu chế tạo hoặc 5 Nguyên liệu chế tạo hoặc Máy định vị sóng âm Kiểu 0"
     },
     "299": {
         "code": "B125",
@@ -1525,7 +1525,7 @@
         "code": "B135",
         "name": "Thực hiện tuần tra gần bờ!",
         "desc": "Xuất kích CL, 3 DD/DE và lên tới 2 Nữ Hạm khác tới [W1-2], [W1-3], [W2-1] và [W2-2]. S-Rank node boss.",
-        "memo": "\u27a3Thưởng Báo cáo chiến dịch và hoặc 3 Ốc hoặc 3 Xô hoặc 2 Súng máy 25mm 3 nòng",
+        "memo": "\u27a3Thưởng Báo cáo chiến dịch và hoặc 3 Nguyên liệu chế tạo hoặc 3 Xô hoặc 2 Súng máy 25mm 3 nòng",
         "unlock": [ 236, 237 ]
     },
     "236": {
@@ -1756,7 +1756,7 @@
         "code": "Bm8",
         "name": "Xuất kích hàng tháng 8",
         "desc": "Xuất kích CL(T)/CT/CVL, 3 DD/DE và lên tới 2 Nữ Hạm khác tới [W1-2], [W1-3], [W1-4] và [W2-1]. S-Rank node boss mỗi map.",
-        "memo": "\u203bBảo Vệ Tuyến Đường Vận Tải! Tằng Cường Phòng Thủ Mặt Biển!\n\u27a3Thưởng: \n\u00B6Lựa chọn thứ nhất: Hoặc 4 Ốc hoặc 4 Xô hoặc 2 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Bom chống tàu ngầm Kiểu 95 hoặc 2 Súng máy 25mm hoặc Irako",
+        "memo": "\u203bBảo Vệ Tuyến Đường Vận Tải! Tằng Cường Phòng Thủ Mặt Biển!\n\u27a3Thưởng: \n\u00B6Lựa chọn thứ nhất: Hoặc 4 Ốc hoặc 4 Xô hoặc 2 Nguyên liệu chế tạo\n\u00B6Lựa chọn thứ hai: Hoặc Bom chống tàu ngầm Kiểu 95 hoặc 2 Súng máy 25mm hoặc Irako",
         "unlock": [ 284 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-2]", "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]" ]
@@ -1830,7 +1830,7 @@
         "code": "Bq9",
         "name": "Xuất kích hàng quý 9",
         "desc": "Xuất kích CV(L/B) và lên tới 5 Nữ Hạm khác tới [W1-3], [W1-4], [W2-1], [W2-2] và [W2-3]. S-Rank node boss.",
-        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bKhông Mẫu Chiến Lực, Tuần Tra Tuyến Đường Vận Tải!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Nguyên liệu nâng cấp trang bị hàng không mô hình mới hoặc 4 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Saiun hoặc Phi Công Tinh Nhuệ hoặc Hộp quà tặng",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bKhông Mẫu Chiến Lực, Tuần Tra Tuyến Đường Vận Tải!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Nguyên liệu nâng cấp trang bị hàng không mô hình mới hoặc 4 Nguyên liệu chế tạo\n\u00B6Lựa chọn thứ hai: Hoặc Saiun hoặc Phi Công Tinh Nhuệ hoặc Hộp quà tặng",
         "unlock": [ 895 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]

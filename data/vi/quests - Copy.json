@@ -1557,7 +1557,7 @@
 
     "201": {
         "code": "Bd1",
-        "name": "Chiến thắng hàng ngày",
+        "name": "Xuất kích hàng ngày 1",
         "desc": "Đánh bại Hạm Đội Biển Sâu bằng cách giành được B-rank trở lên.",
         "memo": "\u203bKích Phá Hạm Đội Địch!",
         "unlock": [ 216, 211, 212, 330, 337, 892 ],
@@ -1565,55 +1565,55 @@
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily Battle",
-        "desc": "Attack 1 Abyssal fleet.",
-        "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
+        "name": "Xuất kích hàng ngày 2",
+        "desc": "Tấn công 1 Hạm Đội Biển Sâu và đánh bại Kỳ Hạm.",
+        "memo": "\u203bTiêu diệt Kỳ Hạm địch!",
         "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 678, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
-        "name": "Daily Battles",
-        "desc": "Attack 10 Abyssal fleets.",
-        "memo": "\u203bAssault 10 Enemy Fleets!",
+        "name": "Xuất kích hàng ngày 3",
+        "desc": "Tấn công 10 Hạm Đội Biển Sâu.",
+        "memo": "\u203bTấn công 10 Hạm Đội Biển Sâu!",
         "unlock": [ 327 ],
         "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
-        "name": "Daily Carriers",
-        "desc": "Sink 3 Abyssal CV(L).",
-        "memo": "\u203bSink 3 Enemy Carriers!",
+        "name": "Xuất kích hàng ngày 4",
+        "desc": "Đánh chìm 3 CV(L) của Hạm Đội Biển Sâu.",
+        "memo": "\u203bĐánh chìm 3 CV(L) Địch!",
         "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
-        "name": "Daily Transports",
-        "desc": "Sink 3 Abyssal transport ships.",
-        "memo": "\u203bSink 3 Enemy Supply Ships!",
+        "name": "Xuất kích hàng ngày 5",
+        "desc": "Đánh chìm 3 tàu vận tải của Hạm Đội Biển Sâu.",
+        "memo": "\u203bHạm Đội Xuất Kích! Phá Huỷ Tàu Vận Tải Địch ",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
-        "name": "Daily Transports 2",
-        "desc": "Sink 5 Abyssal transport ships.",
-        "memo": "\u203bStrike at the Enemy Transport Convoy!",
+        "name": "Xuất kích hàng ngày 6",
+        "desc": "Đánh chìm 5 tàu vận tải của Hạm Đội Biển Sâu.",
+        "memo": "\u203bTấn Công Hạm Đội Vận Tải Địch!",
         "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
-        "name": "Daily [W2] Bosses",
-        "desc": "Sortie to any map in [W2]. B-Rank+ any boss node 5 times.",
-        "memo": "\u203bSeize Control of the Nansei Islands Region!",
+        "name": "Xuất kích hàng ngày 7",
+        "desc": "Xuất kích tới map bất kỳ thuộc [W2]. B-Rank+ node boss 5 lần.",
+        "memo": "\u203bNắm Quyền Kiểm Soát Vùng Đảo Nansei!",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
-        "name": "Daily Submarines",
-        "desc": "Sink 6 Abyssal submarines.",
-        "memo": "\u203bEnemy Submarine Suppression!",
+        "name": "Xuất kích hàng ngày 8",
+        "desc": "Đánh chìm 6 tàu ngầm của Hạm Đội Biển Sâu.",
+        "memo": "\u203bÁp Chế Hạm Đội Tàu Ngầm Địch!",
         "unlock": [ 881 ],
         "tracking": [ [0,6] ]
     },
@@ -1624,80 +1624,80 @@
 
     "214": {
         "code": "Bw1",
-        "name": "Weekly Sorties",
-        "desc": "Sortie 36 times, reach 24 boss nodes, B-Rank+ 12 boss nodes, and obtain 6 S-Ranks.",
-        "memo": "\u203bOperation A-Go",
+        "name": "Xuất kích hàng tuần 1",
+        "desc": "Xuất kích 36 lần, chạm 24 lần node boss, B-Rank+ 12 lần node boss, và dành được 6 S-Rank.",
+        "memo": "\u203bChiến Dịch A-Go",
         "unlock": [ 221, 893 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
         "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
     "220": {
         "code": "Bw2",
-        "name": "Weekly Carriers",
-        "desc": "Sink 20 Abyssal CV(L).",
-        "memo": "\u203bOperation I-Go",
+        "name": "Xuất kích hàng tuần 2",
+        "desc": "Đánh chìm 20 CV(L) của Hạm Đội Biển Sâu.",
+        "memo": "\u203bChiến Dịch I-Go",
         "unlock": [ 228, 854 ],
         "tracking": [ [0,20] ]
     },
     "213": {
         "code": "Bw3",
-        "name": "Weekly Transports",
-        "desc": "Sink 20 Abyssal transport ships.",
-        "memo": "\u203bNaval Commerce Raid Operation",
+        "name": "Xuất kích hàng tuần 3",
+        "desc": "Đánh chìm 20 tàu vận tải của Hạm Đội Biển Sâu.",
+        "memo": "\u203bChiến Dịch Phá Hoại Sự Thông Thương Của Kẻ Thù",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
-        "name": "Weekly Transports 2",
-        "desc": "Sink 50 Abyssal transport ships.",
+        "name": "Xuất kích hàng tuần 4",
+        "desc": "Đánh chìm 50 tàu vận tải của Hạm Đội Biển Sâu.",
         "memo": "\u203bOperation Ro-Go",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
-        "name": "Weekly Submarines",
-        "desc": "Sink 15 Abyssal submarines.",
-        "memo": "\u203bNaval Escort Battle\n\u27a3Rewards a Screw ",
+        "name": "Xuất kích hàng tuần 5",
+        "desc": "Đánh chìm 15 tàu ngầm của Hạm Đội Biển Sâu.",
+        "memo": "\u203bHải Thượng Hộ Vệ Chiến\n\u27a3Thưởng Ốc ",
         "unlock": [ 229, 241, 613, 645, 857 ],
         "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
-        "name": "Weekly [W4] Bosses",
-        "desc": "Sortie to any map in [W4]. B-Rank+ any boss node 12 times.",
-        "memo": "\u203bDestroy the Enemy's Eastern Fleet!",
+        "name": "Xuất kích hàng tuần 6",
+        "desc": "Xuất kích tới map bất kỳ trong [W4]. B-Rank+ node boss bất kỳ 12 lần.",
+        "memo": "\u203bTiêu Diệt Đông Phương Hạm Đội của Địch!",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
-        "name": "Weekly [W3] Bosses",
-        "desc": "Sortie to [W3-3], [W3-4] or [W3-5]. B-Rank+ any boss node 5 times.",
-        "memo": "\u203bDestroy the Enemy Fleet's Main Forces to the North!\n\u27a3Rewards 3 Screws",
+        "name": "Xuất kích hàng tuần 7",
+        "desc": "Xuất kích tới [W3-3], [W3-4] hoặc [W3-5]. B-Rank+ node boss bất kỳ 5 lần.",
+        "memo": "\u203bTiêu Diệt Bắc Phương Hạm Đội Chủ Lực của Địch!\n\u27a3Thưởng 3 Ốc",
         "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
-        "name": "Weekly [W4-4]",
-        "desc": "Sortie to [W4-4]. B-Rank+ the boss node.",
-        "memo": "\u203bCrush the Backbone of the Enemy's Eastern Fleet!",
+        "name": "Xuất kích hàng tuần 8",
+        "desc": "Xuất kích tới [W4-4]. B-Rank+ node boss.",
+        "memo": "\u203bTiêu Diệt Xương Sống của Hạm Đội Đông Phương Địch!",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
     "243": {
         "code": "Bw9",
-        "name": "Weekly [W5-2]",
-        "desc": "Sortie to [W5-2]. S-Rank the boss node 2 times.",
-        "memo": "\u203bObtain Air Superiority Over the Southern Coral Sea Islands Region!\n\u27a3Rewards 2 Screws",
+        "name": "Xuất kích hàng tuần 9",
+        "desc": "Xuất kích tới [W5-2]. S-Rank node boss 2 lần.",
+        "memo": "\u203bDành Quyền Kiểm Soát Bầu Trời trên Vùng Đảo San Hô Nam Phương Hải Vực!\n\u27a3Thưởng 2 Ốc",
         "unlock": [ 809 ],
         "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
-        "name": "Weekly [W1-5]",
-        "desc": "Sortie to [W1-5]. A-Rank+ the boss node 3 times.",
-        "memo": "\u203bStrive to Maintain the Security of the Naval Convoy Route!\n\u27a3Rewards 3 Screws",
+        "name": "Xuất kích hàng tuần 10",
+        "desc": "Xuất kích tới [W1-5]. A-Rank+ node boss 3 lần.",
+        "memo": "\u203bChiến Đấu để Duy Trì Sự An Toàn của Con Đường Vận Tải Trên Biển!\n\u27a3Thưởng 3 Ốc",
         "tracking": [ [0,3] ]
     },
 
@@ -1707,56 +1707,56 @@
 
     "249": {
         "code": "Bm1",
-        "name": "Monthly [W2-5] Myoukou Fleet",
-        "desc": "Sortie Myoukou, Nachi, Haguro and 3 additional ships to [W2-5]. S-Rank the boss node.",
-        "memo": "\u203bSortie the 5th Cruiser Division!",
+        "name": "Xuất kích hàng tháng 1",
+        "desc": "Xuất kích Myoukou, Nachi, Haguro và 3 Nữ Hạm khác tới [W2-5]. S-Rank node boss.",
+        "memo": "\u203bĐệ Ngũ Chiến Đội, Xuất Kích!",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
-        "name": "Monthly [W6-1]",
-        "desc": "Sortie to [W6-1]. S-Rank the boss node 3 times.",
-        "memo": "\u203bSortie a Submarine Fleet!\n\u27a3Rewards an Irako",
+        "name": "Xuất kích hàng tháng 2",
+        "desc": "Xuất kích tới [W6-1]. S-Rank node boss 3 lần.",
+        "memo": "\u203bXuất kích Hạm Đội Tàu Ngầm!\n\u27a3Thưởng Irako",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
-        "name": "Monthly [W1-4]",
-        "desc": "Sortie a CL as flagship, up to 2 other CL, and at least 1 DD to [W1-4]. No other ship types are allowed. S-Rank the boss node.",
-        "memo": "\u203bSend the Torpedo Squadron Southwest!\n\u27a3Rewards an Irako and 3 Screws"
+        "name": "Xuất kích hàng tháng 3",
+        "desc": "Xuất kích CL làm kỳ hạm, lên tới 2 CL khác, và ít nhất 1 DD tới [W1-4]. Nữ Hạm loại khác không được chấp nhận. S-Rank node boss.",
+        "memo": "\u203bThuỷ Lôi Chiến Đội, Tiến về Phía Tây Nam!\n\u27a3Thưởng Irako và 3 Ốc"
     },
     "259": {
         "code": "Bm4",
-        "name": "Monthly [W5-1]",
-        "desc": "Sortie 3 BB(V) (Yamato-class, Nagato-class, Ise-class or Fusou-class ONLY), 1 CL and 2 additional ships to [W5-1]. S-Rank the boss node.",
-        "memo": "\u203bSend a Surface Task Force Southward!\n\u27a3Rewards 4 Screws"
+        "name": "Xuất kích hàng tháng 4",
+        "desc": "Xuất kích 3 BB(V) (Chỉ Lớp Yamato, Lớp Nagato, Lớp Ise hoặc Lớp Fusou), 1 CL và 2 Nữ Hạm khác tới [W5-1]. S-Rank node boss.",
+        "memo": "\u203bThuỷ Thượng Đả Kích Bộ Đội, Tiến về Phía Nam!\n\u27a3Thưởng 4 Ốc"
     },
     "265": {
         "code": "Bm5",
-        "name": "Monthly [W1-5]",
-        "desc": "Sortie to [W1-5]. A-Rank+ the boss node 10 times.",
-        "memo": "\u203bMonth-Long Reinforcement of the Naval Convoy\n\u27a3Rewards 3 Screws",
+        "name": "Xuất kích hàng tháng 5",
+        "desc": "Xuất kích tới [W1-5]. A-Rank+ node boss 10 lần.",
+        "memo": "\u203bTăng Cường Bảo Vệ Vùng Biển Suốt Tháng\n\u27a3Thưởng 3 Ốc",
         "unlock": [ 628 ],
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
-        "name": "Monthly [W4-2]",
-        "desc": "Sortie 2 CV(B/L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
-        "memo": "\u203bSend a Carrier Task Force Westward!\n\u27a3Rewards 2 Screws",
+        "name": "Xuất kích hàng tháng 6",
+        "desc": "Xuất 2 CV(B/L), 2 DD và 2 Nữ Hạm khác tới [W4-2]. S-Rank node boss.",
+        "memo": "\u203bKhông Mẫu Cơ Động Bộ Đội, Tiến về phía Tây!\n\u27a3Thưởng 2 Ốc",
         "unlock": [ 266, 626, 822 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [W2-5] Destroyer Fleet",
-        "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
-        "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
+        "name": "Xuất kích hàng tháng 7",
+        "desc": "Xuất kích DD làm kỳ hạm, thêm 3 DD, 1 CA (không phải CAV) và 1 CL tới [W2-5]. S-Rank node boss.",
+        "memo": "\u203bThuỷ Thượng Phản Kích Bộ Đội, Đột Nhập!\n\u27a3Thưởng 2 Ốc"
     },
     "280": {
         "code": "Bm8",
-        "name": "Monthly Supply Lines",
-        "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u203bSecure the Supply Lines! Reinforce the Naval Defenses!\n\u27a3Rewards: \n\u00B6First choice: Either 4 Development Materials OR 4 Buckets OR 2 Screws\n\u00B6Second choice: Either a Type 95 Depth Charge OR two 25mm Single Autocannon Mounts OR an Irako",
+        "name": "Xuất kích hàng tháng 8",
+        "desc": "Xuất kích CL(T)/CT/CVL, 3 DD/DE và lên tới 2 Nữ Hạm khác tới [W1-2], [W1-3], [W1-4] và [W2-1]. S-Rank node boss mỗi map.",
+        "memo": "\u203bBảo Vệ Tuyến Đường Vận Tải! Tằng Cường Phòng Thủ Mặt Biển!\n\u27a3Thưởng: \n\u00B6Lựa chọn thứ nhất: Hoặc 4 Ốc hoặc 4 Xô hoặc 2 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Bom chống tàu ngầm Kiểu 95 hoặc 2 Súng máy 25mm hoặc Irako",
         "unlock": [ 284 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-2]", "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]" ]
@@ -1764,99 +1764,99 @@
 
     "822": {
         "code": "Bq1",
-        "name": "Quarterly [W2-4]",
-        "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards a Mamiya and 5 Screws",
+        "name": "Xuất kích hàng quý 1",
+        "desc": "Xuất kích tới [W2-4]. S-Rank node boss 2 lần.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bChiến Dịch Phản Công Vùng Okinoshima \n\u27a3Thưởng Mamiya và 5 Ốc",
         "tracking": [ [0,2] ]
     },
     "854": {
         "code": "Bq2",
-        "name": "Quarterly Operation Z, Part 1",
-        "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
+        "name": "Xuất kích hàng quý 2",
+        "desc": "Xuất kích Hạm Đội 1 tới [W2-4], [W6-1] và [W6-3] và A-Rank+ node boss mỗi map. Xuất kích tới [W6-4] và S-Rank node boss.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bNhiệm Vụ Mở Rộng Kết Quả Trận Chiến! \"Chiến Dịch Z\", Chiến Dịch Sơ Bộ\n\u27a3Thưởng 3 Irako, 4 Ốc và 350 Điểm Xếp Hạng",
         "unlock": [ 872 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
     "861": {
         "code": "Bq3",
-        "name": "Quarterly [W1-6]",
-        "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "name": "Xuất kích hàng quý 3",
+        "desc": "Xuất kích 2 BBV/AO và lên tới 4 Nữ Hạm khác tới [W1-6]. Chạm node N 2 lần.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bCường Hành Thâu Tống Hạm Đội, Nhổ Neo!\n\u27a3Thưởng Tiếp tế trên biển",
         "unlock": [ 862 ],
         "tracking": [ [0,2] ]
     },
     "862": {
         "code": "Bq4",
-        "name": "Quarterly [W6-3]",
-        "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
+        "name": "Xuất kích hàng quý 4",
+        "desc": "Xuất kích 1 AV, 2 CL và lên tới 3 Nữ Hạm khác tới [W6-3]. A-Rank+ node boss 2 lần.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bThực Hiện Trinh Sát Trên Không Tiền Tuyến!\n\u27a3Thưởng 4 Ốc",
         "tracking": [ [0,2] ]
     },
     "873": {
         "code": "Bq5",
-        "name": "Quarterly [W3]",
-        "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "name": "Xuất kích hàng quý 5",
+        "desc": "Xuất kích CL và lên tới 5 Nữ Hạm khác tới [W3-1], [W3-2] và [W3-3]. A-Rank+ node boss mỗi map.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bBảo Vệ Tuyến Phòng Thủ Phía Bắc!\n\u27a3Thưởng Lương thực chiến đấu và hoặc Tiên Nội Thất hoặc \u2605+3 Pháo 2 nòng 12.7cm Mẫu C Kai Ni hoặc Huân Chương",
         "unlock": [ 874, 875 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
     },
     "875": {
         "code": "Bq6",
-        "name": "Quarterly [W5-4]",
-        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai/Kai Ni or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "name": "Xuất kích hàng quý 6",
+        "desc": "Xuất kích Naganami Kai Ni, 1 trong số Takanami Kai, Asashimo Kai/Kai Ni hoặc Okinami Kai, và lên tới 4 Nữ Hạm khác tới [W5-4]. S-Rank node boss",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bTinh Nhuệ Đệ Tam Nhất Khu Trục Đội, Đột Nhập vào Thiết Đế Hải Vực!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Radar Phòng Không Kiểu 13 hoặc 2 Radar Bề Mặt Kiểu 22 hoặc Báo cáo chiến dịch\n\u00B6Lựa chọn thứ hai: Hoặc Nguyên liệu cải tiến pháo kiểu mới hoặc Hộp quà tặng",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
     },
     "888": {
         "code": "Bq7",
-        "name": "Quarterly Mikawa Fleet",
-        "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "name": "Xuất kích hàng quý 7",
+        "desc": "Xuất kích 4 Nữ Hạm trong số Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari và lên tới 2 Nữ Hạm khác tới [W5-1], [W5-3] và [W5-4]. S-Rank node boss",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bHạm Đội Mikawa Mới, Đột Nhập vào Thiết Đế Hải Vực!\n\u27a3Thưởng Huân Chương hoặc 5 Ốc và 200 Điểm Xếp Hạng",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
     "893": {
         "code": "Bq8",
-        "name": "Quarterly Anchorage Region",
-        "desc": "Sortie to [W1-5], [W7-1], [W7-2]. S-Rank the boss node of [W1-5] and [W7-1] 3 times. S-Rank both boss nodes of [W7-2] 3 times. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSecure the Safety of the Anchorage Area!\n\u27a3Rewards 300 Ranking Points and either a Skilled Lookouts OR a Skilled Crew Member OR four Underway Replenishments",
+        "name": "Xuất kích hàng quý 8",
+        "desc": "Xuất kích tới [W1-5], [W7-1], [W7-2]. S-Rank node boss [W1-5] và [W7-1] 3 lần. S-Rank cả 2 node boss map [W7-2] 3 lần",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bBảo Vệ An Toàn Vùng Neo Tàu!\n\u27a3Thưởng 300 Điểm Xếp Hạng và hoặc Quan sát viên lành nghề hoặc Phi Công Tinh Nhuệ hoặc 4 Tiếp Tế Trên Biển",
         "tracking": [ [0,3], [0,3], [0,3], [0,3] ],
         "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W7-1]", "{0} S-Rank [W7-2-G]", "{0} S-Rank [W7-2-M]" ]
     },
     "894": {
         "code": "Bq9",
-        "name": "Quarterly [W1/2]",
-        "desc": "Sortie a CV(L/B) and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPatrol the Supply Logistics Line with a Carrier Force\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR 4 Development Materials\n\u00B6Second choice: Either a Saiun OR a Skilled Crew Member OR a Present Box",
+        "name": "Xuất kích hàng quý 9",
+        "desc": "Xuất kích CV(L/B) và lên tới 5 Nữ Hạm khác tới [W1-3], [W1-4], [W2-1], [W2-2] và [W2-3]. S-Rank node boss.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bKhông Mẫu Chiến Lực, Tuần Tra Tuyến Đường Vận Tải!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Nguyên liệu nâng cấp trang bị hàng không mô hình mới hoặc 4 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Saiun hoặc Phi Công Tinh Nhuệ hoặc Hộp quà tặng",
         "unlock": [ 895 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-3]", "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     "872": {
         "code": "Bq10",
-        "name": "Quarterly Operation Z, Part 2",
-        "desc": "Sortie Fleet 1 to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bExtension of Military Gains Mission: \"Operation Z\", Second Operation\n\u27a3Rewards 400 Ranking Points and either four Screws OR three Irako OR four Underway Replenishments",
+        "name": "Xuất kích hàng quý 10",
+        "desc": "Xuất kích hạm đội 1 tới [W7-2-M], [W5-5], [W6-2] và [W6-5]. S-Rank node boss mỗi map.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bNhiệm Vụ Mở Rộng Lợi Ích Quân Sự: \"Chiến Dịch Z\", Chiến Dịch Thứ Hai\n\u27a3Thưởng 400 Điểm Xếp Hạng và hoặc 4 Ốc hoặc 3 Irako hoặc 4 Tiếp Tế Trên Biển",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W7-2-M]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-2]", "{0} S-Rank [W6-5]" ]
     },
     "284": {
         "code": "Bq11",
-        "name": "Quarterly Nansei Archipelago",
-        "desc": "Sortie a CL(T)/CT/CVL, 3 DD/DE and up to 2 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bThe Declaration of Nansei Archipelago Region Naval Patrol Mobilizations!\n\u27a3Rewards a Present Box, 80 Ranking Points and either two Screws OR two Type 94 Depth Charge Launchers OR two Drum Canisters",
+        "name": "Xuất kích hàng quý 11",
+        "desc": "Xuất kích CL(T)/CT/CVL, 3 DD/DE và lên tới 2 Nữ Hạm khác tới [W1-4], [W2-1], [W2-2] và [W2-3]. S-Rank node boss mỗi map.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bBáo Cáo Tuần Tra Cơ Động Quần Đảo Nansei!\n\u27a3Thưởng Hộp quà tặng, 80 Điểm Xếp Hạng và hoặc 2 Ốc hoặc 2 Bom chống tàu ngầm Kiểu 94 hoặc 2 Thùng Chuyên Chở",
         "unlock": [ 845 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
     },
     "845": {
         "code": "Bq12",
-        "name": "Quarterly [W4]",
-        "desc": "Sortie to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bAn Announcement! The Western Waters Operation\n\u27a3Rewards 330 Ranking Points and either a Medal OR two Daihatsu Landing Craft OR a New Model Rocket Development Materials",
+        "name": "Xuất kích hàng quý 12",
+        "desc": "Xuất kích tới [W4-1], [W4-2], [W4-3], [W4-4] và [W4-5]. S-Rank node boss mỗi map.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bPhát Lệnh! Chiến Dịch Nam Phương Hải Vực!\n\u27a3Thưởng 330 Điểm Xếp Hạng và hoặc Huân Chương hoặc 2 Thuyền Daihatsu hoặc Nguyên liệu nâng cấp trang bị phản lực mô hình mới",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W4-1]", "{0} S-Rank [W4-2]", "{0} S-Rank [W4-3]", "{0} S-Rank [W4-4]", "{0} S-Rank [W4-5]" ]
     },
@@ -1864,41 +1864,41 @@
 
     "301": {
         "code": "C1",
-        "name": "The First Exercise!",
-        "desc": "Challenge another fleet in an Exercise."
+        "name": "Diễn Tập đầu tiên!",
+        "desc": "Thách đấu một hạm đội khác trong chế độ Diễn Tập."
     },
     "303": {
         "code": "C2",
-        "name": "Daily Exercises 1",
-        "desc": "Challenge 3 other fleets in Exercises.",
-        "memo": "\u203bElevate Your Training Through Exercises!",
+        "name": "Diễn Tập hàng ngày 1",
+        "desc": "Thách đấu 3 hạm đội khác trong chế độ Diễn Tập.",
+        "memo": "\u203bNâng Cao Trình Độ Thông Qua Diễn Tập!",
         "unlock": [ 299, 302, 304, 313, 314, 315, 331, 689, 832, 890 ],
         "tracking": [ [0,3] ]
     },
     "304": {
         "code": "C3",
-        "name": "Daily Exercises 2",
-        "desc": "Secure 5 victories in Exercises within the same day.",
-        "memo": "\u203bOverwhelm the Other Admirals in Exercises!",
+        "name": "Diễn tập hàng ngày 2",
+        "desc": "Giành được 5 chiến thắng trong chế độ Diễn Tập trong cùng một ngày.",
+        "memo": "\u203bÁp Đảo Các Đô Đốc Khác Trong Diễn Tập!",
         "tracking": [ [0,5] ]
     },
     "302": {
         "code": "C4",
-        "name": "Weekly Exercises",
-        "desc": "Secure 20 victories in Exercises within the same week.",
-        "memo": "\u203bLarge-Scale Exercises\n\u27a3Rewards a Screw",
+        "name": "Diễn Tập hàng tuần",
+        "desc": "Giành được 20 chiến thắng trong chế độ Diễn Tập trong 1 tuần",
+        "memo": "\u203bDiễn Tập Quy Mô Lớn\n\u27a3Thưởng 1 Ốc",
         "tracking": [ [0,20] ]
     },
     "306": {
         "code": "WC01",
-        "name": "Preparation for the Ceremony (Part 2)",
-        "desc": "Show your love by securing 2 victories in Exercises.",
+        "name": "Chuẩn Bị cho Buổi Lễ (Phần 2)",
+        "desc": "Thể hiện tình yêu bằng cách gành chiến thắng hai trận trong chế độ Diễn Tập.",
         "unlock": [ 134 ]
     },
     "307": {
         "code": "C5",
-        "name": "Endeavor to Improve the Fleet's Level of Training!",
-        "desc": "Secure 3 victories in Exercises within the same day.",
+        "name": "Nỗ Lực Tăng Cường Kỹ Năng Hạm Đội Trong Diễn Tập!",
+        "desc": "Giành 3 chiến thắng trong chế độ Diễn Tập trong cùng 1 ngày.",
         "unlock": [ 273 ]
     },
     "308": {

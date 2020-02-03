@@ -2197,54 +2197,54 @@
     },
     "418": {
         "code": "D17",
-        "name": "Thực Hiện Nghi Lễ Hải Quân!",
+        "name": "Thực Hiện Việc Chuẩn Bị Nghi Lễ Hải Quân!",
         "desc": "Hoàn thành Viễn Chinh Số 7 hai lần.",
         "unlock": [ 308, 316 ]
     },
     "419": {
         "code": "D18",
-        "name": "Execute the Naval Review!",
-        "desc": "Complete Expedition 8.",
-        "memo": "\u27a3Rewards a Screw and a Headquarters Personnel"
+        "name": "Thực Hiện Nghi Lễ Hải Quân!",
+        "desc": "Hoàn thành Viễn Chinh Số 8.",
+        "memo": "\u27a3Thưởng Ốc và Nhân viên bộ tư lệnh"
     },
     "420": {
         "code": "D19",
-        "name": "Enhance the Effectiveness of the Task Force!",
-        "desc": "Complete Expeditions 35 and 26.",
-        "memo": "\u27a3Rewards 2 Screws",
+        "name": "Tăng Cường Sự Hiệu Quả Của Cơ Động Bộ Đội!",
+        "desc": "Hoàn thành Viễn Chinh Số 35 và 26.",
+        "memo": "\u27a3Thưởng 2 Ốc",
         "unlock": [ 624 ]
     },
     "422": {
         "code": "D20",
-        "name": "Submarine Dispatch Operation to Acquire Aircraft Technology",
-        "desc": "Complete Expeditions 30 and 31.",
-        "memo": "\u27a3Rewards a New Model Aircraft Blueprint"
+        "name": "Chiến Dịch Phái Tiềm Thuỷ Hạm Đi Lấy Công Nghệ Hàng Không!",
+        "desc": "Hoàn thành Viễn Chinh Số 30 và 31.",
+        "memo": "\u27a3Thưởng Bản thiết kế công nghệ mới dành cho phi cơ"
     },
     "423": {
         "code": "D21",
-        "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
-        "desc": "Có 5000 steel and 1500 bauxite. Complete Expeditions 30 and 31.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine"
+        "name": "Chiến Dịch Phái Tiềm Thuỷ Hạm Đi Lấy Công Nghệ Phản Lực",
+        "desc": "Có 5000 sắt và 1500 bauxite. Hoàn thành Viễn Chinh Số 30 và 31.",
+        "memo": "\u2718Tiêu hao nguyên liệu.\n\u27a3Thưởng Động cơ kiểu Ne"
     },
     "424": {
         "code": "D22",
-        "name": "Monthly Expedition 5",
-        "desc": "Complete Expedition 5 four times.",
-        "memo": "\u203bIntensify the Transport Fleet Escort!",
+        "name": "Viễn Chinh hàng tháng 5",
+        "desc": "Hoàn thành Viễn Chinh Số 5 bốn lần.",
+        "memo": "\u203bTăng Cường Thâu Tống Đoàn Thuyền Hộ Vệ!",
         "unlock": [ 425, 663 ],
         "tracking": [ [0,4] ]
     },
     "425": {
         "code": "D23",
-        "name": "Naval Escort Fleet, Commence With the Expeditions!",
-        "desc": "Complete Expeditions 4, 5 and 9.",
+        "name": "Hải Thượng Hộ Vệ Tống Đội, Bắt Đầu Viễn Chinh!",
+        "desc": "Hoàn thành Viễn Chinh Số 4, 5 và 9.",
         "unlock": [ 663 ]
     },
     "426": {
         "code": "D24",
-        "name": "Quarterly Expeditions",
-        "desc": "Complete Expeditions 3, 4, 5 and 10.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bPerform Strict Vigilance Over the Maritime Trade Routes!\n\u27a3Rewards 2 Combat Rations",
+        "name": "Viễn Chinh hàng quý",
+        "desc": "Hoàn thành Viễn Chinh Số 3, 4, 5 và 10.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bThực Hiện Cảnh Giác Tuyến Đường Thông Thương Trên Biển!\n\u27a3Thưởng 2 Lương Thực Chiến Đấu",
         "unlock": [ 428 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 5", "{0} Expedition 10" ]

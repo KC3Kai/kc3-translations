@@ -2251,77 +2251,77 @@
     },
     "427": {
         "code": "D25",
-        "name": "Strengthen the Expeditionary Resupply Logistics!",
-        "desc": "Có 800 Steel. Complete Expedition A1.",
-        "memo": "\u27a3Unlocks Provisional Resupply for Expeditions. This enables resupplying expeditions from the expedition page.\n\u27a3Rewards 2 Combat Rations",
+        "name": "Cải Thiện Viễn Chinh Tiếp Tế!",
+        "desc": "Có 800 Sắt. Hoàn thành Viễn Chinh Số A1.",
+        "memo": "\u27a3Mở khoá Tiếp Tế Tạm Thời cho Viễn Chinh. Nhiệm vụ này mở khoá tái tiếp tế khi viễn chinh ở trang Viễn Chinh.\n\u27a3Thưởng 2 Lương Thực Chiến Đấu",
         "unlock": [ 428 ]
     },
     "428": {
         "code": "D26",
-        "name": "Quarterly Expeditions 2",
-        "desc": "Complete Expeditions 4, A2 and A3. Clear each of them twice.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSuppress the Enemy Submarine Incursions into Coastal Waters!\n\u27a3Rewards 3 Screws and a Type 95 Depth Charge",
+        "name": "Viễn Chinh hàng quý 2",
+        "desc": "Hoàn thành Viễn Chinh Số 4, A2 và A3. Đi mỗi cái 2 lần.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bNgăn Chặn Các Cuộc Tấn Công Của Tàu Ngầm Địch Ở Gần Bờ!\n\u27a3Thưởng 3 Ốc và Bom chống tàu ngầm Kiểu 95",
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A2", "{0} Expedition A3" ]
     },
     "429": {
         "code": "D27",
-        "name": "Operation Sho-Ichi-Go: Begin Preparations!",
-        "desc": "Complete Expeditions 3, A1 and B1.",
-        "memo": "\u27a3Rewards 2 Underway Replenishments",
+        "name": "Chiến Dịch Sho-Ichi-Go: Chuẩn Bị Phát Động!",
+        "desc": "Hoàn thành Viễn Chinh Số 3, A1 và B1.",
+        "memo": "\u27a3Thưởng 2 Tiếp Tế Trên Biển",
         "unlock": [ 187, 871 ]
     },
     "430": {
         "code": "D28",
-        "name": "Kaiboukan, Advance!",
-        "desc": "Complete Expeditions 5, 9, A1 and A2.",
-        "memo": "\u27a3Rewards an Irako and either two Underway Replenishments OR 8 Buckets OR 4 Screws",
+        "name": "Hải Phòng Hạm, Bắt Đầu Viễn Chinh!",
+        "desc": "Hoàn thành Viễn Chinh Số 5, 9, A1 và A2.",
+        "memo": "\u27a3Thưởng Irako và hoặc 2 Tiếp Tế Trên Biển hoặc 8 Xô hoặc 4 Ốc",
         "unlock": [ 431 ]
     },
     "431": {
         "code": "D29",
-        "name": "Strengthening the Fleet Command Directorate (Preparation Stage)",
-        "desc": "Complete Expeditions 17, A1, A2 and B1.",
-        "memo": "\u27a3Rewards three Screws and either five Underway Replenishments OR a Shiun OR a Type 0 Reconnaissance Seaplane Model 11B",
+        "name": "Củng Cố Bộ Tư Lệnh Hạm Đội (Giai Đoạn Chuẩn Bị)",
+        "desc": "Hoàn thành Viễn Chinh Số 17, A1, A2 và B1.",
+        "memo": "\u27a3Thưởng 3 Ốc và hoặc 5 Tiếp Tế Trên Biển hoặc Shiun hoặc Thủy phi cơ trinh sát Kiểu 0 Mẫu 11B ",
         "unlock": [ 291 ]
     },
     "432": {
         "code": "D30",
-        "name": "Reinforce the Recon Patrols and Defenses!",
-        "desc": "Complete Expeditions 10, A2 and B1.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either four Development Materials OR two Screws OR two 7.7mm Machine Guns",
+        "name": "Củng Cố Tuần Tra Trinh Sát Và Phòng Thủ!",
+        "desc": "Hoàn thành Viễn Chinh Số 10, A2 và B1.",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Mamiya hoặc Tiên Nội Thất\n\u00B6Lựa chọn thứ hai: Hoặc 4 Nguyên Liệu Chế Tạo hoặc 2 Ốc hoặc Súng máy 7.7mm",
         "unlock": [ 433 ]
     },
     "433": {
         "code": "D31",
-        "name": "Carry Out Southern Front Expeditions!",
-        "desc": "Complete Expeditions 35, 36, 37, 38 and 40.",
-        "memo": "\u27a3Rewards two Irakos and either six Buckets OR two Daihatsu Landing Craft OR three 12.7mm Single Machine Gun Mounts"
+        "name": "Thực Hiện Viễn Chinh Nam Phương Chiến Tuyến!",
+        "desc": "Hoàn thành Viễn Chinh Số 35, 36, 37, 38 và 40.",
+        "memo": "\u27a3Thưởng 2 Irako và hoặc 6 Xô hoặc Thuyền Daihatsu hoặc 3 Súng máy 12.7mm"
     },
 
     "501": {
         "code": "E1",
-        "name": "Resupply for the First Time!",
-        "desc": "Resupply a ship."
+        "name": "Tiếp Tế Làn Đầu!",
+        "desc": "Tiếp Tế cho 1 Nữ Hạm."
     },
     "502": {
         "code": "E2",
-        "name": "Docking for the First Time!",
-        "desc": "Repair a ship."
+        "name": "Sửa Chữa Lần Đầu!",
+        "desc": "Sửa Chữa cho 1 Nữ Hạm."
     },
     "503": {
         "code": "E3",
-        "name": "Daily Repairs",
-        "desc": "Repair 5 ships.",
-        "memo": "\u203bMass Fleet Servicing!",
+        "name": "Sửa Chữa Hàng Ngày",
+        "desc": "Sửa Chữa cho 5 Nữ Hạm.",
+        "memo": "\u203bĐại Sửa Chữa Hạm Đội!",
         "unlock": [ 504 ],
         "tracking": [ [0,5] ]
     },
     "504": {
         "code": "E4",
-        "name": "Daily Resupplies",
-        "desc": "Resupply your ships 15 times.",
-        "memo": "\u203bThe Fleet Mess Hall Feast!",
+        "name": "Tiếp Tế Hàng Ngày",
+        "desc": "Tiếp tế cho Nữ Hạm 15 lần.",
+        "memo": "\u203bTiếp Tế Hạm Đội!",
         "tracking": [ [0,15] ]
     },
 
@@ -2329,111 +2329,112 @@
 
     "605": {
         "code": "F5",
-        "name": "Daily Development 1",
-        "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
-        "memo": "\u203bOrders to Develop New Equipment",
+        "name": "Chế Thiết Bị Mỗi Ngày 1",
+        "desc": "Chế tạo 1 thiết bị trong ngày (Thất bại cũng được).",
+        "memo": "\u203bLệnh Chế Tạo Trang Bị Mới",
         "unlock": [ 606, 679, 680, 693 ],
         "tracking": [ [0,1] ]
     },
     "606": {
         "code": "F6",
-        "name": "Daily Construction 1",
-        "desc": "Construct a ship.",
-        "memo": "\u203bOrders to Construct a New Ship",
+        "name": "Đóng Tàu Mỗi Ngày 1",
+        "desc": "Đóng 1 Nữ Hạm.",
+        "memo": "\u203bLệnh Đóng Nữ Hạm Mới",
         "unlock": [ 607, 896 ],
         "tracking": [ [0,1] ]
     },
     "607": {
         "code": "F7",
-        "name": "Daily Development 2",
-        "desc": "Attempt to construct 3 pieces of equipment. Failures count toward this.",
-        "memo": "\u203bConcentrated Enhanced Equipment Development",
+        "name": "Chế Thiết Bị Mỗi Ngày 1",
+        "desc": "Chế tạo 3 thiết bị trong ngày (Thất bại cũng được).",
+        "memo": "\u203bTăng Cường Chế Tạo Trang Bị",
         "unlock": [ 608, 653, 673 ],
         "tracking": [ [0,3] ]
     },
     "608": {
         "code": "F8",
-        "name": "Daily Construction 2",
-        "desc": "Construct 3 ships.",
-        "memo": "\u203bEnhance the Fleet by Constructing Ship Girls!",
+        "name": "Đóng Tàu Mỗi Ngày 2",
+        "desc": "Đóng 3 Nữ Hạm.",
+        "memo": "\u203bCủng Cố Hạm Đội Bằng Cách Đóng Nữ Hạm!",
         "unlock": [ 609, 617, 619, 669 ],
         "tracking": [ [0,3] ]
     },
     "609": {
         "code": "F9",
-        "name": "Daily Dismantlement",
-        "desc": "Scrap 2 ships.",
-        "memo": "\u203bIn Correspondence With the Disarmament Treaty!",
+        "name": "Phá Dỡ hàng ngày",
+        "desc": "Phá Dỡ 2 Nữ Hạm.",
+        "memo": "\u203bNữ Hạm Giải Ngũ! (Trong thâm tâm của các Đô Đốc, hãy đừng nghĩ rằng chúng ta sẽ phá huỷ các Nữ Hạm yêu quý của chúng ta thật. Chỉ là chúng ta cho các em giải ngũ thôi (T_T) )",
         "tracking": [ [0,2] ]
     },
     "619": {
         "code": "F18",
-        "name": "Daily Upgrade",
-        "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal. Failures count toward this.",
-        "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
+        "name": "Cải Tiến Trang Bị hàng ngày",
+        "desc": "Thực hiện Cải tiến Trang bị Akashi 1 lần (Thất bại cũng được)",
+        "memo": "\u203bCường Hoá Trang Bị!\n\u27a3Thưởng Ốc",
         "unlock": [ 637, 638, 689 ],
         "tracking": [ [0,1] ]
     },
     "673": {
         "code": "F65",
-        "name": "Daily Gun Dismantlement",
-        "desc": "Scrap 4 Small Caliber Main Guns.",
-        "memo": "\u203bConsolidation of Equipment Development Capabilities",
+        "name": "Tháo Dỡ Pháo hàng ngày",
+        "desc": "Tháo dỡ 4 Pháo Chính Nhẹ.",
+        "memo": "\u203bĐiều Chỉnh Khả Năng Phát Triển Trang Bị",
         "unlock": [ 188, 317, 674, 689, 876 ],
         "tracking": [ [0,4] ]
     },
     "674": {
         "code": "F66",
-        "name": "Daily AA Gun Dismantlement",
-        "desc": "Có 300 steel. Scrap 3 AA Machine Guns.",
-        "memo": "\u203bArsenal Environmental Consolidation",
+        "name": "Tháo Dỡ Súng Máy Phòng Không hàng ngày",
+        "desc": "Có 300 Sắt. Dỡ bỏ 3 Súng Máy Phòng Không (AA Machine Gun).",
+        "memo": "\u203bChuẩn Bị Môi Trường Công Xưởng",
         "unlock": [ 675, 676, 677, 688, 803 ],
         "tracking": [ [0,3] ]
     },
 
     "601": {
         "code": "F1",
-        "name": "The First Construction!",
-        "desc": "Construct a ship."
+        "name": "Đóng Tàu Lần Đầu!",
+        "desc": "Đóng 1 Nữ Hạm."
     },
     "602": {
         "code": "F2",
-        "name": "The First Development!",
-        "desc": "Construct a piece of equipment."
+        "name": "Chế Tạo Lần Đầu!",
+        "desc": "Chế tạo 1 trang bị."
     },
     "603": {
         "code": "F3",
-        "name": "The First Dismantlement!",
-        "desc": "Scrap a ship."
+        "name": "Phá Dỡ Nữ Hạm Lần Đầu!",
+        "desc": "Phá Dỡ 1 Nữ Hạm.",
+        "memo": "(Trong thâm tâm của các Đô Đốc, hãy đừng nghĩ rằng chúng ta sẽ phá huỷ các Nữ Hạm yêu quý của chúng ta thật. Chỉ là chúng ta cho các em giải ngũ thôi (T_T) )"
     },
     "604": {
         "code": "F4",
-        "name": "The First Disposal!",
-        "desc": "Scrap a piece of equipment."
+        "name": "Dỡ Bỏ Trang Bị Lần Đầu!",
+        "desc": "Dỡ bỏ 1 trang bị."
     },
     "610": {
         "code": "F10",
-        "name": "Preparation for Large Ship Construction! (Part 2)",
-        "desc": "Scrap 4 pieces of equipment.",
-        "memo": "\u27a3Enables Large Ship Construction"
+        "name": "Chuẩn Bị Đóng Đại Hình Hạm (Phần 2)",
+        "desc": "Dỡ bỏ 4 trang bị.",
+        "memo": "\u27a3Mở Khoá Đóng Đại Hình Hạm (LSC)"
     },
     "611": {
         "code": "WF01",
-        "name": "Preparation for the Ceremony! (Part 1)",
-        "desc": "Scrap 2 pieces of equipment to show your love!",
+        "name": "Chuẩn Bị Cho Buổi Lễ! (Phần 1)",
+        "desc": "Thể hiện tình yêu bằng cách dỡ bỏ 2 trang bị!",
         "unlock": [ 306 ]
     },
     "612": {
         "code": "F11",
-        "name": "Prepare the Transport Drums!",
-        "desc": "Scrap 3 pieces of equipment.",
-        "memo": "\u27a3Rewards 3 Drum Canisters"
+        "name": "Chuẩn Bị Thùng Chuyên Chở!",
+        "desc": "Dỡ bỏ 3 trang bị.",
+        "memo": "\u27a3Thưởng 3 Thùng Chuyên Chở"
     },
     "613": {
         "code": "F12",
-        "name": "Weekly Dismantlement",
-        "desc": "Scrap 24 pieces of equipment. Scrap them one at a time.",
-        "memo": "\u203bRecycling of Assets\n\u27a3Rewards a Drum Canister",
+        "name": "Dỡ Bỏ hàng tuần",
+        "desc": "Dỡ bỏ 24 trang bị. Dỡ bỏ từng trang bị một.",
+        "memo": "\u203bTái Sử Dụng Trang Bị\n\u27a3Thưởng Thùng Chuyên Chở",
         "tracking": [ [0,24] ]
     },
      "614": {

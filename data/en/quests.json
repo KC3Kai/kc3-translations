@@ -1548,14 +1548,14 @@
     "901": {
         "code": "B140",
         "name": "\"Shall we put my Kai Ni to the test?\"",
-        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship and up to 5 additional ships to [W2-5], [W3-3], [W5-3] and [W6-3]. S-rank the boss nodes of each. Overlay:F10",
+        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship and up to 5 additional ships to [W2-5], [W3-3], [W5-3] and [W6-3]. S-Rank the boss nodes of each. Overlay:F10",
         "memo": "\u27a3Rewards a 14cm Twin Gun Mount Kai and either two Type 2 Depth Charges OR two Daihatsu Landing Craft OR a Furniture Fairy",
         "unlock": [ 902 ]
     },
     "902": {
         "code": "B141",
         "name": "\"New DesRon 6, sortieing! Let me know what you think afterwards!\"",
-        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, 3 of DesRon 6 and up to 2 other ships to [W1-5], [W1-6], [W2-2], [W3-2] and [W7-1]. S-rank each boss node. Reach [W1-6] node N once.",
+        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, 3 of DesRon 6 and up to 2 other ships to [W1-5], [W1-6], [W2-2], [W3-2] and [W7-1]. S-Rank each boss node. Reach [W1-6] node N once.",
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\n\u27a3Rewards a Reinforcement Expansion and either 12 Development Materials OR a Type D Kouhyouteki Kai (Kouryuu Kai) OR 6 Screws",
         "unlock": [ 903 ]
     },
@@ -1869,10 +1869,24 @@
     "903": {
         "code": "Bq13",
         "name": "Quarterly Yuubari Fleet",
-        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, two of either DesRon 6 OR Yura Kai Ni, and up to 4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-rank the boss nodes of each.",
+        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, two of either DesRon 6 OR Yura Kai Ni, and up to 4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bExpanded DesRon 6, To the Front Lines!\n\u27a3Rewards 390 Ranking Points and either 10 Buckets OR a Medal OR a New Model Artillery Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-4]", "{0} S-Rank [W6-4]", "{0} S-Rank [W6-5]" ]
+    },
+
+
+    "904": {
+        "code": "By1",
+        "name": "Annual DesDiv 10 Fleet",
+        "desc": "Sortie Ayanami Kai Ni, Shikinami Kai Ni and up to 4 additional ships to [W2-5], [W3-4], [W4-5] and [W5-3]. S-Rank the boss nodes of each. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bElite DesDiv 10, Taking Point!\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Mamiya OR ten Furniture Boxes (Medium)\n\u00B6Second choice: Either eight Buckets OR ten Development Materials OR four Screws"
+    },
+    "905": {
+        "code": "By2",
+        "name": "Annual Kaiboukan Fleet",
+        "desc": "Sortie 3 DEs and up to TWO additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W1-6]. A-Rank each boss node. Reach [W1-6] node N. Overlay: F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal"
     },
     
     
@@ -2098,6 +2112,12 @@
         "desc": "Secure 4 victories in Exercises within the same day using 4 Mutsuki-class and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u27a3Rewards an Irako and either five Development Materials OR a Furniture Fairy OR a New Model Rocket Development Materials"
     },
+    "339": {
+        "code": "C42",
+        "name": "Quarterly DesDiv 10 Exercises",
+        "desc": "Secure 3 victories in Exercises within the same day using Ayanami, Isonami, Uranami, Shikinami and up to 2 additional ships. F10 will clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a 12.7cm Twin Gun Mount Model B Kai Ni OR eight Development Materials"
+    },
     
     
     "401": {
@@ -2311,6 +2331,12 @@
         "name": "Carry Out Southern Front Expeditions!",
         "desc": "Complete Expeditions 35, 36, 37, 38 and 40.",
         "memo": "\u27a3Rewards two Irakos and either six Buckets OR two Daihatsu Landing Craft OR three 12.7mm Single Machine Gun Mounts"
+    },
+    "434": {
+        "code": "D32y",
+        "name": "Annual Expeditions",
+        "desc": "Complete Expeditions 3, 5, A1, A2 and 9 with a DD/DE as flagship(?)",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bEstablishing the Special Escort Convoy Headquarters!\n\u27a3Rewards:\n\u00B6First choice: Either two Irako OR five Buckets\n\u00B6Second choice: Either two Underway Replenishment OR three Screws OR two Emergency Repair Materials"
     },
     
     "501": {

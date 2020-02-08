@@ -1196,15 +1196,7 @@
         "memo": "\u27a3Thưởng 2 Ốc và hoặc Thủy phi cơ chiến đấu Kiểu 2 Kai hoặc PBY-5A Catalina",
         "unlock": [ 870 ]
     },
-    "840": {
-        "code": "SB15",
-        "name": "Nhiệm vụ Mùa Đông Đặc Biệt: Khu Trục Đội Tinh Nhuệ, Xuất Kích!",
-        "desc": "Xuất kích CHỈ 4 DD tới [W1-1] và [W1-2]. S-Rank node boss cả 2 map.",
-        "memo": "\u27a3Thưởng Tiên Nội Thất và hoặc \u2605+3 Súng máy 25mm 3 nòng hoặc Đai Chống Ngư Lôi (Cỡ lớn)",
-        "unlock": [ 841 ],
-        "hash": 60709992
-    },
-    "841": {
+    "841SB16": {
         "code": "SB16",
         "name": "Nhiệm vụ Mùa Đông Đặc Biệt: Thuỷ Thượng Cơ Mẫu Hạm, Nhổ Neo!",
         "desc": "Xuất kích AV làm kỳ hạm, 3 DD và lên tới 2 Nữ Hạm khác tới [W1-3] và [W1-4]. S-Rank node boss cả 2 map.",
@@ -1218,7 +1210,7 @@
         "memo": "\u27a3Thưởng Irako và hoặc Nồi Hơi Tăng Cường hoặc Tuabin hơi nước cải tiến",
         "unlock": [ 833 ]
     },
-    "843": {
+    "843SB21": {
         "code": "SB21",
         "name": "Xuất Kích Đặc Biệt Setsubun: Duy trì kiểm soát trên biển!",
         "desc": "Xuất kích 2 DD và 2 Nữ Hạm khác tới [W1-1], [W1-2], [W2-3]. S-Rank node boss.",
@@ -1553,7 +1545,20 @@
         "desc": "Xuất kích LHA/AV và lên tới 5 Nữ Hạm khác tới [W4-5] và [W6-4]. A-Rank+ node boss mỗi map 2 lần.",
         "memo": "\u27a3Thưởng hoặc 3 Pháo cối 12cm Kiểu 2 hoặc Pháo phản lực hạm đối đất 20cm Kiểu 4"
     },
-
+    "901": {
+        "code": "B140",
+        "name": "Thử Yuubari Kai Ni Có Được Không?",
+        "desc": "Xuất Kích Yuubari Kai Ni (biến thể nào cũng được) làm Kỳ Hạm và lên tới 5 Nữ Hạm khác tới [W2-5], [W3-3], [W5-3] và [W6-3]. S-rank node boss mỗi map.",
+        "memo": "\u27a3Thưởng Pháo 2 nòng 14cm Kai và hoặc 2 Bom chống tàu ngầm Kiểu 2 hoặc 2 Thuyền Daihatsu hoặc Tiên Nội Thất",
+        "unlock": [ 902 ]
+    },
+    "902": {
+        "code": "B141",
+        "name": "Đệ Lục Thuỷ Lôi Chiến Đội Mới! Cho Ý Kiến Sau Nhé!",
+        "desc": "Xuất kích Yuubari Kai Ni (biến thể nào cũng được) làm Kỳ Hạm, 3 Nữ Hạm bất kỳ thuộc Đệ Lục Thuỷ Lôi Chiến Đội và lên tới 2 Nữ Hạm khác tới [W1-5], [W1-6], [W2-2], [W3-2] và [W7-1]. S-rank node boss mỗi map. Chạm [W1-6] node N 1 lần.",
+        "memo": "Đệ Lục Thuỷ Lôi Chiến Đội gồm Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki và Mochizuki.\n\u27a3Thưởng Pháo 2 nòng 14cm Kai và hoặc 12 Nguyên Liệu Chế Tạo hoặc Kouhyouteki Kiểu D Kai (Kouryuu Kai) hoặc 6 Ốc",
+        "unlock": [ 903 ]
+    },
 
     "201": {
         "code": "Bd1",
@@ -1860,7 +1865,14 @@
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W4-1]", "{0} S-Rank [W4-2]", "{0} S-Rank [W4-3]", "{0} S-Rank [W4-4]", "{0} S-Rank [W4-5]" ]
     },
-
+    "903": {
+        "code": "Bq13",
+        "name": "Đệ Lục Thuỷ Lôi Chiến Đội Mở Rộng, Đến Tiền Tuyến!",
+        "desc": "Xuất kích Yuubari Kai Ni (biến thể nào cũng được) làm Kỳ Hạm, 2 Nữ Hạm bất kỳ thuộc Đệ Lục Thuỷ Lôi Chiến Đội hoặc Yura Kai Ni và lên tới 3-4 Nữ Hạm khác tới [W5-1], [W5-4], [W6-4] và [W6-5]. S-rank node boss mỗi map",
+        "memo": "Đệ Lục Thuỷ Lôi Chiến Đội gồm Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki và Mochizuki.\n\u27a3Thưởng 390 Điểm Xếp Hạng và hoặc 10 Xô hoặc Huân Chương hoặc Nguyên Liệu Cải Tiến Pháo Kiểu Mới",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-4]", "{0} S-Rank [W6-4]", "{0} S-Rank [W6-5]" ]
+    },
 
     "301": {
         "code": "C1",
@@ -2332,7 +2344,7 @@
         "name": "Chế Thiết Bị Mỗi Ngày 1",
         "desc": "Chế tạo 1 thiết bị trong ngày (Thất bại cũng được).",
         "memo": "\u203bLệnh Chế Tạo Trang Bị Mới",
-        "unlock": [ 606, 679, 680, 693 ],
+        "unlock": [ 606, 679, 680, 693, 901, 903 ],
         "tracking": [ [0,1] ]
     },
     "606": {
@@ -3025,5 +3037,65 @@
         "desc": "Có 50 Cá Mòi trong kho.",
         "memo": "\u2623Nhiệm vụ này vẫn đang trong quá trình xác nhận. Nếu có gì sai các bạn có thể báo cho đội KC3.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Một trong số Nữ Hạm Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Lựa chọn thứ hai: Hoặc Bản Thiết Kế hoặc Bản thiết kế công nghệ mới dành cho phi cơ",
         "hash": 1203783945
-    }
-}
+    },
+    "801": {
+        "code": "SB52",
+        "name": "Chúc Mừng Năm Mới! Lệnh Hoà Năm Thứ 2: Thuỷ Lôi Chiến Đội, Bắt Đầu Xuất Kích!",
+        "desc": "Xuất kích CL(T)/CT làm Kỳ Hạm và 4-5 DD tới [W1-2], [W1-3], [W1-4] và [W2-1]. Không được phép thêm tàu loại khác. A-Rank+ node boss mỗi map. Overlay: F10",
+        "memo": "\u27a3Thưởng: Nữ Thần Sửa Chữa và hoặc 2 Lương Thực Chiến Đấu hoặc 2 Bom chống tàu ngầm Kiểu 95 hoặc 2 Irako",
+        "unlock": [ 802, 803 ]
+    },
+    "802": {
+        "code": "SB53",
+        "name": "Cẩn Hạ Tân Niên! Thuỷ Thượng Cơ Mẫu Hạm, Xuất Kích!",
+        "desc": "Xuất kích AV/CAV làm Kỳ Hạm và lên tới 5 Nữ Hạm khác tới [W2-2], [W2-3] và [W2-4]. A-Rank+ node boss mỗi map 2 lần. Overlay: F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn đầu tiên: Hoặc 2 Thuỷ Phi Cơ Chiến Đấu Kiểu 2 Kai hoặc Zuiun (Không Đội 631) hoặc Hai +2 Laté 298B\n\u00B6Lựa chọn thứ hai: Hoặc Thợ bảo dưỡng Quân cơ Tinh nhuệ hoặc 3 Nguyên liệu nâng cấp trang bị hàng không mô hình mới hoặc 6 Pháo phản lực 30 ống 12cm"
+    },
+    "803": {
+        "code": "SB54",
+        "name": "Năm 2 Thời Đại Lệnh Hoà Đã Bắt Đầu! Hải Thượng Hộ Vệ Đội, Nhổ Neo!",
+        "desc": "Xuất Kích Hạm Đội gồm CHỈ DD/DE và 0-1 CVL tới [W1-5] và [W7-1]. A-Rank+ node boss mỗi map 2 lần. Xuất kích tới [W1-6] và chạm Node N 2 lần. Overlay: F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Trực thăng quan sát Kiểu Ka hoặc 2 Bom chống tàu ngầm Kiểu 2 hoặc 4 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc 10 Lắp Ráp Nhanh hoặc 8 Nguyên Liệu Chế Tạo hoặc Tiên Nội Thất",
+        "unlock": [ 804 ]
+    },
+    "804": {
+        "code": "SB55",
+        "name": "Chào Đón Năm Mới! Khinh Tuần Dương Hạm Yuubari, Tiến Lên Phía Bắc!",
+        "desc": "Xuất kích Yuubari hoặc DD làm Kỳ Hạm, 2 DD và lên tới 3 Nữ Hạm khác tới [W3-5]. S-Rank node boss 3 lần. Overlay: F10",
+        "memo": "\u27a3Thưởng đồ nội thất và hoặc hai +8 Pháo 2 nòng 14cm Kai hoặc một +4 Máy Bay Tấn Công Mặt Đất Kiểu 1 Mẫu 34 hoặc Toukai Nguyên Mẫu"
+     },
+     "329": {
+        "code": "SC2",
+        "name": "Nhiệm Vụ Setsubun Hàng Ngày: Diễn Tập Setsubun!",
+        "desc": "Giành được 3 chiến thắng S-Rank trong Diễn Tập trong cùng ngày dùng 2 DD/DE và lên tới 4 Nữ Hạm khác.",
+        "memo": "\u27a3Thưởng 1 Đậu Setsubun",
+        "unlock": [ 840 ],
+        "hash": 494168864
+     },
+     "840": {
+        "code": "SB56",
+        "name": "Weekly Setsubun Mission: Reiwa 2nd Year Setsubun Operation",
+        "desc": "Sortie a CVL or CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material",
+        "unlock": [ 841 ],
+        "hash": -1632146915
+    },
+    "841": {
+        "code": "SB57",
+        "name": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation",
+        "desc": "Sortie a CA or AV as flagship, 2 DD/DE and up to 3 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans and either five Development Materials OR a Screw",
+        "unlock": [ 843 ],
+        "hash": 1314185599
+    },
+    "843": {
+        "code": "SB58",
+        "name": "Weekly Setsubun Extra Mission: Reiwa 2nd Year Setsubun Operation, All-Out Sortie!",
+        "desc": "Sortie a BB or CV(B) as flagship, 2 DD and up 3 additional ships to [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans and 203 Ranking Points",
+        "hash": -1791353907
+     }
+
+ }
+
+

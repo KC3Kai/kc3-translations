@@ -464,7 +464,7 @@
         "code": "A72",
         "name": "Form the 19th Destroyer Division!",
         "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet.",
-        "unlock": [ 826 ]
+        "unlock": [ 339, 826 ]
     },
     "178": {
         "code": "A73",
@@ -896,7 +896,8 @@
         "code": "B44",
         "name": "Advance the Surface Breakthrough Force!",
         "desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi and Inazuma to [W5-1]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards 2 Screws"
+        "memo": "\u27a3Rewards 2 Screws",
+        "unlcok": [ 904 ]
     },
     "277": {
         "code": "B45",
@@ -1886,7 +1887,9 @@
         "code": "By2",
         "name": "Annual Kaiboukan Fleet",
         "desc": "Sortie 3 DEs and up to TWO additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W1-6]. A-Rank each boss node. Reach [W1-6] node N. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} Reach [W1-6-N]" ]
     },
     
     

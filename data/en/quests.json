@@ -1881,15 +1881,15 @@
         "code": "By1",
         "name": "Annual DesDiv 19 Fleet",
         "desc": "Sortie Ayanami Kai Ni, Shikinami Kai Ni and up to 4 additional ships to [W2-5], [W3-4], [W4-5] and [W5-3]. S-Rank the boss nodes of each. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bElite DesDiv 19, Taking Point!\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Mamiya OR ten Furniture Boxes (Medium)\n\u00B6Second choice: Either eight Buckets OR ten Development Materials OR four Screws",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bElite DesDiv 19, Taking Point!\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Mamiya OR ten Furniture Boxes (Medium)\n\u00B6Second choice: Either eight Buckets OR ten Development Materials OR four Screws",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
-        "trackingDesc": [ "{0} S?-Rank [W2-5]", "{0} S?-Rank [W3-4]", "{0} S?-Rank [W4-5]", "{0} S?-Rank [W5-3]" ]
+        "trackingDesc": [ "{0} S-Rank [W2-5]", "{0} S-Rank [W3-4]", "{0} S-Rank [W4-5]", "{0} S-Rank [W5-3]" ]
     },
     "905": {
         "code": "By2",
         "name": "Annual Kaiboukan Fleet",
-        "desc": "Sortie 3 DEs and up to TWO additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W1-6]. A-Rank each boss node. Reach [W1-6] node N. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal",
+        "desc": "Sortie 3 DEs and up to TWO additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W1-6]. A-Rank+ each boss node. Reach [W1-6] node N. Overlay: F10",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} Reach [W1-6-N]" ]
     },
@@ -2122,7 +2122,7 @@
         "code": "C42",
         "name": "Quarterly DesDiv 19 Exercises",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using Ayanami, Isonami, Uranami, Shikinami and up to 2 additional ships. F10 will clear the overlay.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March, June, September and December.\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a 12.7cm Twin Gun Mount Model B Kai Ni OR eight Development Materials",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a 12.7cm Twin Gun Mount Model B Kai Ni OR eight Development Materials",
         "tracking": [ [0,3] ]
     },
     
@@ -2340,10 +2340,10 @@
         "memo": "\u27a3Rewards two Irakos and either six Buckets OR two Daihatsu Landing Craft OR three 12.7mm Single Machine Gun Mounts"
     },
     "434": {
-        "code": "D32y",
+        "code": "D32",
         "name": "Annual Expeditions",
         "desc": "Complete Expeditions 3, 5, A1, A2 and 9.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bEstablishing the Special Escort Convoy Headquarters!\n\u27a3Rewards:\n\u00B6First choice: Either two Irako OR five Buckets\n\u00B6Second choice: Either two Underway Replenishment OR three Screws OR two Emergency Repair Materials",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bEstablishing the Special Escort Convoy Headquarters!\n\u27a3Rewards:\n\u00B6First choice: Either two Irako OR five Buckets\n\u00B6Second choice: Either two Underway Replenishment OR three Screws OR two Emergency Repair Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 5", "{0} Expedition A1", "{0} Expedition A2", "{0} Expedition 9" ]
     },

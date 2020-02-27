@@ -1881,7 +1881,9 @@
         "code": "By1",
         "name": "Annual DesDiv 19 Fleet",
         "desc": "Sortie Ayanami Kai Ni, Shikinami Kai Ni and up to 4 additional ships to [W2-5], [W3-4], [W4-5] and [W5-3]. S-Rank the boss nodes of each. Overlay: F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bElite DesDiv 19, Taking Point!\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Mamiya OR ten Furniture Boxes (Medium)\n\u00B6Second choice: Either eight Buckets OR ten Development Materials OR four Screws"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bElite DesDiv 19, Taking Point!\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Mamiya OR ten Furniture Boxes (Medium)\n\u00B6Second choice: Either eight Buckets OR ten Development Materials OR four Screws",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S?-Rank [W2-5]", "{0} S?-Rank [W3-4]", "{0} S?-Rank [W4-5]", "{0} S?-Rank [W5-3]" ]
     },
     "905": {
         "code": "By2",

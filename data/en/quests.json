@@ -3178,6 +3178,7 @@
         "name": "Peach Festival Mission: Hishimochi Improvement - Beginning",
         "desc": "Have 10 Hishimochi. Modernize a Yuugumo-class DD using 4 CA twice",
         "memo": "\u2718Consumes the items.\n\u27a3Rewards either an Action Report OR two New Model Artillery Armament Materials OR a Ne-Type Engine",
+        "unlock": [ 711 ],
         "hash": -1308445487
     },
     "711": {
@@ -3185,6 +3186,7 @@
         "name": "Peach Festival Mission: Hishimochi Improvement - Midpoint",
         "desc": "Have 15 Hishimochi, 8800 steel and 8800 bauxite. Modernize Okinami using 4 BB twice",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a Blueprint OR two New Model Aircraft Blueprints OR a Prototype Flight Deck Catapult",
+        "unlock": [ 712 ],
         "hash": -1308438922
     },
     "712": {
@@ -3192,6 +3194,7 @@
         "name": "Weekly Peach Festival Mission: Hishimochi Improvement",
         "desc": "Have 6 Hishimochi, 100 Development Materials, 8800 steel and 8800 bauxite. Modernize a CVL using 3 CVL twice",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a New Model Aircraft Blueprint OR a New Model Artillery Armament Materials OR a New Model Rocket Development Materials",
+        "unlock": [ 713 ],
         "hash": -1308432781
     },
     "713": {
@@ -3230,6 +3233,7 @@
         "name": "Weekly Peach Festival Mission: Mainstay of Mainstays, Heading Out!",
         "desc": "Sortie 3 Yuugumo-class DD and up to 3-9 additional ships to [W2-2], [W2-3], [W3-5], [W7-2M] and node I of the event map. S-Rank the boss nodes. Overlay: F10",
         "memo": "\u27a3Rewards three Hishimochi and either DE Etorofu, DE Matsuwa, DE Sado, DE Tsushima OR DE Fukae",
+        "unlock": [ 712 ],
         "hash": -890864113
     }
 }

@@ -1765,6 +1765,7 @@
         "Equip(1)": "Ooh! This is nice. OK!",
         "Attack": "My modernization remodel isn't just for show. Fire!",
         "MVP": "I'm number one? A battle star? Alright, I accept. It's thanks to all of you. Thanks.",
+        "Friend47(1)": "The Provisional Pacific Fleet has arrived on the battlefield. We'll now support the allied fleet.",
         "H0000": "If I must. I, Colorado, will be your secretary for today. Just for today. Don't misunderstand me.",
         "H0100": "It is 1. Well, something like this?",
         "H0200": "It is 2. Mutsu said it was \"ushimitsu\", right?",
@@ -1927,6 +1928,7 @@
         "MVP": "Hmm, a battle honour? It's all thanks to your command, my Admiral. But, it's... not bad. Thank you very much indeed.",
         "Friend42(1)": "Battleship Nelson, roger. I'll show you what I can do. We'll attack in double line! Split the enemy down the middle. Let's go!",
         "Friend42(2)": "I've kept you waiting. Home Fleet flagship, Nelson, has arrived! Let's go! Each should do their duty! Charge!",
+        "Friend47(1)": "I've kept you waiting. Home Fleet flagship, Nelson, has arrived! Let's go! Each should do their duty! Charge!",
         "H0000": "Very well, I'll be by your side today, Admiral. Ah, really? Of course! Alright, the time just turned exactly 12am.",
         "H0100": "1 o'clock. Yes, you need this for the night shift. Do you want some? I see, alright, let's have a toast! Yes, you can sure drink.",
         "H0200": "2 o'clock. Well, we shouldn't drink too much. Let's slow down. Hmm, who is it at this time...? Hmm? It's Ark! What's the matter?",
@@ -3553,6 +3555,7 @@
         "Battle": "I've found them! They won't get away! Ark Royal Bomber Squadron, begin takeoff!",
         "Friend42(1)": "The Home Fleet has arrived! Come, I'll show you! Let's go! Follow me, Nelson!",
         "Friend42(2)": "Roger! Swordfish squadrons, begin takeoff!",
+        "Friend47(1)": "Roger! Swordfish squadrons, begin takeoff!",
         "H0000": "Admiral. That's right, I'll be in charge of this today. Oh? What is it? Don't tell me you're unhappy with that?",
         "H0100": "It's 1. ...What?",
         "H0200": "It's 2. ...What!? Could it be that something about this leaves you dissatisified?",
@@ -15686,7 +15689,8 @@
         "Equip(2)": "Oi, you aren't giving me more barrels, right? It's fine, but I'd like torpedoes too, alright?",
         "Return": "I've returned safely again. Thanks to you, Admiral!",
         "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
-        "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!"
+        "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!",
+        "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!"
     },
     "424": {
         "Intro": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -16287,7 +16291,7 @@
         "Sunk": "Ah, I'm sinking... My body is going deeper and deeper... So this is the depths, the abyss... Everyone...",
         "2@Setsubun2020": "It's here! Setsubun is finally here! Who is our Oni? Who is it!? ...Eh? Naga-Naga-nee? Aha, that's... we better not do this? Right?",
         "2@Valentines2020": "Ehehe. This is the greatest Valentine's gift! My killer chocolate torpedoes! Hold up, that's...amazing! It's massive! Whoaaaaa!!",
-        "2@WhiteDay2020": "Ah, Commander, you're giving me a return gift? Thank you! You seriously made it yourself!? No waaaaay! It must be from Mamiya's, right? ...Really?"
+        "2@WhiteDay2020": "Ah, Commander, you're giving us a return gift too? Thank you! You seriously made it yourself!? No waaaaay! It must be from Mamiya's, right? ...Really?"
     },
     "695": {
         "Intro": "Mornin'! 18th ship of the Yuugumo-class destroyers, Akishimo, reporting in. Hey, no matter how hard it gets, we'll overcome it together! Now, let's go!",
@@ -16296,6 +16300,7 @@
         "Equip(1)": "Wow, I think this is great! Thanks.",
         "Friend46(1)": "Yuugumo-class Destroyer Division 2 has broken through into operation area. Haya-Haya, Kiyo-Kiyo, ready? Follow me! Let's go!",
         "Friend46(2)": "I gotta get going!",
+        "Friend47(1)": "Akishimo, acknowledging. Our support is going to be pretty good.",
         "H0000": "I'll be your secretary ship today. Aren't you grateful? Hey? ...Huh?",
         "H0100": "0100. It's night. It's so peaceful.",
         "H0200": "0200. It's the Hour of the Ox. You know, I'm kinda scared of this time of day. Don't you think so too, Commander?",
@@ -17039,6 +17044,7 @@
         "Yasen(2)": "Darling? Were you watching?",
         "Yasen(1)": "Darling! Leave night battle to me too! There you are!",
         "MVP": "Battle honour? Lucky! I'm glad to have been able to help! Darling!",
+        "Friend47(1)": "The Royal Navy Fleet has sighted the allied fleet. We'll now support them! Shoot!",
         "H0000": "Darling! You're in luck! Today I, Jervis, will help you out with things! You can count on me!",
         "H0100": "It's 1 o'clock! Hey, leave telling the time to me too!",
         "H0200": "It's 2 o'clock! Like this, right~? No problem!",
@@ -17108,6 +17114,7 @@
         "Equip(2)": "This feels quite good. I can work with this.",
         "Sortie": "Leave being the flagship to me, Janus. Everyone, Jervis, are you ready? Follow me!",
         "Attack": "Shoot! Eh, I missed!? Shooooooooot!",
+        "Friend47(1)": "Janus, acknowledging. OK, leave it to me!",
         "H0000": "That's right, I'll be taking care of everything today. That's fine, right? Humph, that's good. Leave it to me.",
         "H0100": "It's 1 o'clock. Hmmm, what shall we do? Is there anything you'd like to do?",
         "H0200": "It's 2 o'clock. What do you think, Jervis? Ah, I see. Hmmm.",
@@ -17309,6 +17316,7 @@
         "Attack": "Come at me! I'll take care of all of you at once!",
         "Friend44(1)": "USS fleet, arriving on the battlefield. We will now be supporting our friend fleet!",
         "Friend44(2)": "Fletcher, acknowledging.",
+        "Friend47(1)": "Fletcher, acknowledging.",
         "H0000": "Admiral, Fletcher will be looking after you today. I'm looking forward to working with you.",
         "H0100": "It's 1 o'clock. Admiral, it's quiet, isn't it...",
         "H0200": "It's 2 o'clock. There's still a lot of work to be done. I'll get you some coffee.",

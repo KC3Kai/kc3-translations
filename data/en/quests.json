@@ -1560,6 +1560,12 @@
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\n\u27a3Rewards a Reinforcement Expansion and either 12 Development Materials OR a Type D Kouhyouteki Kai (Kouryuu Kai) OR 6 Screws",
         "unlock": [ 903 ]
     },
+    "911": {
+        "code": "B142",
+        "name": "Reorganized DesDiv 31, Weigh Anchor!",
+        "desc": "Sortie Naganami, Kishinami, Asashimo, Okinami Kai Ni and up to two additional ships to [W1-3], [W1-4], [W1-5], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Underway Replenishments OR six Buckets OR two  Combat Ration (Special Onigiri)\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Rocket Development Materials OR Furniture: Okinami's Shelf"
+    },
 
 
     "201": {
@@ -3192,7 +3198,7 @@
     "712": {
         "code": "W20G6",
         "name": "Weekly Peach Festival Mission: Hishimochi Improvement",
-        "desc": "Have 6 Hishimochi, 100 Development Materials, 8800 steel and 8800 bauxite. Modernize a CVL using 3 CVL twice",
+        "desc": "Have 6 Hishimochi, 100 Development Materials, 3000 steel and 3000 bauxite. Modernize a CVL using 3 CVL twice",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a New Model Aircraft Blueprint OR a New Model Artillery Armament Materials OR a New Model Rocket Development Materials",
         "unlock": [ 713 ],
         "hash": -1308432781
@@ -3235,5 +3241,12 @@
         "memo": "\u27a3Rewards three Hishimochi and either DE Etorofu, DE Matsuwa, DE Sado, DE Tsushima OR DE Fukae",
         "unlock": [ 712 ],
         "hash": -890864113
+    },
+    "910": {
+        "code": "W20B5",
+        "name": "Peach Festival Mission: Waves in the Offing, Sortie!",
+        "desc": "Sortie Okinami, 2 other Yuugumo-class DD and up to 3-9 additional ships to nodes I, J and T of the event map. Secure an A-Rank or higher at the boss nodes. Overlay: F10",
+        "memo": "\u27a3Rewards four Hishimochi and either two Mamiya OR a +4 Type 13 Air Radar Kai OR a Medal",
+        "hash": -873799366
     }
 }

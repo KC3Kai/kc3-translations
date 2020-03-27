@@ -1047,7 +1047,7 @@
         "name": "Secure Control of the Orel Sea!",
         "desc": "Sortie Ooshio as flagship to [W2-3]. S-Rank the boss node 6 times.",
         "memo": "\u27a3Rewards 2 Irako and a Medal",
-        "unlock": [ 813 ]
+        "unlock": [ 813, 911 ]
     },
     "813": {
         "code": "B66",
@@ -1911,7 +1911,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 689, 832, 890, 911 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 436, 689, 832, 890, 911 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -3231,7 +3231,7 @@
         "name": "Peach Festival Mission: Intercept the Enemy Carrier Task Force!",
         "desc": "Sortie 2 CV, 2 BB, 2 CA and up to 6 additional ships to node T of the event map. Secure an A-Rank or higher at the boss node four times. Overlay: F10",
         "memo": "\u27a3Rewards four Hishimochi and either eight buckets OR two Mamiya OR ten Development Materials",
-        "unlock": [ 709, 711, 909 ],
+        "unlock": [ 709, 711, 909, 910 ],
         "hash": 392197014
     },
     "909": {

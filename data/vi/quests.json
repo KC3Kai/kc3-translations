@@ -1560,7 +1560,12 @@
         "memo": "Đệ Lục Thuỷ Lôi Chiến Đội gồm Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki và Mochizuki.\n\u27a3Thưởng Pháo 2 nòng 14cm Kai và hoặc 12 Nguyên Liệu Chế Tạo hoặc Kouhyouteki Kiểu D Kai (Kouryuu Kai) hoặc 6 Ốc",
         "unlock": [ 903 ]
     },
-
+    "911": {
+        "code": "B142",
+        "name": "Tái Biên Đệ Tam Nhất Khu Trục Đội, Nhổ Neo!",
+        "desc": "Xuất Kích Naganami, Kishinami, Asashimo, Okinami Kai Ni và lên tới 2 Nữ Hạm khác tới [W1-3], [W1-4], [W1-5], [W2-2] và [W2-3]. S-Rank node boss mỗi map.",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 3 Tiếp Tế Trên Biển hoặc 6 Xô hoặc 2 Lương Thực Chiến Đấu (Onigiri Đặc Biệt)\n\u00B6Lựa chọn thứ hai: Hoặc Nguyên liệu cải tiến pháo kiểu mới hoặc Nguyên liệu nâng cấp trang bị phản lực mô hình mới hoặc Đồ Nội Thất: Kệ Sách Okinami"
+    },
     "201": {
         "code": "Bd1",
         "name": "Xuất kích hàng ngày 1",
@@ -3123,8 +3128,114 @@
         "desc": "Xuất kích BB hoặc CV(B) làm Kỳ Hạm, 2 DD và lên tới 3 Nữ Hạm khác tới [W5-4], [W5-5] và [W6-4]. S-Rank node boss mỗi map.",
         "memo": "\u27a3Thưởng 2 Đậu Setsubun và 203 Điểm Xếp Hạng",
         "hash": -1791353907
-     }
-
+     },
+     "340": {
+        "code": "W20C1",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Diễn Tập Cho Lễ Hội Hoa Đào!",
+        "desc": "Dành được 3 chiến thắng S-Rank trong Diễn Tập dùng 3 DD/DE và lên tới 3 Nữ Hạm khác.",
+        "memo": "\u27a3Thưởng Hishimochi",
+        "unlock": [ 435, 707, 907 ],
+        "hash": 353674656
+    },
+    "435": {
+        "code": "W20D1",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Viễn Chinh Cho Lễ Hội Hoa Đào!",
+        "desc": "Hoàn thành Viễn Chinh số 4, 10, 14, B1 và A3",
+        "memo": "\u27a3Thưởng 2 Hishimochi và hoặc 2 Tiếp Tế Trên Biển hoặc Đạn Kiểu 3 hoặc 2 Nguyên liệu sửa chữa khẩn cấp",
+        "unlock": [ 708 ],
+        "hash": 361609757
+    },
+    "707": {
+        "code": "W20G1",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Hiện Đại Hoá Khu Trục Hạm!",
+        "desc": "Có 303 Thép và 303 Bauxite. Hiện Đại Hoá 1 DD dùng 3 CL hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên.\n\u27a3Thưởng 2 Nguyên Liệu Chế Tạo và 1 Hishimochi",
+        "hash": 1674109486
+    },
+    "708": {
+        "code": "W20G2",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Hiện Đại Hoá Hải Phòng Hạm",
+        "desc": "Có 3030 Thép và 3030 Bauxite. Hiện Đại Hoá 1 DE dùng 5 DD hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên.\n\u27a3Thưởng 2 Hishimochi",
+        "hash": -225729411
+    },
+    "709": {
+        "code": "W20G3",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Hiện Đại Hoá Khinh Tuần Dương Hạm",
+        "desc": "Có 4230 Thép và 4230 Bauxite. Hiện Đại Hoá 1 CL dùng 2 DE hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên.\n\u27a3Thưởng 4 Hishimochi và hoặc 5 Xô hoặc 6 Nguyên Liệu Chế Tạo hoặc 2 Lương Thực Chiến Đấu",
+        "hash": 1027682199
+    },
+    "710": {
+        "code": "W20G4",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Cải Tiến Hishimochi - Bắt Đầu",
+        "desc": "Có 10 Hishimochi. Hiện Đại Hoá 1 Nữ Hạm lớp Yuugumo DD dùng 4 CA hai lần",
+        "memo": "\u2718Tiêu thụ vật phẩm.\n\u27a3Thưởng hoặc Báo Cáo Chiến Dịch hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Động Cơ Kiểu Ne",
+        "unlock": [ 711, 910 ],
+        "hash": -1308445487
+    },
+    "711": {
+        "code": "W20G5",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Cải Tiến Hishimochi - Giai Đoạn Giữa",
+        "desc": "Có 15 Hishimochi, 8800 Thép và 8800 Bauxite. Hiện Đại Hoá Okinami dùng 4 BB hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên và vật phẩm.\n\u27a3Thưởng hoặc Bản Thiết Kế hoặc 2 Bản thiết kế công nghệ mới dành cho phi cơ hoặc Bệ phóng máy bay trên sàn đáp Nguyên Mẫu",
+        "unlock": [ 712 ],
+        "hash": -1308438922
+    },
+    "712": {
+        "code": "W20G6",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Cải Tiến Hishimochi",
+        "desc": "Có 6 Hishimochi, 100 Nguyên Liệu Chế Tạo, 3000 Thép và 3000 Bauxite. Hiện Đại Hoá 1 CVL dùng 3 CVL hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên và vật phẩm.\n\u27a3Thưởng hoặc Bản thiết kế công nghệ mới dành cho phi cơ hoặc Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Nguyên liệu nâng cấp trang bị phản lực mô hình mới",
+        "unlock": [ 713 ],
+        "hash": -1308432781
+    },
+    "713": {
+        "code": "W20G7",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Cải Tiến Hishimochi - Kết Thúc",
+        "desc": "Có 17 Hishimochi, 300 Nguyên Liệu Chế Tạo, 15000 Thép và 15000 Bauxite. Hiện Đại Hoá 1 CV dùng 5 CV hai lần",
+        "memo": "\u2718Tiêu thụ tài nguyên và vật phẩm.\n\u27a3Thưởng hoặc Bệ phóng máy bay trên sàn đáp Nguyên mẫu hoặc Động Cơ Kiểu Ne hoặc Nhân viên hàng không đêm + nhân viên sàn đáp",
+        "hash": -1308443170
+    },
+    "906": {
+        "code": "W20B1",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Đảm Bảo An Toàn Vùng Biển Xung Quanh Trấn Thủ Phủ!",
+        "desc": "Xuất Kích 3 DD/DE và lên tới 3 Nữ Hạm khác tới [W1-2], [W1-3], [W1-5] và [W2-1]. S-Rank node boss. Xuất kích tới [W1-6] và chạm Node N. Overlay: F10",
+        "memo": "\u27a3Thưởng 1 Hishimochi và hoặc Đạn Kiểu 3 hoặc Thuyền Daihatsu hoặc Pháo cối 12cm Kiểu 2",
+        "unlock": [ 710, 908 ],
+        "hash": 1172591554
+    },
+    "907": {
+        "code": "W20B2",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Lực Lượng Xâm Nhập, Tấn Công Vào Kho Vật Tư!",
+        "desc": "Xuất Kích 3 DD và lên tới 3 Nữ Hạm khác tới node J của map event. S-Rank node boss 2 lần. Overlay: F10",
+        "memo": "\u27a3Thưởng 2 Hishimochi và hoặc Tiên Nội Thất hoặc 2 Đạn Kiểu 3 hoặc 1 Huân Chương",
+        "unlock": [ 708, 710, 908 ],
+        "hash": 1356941738
+    },
+    "908": {
+        "code": "W20B3",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Ngênh Kích Cơ Động Bộ Đội Địch!",
+        "desc": "Xuất Kích 2 CV, 2 BB, 2 CA và lên tới 6 Nữ Hạm khác tới node T của map event. Dành được A-Rank trở lên tại node boss 4 lần. Overlay: F10",
+        "memo": "\u27a3Thưởng 4 Hishimochi và hoặc 8 Xô hoặc 2 Mamiya hoặc 10 Nguyên Liệu Chế Tạo",
+        "unlock": [ 709, 711, 909, 910 ],
+        "hash": 392197014
+    },
+    "909": {
+        "code": "W20B4",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào Hàng Tuần: Chủ Lực Của Chủ Lực, Tiến Lên!",
+        "desc": "Xuất Kích 3 Nữ Hạm lớp Yuugumo DD và lên tới 3-9 Nữ Hạm khác tới [W2-2], [W2-3], [W3-5], [W7-2M] và node I của map event. S-Rank node boss. Overlay: F10",
+        "memo": "\u27a3Thưởng 3 Hishimochi và hoặc DE Etorofu, DE Matsuwa, DE Sado, DE Tsushima hoặc DE Fukae",
+        "unlock": [ 712 ],
+        "hash": -890864113
+    },
+    "910": {
+        "code": "W20B5",
+        "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Những Con Sóng Ngoài Khơi, Xuất Kích!",
+        "desc": "Xuất kích Okinami, 2 Nữ Hạm lớp Yuugumo DD khác và lên tới 3-9 Nữ Hạm khác tới node I, J và T của map event. Dành chiến thắng A-Rank trở lên ở node boss. Overlay: F10",
+        "memo": "\u27a3Thưởng 4 Hishimochi và hoặc 2 Mamiya hoặc +4 Radar Phòng Không Kiểu 13 Kai hoặc 1 Huân Chương",
+        "hash": -873799366
+    }
  }
 
 

@@ -1755,7 +1755,8 @@
         "2@YearsEnd2019": "Mary, it's \"o-souji\" you say? That means it's a large-scale cleaning. Well, this is good. We'll help out too!",
         "2@NewYears2020": "Happy New Year! I'm counting on you again this year. OK? Now, shall we go have some good food?",
         "2@Setsubun2020": "Ah, I know about this. I heard about this from Sara. Setsubun, right? Leave it to me. I'll get them on the first shot. Mutsu, brace yourself!",
-        "2@Valentines2020": "This is for you. Some chocolate. There's nothing special about it. It's just that everyone was doing it. That's all."
+        "2@Valentines2020": "This is for you. Some chocolate. There's nothing special about it. It's just that everyone was doing it. That's all.",
+        "2@WhiteDay2020": "Oh my! You're so dutiful. Is this for me? Thanks! Ah, I'm not that happy about it! Just average! Yes, just that much."
     },
     "1496": {
         "Intro": "Hi, one of the Big Seven from the States, 1st ship of the Colorado-class battleships, USS Colorado, arriving on station. Admiral, make sure you stick real close to me today too. What do you say? OK!",
@@ -1764,6 +1765,7 @@
         "Equip(1)": "Ooh! This is nice. OK!",
         "Attack": "My modernization remodel isn't just for show. Fire!",
         "MVP": "I'm number one? A battle star? Alright, I accept. It's thanks to all of you. Thanks.",
+        "Friend47(1)": "The Provisional Pacific Fleet has arrived on the battlefield. We'll now support the allied fleet.",
         "H0000": "If I must. I, Colorado, will be your secretary for today. Just for today. Don't misunderstand me.",
         "H0100": "It is 1. Well, something like this?",
         "H0200": "It is 2. Mutsu said it was \"ushimitsu\", right?",
@@ -1926,6 +1928,7 @@
         "MVP": "Hmm, a battle honour? It's all thanks to your command, my Admiral. But, it's... not bad. Thank you very much indeed.",
         "Friend42(1)": "Battleship Nelson, roger. I'll show you what I can do. We'll attack in double line! Split the enemy down the middle. Let's go!",
         "Friend42(2)": "I've kept you waiting. Home Fleet flagship, Nelson, has arrived! Let's go! Each should do their duty! Charge!",
+        "Friend47(1)": "I've kept you waiting. Home Fleet flagship, Nelson, has arrived! Let's go! Each should do their duty! Charge!",
         "H0000": "Very well, I'll be by your side today, Admiral. Ah, really? Of course! Alright, the time just turned exactly 12am.",
         "H0100": "1 o'clock. Yes, you need this for the night shift. Do you want some? I see, alright, let's have a toast! Yes, you can sure drink.",
         "H0200": "2 o'clock. Well, we shouldn't drink too much. Let's slow down. Hmm, who is it at this time...? Hmm? It's Ark! What's the matter?",
@@ -2131,7 +2134,10 @@
         "3@LateFall2018": "It can't be helped then, if it's that delicious then I'll make some for you right now. Just wait.",
         "2@LateFall2018": "My Admiral, is that really that delicious? Really? I see...",
         "3@EventShingle": "Humph, we'll be the ones to protect this sea. Mon Amiral, just watch.",
-        "2@Saury2019": "Mon Amiral? The saury catch is bad this year you say? Well, if there's no saury then let them have sardines. I believe that was a saying in an old book from my country... No wait, I think that was a bit off..."
+        "2@Saury2019": "Mon Amiral? The saury catch is bad this year you say? Well, if there's no saury then let them have sardines. I believe that was a saying in an old book from my country... No wait, I think that was a bit off...",
+        "2@Hina2020": "Amiral, what is it? I see. Would you like a glass too?",
+        "3@Hina2020": "Just come closer. Here. Cheers!",
+        "4@Hina2020": "Malted rice is pretty good. Amiral, I'm fine. There's pretty much no alcohol in it so I'm ready to sortie at any time."
     },
     "392": {
         "Intro": "Salut, mon amiral. The Battleship Richelieu will be accompanying you again today. Isn't that nice?",
@@ -2161,7 +2167,9 @@
         "H2000": "8 p.m. Have some of la full course cuisine. Now, bon app\u00e9tit.",
         "H2100": "Vous voulez du vin? It's fine, so have some more. It's still only 9 o'clock.",
         "H2200": "It's already 10 o'clock. That went quickly. Now, let's call it a day. Bonne nuit. I'll turn off the lights. ...Eh!?",
-        "H2300": "11 p.m. My, you're a surprisingly hard worker. Mon amiral, that's enough for today. Let's do our best again tomorrow. Bonne nuit."
+        "H2300": "11 p.m. My, you're a surprisingly hard worker. Mon amiral, that's enough for today. Let's do our best again tomorrow. Bonne nuit.",
+        "2@Hina2020": "Mon Amiral, what is it? I see. Would you like a glass too?",
+        "4@Hina2020": "Malted rice is pretty good. Mon Amiral, I'm fine. There's pretty much no alcohol in it so I'm ready to sortie at any time."
     },
     "83": {
         "Intro": "I'm the aircraft carrier, Akagi. If you're forming a carrier task force, just leave it to me.",
@@ -3547,6 +3555,7 @@
         "Battle": "I've found them! They won't get away! Ark Royal Bomber Squadron, begin takeoff!",
         "Friend42(1)": "The Home Fleet has arrived! Come, I'll show you! Let's go! Follow me, Nelson!",
         "Friend42(2)": "Roger! Swordfish squadrons, begin takeoff!",
+        "Friend47(1)": "Roger! Swordfish squadrons, begin takeoff!",
         "H0000": "Admiral. That's right, I'll be in charge of this today. Oh? What is it? Don't tell me you're unhappy with that?",
         "H0100": "It's 1. ...What?",
         "H0200": "It's 2. ...What!? Could it be that something about this leaves you dissatisified?",
@@ -4674,7 +4683,8 @@
         "Damaged(2)": "Aaah!",
         "Damaged(3)": "Damage report. There are... no shallows to beach on.",
         "Sunk": "So it's finally... time for me to sink... The sea... is cold...",
-        "2@Valentines2020": "Admiral, umm, according to this fleet... Ah, fleet's custom... would you please, umm, accept these chocolates..."
+        "2@Valentines2020": "Admiral, umm, according to this fleet... Ah, fleet's custom... would you please, umm, accept these chocolates...",
+        "2@WhiteDay2020": "This is... Umm... Admiral, thank you."
     },
     "626": {
         "Intro": "I'm the upgraded IJA Special Ship, Shinshuu Maru. Capable of combined-arms force projection during landings, I'm the predecessor of all true amphibious assault ships. My abilities have been improved even more. Please leave the landing operations to me.",
@@ -7990,7 +8000,8 @@
         "Damaged(3)": "This... isn't enough to stop me. I can still fight!",
         "Sunk": "Oh god, so much water! The ship is listing... All hands, abandon ship! Hurry! Perth, you have to escape. Promise me!",
         "2@Setsubun2020": "I've heard of this. It's the speciality of Japanese Naval Bases, \"Setsubun\", right? The Oni for us in the ABDA is... Eh? Perth? You are?",
-        "2@Valentines2020": "Admiral, this is my special adult chocolate. Please enjoy it. Here."
+        "2@Valentines2020": "Admiral, this is my special adult chocolate. Please enjoy it. Here.",
+        "2@WhiteDay2020": "Admiral, thank you very much. I gratefully accept."
     },
     "600": {
         "Intro": "I'm Houston, of the Northampton-class. Admiral, let us protect the tranquility of the Pacific and the seas of Asia together. This time... this time I believe we can do it.",
@@ -8659,7 +8670,8 @@
         "3@Anniversary2019": "Admiral, it's the 6th Anniversary. Please keep looking after the fleet and me in the 7th year too, alright? Alright? Alriiiiiiight?",
         "2@Summer2019": "I wanted to wear a swimsuit this year, but... Admiral, what do you think? ...Hey?",
         "2@Summer2019_2": "Admiral, would you... like to go... to the summer festival with me? ...Well?",
-        "2@Valentines2020": "Admiral, I... Yes, I've got some."
+        "2@Valentines2020": "Admiral, I... Yes, I've got some.",
+        "2@Hina2020": "Isn't the Peach Festival great? Isn't it? ...Admiral, I was thinking of making some hishimochi. Will you try some?"
     },
     "220": {
         "Idle": "Admiral-san... um, I... ah... Admiral-san, you look so busy... I know, while you're busy, I'll take your personal belongings and wash them for you. Well... this is washed... and this is washed... ...This is... ...mh...! This one, too! I've washed them for you, okay? Hey...",
@@ -9757,7 +9769,8 @@
         "2@YearsEnd2019": "O-souji? That's right, this is an important year's end event. Admiral, is there anything I can do? I haven't really done much cleaning... Eh? I just have to listen to Houshou?",
         "2@NewYears2020": "Admiral, Gari, Happy New Year! The New Year definitely needs to be greeted with a toast of wine! Would you like me to open white or red wine? ...Both? Good call.",
         "2@Setsubun2020": "So this is Setsubun! It looks so fun! So we throw these beans at the person playing the Oni? Our Oni is... a submarine? Oh my, she ran. Oh well. Grecale will do then. Here I come. Take this!",
-        "2@Valentines2020": "Oh my, Gari, thank you. I've gotten some ready myself. For Admiral, for you, and for Zuikaku as well. Eh? Don't be so reserved. Go on, take some."
+        "2@Valentines2020": "Oh my, Gari, thank you. I've gotten some ready myself. For Admiral, for you, and for Zuikaku as well. Eh? Don't be so reserved. Go on, take some.",
+        "2@WhiteDay2020": "Admiral, Gari, thanks. I'm glad I got something in return. It's wonderful. Next year... I wonder what I'll get next year... It's so exiting, isn't it? Ufufu."
     },
     "693": {
         "Intro": "Good day! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufu, Admiral, just Abruzzi is fine. Please continue to give my sister and me your guidance.",
@@ -9826,7 +9839,8 @@
         "2@Saury2019": "It's the Saury Festival! This is it... right? Alright then, I'll help out too. So equipment is important. Aaah, Zara, teach me all about it!",
         "2@YearsEnd2019": "An end of year cleaning? I might not look like it, but I do like cleaning. Alright... now that it's come to this, I'm going to do it right! Admiral, go away, you're in the way!",
         "2@NewYears2020": "Aneki, Admiral, Happy New Year! Man, it's the new year already. Can you believe it!? I'll give it my all this year too! First, let's start with a toast!",
-        "2@Valentines2020": "Aneki, Admiral, take this. Of course it's handmade."
+        "2@Valentines2020": "Aneki, Admiral, take this. Of course it's handmade.",
+        "2@WhiteDay2020": "Seriously? You're giving me a return gift? Admiral, thanks!"
     },
     "691": {
         "Intro": "Hello, the state-of-the-art light cruiser, Giuseppe Garibaldi, reporting for duty. Ah, just leave it all to me! I got this!",
@@ -9889,7 +9903,8 @@
         "Damaged(3)": "Oh no, this is bad! I don't feel like I'm sinking, but... it's bad.",
         "Sunk": "Oh... no... I'm sinking... I don't want it to... end here... but... Goodbye... everyone...",
         "2@Setsubun2020": "It's Setsubun, right? I totally get that. Who is our Oni? Ah, it's Perth. OK. Then, here goes. Take this!",
-        "2@Valentines2020": "Admiral, this is for you. Heheh, it's yummy. Chocolates from the Netherlands are pretty good. Go on, have some."
+        "2@Valentines2020": "Admiral, this is for you. Heheh, it's yummy. Chocolates from the Netherlands are pretty good. Go on, have some.",
+        "2@WhiteDay2020": "Admiral, were the Dutch chocolates good? Ah, you got me something in return. Thanks. Mmmm, I love these!"
     },
     "609": {
         "Intro": "Hi! Admiral, how are you today? I see, I see. I'm the Dutch CL, De Ruyter. That's right, just leave it to me again today.",
@@ -9950,7 +9965,8 @@
         "Damaged(3)": "Aaah, gah! I'm hit? Throw the inflammables overboard. Hurry with the fire fighting. I won't sink to anything less than a direct torpedo strike!",
         "Sunk": "I've... taken a direct hit... I see... I'm sinking... I don't mind... But, there's something important... I haven't told you yet... Ahh... Admiral, I... I...",
         "2@Setsubun2020": "The ABDA Fleet's Setsubun monster... by which I mean Oni, will be me. Br-bring it on!",
-        "2@Valentines2020": "Admiral, please take this. No, there's no deeper meaning to this. Please have it with some Earl Grey."
+        "2@Valentines2020": "Admiral, please take this. No, there's no deeper meaning to this. Please have it with some Earl Grey.",
+        "2@WhiteDay2020": "Is this for me? No way! I-it's nothing. Thanks. Oh no. I'm kind of... happy."
     },
     "618": {
         "Intro": "How are you? I'm the Perth-class light cruiser, Perth. HMAS Perth is here. Don't underestimate my strength - I was raised in Australia. Well, shall we get started?",
@@ -10014,7 +10030,8 @@
         "Damaged(3)": "Put it out, put it out! Put the fire out! Ah, the water is...! Jeez!",
         "Sunk": "That's why I said... I didn't like it... This sea is deep. ...Far deeper... than Ironbottom Sound...",
         "2@Setsubun2020": "Ouch. What was that? Who did that? ...A-ka-tsu-ki, you little... Ow! Now it's you, Nightmare... Now listen here you little shits... Whoa!",
-        "2@Valentines2020": "Ah, this? I think it was some kind of rule. Well, fine then. I can't guarantee the taste. Here you go."
+        "2@Valentines2020": "Ah, this? I think it was some kind of rule. Well, fine then. I can't guarantee the taste. Here you go.",
+        "2@WhiteDay2020": "Ah, you're really a stickler for protocol, Admiral. I already forgot about this. Well, it's fine. Hmm, so they're hand made? Let me try one. Ah, it's delicious."
     },
     "696": {
         "Intro": "How is everything? I'm the Atlanta-class anti-air cruiser, Atlanta. Reporting in. Admiral... well, I guess I'll work hard today too.",
@@ -15672,7 +15689,8 @@
         "Equip(2)": "Oi, you aren't giving me more barrels, right? It's fine, but I'd like torpedoes too, alright?",
         "Return": "I've returned safely again. Thanks to you, Admiral!",
         "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
-        "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!"
+        "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!",
+        "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!"
     },
     "424": {
         "Intro": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -15809,7 +15827,8 @@
         "3@Fall2019": "Shall I come along too? Kure! Kure Naval District!",
         "2@Fall2019": "A strategic manoeuvre? Alright! We'll be coming from Osaka, right? Coming from Osaka... we'll take the land route.",
         "3@Saury2019": "Kure? It was lots of fun! Also, there were lots of delicious things too. I think I ate too much. I probably need to go on a bit of a diet.",
-        "2@Valentines2020": "Oh, Haya-chin, is this for me? Thanks. Ah? Of course I'll eat it."
+        "2@Valentines2020": "Oh, Haya-chin, is this for me? Thanks. Ah? Of course I'll eat it.",
+        "3@Hina2020": "Hamacchi, cheer up. It'll be fine. I'm sure of it!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -15861,7 +15880,8 @@
         "3@Valentines2020": "And this is for... Well, it should be alright.",
         "4@Valentines2020": "Ahem. Onee-chan, Hama-chan, Commander, Happy Valentines! Ehehehe. It's handmade. I did my very best making it. Have some.",
         "20@Valentines2020": "No way. I won't let you have it! You're not getting my chocolates that easily!",
-        "21@Valentines2020": "Oh no! No way! I'll give my life for my chocolates!"
+        "21@Valentines2020": "Oh no! No way! I'll give my life for my chocolates!",
+        "3@Hina2020": "Onee-chan and Hama-chan, I'm glad we could cheer you up."
     },
     "688": {
         "Intro": "Onee-chan, Commander, thank you. 12th ship of the Yuugumo-class, Hayanami, has arrived today too.",
@@ -15941,7 +15961,8 @@
         "2@Rainy2019": "Mm, Ha-chan... That's...cute. Mm... I...I took a picture from that hill. So cute.",
         "2@Summer2019": "A-are you... going to the summer festival, Fuu-chan, Ha-chan? ...Th-then, I'll come too...",
         "3@Summer2019": "Fuu-chan, what are you looking for? Your yukata... Uh-umm, I'm sure it was in these drawers... Ah, found it. Fuu-chan, it's... it's here... I kinda like... your yukata.",
-        "2@Valentines2020": "Ah, Fuu-chan. Th-thank you. I'll, mmm... savour this. *nom* *nom*... It's really..."
+        "2@Valentines2020": "Ah, Fuu-chan. Th-thank you. I'll, mmm... savour this. *nom* *nom*... It's really...",
+        "3@Hina2020": "F-fu-chan, th-thanks. I'm good. I had fun... Ah, these are souvenirs. This and this are for Ha-chan and the Commander."
     },
     "680": {
         "Intro": "I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. Uhh, umm, I'll... do my best.",
@@ -16028,6 +16049,15 @@
         "H2100": "210... ah Noshiro-san! Thank you for your hard work. Yes, I'm currently doing my best. Please don't worry. Excuse me...",
         "H2200": "It's 2200 Commander. About Noshiro-san? She's a very gentle senpai, and kind... Eh, Jintsu-san? ... I've only heard she's amazing...",
         "H2300": "It's 2300 Commander. Thank you for all your hard work today. Tomorrow... I'll do my best too."
+    },
+    "569": {
+        "Intro": "I'm the improved Yuugumo-class destroyer, Okinami. I've been upgraded to the absolute limit. I-I think I'll be fine. I'll do my best!",
+        "Poke(1)": "Destroyer Division 31 flagship, Okinami, acknowledging!",
+        "Join": "DesDiv31, Okinami, sortieing! I'll definitely protect everyone.",
+        "Equip(2)": "I can protect everyone from enemy planes and submarines with this!",
+        "Equip(3)": "Oh, I see. I agree.",
+        "Attack": "Everyone, take careful aim. Yes, like that. Now! Fire!",
+        "Yasen(1)": "Okinami, engaging! Everyone, are you ready? Let's go! It's the Yuugumo-class' night battle!"
     },
     "527": {
         "Intro": "I'm the 15th ship of the Yuugumo-class destroyers, Kishinami. You're the Admiral? I see, that's fine then. Kishinami, reporting to the 31st Destroyer Division.",
@@ -16269,7 +16299,8 @@
         "Damaged(3)": "Whoaa! My bow! Why you...! I won't sink!",
         "Sunk": "Ah, I'm sinking... My body is going deeper and deeper... So this is the depths, the abyss... Everyone...",
         "2@Setsubun2020": "It's here! Setsubun is finally here! Who is our Oni? Who is it!? ...Eh? Naga-Naga-nee? Aha, that's... we better not do this? Right?",
-        "2@Valentines2020": "Ehehe. This is the greatest Valentine's gift! My killer chocolate torpedoes! Hold up, that's...amazing! It's massive! Whoaaaaa!!"
+        "2@Valentines2020": "Ehehe. This is the greatest Valentine's gift! My killer chocolate torpedoes! Hold up, that's...amazing! It's massive! Whoaaaaa!!",
+        "2@WhiteDay2020": "Ah, Commander, you're giving us a return gift too? Thank you! You seriously made it yourself!? No waaaaay! It must be from Mamiya's, right? ...Really?"
     },
     "695": {
         "Intro": "Mornin'! 18th ship of the Yuugumo-class destroyers, Akishimo, reporting in. Hey, no matter how hard it gets, we'll overcome it together! Now, let's go!",
@@ -16278,6 +16309,7 @@
         "Equip(1)": "Wow, I think this is great! Thanks.",
         "Friend46(1)": "Yuugumo-class Destroyer Division 2 has broken through into operation area. Haya-Haya, Kiyo-Kiyo, ready? Follow me! Let's go!",
         "Friend46(2)": "I gotta get going!",
+        "Friend47(1)": "Akishimo, acknowledging. Our support is going to be pretty good.",
         "H0000": "I'll be your secretary ship today. Aren't you grateful? Hey? ...Huh?",
         "H0100": "0100. It's night. It's so peaceful.",
         "H0200": "0200. It's the Hour of the Ox. You know, I'm kinda scared of this time of day. Don't you think so too, Commander?",
@@ -17021,6 +17053,7 @@
         "Yasen(2)": "Darling? Were you watching?",
         "Yasen(1)": "Darling! Leave night battle to me too! There you are!",
         "MVP": "Battle honour? Lucky! I'm glad to have been able to help! Darling!",
+        "Friend47(1)": "The Royal Navy Fleet has sighted the allied fleet. We'll now support them! Shoot!",
         "H0000": "Darling! You're in luck! Today I, Jervis, will help you out with things! You can count on me!",
         "H0100": "It's 1 o'clock! Hey, leave telling the time to me too!",
         "H0200": "It's 2 o'clock! Like this, right~? No problem!",
@@ -17080,7 +17113,8 @@
         "2@YearsEnd2019": "It's the year's end Naval Base Cleaning, right? Understood! Leave it to me! ...So, what am I supposed to do? Uhmmm...",
         "2@NewYears2020": "A Happy New Year! Admiral, do you know? It's time for \"Hatsumode\", right? I'll be going. I'm off!",
         "2@Setsubun2020": "You can definitely count on us for Setsubun too! The Onis are... those heavy cruiser sisters, right? Understood. Target acquired. Fire a salvo!",
-        "2@Valentines2020": "So it's a fleet tradition. Understood. It's a bit sweet but... Do you not like sweet things? Really? Great."
+        "2@Valentines2020": "So it's a fleet tradition. Understood. It's a bit sweet but... Do you not like sweet things? Really? Great.",
+        "2@WhiteDay2020": "Admiral, what's this? A return gift for the chocolates? For me? Thanks a lot. Aha, I like it. I'm happy."
     },
     "893": {
         "Intro": "Hi, I'm the J-class destroyer, Janus. Admiral, let's work hard today too. Eh? Ah, what is it? Is there something on my face?",
@@ -17089,6 +17123,7 @@
         "Equip(2)": "This feels quite good. I can work with this.",
         "Sortie": "Leave being the flagship to me, Janus. Everyone, Jervis, are you ready? Follow me!",
         "Attack": "Shoot! Eh, I missed!? Shooooooooot!",
+        "Friend47(1)": "Janus, acknowledging. OK, leave it to me!",
         "H0000": "That's right, I'll be taking care of everything today. That's fine, right? Humph, that's good. Leave it to me.",
         "H0100": "It's 1 o'clock. Hmmm, what shall we do? Is there anything you'd like to do?",
         "H0200": "It's 2 o'clock. What do you think, Jervis? Ah, I see. Hmmm.",
@@ -17279,7 +17314,8 @@
         "2@Fall2019": "This country has so many traditional festivals in Autumn. It's so very interesting. Ah, what's that?",
         "2@Saury2019": "I was secretly waiting for this moment. The Saury Festival! Now my net can be put to good use. Eh, it's not the right equipment?",
         "2@NewYears2020": "Happy New Year! Admiral, please look after me and the US Fleet this year too!",
-        "2@Valentines2020": "Admiral, please have some of this if you don't mind. It's my specially made chocolate pancakes. It's just a bit bittersweet."
+        "2@Valentines2020": "Admiral, please have some of this if you don't mind. It's my specially made chocolate pancakes. It's just a bit bittersweet.",
+        "2@WhiteDay2020": "Is this for me? Admiral, thank you so much... I'm happy."
     },
     "692": {
         "Intro": "Thank you for your hard work. The nameship of the Fletcher-class destroyers, Fletcher, reporting for duty. Admiral, I'll do my best to help everyone today as well.",
@@ -17289,6 +17325,7 @@
         "Attack": "Come at me! I'll take care of all of you at once!",
         "Friend44(1)": "USS fleet, arriving on the battlefield. We will now be supporting our friend fleet!",
         "Friend44(2)": "Fletcher, acknowledging.",
+        "Friend47(1)": "Fletcher, acknowledging.",
         "H0000": "Admiral, Fletcher will be looking after you today. I'm looking forward to working with you.",
         "H0100": "It's 1 o'clock. Admiral, it's quiet, isn't it...",
         "H0200": "It's 2 o'clock. There's still a lot of work to be done. I'll get you some coffee.",
@@ -17819,7 +17856,8 @@
         "Damaged(3)": "Ehehehe. Even if I'm sunk, I won't let you harm the fleet!",
         "Sunk": "Shikinami... I'm sorry... Did I... protect you this time? ...Everyone... please be safe... I... I...",
         "2@Setsubun2020": "The Oni for our Hi-Convoy Escort Squadron is... Hayasui? Please excuse me. Then I won't hesitate. Demon begone! Fortune welcome! Demon begone! Begone!",
-        "2@Valentines2020": "Taiyou, what's that? Valentine chocolates? Ah, I have to make some too. Would you mind teaching me?"
+        "2@Valentines2020": "Taiyou, what's that? Valentine chocolates? Ah, I have to make some too. Would you mind teaching me?",
+        "2@WhiteDay2020": "Mikura, good work. Yes, I also got these from the Commander earlier... It really makes you feel all warm and fuzzy, doesn't it? Yes."
     },
     "684": {
         "Intro": "Commander, I'm the Etorofu-class coastal defense ship, Hirato, reporting for duty. Let's work together today too. Don't worry. I won't let them lay a finger on you or anyone else, Commander. So relax.",
@@ -17961,7 +17999,8 @@
         "2@YearsEnd2019": "Mikura, accepting the end of year cleaning mission. Leave it to me.",
         "2@NewYears2020": "Happy New Year! Please take care of the Maritime Escort Division this year too. Admiral, what's this? ...Eh, New Year's money? Thank you!",
         "2@Setsubun2020": "It's Setsubun? I'm ready to give it my all if you need me to participate. Are you Etorofu-class girls ready? Let's go!",
-        "2@Valentines2020": "I wasn't really sure about how appropriate this is, but... I think that following customs is important. So I went ahead and prepared something. Please accept this."
+        "2@Valentines2020": "I wasn't really sure about how appropriate this is, but... I think that following customs is important. So I went ahead and prepared something. Please accept this.",
+        "2@WhiteDay2020": "Admiral, I'm so grateful for this... return gift. I wholeheartedly accept this. Thank you very much."
     },
     "616": {
         "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. On alert. Admiral, please continue to care for the coastal defense ships and the Maritime Escort Division. I'll continue to give my best.",

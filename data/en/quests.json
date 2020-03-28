@@ -897,7 +897,7 @@
         "name": "Advance the Surface Breakthrough Force!",
         "desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi and Inazuma to [W5-1]. S-Rank the boss node.",
         "memo": "\u27a3Rewards 2 Screws",
-        "unlcok": [ 904 ]
+        "unlock": [ 904 ]
     },
     "277": {
         "code": "B45",
@@ -1047,7 +1047,7 @@
         "name": "Secure Control of the Orel Sea!",
         "desc": "Sortie Ooshio as flagship to [W2-3]. S-Rank the boss node 6 times.",
         "memo": "\u27a3Rewards 2 Irako and a Medal",
-        "unlock": [ 813 ]
+        "unlock": [ 813, 911 ]
     },
     "813": {
         "code": "B66",
@@ -1560,6 +1560,12 @@
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\n\u27a3Rewards a Reinforcement Expansion and either 12 Development Materials OR a Type D Kouhyouteki Kai (Kouryuu Kai) OR 6 Screws",
         "unlock": [ 903 ]
     },
+    "911": {
+        "code": "B142",
+        "name": "Reorganized DesDiv 31, Weigh Anchor!",
+        "desc": "Sortie Naganami, Kishinami, Asashimo, Okinami Kai Ni and up to two additional ships to [W1-3], [W1-4], [W1-5], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Underway Replenishments OR six Buckets OR two  Combat Ration (Special Onigiri)\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Rocket Development Materials OR Furniture: Okinami's Shelf"
+    },
 
 
     "201": {
@@ -1905,7 +1911,7 @@
         "name": "Daily Exercises 1",
         "desc": "Challenge 3 other fleets in Exercises.",
         "memo": "\u203bElevate Your Training Through Exercises!",
-        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 689, 832, 890 ],
+        "unlock": [ 299, 302, 304, 313, 314, 315, 331, 436, 689, 832, 890, 911 ],
         "tracking": [ [0,3] ]
     },
     "304": {
@@ -3135,5 +3141,112 @@
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards two units of Setsubun Beans and 203 Ranking Points",
         "hash": -1791353907
+    },
+    "340": {
+        "code": "W20C1",
+        "name": "Weekly Peach Festival Mission: Peach Festival Exercises!",
+        "desc": "Secure 3 S-Rank victories in Exercises using 3 DD/DE and up to 3 additional ships.",
+        "memo": "\u27a3Rewards a Hishimochi",
+        "unlock": [ 435, 707, 907 ],
+        "hash": 353674656
+    },
+    "435": {
+        "code": "W20D1",
+        "name": "Weekly Peach Festival Mission: Peach Festival Expeditions!",
+        "desc": "Complete Expeditions 4, 10, 14, B1 and A3",
+        "memo": "\u27a3Rewards two Hishimochi and either two Underway Replenishments OR a Type 3 Shell OR two Emergency Repair Materials",
+        "unlock": [ 708 ],
+        "hash": 361609757
+    },
+    "707": {
+        "code": "W20G1",
+        "name": "Weekly Peach Festival Mission: Peach Festival Destroyer Modernization",
+        "desc": "Have 303 steel and 303 bauxite. Modernize a DD using 3 CL twice",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards two Development Materials and a Hishimochi",
+        "hash": 1674109486
+    },
+    "708": {
+        "code": "W20G2",
+        "name": "Weekly Peach Festival Mission: Peach Festival Escort Modernization",
+        "desc": "Have 3030 steel and 3030 bauxite. Modernize a DE using 5 DD twice",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards two Hishimochi",
+        "hash": -225729411
+    },
+    "709": {
+        "code": "W20G3",
+        "name": "Peach Festival Mission: Peach Festival Light Cruiser Modernization",
+        "desc": "Have 4230 steel and 4230 bauxite. Modernize a CL using 2 DE twice",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards four Hishimochi and either five buckets OR six Development Materials OR two Combat Rations",
+        "hash": 1027682199
+    },
+    "710": {
+        "code": "W20G4",
+        "name": "Peach Festival Mission: Hishimochi Improvement - Beginning",
+        "desc": "Have 10 Hishimochi. Modernize a Yuugumo-class DD using 4 CA twice",
+        "memo": "\u2718Consumes the items.\n\u27a3Rewards either an Action Report OR two New Model Artillery Armament Materials OR a Ne-Type Engine",
+        "unlock": [ 711, 910 ],
+        "hash": -1308445487
+    },
+    "711": {
+        "code": "W20G5",
+        "name": "Peach Festival Mission: Hishimochi Improvement - Midpoint",
+        "desc": "Have 15 Hishimochi, 8800 steel and 8800 bauxite. Modernize Okinami using 4 BB twice",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a Blueprint OR two New Model Aircraft Blueprints OR a Prototype Flight Deck Catapult",
+        "unlock": [ 712 ],
+        "hash": -1308438922
+    },
+    "712": {
+        "code": "W20G6",
+        "name": "Weekly Peach Festival Mission: Hishimochi Improvement",
+        "desc": "Have 6 Hishimochi, 100 Development Materials, 3000 steel and 3000 bauxite. Modernize a CVL using 3 CVL twice",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a New Model Aircraft Blueprint OR a New Model Artillery Armament Materials OR a New Model Rocket Development Materials",
+        "unlock": [ 713 ],
+        "hash": -1308432781
+    },
+    "713": {
+        "code": "W20G7",
+        "name": "Peach Festival Mission: Hishimochi Improvement - Final",
+        "desc": "Have 17 Hishimochi, 300 Development Materials, 15000 steel and 15000 bauxite. Modernize a CV using 5 CV twice",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either a Prototype Flight Deck Catapult OR a Ne-Type Engine OR a Night Operations Aviation Personnel + Skilled Deck Hands",
+        "hash": -1308443170
+    },
+    "906": {
+        "code": "W20B1",
+        "name": "Weekly Peach Festival Mission: Securing the waters around the Naval District!",
+        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W2-1]. S-Rank the boss nodes. Sortie to [W1-6] and reach Node N. Overlay: F10",
+        "memo": "\u27a3Rewards a Hishimochi and either a Type 3 Shell OR a Daihatsu Landing Craft OR a Type 2 12cm Mortar Kai",
+        "unlock": [ 710, 908 ],
+        "hash": 1172591554
+    },
+    "907": {
+        "code": "W20B2",
+        "name": "Peach Festival Mission: Invasion Force, Assault the Supply Depot!",
+        "desc": "Sortie 3 DD and up to 3 additional ships to node J of the event map. S-Rank the boss node twice. Overlay: F10",
+        "memo": "\u27a3Rewards two Hishimochi and either a Furniture Fairy OR two Type 3 Shells OR a Medal",
+        "unlock": [ 708, 710, 908 ],
+        "hash": 1356941738
+    },
+    "908": {
+        "code": "W20B3",
+        "name": "Peach Festival Mission: Intercept the Enemy Carrier Task Force!",
+        "desc": "Sortie 2 CV, 2 BB, 2 CA and up to 6 additional ships to node T of the event map. Secure an A-Rank or higher at the boss node four times. Overlay: F10",
+        "memo": "\u27a3Rewards four Hishimochi and either eight buckets OR two Mamiya OR ten Development Materials",
+        "unlock": [ 709, 711, 909, 910 ],
+        "hash": 392197014
+    },
+    "909": {
+        "code": "W20B4",
+        "name": "Weekly Peach Festival Mission: Mainstay of Mainstays, Heading Out!",
+        "desc": "Sortie 3 Yuugumo-class DD and up to 3-9 additional ships to [W2-2], [W2-3], [W3-5], [W7-2M] and node I of the event map. S-Rank the boss nodes. Overlay: F10",
+        "memo": "\u27a3Rewards three Hishimochi and either DE Etorofu, DE Matsuwa, DE Sado, DE Tsushima OR DE Fukae",
+        "unlock": [ 712 ],
+        "hash": -890864113
+    },
+    "910": {
+        "code": "W20B5",
+        "name": "Peach Festival Mission: Waves in the Offing, Sortie!",
+        "desc": "Sortie Okinami, 2 other Yuugumo-class DD and up to 3-9 additional ships to nodes I, J and T of the event map. Secure an A-Rank or higher at the boss nodes. Overlay: F10",
+        "memo": "\u27a3Rewards four Hishimochi and either two Mamiya OR a +4 Type 13 Air Radar Kai OR a Medal",
+        "hash": -873799366
     }
 }

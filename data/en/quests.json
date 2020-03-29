@@ -1896,6 +1896,7 @@
         "name": "Annual Kaiboukan Fleet",
         "desc": "Sortie 3 DEs and up to TWO additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W1-6]. A-Rank+ each boss node. Reach [W1-6] node N. Overlay: F10",
         "memo": "This quest resets on the first quest reset of February.\n\u203bThe Kaiboukan, Protecting the Seas!\n\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR eight Development Materials\n\u00B6Second choice: Either a Furniture Fairy OR a Type 2 Depth Charge OR a Medal",
+        "unlock": [ 914 ],
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} Reach [W1-6-N]" ]
     },

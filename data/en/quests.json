@@ -1924,14 +1924,18 @@
     "912": {
         "code": "By3",
         "name": "Annual Akashi Fleet",
-        "desc": "Sortie Akashi as flagship, 3 DDs and up to two additional ships to [W1-3], [W1-6], [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node. Reach [W1-6] node N. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March.\n\u203bRepair Ship Akashi Escort Mission\n\u27a3Rewards an Underway Replenishment and either two Emergency Repair Materials OR five Buckets OR six Development Materials"
+        "desc": "Sortie Akashi as flagship, 3 DDs and up to two additional ships to [W1-3], [W2-1], [W2-2], [W2-3] and [W1-6]. A-Rank+ each boss node. Reach [W1-6] node N. Overlay: F10",
+        "memo": "This quest resets on the first quest reset of March.\n\u203bRepair Ship Akashi Escort Mission\n\u27a3Rewards an Underway Replenishment and either two Emergency Repair Materials OR five Buckets OR six Development Materials",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W2-1]", "{0} A-Rank+ [W2-2]", "{0} A-Rank+ [W2-3]", "{0} Reach [W1-6-N]" ]
     },
     "914": {
         "code": "By4",
         "name": "Annual Heavy Cruiser Fleet",
-        "desc": "Sortie 3 CA, 1 DD and up to 2 additional ships to [W4-1], [W4-2], [W4-3] and [W4-4]. S-Rank the boss nodes of each. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Material OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws"
+        "desc": "Sortie 3 CA, 1 DD and up to 2 additional ships to [W4-1], [W4-2], [W4-3] and [W4-4]. A-Rank+ the boss nodes of each. Overlay: F10",
+        "memo": "This quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Material OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W4-1]", "{0} A-Rank+ [W4-2]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W4-4]" ]
     },
     
     
@@ -2305,7 +2309,8 @@
         "code": "D21",
         "name": "Submarine Dispatch Operation to Acquire Jet Engine Technology",
         "desc": "Have 5000 steel and 1500 bauxite. Complete Expeditions 30 and 31.",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine"
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Ne-Type Engine",
+        "unlock": [ 913 ]
     },    
     "424": {
         "code": "D22",
@@ -2391,7 +2396,9 @@
         "code": "D33",
         "name": "Annual Expeditions 2",
         "desc": "Complete Expeditions 1, 2, 3, 4 and 10.",
-        "memo": "This quest resets on the first quest reset of March.\n\u203bConduct a practice voyage and surveillance mission!\n\u27a3Rewards:\n\u00B6First choice: Either two Drum Canisters OR four Buckets\n\u00B6Second choice: Either a Daihatsu Landing Craft OR two Underway Replenishment OR a Furniture Fairy"
+        "memo": "This quest resets on the first quest reset of March.\n\u203bConduct a practice voyage and surveillance mission!\n\u27a3Rewards:\n\u00B6First choice: Either two Drum Canisters OR four Buckets\n\u00B6Second choice: Either a Daihatsu Landing Craft OR two Underway Replenishment OR a Furniture Fairy",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 1", "{0} Expedition 2", "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 10" ]
     },
     
     "501": {

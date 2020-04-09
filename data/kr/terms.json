@@ -471,6 +471,7 @@
 	"SettingsPanelOutlineBright" : "윤곽선 밝기 정도",
 	"SettingsMoonSmallFont"      : "작은 글자를 크게",
 	"SettingsMoonLightingEffect" : "광원 효과",
+	"SettingsPanelElementShape" : "일반적인 사각형",
 	"SettingsPanelBarStyle"      : "체력 바 스타일",
 	"SettingsPanelBarFluid"      : "부드럽게",
 	"SettingsPanelBarFlats"      : "단색",
@@ -481,6 +482,8 @@
 	"SettingsPanelBarRounder"    : "좀더 둥글게",
 	"SettingsPanelBarColors"     : "체력 바 색상",
 	"SettingsPanelBarDim"        : "흐릿하게",
+	"SettingsPanelConButShape" : "버튼 모양",
+	"SettingsPanelConButSkew" : "기울어진 버튼 모양",
 	"SettingsPanelCustomCSS" : "CSS 커스터마이즈",
 
 	"SettingsChuuiWarningDangerousFeature": "정말로 이 내용을 변경하실 건가요?\n이로 인한 위험은 KC3改의 책임 외의 사항입니다.\n\n주의하시기 바랍니다.",
@@ -810,6 +813,7 @@
 	"PanelPlanesBomber": "포격전에 참여하는 함재기",
 
 	"PanelToggleSounds": "소리 켜기/끄기",
+	"PanelToggleAlert" : "경고 켜기/끄기",
 	"PanelFitWindow": "창에 맞추기",
 	"PanelExportToKCDB": "Kancolle-calc DeckBuilder로 내보내기",
 	"PanelToggleQuestComplete": "임무 경과 수정 기능 켜기/끄기",
@@ -883,6 +887,7 @@
 	"ExpedTotalLos": "총 색적",
 	"ExpedTotalAa": "총 대공",
 	"ExpedTotalFp": "총 화력",
+	"ExpedTotalTorp"  : "총 뇌장",
 	"ExpedTotalImp" : "총 개수",
 	"ExpedSampleFleet": "참고 편성",
 	"ExpedEscortTip": "구축함을 대신해서 해방함을 사용할수는 있지만,\n일부 원정에는 실패할 수도 있습니다.",

@@ -1514,6 +1514,21 @@
         "memo": "Đệ Tam Nhất Khu Trục Đội gồm Asashimo, Kishinami, Okinami và Takanami.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Hộp Quà Tặng hoặc 3 Hộp Tiền Nội Thất (Lớn)\n\u00B6Lựa chọn thứ hai: Hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Huân Chương hoặc Báo Cáo Chiến Dịch",
         "hash": -1612992899
     },
+    "915": {
+        "code": "LQ1",
+        "name": "Nhiệm Vụ Giới Hạn Mùa Xuân: Bay lên hỡi Thuỷ Phi Cơ Swordfish!",
+        "desc": "Xuất kích AV làm Kỳ Hạm, 1 DD/DE và lên tới 4 Nữ Hạm khác tới [W1-4], [W2-3] và [W2-4]. A-Rank+ node boss mỗi map. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Swordfish (Mẫu Thuỷ Phi Cơ) hoặc Báo Cáo Chiến Dịch\n\u00B6Lựa chọn thứ hai: Hoặc Phi Công Tinh Nhuệ hoặc Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc 4 Ốc",
+        "unlock": [ 697 ],
+        "hash": 702827623
+    },
+    "697": {
+        "code": "LQ2",
+        "name": "Nhiệm Vụ Giới Hạn Mùa Xuân: Cải Tu Thuỷ Phi Cơ Swordfish!",
+        "desc": "Có 2500 Đạn, 4000 Bauxite, Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới và Phi Công Tinh Nhuệ. Đặt Gotland làm Thư Ký Hạm. Trang bị cho em ấy MỘT \u2605max Swordfish (Mẫu Thuỷ Phi Cơ) vào slot đầu tiên. Dỡ bỏ 3 Zuiun, 3 Thuỷ Phi Cơ Trinh Sát Kiểu 0 và Radar Phòng Không Kiểu 13 Kai",
+        "memo": "\u2718Tiêu thụ trang bị và tài nguyên.\n\u27a3Thưởng Swordfish Mk.III Kai (Mẫu Thuỷ Phi Cơ)",
+        "hash": 2046493671
+    },
     "235": {
         "code": "B135",
         "name": "Thực hiện tuần tra gần bờ!",
@@ -1566,6 +1581,12 @@
         "desc": "Xuất Kích Naganami, Kishinami, Asashimo, Okinami Kai Ni và lên tới 2 Nữ Hạm khác tới [W1-3], [W1-4], [W1-5], [W2-2] và [W2-3]. S-Rank node boss mỗi map.",
         "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 3 Tiếp Tế Trên Biển hoặc 6 Xô hoặc 2 Lương Thực Chiến Đấu (Onigiri Đặc Biệt)\n\u00B6Lựa chọn thứ hai: Hoặc Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Nguyên liệu nâng cấp trang bị phản lực mô hình mới hoặc Đồ Nội Thất: Kệ Sách Okinami"
     },
+    "913": {
+        "code": "B143",
+        "name": "Đệ Ngũ Hàng Không Chiến Đội, Tung Hoành Vô Tận!",
+        "desc": "Xuất Kích Shoukaku, Zuikaku, Oboro, Akigumo và lên tới 2 Nữ Hạm khác tới [W3-5], [W5-2], [W7-2M] và [W6-5]. S-Rank node boss. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Tiếp Tế Trên Biển hoặc 6 Xô hoặc 2 Súng máy 3 Nòng 25mm\n\u00B6Lựa chọn thứ hai: Hoặc Toukai Nguyên Mẫu hoặc Keiun Nguyên Mẫu (Mẫu Trinh Sát Hạm)"
+     },
     "201": {
         "code": "Bd1",
         "name": "Xuất kích hàng ngày 1",
@@ -1895,6 +1916,22 @@
         "trackingDesc": [ "{0} A-Rank+ [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} Reach [W1-6-N]" ]
 
     },
+    "912": {
+        "code": "By3",
+        "name": "Hạm Đội Akashi hàng năm",
+        "desc": "Xuất kích Akashi làm Kỳ Hạm, 3 DD và lên tới 2 Nữ Hạm khác tới [W1-3], [W1-6], [W2-1], [W2-2] và [W2-3]. A-Rank+ node boss mỗi map. Chạm [W1-6] node N. Overlay: F10",
+        "memo": "Nhiệm vụ này sẽ reset vào Tháng 3 hàng năm.\n\u203bNhiệm Vụ Hộ Tống Của Tàu Sửa Chữa Akashi\n\u27a3Thưởng Tiếp Tế Trên Biển và hoặc 2 Nguyên Liệu Sửa Chữa Khẩn Cấp hoặc 5 Xô hoặc 6 Nguyên Liệu Chế Tạo",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W2-1]", "{0} A-Rank+ [W2-2]", "{0} A-Rank+ [W2-3]", "{0} Reach [W1-6-N]" ]
+    },
+    "914": {
+        "code": "By4",
+        "name": "Trọng Tuần Chiến Hạm hàng năm",
+        "desc": "Xuất kích 3 CA, 1 DD và lên tới 2 Nữ Hạm khác tới [W4-1], [W4-2], [W4-3] và [W4-4]. S-Rank node boss mỗi map. Overlay: F10",
+        "memo": "Nhiệm vụ này sẽ reset vào Tháng 3 hàng năm.\n\u203bTrọng Tuần Chiến Hạm, Đến Phía Tây!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 5 Xô hoặc Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Đáy Tàu Chống Ngư Lôi (Vừa)\n\u00B6Lựa chọn thứ hai: Hoặc hai Pháo 2 Nòng 20.3cm (Số 2) hoặc 4 Ốc",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W4-1]", "{0} A-Rank+ [W4-2]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W4-4]" ]
+    },
     "301": {
         "code": "C1",
         "name": "Diễn Tập đầu tiên!",
@@ -1976,7 +2013,7 @@
         "memo": "\u27a3Thưởng Mamiya"
     },
     "315": {
-        "code": "C30",
+        "code": "C43",
         "name": "Đại Diễn Tập Mùa Xuân",
         "desc": "Giành 8 chiến thắng trong chế độ Diễn Tập trong cùng 1 ngày.",
         "memo": "\u27a3Thưởng Mamiya và Hộp Quà Tặng"
@@ -2340,9 +2377,14 @@
         "code": "D32",
         "name": "Viễn Chinh hàng năm",
         "desc": "Hoàn thành Viễn Chinh Số 3, 5, A1, A2 và 9",
-        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 2.\n\u203bThành Lập Đoàn Thuyền Hộ Vệ Đặc Biệt Bộ Tư Lệnh!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Irako hoặc 5 Xô\n\u00B6Lựa chọn thứ hai: Hoặc 2 Tiếp Tế Trên Biển hoặc 3 Ốc hoặc 2 Nữ thần sửa chữa khẩn cấp"
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bThành Lập Đoàn Thuyền Hộ Vệ Đặc Biệt Bộ Tư Lệnh!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Irako hoặc 5 Xô\n\u00B6Lựa chọn thứ hai: Hoặc 2 Tiếp Tế Trên Biển hoặc 3 Ốc hoặc 2 Nữ thần sửa chữa khẩn cấp"
     },
-
+    "436": {
+        "code": "D33",
+        "name": "Viễn Chinh hàng năm 2",
+        "desc": "Hoàn thành Viễn Chinh Số 1, 2, 3, 4 và 10.",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bNhiệm Vụ Viễn Chinh Thực Hành Giám Sát!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Thùng Chuyên Chở hoặc 4 Xô\n\u00B6Lựa chọn thứ hai: Hoặc Thuyền Daihatsu hoặc 2 Tiếp Tế Trên Biển hoặc Tiên Nội Thất"
+    },
     "501": {
         "code": "E1",
         "name": "Tiếp Tế lần đầu!",
@@ -2958,7 +3000,7 @@
         "code": "F83",
         "name": "Chuẩn bị Xưởng Trang Thiết Bị Hải Quân",
         "desc": "Có 3000 Thép. Dỡ bỏ 5 Pháo Chính Hạng Nhẹ, 5 Pháo Chính Hạng Nặng và 5 Thuỷ Phi Cơ Trinh Sát.",
-        "memo": "\u2718Tiêu Thụ Tài Nguyên.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Tiên Nội Thất hoặc 2 Ốc hoặc 5 Nguyên Liệu Chế Tạo\n\u00B6Lựa chọn thứ hai: Hoặc 2 Đáy tàu chống ngư lôi (Trung bình) hoặc 1 Đáy tàu chống ngư lôi (Lớn)"
+        "memo": "\u2718Tiêu Thụ Tài Nguyên.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Tiên Nội Thất hoặc 2 Ốc hoặc 5 Nguyên Liệu Chế Tạo\n\u00B6Lựa chọn thứ hai: Hoặc 2 Đáy Tàu Chống Ngư Lôi (Trung bình) hoặc 1 Đáy Tàu Chống Ngư Lôi (Lớn)"
     },
     "693": {
         "code": "F84",

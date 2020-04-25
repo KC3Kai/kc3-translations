@@ -251,6 +251,7 @@
 	"SettingsDetailedAPIError": "API오류 상세 내용 표시",
 
 	"SettingsGameInfo": "게임 정보",
+	"SettingsQuestListActivity" : "임무 리스트",
 	"SettingsDropFaces": "전투 드랍 예보",
 	"SettingsConstructionFaces": "건조 결과 예보",
 	"SettingsCraftBox": "개발 결과",
@@ -872,8 +873,15 @@
 	
 	"NatsuiroBasic": "기본",
 	"NatsuiroBattle": "전투",
+	"NatsuiroQuest" : "임무",
 	"NatsuiroExped": "원정",
 	"NatsuiroActivity": "활동",
+
+	"QuestFilterSortie" : "출격",
+	"QuestFilterPvP" : "연습",
+	"QuestFilterExped" : "원정",
+	"QuestFilterArsenal" : "공창",
+	"QuestFilterOthers" : "기타",
 
 	"ExpedNumLabel": "원정 번호",
 	"ExpedEstmTime": "예상시간",

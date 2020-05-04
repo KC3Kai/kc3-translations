@@ -1492,7 +1492,8 @@
         "code": "B133",
         "name": "Trọng Cải Trang Cao Tốc Chiến Hạm Kongou Kai Ni C, Đột Nhập vào Phía Nam!",
         "desc": "Xuất kích Kongou Kai Ni C làm Kỳ Hạm, 1 Nữ Hạm lớp Kongou khác, 2 DD và lên tới 2 Nữ Hạm khác tới [W5-1], [W5-3], [W5-4] và [W5-5]. S-Rank node boss mỗi map 2 lần.",
-        "memo": "\u27a3Thưởng Pháo 2 Nòng 35.6cm Kai Ni và hoặc Báo Cáo Chiến Dịch hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Huân Chương"
+        "memo": "\u27a3Thưởng Pháo 2 Nòng 35.6cm Kai Ni và hoặc Báo Cáo Chiến Dịch hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Huân Chương",
+        "unlock": [ 916 ]
     },
     "291": {
         "code": "B134",
@@ -1587,6 +1588,25 @@
         "desc": "Xuất Kích Shoukaku, Zuikaku, Oboro, Akigumo và lên tới 2 Nữ Hạm khác tới [W3-5], [W5-2], [W7-2M] và [W6-5]. S-Rank node boss. Overlay:F10",
         "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Tiếp Tế Trên Biển hoặc 6 Xô hoặc 2 Súng máy 3 Nòng 25mm\n\u00B6Lựa chọn thứ hai: Hoặc Toukai Nguyên Mẫu hoặc Keiun Nguyên Mẫu (Mẫu Trinh Sát Hạm)"
      },
+     "916": {
+        "code": "B144",
+        "name": "Hiei Kai Ni C có mặt! Đệ Tam Chiến Đội, tiến về Phía Nam!",
+        "desc": "Xuất Kích Hiei Kai Ni C, 1 Nữ Hạm FBB lớp Kongou, 1 CL, 1 DD và lên tới 2 Nữ Hạm khác tới [W5-1], [W5-2], [W5-3], [W5-4] và [W5-5]. S-Rank node boss mỗi map. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Pháo 2 Nòng 35.6cm Kai Ni\n\u00B6Lựa chọn thứ hai: Hoặc Thuỷ Phi Cơ Trinh Sát Kiểu 0 Mẫu 11B hoặc Đáy Tàu Chống Ngư Lôi (Lớn) hoặc Báo Cáo Chiến Dịch"
+      },
+      "917": {
+        "code": "B145",
+        "name": "Cải Trang Hàng Không Khinh Tuần 「Gotland Andra」, Xuất Kích!",
+        "desc": "Xuất Kích Gotland Andra làm kỳ hạm, 1 DD và lên tới 4 Nữ Hạm khác tới [W2-4], [W4-2], [W4-4] và [W4-5]. S-Rank node boss mỗi map. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Swordfish (Mẫu Thuỷ Phi Cơ) hoặc S9 Osprey hoặc Swordfish Mk.III Kai (Mẫu Thuỷ Phi Cơ)\n\u00B6Lựa chọn thứ hai: Hoặc 4 Ốc hoặc Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc Vật Phẩm Mở Rộng",
+        "unlock": [ 918 ]
+      },
+      "918": {
+        "code": "B146",
+        "name": "Chiến Đội Gotland, Tấn Công!",
+        "desc": "Xuất Kích Gotland Anra làm kỳ hạm, 1 DD và lên tới 4 Nữ Hạm khác tới [W2-5], [W6-3], [W6-4] và [W6-5]. S-Rank node boss mỗi map. Overlay:F10",
+        "memo": "\u27a3Thưởng Đồ Nội Thất Scandinavian Sofa và hoặc 2 Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc Fairey Seafox Kai"
+      },
     "201": {
         "code": "Bd1",
         "name": "Xuất kích hàng ngày 1",
@@ -1623,7 +1643,7 @@
         "name": "Xuất kích hàng ngày 5",
         "desc": "Đánh chìm 3 tàu vận tải của Hạm Đội Biển Sâu.",
         "memo": "\u203bHạm Đội Xuất Kích! Phá Huỷ Tàu Vận Tải Địch ",
-        "unlock": [ 226, 220 ],
+        "unlock": [ 226, 220, 917 ],
         "tracking": [ [0,3] ]
     },
     "212": {
@@ -1772,7 +1792,7 @@
     "264": {
         "code": "Bm6",
         "name": "Xuất kích hàng tháng 6",
-        "desc": "Xuất 2 CV(B/L), 2 DD và 2 Nữ Hạm khác tới [W4-2]. S-Rank node boss.",
+        "desc": "Xuất kích 2 CV(B/L), 2 DD và 2 Nữ Hạm khác tới [W4-2]. S-Rank node boss.",
         "memo": "\u203bKhông Mẫu Cơ Động Bộ Đội, Tiến về phía Tây!\n\u27a3Thưởng 2 Ốc",
         "unlock": [ 266, 626, 822 ]
     },
@@ -3097,7 +3117,7 @@
         "memo": "\u2623Nhiệm vụ này vẫn đang trong quá trình xác nhận. Nếu có gì sai các bạn có thể báo cho đội KC3.\n\u27a3Thưởng Đại Ngư Kỳ Kiểu 19 và hoặc Máy Định Vị Sóng Âm ASDIC kiểu 144/147 hoặc 2 Báo Cáo Chiến Dịch hoặc Đại Ngư Kỳ Kiểu 18",
         "hash": 512216414
     },
-    "882": {
+    "882_saury19": {
         "code": "SB50",
         "name": "Nhiệm Vụ Đặc Biệt: Đừng Lo, Chúng Ta Vẫn Còn Cá Mòi!",
         "desc": "Có 25 Cá Mòi trong kho.",
@@ -3105,7 +3125,7 @@
         "unlock": [ 883 ],
         "hash": 1098286056
     },
-    "883": {
+    "883_saury19": {
         "code": "SB51",
         "name": "Nhiệm Vụ Đặc Biệt: Năm Nay Đánh Bắt Cá Mòi Rất Tốt!",
         "desc": "Có 50 Cá Mòi trong kho.",
@@ -3269,13 +3289,43 @@
         "unlock": [ 712 ],
         "hash": -890864113
     },
-    "910": {
+    "910_W20": {
         "code": "W20B5",
         "name": "Nhiệm Vụ Lễ Hội Hoa Đào: Những Con Sóng Ngoài Khơi, Xuất Kích!",
         "desc": "Xuất kích Okinami, 2 Nữ Hạm lớp Yuugumo DD khác và lên tới 3-9 Nữ Hạm khác tới node I, J và T của map event. Dành chiến thắng A-Rank trở lên ở node boss. Overlay: F10",
         "memo": "\u27a3Thưởng 4 Hishimochi và hoặc 2 Mamiya hoặc +4 Radar Phòng Không Kiểu 13 Kai hoặc 1 Huân Chương",
         "hash": -873799366
-    }
+    },
+    "341": {
+        "code": "7thAnvLC1",
+        "name": "Nhiệm Vụ Kỷ Niệm 7 Năm: Khu Trục Đội 7 Diễn Tập",
+        "desc": "Giành được 3 chiến thắng A-Rank+ trong Diễn Tập trong ngày dùng 2 Nữ Hạm trong số Sazanami, Oboro, Akebono hoặc Ushio và lên tới 4 Nữ Hạm khác.",
+        "memo": "\u27a3Thưởng Mamiya và Cuộn Treo Tường Kỷ Niệm 7 Năm",
+         "hash": -1236661875
+      },
+      "882": {
+        "code": "7thAnvLB1",
+        "name": "Nhiệm Vụ Kỷ Niệm 7 Năm: Chiến Dịch Bắt Đầu",
+        "desc": "Xuất Kích 3 DD/DE và lên tới 3 Nữ Hạm khác tới [W1-2], [W1-3], [W1-4], [W1-5], [W2-1] và [W2-2]. S-Rank node boss. Overlay: F10",
+        "memo": "\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Tiên Nội Thất hoặc 3 Ốc \n\u00B6Lựa chọn thứ hai: Hoặc Thuyền Daihatsu hoặc Vật Phẩm Mở Rộng hoặc 7 Nguyên Liệu Chế Tạo",
+        "unlock": [ 883 ],
+        "hash": -581999876
+      },
+      "883": {
+        "code": "7thAnvLB2",
+        "name": "Nhiệm Vụ Kỷ Niệm 7 Năm: Nhiệm Vụ Kết Thúc",
+        "desc": "Xuất Kích 1 CL, 2 DD và lên tới 3 Nữ Hạm khác tới [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] và [W7-2M]. S-Rank node boss. Overlay: F10",
+        "memo": "\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 7 Xô hoặc Ngư Lôi (Ôxy) 3 Ống 61cm Mẫu Sau hoặc Swordfish (Mẫu Thuỷ Phi Cơ)\n\u00B6Lựa chọn thứ hai: Hoặc Huân Chương hoặc Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc Báo Cáo Chiến Dịch",
+        "unlock": [ 910 ],
+        "hash": -1745307461
+      },
+      "910": {
+        "code": "7thAnvLB3",
+        "name": "Nhiệm Vụ Kỷ Niệm 7 Năm: Chiến Dịch Mở Rộng",
+        "desc": "Xuất kích tới [W6-1], [W6-2], [W6-3], [W6-4] và [W6-5]. S-Rank node boss. Overlay: F10",
+        "memo": "\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste hoặc CL Gotland\n\u00B6Lựa chọn thứ hai: Hoặc 7 Tiếp Tế Trên Biển hoặc 7 Ốc hoặc Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới",
+        "hash": -1052875248
+      }
  }
 
 

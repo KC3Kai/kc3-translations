@@ -879,6 +879,7 @@
 	"ExpedGSRateExplainCondUnmet": "There are unfulfilled requirements for this expedition.",
 	"ExpedGSRateExplainMissingSparkle": "There are unsparkled ship(s) in the fleet.",
 	"ExpedGSRateExplainNoOverdrum": "Carrying insufficient drums imposes a penalty to the GS rate.\nNeeded: {0} / {1}",
+	"ExpedGSRateExplainSparkleAndFlagship": "Having sparkled ships and high flagship level increases the GS rate.\n\u2003Sparkled: {0}\n\u2003Flagship level: {1}",
 	"ExpedGSRateExplainSparkle": "Having sparkled ships increases the GS rate.\nCurrent: {0}",
 	
 	"ConsumablesFCoinBoxes" : "{0} \u00d7 200 box = {1}\n{2} \u00d7 400 box = {3}\n{4} \u00d7 700 box = {5}\nIn boxes = {6}\nTotal = {7}",

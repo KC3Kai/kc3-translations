@@ -912,8 +912,12 @@
 	"ExpedResupply": "보급",
 	"ExpedTotalIncome": "총 수입",
 	"ExpedGSRate": "대성공 확률",
+	
+	"ExpedGSRateExplainCondUnmet": "원정 필수 조건이 충족되지 않았습니다.",
+	"ExpedGSRateExplainMissingSparkle": "반짝이 상태가 아닌 칸무스가 있습니다.",
+	"ExpedGSRateExplainNoOverdrum": "필수 드럼통 수 이상의 드럼통을 장착할 시 대성공 확률이 상승합니다. \n 현재 수: {0}/{1}",
+	"ExpedGSRateExplainSparkleAndFlagship": "키라작이 된 칸무스와 높은 레벨의 기함이 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}\n 기함 레벨: {1}",
 	"ExpedGSRateExplainSparkle": "키라작이 된 칸무스가 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}",
-	"ExpedGSRateExplainExtraDrum": "필수 드럼통 수 이상의 드럼통을 장착할 시 대성공 확률이 상승합니다. \n 현재 수: {0}/{1}",
 
 	"ConsumablesFCoinBoxes" : "가구상자（소）x{0} = {1}\n가구상자（중）x{2} = {3}\n가구상자（대）x{4} = {5}\n전부교환하면 = {6}\n+소지가구코인 = {7}",
 

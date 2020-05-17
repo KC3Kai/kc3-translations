@@ -571,6 +571,9 @@
 	"PanelReloadReminderMessage" : "Xin hãy khởi động lại game sớm nhất có thể nếu không sẽ có khả năng bị crash \uD83D\uDE25 <br/>Thủ thuật: Bạn chỉ cần đóng Panel DevTool, sau đó ra màn hình Mẫu Cảng; rồi lại vào màn hình Nhà Tắm; rồi sau đó mở DevTool lại và đi đến màn hình Mẫu Cảng.",
 	"PanelReloadReminderLink" : "Click vào đây để thay đổi thiết lập nhắc nhở",
 
+	"PanelPermissionTitle" : "Cần quyền của bạn",
+	"PanelPermissionMessage" : "Xin hãy click biểu tượng KC3\u6539 trên thanh toolbar của trình duyệt một lần.<br/>Để sử dụng tính năng này ở trang hiện tại, hành động của bạn là điều cần thiết để cho phép KC3\u6539 được cấp quyền từ trình duyệt.",
+
 	"SpeedLand"    : "Đât liền",
 	"SpeedSlow"    : "Chậm",
 	"SpeedFast"    : "Nhanh",
@@ -871,6 +874,7 @@
 	"ExpedGSRateExplainCondUnmet": "Có yêu cầu chưa được đáp ứng cho cuộc viễn chinh này.",
 	"ExpedGSRateExplainMissingSparkle": "Có Nữ Hạm chưa lấp lánh trong hạm đội này.",
 	"ExpedGSRateExplainNoOverdrum": "Không mang đủ Thùng Chuyên Chở sẽ ảnh hưởng đến tỉ lệ Đại Thành Công.\nCần: {0} / {1}",
+	"ExpedGSRateExplainSparkleAndFlagship": "Có nhiều Nữ Hạm lấp lánh và Kỳ Hạm cấp độ cao sẽ giúp tăng tỷ lệ Đại Thành Công.\n\u2003Tàu lấp lánh: {0}\n\u2003Cấp độ Kỳ Hạm: {1}",
 	"ExpedGSRateExplainSparkle": "Có Nữ Hạm lấp lánh sẽ tăng tỉ lệ Đại Thành Công.\nHiện tại: {0}",
 
 	"ConsumablesFCoinBoxes" : "{0} \u00d7 200 hộp = {1}\n{2} \u00d7 400 hộp = {3}\n{4} \u00d7 700 hộp = {5}\nTrong các hộp = {6}\nTổng cộng = {7}",

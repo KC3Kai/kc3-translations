@@ -1607,6 +1607,37 @@
         "desc": "Sortie Gotland Andra as flagship, 1 DD and up to four additional ships to [W2-5], [W6-3], [W6-4] and [W6-5]. S-Rank each boss node. Overlay:F10",
         "memo": "\u27a3Rewards Scandinavian Sofa furniture and either two New Model Aviation Armament Materials OR a Fairey Seafox Kai"
       },
+      "919": {
+        "code": "B147",
+        "name": "Nansei Island Region Collation Patrol",
+        "desc": "Sortie 2 American ships and up to 4 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws or two Emergency Repair Materials or four Buckets\n\u00B6Second choice: Either three Tenzans OR an OS2U",
+        "unlock": [ 920 ]
+    },
+    "920": {
+        "code": "B148",
+        "name": "Collation Fleet Flagship, Remodeled Fletcher, Weigh Anchor!",
+        "desc": "Sortie Fletcher Kai Mod 2 as flagship, 3 American, British, Dutch or Australian ships and up to 2 additional ships to [W1-4], [W2-5] and [W3-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u27a3Rewards 533mm Quintulple Torpedo Mount (Late Model) and either two \u2605+3 F4F-3 or two \u2605+3 TBD or six Development Materials"
+    },
+    "921": {
+        "code": "B149",
+        "name": "Remodeled Escort Destroyer Fletcher Mk.II, Commence Operation!",
+        "desc": "Sortie Fletcher Mk.II as flagship, 3 American, British, Dutch or Australian ships and up to 2 additional ships to [W1-5], [W7-1], [W6-2] and [W6-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u27a3Rewards a RUR-4A Weapon Alpha Kai and either four Screws or a Skilled Pilot or three Underway Replenishments"
+    },
+    "922": {
+        "code": "B150",
+        "name": "Collation Fleet Extra Operation",
+        "desc": "Sortie Fletcher Mk.II as flagship, 4 American, British, Dutch or Australian ships and up to 1 additional ship to [W4-5], [W5-5] and [W6-4]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u27a3Rewards a Medal and either a Prototype Flight Deck Catapult or an ASW Lightweight Torpedo (Experimental Initial Model) or a Blueprint"
+    },
+    "923": {
+        "code": "B151",
+        "name": "Collation Carrier Task Force, Sortie!",
+        "desc": "Sortie an American or British CV(L?) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets or five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
+    },
 
 
     "201": {
@@ -2189,6 +2220,12 @@
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a 12.7cm Twin Gun Mount Model B Kai Ni OR eight Development Materials",
         "tracking": [ [0,3] ]
     },
+    "342": {
+        "code": "Cy1",
+        "name": "Annual Small Ship Exercises",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 4 DD/DE or 1 CL 3 DD/DE and up to 2 additional ships. Overlay:F10",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bSmall Ship Strengthining Exercise\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a Type 95 Depth Charge\n\u00B6Second choice: Either two Type 0 Reconnaissance Seaplanes OR three 25mm Single Autocannons OR four Buckets"
+    },    
     
     
     "401": {
@@ -2420,7 +2457,14 @@
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 1", "{0} Expedition 2", "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 10" ]
     },
-    
+    "437": {
+        "code": "D34",
+        "name": "Annual Expeditions 3",
+        "desc": "Complete Expeditions 4, A5, A6 and B1",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bStrengthen the Ogasawara Coastal Patrol Line!\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either a Daihatsu Landing Craft OR three Screws OR seven Development Materials",
+        "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A5", "{0} Expedition A6", "{0} Expedition B1" ]
+    },
+
     "501": {
         "code": "E1",
         "name": "Resupply for the First Time!",

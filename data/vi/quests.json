@@ -243,7 +243,7 @@
     "139": {
         "code": "A37",
         "name": "Thành lập Đệ Lục Tiềm Thủy Hạm Đội",
-        "desc": "Có 1 Nữ Hạm tiếp liệu tàu ngầm (AS) và 4 (hoặc hơn) Nữ Hạm tàu ngầm trong hạm đội chính.",
+        "desc": "Có 1 Nữ Hạm tiếp liệu tàu ngầm (AS) làm Kỳ Hạm và 4 (hoặc hơn) Nữ Hạm tàu ngầm trong hạm đội chính.",
         "unlock": [ 414 ]
     },
     "140": {
@@ -1588,25 +1588,59 @@
         "desc": "Xuất Kích Shoukaku, Zuikaku, Oboro, Akigumo và lên tới 2 Nữ Hạm khác tới [W3-5], [W5-2], [W7-2M] và [W6-5]. S-Rank node boss. Overlay:F10",
         "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Tiếp Tế Trên Biển hoặc 6 Xô hoặc 2 Súng máy 3 Nòng 25mm\n\u00B6Lựa chọn thứ hai: Hoặc Toukai Nguyên Mẫu hoặc Keiun Nguyên Mẫu (Mẫu Trinh Sát Hạm)"
      },
-     "916": {
+    "916": {
         "code": "B144",
         "name": "Hiei Kai Ni C có mặt! Đệ Tam Chiến Đội, tiến về Phía Nam!",
         "desc": "Xuất Kích Hiei Kai Ni C, 1 Nữ Hạm FBB lớp Kongou, 1 CL, 1 DD và lên tới 2 Nữ Hạm khác tới [W5-1], [W5-2], [W5-3], [W5-4] và [W5-5]. S-Rank node boss mỗi map. Overlay:F10",
-        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Pháo 2 Nòng 35.6cm Kai Ni\n\u00B6Lựa chọn thứ hai: Hoặc Thuỷ Phi Cơ Trinh Sát Kiểu 0 Mẫu 11B hoặc Đáy Tàu Chống Ngư Lôi (Lớn) hoặc Báo Cáo Chiến Dịch"
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Pháo 2 Nòng 35.6cm Kai Ni\n\u00B6Lựa chọn thứ hai: Hoặc Thuỷ Phi Cơ Trinh Sát Kiểu 0 Mẫu 11B hoặc \u2605+2 Đáy Tàu Chống Ngư Lôi (Lớn) hoặc Báo Cáo Chiến Dịch"
       },
-      "917": {
+    "917": {
         "code": "B145",
         "name": "Cải Trang Hàng Không Khinh Tuần 「Gotland Andra」, Xuất Kích!",
         "desc": "Xuất Kích Gotland Andra làm kỳ hạm, 1 DD và lên tới 4 Nữ Hạm khác tới [W2-4], [W4-2], [W4-4] và [W4-5]. S-Rank node boss mỗi map. Overlay:F10",
         "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Swordfish (Mẫu Thuỷ Phi Cơ) hoặc S9 Osprey hoặc Swordfish Mk.III Kai (Mẫu Thuỷ Phi Cơ)\n\u00B6Lựa chọn thứ hai: Hoặc 4 Ốc hoặc Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc Vật Phẩm Mở Rộng",
         "unlock": [ 918 ]
       },
-      "918": {
+    "918": {
         "code": "B146",
         "name": "Chiến Đội Gotland, Tấn Công!",
-        "desc": "Xuất Kích Gotland Anra làm kỳ hạm, 1 DD và lên tới 4 Nữ Hạm khác tới [W2-5], [W6-3], [W6-4] và [W6-5]. S-Rank node boss mỗi map. Overlay:F10",
+        "desc": "Xuất Kích Gotland Andra làm kỳ hạm, 1 DD và lên tới 4 Nữ Hạm khác tới [W2-5], [W6-3], [W6-4] và [W6-5]. S-Rank node boss mỗi map. Overlay:F10",
         "memo": "\u27a3Thưởng Đồ Nội Thất Scandinavian Sofa và hoặc 2 Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới hoặc Fairey Seafox Kai"
       },
+    "919": {
+        "code": "B147",
+        "name": "Kết Hợp Tuần Tra Hải Vực Quần Đảo Nansei",
+        "desc": "Xuất Kích 2 Nữ Hạm Mỹ (USS) và lên tới 4 Nữ Hạm khác tới [W2-2], [W2-3] và [W2-4]. S-Rank node boss mỗi map. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Ốc hoặc 2 Nguyên Liệu Sửa Chữa Khẩn Cấp hoặc 4 Xô\n\u00B6Lựa chọn thứ hai: Hoặc 3 Tenzan hoặc OS2U",
+        "unlock": [ 920, 923 ]
+    },
+    "920": {
+        "code": "B148",
+        "name": "Kỳ Hạm Hạm Đội Kết Hợp, Cải Trang Fletcher, Nhổ Neo!",
+        "desc": "Xuất Kích Fletcher Kai Mod 2 làm Kỳ Hạm, 2 Nữ Hạm từ US, UK, Úc hoặc Hà Lan, và lên tới 3 Nữ Hạm khác tới [W1-4], [W2-5] and [W3-5]. S-Rank node boss mỗi map. Overlay:F10",
+        "memo": "Hiện tại, có duy nhất 1 tàu Úc: Perth. Tàu Hà Lan: De Ruyter\n\u27a3Thưởng Ngư Lôi 5 Ống 533mm (Mẫu Sau) và hoặc hai \u2605+3 F4F-3 hoặc hai \u2605+3 TBD hoặc 6 Nguyên Liệu Chế Tạo",
+        "unlock": [ 921 ]
+    },
+    "921": {
+        "code": "B149",
+        "name": "Cải Trang Hộ Vệ Khu Trục Hạm Fletcher Mk.II, Bắt Đầu Chiến Dịch!",
+        "desc": "Xuất Kích Fletcher Mk.II làm Kỳ Hạm, 2 Nữ Hạm khác từ US, UK, Úc hoặc Hà Lan, và lên tới 3 Nữ Hạm khác tới [W1-5], [W7-1], [W6-2] và [W6-5]. S-Rank node boss mỗi map 2 lần. Overlay:F10",
+        "memo": "Hiện tại, có duy nhất 1 tàu Úc: Perth. Tàu Hà Lan: De Ruyter\n\u27a3Thưởng RUR-4A Weapon Alpha Kai và hoặc 4 Ốc hoặc Phi Công Tinh Nhuệ hoặc 3 Tiếp Tế Trên Biển",
+        "unlock": [ 922 ]
+    },
+    "922": {
+        "code": "B151",
+        "name": "Chiến Dịch Mở Rộng của Hạm Đội Kết Hợp",
+        "desc": "Xuất Kích Fletcher Mk.II, 3 Nữ Hạm khác từ US, UK, Úc hoặc Hà Lan, và lên tới 2 Nữ Hạm khác tới [W4-5], [W5-5] và [W6-4]. S-Rank node boss mỗi map 2 lần. Overlay:F10",
+        "memo": "Hiện tại, có duy nhất 1 tàu Úc: Perth. Tàu Hà Lan: De Ruyter\n\u27a3Thưởng Huân Chương và hoặc Bệ Phóng Máy Bay Trên Sàn Đáp Nguyên Mẫu hoặc Ngư Lôi Chống Ngầm Ngắn (Mẫu Thử Nghiệm Đầu Tiên) hoặc Bản Thiết Kế"
+    },
+    "923": {
+        "code": "B150",
+        "name": "Hạm Đội Cơ Động Bộ Đội Kết Hợp, Xuất Kích!",
+        "desc": "Xuất Kích CV(L/B) Mỹ hoặc Anh và lên tới 5 Nữ Hạm khác tới [W3-4], [W4-3], [W5-2] và [W7-2M]. S-Rank mỗi node boss. Overlay:F10",
+        "memo": "\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 4 Xô hoặc 5 Nguyên Liệu Chế Tạo\n\u00B6Lựa chọn thứ hai: Hoặc SK Radar hoặc 2 Nguyên Liệu Nâng Cấp Trang Bị Hàng Không Mô Hình Mới."
+    },
+
     "201": {
         "code": "Bd1",
         "name": "Xuất kích hàng ngày 1",
@@ -1855,7 +1889,7 @@
     "875": {
         "code": "Bq6",
         "name": "Xuất kích hàng quý 6",
-        "desc": "Xuất kích Naganami Kai Ni, 1 trong số Takanami Kai, Asashimo Kai/Kai Ni hoặc Okinami Kai, và lên tới 4 Nữ Hạm khác tới [W5-4]. S-Rank node boss",
+        "desc": "Xuất kích Naganami Kai Ni, 1 trong số Takanami Kai, Asashimo Kai/Kai Ni hoặc Okinami Kai/Kai Ni, và lên tới 4 Nữ Hạm khác tới [W5-4]. S-Rank node boss",
         "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bTinh Nhuệ Đệ Tam Nhất Khu Trục Đội, Đột Nhập vào Thiết Đế Hải Vực!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Radar Phòng Không Kiểu 13 hoặc 2 Radar Bề Mặt Kiểu 22 hoặc Báo Cáo Chiến Dịch\n\u00B6Lựa chọn thứ hai: Hoặc Nguyên Liệu Cải Tiến Pháo Kiểu Mới hoặc Hộp Quà Tặng",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
@@ -2178,7 +2212,15 @@
         "code": "C42",
         "name": "Đệ Thập Cửu Khu Trục Đội, Diễn Tập!",
         "desc": "Giành được 3 chiến thắng S-rank trong Diễn Tập trong cùng 1 ngày dùng Ayanami, Isonami, Uranami, Shikinami và lên tới 2 Nữ Hạm khác.",
-        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Mamiya hoặc 3 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Bom Chống Tàu Ngầm Kiểu 3 hoặc Pháo 2 Nòng Mẫu B Kai Ni hoặc 8 Nguyên Liệu Chế Tạo"
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Mamiya hoặc 3 Ốc\n\u00B6Lựa chọn thứ hai: Hoặc Bom Chống Tàu Ngầm Kiểu 3 hoặc Pháo 2 Nòng Mẫu B Kai Ni hoặc 8 Nguyên Liệu Chế Tạo",
+        "tracking": [ [0,3] ]
+    },
+    "342": {
+        "code": "C44",
+        "name": "Diễn Tập Nữ Hạm Nhỏ Hàng Quý",
+        "desc": "Giành được 4 chiến thắng A-Rank+ trong Diễn Tập trong cùng 1 ngầy dùng 4 DD/DE hoặc 1 CL 3 DD/DE và lên tới 2 Nữ Hạm khác. Overlay:F10",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset quest đầu tiên của Tháng 3, 6, 9 và 12.\n\u203bNhiệm Vụ Cường Hoá Nữ Hạm Nhỏ\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 4 Nguyên Liệu Chế Tạo hoặc Bom Chống Tàu Ngầm Kiểu 95\n\u00B6Lựa chọn thứ hai: Hoặc 2 Thuỷ Phi Cơ Trinh Sát Kiểu 0 hoặc ba Súng Máy 25mm hoặc 4 Xô",
+        "tracking": [ [0,4] ]
     },
 
     "401": {
@@ -2397,14 +2439,27 @@
         "code": "D32",
         "name": "Viễn Chinh hàng năm",
         "desc": "Hoàn thành Viễn Chinh Số 3, 5, A1, A2 và 9",
-        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bThành Lập Đoàn Thuyền Hộ Vệ Đặc Biệt Bộ Tư Lệnh!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Irako hoặc 5 Xô\n\u00B6Lựa chọn thứ hai: Hoặc 2 Tiếp Tế Trên Biển hoặc 3 Ốc hoặc 2 Nữ thần sửa chữa khẩn cấp"
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bThành Lập Đoàn Thuyền Hộ Vệ Đặc Biệt Bộ Tư Lệnh!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Irako hoặc 5 Xô\n\u00B6Lựa chọn thứ hai: Hoặc 2 Tiếp Tế Trên Biển hoặc 3 Ốc hoặc 2 Nữ thần sửa chữa khẩn cấp",
+        "trackingDesc": [ "{0} Expedition 3", "{0} Expedition 5", "{0} Expedition A1", "{0} Expedition A2", "{0} Expedition 9" ]
+
     },
     "436": {
         "code": "D33",
         "name": "Viễn Chinh hàng năm 2",
         "desc": "Hoàn thành Viễn Chinh Số 1, 2, 3, 4 và 10.",
-        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bNhiệm Vụ Viễn Chinh Thực Hành Giám Sát!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Thùng Chuyên Chở hoặc 4 Xô\n\u00B6Lựa chọn thứ hai: Hoặc Thuyền Daihatsu hoặc 2 Tiếp Tế Trên Biển hoặc Tiên Nội Thất"
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 3.\n\u203bNhiệm Vụ Viễn Chinh Thực Hành Giám Sát!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc 2 Thùng Chuyên Chở hoặc 4 Xô\n\u00B6Lựa chọn thứ hai: Hoặc Thuyền Daihatsu hoặc 2 Tiếp Tế Trên Biển hoặc Tiên Nội Thất",
+        "trackingDesc": [ "{0} Expedition 1", "{0} Expedition 2", "{0} Expedition 3", "{0} Expedition 4", "{0} Expedition 10" ]
+
     },
+    "437": {
+        "code": "D34",
+        "name": "Viễn Chinh hàng năm 3",
+        "desc": "Hoàn thành Viễn Chinh Số 4, A5, A6 và B1",
+        "memo": "Nhiệm vụ này sẽ reset vào lần reset đầu tiên vào Tháng 5.\n\u203bTăng Cường Tuyến Tuần Tra Ogasawara!\n\u27a3Thưởng:\n\u00B6Lựa chọn thứ nhất: Hoặc Mamiya hoặc Tiên Nội Thất\n\u00B6Lựa chọn thứ hai: Hoặc Thuyền Daihatsu hoặc 3 Ốc hoặc 7 Nguyên Liệu Chế Tạo",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A5", "{0} Expedition A6", "{0} Expedition B1" ]
+    },
+
     "501": {
         "code": "E1",
         "name": "Tiếp Tế lần đầu!",

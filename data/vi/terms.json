@@ -296,6 +296,7 @@
 	"SettingsSSDppx" : "Tỉ lệ Pixel",
 	"SettingsNormal" : "Bình thường",
 	"SettingsAuto" : "Tự động",
+	"SettingsSSSmoothing" : "Mượt ảnh",
 
 	"SettingsAlerts" : "Cảnh báo",
 	"SettingsTimeDiff" : "Hẹn giờ",
@@ -725,6 +726,7 @@
 	"PanelTaihaHp" : "Đại Phá: {0}",
 	"PanelChuuhaHpLeft" : "Trung Phá: {0} (còn lại {1})",
 	"PanelChuuhaHp" : "Trung Phá: {0}",
+	"PanelOverkillTaihaRate" : "Tỷ lệ vượt qua Đại Phá: {0}%",
 	"PanelHighestDocking" : "Thời gian sửa bằng nhà tắm lâu nhất",
 	"PanelHighestAkashi" : "Thời gian sửa bằng Akashi lâu nhất",
 	"PanelRepairMoreDays" : "Lâu hơn 24 giờ",
@@ -894,9 +896,10 @@
 
 	"SurfaceRadar" : "Radar Bề Mặt bất kỳ",
 	"AirRadar" : "Radar Phòng Không bất kỳ",
-	"TripleTorpedo" : "Ngư Lôi 3 ống 61cm hoặc Ngư lôi Oxy 3 ống 61cm ",
-	"TripleTorpedoOxygenLateModel" : "Ngư lôi Oxy 3 ống 61cm hoặc Mẫu Cuối",
-	"QuadrupleTorpedoOxygenLateModel" : "Ngư lôi Oxy 4 ống 61cm hoặc Mẫu Cuối",
+	"TripleTorpedo" : "Ngư Lôi 3 ống 61cm hoặc Ngư lôi Oxy 3 ống 61cm hoặc Mẫu Sau ",
+	"TripleTorpedoOxygenLateModel" : "Ngư lôi Oxy 3 ống 61cm hoặc Mẫu Sau",
+	"QuadrupleTorpedoOxygenLateModel" : "Ngư lôi Oxy 4 ống 61cm hoặc Mẫu Sau",
+	"SubmarineTorpedoLateModel" : "Ngư Lôi Mũi Tàu Ngầm Mẫu Sau (3 Biến Thể)",
 
 	"PvpListTitle" : "Đối thử PvP",
 	"PvpListCreateType0" : "Hạm đội luyện tập [Đệ Nhất Hạm]",

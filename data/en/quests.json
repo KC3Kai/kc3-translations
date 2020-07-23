@@ -1526,7 +1526,7 @@
     "697": {
         "code": "LQ2",
         "name": "Time-Limited Spring Mission: Remodeling the Seaplane Swordfish!",
-        "desc": "Have 2500 ammo, 4000 bauxite, a New Type Aviation Armament Material and a Skilled Pilot. Set Gotland as secretary. Equip her with a \u2605max Swordfish (Seaplane Model) in the first slot. Scrap three Zuiun, three Type 0 Reconnaissance Seaplane and a Type 13 Air Radar Kai",
+        "desc": "Have 2500 ammo, 4000 bauxite, a New Type Aviation Armament Material and a Skilled Crew Member. Set Gotland as secretary. Equip her with a \u2605max Swordfish (Seaplane Model) in the first slot. Scrap three Zuiun, three Type 0 Reconnaissance Seaplane and a Type 13 Air Radar Kai",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Swordfish Mk.III Kai (Seaplane Model)",
         "hash": 2046493671
     },
@@ -1598,7 +1598,7 @@
         "code": "B145",
         "name": "Remodeled Aviation Light Cruiser Gotland Andra, Sortie!",
         "desc": "Sortie Gotland Andra as flagship, 1 DD and up to four additional ships to [W2-4], [W4-2], [W4-4] and [W4-5]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Swordfish (Seaplane Model) OR a S9 Osprey or a Swordfish Mk.III Kai (Seaplane Model)\n\u00B6Second choice: Either 4 Screws OR a New Model Aviation Armament Material OR a Reinforcement Expansion",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Swordfish (Seaplane Model) OR a S9 Osprey OR a Swordfish Mk.III Kai (Seaplane Model)\n\u00B6Second choice: Either 4 Screws OR a New Model Aviation Armament Material OR a Reinforcement Expansion",
         "unlock": [ 918 ]
       },
       "918": {
@@ -1611,34 +1611,34 @@
         "code": "B147",
         "name": "Nansei Island Region Coalition Patrol",
         "desc": "Sortie 2 American ships and up to 4 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws or two Emergency Repair Materials or four Buckets\n\u00B6Second choice: Either three Tenzans OR an OS2U",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws OR two Emergency Repair Materials OR four Buckets\n\u00B6Second choice: Either three Tenzans OR an OS2U",
         "unlock": [ 920, 923 ]
     },
     "920": {
         "code": "B148",
         "name": "Coalition Fleet Flagship, Remodeled Fletcher, Weigh Anchor!",
-        "desc": "Sortie Fletcher Kai Mod 2 as flagship, 2 additional ships from US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-4], [W2-5] and [W3-5]. S-Rank each boss node. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards 533mm Quintuple Torpedo Mount (Late Model) and either two \u2605+3 F4F-3 or two \u2605+3 TBD or six Development Materials",
+        "desc": "Sortie Fletcher Kai Mod 2 as flagship, 2 additional ships from the US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-4], [W2-5] and [W3-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a 533mm Quintuple Torpedo Mount (Late Model) and either two \u2605+3 F4F-3 OR two \u2605+3 TBD OR six Development Materials",
         "unlock": [ 921 ]
     },
     "921": {
         "code": "B149",
         "name": "Remodeled Escort Destroyer Fletcher Mk.II, Commence Operation!",
-        "desc": "Sortie Fletcher Mk.II as flagship, 2 additional ships from US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-5], [W7-1], [W6-2] and [W6-5]. S-Rank each boss node twice. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards a RUR-4A Weapon Alpha Kai and either four Screws or a Skilled Pilot or three Underway Replenishments",
+        "desc": "Sortie Fletcher Mk.II as flagship, 2 additional ships from the US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-5], [W7-1], [W6-2] and [W6-5]. S-Rank each boss node twice. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a RUR-4A Weapon Alpha Kai and either four Screws OR a Skilled Crew Member OR three Underway Replenishments",
         "unlock": [ 922 ]
     },
     "922": {
         "code": "B151",
         "name": "Coalition Fleet Extra Operation",
-        "desc": "Sortie Fletcher Mk.II, 3 additional ships from US, UK, Australia or Netherlands, and up to two additional ship to [W4-5], [W5-5] and [W6-4]. S-Rank each boss node twice. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards a Medal and either a Prototype Flight Deck Catapult or a Lightweight ASW Torpedo (Initial Test Model) or a Blueprint"
+        "desc": "Sortie Fletcher Mk.II, 3 additional ships from the US, UK, Australia or Netherlands, and up to two additional ships to [W4-5], [W5-5] and [W6-4]. S-Rank each boss node twice. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a Medal and either a Prototype Flight Deck Catapult OR a Lightweight ASW Torpedo (Initial Test Model) OR a Blueprint"
     },
     "923": {
         "code": "B150",
         "name": "Coalition Carrier Task Force, Sortie!",
         "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets or five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
     },
 
 
@@ -1901,7 +1901,7 @@
         "code": "Bq7",
         "name": "Quarterly Mikawa Fleet",
         "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards 200 Ranking Points and either a Medal OR 5 Screws",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
@@ -1950,7 +1950,7 @@
     "903": {
         "code": "Bq13",
         "name": "Quarterly Yuubari Fleet",
-        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, two of either DesRon 6 OR Yura Kai Ni, and up to 4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
+        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, two of either DesRon 6 OR Yura Kai Ni, and up to 3 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bExpanded DesRon 6, To the Front Lines!\n\u27a3Rewards 390 Ranking Points and either 10 Buckets OR a Medal OR a New Model Artillery Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-4]", "{0} S-Rank [W6-4]", "{0} S-Rank [W6-5]" ]
@@ -3376,7 +3376,7 @@
         "code": "7thAnvLB1",
         "name": "7th Anniversary Mission: Initial Operation",
         "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5], [W2-1] and [W2-2]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion or 7 Development Materials",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion OR 7 Development Materials",
         "unlock": [ 883 ],
         "hash": -581999876
       },
@@ -3384,7 +3384,7 @@
         "code": "7thAnvLB2",
         "name": "7th Anniversary Mission: Final Operation",
         "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2M]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material or an Action Report",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report",
         "unlock": [ 910 ],
         "hash": -1745307461
       },
@@ -3392,7 +3392,7 @@
         "code": "7thAnvLB3",
         "name": "7th Anniversary Mission: Extra Operation",
         "desc": "Sortie to [W6-1], [W6-2], [W6-3], [W6-4] and [W6-5]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws or a New Model Aviation Armament Material",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws OR a New Model Aviation Armament Material",
         "hash": -1052875248
       }
 }

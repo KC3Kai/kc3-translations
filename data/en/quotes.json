@@ -1787,6 +1787,7 @@
         "Attack": "My modernization remodel isn't just for show. Fire!",
         "MVP": "I'm number one? A battle star? Alright, I accept. It's thanks to all of you. Thanks.",
         "Friend47(1)": "The Provisional Pacific Fleet has arrived on the battlefield. We'll now support the allied fleet.",
+        "Friend48(1)": "The Provisional Pacific Fleet has arrived on the battlefield. We'll now support the allied fleet.",
         "H0000": "If I must. I, Colorado, will be your secretary for today. Just for today. Don't misunderstand me.",
         "H0100": "It is 1. Well, something like this?",
         "H0200": "It is 2. Mutsu said it was \"ushimitsu\", right?",
@@ -1840,7 +1841,9 @@
         "Damaged(1)": "Argh, is the power still up? Great, I can still fight.",
         "Damaged(2)": "M-my armor isn't just for show!",
         "Damaged(3)": "Gah, my superstructure has been... is the power still up!? Tch, I'll have to fall back... then...",
-        "Sunk": "So I'm sinking... on this battlefield...... Ah, that's fine too... It's so... peaceful..."
+        "Sunk": "So I'm sinking... on this battlefield...... Ah, that's fine too... It's so... peaceful...",
+        "Friend48(1)": "USS South Dakota, acknowledging. ATTACK!",
+        "Friend48(2)": "Battleship South Dakota has arrived on the battlefield. We'll now support the friendly fleet. Open fire!"
     },
     "697": {
         "Intro": "How are you doing? Battleship South Dakota, ready to sortie. Admiral, I'm counting on you today too.",
@@ -2566,7 +2569,8 @@
         "Equip(2)": "Alright! With this, we can't lose to CarDiv 1! Right, Souryuu?",
         "Return": "The fleet has returned. After Operation MI is... It's still too soon. Ufufufu\u266a",
         "Sortie": "Fleet, sortie! Let's win decisively. Be sure to scout thoroughly!",
-        "Battle": "CarDiv 2 Bomber Squadron, take off!"
+        "Battle": "CarDiv 2 Bomber Squadron, take off!",
+        "Friend48(1)": "From: 2nd Carrier Division. To: All Fleets. We will now take charge of aerial combat! All attack squadrons, take off!"
     },
     "110": {
         "Intro": "First of the Shoukaku-class carriers, Shoukaku here.<br />I will try to live up to the names of my senpai in CarDiv 1 and CarDiv 2, fighting hard alongside Zuikaku!",
@@ -3786,7 +3790,8 @@
         "Poke(2)": "You must be tired. Shall I prepare the bath? Or perhaps dinner? Or perhaps... fufu! Just kidding.",
         "Poke(3)": "My dreams for the future? Well, let's see... one day, together with you, I would like us to open our very own cozy little restaurant... Oh, what am I saying! I'm so sorry! Please forget about it.",
         "Idle": "Admiral, I'll be standing right here, so please ask me whenever you need anything.",
-        "Supply": "Admiral, thank you very much."
+        "Supply": "Admiral, thank you very much.",
+        "Friend48(1)": "Begging your pardon, but please allow me to give it my all. Houshou attack squadrons, take off!"
     },
     "521": {
         "Intro": "I am the converted aircraft carrier known as Kasuga Maru.<br />I may be inadequate, but I want to fulfill my duty.",
@@ -4279,7 +4284,9 @@
         "Attack": "653rd, please begin takeoff!",
         "H1700": "It's 1700. Look at the sunset! Hey, I love it."
     },
-    "560": {},
+    "560": {
+        "Friend48(1)": "Here I go. Zuihou squadrons, go get them! Goooo!"
+    },
     "102": {
         "Intro": "I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!",
         "Library": "I'm the Seaplane Tender, Chitose. Although I'm an exceptional ship capable of making use of seaplanes a lot, I was used as an oiler and supplied fuel to other ships. In the latter stages of the war, I was remodeled into an aircraft carrier and fought in the frontline.",
@@ -4670,7 +4677,8 @@
         "Damaged(1)": "Hyaa!",
         "Damaged(2)": "Stop. Stop it!",
         "Damaged(3)": "What are you doing? I can't believe this, jeez!",
-        "Sunk": "So I'm sinking here too. Farewell, Admiral."
+        "Sunk": "So I'm sinking here too. Farewell, Admiral.",
+        "Friend48(1)": "The Jingei Squadron has arrived on the battlefield. We will now support the friendly fleet. Everyone, let's go!"
     },
     "639": {
         "Intro": "1st of the Jingei-class submarine tenders, Jingei, reporting. Admiral, I'm truly glad to be able to meet you. Let's continue to do our best together.",
@@ -6160,6 +6168,7 @@
         "Poke(3)": "I have 8 on my bow. I can fight now right? I won't forget that war, but I won't ever fight that way again. So I'll just keep facing the future... I won't make the same mistake again.",
         "Equip(1)": "This is good. Thanks.",
         "Attack": "Number of torpedoes: 4. Running depth: 3 metres. Begin launch. Fire!",
+        "Friend48(1)": "I-47, Yona, acknowledging. Approaching the firing position.",
         "H0000": "A new day has begun. I'm on duty today. Admiral, is that okay?",
         "H0100": "0100. It's around midnight.",
         "H0200": "0200. It's around 2am.",
@@ -6250,7 +6259,9 @@
         "2@WhiteDay": "Admiral, is that Goya's return gift? Really? Wow! Thanks for the food, dechi!",
         "2@LateFall2017": "It's definitely getting cold wearing just a swimsuit. I'm going to request some cold weather equipment from the Admiral."
     },
-    "399": {},
+    "399": {
+        "Friend48(1)": "My torpedoes are well maintained! That's why they'll definitely hit!"
+    },
     "126": {
         "Intro": "I'm I-168. What? It's hard to say? OK, just call me Imuya. Nice to meet you!",
         "Library": "I am a submarine born and raised in Kure. After that battle of Midway, I managed to land the final blow to Yorktown who defeated Hiryuu! Our carriers were avenged! I also worked hard running transport missions to that terrible island.",
@@ -7286,7 +7297,8 @@
         "Equip(2)": "This is great... I can feel my power rising...! Hey! It goes without saying that you'll let me fire a test shot, right!?",
         "Construction": "A new girl, huh? ...She's a rival. A rival!<br />Bring it on\u266a",
         "Sortie": "Ashigara, now sortieing! You can rest assured that you'll see the report of our victory and the results!",
-        "Yasen(1)": "I can't just return like this...! Charge! Charge~!"
+        "Yasen(1)": "I can't just return like this...! Charge! Charge~!",
+        "Friend48(1)": "I can't just return like this...! Charge! Charge~!"
     },
     "65": {
         "Intro": "I'm Haguro. I'm the youngest of the Myoukou-class heavy cruiser sisters. U-um... I'm sorry!",
@@ -11933,6 +11945,8 @@
         "Docking(2)": "If I don't get fixed up quickly, the squad will leave me behind...",
         "Sortie": "1st Torpedo Squadron, 18th Destroyer Division, Usugumo, sortieing. I'll work hard.",
         "Yasen(2)": "Aim well, and don't let them get close!",
+        "Friend48(1)": "Usugumo, acknowleging. Increasing speed.",
+        "Friend48(2)": "1st Torpedo Squadron, destroyer Usugumo, has arrived on the battlefield. We'll now support the friendly fleet. Let's go.",
         "H0000": "Admiral, I'll be serving as your secretary ship today. Please take care of me. It's now exactly 12am.",
         "H0100": "0100. You want to hear about the 5th Fleet? Alright then. It's quite a long story though.",
         "H0200": "0200. I was part of the destroyer contingent of the northern forces... Ah, Admiral? Are you listening?",
@@ -13125,6 +13139,8 @@
         "Poke(2)": "Shigure, what's with that look? Don't look so down. It'll go well.",
         "Join": "DesRon4, DesDiv27, Ariake, heading out! Follow me!",
         "Yasen(2)": "Over there, don't underestimate them! Fire!",
+        "Friend48(1)": "Ariake, acknowleging. Let them have it!",
+        "Friend48(2)": "DesDiv27 has arrived on the battlefield. We'll now begin the attack! Follow meee! Let's goooo!",
         "H0000": "It's after midnight? Ah, I'm on duty today. Admiral, glad to work with you! Well, just leave it all to me!",
         "H0100": "01 00. Hm? What should I do?",
         "H0200": "02 00. Eh, I should be finishing up the rest of the paperwork? Uh... I'm bad with these kinda things...",
@@ -13234,6 +13250,8 @@
         "Damaged(2)": "Whoa! Pay attention to evasive maneouvers!",
         "Damaged(3)": "J-just... you wait and see! I'll come back again and crush you!",
         "Friend45(1)": "I'll be the first to attack! Shigure, follow me!",
+        "Friend48(1)": "DesDiv27, Shiratsuyu, has arrived. We're starting the attack, follow me.",
+        "Friend48(2)": "Shiratsuyu, acknowledging. Leave it to me!",
         "4@Summer2018": "Ah, a swimsuit? Fufufun, don't worry about that. Summer will come again next year, right?"
     },
     "43": {
@@ -13354,6 +13372,7 @@
         "Friend45(1)": "Shigure of Sasebo has arrived at the operation area... It's my first time here, but... Admiral, it's a nice place, isn't it?",
         "Friend45(2)": "Shigure, acknowledging. Beginning the attack. Let's go!",
         "Friend46(1)": "Shigure of Sasebo has arrived at the operation area.",
+        "Friend48(1)": "Shigure, acknowledging. Begin the attack.",
         "1@Summer2018": "I'm the Shiratsuyu-class destroyer, Shigure. Admiral, please keep taking care of me.",
         "3@EarlySummer": "Yeah, even I'm a little embarrassed.",
         "12@EarlySummer": "I wonder. Maybe the armor is too thin, after all?",
@@ -14720,7 +14739,8 @@
         "Join": "2nd ship of the Remodelled Kagerou-class, Shiranui, deploying!",
         "Equip(1)": "Hmmm, this will do.",
         "Damaged(3)": "Fufu... I'm really angry now. Those fools.",
-        "Friend44(1)": "Alright then, sink. Sink!"
+        "Friend44(1)": "Alright then, sink. Sink!",
+        "Friend48(1)": "Shiranui, ready and waiting."
     },
     "19": {
         "Intro": "I'm Kuroshio, nice to meet 'cha!",
@@ -16251,7 +16271,8 @@
         "Return": "I've returned safely again. Thanks to you, Admiral!",
         "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
         "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!",
-        "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!"
+        "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!",
+        "Friend48(1)": "Naganami, acknowledging. Pick your targets and blow them away!"
     },
     "424": {
         "Intro": "I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!",
@@ -17153,6 +17174,7 @@
         "Equip(1)": "Not bad. Right, thanks!",
         "Sortie": "All right, I'm moving out. Hatsuzuki, sortieing! Zuikaku, Sis, leave this one to me!",
         "Damaged(3)": "Damn, the transport craft\u2026 But no\u2026 I am not going down!",
+        "Friend48(1)": "I won't lose anyone. I'll... protect everyone.",
         "H0000": "Admiral, today I'll be taking care of this for you. Ah! No! I was talking about the reports! How would you even mix that up...stupid...",
         "H0100": "Its 01:00. What's wrong? Tired? Want me to make some tea?",
         "H0200": "Its 02:00. I'm not really good at this, but here's your tea. I'll leave it here, so drink it when you get the chance.",
@@ -18109,7 +18131,9 @@
         "2@LateFall2018": "Uhihi, it's winter-su. Winter. But, winter in the Naval Base is a breeze since the drift ice doesn't come here-su. The Souya Strait will be blocked and impassable now-su. Shimushusu-su.",
         "3@Anniversary2020": "Kuna, Commander! This is totally insane! It's the fleet's 7th Anniversary. It's our 3rd Anniversary but the fleet's 7th!!"
     },
-    "376": {},
+    "376": {
+        "Friend48(1)": "You gotta do what you gotta do! Fire! Fireee!"
+    },
     "518": {
         "Intro": "I'm the 2nd ship of the Shimushu-class Kaiboukan, Kunashiri. What was that, that's wrong. That's it, you can call me Kuna if you like.",
         "Library": "I'm the 2nd ship of the Shimushu-class Kaiboukan, Kunashiri. Leave protecting the north to me.<br />Eh, I look a bit plain? What!? You know I had the important duty of patrolling Hitokappu Bay before that sortie.<br />I protected all sorts of important places like the Kuril Islands, the La P\u00e9rouse Strait, and the Tsugaru Strait\u200b while based in Oominato. Hey, are you listening?<br />In the end I worked very, very hard on important things. Although I did cause a little bit of trouble for Kamikaze, I did my best!<br />",
@@ -18288,7 +18312,8 @@
     "383": {
         "Poke(1)": "I'll really do my best!",
         "Poke(3)": "What's wrong Commander? Guarding the strait? A blockade? Fleet escort? I'm ready anytime! Eh, that's not it?",
-        "Sortie": "104th Squadron, Etorofu, sortieing! Follow me everyone!"
+        "Sortie": "104th Squadron, Etorofu, sortieing! Follow me everyone!",
+        "Friend48(1)": "I'm not going to let you do whatever you want on this sea!"
     },
     "525": {
         "Intro": "I'm the Kaiboukan, Matsuwa ...Ummm, Etorofu-chan...I'll do my best!",

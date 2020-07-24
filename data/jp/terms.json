@@ -631,7 +631,7 @@
 	"BattleContactYes"   : "有り",
 	"BattleContactNo"    : "無し",
 	"BattleAirDefend"    : "航空隊",
-	"BattleAirDefendYes" : "迎撃隊: {0}",
+	"BattleAirDefendYes" : "迎撃隊: #{0}",
 	"BattleAirDefendNo"  : "迎撃なし",
 	"BattleAirBaseLoss"  : "基地",
 	"BattleAirBaseLossTip" : "航空基地の被ダメージ計: {0}\n燃料またはボーキサイトの損害予測: {1}",

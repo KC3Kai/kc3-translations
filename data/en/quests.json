@@ -1639,15 +1639,28 @@
         "code": "B150",
         "name": "Coalition Carrier Task Force, Sortie!",
         "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either an SK Radar OR two New Model Aviation Armament Materials"
     },
     "924": {
-        "code": "B?",
+        "code": "B152",
         "name": "Aircraft Carrier Special Mission: The Incomparable Air Flotilla!",
-        "desc": "Sortie 2 CV(B) and up to 4 additional ships to [W2-4], [W2-5] and [W4-3]. S?-Rank each boss node. Overlay:F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either 88 Development Materials OR a Prototype Flight Deck Catapult OR a +4 TBF"
+        "desc": "Sortie 2 CV(B) and up to 4 additional ships to [W2-4], [W2-5] and [W4-3]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either 88 Development Materials OR a Prototype Flight Deck Catapult OR a +4 TBF",
+        "unlock": [ 925 ]
     },
-
+    "925": {
+        "code": "B153",
+        "name": "Revised Kaga-class Aircraft Carrier, Kaga Kai Ni, Setting Sail!",
+        "desc": "Sortie Kaga Kai Ni+ as flagship, 1 CV(B) and up to 4 additional ships to [W3-4], [W4-4], [W4-5] and [W5-2]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Ryuusei Kai (CarDiv 1) and either a Prototype Shuusui OR a +2 Type 1 Land-based Attack Aircraft Model 22A OR three +3 Ka Type Observation Autogyros",
+        "unlock": [ 926 ]
+    },
+    "926": {
+        "code": "B154",
+        "name": "Supreme CarDiv 1, Sortie! Strike Them Down!",
+        "desc": "Sortie Kaga Kai Ni+, Akagi Kai Ni+ and up to 4 additional ships to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a +2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a Ryuusei Kai (CarDiv 1 / Skilled)"
+    },
 
     "201": {
         "code": "Bd1",
@@ -2237,7 +2250,7 @@
         "tracking": [ [0,4] ]
     },
     "343": {
-        "code": "C?",
+        "code": "C46",
         "name": "Aircraft Carrier Exercises",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(B) as flagship, 1 other CV(B), 2 DD and up to 2 additional ships. Overlay:F10",
         "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Skilled Crew Member"
@@ -2484,8 +2497,8 @@
     "438": {
         "code": "D35",
         "name": "Annual Expeditions - August",
-        "desc": "Complete Expeditions 4, A1, 9 and B5.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of August.\n\u203bReinforce Maritime Escorts in the Nansei Islands Region!\n\u27a3Rewards ???",
+        "desc": "Complete Expeditions A1, 4, 9 and B5.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of August.\n\u203bReinforce Maritime Escorts in the Nansei Islands Region!\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR five Development Materials OR a Furniture Fairy\n\u00B6Second choice: Either three Underway Replenishments OR four Screws OR New Model Aviation Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition A1", "{0} Expedition 4", "{0} Expedition 9", "{0} Expedition B5" ]
     },
@@ -3144,6 +3157,12 @@
         "desc": "Have 1700 Ammo, 30 Dev. Mat. and 10 Flamethrowers. Set a CL(T)/CT as sec. with a 7.7mm Machine Gun in slot 1. Scrap 2 25mm Single Autocannons, 2 Drum Can. and a 12cm 30t Rocket.",
         "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 12cm Mortar Kai",
         "unlock": [ 833 ]
+    },
+    "698": {
+        "code": "F91",
+        "name": "The Introduction of a New Anti-Submarine Patrol Air Force",
+        "desc": "Have 1840 Ammo, 6200 Bauxite, 2 New Model Aviation Armament Materials, and a Skilled Crew Member. Set Kaga Kai Ni Go as secretary with a TBM-3D in slot 1. Scrap 2 TBFs, 1 Ryuusei and 1 Ryuusei Kai.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3W+3S"
     },
 
     "701": {

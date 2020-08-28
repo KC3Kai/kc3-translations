@@ -1640,6 +1640,12 @@
         "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node. Overlay:F10",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
     },
+    "924": {
+        "code": "B?",
+        "name": "Aircraft Carrier Special Mission: The Incomparable Air Flotilla!",
+        "desc": "Sortie 2 CV(B) and up to 4 additional ships to [W2-4], [W2-5] and [W4-3]. S?-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either 88 Development Materials OR a Prototype Flight Deck Catapult OR a +4 TBF"
+    },
 
 
     "201": {
@@ -1986,7 +1992,7 @@
         "code": "By4",
         "name": "Annual Heavy Cruiser Fleet",
         "desc": "Sortie 3 CA (NOT CAV), 1 DD and up to 2 additional ships to [W4-1], [W4-2], [W4-3] and [W4-4]. A-Rank+ the boss nodes of each. Overlay: F10",
-        "memo": "CAVs are still allowed as one or both of the additional ships.\nThis quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Material OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws",
+        "memo": "CAVs are still allowed as one or both of the additional ships.\nThis quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Materials OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W4-1]", "{0} A-Rank+ [W4-2]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W4-4]" ]
     },
@@ -2229,6 +2235,12 @@
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSmall Ship Strengthening Exercise\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a Type 95 Depth Charge\n\u00B6Second choice: Either two Type 0 Reconnaissance Seaplanes OR three 25mm Single Autocannons OR four Buckets",
         "tracking": [ [0,4] ]
     },
+    "343": {
+        "code": "C?",
+        "name": "Aircraft Carrier Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using a CV(B) as flagship, 1 other CV(B), 2 DD and up to 2 additional ships. Overlay:F10",
+        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Skilled Crew Member"
+    },
     
     
     "401": {
@@ -2446,7 +2458,7 @@
     },
     "434": {
         "code": "D32",
-        "name": "Annual Expeditions",
+        "name": "Annual Expeditions - February",
         "desc": "Complete Expeditions 3, 5, A1, A2 and 9.",
         "memo": "This quest resets on the first quest reset of February.\n\u203bEstablishing the Special Escort Convoy Headquarters!\n\u27a3Rewards:\n\u00B6First choice: Either two Irako OR five Buckets\n\u00B6Second choice: Either two Underway Replenishment OR three Screws OR two Emergency Repair Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
@@ -2454,7 +2466,7 @@
     },
     "436": {
         "code": "D33",
-        "name": "Annual Expeditions 2",
+        "name": "Annual Expeditions - March",
         "desc": "Complete Expeditions 1, 2, 3, 4 and 10.",
         "memo": "This quest resets on the first quest reset of March.\n\u203bConduct a practice voyage and surveillance mission!\n\u27a3Rewards:\n\u00B6First choice: Either two Drum Canisters OR four Buckets\n\u00B6Second choice: Either a Daihatsu Landing Craft OR two Underway Replenishment OR a Furniture Fairy",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
@@ -2462,11 +2474,19 @@
     },
     "437": {
         "code": "D34",
-        "name": "Annual Expeditions 3",
-        "desc": "Complete Expeditions 4, A5, A6 and B1",
+        "name": "Annual Expeditions - May",
+        "desc": "Complete Expeditions 4, A5, A6 and B1.",
         "memo": "This quest resets on the first quest reset of May.\n\u203bStrengthen the Ogasawara Coastal Patrol Line!\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either a Daihatsu Landing Craft OR three Screws OR seven Development Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A5", "{0} Expedition A6", "{0} Expedition B1" ]
+    },
+    "438": {
+        "code": "D?",
+        "name": "Annual Expeditions - August",
+        "desc": "Complete Expeditions 4, A1, 9 and B5.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of August.\n\u203bReinforce Maritime Escorts in the Nansei Islands Region!\n\u27a3Rewards ???",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A1", "{0} Expedition 9", "{0} Expedition B5" ]
     },
 
     "501": {

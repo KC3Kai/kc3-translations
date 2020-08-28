@@ -1659,7 +1659,8 @@
         "code": "B154",
         "name": "Supreme CarDiv 1, Sortie! It Will End in One Strike!",
         "desc": "Sortie Kaga Kai Ni+, Akagi Kai Ni+ and up to 4 additional ships to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a +2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a Ryuusei Kai (CarDiv 1 / Skilled)"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a +2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a Ryuusei Kai (CarDiv 1 / Skilled)",
+        "unlock": [ 698 ]
     },
 
     "201": {
@@ -2179,6 +2180,7 @@
         "name": "Quarterly Carrier Exercises",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u203bCarrier Task Force, Commence Exercises!\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment",
+        "unlock": [ 343 ],
         "tracking": [ [0,4] ]
     },
     "331": {

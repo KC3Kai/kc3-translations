@@ -572,7 +572,8 @@
         "3@Valentines2018": "Now, dessert will be my special heart-shaped chocolate cake. Alright, it's done! Now, I need to call the Admiral. Admiral! Admiral~! Huh, where's Admiral?",
         "2@Anniversary2018": "The fleet's 5th Anniversary is finally here, Admiral. Congratulations. I'm also very grateful. Let's celebrate with ramune... no, wine and a full course!",
         "3@Anniversary2019": "Admiral, the fleet has reached it's 6th Anniversary. My sincerest congratulations. I'm grateful. I'm happy too. I'll put my all into making a celebratory full course.",
-        "3@Anniversary2020": "Admiral, the fleet's 7th Anniversary is finally here. Congratulations! Shall we look back on these past 7 years? Let's have a toast with some Yamato Ramune... No, with a special reserve!"
+        "3@Anniversary2020": "Admiral, the fleet's 7th Anniversary is finally here. Congratulations! Shall we look back on these past 7 years? Let's have a toast with some Yamato Ramune... No, with a special reserve!",
+        "3@Fall2020": "During this season, having some dessert would be nice too. I'll try making up some new cold dessert. Look forward to it."
     },
     "136": {
         "Intro": "First of the Yamato-class battleships, Yamato, now with drastically improved anti-air weaponry.",
@@ -981,7 +982,8 @@
         "17@Surigao": "The 2nd Squadron will break through! Fire!",
         "19@Surigao": "Aaaaah! Y-you have to break through, Yamashiro.",
         "2@Anniversary2018": "It's the 5th Anniversary, Yamashiro. The 5th Anniversary has finally come for us Fusou sisters. Now, let's go and wish the admiral well.",
-        "2@Anniversary2019": "Yamashiro, this is important. It's our 6th Anniversary. We... we need to go greet... greet the Admiral properly."
+        "2@Anniversary2019": "Yamashiro, this is important. It's our 6th Anniversary. We... we need to go greet... greet the Admiral properly.",
+        "3@Fall2020": "Yamashiro, how about we have curry today? Some curry specially made with seasonal vegetables. Weeell? Ah, Admiral, join us."
     },
     "286": {
         "Idle": "Um... Admiral? I wonder if I wasn't heard... Admiral? Admiraal? ...Oh my, that's a relief. Fusou, waiting here on stand by.",
@@ -1045,7 +1047,8 @@
         "17@Surigao": "GET OUT OF MY WAY!",
         "19@Surigao": "Nee-sama! Tch... I'll... I'll keep moving forwards!",
         "2@Anniversary2018": "Looks like it's finally the 5th Anniversary, nee-sama. We Fusou-class sisters have made it to the 5th Anniversary. Fufu... Fufufufu... Fufufufufu...",
-        "2@Anniversary2019": "Nee-sama, it looks like our 6th Anniversary is here. How unfortunate... no, it's not unfortunate anymore! Ufu, fufufu... AHA!"
+        "2@Anniversary2019": "Nee-sama, it looks like our 6th Anniversary is here. How unfortunate... no, it's not unfortunate anymore! Ufu, fufufu... AHA!",
+        "3@Fall2020": "Nee-sama, curry you say? Sounds good, I like it too."
     },
     "287": {
         "Idle": "What...? You're saying Nee-sama and I can't go out to that part of the ocean anymore...? What do you mean by that? How dreadful... from the very start...!",
@@ -1843,7 +1846,10 @@
         "Damaged(3)": "Gah, my superstructure has been... is the power still up!? Tch, I'll have to fall back... then...",
         "Sunk": "So I'm sinking... on this battlefield...... Ah, that's fine too... It's so... peaceful...",
         "Friend48(1)": "USS South Dakota, acknowledging. ATTACK!",
-        "Friend48(2)": "Battleship South Dakota has arrived on the battlefield. We'll now support the friendly fleet. Open fire!"
+        "Friend48(2)": "Battleship South Dakota has arrived on the battlefield. We'll now support the friendly fleet. Open fire!",
+        "2@Fall2020": "What is it, Admiral? Want a candy apple? Ah, right! Let's go buy some for Kirishima too.",
+        "4@Fall2020": "It's really fun. Admiral, I think I'm falling in love with autumn here. Oh, who was she... again... Ah, Jingei! What's with the new look? Want a candy apple?",
+        "16@Fall2020": "I still won't lose looking like this! Eat this!"
     },
     "697": {
         "Intro": "How are you doing? Battleship South Dakota, ready to sortie. Admiral, I'm counting on you today too.",
@@ -2410,6 +2416,16 @@
         "H2100": "2100... *sigh*...I am back. Nothing happened.",
         "H2200": "2200... night battle... you say? I decline.",
         "H2300": "2300... today was a great day. I will be thankful if tomorrow is the same."
+    },
+    "698": {
+        "Intro": "I'm the aircraft carrier, Kaga. Admiral, I have high expectations of you today as well. Pleasure to work with you.",
+        "Library": "I'm the aircraft carrier Kaga. I was built as the 3rd battleship of the eight-eight fleet. After being played around by fate, I was completed as a large aircraft carrier. I was part of the main force of the glorious 1st Carrier Division together with Akagi. I will not give up here.",
+        "Poke(1)": "Is there... something on my face? ...OK then.",
+        "Equip(1)": "This is... a good plane. It's excellent."
+    },
+    "610": {},
+    "646": {
+        "Intro": "I'm the aircraft carrier, Kaga. Admiral, what's the matter? Are you in need of my upgraded power? There's no helping it then. I'll lend you my strength."
     },
     "90": {
         "Intro": "I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.",
@@ -3543,7 +3559,8 @@
         "Damaged(1)": "Gahh! They got me! The flight deck?",
         "Damaged(2)": "Gehh! Is this... it? No, not yet...",
         "Damaged(3)": "They're doing me in... but I won't let this continue! Don't let the explosions or fire spread. Ditch any planes on deck into the sea! We won't lose the ship!",
-        "Sunk": "The fires... the fires won't stop... they're engulfing me... I'm listing... what? That girl, she's drawing so beautifully... please, would you?"
+        "Sunk": "The fires... the fires won't stop... they're engulfing me... I'm listing... what? That girl, she's drawing so beautifully... please, would you?",
+        "2@Fall2020": "The Naval Base Autumn Festival? Sounds fun. Let's go together."
     },
     "704": {
         "Intro": "USS CV-8, Hornet. Sortie preparations are complete. Let's get through this together.",
@@ -4679,7 +4696,9 @@
         "Damaged(2)": "Stop. Stop it!",
         "Damaged(3)": "What are you doing? I can't believe this, jeez!",
         "Sunk": "So I'm sinking here too. Farewell, Admiral.",
-        "Friend48(1)": "The Jingei Squadron has arrived on the battlefield. We will now support the friendly fleet. Everyone, let's go!"
+        "Friend48(1)": "The Jingei Squadron has arrived on the battlefield. We will now support the friendly fleet. Everyone, let's go!",
+        "2@Fall2020": "Yura, that yukata looks lovely on you... Eh, I should wear one too? I wonder if I should. Eh, Admiral, y-you think so too? Alright then, just give me a minute... Hmm, how to I look? Really?",
+        "3@Fall2020": "Admiral, we've gotten through summer and reached autumn. Would you like to come with me to the Naval Base Autumn Fes-... Whoa! Eh, submarines? Eh, you want me to? No, I'm going with the Ad-... Admiral! Admiiiiiraaaal!"
     },
     "639": {
         "Intro": "1st of the Jingei-class submarine tenders, Jingei, reporting. Admiral, I'm truly glad to be able to meet you. Let's continue to do our best together.",
@@ -4915,7 +4934,8 @@
         "2@Valentines2020": "Admiral, umm, according to this fleet... Ah, fleet's custom... would you please, umm, accept these chocolates...",
         "2@WhiteDay2020": "This is... Umm... Admiral, thank you.",
         "2@Anniversary2020": "Admiral, I hear it's the fleet's 7th Anniversary. Congratulations. I-I'd like to celebrate with you too.",
-        "2@Rainy2020": "It's the rainy season. Admiral, is that a teruteru bouzu? It's well made. It's does have a certain charm to it."
+        "2@Rainy2020": "It's the rainy season. Admiral, is that a teruteru bouzu? It's well made. It's does have a certain charm to it.",
+        "2@Fall2020": "Isn't this nice? The smells. The feel. So this is what the Naval Base's Autumn Festival is like. Ah, what is that? Admiral, let's go see."
     },
     "626": {
         "Intro": "I'm the upgraded IJA Special Ship, Shinshuu Maru. Capable of combined-arms force projection during landings, I'm the predecessor of all true amphibious assault ships. My abilities have been improved even more. Please leave the landing operations to me.",
@@ -6161,7 +6181,8 @@
         "Damaged(1)": "Aaaah! St-stop that! Crash dive!",
         "Damaged(2)": "Stop it, stop it, STOP IT!",
         "Damaged(3)": "A-A depth charge!? Water is flooding in... Oh no! Blow the main ballast tanks, surface!",
-        "Sunk": "Water... water is flooding in... But... it's warm...... I'm... I'm... going to where... everyone is..."
+        "Sunk": "Water... water is flooding in... But... it's warm...... I'm... I'm... going to where... everyone is...",
+        "2@Fall2020": "The Naval Base Autumn Festival is fuuuun. Jingei looks like she's having a hard time."
     },
     "607": {
         "Intro": "I'm the 1st class submarine, 7th ship of the Type-C cruiser submarines, I-47. I've finished my maintenance. Admiral, are we heading out? Alright then.",
@@ -10319,7 +10340,8 @@
         "2@Valentines2020": "Admiral, please take this. No, there's no deeper meaning to this. Please have it with some Earl Grey.",
         "2@WhiteDay2020": "Is this for me? No way! I-it's nothing. Thanks. Oh no. I'm kind of... happy.",
         "2@Anniversary2020": "It's the 7th Fleet Anniversary, congratulations!",
-        "2@Rainy2020": "An ABDA Teruteru Doll? De Ruyter, you're really good at this. I want to try making one too. Hmmm... hmm..? Th-this is tricky"
+        "2@Rainy2020": "An ABDA Teruteru Doll? De Ruyter, you're really good at this. I want to try making one too. Hmmm... hmm..? Th-this is tricky",
+        "2@Fall2020": "So this is the Autumn Festival celebrated here. It's nice. I kinda like how it feels... What about you, Admiral?"
     },
     "618": {
         "Intro": "How are you? I'm the Perth-class light cruiser, Perth. HMAS Perth is here. Don't underestimate my strength - I was raised in Australia. Well, shall we get started?",
@@ -10386,7 +10408,8 @@
         "2@Valentines2020": "Ah, this? I think it was some kind of rule. Well, fine then. I can't guarantee the taste. Here you go.",
         "2@WhiteDay2020": "Ah, you're really a stickler for protocol, Admiral. I already forgot about this. Well, it's fine. Hmm, so they're hand made? Let me try one. Ah, it's delicious.",
         "2@Anniversary2020": "So it's the 7th Anniversary. You made it.",
-        "2@Rainy2020": "Ah, isn't that umbrella nice? I like how it looks. Is it yours, Admiral? Hmmm, I see."
+        "2@Rainy2020": "Ah, isn't that umbrella nice? I like how it looks. Is it yours, Admiral? Hmmm, I see.",
+        "2@Fall2020": "When autumn comes, I kinda get a bit scared of the night. The Naval Base Autumn Festival? Hmmm, I think... I can handle... a night like this."
     },
     "696": {
         "Intro": "How is everything? I'm the Atlanta-class anti-air cruiser, Atlanta. Reporting in. Admiral... well, I guess I'll work hard today too.",
@@ -13137,7 +13160,8 @@
         "Damaged(3)": "Ah, wait, wait I said! I can't sink yet. I'm telling you to hold on!",
         "Sunk": "So I only got this far, huh... Mika... Don't come till later. I'll be your senior on the other side. We'll unite again... later.",
         "3@Summer2020": "Alriiight! I got through it somehow. I'm feelin' good now! Huh? Speaking of which, why are you dressed like that, Shigure? Eh? Me too!?",
-        "4@Summer2020": "Oh well. I'll give it a shot too! Aaaah, this feels nice."
+        "4@Summer2020": "Oh well. I'll give it a shot too! Aaaah, this feels nice.",
+        "2@Fall2020": "Mmm, man, what a nice smell! I really love the smell of festival stalls! Admiral, where do we start? Well?"
     },
     "703": {
         "Intro": "Yo! I'm Ariake. Are you feeling alright, admiral? I see, that's good then. Are you heading out with me today as well? Good, 'Tsuyu, Shigure, let's go!",
@@ -14671,7 +14695,8 @@
         "2@YearsEnd": "It's already New Year's Eve. The year went by so quickly... I should get the cleanup done as soon as possible. Eh? Osechi? Well...",
         "2@WhiteDay": "Commander, I'll ask this once but is there any return sweets for me? ...Thank you! I'm a little happy.",
         "2@Anniversary2018": "Thank you, everyone! It's DesDiv18's 5th Anniversary. We did it! Once again, please keep taking care of us, Commander.",
-        "2@Saury2018": "Saury fishing? Alright, I'll do it. You're coming too, Shiranui. Are you ready? Huuuh, you don't need torpedoes. You just need bright lights, like this!"
+        "2@Saury2018": "Saury fishing? Alright, I'll do it. You're coming too, Shiranui. Are you ready? Huuuh, you don't need torpedoes. You just need bright lights, like this!",
+        "2@Fall2020": "Well then, it's the season for the Naval Base Autumn Festival, right? We Kagerou-class will als-... Hamakaze, what are you doing? Are you alright?"
     },
     "225": {
         "Poke(1)": "Is it Kagerou's turn?",
@@ -14730,7 +14755,8 @@
         "2@Kessen": "It's almost time for the decisive battle. DesDiv18 will strike out at full power. No, don't mind me.",
         "2@Anniversary2018": "It's our 5th Anniversary, Commander. This is a joyous occasion. I'm counting on your continued guidance and support.",
         "2@Saury2018": "Saury? Of course I haven't slacked. My preparations are all complete. When are we leaving?",
-        "2@Anniversary2019": "Commander, I hear it's the 6th Anniversary. This is a very happy occasion. I look forward to your continued guidance and support."
+        "2@Anniversary2019": "Commander, I hear it's the 6th Anniversary. This is a very happy occasion. I look forward to your continued guidance and support.",
+        "2@Fall2020": "The atmosphere of the Autumn Festival certainly isn't bad. It's time to have a little tour... Ah, I mean, do some reconnaissance. Would you care to join me?"
     },
     "226": {
         "Idle": "Shiranui is absolutely not bored. No, please don't mind me. Do as you like...",
@@ -14789,7 +14815,8 @@
         "2@EarlySummer": "Ah, I bought a new swimsuit. For no real reason, I just happened to buy it.",
         "2@Anniversary2018": "It's our 5th Anniversary, Commander. It's an important occasion. I'm happy too. Let's celebrate!",
         "2@Saury2018": "I'm named after the Kuroshio Current... So I'll have to work hard here. DesDiv15, sortieing to support saury fishing! Let's do this.",
-        "2@Anniversary2019": "Commander, our 6th Anniversary snuck up while we weren't paying attention. It's a really big deal. I'm happy too. Let's celebrate!"
+        "2@Anniversary2019": "Commander, our 6th Anniversary snuck up while we weren't paying attention. It's a really big deal. I'm happy too. Let's celebrate!",
+        "2@Fall2020": "Commander, wanna come with me to the Naval Base Autumn Festival? The food stalls look really good. Ah, it's DesDiv17? Wooow, they're really livin' it up."
     },
     "227": {
         "Poke(1)": "Chief, did'cha call me?",
@@ -16266,7 +16293,8 @@
         "2@Spring": "Ah, what's this? The flower viewing of all flower viewing? Why say it twice? Aah, so it's the idea from Yuugumo-nee. Nice, let's invite that Akigumo as well. She's surprisingly a worrywart, that person.",
         "2@WhiteDay": "Heh? Is it okay for me to accept these? Somehow, I feel bad, Admiral. I'm fine! Next year-Next year it'll happen for sure! Maybe... but, thank you.",
         "2@EarlySummer": "Wheew~  What are you wearing a swimsuit for, Yuugumo-nee? Hmm, not bad.  Oh, what's that Takanami?  I don't need that. I really dont!",
-        "3@LateFall2018": "Maan, it's gotten cold recently. Kotatsus are definitely the best. Shimakaze, Yukikaze, aren't you cold? Amazing, respect."
+        "3@LateFall2018": "Maan, it's gotten cold recently. Kotatsus are definitely the best. Shimakaze, Yukikaze, aren't you cold? Amazing, respect.",
+        "3@Fall2020": "I like this yukata too. It's kinda comfortable."
     },
     "304": {
         "Married": "Ahh~ you know your stuff, Admiral~ Lovely. This is why I can just leave it to you. Nice, just like that. It's been a while.",
@@ -16423,7 +16451,8 @@
         "3@Hina2020": "Hamacchi, cheer up. It'll be fine. I'm sure of it!",
         "2@Anniversary2020": "It's the fleet's... I see, it's the 7th Anniversary. That means we're entering our 8th year? You've been through a lot but managed to pull through. I'll do my best too. For sure!",
         "3@Anniversary2020": "I'm already home. This is my home after all. It is!",
-        "17@Anniversary2020": "I won't lose... especially at a time like thiiiiis!"
+        "17@Anniversary2020": "I won't lose... especially at a time like thiiiiis!",
+        "2@Fall2020": "Haya-chin, Hama-chin, you two are going too? Alright. Let's all go together. For sure!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -16478,7 +16507,8 @@
         "21@Valentines2020": "Oh no! No way! I'll give my life for my chocolates!",
         "3@Hina2020": "Onee-chan and Hama-chan, I'm glad we could cheer you up.",
         "2@Anniversary2020": "Sis, Hama-chan, it's the 7th Anniversary. Isn't that amazing? Hehehe. Sis, congrats.",
-        "3@Anniversary2020": "Sis, I'll go home with you. Ah, Commander? Where's sis?"
+        "3@Anniversary2020": "Sis, I'll go home with you. Ah, Commander? Where's sis?",
+        "2@Fall2020": "Sis, it's time for the Autumn Festival. Let's go together! I was looking forward to it too."
     },
     "688": {
         "Intro": "Onee-chan, Commander, thank you. 12th ship of the Yuugumo-class, Hayanami, has arrived today too.",
@@ -16561,7 +16591,8 @@
         "2@Valentines2020": "Ah, Fuu-chan. Th-thank you. I'll, mmm... savour this. *nom* *nom*... It's really...",
         "3@Hina2020": "F-fu-chan, th-thanks. I'm good. I had fun... Ah, these are souvenirs. This and this are for Ha-chan and the Commander.",
         "2@Anniversary2020": "I-it's the fleet's 7th Anniversary. Fuu-chan, Ha-chan, Commander, c-congratulations. I'm happy too.",
-        "3@Anniversary2020": "Fuu-chan, mmm, I'm fine. I'll be in my... room. Ha-chan, thank you too."
+        "3@Anniversary2020": "Fuu-chan, mmm, I'm fine. I'll be in my... room. Ha-chan, thank you too.",
+        "2@Fall2020": "Fu-chan, Ha-chan, Commander, let's all... go have fun... at the Autumn Festival. The cotton candy... is sweet... I like... this gentle... flavour."
     },
     "680": {
         "Intro": "I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. Uhh, umm, I'll... do my best.",
@@ -17305,7 +17336,8 @@
         "Damaged(1)": "Uwahh! I-I've been hit!",
         "Damaged(2)": "Ahhh! I-I'm still not...!",
         "Damaged(3)": "Ahhhhhhhhhhhh! I-I'm still not sunk! Fall back, everyone! I can still...!",
-        "Sunk": "This is it, then? All hands, abandon ship! Yotsu... the rest, the rest is up to you. I'm begging you."
+        "Sunk": "This is it, then? All hands, abandon ship! Yotsu... the rest, the rest is up to you. I'm begging you.",
+        "2@Fall2020": "Alriiight! I survived summer! Whew. *sniff* *sniff* *sniff* It smells like the Naval Base Autumn Festival! It looks so good. Isn't it great?"
     },
     "702": {
         "Intro": "I'm the Type D destroyer, first of the Matsu-class, Matsu, now in position. Don't worry, I've been improved! I will definitely protect them all, just you watch. Leave it to me!",
@@ -18553,7 +18585,8 @@
         "2@Setsubun2020": "The Oni for our Hi-Convoy Escort Squadron is... Hayasui? Please excuse me. Then I won't hesitate. Demon begone! Fortune welcome! Demon begone! Begone!",
         "2@Valentines2020": "Taiyou, what's that? Valentine chocolates? Ah, I have to make some too. Would you mind teaching me?",
         "2@WhiteDay2020": "Mikura, good work. Yes, I also got these from the Commander earlier... It really makes you feel all warm and fuzzy, doesn't it? Yes.",
-        "2@Anniversary2020": "Commander, my heartfelt congratulations on the fleet's 7th Anniversary."
+        "2@Anniversary2020": "Commander, my heartfelt congratulations on the fleet's 7th Anniversary.",
+        "2@Fall2020": "Autumn is... autumn is great, isn't it? I like autumn at this Naval Base too."
     },
     "684": {
         "Intro": "Commander, I'm the Etorofu-class coastal defense ship, Hirato, reporting for duty. Let's work together today too. Don't worry. I won't let them lay a finger on you or anyone else, Commander. So relax.",
@@ -18738,7 +18771,8 @@
         "Damaged(1)": "Aaaaah!!",
         "Damaged(2)": "Ow! My eyes... I can't see...",
         "Damaged(3)": "Aaaaaaah!! I'm flooding. I need to make it back somehow.",
-        "Sunk": "My body... is sinking... So this is what they mean by sinking... It's so cold and lonely... and sad... Everyone, I'm sorry..."
+        "Sunk": "My body... is sinking... So this is what they mean by sinking... It's so cold and lonely... and sad... Everyone, I'm sorry...",
+        "2@Fall2020": "How does my yukata look? I see. That's great."
     },
     "617": {
         "Join": "102nd Squadron, coastal defense ship Yashiro, sortieing!",
@@ -18772,7 +18806,8 @@
         "Damaged(1)": "Whoaa!",
         "Damaged(2)": "Ow, that hurts!",
         "Damaged(3)": "Argggh, that did it. Aaah, I have to get back to port...",
-        "Sunk": "No way... is this... the end for me... It can't be... Big siiiis..."
+        "Sunk": "No way... is this... the end for me... It can't be... Big siiiis...",
+        "2@Fall2020": "Woohoo! I managed to get through summer! Now it's time for the Autumn Festival! It's the season for the Naval Base Autumn Festival! I'm really pumped for it!"
     },
     "701": {
         "Intro": "Born in Yokosuka, I'm the 2nd of the Type-D coastal defense ships, Kaiboukan No.4, or Yotsu. I'm feeling great today too! Admiral, let's work hard!",

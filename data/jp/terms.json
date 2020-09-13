@@ -780,7 +780,7 @@
 	"PanelPlanesFighter" : "制空戦に参加する全戦闘機",
 	"PanelPlanesBomber"  : "開幕攻撃に参加する全戦闘機",
 
-	"InferredFighterPower"  : "推測された敵制空値: {0}\n　喪失 < {1} < 劣勢 < {2} < 均衡 < {3} < 優勢 < {4} < 確保",
+	"InferredFighterPower"  : "推測された敵制空値: {0}\n　喪失 ≤ {1} < 劣勢 ≤ {2} < 均衡 < {3} ≤ 優勢 < {4} ≤ 確保",
 	"InferredEnemyAircraft" : "推測された敵機搭載数:\n　既知の対空値ありの艦載機数: {0}、なしの数: {1}\n　航空戦に参加した数: {2}、不明: {3}",
 	"InferredLbasPlanes"    : "　基地航空隊に参加: {0}、その中偵察機: {1}、不明: {2}",
 	"InferredSupportPlanes" : "　支援艦隊航空戦に参加: {0}、不明: {1}",

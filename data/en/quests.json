@@ -1232,13 +1232,6 @@
         "memo": "\u27a3Rewards 3 Screws and an Irako",
         "unlock": [ 656, 658, 848, 850, 854, 862 ]
     },
-    "x847": {
-        "code": "SB22",
-        "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
-        "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
-        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion",
-        "hash": -24724241
-    },
     "848": {
         "code": "B92",
         "name": "Armored Heavy Cruiser, Rush into the Iron Bottom Sound!",
@@ -2018,6 +2011,12 @@
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W4-1]", "{0} A-Rank+ [W4-2]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W4-4]" ]
     },
+    "928": {
+        "code": "By5",
+        "name": "Annual 10th Area Fleet",
+        "desc": "Sortie any 2 of Haguro, Ashigara, Myoukou, Takao or Kamikaze, and up to 4 additional ships to [W7-3-P], [W7-2-M] and [W4-2]. S-Rank each boss node twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bVeteran 10th Area Fleet, Sortie at Full Force!\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR ten Development Materials\n\u00B6Second choice: two Zuiuns Model 12 OR two New Model Armament Materials OR eight Screws"
+    },
     
     
     "301": {
@@ -2531,7 +2530,7 @@
         "code": "D37",
         "name": "Annual Expeditions 2 - September",
         "desc": "Complete Expeditions 41, 5, 40, E2 and 46.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bExpeditonary Supply Line Reinforcement Mission - Extra Operation\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR an four Improvement Materials\n\u00B6Second choice: two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bExpeditonary Supply Line Reinforcement Mission - Extra Operation\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR an four Screws\n\u00B6Second choice: two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 41", "{0} Expedition 5", "{0} Expedition 40", "{0} Expedition E2", "{0} Expedition 46" ]
     },
@@ -2925,13 +2924,6 @@
         "name": "Form the Seiran 631 Air Group!",
         "desc": "Set I-401, I-13 or I-14 as secretary. Equip a Prototype Seiran in her first slot and a Zuiun (631 Air Group) in her second slot.",
         "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Seiran (631 Air Group)"
-    },
-    "x657": {
-        "code": "SF3",
-        "name": "Spring Preparatory Mission: Preparation for Hinamatsuri!",
-        "desc": "Have 5000 Furniture Coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy and a Hishimochi",
-        "unlock": [ 847 ]
     },
     "658": {
         "code": "F50",

@@ -303,5 +303,19 @@
         "name": "G.W. Limited-Time Sixth Anniversary Sortie Mission -Extra Operation-",
         "desc": "Sortie a CL(T)/CT/AV, 2 DD and up to 3 additional ships to [W3-2], [W4-5], [W5-3] and [W6-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR two Skilled Crew Members\n\u00B6Second choice: Either three New Model Artillery Armament Materials OR 88 Development Materials OR a Blueprint"
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
+        "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion",
+        "hash": -24724241
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparatory Mission: Preparation for Hinamatsuri!",
+        "desc": "Have 5000 Furniture Coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy and a Hishimochi",
+        "unlock": [ 847 ]
     }
 }

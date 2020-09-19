@@ -681,7 +681,7 @@
         "code": "B13",
         "name": "Sortie the 4th Cruiser Division!",
         "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node.",
-        "unlock": [ 890 ]
+        "unlock": [ 890, 927 ]
     },
     "224": {
         "code": "B14",
@@ -1548,7 +1548,8 @@
         "code": "B138",
         "name": "Sortie, Haguro and Kamikaze!",
         "desc": "Sortie Haguro, Kamikaze and either [4 DD] OR [1 CA(V), 2 DD and NO other ship] to [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Reinforcement Expansion OR a Furniture Fairy"
+        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Reinforcement Expansion OR a Furniture Fairy",
+        "unlock": [ 928 ]
     },
     "833": {
         "code": "B139",
@@ -2015,7 +2016,9 @@
         "code": "By5",
         "name": "Annual 10th Area Fleet",
         "desc": "Sortie any 2 of Haguro, Ashigara, Myoukou, Takao or Kamikaze, and up to 4 additional ships to [W7-3-P], [W7-2-M] and [W4-2]. S-Rank each boss node twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bVeteran 10th Area Fleet, Sortie at Full Force!\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR ten Development Materials\n\u00B6Second choice: two Zuiuns Model 12 OR two New Model Armament Materials OR eight Screws"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bVeteran 10th Area Fleet, Sortie at Full Force!\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR ten Development Materials\n\u00B6Second choice: two Zuiuns Model 12 OR two New Model Armament Materials OR eight Screws",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} S-Rank [W7-3-P]", "{0} S-Rank [W7-2-M]", "{0} S-Rank [W4-2]" ]
     },
     
     
@@ -2623,7 +2626,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675, 676, 677, 688, 803 ],
+        "unlock": [ 657, 675, 676, 677, 688, 803 ],
         "tracking": [ [0,3] ]
     },
     

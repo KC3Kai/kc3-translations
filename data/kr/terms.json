@@ -484,6 +484,7 @@
 	"SettingsPanelBarRounder"    : "좀더 둥글게",
 	"SettingsPanelBarColors"     : "체력 바 색상",
 	"SettingsPanelBarDim"        : "흐릿하게",
+	"SettingsPanelBarIndicators" : "체력 바 상태 표시",
 	"SettingsPanelConButShape" : "버튼 모양",
 	"SettingsPanelConButSkew" : "기울어진 버튼 모양",
 	"SettingsPanelCustomCSS" : "CSS 커스터마이즈",
@@ -706,6 +707,7 @@
 	"ShipEvaInterception" : "영격",
 	"ShipDeployCost" : "배치 코스트",
 	"ShipGearAntiLand" : "대지가능",
+	"ShipGearEvadeAAFire" : "대공사격회피",
 	
 	"ShipWarfareShelling" : "포격",
 	"ShipWarfareTorpedo"  : "뇌격",
@@ -942,6 +944,8 @@
 	"TripleTorpedoOxygenLateModel" : "61cm 3연장 (산소) 어뢰 OR 후기형",
 	"QuadrupleTorpedoOxygenLateModel" : "61cm 4연장 (산소) 어뢰 OR 후기형",
 	"SubmarineTorpedoLateModel" : "후기형 (53cm) 함수어뢰 (6문・8문)",
+	"Rotorcraft" : "회전익 항공기 (오토 자이로・헬기)",
+	"Helicopter" : "헬리콥터",
 	
 	"FitWeight_-3": "과적 페널티 대",
 	"FitWeight_-2": "과적 페널티 중",
@@ -1041,7 +1045,7 @@
 	"MasterShipSaltUnCheck": "존재 부인",
 	"MasterShipGoQuotes": "대사 확인",
 
-	"InferredFighterPower": "추측된 적 제공치: {0}\n 상실 < {1} < 열세 < {2} < 균형 < {3} < 우세 < {4} < 확보",
+	"InferredFighterPower": "추측된 적 제공치: {0}\n 상실 ≤ {1} < 열세 ≤ {2} < 균형 < {3} ≤ 우세 < {4} ≤ 확보",
 	"InferredEnemyAircraft": "추측된 적기 탑재수:\n 이미 알고 있는 대공치 함재기수: {0}, 모르는 수: {1}\n 항공전에 참가한 수: {2}, 불명: {3}",
 	"InferredLbasPlanes": " 기지 항공대에 참가: {0}, 참가 정찰기 수: {1}, 불명: {2}",
 	"InferredSupportPlanes": " 지원함대 항공전에 참가: {0}, 불명: {1}",

@@ -498,6 +498,7 @@
 	"SettingsPanelBarRounder" : "更圆",
 	"SettingsPanelBarColors" : "各种槽的色调",
 	"SettingsPanelBarDim" : "暗谈",
+	"SettingsPanelBarIndicators" : "体力槽伤害刻度",
 	"SettingsPanelConButShape" : "按钮控件的四角形状",
 	"SettingsPanelConButSkew" : "按钮控件斜体化",
 	"SettingsPanelCustomCSS" : "自定义CSS样式",
@@ -714,6 +715,7 @@
 	"ShipEvaInterception" : "迎击",
 	"ShipDeployCost" : "配置消耗",
 	"ShipGearAntiLand" : "能对地",
+	"ShipGearEvadeAAFire" : "对空火炮回避",
 
 	"ShipWarfareShelling" : "炮击",
 	"ShipWarfareTorpedo"  : "雷击",
@@ -825,7 +827,7 @@
 	"PanelPlanesBomber" : "参与开幕轰炸的攻击机",
 	"PanelToggleQuestComplete" : "单击可切换任务状态（完成／未完成）",
 
-	"InferredFighterPower"  : "推算的敌方制空值: {0}\n　丧失 < {1} < 劣势 < {2} < 均势 < {3} < 优势 < {4} < 确保",
+	"InferredFighterPower"  : "推算的敌方制空值: {0}\n　丧失 ≤ {1} < 劣势 ≤ {2} < 均势 < {3} ≤ 优势 < {4} ≤ 确保",
 	"InferredEnemyAircraft" : "推算的敌方舰载机数:\n　已知有对空值的舰载机总数: {0}；无对空值的总数: {1}\n　参与制空权争夺的总数: {2}；不明数: {3}",
 	"InferredLbasPlanes"    : "　参与基地航空队的总数: {0} (含侦察机: {1})；不明数: {2}",
 	"InferredSupportPlanes" : "　参与支援舰队航空战的总数: {0}；不明数: {1}",
@@ -967,6 +969,8 @@
 	"TripleTorpedoOxygenLateModel" : "61cm三连装(酸素)鱼雷 或 其后期型",
 	"QuadrupleTorpedoOxygenLateModel" : "61cm四连装(酸素)鱼雷 或 其后期型",
 	"SubmarineTorpedoLateModel" : "后期型舰首鱼雷(6门) 或 +熟练听音员 或 其53cm(8门)",
+	"Rotorcraft" : "任意旋翼航空器",
+	"Helicopter" : "任意直升机",
 
 	"PvpListTitle" : "演习对手",
 	"PvpListCreateType0" : "演习舰队【第一群】",

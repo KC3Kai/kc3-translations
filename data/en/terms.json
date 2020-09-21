@@ -440,6 +440,7 @@
 	"SettingsPanelBarRounder" : "Rounder",
 	"SettingsPanelBarColors" : "Bar Colors",
 	"SettingsPanelBarDim" : "Dim",
+	"SettingsPanelBarIndicators" : "Bar Damage State Indicators",
 	"SettingsPanelConButShape" : "Control Button Shape",
 	"SettingsPanelConButSkew" : "Tilted Control Buttons",
 	"SettingsPanelCustomCSS" : "Custom CSS",
@@ -534,9 +535,9 @@
 	"GameUpdateLink" : "Click here to learn more about this in the Strategy Room!",
 	
 	"BossDebuffedTitle"   : "A mechanism change has been detected!",
-	"BossDebuffedMessage" : "A change in event map mechanics has been detected. {0}",
-	"BossDebuffedYes"     : "Something may have been unlocked!",
-	"BossDebuffedNo"      : "Something may have been reset!",
+	"BossDebuffedMessage" : "Some sort of map effect has been triggered. {0}",
+	"BossDebuffedYes"     : "This was most likely progression toward unlocking something.",
+	"BossDebuffedNo"      : "Something appears to have been reset!",
 	
 	"CatBombServerCommErrorTitle" : "Server Communication Error",
 	"CatBombServerCommErrorMsg"   : "[{0}] failed to communicate with the server. This was most likely a connectivity error and is unrelated to your API link.",
@@ -667,6 +668,7 @@
 	"ShipEvaInterception" : "Interception",
 	"ShipDeployCost" : "Deploy-cost",
 	"ShipGearAntiLand" : "Can Anti-land",
+	"ShipGearEvadeAAFire" : "High AA-fire Evasion",
 	
 	"ShipWarfareShelling" : "Shelling",
 	"ShipWarfareTorpedo"  : "Torpedo",
@@ -776,13 +778,13 @@
 	"PanelPlanesFighter" : "Planes joining air-battle phase",
 	"PanelPlanesBomber" : "Planes joining bombing phase",
 	
-	"PanelToggleSounds" : "Toggle Sounds",
-	"PanelToggleAlert" : "Toggle Alert",
-	"PanelFitWindow" : "Fit Window",
-	"PanelExportToKCDB" : "Export to Kancolle-calc DeckBuilder",
-	"PanelToggleQuestComplete" : "Toggle Quest Completion Status",
-	"PanelReloadQuotes" : "Check Subtitles Update",
-	"PanelReloadQuests" : "Check Quests Update",
+	"PanelToggleSounds" : "Toggles in-game sound",
+	"PanelToggleAlert" : "Disables the taiha alert sound until the next API call",
+	"PanelFitWindow" : "Resizes the browser window to fit the game when not in full screen mode",
+	"PanelExportToKCDB" : "Export to the Kancolle-calc DeckBuilder",
+	"PanelToggleQuestComplete" : "Clicking this button marks the corresponding quest to be removed from the KC3\u6539 quest list.",
+	"PanelReloadQuotes" : "Check for internal quotes.json update if using a dev build",
+	"PanelReloadQuests" : "Check for internal quests.json update if using a dev build",
 	
 	"InferredFighterPower" : "Inferred Fighter Power: {0}\n\u2003AD: {1} / AP: {2} / AS: {3} / AS+: {4}",
 	"InferredEnemyAircraft" : "Inferred Enemy Aircraft:\n\u2003Known Aircraft with AA > 0: {0}\n\u2003Known Aircraft with AA = 0: {1}\n\u2003Stage1 Participants: {2}\n\u2003\u2003Unknown Aircraft: {3}",
@@ -905,6 +907,8 @@
 	"TripleTorpedoOxygenLateModel" : "61cm Triple (Oxygen) Torpedo Mount OR Late Model",
 	"QuadrupleTorpedoOxygenLateModel" : "61cm Quad (Oxygen) Torpedo Mount OR Late Model",
 	"SubmarineTorpedoLateModel" : "Late Model Bow Torpedo Mount (3 variants)",
+	"Rotorcraft" : "Any Rotorcraft",
+	"Helicopter" : "Any Helicopter",
 	
 	"PvpListTitle" : "PvP Opponents",
 	"PvpListCreateType0" : "Exercise Fleet [1st Group]",

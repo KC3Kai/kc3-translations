@@ -430,6 +430,7 @@
 	"SettingsPanelBarRounder"    : "もっと丸く角",
 	"SettingsPanelBarColors"     : "ゲージの色合い",
 	"SettingsPanelBarDim"        : "暗色",
+	"SettingsPanelBarIndicators" : "体力ゲージの目盛り",
 	"SettingsPanelConButShape"   : "操作ボタンの四角の形",
 	"SettingsPanelConButSkew"    : "操作ボタン斜めにする",
 	"SettingsPanelCustomCSS"     : "CSSカスタマイズ",
@@ -631,7 +632,7 @@
 	"BattleContactYes"   : "有り",
 	"BattleContactNo"    : "無し",
 	"BattleAirDefend"    : "航空隊",
-	"BattleAirDefendYes" : "迎撃隊: {0}",
+	"BattleAirDefendYes" : "迎撃隊: #{0}",
 	"BattleAirDefendNo"  : "迎撃なし",
 	"BattleAirBaseLoss"  : "基地",
 	"BattleAirBaseLossTip" : "航空基地の被ダメージ計: {0}\n燃料またはボーキサイトの損害予測: {1}",
@@ -668,6 +669,7 @@
 	"ShipEvaInterception" : "迎撃",
 	"ShipDeployCost" : "配置コスト",
 	"ShipGearAntiLand" : "対地可能",
+	"ShipGearEvadeAAFire" : "対空射撃回避",
 
 	"ShipWarfareShelling" : "砲戦",
 	"ShipWarfareTorpedo"  : "雷撃",
@@ -778,7 +780,7 @@
 	"PanelPlanesFighter" : "制空戦に参加する全戦闘機",
 	"PanelPlanesBomber"  : "開幕攻撃に参加する全戦闘機",
 
-	"InferredFighterPower"  : "推測された敵制空値: {0}\n　喪失 < {1} < 劣勢 < {2} < 均衡 < {3} < 優勢 < {4} < 確保",
+	"InferredFighterPower"  : "推測された敵制空値: {0}\n　喪失 ≤ {1} < 劣勢 ≤ {2} < 均衡 < {3} ≤ 優勢 < {4} ≤ 確保",
 	"InferredEnemyAircraft" : "推測された敵機搭載数:\n　既知の対空値ありの艦載機数: {0}、なしの数: {1}\n　航空戦に参加した数: {2}、不明: {3}",
 	"InferredLbasPlanes"    : "　基地航空隊に参加: {0}、その中偵察機: {1}、不明: {2}",
 	"InferredSupportPlanes" : "　支援艦隊航空戦に参加: {0}、不明: {1}",
@@ -886,6 +888,8 @@
 	"TripleTorpedoOxygenLateModel"    : "61cm三連装(酸素)魚雷・後期型",
 	"QuadrupleTorpedoOxygenLateModel" : "61cm四連装(酸素)魚雷・後期型",
 	"SubmarineTorpedoLateModel" : "後期型(53cm)艦首魚雷(6門・8門)",
+	"Rotorcraft" : "回転翼機(オートジャイロ・ヘリ)",
+	"Helicopter" : "ヘリコプター",
 
 	"PvpListTitle"       : "演習を挑む提督たち",
 	"PvpListCreateType0" : "演習艦隊【第一群】",

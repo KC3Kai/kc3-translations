@@ -498,7 +498,7 @@
         "name": "Reform the Elite 4th Carrier Division!",
         "desc": "Have Lv.50+ Ise and Lv. 50+ Hyuuga as flagship and second ship, 1 CL, 2 DD, and 1 additional ship in Fleet 1.",
         "memo": "\u27a3Rewards a Skilled Crew Member",
-        "unlock": [ 859 ]
+        "unlock": [ 859, 924 ]
     },
     "183": {
         "code": "A78",
@@ -681,7 +681,7 @@
         "code": "B13",
         "name": "Sortie the 4th Cruiser Division!",
         "desc": "Sortie Atago, Takao, Choukai, Maya and 2 additional ships to [W2-2]. B-Rank+ the boss node.",
-        "unlock": [ 890 ]
+        "unlock": [ 890, 927 ]
     },
     "224": {
         "code": "B14",
@@ -922,7 +922,8 @@
         "code": "B49",
         "name": "Advance the Carrier Task Force into the Northern Sea!",
         "desc": "Sortie a CV(B) as flagship to [W3-5]. S-Rank the boss node.",
-        "memo": "\u27a3Rewards 3 Screws"
+        "memo": "\u27a3Rewards 3 Screws",
+        "unlock": [ 924 ]
     },
     "286": {
         "code": "B48",
@@ -1231,13 +1232,6 @@
         "memo": "\u27a3Rewards 3 Screws and an Irako",
         "unlock": [ 656, 658, 848, 850, 854, 862 ]
     },
-    "847": {
-        "code": "SB22",
-        "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
-        "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
-        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion",
-        "hash": -24724241
-    },
     "848": {
         "code": "B92",
         "name": "Armored Heavy Cruiser, Rush into the Iron Bottom Sound!",
@@ -1526,7 +1520,7 @@
     "697": {
         "code": "LQ2",
         "name": "Time-Limited Spring Mission: Remodeling the Seaplane Swordfish!",
-        "desc": "Have 2500 ammo, 4000 bauxite, a New Type Aviation Armament Material and a Skilled Pilot. Set Gotland as secretary. Equip her with a \u2605max Swordfish (Seaplane Model) in the first slot. Scrap three Zuiun, three Type 0 Reconnaissance Seaplane and a Type 13 Air Radar Kai",
+        "desc": "Have 2500 ammo, 4000 bauxite, a New Type Aviation Armament Material and a Skilled Crew Member. Set Gotland as secretary. Equip her with a \u2605max Swordfish (Seaplane Model) in the first slot. Scrap three Zuiun, three Type 0 Reconnaissance Seaplane and a Type 13 Air Radar Kai",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Swordfish Mk.III Kai (Seaplane Model)",
         "hash": 2046493671
     },
@@ -1554,7 +1548,8 @@
         "code": "B138",
         "name": "Sortie, Haguro and Kamikaze!",
         "desc": "Sortie Haguro, Kamikaze and either [4 DD] OR [1 CA(V), 2 DD and NO other ship] to [W2-1], [W2-2] and [W2-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Reinforcement Expansion OR a Furniture Fairy"
+        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Reinforcement Expansion OR a Furniture Fairy",
+        "unlock": [ 928 ]
     },
     "833": {
         "code": "B139",
@@ -1598,7 +1593,7 @@
         "code": "B145",
         "name": "Remodeled Aviation Light Cruiser Gotland Andra, Sortie!",
         "desc": "Sortie Gotland Andra as flagship, 1 DD and up to four additional ships to [W2-4], [W4-2], [W4-4] and [W4-5]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Swordfish (Seaplane Model) OR a S9 Osprey or a Swordfish Mk.III Kai (Seaplane Model)\n\u00B6Second choice: Either 4 Screws OR a New Model Aviation Armament Material OR a Reinforcement Expansion",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Swordfish (Seaplane Model) OR a S9 Osprey OR a Swordfish Mk.III Kai (Seaplane Model)\n\u00B6Second choice: Either 4 Screws OR a New Model Aviation Armament Material OR a Reinforcement Expansion",
         "unlock": [ 918 ]
       },
       "918": {
@@ -1611,36 +1606,63 @@
         "code": "B147",
         "name": "Nansei Island Region Coalition Patrol",
         "desc": "Sortie 2 American ships and up to 4 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws or two Emergency Repair Materials or four Buckets\n\u00B6Second choice: Either three Tenzans OR an OS2U",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws OR two Emergency Repair Materials OR four Buckets\n\u00B6Second choice: Either three Tenzans OR an OS2U",
         "unlock": [ 920, 923 ]
     },
     "920": {
         "code": "B148",
         "name": "Coalition Fleet Flagship, Remodeled Fletcher, Weigh Anchor!",
-        "desc": "Sortie Fletcher Kai Mod 2 as flagship, 2 additional ships from US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-4], [W2-5] and [W3-5]. S-Rank each boss node. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards 533mm Quintuple Torpedo Mount (Late Model) and either two \u2605+3 F4F-3 or two \u2605+3 TBD or six Development Materials",
+        "desc": "Sortie Fletcher Kai Mod 2 as flagship, 2 additional ships from the US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-4], [W2-5] and [W3-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a 533mm Quintuple Torpedo Mount (Late Model) and either two \u2605+3 F4F-3 OR two \u2605+3 TBD OR six Development Materials",
         "unlock": [ 921 ]
     },
     "921": {
         "code": "B149",
         "name": "Remodeled Escort Destroyer Fletcher Mk.II, Commence Operation!",
-        "desc": "Sortie Fletcher Mk.II as flagship, 2 additional ships from US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-5], [W7-1], [W6-2] and [W6-5]. S-Rank each boss node twice. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards a RUR-4A Weapon Alpha Kai and either four Screws or a Skilled Pilot or three Underway Replenishments",
+        "desc": "Sortie Fletcher Mk.II as flagship, 2 additional ships from the US, UK, Australia or Netherlands, and up to 3 additional ships to [W1-5], [W7-1], [W6-2] and [W6-5]. S-Rank each boss node twice. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a RUR-4A Weapon Alpha Kai and either four Screws OR a Skilled Crew Member OR three Underway Replenishments",
         "unlock": [ 922 ]
     },
     "922": {
-        "code": "B151",
+        "code": "B150",
         "name": "Coalition Fleet Extra Operation",
-        "desc": "Sortie Fletcher Mk.II, 3 additional ships from US, UK, Australia or Netherlands, and up to two additional ship to [W4-5], [W5-5] and [W6-4]. S-Rank each boss node twice. Overlay:F10",
-        "memo": "For now, Australian ship only: Perth. Dutch ship only: De Ruyter\n\u27a3Rewards a Medal and either a Prototype Flight Deck Catapult or a Lightweight ASW Torpedo (Initial Test Model) or a Blueprint"
+        "desc": "Sortie Fletcher Mk.II, 3 additional ships from the US, UK, Australia or Netherlands, and up to two additional ships to [W4-5], [W5-5] and [W6-4]. S-Rank each boss node twice. Overlay:F10",
+        "memo": "Australian ships include: Perth\nDutch ships include: De Ruyter\n\u27a3Rewards a Medal and either a Prototype Flight Deck Catapult OR a Lightweight ASW Torpedo (Initial Test Model) OR a Blueprint"
     },
     "923": {
-        "code": "B150",
+        "code": "B151",
         "name": "Coalition Carrier Task Force, Sortie!",
         "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node. Overlay:F10",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets or five Development Materials\n\u00B6Second choice: Either a SK Radar OR two New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either an SK Radar OR two New Model Aviation Armament Materials"
     },
-
+    "924": {
+        "code": "B152",
+        "name": "Aircraft Carrier Special Mission: The Incomparable Air Flotilla!",
+        "desc": "Sortie 2 CV(B) and up to 4 additional ships to [W2-4], [W2-5] and [W4-3]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Medal and either 88 Development Materials OR a Prototype Flight Deck Catapult OR a +4 TBF",
+        "unlock": [ 925 ]
+    },
+    "925": {
+        "code": "B153",
+        "name": "Revised Kaga-class Aircraft Carrier, Kaga Kai Ni, Setting Sail!",
+        "desc": "Sortie Kaga Kai Ni+ as flagship, 1 CV(B) and up to 4 additional ships to [W3-4], [W4-4], [W4-5] and [W5-2]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Ryuusei Kai (CarDiv 1) and either a Prototype Shuusui OR a +2 Type 1 Land-based Attack Aircraft Model 22A OR three +3 Ka Type Observation Autogyros",
+        "unlock": [ 926 ]
+    },
+    "926": {
+        "code": "B154",
+        "name": "Supreme CarDiv 1, Sortie! It Will End in One Strike!",
+        "desc": "Sortie Kaga Kai Ni+, Akagi Kai Ni+ and up to 4 additional ships to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank each boss node. Overlay:F10",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a +2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a Ryuusei Kai (CarDiv 1 / Skilled)",
+        "unlock": [ 698 ]
+    },
+    "927": {
+        "code": "B155",
+        "name": "Sortie, Heavy Cruiser Haguro! The Battle of the Malacca Strait",
+        "desc": "Sortie Haguro as flagship and up to 4 additional ships to [W7-3-E]. A-Rank+ boss node 4 times. Overlay:F10",
+        "memo": "Your fleet cannot exceed 5 ships for this quest.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +6 20.3cm (No.3) Twin Gun Mount and either an Action Report OR a New Model Armament Materials",
+        "unlock": [ 928 ]
+    },
 
     "201": {
         "code": "Bd1",
@@ -1901,7 +1923,7 @@
         "code": "Bq7",
         "name": "Quarterly Mikawa Fleet",
         "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards 200 Ranking Points and either a Medal OR 5 Screws",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
@@ -1950,7 +1972,7 @@
     "903": {
         "code": "Bq13",
         "name": "Quarterly Yuubari Fleet",
-        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, two of either DesRon 6 OR Yura Kai Ni, and up to 4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
+        "desc": "Sortie Yuubari Kai Ni/Toku/D as flagship, either Yura Kai Ni OR two of DesRon 6, and up to 4 additional ships to [W5-1], [W5-4], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
         "memo": "DesRon 6 members include Mutsuki, Kisaragi, Yayoi, Uzuki, Kikuzuki and Mochizuki.\nThis quest resets on the first quest reset of March, June, September and December.\n\u203bExpanded DesRon 6, To the Front Lines!\n\u27a3Rewards 390 Ranking Points and either 10 Buckets OR a Medal OR a New Model Artillery Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-4]", "{0} S-Rank [W6-4]", "{0} S-Rank [W6-5]" ]
@@ -1985,10 +2007,18 @@
     "914": {
         "code": "By4",
         "name": "Annual Heavy Cruiser Fleet",
-        "desc": "Sortie 3 CA, 1 DD and up to 2 additional ships to [W4-1], [W4-2], [W4-3] and [W4-4]. A-Rank+ the boss nodes of each. Overlay: F10",
-        "memo": "This quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Material OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws",
+        "desc": "Sortie 3 CA (NOT CAV), 1 DD and up to 2 additional ships to [W4-1], [W4-2], [W4-3] and [W4-4]. A-Rank+ the boss nodes of each. Overlay: F10",
+        "memo": "CAVs are still allowed as one or both of the additional ships.\nThis quest resets on the first quest reset of March.\n\u203bHeavy Cruiser Squadron, to the West!\n\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR a New Model Artillery Armament Materials OR an Anti-Torpedo Bulge (Medium)\n\u00B6Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR four Screws",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W4-1]", "{0} A-Rank+ [W4-2]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W4-4]" ]
+    },
+    "928": {
+        "code": "By5",
+        "name": "Annual 10th Area Fleet",
+        "desc": "Sortie any 2 of Haguro, Ashigara, Myoukou, Takao or Kamikaze, and up to 4 additional ships to [W7-3-P], [W7-2-M] and [W4-2]. S-Rank each boss node twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bVeteran 10th Area Fleet, Sortie at Full Force!\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR ten Development Materials\n\u00B6Second choice: two Zuiuns Model 12 OR two New Model Armament Materials OR eight Screws",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} S-Rank [W7-3-P]", "{0} S-Rank [W7-2-M]", "{0} S-Rank [W4-2]" ]
     },
     
     
@@ -2060,7 +2090,7 @@
         "unlock": [ 330, 636 ]
     },
     "313": {
-        "code": "C40",
+        "code": "C47",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box",
@@ -2159,6 +2189,7 @@
         "name": "Quarterly Carrier Exercises",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(L/B) flagship, 1 other CV(L/B), 2 DD and up to 2 additional ships. F10 will clear the overlay.",
         "memo": "\u203bCarrier Task Force, Commence Exercises!\n\u00B6First choice: Either four Type 99 Dive Bombers OR two Suisei OR three Development Materials\n\u00B6Second choice: Either three Type 0 Fighter Model 21s OR two Type 0 Fighter Model 52s OR an Underway Replenishment",
+        "unlock": [ 343 ],
         "tracking": [ [0,4] ]
     },
     "331": {
@@ -2228,6 +2259,19 @@
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 4 DD/DE or 1 CL 3 DD/DE and up to 2 additional ships. Overlay:F10",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bSmall Ship Strengthening Exercise\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a Type 95 Depth Charge\n\u00B6Second choice: Either two Type 0 Reconnaissance Seaplanes OR three 25mm Single Autocannons OR four Buckets",
         "tracking": [ [0,4] ]
+    },
+    "343": {
+        "code": "C46",
+        "name": "Aircraft Carrier Exercises",
+        "desc": "Secure 4 victories in Exercises within the same day using a CV(B) as flagship, 1 other CV(B), 2 DD and up to 2 additional ships. Overlay:F10",
+        "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Skilled Crew Member",
+        "unlock": [ 698 ]
+    },
+    "344": {
+        "code": "C48",
+        "name": "10th Area Fleet Exercises!",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 2 of Haguro, Ashigara or Kamikaze and up to 4 additional ships. Overlay:F10",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Screws OR four Buckets\n\u00B6Second choice: Either two 25mm Triple Autocannon Mounts OR a New Model Armament Materials"
     },
     
     
@@ -2446,7 +2490,7 @@
     },
     "434": {
         "code": "D32",
-        "name": "Annual Expeditions",
+        "name": "Annual Expeditions - February",
         "desc": "Complete Expeditions 3, 5, A1, A2 and 9.",
         "memo": "This quest resets on the first quest reset of February.\n\u203bEstablishing the Special Escort Convoy Headquarters!\n\u27a3Rewards:\n\u00B6First choice: Either two Irako OR five Buckets\n\u00B6Second choice: Either two Underway Replenishment OR three Screws OR two Emergency Repair Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
@@ -2454,7 +2498,7 @@
     },
     "436": {
         "code": "D33",
-        "name": "Annual Expeditions 2",
+        "name": "Annual Expeditions - March",
         "desc": "Complete Expeditions 1, 2, 3, 4 and 10.",
         "memo": "This quest resets on the first quest reset of March.\n\u203bConduct a practice voyage and surveillance mission!\n\u27a3Rewards:\n\u00B6First choice: Either two Drum Canisters OR four Buckets\n\u00B6Second choice: Either a Daihatsu Landing Craft OR two Underway Replenishment OR a Furniture Fairy",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
@@ -2462,11 +2506,36 @@
     },
     "437": {
         "code": "D34",
-        "name": "Annual Expeditions 3",
-        "desc": "Complete Expeditions 4, A5, A6 and B1",
+        "name": "Annual Expeditions - May",
+        "desc": "Complete Expeditions 4, A5, A6 and B1.",
         "memo": "This quest resets on the first quest reset of May.\n\u203bStrengthen the Ogasawara Coastal Patrol Line!\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either a Daihatsu Landing Craft OR three Screws OR seven Development Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 4", "{0} Expedition A5", "{0} Expedition A6", "{0} Expedition B1" ]
+    },
+    "438": {
+        "code": "D35",
+        "name": "Annual Expeditions - August",
+        "desc": "Complete Expeditions A1, 4, 9 and B5.",
+        "memo": "This quest resets on the first quest reset of August.\n\u203bReinforce Maritime Escorts in the Nansei Islands Region!\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR five Development Materials OR a Furniture Fairy\n\u00B6Second choice: Either three Underway Replenishments OR four Screws OR New Model Aviation Armament Materials",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition A1", "{0} Expedition 4", "{0} Expedition 9", "{0} Expedition B5" ]
+    },
+    "439": {
+        "code": "D36",
+        "name": "Annual Expeditions 1 - September",
+        "desc": "Complete Expeditions 5, A1, 11 and B1.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bExpeditionary Supply Line Reinforcement Mission - Initial Operation\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR an Irako\n\u00B6Second choice: Either six Buckets OR a New Model Armament Materials",
+        "unlock": [ 440 ],
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 5", "{0} Expedition A1", "{0} Expedition 11", "{0} Expedition B1" ]
+    },
+    "440": {
+        "code": "D37",
+        "name": "Annual Expeditions 2 - September",
+        "desc": "Complete Expeditions 41, 5, 40, E2 and 46.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bExpeditionary Supply Line Reinforcement Mission - Extra Operation\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR four Screws\n\u00B6Second choice: two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 41", "{0} Expedition 5", "{0} Expedition 40", "{0} Expedition E2", "{0} Expedition 46" ]
     },
 
     "501": {
@@ -2557,7 +2626,7 @@
         "name": "Daily AA Gun Dismantlement",
         "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
         "memo": "\u203bArsenal Environmental Consolidation",
-        "unlock": [ 675, 676, 677, 688, 803 ],
+        "unlock": [ 657, 675, 676, 677, 688, 803 ],
         "tracking": [ [0,3] ]
     },
     
@@ -2859,13 +2928,6 @@
         "desc": "Set I-401, I-13 or I-14 as secretary. Equip a Prototype Seiran in her first slot and a Zuiun (631 Air Group) in her second slot.",
         "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Seiran (631 Air Group)"
     },
-    "657": {
-        "code": "SF3",
-        "name": "Spring Preparatory Mission: Preparation for Hinamatsuri!",
-        "desc": "Have 5000 Furniture Coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy and a Hishimochi",
-        "unlock": [ 847 ]
-    },
     "658": {
         "code": "F50",
         "name": "Submarine Armament Enhancement",
@@ -3115,7 +3177,7 @@
         "code": "F88",
         "name": "Formation of the CarDiv 1's Elite Ryuusei Squadron",
         "desc": "Have 2800 Ammo, 9000 Baux. and 2 Sk. Crew Members. Set Akagi Kai Ni as secretary with a >> Ryuusei Kai (CarDiv 1) in her 1st slot. Scrap 4 Ryuusei Kai, a Saiun and 2 T97 Torp. Bombers.",
-        "memo": "Agaki Kai Ni E is also acceptable.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ryuusei Kai (CarDiv 1 / Skilled)"
+        "memo": "Akagi Kai Ni E is also acceptable.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Ryuusei Kai (CarDiv 1 / Skilled)"
     },
     "621": {
         "code": "F89",
@@ -3123,6 +3185,20 @@
         "desc": "Have 1700 Ammo, 30 Dev. Mat. and 10 Flamethrowers. Set a CL(T)/CT as sec. with a 7.7mm Machine Gun in slot 1. Scrap 2 25mm Single Autocannons, 2 Drum Can. and a 12cm 30t Rocket.",
         "memo": "\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 12cm Mortar Kai",
         "unlock": [ 833 ]
+    },
+    "698": {
+        "code": "F91",
+        "name": "The Introduction of a New Anti-Submarine Patrol Air Force",
+        "desc": "Have 1840 Ammo, 6200 Bauxite, 2 New Model Aviation Armament Materials, and a Skilled Crew Member. Set Kaga Kai Ni Go as secretary with a TBM-3D in slot 1. Scrap 2 TBFs, 1 Ryuusei and 1 Ryuusei Kai.",
+        "memo": "\u2623\u2623\u2623KAGA MUST BE IN HER \"Go\" REMODEL!!!!\u2623\u2623\u2623\nConsider scrapping the Ryuuseis first and see if the quest list in-game shows progress before scrapping your TBFs.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Consumes the resources, items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a TBM-3W+3S"
+    },
+    "657": {
+        "code": "F92",
+        "name": "Annual Arsenal - September",
+        "desc": "Have 4000 Steel. Scrap 6 Small Caliber Main Guns, 5 Medium Caliber Main Guns and 4 Torpedoes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of September.\n\u203bSupplemental Consolidation for New Model Armament Development\n\u2718Consumes the resources.\n\u27a3Rewards ten Development Materials and either five Screws OR two New Model Armament Materials",
+        "tracking": [ [0,6], [0,5], [0,4] ],
+        "trackingDesc": [ "{0} Small Cal. Main Guns", "{0} Medium Cal. Main Guns", "{0} Torpedoes" ]
     },
 
     "701": {
@@ -3376,7 +3452,7 @@
         "code": "7thAnvLB1",
         "name": "7th Anniversary Mission: Initial Operation",
         "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5], [W2-1] and [W2-2]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion or 7 Development Materials",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion OR 7 Development Materials",
         "unlock": [ 883 ],
         "hash": -581999876
       },
@@ -3384,7 +3460,7 @@
         "code": "7thAnvLB2",
         "name": "7th Anniversary Mission: Final Operation",
         "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2M]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material or an Action Report",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report",
         "unlock": [ 910 ],
         "hash": -1745307461
       },
@@ -3392,7 +3468,7 @@
         "code": "7thAnvLB3",
         "name": "7th Anniversary Mission: Extra Operation",
         "desc": "Sortie to [W6-1], [W6-2], [W6-3], [W6-4] and [W6-5]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws or a New Model Aviation Armament Material",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws OR a New Model Aviation Armament Material",
         "hash": -1052875248
       }
 }

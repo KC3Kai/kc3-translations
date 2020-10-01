@@ -295,6 +295,8 @@
 	"SettingsELosOld": "구식",
 	"SettingsELosNew": "신식",
 	"SettingsELosF33": "33식",
+	"SettingsELosF33x3" : "33식(분기점 계수3)",
+	"SettingsELosF33x4" : "33식(분기점 계수4)",
 	"SettingsAirFormula": "제공치 공식",
 	"SettingsAFPNoBonus": "숙련도 무시",
 	"SettingsAFPVeteran": "자연수 숙련도",
@@ -471,6 +473,7 @@
 	"SettingsShipIconBorder"     : "칸무스 아이콘 경계색",
 	"SettingsPanelOutline"       : "윤곽선 어두운 정도",
 	"SettingsPanelOutlineBright" : "윤곽선 밝기 정도",
+	"SettingsPanelColorTip"      : "CSS3의 RGBA컬러모드(적(0-255), 녹(0-255), 청(0-255), 불투명도(0.00-1.00))를 사용합니다. 불투명도를 0으로 하면 색상이 보이지 않게 됩니다.",
 	"SettingsMoonSmallFont"      : "작은 글자를 크게",
 	"SettingsMoonLightingEffect" : "광원 효과",
 	"SettingsPanelElementShape" : "일반적인 사각형",
@@ -488,6 +491,7 @@
 	"SettingsPanelConButShape" : "버튼 모양",
 	"SettingsPanelConButSkew" : "기울어진 버튼 모양",
 	"SettingsPanelCustomCSS" : "CSS 커스터마이즈",
+	"SettingsPanelCustomCSSTip"  : "유효한 CSS3를 사용해서 KC3改의 테마를 커스터마이즈 할수 있습니다. CSS와 KC3改의 소스에 익숙하지 않으시다면 바꾸지 마세요. 변경은 즉시 됩니다. 일부의 CSS에는 `!important` 를 사용해야만 합니다.",
 
 	"SettingsChuuiWarningDangerousFeature": "정말로 이 내용을 변경하실 건가요?\n이로 인한 위험은 KC3改의 책임 외의 사항입니다.\n\n주의하시기 바랍니다.",
 	"SettingsErrorNG": "저장 완료!",
@@ -517,9 +521,12 @@
 	"SettingsStrategyTheme": "전략실 테마",
 	"SettingsStrategyCustomCSS" : "CSS 커스터마이즈",
 	"SettingsStrategyCustomCSSTip" : "유효한CSS3을 사용하여 KC3改의 테마를 커스터마이즈 가능합니다. CSS와 KC3改의 소스코드를 잘 이해하여,자기책임하에 써주세요. 이것을 유효하게 하기위해서는 전투 지휘소 페이지를 리로드할 필요가 있습니다. 일부의 CSS에 `!important`를 붙이는 것을 잊지 마세요.",
-	"SettingsSaveSortieToDb" : "출격전투 테마를 보존",
+	"SettingsSaveSortieToDb" : "출격 전투 데이터를 보존",
+	"SettingsSaveSortieToDbTip" : "체크 해제하면, 이후의 모든 해역의 출격 데이터가 보존 되지 않습니다. 전략실의 Maps이나 Events에도 표시되지 않습니다.",
 	"SettingsSaveSortieButMaps" : "보존하고 싶지 않은 해역",
+	"SettingsSaveSortieButMapsTip" : "일부의 해역 데이터를 보존하고 싶지 않을때는 리스트를 추가해 주세요. 예를 들어 1-1, 1-5, 5-4 해역이면 [11,15,54] 입니다. 전략실의 Ledger에 표시되는 소비자원이나 자재 등도 기록 되지 않습니다.",
 	"SettingsSavePvpToDb" : "연습 전투 데이터를 보존",
+	"SettingsSavePvpToDbTip" : "체크 해제하면, 이후의 연습 전투 데이터 및 PvP History는 보존되지 않습니다.",
 
 	"SettingsLogging": "콘솔 로그 기록",
 	"SettingsConsoleLogHooks": "로그 기록을 무효화 시킴.",
@@ -527,7 +534,7 @@
 	"SettingsLogKeepDuration": "일반 로그 보유 시간",
 	"SettingsLogKeepDurationTip": "데이터베이스의 용량에 제한이 있어서, 오래된 일반 로그（Info・Log・Debug）는 자동적으로 지워집니다.",
 	"SettingsErrorKeepDuration": "에러 로그 보유 시간",
-	"SettingsErrorKeepDurationTip": "데이터베이스의 용량에 제한이 있어서, 오래된 에러 로그（Error・Warn、assertも）는 자동적으로 지워집니다.",
+	"SettingsErrorKeepDurationTip": "데이터베이스의 용량에 제한이 있어서, 오래된 에러 로그（Error・Warn・Assert）는 자동적으로 지워집니다.",
 
 	"InstalledTitle": "KC3改 준비 완료!",
 	"InstalledText": "KC3改를 설치해주셔서 감사합니다! 저희가 개발한 기능들이 여러분의 칸코레 플레이를 보다 쾌적하게 해드릴 수 있길 바랍니다. 도움이 필요하시면 언제든지 알려주세요. 저희에게 연락하실 수 있는 곳은 'KC3改에 관하여' 페이지에서 찾으실 수 있습니다.",
@@ -789,6 +796,7 @@
 	"PanelConsumedSteel": "전투 당 소모되는 강재 = {0}",
 	"PanelLbasSortieCosts": "기지항공대 비용\n연료: {0}, 탄약: {1}",
 	"PanelTransportPoints": "수송작전보스 A / S승리시：{0} / {1} TP",
+	"PanelTransportPointsAbbr" : "TP",
 	"PanelSupportExpCosts": "지원함대 타입：지원{0}\n지원원정시 소비하는 자재\n 연료：{1}, 탄약：{2}",
 	"PanelAirContactTip"   : "{0}에서의\n촉접 성공률：{1}%\n촉접 개시율：{2}%{4:contactPlanes}\n전슬롯 선택 불발율：{3}%",
 	"PanelAirContactPlanes": "\n선택판정순 TOP{0}의 슬롯：\n{1:planeRateList}",
@@ -924,6 +932,7 @@
 	"ExpedGSRateExplainSparkle": "키라작이 된 칸무스가 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}",
 
 	"ConsumablesFCoinBoxes" : "가구상자（소）x{0} = {1}\n가구상자（중）x{2} = {3}\n가구상자（대）x{4} = {5}\n전부교환하면 = {6}\n+소지가구코인 = {7}",
+	"ConsumablesScrewExchanges" : "훈장 x{0} = {1}\n선물 상자 x{2} = {3}\n전부교환하면 = {4}\n+소지가구코인 = {5}",
 
 	"CraftEquipNoteFirst": "현시점 기준 이 장비의 <strong>첫번째</strong>입니다!",
 	"CraftEquipNoteExists": "이 장비를 현재 <strong>{0}</strong>개 보유 중입니다.",

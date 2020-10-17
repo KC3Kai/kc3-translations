@@ -595,7 +595,7 @@
         "name": "Elite 10th Destroyer Division, Prepare To Sortie!",
         "desc": "Have ONLY Yuugumo Kai Ni and Makigumo Kai Ni in your fleet. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards a Combat Ration and either 5 Buckets OR a Furniture Fairy",
-        "unlock": [ 892 ]
+        "unlock": [ 197, 892 ]
     },
     "158": {
         "code": "A92",
@@ -608,7 +608,8 @@
         "code": "A93",
         "name": "The Powerful DesDiv 10, Mainstay of Mainstays\u2014Sortie Preparations Complete!",
         "desc": "Have ONLY Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet.",
-        "memo": "\u27a3Rewards a +2 12.7cm Twin Gun Mount Model D Kai Ni and either six Buckets OR a Furniture Fairy"
+        "memo": "\u27a3Rewards a +2 12.7cm Twin Gun Mount Model D Kai Ni and either six Buckets OR a Furniture Fairy",
+        "unlock": [ 346 ]
     },
     
     "202": {
@@ -1446,7 +1447,8 @@
         "code": "B126",
         "name": "Mainstay of Mainstays, Set Sail!",
         "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni and up to 4 additional ships to [W5-3], [W5-4] and [W5-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws"
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws",
+        "unlock": [ 346 ]
     },
     "895": {
         "code": "B127",
@@ -2307,13 +2309,15 @@
         "code": "C49",
         "name": "Annual Tea Time Exercises - October",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using at least 4 of Warspite, Kongou, Ark Royal, Nelson or the J-class DDs.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets",
+        "tracking": [ [0,4] ]
     },
     "346": {
         "code": "C50",
         "name": "Annual DesDiv 10 Exercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
+        "tracking": [ [0,4] ]
     },
     
     
@@ -2653,7 +2657,7 @@
         "name": "Daily Upgrade",
         "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal. Failures count toward this.",
         "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
-        "unlock": [ 637, 638, 689 ],
+        "unlock": [ 637, 638, 654, 689 ],
         "tracking": [ [0,1] ]
     },
     "673": {
@@ -3247,7 +3251,9 @@
         "code": "F93",
         "name": "Annual Swordfish - October",
         "desc": "Have a Skilled Crew Member, 1500 Ammo and 1500 Bauxite. Set Ark Royal as secretary with a \u2605max Swordfish in slot 1. Scrap a Swordfish and 2 Fulmars.",
-        "memo": "This quest resets on the first quest reset of October.\n\u203bThe Formation of an Elite Biplane Squadron\n\u2718Consumes the item and resources.\n\u27a3Rewards a Swordfish Mk.II (Skilled)"
+        "memo": "This quest resets on the first quest reset of October.\n\u203bThe Formation of an Elite Biplane Squadron\n\u2718Consumes the item and resources.\n\u27a3Rewards a Swordfish Mk.II (Skilled)",
+        "tracking": [ [0,1], [0,2] ],
+        "trackingDesc": [ "{0} Swordfish", "{0} Fulmar" ]
     },
 
     "701": {

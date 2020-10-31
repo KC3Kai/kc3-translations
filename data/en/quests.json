@@ -1429,7 +1429,8 @@
         "code": "B121",
         "name": "First Platoon of the Elite 27th Destroyer Division, Sortie!",
         "desc": "Sortie Shiratsuyu Kai Ni and Shigure Kai Ni and up to 4 additional ships to [W2-3], [W4-1], [W5-5] and [W6-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets"
+        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets",
+        "unlock": [ 931 ]
     },
     "890": {
         "code": "B122",
@@ -1537,7 +1538,7 @@
         "name": "Execute Coastal Patrols!",
         "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards an Action Report and either three Development Materials OR three Buckets OR two 25mm Triple Autocannon Mounts",
-        "unlock": [ 236, 237, 919 ]
+        "unlock": [ 236, 237, 919, 929 ]
     },
     "236": {
         "code": "B136",
@@ -1669,7 +1670,7 @@
         "name": "Sortie, Heavy Cruiser Haguro! The Battle of the Malacca Strait",
         "desc": "Sortie Haguro as flagship and up to 4 additional ships to [W7-3-E]. A-Rank+ boss node 4 times. Overlay:F10",
         "memo": "Your fleet cannot exceed 5 ships for this quest.\n\u27a3Rewards a +6 20.3cm (No.3) Twin Gun Mount and either an Action Report OR a New Model Armament Materials",
-        "unlock": [ 928 ]
+        "unlock": [ 928, 930 ]
     },
     "929": {
         "code": "B156",
@@ -2184,7 +2185,7 @@
         "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships. F10 will clear the overlay. ",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR an Action Report",
-        "unlock": [ 884 ]
+        "unlock": [ 346, 884 ]
     },
     "324": {
         "code": "C22",
@@ -2298,7 +2299,7 @@
         "name": "Aircraft Carrier Exercises",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(B) as flagship, 1 other CV(B), 2 DD and up to 2 additional ships. Overlay:F10",
         "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Skilled Crew Member",
-        "unlock": [ 698 ]
+        "unlock": [ 345, 698 ]
     },
     "344": {
         "code": "C48",

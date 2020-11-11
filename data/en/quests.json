@@ -207,7 +207,7 @@
         "name": "Form the 30th Destroyer Division (First Generation)!",
         "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi and Mochizuki in your fleet.",
         "memo": "\u27a3Rewards a Repair Team",
-        "unlock": [ 136, 244 ]
+        "unlock": [ 136, 188, 244 ]
     },
     "134": {
         "code": "WA01",
@@ -732,7 +732,7 @@
         "code": "B20",
         "name": "Sortie the 8th Destroyer Division!",
         "desc": "Sortie Asashio, Michishio, Ooshio, Arashio and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
-        "unlock": [ 132, 188, 264, 412, 812 ]
+        "unlock": [ 132, 264, 412, 812 ]
     },
     "240": {
         "code": "B21",
@@ -1676,25 +1676,25 @@
         "code": "B156",
         "name": "To Protect the Peaceful Sea, the Whale Stirs!",
         "desc": "Sortie Taigei or Jingei as flagship, 2 SS(V) and up to 3 additional ships to [W1-2], [W1-3], [W2-1] and [W2-3]. S-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either a New Model Armament Materials OR a +2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
+        "memo": "\u27a3Rewards furniture and either a New Model Armament Materials OR a +2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
     },
     "930": {
         "code": "B157",
         "name": "Mainstay of Mainstays, Run Wild!",
         "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, Akigumo Kai Ni and up to 2 additional ships to [W1-4], [W2-2], [W3-2], [W4-1] and [W7-3-P]. S-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +5 61cm Quadruple (Oxygen) Torpedo Mount Late Model and either ten Development Materials OR an Action Report OR five Screws"
+        "memo": "\u27a3Rewards a +5 61cm Quadruple (Oxygen) Torpedo Mount Late Model and either ten Development Materials OR an Action Report OR five Screws"
     },
     "931": {
         "code": "B158",
         "name": "Elite DesDiv 27, Carefully Perform Evasive Maneuvers!",
         "desc": "Sortie Shiratsuyu Kai Ni, Shigure Kai Ni and up to 4 additional ships to [W1-5], [W2-5], [W7-1], [W5-5] and [W6-3]. S-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either two Underway Replenishments OR a Repair Goddess OR two Canned Saury"
+        "memo": "\u27a3Rewards furniture and either two Underway Replenishments OR a Repair Goddess OR two Canned Saury"
     },
     "932": {
-        "code": "2020LQ1",
+        "code": "2010LQ1",
         "name": "[Fall-Limited] Nowaki's Great Adventure!",
         "desc": "Sortie Nowaki as flagship, Maikaze as second ship and up to 3 additional ships to [W1-4], [W1-6-N], [W2-2] and [W3-1] twice each. A-Rank+ all relevant boss nodes twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nYour fleet may not exceed 5 ships.\n\u27a3Rewards:\n\u00B6First choice: Either three Irako OR a Medal\n\u00B6Second choice: Either two Type 2 12cm Mortars Kai OR a Reinforcement Expansion OR a New Model Artillery Armament Materials",
+        "memo": "Your fleet may not exceed 5 ships.\n\u27a3Rewards:\n\u00B6First choice: Either three Irako OR a Medal\n\u00B6Second choice: Either two Type 2 12cm Mortars Kai OR a Reinforcement Expansion OR a New Model Artillery Armament Materials",
         "hash": -1159559460
     },
 
@@ -2311,14 +2311,14 @@
         "code": "C49",
         "name": "Annual Tea Time Exercises - October",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using at least 4 of Warspite, Kongou, Ark Royal, Nelson or the J-class DDs.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets",
+        "memo": "\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets",
         "tracking": [ [0,4] ]
     },
     "346": {
         "code": "C50",
         "name": "Annual DesDiv 10 Exercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
+        "memo": "\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
         "tracking": [ [0,4] ]
     },
     

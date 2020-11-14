@@ -1700,14 +1700,16 @@
     "933": {
         "code": "B159",
         "name": "Solidification of Fleet Command: Fleet Flagship, Sortieing!",
-        "desc": "Sortie Ooyodo or Tan Yang as flagship, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards a Headquarters Personnel and either a Repair Goddess OR a New Model Armament Materials OR two Underway Replenishments"
+        "desc": "Sortie Ooyodo or Tan Yang as flagship in Fleet 1, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards a Headquarters Personnel and either a Repair Goddess OR a New Model Armament Materials OR two Underway Replenishments",
+        "unlock": [ 934 ]
     },
     "934": {
         "code": "B160",
         "name": "Yukikaze, The Miracle Destroyer, Sorties Once Again!",
         "desc": "Sortie Tan Yang or Yukikaze Kai Ni as flagship and up to 5 additional ships to [W2-3], [W2-4], [W2-5], [W3-3] and [W7-3-P]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either a +4 Locally Modified 12.7cm Twin High-angle Gun Mount OR a Locally Modified 10cm Twin High-angle Gun Mount OR two New Model Armament Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either a +4 Locally Modified 12.7cm Twin High-angle Gun Mount OR a Locally Modified 10cm Twin High-angle Gun Mount OR two New Model Armament Materials",
+        "unlock": [ 935 ]
     },
     "935": {
         "code": "B161",
@@ -3285,7 +3287,9 @@
         "code": "F94",
         "name": "Annual Arsenal - November",
         "desc": "Have 1500 Steel, Fuel and Bauxite. Scrap 5 Small Cal. Main Guns, 5 Medium Cal. Main Guns, 5 Large Cal. Main Guns, 5 Recon Seaplanes and 5 Torpedo Bombers.",
-        "memo": "\u2718Consumes the resources.\n\u203bThe Arsenal in Full Operation! A Development of New Model Armaments!\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either five Screws OR New Model Armament Materials"
+        "memo": "\u2718Consumes the resources.\n\u203bThe Arsenal in Full Operation! A Development of New Model Armaments!\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either five Screws OR New Model Armament Materials",
+        "tracking": [ [0,5], [0,5], [0,5], [0,5], [0,5] ],
+        "trackingDesc": [ "{0} Small Cal. Main Guns", "{0} Medium Cal. Main Guns", "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedo Bombers" ]
     },
 
     "701": {
@@ -3323,13 +3327,16 @@
         "code": "G6",
         "name": "Annual Mod. - November",
         "desc": "Have 600 Steel and 300 Bauxite. Modernize a DD using at least 3 DD twice.",
-        "memo": "\u203bExecute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Bucket OR two Development Materials\n\u00B6Second choice: Either two Combat Rations OR an Irako"
+        "memo": "\u203bExecute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Bucket OR two Development Materials\n\u00B6Second choice: Either two Combat Rations OR an Irako",
+        "unlock": [ 715 ],
+        "tracking": [ [0,2] ]
     },
     "715": {
         "code": "G7",
         "name": "Annual Mod. 2 - November",
         "desc": "Have 900 Steel and 500 Bauxite. Modernize a DD using at least 3 CL twice.",
-        "memo": "\u203bPart 2: Execute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR two Screws"
+        "memo": "\u203bPart 2: Execute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR two Screws",
+        "tracking": [ [0,2] ]
     },
 
     "866": {

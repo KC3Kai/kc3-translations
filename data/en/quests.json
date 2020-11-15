@@ -207,7 +207,7 @@
         "name": "Form the 30th Destroyer Division (First Generation)!",
         "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi and Mochizuki in your fleet.",
         "memo": "\u27a3Rewards a Repair Team",
-        "unlock": [ 136, 244 ]
+        "unlock": [ 136, 188, 244 ]
     },
     "134": {
         "code": "WA01",
@@ -609,7 +609,7 @@
         "name": "The Powerful DesDiv 10, Mainstay of Mainstays\u2014Sortie Preparations Complete!",
         "desc": "Have ONLY Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet.",
         "memo": "\u27a3Rewards a +2 12.7cm Twin Gun Mount Model D Kai Ni and either six Buckets OR a Furniture Fairy",
-        "unlock": [ 346 ]
+        "unlock": [ 346, 930 ]
     },
     
     "202": {
@@ -732,7 +732,7 @@
         "code": "B20",
         "name": "Sortie the 8th Destroyer Division!",
         "desc": "Sortie Asashio, Michishio, Ooshio, Arashio and 2 additional ships to [W2-3]. B-Rank+ the boss node.",
-        "unlock": [ 132, 188, 264, 412, 812 ]
+        "unlock": [ 132, 264, 412, 812 ]
     },
     "240": {
         "code": "B21",
@@ -1429,7 +1429,8 @@
         "code": "B121",
         "name": "First Platoon of the Elite 27th Destroyer Division, Sortie!",
         "desc": "Sortie Shiratsuyu Kai Ni and Shigure Kai Ni and up to 4 additional ships to [W2-3], [W4-1], [W5-5] and [W6-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets"
+        "memo": "\u27a3Rewards a 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director and either a Medal OR a New Model Artillery Armament Materials OR 8 Buckets",
+        "unlock": [ 931 ]
     },
     "890": {
         "code": "B122",
@@ -1448,7 +1449,7 @@
         "name": "Mainstay of Mainstays, Set Sail!",
         "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni and up to 4 additional ships to [W5-3], [W5-4] and [W5-5]. S-Rank the boss nodes. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards: \n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Daihatsu Landing Craft\n\u00B6Second choice: Either a Skilled Crew Member OR 4 Screws",
-        "unlock": [ 346 ]
+        "unlock": [ 197 ]
     },
     "895": {
         "code": "B127",
@@ -1537,7 +1538,7 @@
         "name": "Execute Coastal Patrols!",
         "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes. Press F10 to clear the overlay.",
         "memo": "\u27a3Rewards an Action Report and either three Development Materials OR three Buckets OR two 25mm Triple Autocannon Mounts",
-        "unlock": [ 236, 237, 919 ]
+        "unlock": [ 236, 237, 919, 929 ]
     },
     "236": {
         "code": "B136",
@@ -1669,32 +1670,52 @@
         "name": "Sortie, Heavy Cruiser Haguro! The Battle of the Malacca Strait",
         "desc": "Sortie Haguro as flagship and up to 4 additional ships to [W7-3-E]. A-Rank+ boss node 4 times. Overlay:F10",
         "memo": "Your fleet cannot exceed 5 ships for this quest.\n\u27a3Rewards a +6 20.3cm (No.3) Twin Gun Mount and either an Action Report OR a New Model Armament Materials",
-        "unlock": [ 928 ]
+        "unlock": [ 928, 930 ]
     },
     "929": {
         "code": "B156",
         "name": "To Protect the Peaceful Sea, the Whale Stirs!",
-        "desc": "Sortie Taigei or Jingei as flagship, 2 SS(V) and up to 3 additional ships to [W1-2], [W1-3], [W2-1] and [W2-3]. A?-Rank+ the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either a New Model Armament Materials OR a +2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
+        "desc": "Sortie Taigei or Jingei as flagship, 2 SS(V) and up to 3 additional ships to [W1-2], [W1-3], [W2-1] and [W2-3]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards furniture and either a New Model Armament Materials OR a +2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
     },
     "930": {
         "code": "B157",
         "name": "Mainstay of Mainstays, Run Wild!",
-        "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, Akigumo Kai Ni and up to 2 additional ships to [W1-4], [W2-2], [W3-2], [W4-1] and [W7-3-P]. S?-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +5 61cm Quadruple (Oxygen) Torpedo Mount Late Model and either ten Development Materials OR an Action Report OR five Screws"
+        "desc": "Sortie Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, Akigumo Kai Ni and up to 2 additional ships to [W1-4], [W2-2], [W3-2], [W4-1] and [W7-3-P]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards a +5 61cm Quadruple (Oxygen) Torpedo Mount Late Model and either ten Development Materials OR an Action Report OR five Screws"
     },
     "931": {
         "code": "B158",
         "name": "Elite DesDiv 27, Carefully Perform Evasive Maneuvers!",
-        "desc": "Sortie Shiratsuyu Kai Ni, Shigure Kai Ni and up to 4 additional ships to [W1-5], [W2-5], [W7-1], [W5-5] and [W6-3]. S?-Rank the boss nodes of each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either two Underway Replenishments OR a Repair Goddess OR two Canned Saury"
+        "desc": "Sortie Shiratsuyu Kai Ni, Shigure Kai Ni and up to 4 additional ships to [W1-5], [W2-5], [W7-1], [W5-5] and [W6-3]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards furniture and either two Underway Replenishments OR a Repair Goddess OR two Canned Saury"
     },
     "932": {
-        "code": "2020LQ1",
+        "code": "2010LQ1",
         "name": "[Fall-Limited] Nowaki's Great Adventure!",
-        "desc": "Sortie Nowaki as flagship, Maikaze as second ship and up to 3 additional ships to [W1-4], [W1-6-N], [W2-2] and [W3-1] twice each. S?-Rank each boss node twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nYour fleet may not exceed 5 ships.\n\u27a3Rewards:\n\u00B6First choice: Either three Irako OR a Medal\n\u00B6Second choice: Either two Type 2 12cm Mortars Kai OR a Reinforcement Expansion OR a New Model Artillery Armament Materials",
+        "desc": "Sortie Nowaki as flagship, Maikaze as second ship and up to 3 additional ships to [W1-4], [W1-6-N], [W2-2] and [W3-1] twice each. A-Rank+ all relevant boss nodes twice.",
+        "memo": "Your fleet may not exceed 5 ships.\n\u27a3Rewards:\n\u00B6First choice: Either three Irako OR a Medal\n\u00B6Second choice: Either two Type 2 12cm Mortars Kai OR a Reinforcement Expansion OR a New Model Artillery Armament Materials",
         "hash": -1159559460
+    },
+    "933": {
+        "code": "B159",
+        "name": "Solidification of Fleet Command: Fleet Flagship, Sortieing!",
+        "desc": "Sortie Ooyodo or Tan Yang as flagship in Fleet 1, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards a Headquarters Personnel and either a Repair Goddess OR a New Model Armament Materials OR two Underway Replenishments",
+        "unlock": [ 935 ]
+    },
+    "934": {
+        "code": "B160",
+        "name": "Yukikaze, The Miracle Destroyer, Sorties Once Again!",
+        "desc": "Sortie Tan Yang or Yukikaze Kai Ni as flagship and up to 5 additional ships to [W2-3], [W2-4], [W2-5], [W3-3] and [W7-3-P]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either a +4 Locally Modified 12.7cm Twin High-angle Gun Mount OR a Locally Modified 10cm Twin High-angle Gun Mount OR two New Model Armament Materials",
+        "unlock": [ 935 ]
+    },
+    "935": {
+        "code": "B161",
+        "name": "The Strongest! Yukikaze of Kure and Shigure of Sasebo",
+        "desc": "Sortie Yukikaze Kai Ni, Shigure Kai Ni and up to 4 additional ships to [W4-5], [W5-3], [W5-5], [W6-4] and [W6-5]. S-Rank the boss nodes of each.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR six Screws\n\u00B6Second choice: Either a +4 5inch Single Gun Mount Mk.30 Kai OR a +4 Type 22 Surface Radar Kai 4 (Calibrated Late Model) OR a +4 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
     },
 
     "201": {
@@ -1718,7 +1739,7 @@
         "name": "Daily Battles",
         "desc": "Attack 10 Abyssal fleets.",
         "memo": "\u203bAssault 10 Enemy Fleets!",
-        "unlock": [ 327 ],
+        "unlock": [ 327, 931 ],
         "tracking": [ [0,10] ]
     },
     "211": {
@@ -2184,7 +2205,7 @@
         "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
         "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships. F10 will clear the overlay. ",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR an Action Report",
-        "unlock": [ 884 ]
+        "unlock": [ 346, 347, 884 ]
     },
     "324": {
         "code": "C22",
@@ -2298,7 +2319,7 @@
         "name": "Aircraft Carrier Exercises",
         "desc": "Secure 4 victories in Exercises within the same day using a CV(B) as flagship, 1 other CV(B), 2 DD and up to 2 additional ships. Overlay:F10",
         "memo": "\u27a3Rewards furniture and either a New Model Aviation Armament Materials OR a Skilled Crew Member",
-        "unlock": [ 698 ]
+        "unlock": [ 345, 698 ]
     },
     "344": {
         "code": "C48",
@@ -2310,15 +2331,21 @@
         "code": "C49",
         "name": "Annual Tea Time Exercises - October",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using at least 4 of Warspite, Kongou, Ark Royal, Nelson or the J-class DDs.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets",
+        "memo": "\nJ-class DDs include: Jervis, Janus\nThis quest resets on the first quest reset of October.\n\u203bTea Time Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Swordfish OR a Fulmar OR four Development Materials\n\u00B6Second choice: Either a New Model Aviation Armament Materials OR five Buckets",
         "tracking": [ [0,4] ]
     },
     "346": {
         "code": "C50",
         "name": "Annual DesDiv 10 Exercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
+        "memo": "\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
         "tracking": [ [0,4] ]
+    },
+    "347": {
+        "code": "C51",
+        "name": "The Miracle Destroyer",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day Yukikaze as flagship, 3 DD and up to 2 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR five Buckets\n\u00B6Second choice: Either eight Development Materials OR a New Model Armament Materials OR four Screws"
     },
     
     
@@ -2967,7 +2994,7 @@
         "code": "F90",
         "name": "Quarterly Arsenal",
         "desc": "Have 6000 Furniture Coins, three 35.6cm Twin Gun Mounts and three Type 96 Fighters. Scrap six 14cm Single Gun Mounts. Press F10 to clear the overlay.",
-        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Action! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai",
+        "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u203bThe Arsenal in Operation! Preparations for the Next Operation!\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR two Type 0 Fighter Model 21s OR a Type 96 Land-based Attack Aircraft\n\u00B6Second choice: Either three Type 94 Depth Charge Projectors OR two 12cm 30-tube Rocket Launchers OR a Type 2 12cm Mortar Kai",
         "tracking": [ [0,6] ]
     },
     "656": {
@@ -3256,6 +3283,14 @@
         "tracking": [ [0,1], [0,2] ],
         "trackingDesc": [ "{0} Swordfish", "{0} Fulmar" ]
     },
+    "655": {
+        "code": "F94",
+        "name": "Annual Arsenal - November",
+        "desc": "Have 1500 Steel, Fuel and Bauxite. Scrap 5 Small Cal. Main Guns, 5 Medium Cal. Main Guns, 5 Large Cal. Main Guns, 5 Recon Seaplanes and 5 Torpedo Bombers.",
+        "memo": "\u2718Consumes the resources.\n\u203bThe Arsenal in Full Operation! A Development of New Model Armaments!\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either five Screws OR New Model Armament Materials",
+        "tracking": [ [0,5], [0,5], [0,5], [0,5], [0,5] ],
+        "trackingDesc": [ "{0} Small Cal. Main Guns", "{0} Medium Cal. Main Guns", "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedo Bombers" ]
+    },
 
     "701": {
         "code": "G1",
@@ -3287,6 +3322,21 @@
         "name": "Flight Rigging Modernization",
         "desc": "Have 5500 steel and 2500 bauxite. Modernize a CV(B) using 5 CV(L) twice.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a New Model Aircraft Blueprint"
+    },
+    "714": {
+        "code": "G6",
+        "name": "Annual Mod. - November",
+        "desc": "Have 600 Steel and 300 Bauxite. Modernize a DD using at least 3 DD twice.",
+        "memo": "\u203bExecute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Bucket OR two Development Materials\n\u00B6Second choice: Either two Combat Rations OR an Irako",
+        "unlock": [ 715 ],
+        "tracking": [ [0,2] ]
+    },
+    "715": {
+        "code": "G7",
+        "name": "Annual Mod. 2 - November",
+        "desc": "Have 900 Steel and 500 Bauxite. Modernize a DD using at least 3 CL twice.",
+        "memo": "\u203bPart 2: Execute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR two Screws",
+        "tracking": [ [0,2] ]
     },
 
     "866": {

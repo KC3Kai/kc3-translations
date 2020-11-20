@@ -1392,7 +1392,7 @@
         "name": "Elite Destroyer Division, Wreak Havoc!",
         "desc": "Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes. Press F10 to clear the overlay.",
         "memo": "Press F10 to clear the overlay that blocks the reward selection screen.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a Medal",
-        "unlock": [ 889 ]
+        "unlock": [ 889, 934 ]
     },
     "881": {
         "code": "B116",
@@ -1503,7 +1503,8 @@
         "code": "B134",
         "name": "Strengthening the Fleet Command Directorate (Execution Stage)",
         "desc": "Sortie Ooyodo as flagship, an AV or Akashi, and up to 4 additional ships to [W2-3], [W3-3] and [W4-1]. S-Rank each boss node twice. Press F10 to clear the overlay.",
-        "memo": "\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal"
+        "memo": "\u27a3Rewards a Headquarters Personnel and either a Furniture Box (Large) OR a Reinforcement Expansion OR a Medal",
+        "unlock": [ 933 ]
     },
     "831": {
         "code": "SB43",
@@ -2959,7 +2960,8 @@
         "code": "F44",
         "name": "Procurement for Custom-Made Furniture",
         "desc": "Have 5000 Furniture Coins, two 14cm Single Gun Mounts and two 15.2cm Single Gun Mounts in your inventory. Scrap two 12.7cm Twin High-Angle Gun Mounts.",
-        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
+        "memo": "\u2718Consumes the equipment and resources. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy",
+        "unlock": [ 655 ]
     },
     "649": {
         "code": "F45",
@@ -3303,7 +3305,7 @@
         "name": "Daily Modernization",
         "desc": "Complete 2 successful modernizations within the same day.",
         "memo": "\u203bCarry Out Ship Modernizations!",
-        "unlock": [ 689, 703 ],
+        "unlock": [ 689, 703, 714 ],
         "tracking": [ [0,2] ]
     },
     "703": {

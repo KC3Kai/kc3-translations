@@ -397,6 +397,11 @@
 	"SettingsDisableHasDamecon" : "忽略装备损管的舰娘",
 	"SettingsDisableUnlockShips" : "忽略未锁定的舰娘",
 	"SettingsNoAnimation" : "停用闪烁动画",
+	"SettingsNextBlocker" : "阻挡进击按钮",
+	"SettingsNextBlockerTip" : "警告：大破判断功能都依赖于解析游戏的API数据，如果发觉游戏战斗实现或API结构有变化，推荐禁用本功能。永远也不要放松对自己舰队状态的及时关注！另外，音效触发模式需要游戏内的音量设定中的SE项必需为开启，否则效果与网络触发模式相同。",
+	"SettingsNextBlockerSE" : "音效触发模式",
+	"SettingsNextBlockerNetwork" : "网络触发模式",
+	"SettingsNextBlockerSecondFS" : "联合的第二舰队旗舰会沉吗?",
 
 	"SettingsAPIGameScreen" : "游戏界面功能",
 	"SettingsQuestOverlay" : "任务翻译",
@@ -570,6 +575,7 @@
 	"NewVerViewWikiGithub": "浏览GitHub上的用户手册",
 
 	"Enabled" : "开启",
+	"Disabled" : "关闭",
 	"Small" : "小",
 	"Big" : "大",
 	"Black" : "黑",
@@ -588,6 +594,8 @@
 	"UnwantedExitDMM" : "确定退出吗？（与API链接不同，在网页模式下刷新不会导致无限猫）",
 	"APIWaitToggle" : "请先打开“KC3改”面板",
 	"APIConcealExpl" : "查询API链接地址",
+
+	"NextButtonBlockOverlay" : "发现有舰娘大破！『进击』按钮被挡住了！坚持要继续的话就按F10吧。",
 
 	"GameUpdateDetected" : "检测到游戏更新！",
 	"GameUpdateBoth": "检测到<strong>{0}位新舰娘</strong> 与 <strong>{1}种新装备</strong>！",

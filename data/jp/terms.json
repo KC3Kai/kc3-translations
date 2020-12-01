@@ -330,6 +330,11 @@
 	"SettingsDisableHasDamecon"   : "ダメコン装備艦を無視",
 	"SettingsDisableUnlockShips"  : "未ロック艦を無視",
 	"SettingsNoAnimation"         : "動画演出なし",
+	"SettingsNextBlocker"         : "進撃ボタンブロッカー",
+	"SettingsNextBlockerTip"      : "忠告：大破警告機能はAPIデータを基づいて戦闘後の耐久値を予想して大破状態を判断しますので、ゲームの戦闘仕様やAPIの変動を知らされるたびに、この機能を無効にするのを推奨します。艦隊の状態に細心の注意を払うのに決して疎かにはならないこと！ちなみに「効果音モード」にはゲーム内の音量設定のSEをONにしなければなりません。OFFの場合は「通信モード」と同じになります。",
+	"SettingsNextBlockerSE"       : "効果音モード",
+	"SettingsNextBlockerNetwork"  : "通信モード",
+	"SettingsNextBlockerSecondFS" : "連合艦隊第二旗艦轟沈可能?",
 
 	"SettingsAPIGameScreen" : "ゲーム画面",
 	"SettingsQuestOverlay" : "画面に任務翻訳(他の言語用)",
@@ -495,6 +500,7 @@
 	"PageUpdateInDevelop" : "開発中",
 
 	"Enabled" : "有効",
+	"Disabled" : "無効",
 	"Small" : "小",
 	"Big" : "大",
 	"Black" : "黒",
@@ -513,6 +519,8 @@
 	"UnwantedExitDMM" : "もう行っちゃうの(´・ω・｀)？ページを更新したいならやれば大丈夫ですが、APIリンクが別物になるかもしれないぞ！",
 	"APIWaitToggle"   : "今は「KanColle」タブを開くしかない",
 	"APIConcealExpl"  : "あなたのAPIリンクを表示するにはポインターをここに",
+
+	"NextButtonBlockOverlay" : "大破艦が発見されたので『進撃』の阻止にしにきたよ。轟沈でもしたいならF10を押しな！",
 
 	"GameUpdateDetected" : "新たなゲーム更新が検知されました！",
 	"GameUpdateBoth"     : "<strong>{0}隻の新艦</strong>(または格納グラ)と<strong>{1}個の新装備</strong>が実装されました！",

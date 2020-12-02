@@ -398,10 +398,11 @@
 	"SettingsDisableUnlockShips" : "忽略未锁定的舰娘",
 	"SettingsNoAnimation" : "停用闪烁动画",
 	"SettingsNextBlocker" : "阻挡进击按钮",
-	"SettingsNextBlockerTip" : "警告：大破判断功能都依赖于解析游戏的API数据，如果发觉游戏战斗实现或API结构有变化，推荐禁用本功能。永远也不要放松对自己舰队状态的及时关注！另外，音效触发模式需要游戏内的音量设定中的SE项必需为开启，否则效果与网络触发模式相同。",
+	"SettingsNextBlockerTip" : "警告：大破判断功能都依赖于解析游戏的API数据，如果发觉游戏战斗实现或API结构有变化，推荐禁用本功能。永远也不要放松对自己舰队状态的及时关注！\n另外，音效触发模式需要游戏内的音量设定中的SE项必需为开启，否则效果与网络触发模式相同。",
 	"SettingsNextBlockerSE" : "音效触发模式",
 	"SettingsNextBlockerNetwork" : "网络触发模式",
 	"SettingsNextBlockerSecondFS" : "联合的第二舰队旗舰会沉吗?",
+	"SettingsNextBlockerSecondFSTip" : "如果觉得有可能就启用本项，则第二舰队旗舰大破时也会阻挡进击按钮。",
 
 	"SettingsAPIGameScreen" : "游戏界面功能",
 	"SettingsQuestOverlay" : "任务翻译",

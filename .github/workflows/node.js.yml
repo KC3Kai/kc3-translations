@@ -1,26 +1,25 @@
-name: Tests with Node.js
+name: npm
 
 on:
   push:
-    branches: [ master ]
   pull_request:
-    branches: [ master ]
+    types: [opened, synchronize]
+
+env:
+  node-version: 6.x
 
 jobs:
   test:
-    name: ver
     runs-on: ubuntu-16.04
-
-    strategy:
-      matrix:
-        node-version: [6.x]
-
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js ${{ env.node-version }}
       uses: actions/setup-node@v1
       with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install -g grunt-cli
-    - run: npm install
-    - run: npm test
+        node-version: ${{ env.node-version }}
+    - name: Run npm test
+      timeout-minutes: 10
+      run: |
+        npm install -g grunt-cli
+        npm install
+        npm test

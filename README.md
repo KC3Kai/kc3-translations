@@ -1,4 +1,4 @@
-## KC3改 Translations ![Tests with Node.js](https://github.com/KC3Kai/kc3-translations/workflows/Tests%20with%20Node.js/badge.svg)
+## KC3改 Translations ![npm test](https://github.com/KC3Kai/kc3-translations/workflows/npm/badge.svg)
 
 ![KC3改 Logo](http://puu.sh/h4Gbb.png)
 

@@ -381,6 +381,14 @@
 	"SettingsDisableHasDamecon": "다메콘 장착 칸무스 무시",
 	"SettingsDisableUnlockShips" : "잠금 해제 칸무스 무시",
 	"SettingsNoAnimation" : "애니메이션 연출 없음",
+	"SettingsNextBlocker"         : "대파진격 차단기능",
+	"SettingsNextBlockerTip" : "이 기능을 활성화하면 함대에 대파된 칸무스가 있을 때 사용자가 진격 버튼을 사용하지 못하게 됩니다.\n전투 API 변경 사항이 있는 경우 오작동 할수도 있으니 항상 전투 결과창과 칸무스의 체력에 주의하는 것이 좋습니다.\n\"SE 모드\"에서는 게임 내 사운드 옵션을 음소거 하면 작동하지 않습니다. 이 상태에서는 자동으로 \"네트워크 모드\"로 들어가는데, 이때는 여전히 진격 버튼을 차단하지만 요정님은 표시되지 않습니다.",
+	"SettingsNextBlockerSE" : "SE 모드",
+	"SettingsNextBlockerNetwork" : "네트워크 모드",
+	"SettingsNextBlockerUnlocked" : "잠금 해제 칸무스 진격 차단기능",
+	"SettingsNextBlockerUnlockedTip" : "활성화하면 잠금이 해제된 칸무스가 대파 상태일때 진격 버튼이 차단됩니다.",
+	"SettingsNextBlockerSecondFS" : "연합함대 제2기함 대파진격 차단기능",
+	"SettingsNextBlockerSecondFSTip" : "활성화하면 연합 함대 2함대 기함이 대파 상태일때도 진격 버튼이 차단됩니다.",
 	
 
 	"SettingsAPIGameScreen": "API 게임 화면",
@@ -575,6 +583,9 @@
 	"APIWaitToggle": "KC3改 패널을 먼저 로드해주세요.",
 	"APIConcealExpl": "토큰을 보려면 마우스를 올려주세요",
 
+	"NextButtonBlockOverlay" : "대파상태가 감지 되었음! 굉침되도 좋으니 진격하고 싶다면 F10을 눌러!",
+
+
 	"GameUpdateDetected": "게임 업데이트가 확인되었습니다!",
 	"GameUpdateBoth": "<strong>{0}명의 신규 칸무스</strong>와 <strong>{1}종의 신규 장비</strong>가 확인되었습니다! 전략실에서 더욱 상세한 내용을 확인해보세요!",
 	"GameUpdateShips": "<strong>{0}명의 신규 칸무스</strong>가 확인되었습니다! 전략실에서 더욱 상세한 내용을 확인해보세요!",
@@ -611,7 +622,7 @@
 	"TsunDBTestWrongMoraleTitle"  : "테스트에 필요한 피로도가 충분하지 않습니다!",
 	"TsunDBTestWrongMoraleMessage": "출격전에 테스트에 필요한 피로도 수치가 범위내인지 확인해 주세요.",
 	"TsunDBTestWrongSetupTitle"   : "테스트 필요조건이 충분하지 않습니다!",
-	"TsunDBTestWrongSetupMessage" : "출격전에 테스트에 필요한 함딸 레벨, 필요한 장비 등의 조건이 충분히 갖추어 졌는지 확인해 주세요. 최신 버전의 KC3가 필요합니다.",
+	"TsunDBTestWrongSetupMessage" : "출격전에 테스트에 필요한 칸무스 레벨, 필요한 장비 등의 조건이 충분히 갖추어 졌는지 확인해 주세요. 최신 버전의 KC3가 필요합니다.",
 
 	"BackupReminderTitle" : "백업 알림",	
 	"BackupReminderMessage" : "저번 KC3 백업에서 {0}일 지났습니다.",

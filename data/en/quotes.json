@@ -1920,6 +1920,7 @@
         "Equip(1)": "Thank you. This is great!",
         "Docking(1)": "Was there a collision? No! This is damage from battle! From battle!",
         "Sortie": "Task Force 64 flagship Washington, setting sail! Everyone ready? Let's go!",
+        "Friend49(1)": "USS battleship, Washington, has arrived on the battlefield. Now, let's do this. Open fire! All ships, follow me.",
         "H0000": "Admiral, a new day has begun. Today I, Washington, will be supporting your work. Please standby.",
         "H0100": "It's 1 o'clock now. The night is quiet, isn't it.",
         "H0200": "It's 2 o'clock now. Don't worry! I've gotten all of yesterday's documents nice and organized.",
@@ -3802,6 +3803,7 @@
         "Friend42(1)": "The Home Fleet has arrived! Come, I'll show you! Let's go! Follow me, Nelson!",
         "Friend42(2)": "Roger! Swordfish squadrons, begin takeoff!",
         "Friend47(1)": "Roger! Swordfish squadrons, begin takeoff!",
+        "Friend49(1)": "Fleet flagship, Ark Royal, has arrived on the battlefield. Just in time. Aircraft, prepare for sortie. Swordfish squadrons, that's right, go!",
         "H0000": "Admiral. That's right, I'll be in charge of this today. Oh? What is it? Don't tell me you're unhappy with that?",
         "H0100": "It's 1. ...What?",
         "H0200": "It's 2. ...What!? Could it be that something about this leaves you dissatisified?",
@@ -4646,6 +4648,7 @@
         "Damaged(2)": "P-please stop!",
         "Damaged(3)": "Wha- a direct hit!? N-no more... increase the rate of draining! I'm gonna sink...!",
         "Sunk": "Eh... I'm... sinking? So this is what it's like... to be in the water...",
+        "Friend49(1)": "Submarine fleet flagship, Taigei, coming at you with all I got.",
         "2@NewYearsOld": "Admiral? ...Ah, um... submarine tenders are good, aren't they? They're a necessity, right? Ah, thank goodness! Yes, leave the care of the submarines to me!",
         "2@NewYears": "Ad~mi~ral~<br />Admiral, best wishes for the coming year! I'll be counting on you again this year!",
         "2@Setsubun": "Well, it's Setsubun, so all the submarine girls are... Ow...! St-Stop it! Owww! Please, no more! Ahhh...! Stop it! I surrendered already~!",
@@ -4698,6 +4701,7 @@
         "Damaged(2)": "Oh no, my flight deck hangar!",
         "Damaged(3)": "They got me! The elevator has been... but don't worry, I'm not sinking!",
         "Sunk": "Sinking as a carrier... did I manage to accomplish a lot this time...?",
+        "Friend49(1)": "Carrier task force, carrier Ryuuhou, coming at you with all I got.",
         "H0000": "It's midnight now. It sure has gotten late. Are you tired?",
         "H0100": "0100. Admiral, it's already late into the night, you know?",
         "H0200": "0200. Admiral, are you sure you don't need to rest?",
@@ -5952,7 +5956,9 @@
         "3@Anniversary2019": "I'm shocked. It's the 6th Anniversary. That's amazing. The 6th Anniversary. I'll celebrate too. Admiral, here. Cheers.",
         "3@Anniversary2020": "Eeeh, it's the 7th Anniversary? So it is. I'm really surprised. But, Admiral, let's go celebrate!"
     },
-    "400": {},
+    "400": {
+        "Friend49(1)": "Hacchan, acknowledging. I'll participate in the submarine fleet operation."
+    },
     "494": {
         "Intro": "Large submarine aircraft carrier, born for the purpose of complementing the Sentoku-class...<br />I-13-class submarine, I-13 here. Um... I'm... Hitomi is also...<br />...No... it was nothing...",
         "Library": "From the class of revised I-9 class-submarines, the I-13-class submarine, I-13 here. Alongside with my younger sister, I-14, I was born in Kobe...<br /><br />That's right... In line with that submarine class, I was a submarine carrier able to make use of Seirans. I had secret capabilities that were ahead of its time.<br /><br />Us sisters participated in the Saiun transport operation, Operation Hikari. However, from around Ogasawara, my recollection... I can't remember... ... ...I'm sorry...",
@@ -6163,7 +6169,9 @@
         "3@Anniversary2019": "Admiral, it's our 6th Anniversary. Thank you. Please keep looking after me.",
         "3@Anniversary2020": "Admiral, it's Orel's... No, it's our 7th Anniversary! Congrats! Please keep looking after us!"
     },
-    "401": {},
+    "401": {
+        "Friend49(1)": "Understood!"
+    },
     "483": {
         "Intro": "Hey, hey, hey! So you're the admiral! I'm the submarine, I-26, but you can call me Nimu! Nice to meet you!",
         "Library": "I'm an I-class from Kure! Hey, hey, hey, I just remembered something about me! Of course commerce raiding is my specialty, but I can also eat up heavy cruisers and aircraft carriers! Leave it to me!",
@@ -8204,6 +8212,7 @@
         "Poke(1)": "Oh...! Roger that! Prinz Eugen, sortieing!",
         "Battle": "Commence shelling! ...Feuuuer!",
         "Damaged(2)": "I won't sink from something like this...! Return fire!",
+        "Friend49(1)": "Prinz Eugen has arrived on the battlefield. I'll now support the allied fleet. Fire!",
         "H0000": "Woah!? It's exactly midnight! For today, it'll be my duty to notify you of the time. Alright, I've got it! Leave it to me!",
         "H0100": "It's now 1 a.m.! Was that okay, you think? Ah, I see! Thank goodness!",
         "H0200": "It's 2 a.m. In this country, you say... ushi-mitsu-doki-tte-iu-no? Ahh, that sounds a little funny to me.",
@@ -10183,7 +10192,8 @@
         "Join": "Training aviation cruiser, Gotland, weighing anchor. Shall we go?",
         "Equip(1)": "Hmm? Something for me? This daily life is wonderful, isn't it?",
         "Equip(2)": "Yes, they're good, right? You noticed the difference? Good on you.",
-        "Sortie": "Flagship, training aviation cruiser Gotland, sortieing! Attack!"
+        "Sortie": "Flagship, training aviation cruiser Gotland, sortieing! Attack!",
+        "Friend49(1)": "Unyanyanya? I have to support, right? Leave it to me. Got Squadron, charge. Follow me."
     },
     "589": {
         "Intro": "Good day! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufuu, it's long, isn't it? I'm fine with just being called Abruzzi. Admiral, my sister and I are looking forward to your guidance.",
@@ -10619,6 +10629,7 @@
         "Poke(1)": "Did you call me? Alright, leave it to me.",
         "Equip(1)": "I like your choice.",
         "Equip(2)": "I see, I think it'll work.",
+        "Friend49(1)": "HMS Sheffield has arrived on the battlefield. I'll now support the allied forces. Charge.",
         "H0000": "So I'm the secretary ship for today. Leave it to me. It just struck midnight.",
         "H0100": "1 o'clock. The night is long.",
         "H0200": "2 o'clock. I'll make some tea.",
@@ -17700,7 +17711,9 @@
         "H2200": "22 o'clock. It's amazing, everybody here just loves night battles, I'm surprised.",
         "H2300": "23 o'clock. Admiral, thanks for everything today. Let's do our best tomorrow too!"
     },
-    "179": {},
+    "179": {
+        "Friend49(1)": "Enemy ships spotted. Begin the attack."
+    },
     "175": {
         "Intro": "Guten tag. I am the destroyer Max Schultz, but \"Max\" is good enough. My regards.",
         "Library": "German 1934 Plan-class destroyer, third ship in the series. I was designed to have high survivability, but... my new model of turbine had a small maintenance defect. This time... I shall be alright.",
@@ -17757,7 +17770,9 @@
         "H2200": "It is 22 o'clock. So as to be ready tomorrow, I would like to ask to be excused soon.",
         "H2300": "It's 23 o'clock. Admiral, gute nacht."
     },
-    "180": {},
+    "180": {
+        "Friend49(1)": "Take on the enemy ships. Begin the attack."
+    },
     "575": {
         "Intro": "Buongiorno! I'm Maestrale, the eldest of the Maestrale-class destroyers. Please take good care of me, Admiral! I'll do my be~st!",
         "Library": "I'm the nameship Maestrale, from the Maestrale-class destroyers of the Italian navy. I gave it my best you know? Aside from escorting convoys, I also worked hard as an asset to the surface fleets. In the end...my repairs couldn't really make it in time...hehe...Well, it just happens!",
@@ -18015,6 +18030,7 @@
         "Join": "There'll be no problems as long as there are no storms!",
         "Equip(2)": "*Yawn* Ah, Admiral, thanks.",
         "Attack": "Sink! Hah! I really hit!",
+        "Friend49(1)": "Scirocco, acknowledging. I made it in time~.",
         "H0000": "Just when I thought I was getting sleepy, the day changed. *Yawn*",
         "H0100": "01 00. Sleepy...",
         "H0200": "02 00. Can I go to bed?",
@@ -18094,6 +18110,7 @@
         "Yasen(1)": "Darling! Leave night battle to me too! There you are!",
         "MVP": "Battle honour? Lucky! I'm glad to have been able to help! Darling!",
         "Friend47(1)": "The Royal Navy Fleet has sighted the allied fleet. We'll now support them! Shoot!",
+        "Friend49(1)": "Super lucky! Aha!",
         "H0000": "Darling! You're in luck! Today I, Jervis, will help you out with things! You can count on me!",
         "H0100": "It's 1 o'clock! Hey, leave telling the time to me too!",
         "H0200": "It's 2 o'clock! Like this, right~? No problem!",
@@ -18167,6 +18184,8 @@
         "Sortie": "Leave being the flagship to me, Janus. Everyone, Jervis, are you ready? Follow me!",
         "Attack": "Shoot! Eh, I missed!? Shooooooooot!",
         "Friend47(1)": "Janus, acknowledging. OK, leave it to me!",
+        "Friend47(2)": "Allied forces engaged with the enemy fleet spotted ahead! Our fleet will now provide support. Forwards!",
+        "Friend49(1)": "Allied forces engaged with the enemy fleet spotted ahead! Our fleet will now provide support. Forwards!",
         "H0000": "That's right, I'll be taking care of everything today. That's fine, right? Humph, that's good. Leave it to me.",
         "H0100": "It's 1 o'clock. Hmmm, what shall we do? Is there anything you'd like to do?",
         "H0200": "It's 2 o'clock. What do you think, Jervis? Ah, I see. Hmmm.",

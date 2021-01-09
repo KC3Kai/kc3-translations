@@ -758,6 +758,7 @@
 	"PanelAirContactTip" : "Contact Under {0:airControl}:\n\u2003Success Chance: {1}%\n\u2003Trigger Chance: {2}%\n\u2003Aircraft Selection Failure: {3}%{4:contactPlanes}",
 	"PanelAirContactPlanes" : "\nAircraft Selection Priority Top {0}:\n{1:planeRateList}",
 	"PanelAirStrikeTip" : "{1:airContact} Airstrike Power: {0}",
+	"PanelNightContactTip" : "Night Contact Change: {0}%",
 	"PanelAntiLandPowerTip" : "Anti-installation modifiers:\n\u2003(... pre-cap) post-cap\n\u2003(... x{0} +{1}) x{2} +{3}\nChuuha Powers: {4} / {5}",
 	"PanelFleetAATip" : "Fleet Anti-Air. Used in calculations relevant to shootdown rates.",
 	"PanelFormationTip" : ". The formation selected is used in a variety of calculations, namely in the Fleet Anti-Air stat and the panel's ship icon mouseover stat sheet.",

@@ -2167,7 +2167,8 @@
         "code": "C52",
         "name": "Mass Exercises for Winter",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Mamiya"
+        "memo": "\u27a3Rewards a Mamiya",
+        "unlock": [ 441 ]
     },
     "315": {
         "code": "C43",
@@ -3309,7 +3310,9 @@
         "code": "F95",
         "name": "Annual Arsenal - January",
         "desc": "Have 1600 Bauxite and 20 Development Materials. Scrap 4 Dive Bombers and 4 Torpedo Bombers.",
-        "memo": "\u2718Consumes the resources.\n\u203bAir Force Modernization and Reorganization Allocation\n\u27a3Rewards:\n\u00B6First choice: Either three Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft Model 22A OR two New Model Aviation Armament Materials\n\u00B6Second choice: Either a Skilled Crew Member OR four Screws"
+        "memo": "\u2718Consumes the resources.\n\u203bAir Force Modernization and Reorganization Allocation\n\u27a3Rewards:\n\u00B6First choice: Either three Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft Model 22A OR two New Model Aviation Armament Materials\n\u00B6Second choice: Either a Skilled Crew Member OR four Screws",
+        "tracking": [ [0,4], [0,4] ],
+        "trackingDesc": [ "{0} Dive Bombers", "{0} Torpedo Bombers" ]
     },
 
     "701": {
@@ -3436,7 +3439,7 @@
         "unlock": [ 840 ],
         "hash": 494168864
     },
-    "840": {
+    "840x": {
         "code": "SB56",
         "name": "Weekly Setsubun Mission: Reiwa 2nd Year Setsubun Operation",
         "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node. Overlay:F10",
@@ -3449,9 +3452,10 @@
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Setsubun Operation",
         "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node. Overlay:F10",
         "memo": "\u27a3Rewards two units of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material",
-        "unlock": [ 841 ]
+        "unlock": [ 841 ],
+        "hash": -1087598400
     },
-    "841": {
+    "841x": {
         "code": "SB57",
         "name": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation",
         "desc": "Sortie a CA(V)/AV as flagship, 2 DD/DE and up to 3 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node. Overlay:F10",
@@ -3464,9 +3468,10 @@
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Western Region Setsubun Operation",
         "desc": "Sortie a CA(V)/AV as flagship, a ship of the SAME hull code as the flagship, and up to 4 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
         "memo": "For example, if your flagship is a CAV, the other required ship must also be a CAV. A CA would not count in this example.\n\u27a3Rewards two units of Setsubun Beans and either five Development Materials OR an Irako OR a Screw",
-        "unlock": [ 441, 843 ]
+        "unlock": [ 441, 843 ],
+        "hash": 1287650978
     },
-    "843": {
+    "843x": {
         "code": "SB58",
         "name": "Weekly Setsubun Extra Mission: Reiwa 2nd Year Setsubun Operation, All-Out Sortie!",
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",
@@ -3477,7 +3482,8 @@
         "code": "2101LQ8",
         "name": "Weekly Setsubun Extra Mission: Reiwa 3rd Year Setsubun Operation, All-Out Sortie!",
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points",
+        "hash": -1521320912
     },
     "441": {
         "code": "2101LQ9",

@@ -382,12 +382,12 @@
 	"SubtitleDisplayGhost": "(Ghost) Bottom of game screen, ghost mode on hover",
 	"SubtitleDisplayFree": "(Free) Free-form, can drag-drop subtitle box",
 	
-	"SettingsDMMAreaErrors" : "DMM Area Errors",
+	"SettingsDMMAreaErrors" : "DMM Regional Block",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
-	"SettingsDMMRedirectGadget" : "Bypass Gadget Block",
-	"SettingsDMMRedirectGadgetTip" : "Enable this if you get white screen and HTTP 403 errors on starting game.\nDon't enable this if you are already behind a proxy like JP VPN or KCCacheProxy.\n\nHow it works: to bypass KanColle area restriction of accessing gadget server (offering the meta data of game version and servers address), redirect its traffics to a public cache server instead to let game loaded without errors.",
+	"SettingsDMMRedirectGadget" : "Gadget Block Bypass",
+	"SettingsDMMRedirectGadgetTip" : "Enable this if you get a white screen with HTTP 403 error messages upon starting the game. Don't enable this if you're already behind a proxy, such as a Japanese VPN or KCCacheProxy.\n\nExplanation:\nKanColle has a gadget server, which sends metadata required for connecting to the game\u2014namely, the game version and the server's address. The KanColle regional block may prevent access to this based on where you're connecting from. The Gadget Block Bypass option will reroute traffic to a public cache server in an attempt to allow the game to load without denying access.",
 	"SettingsDMMGadgetCacheUrl" : "Custom Gadget Cache URL",
-	"SettingsDMMGadgetCacheUrlTip" : "Current default public cache server hosted on `kcwiki.github.io`, constantly updated by EN kcwiki administrator. Can be configured to another public server for your better speed.\nPlease input the base part of cache server's URL, containing all before the `/gadget_html5/` sub-directory part. For example, if `http://luckyjervis.com/gadget_html5/js/kcs_const.js` is known, the `http://luckyjervis.com/` part should be inputed.",
+	"SettingsDMMGadgetCacheUrlTip" : "The current default public cache server for the Gadget Block Bypass option is hosted on `kcwiki.github.io`, which is regularly updated by an English KanColle wiki administrator. This option allows you to configure the Gadget Block Bypass to use an alternate public server in the interest of improving connection speed.\n\nOnly input the initial part of the cache server's URL\u2014everything before the `/gadget_html5/` subdirectory. For example, if attemping to use\n\n`http://luckyjervis.com/gadget_html5/js/kcs_const.js` \n\nyou will need to enter this into the field:\n\n`http://luckyjervis.com/`",
 	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",

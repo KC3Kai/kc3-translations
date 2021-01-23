@@ -376,9 +376,15 @@
 	"SubtitleDisplayGhost"  : "(Ghost) ゲーム画面下部だがマウスカーソルを避けて消える",
 	"SubtitleDisplayFree"   : "(Free) 自由に字幕の文字を移動できる",
 
+	"SettingsDMMAreaErrors" : "DMMお住まいの地域にはノーサービス",
+	"SettingsDMMForceCookies" : "Cookieハック実施",
+	"SettingsDMMRedirectGadget" : "Gadgetアクセス制限",
+	"SettingsDMMRedirectGadgetTip" : "海外からのアクセス制限によるゲーム起動できず、ログにHTTP 403のエラーが出た場合は、これを利用できます。既にVPNかプロキシを利用してる場合はこれの必要がないので有効にしないでください。\n運営がGadgetというサーバーに2020年から設定したアクセス制限（DDoS対策等）が原因なので、これへのアクセスを別のサーバーに置き換えるより一時的な解決方法です。",
+	"SettingsDMMGadgetCacheUrl" : "カスタムGadgetサーバーURL",
+	"SettingsDMMGadgetCacheUrlTip" : "現在デフォルトの「別のGadgetサーバー」が`kcwiki.github.io`に置かれています。ほかのURLを使いたい時、「gadget_html5/」フォルダの前の全文字を入力すればいいです。例えば、`http://luckyjervis.com/gadget_html5/js/kcs_const.js`というサーバーが公開されて、その中の`http://luckyjervis.com/`をここに入力すればOKです。",
+	
 	"SettingsDMMGameplay" : "DMMサイトのカスタム",
 	"SettingsDMMCustomize" : "カスタマイズを適用",
-	"SettingsDMMForceCookies" : "Cookieハック実施",
 	"SettingsDMMCustomCSS" : "CSSカスタマイズ",
 	"SettingsDMMCustomCSSTip" : "有効なCSS3を使ってDMM公式サイトをカスタマイズできます。\nCSSとDMM公式サイトのソースコードをよく理解し、自己責任で書いてください。\nこれを有効するにはゲームページをリロードする必要があります。\n一部のCSSに`!important`をつけるのを忘れないでね。",
 

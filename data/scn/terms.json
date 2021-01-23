@@ -443,9 +443,15 @@
 	"SubtitleDisplayGhost": "固定于下方（界面内），鼠标经过时透明",
 	"SubtitleDisplayFree": "自由模式，可拖拽",
 
+	"SettingsDMMAreaErrors" : "DMM地域访问限制",
+	"SettingsDMMForceCookies" : "强制模拟地域Cookie",
+	"SettingsDMMRedirectGadget" : "绕过Gadget访问限制",
+	"SettingsDMMRedirectGadgetTip" : "如果从日本地区以外无法启动游戏，可以尝试该选项。适用现象为：DMM正常登录跳转后一直白屏并且控制台有HTTP 403的错误日志。\n如果你已经使用了一种代理软件能够正常进入游戏，请不要再启用本选项。\n游戏运营自从2020年初以防止DDoS等为由限制了从境外访问名为Gadget的服务器（提供游戏版本和具体子服务器地址信息），为了能正常加载游戏本选项将访问该服务器的请求重定向到别的公共缓存地址上。",
+	"SettingsDMMGadgetCacheUrl" : "自定义Gadget缓存URL",
+	"SettingsDMMGadgetCacheUrlTip" : "当前默认使用的Gadget缓存服务器存放在 `https://kcwiki.github.io/cache/gadget_html5/js/kcs_const.js` 上，由英语圈wiki管理员保持更新。如果该缓存无法访问或速度过慢，可以修改为其它已知的公共缓存。这里只要输入URL中`gadget_html5/`之前的全部字符即可。例如，已知有缓存地址 `http://luckyjervis.com/gadget_html5/js/kcs_const.js`，其中的 `http://luckyjervis.com/` 即为应输入的部分。",
+
 	"SettingsDMMGameplay" : "DMM网站页面定制",
 	"SettingsDMMCustomize" : "开启定制",
-	"SettingsDMMForceCookies" : "强制模拟地域Cookie",
 	"SettingsDMMCustomCSS" : "自定义CSS样式",
 	"SettingsDMMCustomCSSTip" : "使用合法的CSS3语法定制页面样式。如果你不熟悉CSS以及DMM网站源码，请不要改动。要使改动生效，需要重新加载DMM网站页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 

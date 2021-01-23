@@ -382,9 +382,15 @@
 	"SubtitleDisplayGhost": "(Ghost) Bottom of game screen, ghost mode on hover",
 	"SubtitleDisplayFree": "(Free) Free-form, can drag-drop subtitle box",
 	
+	"SettingsDMMAreaErrors" : "DMM Area Errors",
+	"SettingsDMMForceCookies" : "Force Cookie Hack",
+	"SettingsDMMRedirectGadget" : "Bypass Gadget Block",
+	"SettingsDMMRedirectGadgetTip" : "Enable this if you get white screen and HTTP 403 errors on starting game.\nDon't enable this if you are already behind a proxy like JP VPN or KCCacheProxy.\n\nHow it works: to bypass KanColle area restriction of accessing gadget server (offering the meta data of game version and servers address), redirect its traffics to a public cache server instead to let game loaded without errors.",
+	"SettingsDMMGadgetCacheUrl" : "Custom Gadget Cache URL",
+	"SettingsDMMGadgetCacheUrlTip" : "Current default public cache server hosted on `kcwiki.github.io`, constantly updated by EN kcwiki administrator. Can be configured to another public server for your better speed.\nPlease input the base part of cache server's URL, containing all before the `/gadget_html5/` sub-directory part. For example, if `http://luckyjervis.com/gadget_html5/js/kcs_const.js` is known, the `http://luckyjervis.com/` part should be inputed.",
+	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
-	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	"SettingsDMMCustomCSS" : "Custom CSS",
 	"SettingsDMMCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and DMM sources. To see changes, reload DMM game page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
 	

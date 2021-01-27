@@ -429,6 +429,12 @@
 	"SubtitleDisplayGhost": "(커서 투명화) 게임 화면 하단에 배치, 마우스오버 시 투명화",
 	"SubtitleDisplayFree": "(자유 배치) 자유 배치. 자막 자유 배치 가능",
 
+	"SettingsDMMAreaErrors" : "DMM 지역제한",
+	"SettingsDMMRedirectGadget" : "Gadget 액세스",
+	"SettingsDMMRedirectGadgetTip" : "해외에서의 액세스 제한에 의해 접속이 안될시 체크해 주세요. 이미 VPN 또는 후킹등을 사용해서 접속하고 있는 경우에는 필요없으니 해제 해주세요.",
+	"SettingsDMMGadgetCacheUrl" : "커스텀 Gadget 서버 URL",
+	"SettingsDMMGadgetCacheUrlTip" : "현재 기본 Gadget 서버 주소는 `kcwiki.github.io`로 설정되어 있습니다. 다른 URL를 사용하고 싶을때에는, 「gadget_html5/」디렉토리 앞에 URL 앞부분 주소만 입력하면 됩니다. 예를들어, `http://luckyjervis.com/gadget_html5/js/kcs_const.js`로 설정 하고 싶을떄에는, `http://luckyjervis.com/`만 입력해 주세요.",
+	
 	"SettingsDMMGameplay": "DMM 옵션",
 	"SettingsDMMCustomize": "커스터마이징 적용",
 	"SettingsDMMForceCookies": "강제 쿠키 핵",

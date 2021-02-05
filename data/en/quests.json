@@ -1733,7 +1733,7 @@
 	"936": {
         "code": "B164",
         "name": "Remodeled Cutting-Edge CL, Noshiro, Sortieing!",
-        "desc": "Sortie Noshiro Kai Ni as flagship, 3 DD and up to 2 additional ships to [W2-4], [W3-2], [W5-3], [W7-1] and [W7-2-M]. S?-Rank all relevant boss nodes.",
+        "desc": "Sortie Noshiro Kai Ni as flagship, 3 DD and up to 2 additional ships to [W2-4], [W3-2], [W5-3], [W7-1] and [W7-2-M]. S-Rank all relevant boss nodes.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 15.2cm Twin Gun Mounts Kai OR two 8cm High-angle Guns OR two 25mm Triple Autocannon Mounts"
     },
 
@@ -3698,14 +3698,21 @@
       },
       "234": {
         "code": "2102LQ1",
-        "name": "Time-Limited Valentine's Quest:",
-        "desc": "Sortie a CL, 2 DD and up to 3 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A?-Rank+ the boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and either four Development Materials OR two 25mm Twin Autocannon Mounts OR a Furniture Fairy"
+        "name": "Time-Limited Valentine's Day Quest: First Operation",
+        "desc": "Sortie a CL, 2 DD and up to 3 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A-Rank+ the boss nodes.",
+        "memo": "\u27a3Rewards a Mamiya and either four Development Materials OR two 25mm Twin Autocannon Mounts OR a Furniture Fairy",
+        "unlock": [ 238 ]
+      },
+      "238": {
+        "code": "2102LQ2",
+        "name": "Time-Limited Valentine's Day Quest: Second Operation",
+        "desc": "Sortie a CL(T)/CA(V)/CT as flagship and up to 5 additional ships to [W1-3], [W2-4], [W3-1], [W3-3] and [W4-2]. S-Rank the boss nodes.",
+        "memo": "\u27a3Rewards Valentine's Day Chocolate and either a Medal OR a Reinforcement Expansion OR an Action Report"
       },
       "349": {
         "code": "2102LQ3",
-        "name": "Time-Limited Valentine's Quest: Special Exercises",
-        "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA, 1 CL, 2 DD and up to 1 additional ship.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards ?"
+        "name": "Time-Limited Valentine's Day Quest: Special Exercises",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD and up to 1 additional ship.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR five Development Materials\n\u00B6Second choice: Either a Medal OR a Mamiya"
       }
 }

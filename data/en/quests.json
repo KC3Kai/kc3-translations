@@ -1728,7 +1728,13 @@
         "code": "B163",
         "name": "Name Ship of the Kuma-class Light Cruisers, Sortieing, Kuma!",
         "desc": "Sortie Kuma Kai Ni+ as flagship to [W1-6-N], [W2-2], [W3-2] and [W7-3-P]. S-Rank all relevant boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Reinforcement Expansion and either two 25mm Triple Autocannon Mounts OR a Daihatsu Landing Craft OR three Screws"
+        "memo": "\u27a3Rewards a Reinforcement Expansion and either two 25mm Triple Autocannon Mounts OR a Daihatsu Landing Craft OR three Screws"
+    },
+	"936": {
+        "code": "B164",
+        "name": "Remodeled Cutting-Edge CL, Noshiro, Sortieing!",
+        "desc": "Sortie Noshiro Kai Ni as flagship, 3 DD and up to 2 additional ships to [W2-4], [W3-2], [W5-3], [W7-1] and [W7-2-M]. S?-Rank all relevant boss nodes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 15.2cm Twin Gun Mounts Kai OR two 8cm High-angle Guns OR two 25mm Triple Autocannon Mounts"
     },
 
     "201": {
@@ -2352,7 +2358,7 @@
         "code": "C50",
         "name": "Annual DesDiv 10 Exercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni.",
-        "memo": "\nThis quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
+        "memo": "This quest resets on the first quest reset of October.\n\u203bSupreme! Mainstay of Mainstays, Commence Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Materials OR a Mamiya",
         "tracking": [ [0,4] ]
     },
     "347": {
@@ -2364,8 +2370,9 @@
     "348": {
         "code": "C53",
         "name": "Annual CL Exercises - February",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship, 2+ additional CL(T)/CT, 2 DD and up to 1 additional ship.",
-        "memo": "\u203bElite Light Cruiser Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three Buckets\n\u00B6Second choice: Either two 14cm Twin Gun Mounts OR two 15.2cm Twin Gun Mounts OR three Screws"
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship, 2 additional CL(T)/CT, 2 DD and up to 1 additional ship.",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bElite Light Cruiser Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three Buckets\n\u00B6Second choice: Either two 14cm Twin Gun Mounts OR two 15.2cm Twin Gun Mounts OR three Screws",
+        "unlock": [ 349 ]
     },
     
     
@@ -2631,6 +2638,14 @@
         "memo": "This quest resets on the first quest reset of September.\n\u203bExpeditionary Supply Line Reinforcement Mission - Extra Operation\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR four Screws\n\u00B6Second choice: two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 41", "{0} Expedition 5", "{0} Expedition 40", "{0} Expedition E2", "{0} Expedition 46" ]
+    },
+    "442": {
+        "code": "D38",
+        "name": "Annual Expeditions - February",
+        "desc": "Complete Expeditions D1, 29, 30 and D3.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of February.\n\u203bConduct Western Liaison Operation Preparations!\n\u27a3Rewards: ?",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition D1", "{0} Expedition 29", "{0} Expedition 30", "{0} Expedition D3" ]
     },
 
     "501": {
@@ -3354,17 +3369,32 @@
     },
     "714": {
         "code": "G6",
-        "name": "Annual Mod. - November",
+        "name": "Annual DD Mod. - November",
         "desc": "Have 600 Steel and 300 Bauxite. Modernize a DD using at least 3 DD twice.",
-        "memo": "\u203bExecute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Bucket OR two Development Materials\n\u00B6Second choice: Either two Combat Rations OR an Irako",
+        "memo": "This quest resets on the first quest reset of November.\n\u203bExecute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Bucket OR two Development Materials\n\u00B6Second choice: Either two Combat Rations OR an Irako",
         "unlock": [ 715 ],
         "tracking": [ [0,2] ]
     },
     "715": {
         "code": "G7",
-        "name": "Annual Mod. 2 - November",
+        "name": "Annual DD Mod. 2 - November",
         "desc": "Have 900 Steel and 500 Bauxite. Modernize a DD using at least 3 CL twice.",
-        "memo": "\u203bPart 2: Execute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR two Screws",
+        "memo": "This quest resets on the first quest reset of November.\n\u203bPart 2: Execute Destroyer Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR two Screws",
+        "tracking": [ [0,2] ]
+    },
+    "716": {
+        "code": "G8",
+        "name": "Annual CL Mod. - February",
+        "desc": "Have 800 Steel and 400 Bauxite. Modernize a CL(T) using at least 3 CL(T) twice.",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bExecute Light Cruiser Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Buckets OR three Development Materials\n\u00B6Second choice: Either two 25mm Single Autocannon Mounts OR an Irako",
+        "unlock": [ 717 ],
+        "tracking": [ [0,2] ]
+    },
+    "717": {
+        "code": "G9",
+        "name": "Annual CL Mod. 2 - February",
+        "desc": "Have 900 Steel and 900 Ammo. Modernize a CL(T) using at least 3 CA(V) twice.",
+        "memo": "This quest resets on the first quest reset of February.\n\u203bPart 2: Execute Light Cruiser Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a 15.2cm Twin Gun Mount\n\u00B6Second choice: Either two Type 22 Surface Radars OR two Screws",
         "tracking": [ [0,2] ]
     },
 
@@ -3488,7 +3518,7 @@
         "code": "2101LQ8",
         "name": "Weekly Setsubun Extra Mission: Reiwa 3rd Year Setsubun Operation, All-Out Sortie!",
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points",
+        "memo": "\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points",
         "hash": -1521320912
     },
     "441": {
@@ -3663,7 +3693,19 @@
         "code": "2101LQ4",
         "name": "New Year's Quest Chain, Extra Operation: First Fleet, Sortie!",
         "desc": "Sortie Fleet 1 to [W3-5], [W4-5], [W7-2-M] and [W7-3-P]. S-Rank the boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards furniture and either two Blueprints OR a Prototype Flight Deck Catapult OR a Type 4 Heavy Bomber Hiryuu",
+        "memo": "\u27a3Rewards furniture and either two Blueprints OR a Prototype Flight Deck Catapult OR a Type 4 Heavy Bomber Hiryuu",
         "hash": -1857989693
+      },
+      "234": {
+        "code": "2102LQ1",
+        "name": "Time-Limited Valentine's Quest:",
+        "desc": "Sortie a CL, 2 DD and up to 3 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A?-Rank+ the boss nodes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and either four Development Materials OR two 25mm Twin Autocannon Mounts OR a Furniture Fairy"
+      },
+      "349": {
+        "code": "2102LQ3",
+        "name": "Time-Limited Valentine's Quest: Special Exercises",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA, 1 CL, 2 DD and up to 1 additional ship.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards ?"
       }
 }

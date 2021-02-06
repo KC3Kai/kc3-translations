@@ -2372,7 +2372,8 @@
         "name": "Annual CL Exercises - February",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship, 2 additional CL(T)/CT, 2 DD and up to 1 additional ship.",
         "memo": "This quest resets on the first quest reset of February.\n\u203bElite Light Cruiser Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three Buckets\n\u00B6Second choice: Either two 14cm Twin Gun Mounts OR two 15.2cm Twin Gun Mounts OR three Screws",
-        "unlock": [ 349 ]
+        "unlock": [ 349 ],
+        "tracking": [ [0,4] ]
     },
     
     
@@ -3701,18 +3702,21 @@
         "name": "Time-Limited Valentine's Day Quest: First Operation",
         "desc": "Sortie a CL, 2 DD and up to 3 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A-Rank+ the boss nodes.",
         "memo": "\u27a3Rewards a Mamiya and either four Development Materials OR two 25mm Twin Autocannon Mounts OR a Furniture Fairy",
-        "unlock": [ 238 ]
+        "unlock": [ 238 ],
+        "hash": 1157240385
       },
       "238": {
         "code": "2102LQ2",
         "name": "Time-Limited Valentine's Day Quest: Second Operation",
         "desc": "Sortie a CL(T)/CA(V)/CT as flagship and up to 5 additional ships to [W1-3], [W2-4], [W3-1], [W3-3] and [W4-2]. S-Rank the boss nodes.",
-        "memo": "\u27a3Rewards Valentine's Day Chocolate and either a Medal OR a Reinforcement Expansion OR an Action Report"
+        "memo": "\u27a3Rewards Valentine's Day Chocolate and either a Medal OR a Reinforcement Expansion OR an Action Report",
+        "hash": 1286533325
       },
       "349": {
         "code": "2102LQ3",
         "name": "Time-Limited Valentine's Day Quest: Special Exercises",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD and up to 1 additional ship.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR five Development Materials\n\u00B6Second choice: Either a Medal OR a Mamiya"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR five Development Materials\n\u00B6Second choice: Either a Medal OR a Mamiya",
+        "hash": 1184377560
       }
 }

@@ -951,7 +951,8 @@
 	"ExpedGSRateExplainSparkle": "키라작이 된 칸무스가 함대에 있으면 대성공 확률이 상승합니다. \n 현재 수: {0}",
 
 	"ConsumablesFCoinBoxes" : "가구상자（소）x{0} = {1}\n가구상자（중）x{2} = {3}\n가구상자（대）x{4} = {5}\n전부교환하면 = {6}\n+소지가구코인 = {7}",
-	"ConsumablesScrewExchanges" : "훈장 x{0} = {1}\n선물 상자 x{2} = {3}\n전부교환하면 = {4}\n+소지가구코인 = {5}",
+	"ConsumablesScrewExchanges" : "훈장 x{0} = {1}\n훈장 x{2} = {3}\n선물 상자 x{4} = {5}\n전부교환하면 = {6}\n+소지가구코인 = {7}",
+	"ConsumablesDevmatExchanges" : "갑종훈장 x{0} = {1}\n선물 상자 x{2} = {3}\n전부교환하면 = {4}\n+소지가구코인 = {5}",
 
 	"CraftEquipNoteFirst": "현시점 기준 이 장비의 <strong>첫번째</strong>입니다!",
 	"CraftEquipNoteExists": "이 장비를 현재 <strong>{0}</strong>개 보유 중입니다.",

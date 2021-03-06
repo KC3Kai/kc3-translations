@@ -338,9 +338,9 @@
 	"SettingsDisableUnlockShipsTip" : "Having this activated will cause the Taiha Alert and Advance Button Blocker NOT to appear when a ship that has not been heart-locked is in a taiha state.",
 	"SettingsNoAnimation" : "No Animation Effect",
 	"SettingsNextBlocker" : "Advance Button Blocker",
-	"SettingsNextBlockerTip" : "Enabling this feature will help prevent the user from pressing the advance button when there is a taiha ship in the fleet.\n\nThis doesn't mean you shouldn't pay attention to the HP levels of your ships! Please be aware that if there are any battle API changes, such changes may cause the advance button block to fail in unexpecteded ways. If any such API changes are observed, it is advisable to disable the option in order to avoid unfortunate mistakes.\n\nAlso, please note that \"SE mode\" requires the in-game sound option \"SE\" to be unmuted, which results in a fairy being displayed. \"SE mode\" will automatically enter \"Network mode\" instead if the in-game \"SE\" is muted, which still blocks the advance button, but doesn't display a fairy. Note that the game can still be freely muted in the panel without affecting \"SE mode\".",
-	"SettingsNextBlockerSE" : "SE mode",
-	"SettingsNextBlockerNetwork" : "Network mode",
+	"SettingsNextBlockerTip" : "Enabling this feature will help prevent the user from pressing the advance button when there is a taiha ship in the fleet.\n\nThis doesn't mean you shouldn't pay attention to the HP levels of your ships! Please be aware that if there are any battle API changes, such changes may cause the advance button block to fail in unexpecteded ways. If any such API changes are observed, it is advisable to disable this option in order to avoid unfortunate mistakes.\n\nPlease note that \"Block w/Fairy\" mode requires the in-game sound option \"SE\" to be unmuted. \"Block w/Fairy\" mode will automatically enter \"Block w/o Fairy\" mode instead if the in-game \"SE\" is muted. Note that the game can still be freely muted in the panel without affecting \"SE mode\".",
+	"SettingsNextBlockerSE" : "Block w/Fairy",
+	"SettingsNextBlockerNetwork" : "Block w/o Fairy",
 	"SettingsNextBlockerSecondFS" : "No Bully Escort Flagship",
 	"SettingsNextBlockerSecondFSTip" : "Having this activated will cause the Advance Button Blocker to still appear when the escort flagship of a combined fleet is in a taiha state.",
 	
@@ -387,7 +387,7 @@
 	"SettingsDMMRedirectGadget" : "Gadget Block Bypass",
 	"SettingsDMMRedirectGadgetTip" : "Enable this if you get a white screen with HTTP 403 error messages upon starting the game. Don't enable this if you're already behind a proxy, such as a Japanese VPN or KCCacheProxy.\n\nExplanation:\nKanColle has a gadget server, which sends metadata required for connecting to the game\u2014namely, the game version and the server's address. The KanColle regional block may prevent access to this based on where you're connecting from. The Gadget Block Bypass option will reroute traffic to a public cache server in an attempt to allow the game to load without denying access.",
 	"SettingsDMMGadgetCacheUrl" : "Custom Gadget Cache URL",
-	"SettingsDMMGadgetCacheUrlTip" : "The current default public cache server for the Gadget Block Bypass option is hosted on `kcwiki.github.io`, which is regularly updated by an English KanColle wiki administrator. Cache updating might be lagged following a game update. This option allows you to configure the Gadget Block Bypass to use an alternate public server in the interest of improving updating or connection speed.\n\nOnly input the initial part of the cache server's URL\u2014everything before the `/gadget_html5/` subdirectory. For example, if attemping to use\n\n`http://luckyjervis.com/gadget_html5/js/kcs_const.js` \n\nyou will need to enter this into the field:\n\n`http://luckyjervis.com/`",
+	"SettingsDMMGadgetCacheUrlTip" : "The current default public cache server for the Gadget Block Bypass option is hosted on `kcwiki.github.io`, which is regularly updated by an English KanColle wiki administrator. This option allows you to configure the Gadget Block Bypass to use an alternate public server in the interest of updating the game more efficiently or for improving connection speed. Note that you may experience additional lag when updating the game's cache following a game update.\n\nOnly input the initial part of the cache server's URL\u2014everything before the `/gadget_html5/` subdirectory. For example, if attemping to use\n\n`http://luckyjervis.com/gadget_html5/js/kcs_const.js` \n\nyou will need to enter this into the field:\n\n`http://luckyjervis.com/`",
 	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",
@@ -537,7 +537,7 @@
 	"APIWaitToggle" : "Please load KC3Kai panel first",
 	"APIConcealExpl" : "Hover to show your API Link",
 	
-	"NextButtonBlockOverlay" : "Taiha predicted. \"Advance\" Button blocked. Press F10 to clear overlay.",
+	"NextButtonBlockOverlay" : "Taiha predicted\u2014advance button blocked. Press F10 or click on this text to manually unblock it.",
 	
 	"GameUpdateDetected" : "An update to the game has been detected!",
 	"GameUpdateBoth" : "<strong>{0} new ship(s) or CG(s)</strong> and <strong>{1} new piece(s) of equipment</strong> detected!",

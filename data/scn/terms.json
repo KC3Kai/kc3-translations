@@ -456,7 +456,7 @@
 	"SettingsDMMCustomCSS" : "自定义CSS样式",
 	"SettingsDMMCustomCSSTip" : "使用合法的CSS3语法定制页面样式。如果你不熟悉CSS以及DMM网站源码，请不要改动。要使改动生效，需要重新加载DMM网站页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
 
-	"SettingsDataSynchronization" : "通过登录Chrome账户同步数据",
+	"SettingsDataSynchronization" : "登录Chrome账户同步数据",
 	"SettingsEnableDataSyncNotif" : "同步成功时显示桌面通知",
 	"SettingsChromeSyncQuests" : "同步任务追踪",
 
@@ -590,7 +590,7 @@
 	"Black" : "黑",
 	"White" : "白",
 	"Theme" : "主题",
-	"Panel" : "面板",
+	"Panel" : "信息面板",
 	"Volume" : "音量",
 	"None" : "无",
 	"Unknown": "未知",

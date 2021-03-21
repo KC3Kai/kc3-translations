@@ -320,7 +320,7 @@
 	"SettingsIdleWarnDesc"   : "何秒後から放置画面を表示するかを設定します。0にすると無効になります。",
 	"SettingsRscCapWarnFrom" : "最大備蓄可能各資材量超え",
 
-	"SettingsTaihaAlert"          : "大破警告エフェクト",
+	"SettingsTaihaAlert"          : "大破警告と進撃ブロッカー",
 	"SettingsScreenBlur"          : "画面ぼかし(旧モード用)",
 	"SettingsScreenBlood"         : "画面血塗れ(旧モード用)",
 	"SettingsAppearOnScreenshots" : "スクショにも表示",
@@ -339,7 +339,7 @@
 	"SettingsNextBlockerSecondFS" : "連合艦隊第二旗艦轟沈可能?",
 	"SettingsNextBlockerSecondFSTip" : "可能だと思うなら第二艦隊の旗艦大破時も進撃ボタンがブロックされます。",
 
-	"SettingsAPIGameScreen" : "ゲーム画面",
+	"SettingsAPIGameScreen" : "ゲーム画面のカスタム",
 	"SettingsQuestOverlay" : "画面に任務翻訳(他の言語用)",
 	"SettingsGoogleTranslate": "任務翻訳にGoogle翻訳を使用",
 	"SettingsQuestTracking" : "画面に任務進捗表示",
@@ -389,11 +389,11 @@
 	"SettingsDMMCustomCSS" : "CSSカスタマイズ",
 	"SettingsDMMCustomCSSTip" : "有効なCSS3を使ってDMM公式サイトをカスタマイズできます。\nCSSとDMM公式サイトのソースコードをよく理解し、自己責任で書いてください。\nこれを有効するにはゲームページをリロードする必要があります。\n一部のCSSに`!important`をつけるのを忘れないでね。",
 
-	"SettingsDataSynchronization" : "Chrome Storageを使って同期するデータ",
+	"SettingsDataSynchronization" : "Chrome Storageへの同期データ",
 	"SettingsEnableDataSyncNotif" : "同期した際の通知",
 	"SettingsChromeSyncQuests" : "任務進捗",
 
-	"SettingsDataBackupReminder" : "データバックアップリマインダー",
+	"SettingsDataBackupReminder" : "バックアップリマインダー",
 	"SettingsBackupFrequency"    : "通知頻度",
 	"SettingsBackupFrequencyNone"      : "なし",
 	"SettingsBackupFrequencyWeekly"    : "ウィークリー",
@@ -415,7 +415,7 @@
 	"SettingsKC3DBSubmission" : "KC3改への送信 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "協力する",
 
-	"SettingsTsunDBSubmission" : "KC3改TsunDBへの送信 (https://tsundb.kc3.moe)",
+	"SettingsTsunDBSubmission" : "TsunDBへの送信 (https://tsundb.kc3.moe)",
 	"SettingsFeatureToggleTsunDB" : "KC3改TsunDBへの送信",
 	"SettingsEnableTsunDBSubmission" : "基本情報",
 	"SettingsEnableTsunDBExtraSubmission" : "検証中のデータ",
@@ -515,7 +515,7 @@
 	"Black" : "黒",
 	"White" : "白",
 	"Theme" : "テーマ",
-	"Panel" : "パネル",
+	"Panel" : "情報パネル",
 	"Volume" : "ボリューム",
 	"None" : "なし",
 	"Unknown" : "不明",

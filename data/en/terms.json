@@ -553,7 +553,7 @@
 	"CatBombServerCommErrorTitle" : "Server Communication Error",
 	"CatBombServerCommErrorMsg"   : "[{0}] failed to communicate with the server. This was most likely a connectivity error and is unrelated to your API link.",
 	"CatBombHardAPIErrorTitle" : "Hard API Error",
-	"CatBombHardAPIErrorMsg"   : "The server responded with an error for your API calls. Either you're using an expired API link or the game is under maintenance. Try refreshing your API link or checking <a href=\"https://twitter.com/KanColle_STAFF\" target=\"_blank\">the staff</a> or <a href=\"https://en.kancollewiki.net/Kancolle_Wiki\" target=\"_blank\">a wiki</a> for notices.",
+	"CatBombHardAPIErrorMsg"   : "The server responded with an error for your API calls. Either your API link has expired or the game is under maintenance. Try signing-in again to get a new API link, and check <a href=\"https://twitter.com/KanColle_STAFF\" target=\"_blank\">the game staff Twitter</a> or <a href=\"https://en.kancollewiki.net/Kancolle_Wiki\" target=\"_blank\">a wiki</a>.",
 	"CatBombWrongComputerClockTitle" : "Incorrect Computer Clock!",
 	"CatBombWrongComputerClockMsg"   : "Please update your computer's clock. While you don't need to set it to Japan's timezone, it needs to be correct for your local timezone! Your clock is off by {0} minutes.",
 	"CatBombErrorOnHomePortTitle" : "Error when entering Home Port screen",

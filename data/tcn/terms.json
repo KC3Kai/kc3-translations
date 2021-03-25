@@ -94,7 +94,7 @@
 
   "GameAPINoExist": "唉唷，不好意思，提督你沒有任何可用的API連結呢！",
   "GameAPIGetTitle": "取得一個新的API連結",
-  "GameAPIGetDesc": "使用在瀏覽器右上的<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"../popup/img/refresh.png\" /> <strong>更新API連結</strong>就可以了喔！很簡單吧？",
+  "GameAPIGetDesc": "使用在瀏覽器右上的<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"/assets/img/ui/refresh.png\" /> <strong>更新API連結</strong>就可以了喔！很簡單吧？",
   "GameAPIExistTitle": "使用現有的API連結",
   "GameAPIExistDesc": "如果你已經擁有一個API連結，你可以在此輸入：",
   "GameAPIExistBtn": "使用API連結",
@@ -103,7 +103,7 @@
   "GameAPIRemindTitle": "新米提督請注意！",
   "GameAPIRemindDesc": "還沒搶到艦娘帳號的話，就乖乖的不要用KC3改。KC3改預設你已經是成功登入遊戲了，得到的API連結根本就不能玩，還有你不能用API連結輸入你的提督名，<s>所以不要作死喔</s>！等待一切都在官網搞好之後再用API連結吧。",
   "GameAPIAltTitle": "其他方法",
-  "GameAPIAltDesc": "如果API連結不適合你的話，KC3改也不會歧視你喔。使用<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"../popup/img/dmm.png\" /> <strong>用DMM網頁來玩</strong>去玩吧。<kbd class=\"light\">F12</kbd>面板屆時也會幫助你喔。",
+  "GameAPIAltDesc": "如果API連結不適合你的話，KC3改也不會歧視你喔。使用<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改目錄</strong>中的<img src=\"/assets/img/ui/menu/dmm.png\" /> <strong>用DMM網頁來玩</strong>去玩吧。<kbd class=\"light\">F12</kbd>面板屆時也會幫助你喔。",
   "GameAPIExpiredAlert" : "您目前的API連結已經過期",
   "GameAPIExpiredExplanation" : "KC3改偵測到您目前的API連結可能已經過期或是使用過了，請確認您沒有使用了過期的API連結。<br>您可能需要透過點選此按鈕重新獲取API連結。",
 
@@ -120,11 +120,14 @@
   "AboutTitle": "關於KC3改",
   "Version": "版本",
 
-  "AboutWebStore" : "下載頁面",
-  "AboutFacebook" : "追隨我們！",
+  "AboutWebsite": "官網",
+  "AboutWebStore": "下載頁面",
+  "AboutFacebook": "追隨我們！",
+  "AboutTwitter": "Twitter",
   "AboutSource": "原始碼",
   "AboutReport": "回報問題",
-  "AboutDiscord" : "Discord頻道(歡迎加入！)",
+  "AboutDiscord": "Discord頻道(歡迎加入！)",
+  "AboutPrivacy": "私隱政策",
 
   "AboutInvdividuals" : "KC3改團隊",
   "AboutPartners" : "合作伙伴",
@@ -173,8 +176,6 @@
 
   "AboutPartnerKCTHFBName" : "KC-TH「Kantai Collection Translators」",
   "AboutPartnerKCTHFBDesc" : "本插件的泰文翻譯與Facebook上相關的更新貼文",
-
-  "AboutWebsite": "KC3改官網",
 
   "AboutSubtitleHelp": "語音字幕翻譯",
   "AboutSourceGakadaVoices": "感謝<strong>gakada</strong><a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">為字幕解碼帶來的突破</a>",
@@ -802,6 +803,12 @@
   "FitWeightTotal" : "炮戰準確度",
   "EquipOaswMessage" : "開幕反潛！",
   "EquipOaswPower" : "基本反潛能力：",
+
+  "SurfaceRadar" : "對海面雷達",
+  "AirRadar" : "對空雷達",
+  "Rotorcraft" : "自轉旋翼機",
+  "Helicopter" : "直升機",
+  "AaMachineGun" : "對空機槍",
 
   "PvpListTitle" : "演習對手",
   "PvpListCreateType0" : "演習艦隊【第一群】",

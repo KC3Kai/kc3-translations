@@ -1745,20 +1745,21 @@
     "938": {
         "code": "B166",
         "name": "Remodeled Aviation Cruiser, Mogami, Setting Sail!",
-        "desc": "Sortie Mogami Kai Ni+ as flagship to [W2-2], [W2-4], [W4-5] and [W5-1]. S?-Rank all relevant boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Medal OR eight Development Materials OR two Zuiun Model 12\n\u00B6Second choice: Either a Furniture Fairy OR a Mamiya OR a Skilled Crew Member"
+        "desc": "Sortie Mogami Kai Ni+ as flagship to [W2-2], [W2-4], [W4-5] and [W5-1]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR eight Development Materials OR two Zuiun Model 12\n\u00B6Second choice: Either a Furniture Fairy OR a Mamiya OR a Skilled Crew Member",
+        "unlock": [ 939 ]
+    },
+    "939": {
+        "code": "B167",
+        "name": "Nishimura Fleet, Elite Vanguard Sweeper Squadron, Advancing!",
+        "desc": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and up to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S?-Rank all relevant boss nodes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an 8cm High-angle Gun Kai + Extra Machine Guns OR an Action Report OR two Repair Goddesses\n\u00B6Second choice: Either two Medals OR two Type C Kouhyouteki OR a Kyoufuu Kai"
     },
     "940": {
         "code": "B168",
         "name": "DesRon 2 Flagship\u2013Yahagi, Assuming Command!",
         "desc": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5], [W5-3] and [W5-5]. S?-Rank all relevant boss nodes.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +2 15.2cm Twin Gun Mount Kai Ni and furniture"
-    },
-    "941": {
-        "code": "2103LQ2",
-        "name": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
-        "desc": "Sortie a CL/CT/AS as flagship and up to 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S?-Rank the boss nodes twice each.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either a Type 3 Active Sonar OR a Type 3 Depth Charge Projector OR five Development Materials\n\u00B6Second choice: Either two Type 95 Depth Charges OR two Irako OR a Furniture Fairy"
     },
 
     "201": {
@@ -2703,7 +2704,7 @@
         "code": "D40",
         "name": "Annual Expeditions 2 - March",
         "desc": "Complete Expeditions 5, 12, 9, B1 and 11.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March.\n\u203bA Naval Convoy Transport of New Armament Development Materials!\n\u27a3Rewards unknown",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March.\n\u203bA Naval Convoy Transport of New Armament Development Materials!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets\n\u00B6Second choice: Either a New Model Armament Materials OR a New Model Aviation Armament Materials OR four Screws",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 5", "{0} Expedition 12", "{0} Expedition 9", "{0} Expedition B1", "{0} Expedition 11" ]
     },
@@ -3845,5 +3846,11 @@
         "desc": "Sortie Amatsukaze as flagship, one of Tokitsukaze, Yukikaze or Hatsukaze as second ship, and up to 4 additional ships to [W2-2], [W2-3] and [W7-3-P]. A-Rank+ each boss node twice.",
         "memo": "\u27a3Rewards a Furniture Fairy and either six Buckets OR three Type 3 Depth Charge Projectors OR three Underway Replenishments",
         "hash": -1999075280
+    },
+    "941": {
+        "code": "2103LQ2",
+        "name": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
+        "desc": "Sortie a CL/CT/AS as flagship and up to 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes twice each.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Type 3 Active Sonar OR a Type 3 Depth Charge Projector OR five Development Materials\n\u00B6Second choice: Either two Type 95 Depth Charges OR two Irako OR a Furniture Fairy"
     }
 }

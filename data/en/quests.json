@@ -2681,6 +2681,14 @@
         "desc": "Complete Expedition 30 twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Bf 109T Kai OR a Do 17 Z-2\n\u00B6Second choice: Either a New Model Armament Materials OR two New Model Aviation Armament Materials OR four Screws"
     },
+    "444": {
+        "code": "D40",
+        "name": "Annual Expeditions 2 - March",
+        "desc": "Complete Expeditions 5, 12, 9, B1 and 11.",
+        "memo": "This quest resets on the first quest reset of March.\n\u2623This quest is still being verified. Report any problems to the KC3 team.",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Expedition 5", "{0} Expedition 12", "{0} Expedition 9", "{0} Expedition B1", "{0} Expedition 11" ]
+    },
 
     "501": {
         "code": "E1",

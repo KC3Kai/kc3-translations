@@ -817,6 +817,7 @@
 	"PanelTransportPoints": "수송작전보스 A / S승리시：{0} / {1} TP",
 	"PanelTransportPointsAbbr" : "TP",
 	"PanelSupportExpCosts": "지원함대 타입：지원{0}\n지원원정시 소비하는 자재\n 연료：{1}, 탄약：{2}",
+	"PanelSupportShowRate" : "지원함대 발생확률\n 전위：{0}%, 결전：{1}%",
 	"PanelAirContactTip"   : "{0}에서의\n촉접 성공률：{1}%\n촉접 개시율：{2}%{4:contactPlanes}\n전슬롯 선택 불발율：{3}%",
 	"PanelAirContactPlanes": "\n선택판정순 TOP{0}의 슬롯：\n{1:planeRateList}",
 	"PanelAirStrikeTip"    : "{1}항공전 공격력：{0}",
@@ -825,6 +826,15 @@
  	"PanelFleetAATip" : "함대 방공치는 함대 전체에 1개 값만 적용 되며, 대공포화의 고정격추에 가중대공치랑 같이 영향을 줍니다.",
 	"PanelFormationTip" : "\n선택된 진형은 비전투 상황의 진형이며 함선의 공격력이나 대공 수치 등의 여러가지 계산에 쓰여집니다.",
 	"PanelLayoutSelection" : "레이아웃 선택:",
+	"PanelElosHqModifier"   : "사령부 보정:",
+	"PanelElosNodeFactor"   : "분기점 계수{0}",
+	"PanelAirReconnScore"   : "6-3 항공정찰:",
+	"PanelAirReconnNodes"   : "G마스/H마스",
+	"PanelAirReconnFailure"      : "실패",
+	"PanelAirReconnSuccess"      : "성공",
+	"PanelAirReconnRandomSorGS"  : "랜덤",
+	"PanelAirReconnGreatSuccess" : "대성공",
+
 
 
 	"PanelHasTaiha": "대파",
@@ -845,6 +855,8 @@
 	"PanelRecoveredMorale": "피로도 회복",
 	"PanelLbasCondBad": "피로도 나쁨",
 	"PanelSupportPower": "지원함대 화력",
+	"PanelSupportAerialPower" : "항공지원 화력",
+	"PanelSupportAntisubPower" : "대잠지원 화력",
 	"PanelPlanesFighter": "항공전에 참여하는 함재기",
 	"PanelPlanesBomber": "포격전에 참여하는 함재기",
 
@@ -926,6 +938,10 @@
 	"ExpedShips": " 척",
 	"ExpedTotalLv": "총 레벨",
 	"ExpedCanister": "드럼통 탑재 : ",
+	"ExpedTotalHeader": "보정",
+	"ExpedTotalNone"  : "없음",
+	"ExpedTotalExped" : "+exped",
+	"ExpedTotalRadar" : "in-game",
 	"ExpedTotalAsw": "총 대잠",
 	"ExpedTotalLos": "총 색적",
 	"ExpedTotalAa": "총 대공",

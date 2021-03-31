@@ -1752,13 +1752,13 @@
     "939": {
         "code": "B167",
         "name": "Nishimura Fleet, Elite Vanguard Sweeper Squadron, Advancing!",
-        "desc": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and up to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S?-Rank all relevant boss nodes.",
+        "desc": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and up to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S-Rank all relevant boss nodes.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an 8cm High-angle Gun Kai + Extra Machine Guns OR an Action Report OR two Repair Goddesses\n\u00B6Second choice: Either two Medals OR two Type C Kouhyouteki OR a Kyoufuu Kai"
     },
     "940": {
         "code": "B168",
         "name": "DesRon 2 Flagship\u2013Yahagi, Assuming Command!",
-        "desc": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5], [W5-3] and [W5-5]. S?-Rank all relevant boss nodes.",
+        "desc": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5], [W5-3] and [W5-5]. S-Rank all relevant boss nodes.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +2 15.2cm Twin Gun Mount Kai Ni and furniture"
     },
 
@@ -2417,7 +2417,7 @@
         "code": "C57",
         "name": "The Remodeled Yahagi's Elite Torpedo Squadron Flagship Exercises!",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yahagi Kai Ni+ as flagship, 4 DD and up to 1 additional ship.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either a two 25mm Triple Autocannon Mounts OR a New Model Armament Materials OR furniture"
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 25mm Triple Autocannon Mounts OR a New Model Armament Materials OR furniture"
     },
     
     
@@ -3458,6 +3458,21 @@
         "memo": "This quest resets on the first quest reset of February.\n\u203bPart 2: Execute Light Cruiser Modernizations!\n\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a 15.2cm Twin Gun Mount\n\u00B6Second choice: Either two Type 22 Surface Radars OR two Screws",
         "tracking": [ [0,2] ]
     },
+    "718": {
+        "code": "G10",
+        "name": "Execute Mogami-class Modernizations!",
+        "desc": "Have 1100 Steel and 1100 Ammo. Modernize a Mogami-class ship using at least 3 CL(T) twice.",
+        "memo": "Mogami-class ships include Mogami, Mikuma, Suzuya and Kumano\n\u2718Consumes the resources.\n\u27a3Rewards a Reinforcement Expansion and either two 8cm High-angle Guns OR two 25mm Single Autocannon Mounts OR eight Development Materials",
+        "unlock": [ 719 ]
+    },
+    "719": {
+        "code": "G11",
+        "name": "Part 2: Execute Mogami-class Modernizations!",
+        "desc": "Have 1200 Steel and 1200 Ammo. Modernize a Mogami-class ship using at least 4 CA twice.",
+        "memo": "Mogami-class ships include Mogami, Mikuma, Suzuya and Kumano\n\u2718Consumes the resources.\n\u27a3Rewards a Type 21 Air Radar Kai Ni and either two 20.3cm (No.3) Twin Gun Mounts OR two Zuiun Model 12 OR five Screws"
+    },
+
+
 
     "866": {
         "code": "SB47",

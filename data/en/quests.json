@@ -491,7 +491,7 @@
         "name": "Form the New 7th Cruiser Division!",
         "desc": "Have Kumano Kai Ni (or Kou) as flagship, Suzuya Kai Ni (or Kou) as second ship, Mogami Kai and Mikuma Kai in Fleet 1.",
         "memo": "\u27a3Rewards an Irako",
-        "unlock": [ 858 ]
+        "unlock": [ 718, 858 ]
     },
     "182": {
         "code": "A77",
@@ -2217,7 +2217,8 @@
         "code": "C15",
         "name": "A Project to Facilitate the Combat Readiness of the Type-A Destroyers",
         "desc": "Secure 3 S-Ranks in Exercises using 2+ Kagerou-class or Yuugumo-class DDs. Then, sortie to [W2-2], [W2-3], [W2-4] and [W2-5]. A-Rank+ the bosses.",
-        "memo": "Use the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nYou must use fleet 1.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR a Furniture Fairy\n\u00B6Second choice: Either 5 Buckets OR 2 Combat Rations"
+        "memo": "Use the above Destroyer classes for the [W2] sorties as well.\nYou can use up to 4 other ships for this quest.\nYou must use fleet 1.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR a Furniture Fairy\n\u00B6Second choice: Either 5 Buckets OR 2 Combat Rations",
+        "unlock": [ 352 ]
     },
     "318": {
         "code": "C16",
@@ -3468,7 +3469,7 @@
     "719": {
         "code": "G11",
         "name": "Part 2: Execute Mogami-class Modernizations!",
-        "desc": "Have 1200 Steel and 1200 Ammo. Modernize a Mogami-class ship using at least 4 CA twice.",
+        "desc": "Have 1200 Steel and 1200 Ammo. Modernize a Mogami-class ship using at least 4 CA(V) twice.",
         "memo": "Mogami-class ships include Mogami, Mikuma, Suzuya and Kumano\n\u2718Consumes the resources.\n\u27a3Rewards a Type 21 Air Radar Kai Ni and either two 20.3cm (No.3) Twin Gun Mounts OR two Zuiun Model 12 OR five Screws"
     },
 

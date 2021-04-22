@@ -680,7 +680,7 @@
     "ShipEvaInterception" : "迎擊",
     "ShipDeployCost" : "配置消耗",
 	"ShipGearAntiLand" : "可對陸",
-	"ShipGearEvadeAAFire" : "對空射擊迴避",
+	"ShipGearEvadeAAFire" : "對空射擊迴避 (乘以個別/艦隊防空)",
 
     "ShipWarfareShelling" : "炮擊",
     "ShipWarfareTorpedo"    : "雷擊",
@@ -813,7 +813,7 @@
     "InferredFighterPower" : "基礎制空值：{0}\n　空劣：{1}，均勢：{2}，空優：{3}，確保：{4}",
     "InferredPvPDisclaimer" : "演習中敵方制空值會因為熟練度和改修度而進一步增加",
 	"InferredEnemyAircraft" : "敵軍機種：\n　戰鬥機（對空 > 0）：{0}\n　非戰鬥機（對空 = 0）：{1}\n　空戰參加者：{2}\n　不明機種：{3}",
-    "InferredLbasPlanes" : "　航空基地：{0} (Recon: {1})\n　　不明機種：{2}",
+    "InferredLbasPlanes" : "　航空基地：{0} (偵察機: {1})\n　　不明機種：{2}",
     "InferredSupportPlanes" : "　支援艦隊成員：{0}\n　　不明機種：{1}",
     "InferredExceptions" : "未作計算：{0:jsonData}",
 

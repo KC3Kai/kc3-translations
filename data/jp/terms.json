@@ -168,6 +168,10 @@
 	"AboutPartnerKCCalcDesc" : "艦隊シミュレーターとデッキビルダーを提供",
 	"AboutPartnerKCTHFBName" : "KC-TH 「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc" : "タイ語に翻訳し、最新情報のFacebookを立ち上げ",
+	"AboutPartnerKCNavName" : "ChamiさんのKCNav",
+	"AboutPartnerKCNavDesc" : "TsunDBのRoutingのデータを検索しやすくしたサイト",
+	"AboutPartnerKCImgBuilderName" : "HitomaruKonpakuさんのKCImgBuilder",
+	"AboutPartnerKCImgBuilderDesc" : "にしくまさんの艦これ編成画像出力サイトの引継ぎ",
 
 	"AboutSubtitleHelp" : "艦娘ボイス字幕提供言語:",
 	"AboutSourceGakadaVoices" : "艦娘達のボイスファイルの解析",
@@ -319,6 +323,7 @@
 	"SettingsIdleWarnStartAt": "放置画面開始までの時間",
 	"SettingsIdleWarnDesc"   : "何秒後から放置画面を表示するかを設定します。0にすると無効になります。",
 	"SettingsRscCapWarnFrom" : "最大備蓄可能各資材量超え",
+	"SettingsPreSortieAlert" : "出撃前にチェックする艦隊",
 
 	"SettingsTaihaAlert"          : "大破警告と進撃ブロッカー",
 	"SettingsScreenBlur"          : "画面ぼかし(旧モード用)",
@@ -581,6 +586,10 @@
 
 	"PanelPermissionTitle" : "ユーザーの手動許可をもとめます",
 	"PanelPermissionMessage" : "この機能へアクセスするための権限がブラウザに求められてるので、ツールバーのKC3改アイコンを一回クリックすれば許可が認められ、再操作をお願いします。",
+
+	"AlertPreSortieTitle" : "出撃前に第{0}艦隊のチェック結果",
+	"AlertPreSortieEquip" : "装備スロットが開いてる艦娘：{0}",
+	"AlertPreSortieLock"  : "識別札が付与されてない艦娘：{0}",
 
 	"LevelText"  : "レベル",
 	"LevelShort" : "Lv",

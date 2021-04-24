@@ -663,7 +663,7 @@
 	"PanelPermissionTitle" : "需要用户手势确认权限",
 	"PanelPermissionMessage" : "请先单击一次浏览器工具栏上的KC3改菜单图标。<br>这样KC3改才能从浏览器得到使用该功能的必要权限。",
 
-	"AlertPreSortieTitle" : "出击前的检查结果",
+	"AlertPreSortieTitle" : "出击前检查 #{0} 舰队的结果",
 	"AlertPreSortieEquip" : "存在未装备空槽的舰娘：{0}",
 	"AlertPreSortieLock" : "混入了未上活动锁的舰娘：{0}",
 

@@ -330,6 +330,7 @@
 	"SettingsIdleWarnStartAt" : "Idle Screen after",
 	"SettingsIdleWarnDesc" : "Time in seconds before idle screen shows, 0 for disable.",
 	"SettingsRscCapWarnFrom" : "Warn Resources Cap From",
+	"SettingsPreSortieAlert" : "Pre-sortie Checks on Fleet",
 	
 	"SettingsTaihaAlert" : "Annoying Taiha Alert",
 	"SettingsScreenBlur" : "Screen Blur (Old mode)",
@@ -594,10 +595,10 @@
 	
 	"PanelPermissionTitle" : "Your permission is needed",
 	"PanelPermissionMessage" : "Please click KC3\u6539 icon on browser toolbar once.<br/>To invoke this function on current page, your gesture is needed to enable KC3\u6539 granting the permission from browser.",
-
+	
 	"AlertPreSortieTitle" : "Pre-Sortie Check",
 	"AlertPreSortieEquip" : "Ships with empty equipment slots: {0}",
-	"AlertPreSortieLock" : "Ships that are currently not shiplocked: {0}",
+	"AlertPreSortieLock" : "Ships without event tag: {0}",
 	
 	"SpeedLand"    : "Land",
 	"SpeedSlow"    : "Slow",

@@ -5,8 +5,8 @@
 		["OK-", "good", "Một số máy bay trinh sát đã bị hạ"],
 		["-", "worst", "Tất cả máy bay trinh sát đã bị hạ"],
 		["NO", "bad", "Trinh sát thất bại"],
-		["OK+", "good", "Thành công"],
-		["NO+", "bad", "Thất bại"]
+		["OK+", "good", "Không có trinh sát cơ nào tham chiến"],
+		["NO+", "bad", "Không có trinh sát cơ nào tham chiến"]
 	],
 
 	"airbattle" : [
@@ -15,7 +15,7 @@
 		["AS", "good", "Ưu thế trên không"],
 		["AD", "bad", "Yếu thế trên không"],
 		["AI", "worse", "Mất quyền kiểm soát trên không"],
-		["None", "", "Không có không chiến"]
+		["None", "", "Không xảy ra không chiến"]
 	],
 
 	"engagement" : [

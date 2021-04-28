@@ -1765,7 +1765,7 @@
     "943": {
         "code": "B169",
         "name": "New Wings. Remodeled Aircraft Carrier Ryuuhou, Sortie!",
-        "desc": "Sortie Ryuuhou Kai Ni (E) as flagship and Shigure Kai Ni in the 1st fleet to [W2-2], [W2-3], [W2-4], [W2-5] and [W7-2-M]. S-Rank the boss nodes.",
+        "desc": "Sortie Ryuuhou Kai Ni (E) as Fleet 1 flagship, Shigure Kai Ni and up to 4 additional ships to [W2-2], [W2-3], [W2-4], [W2-5] and [W7-2-M]. S-Rank all relevant boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR a Tenzan Model 12A OR a Repair Goddess\n\u00B6Second choice: Either a +2 8cm High-angle Gun Kai + Extra Machine Guns OR a Type 0 Fighter Model 63 (Fighter-bomber) OR a Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
     },
 
@@ -2635,7 +2635,7 @@
         "name": "Reinforce the Recon Patrols and Defenses!",
         "desc": "Complete Expeditions 10, A2 and B1.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Furniture Fairy\n\u00B6Second choice: Either four Development Materials OR two Screws OR two 7.7mm Machine Guns",
-        "unlock": [ 433 ]
+        "unlock": [ 433, 444 ]
     },
     "433": {
         "code": "D31",
@@ -3873,13 +3873,13 @@
     "941": {
         "code": "2103LQ2",
         "name": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
-        "desc": "Sortie a CL/CT/AS as flagship and up to 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes twice each.",
+        "desc": "Sortie a CL/CT/AS as flagship and 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes twice each.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Type 3 Active Sonar OR a Type 3 Depth Charge Projector OR five Development Materials\n\u00B6Second choice: Either two Type 95 Depth Charges OR two Irako OR a Furniture Fairy"
     },
     "942": {
         "code": "2104LQ1",
         "name": "[8th Anniversary-Limited] Catalina Festival",
-        "desc": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and 2 additional ships to [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ the boss nodes twice each.",
+        "desc": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a PBY-5A Catalina OR twenty-eight Development Materials OR eight Tenzans\n\u00B6Second choice: Either a PBY-5A Catalina OR a Prototype Flight Deck Catapult OR eight Screws",
         "hash": -1254105866
     }

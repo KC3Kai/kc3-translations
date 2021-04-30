@@ -20,7 +20,7 @@
 	"MaxFleetsAvailable" : "Nombre max. de flottes",
 	"MaxShipGirlsAvailable" : "Nombre max. de navires",
 	"MaxHomeportUpgradesAvailable" : "Nombre max. d'emplacements",
-	"MaxEquipmentAvailable" : "Nombre max. d'équipement",
+	"MaxEquipmentAvailable" : "Nombre max. d'équipements",
 	"QuestMarkersAvailable" : "Nombre max. quêtes réalisables à la fois",
 	"ResourceSoftcapLimit" : "Limite d'augmentation automatique de ressources (softcap)",
 	"MainScreenBGM" : "Musique de l'écran principal",
@@ -30,7 +30,7 @@
 	"Name" : "Nom",
 	
 	"MenuKancolleName" : "Jouer à Kantai Collection",
-	"MenuKancolleDesc" : "Ouvrir l'onglet KC3改 où vous allez pouvoir personnaliser la page de jeu.",
+	"MenuKancolleDesc" : "Ouvrir l'onglet KC3改 où vous allez pouvoir personnaliser la page du jeu.",
 	"MenuStrategyName" : "Salle de stratégie",
 	"MenuStrategyDesc" : "Outils divers pour aider à élaborer des stratégies et à gérer votre flotte.",
 	"MenuSettingsDesc" : "Configuration d'extensions diverses s'appliquant à la session suivante.",
@@ -105,20 +105,21 @@
 	"GameAPIRemindDesc" : "N'utilisez pas KC3改 tant que vous n'avez pas passé l'étape de la loterie. KC3改 suppose qu'il est possible de jouer avec le compte connecté lors de l'extraction des liens API. Une fois que vous avez rejoint un serveur, vous devez également entrer votre nom d'amiral avant d'utiliser un lien API.",
 	"GameAPIAltTitle" : "Alternatives",
 	"GameAPIAltDesc" : "Si vous ne préférez pas utiliser de lien API et désirez jouer à KanColle sur le portail DMM, <img src=\"../popup/img/dmm.png\" /> <strong>Jouer sur le site de DMM</strong> dans le <img src=\"../../assets/img/logo/16.png\" /> <strong>menu KC3改</strong> permet également d'utiliser le panneau <kbd class=\"light\">F12</kbd> en l'ouvrant de la même façon.",
-	"GameAPIExpiredAlert" : "Votre session API à expiré.",
-	"GameAPIExpiredExplanation" : "KC3改 à détecté que votre lien API actuel n'a pas été demandé depuis 20 minutes ou plus. Pour vérifier que vous n'avez pas accédé cette onglet directement avec un lien API expiré.<br>Vous avez peut-être besoin de rafraîchir votre lien API grâce au menu pop-up ou avec ce bouton...",
+  
+	"GameAPIExpiredAlert" : "Votre session API a expiré.",
+	"GameAPIExpiredExplanation" : "KC3改 a détecté que votre lien API actuel n'a pas été demandé depuis 20 minutes ou plus. Pour vérifier que vous n'avez pas accédé cette onglet directement avec un lien API expiré.<br>Vous avez peut-être besoin de rafraîchir votre lien API grâce au menu pop-up ou avec ce bouton.",
 	
 	"GameStartDashTitle" : "Démarrer le jeu avec le tableau de bord de l'amiral.",
 	"GameStartDashDesc" : "Pour démarrer le jeu et obtenir des informations sur votre QG et sur le statut de votre flotte, il suffit d'ouvrir le tableau de bord. Vous aurez des informations comme le rang de votre QG, vos flottes, vos équipements, votre LoS, votre puissance aérienne, la vitesse de votre flotte, le moral, etc. Pour obtenir le panneau du tableau de bord :",
 	"GameStartDashWin" : "Pour Windows / Linux",
 	"GameStartDashOr" : "ou",
 	"GameStartDashMac" : "Sur Mac",
-	"GameStartDashChrome" : "Quand le panneau devtools s'ouvrira, sélectionner l'onglet « <strong>KanColle</strong> ».",
+	"GameStartDashChrome" : "Quand le panneau devtools s'ouvrira, sélectionner l'onglet «\u0020<strong>KanColle</strong>\u0020».",
 	"GameStartNowTitle" : "Je veux juste jouer.",
 	"GameStartNowDesc" : "Si vous n'avez pas besoin de ces fonctionnalités et que vous voulez juste lancer le jeu.",
 	"GameStartNowBtn" : "Lancer le jeu quand même.",
 	
-	"AboutTitle" : "À propos des développeurs de KC3改.",
+	"AboutTitle" : "À propos des développeurs.",
 	"Version" : "Version",
 	
 	"AboutWebsite": "Site internet",
@@ -199,8 +200,12 @@
 	"SettingsTimerDisplayType" : "Affichage du minuteur",
 	"SettingsTimeRemaining" : "Restant",
 	"SettingsTimeFinished" : "Fini",
-	"SettingsCheckLiveQuests" : "Vérifier nlles quêtes",
-	"SettingsDevOnlyPages" : "Pages de stratégie pour les devs seulement",
+
+	"SettingsCheckLiveQuests" : "Vérifier nouv. quêtes",
+	"SettingsDevOnlyPages" : "Options de devs",
+
+	"SettingsCheckLiveQuests" : "Vérifier nouv. quêtes",
+	"SettingsDevOnlyPages" : "Options pour les devs",
 	"SettingsForceDMMLogin" : "Forcer la connection DMM",
 	"SettingsAPIRecorder" : "API Recorder Panel",
 	"SettingsUpdateNotification" : "Notifications de mise à jour",
@@ -340,7 +345,8 @@
 	"SettingsMapNodeMarkers" : "Marquage des nœuds de la carte",
 	"SettingsMapClearerLetters" : "Lettres des nœuds plus clair",
 	"SettingsPanelRequirement" : "Panneau nécessaire",
-	"SettingsDirectRefresh" : "Rafraichir la page (Ancien mode)",
+
+	"SettingsDirectRefresh" : "Rafraîchir la page (danger !)",
 	"SettingsConfirmExit" : "Confirmation de fermeture",
 	"SettingsScreenMargin" : "Marge supérieure",
 	"SettingsBGColor" : "Couleur de fond",
@@ -378,7 +384,7 @@
 	"SettingsDMMCustomCSS" : "CSS personnalisé",
 	"SettingsDMMCustomCSSTip" : "Déclaration de CSS3 valide. Ne changez pas ça si vous n'êtes pas familié avec le CSS ou les sources de DMM. Pour voir vos changements, rechargez la page DMM. N'oubliez pas que des fois `!important` est important d'écrire par dessus ceux par défaut.",
 
-	"SettingsDataSynchronization" : "Syncronisation des données via Chrome Storage",
+	"SettingsDataSynchronization" : "Synchronisation des données via Chrome Storage",
 	"SettingsEnableDataSyncNotif" : "Activer les notifications",
 	"SettingsChromeSyncQuests" : "Syncroniser les quètes",
 	
@@ -510,8 +516,8 @@
 	"Debuffed" : "Boss débuff !",
 	"Placeholder" : "----",
 
-	"UnwantedExit" : "Les liens API expirent après une utilisation. Vous devez « Rafraîchir le lien API » grâce au menu, sinon, vous n'obtiendrez que des erreurs (catbombs) !",
-	"UnwantedExitDMM" : "Vous allez quitter la page et le jeu ! Faire uniquement un rafraichissement règlera sûrement le problème et vous n'obtiendrez pas de catbomb. Les liens API n'ont pas d'importance ici.",
+	"UnwantedExit" : "Les liens API expirent après une utilisation. Vous devez «\u0020Rafraîchir le lien API\u0020» grâce au menu, sinon, vous n'obtiendrez que des erreurs (catbombs) !",
+	"UnwantedExitDMM" : "Vous allez quitter la page et le jeu ! Faire uniquement un rafrachissement règlera sûrement le problème et vous n'obtiendrez pas de catbomb. Les liens API n'ont pas d'importance ici.",
 	"APIWaitToggle" : "Merci de charger le panneau de KC3Kai en premier.",
 	"APIConcealExpl" : "Montrer le lien API.",
 
@@ -527,7 +533,7 @@
 	"BossDebuffedNo"      : "Un debuff de boss a peut-être été réinitialisé !",
 	
 	"CatBombServerCommErrorTitle" : "Erreur de communication avec le serveur.",
-	"CatBombServerCommErrorMsg" : "[{0}] n'a pas réussi à communiquer avec le serveur. Ce n'est pas un problème de lien API, mais en plutôt de votre connectivité ou de votre environnement.",
+	"CatBombServerCommErrorMsg" : "[{0}] n'a pas réussi a communiquer avec le serveur. Ce n'est pas un problème de lien API, mais en plutôt de votre connectivité ou de votre environnement.",
 	"CatBombHardAPIErrorTitle" : "Erreur matérielle de l'API.",
 	"CatBombHardAPIErrorMsg" : "Erreur pour d'appels API. Vous utilisez peut-être un lien d'API expiré, ou il s'agit probablement d'une maintenance. Vous pouvez <a href=\"http://kancolle.wikia.com/wiki/Recent_Updates#Future_updates\" target=\"_blank\">vérifier sur le wikia pour plus de renseignements</a>, ou rafraîchir votre lien API.",
 	"CatBombWrongComputerClockTitle" : "Horloge incorrecte !",
@@ -535,7 +541,7 @@
 	"CatBombErrorOnHomePortTitle" : "Erreur lors du chargement.",
 	"CatBombErrorOnHomePortMsg" : "Merci de recharger le jeu.",
 	"CatBombAPIDataErrorTitle" : "Erreur de données API.",
-	"CatBombAPIDataErrorMsg" : "L'action la plus récente permis de communiquer avec le serveur, mais à retourné une erreur. Vérifiez si une maintenance est en cours, ou si votre lien d'API fonctionne toujours.",
+	"CatBombAPIDataErrorMsg" : "La dernière action a permis de communiquer avec le serveur, mais a retourné une erreur. Vérifiez si une maintenance est en cours, ou si votre lien d'API fonctionne toujours.",
 	"CatBombMissingServerTimeTitle" : "Impossible de récupérer l'heure du serveur.",
 	"CatBombMissingServerTimeMsg" : "Quelque chose ne va pas avec la communication avec le serveur (ou avec le proxy). Tout va bien si l'horloge de votre ordinateur est correcte, sinon, certaines fonctionnalités pourraient ne pas fonctionner.",
 	"DownloadErrorReport": "Télécharger les journaux de rapport d'erreur",
@@ -580,7 +586,7 @@
 	"HQText" : "QG",
 	"HQAdmiralLv" : "QG",
 	"HQExpAbbrev1" : "Suivant",
-	"HQExpAbbrev2" : "Courant",
+	"HQExpAbbrev2" : "Actuel",
 	"HQExpAbbrev3" : "Total",
 	"HQRankPoints" : " pts",
 	"HQRankPointsTip" : "Points d'exp. de QG accumulés depuis la dernière coupure sur {0:dateTime}",
@@ -709,6 +715,7 @@
 	"PanelAkashi" : "Réparation de Akashi",
 	"PanelNoRepair" : "Pas besoin de réparation",
 	"PanelCantRepair" : "Ne peut pas être réparé",
+
 	"PanelTaihaHpLeft" : "Taiha PV: {0} ({1} remaining)",
 	"PanelTaihaHp" : "Taiha PV: {0}",
 	"PanelChuuhaHpLeft" : "Chuuha PV: {0} ({1} remaining)",
@@ -752,6 +759,7 @@
 	"PanelNotSupplied" : "<100% appro.",
 	"PanelUnderSupplied" : "Appro. nécessaire",
 	"PanelEmptySupply" : "Zero appro.",
+
 	"PanelGreatMorale" : "Moral parfait",
 	"PanelGoodMorale" : "Bon moral",
 	"PanelRecoveredMorale" : "Moral rétabli",
@@ -825,7 +833,7 @@
 	
 	"NatsuiroBasic" : "Basique",
 	"NatsuiroBattle" : "Combat",
-	"NatsuiroExped" : "Expédition",
+	"NatsuiroExped" : "Expédit°",
 	"NatsuiroActivity" : "Activité",
 	
 	"ExpedNumLabel" : "Expédition #",
@@ -862,7 +870,7 @@
 	
 	"CraftEquipNoteFirst" : "C'est la première fois que vous obtenez cet équipement !",
 	"CraftEquipNoteExists" : "Vous avez maintenant <strong>{0}</strong> fois cet équipement !",
-	"CraftEquipNotePenguin" : "La fabrication d'équipement à échoué...",
+	"CraftEquipNotePenguin" : "La fabrication d'équipement a échoué...",
 	
 	"ModernizationResultLeft" : "{0} restant.",
 	"ModernizationResultNote" : "Les statistiques indiquées sont les valeurs sans équipement.",
@@ -901,7 +909,7 @@
 	"DesktopNotifyRepairCompleteTitle" : "Réparations achevées !",
 	"DesktopNotifyRepairCompleteMessage" : "{0} est sortie du quai de réparation !",
 	"DesktopNotifyConstrCompleteTitle" : "Construction achevée !",
-	"DesktopNotifyConstrCompleteMessageFaced" : "{0} à été construite !",
+	"DesktopNotifyConstrCompleteMessageFaced" : "{0} a été construite !",
 	"DesktopNotifyConstrCompleteMessageUnknown" : "Une nouvelle fille-navire est disponible sur le quai de construction !",
 	"DesktopNotifyMoraleTitle" : "Moral de la flotte rétabli !",
 	"DesktopNotifyMoraleMessage" : "Tout le monde dans la flotte actuellement sélectionnée s'est rétabli de sa fatigue.",
@@ -968,6 +976,4 @@
 	"MasterShipGoQuotes" : "Vérifier les citations",
 	
 	"Dummy" : "Dummy"
-	
-	
 }

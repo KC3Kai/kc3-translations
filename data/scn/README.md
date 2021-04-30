@@ -17,18 +17,21 @@
 
 附中文字幕更新方法:
 
+- 需要 [kantour](https://github.com/Javran/kantour)
+- `kcwikizh-subtitle-merge.py` 与 `remodelGroups.json` 在`tools`目录下，以下不再说明。
+
 ```bash
-cd tools
-# fetch
-wget http://api.kcwiki.moe/subtitles -o subtitles.json
-# update existing quotes
-./kcwikizh-subtitle-merge.py subtitles.json ../data/scn/quotes.json tmp1.json
-# minimize quotes.json file
-./quotes-minify.py remodelGroups.json tmp1.json tmp2.json
+# 获取台词并生成kcwiki.json
+<dir to kantour>./stack build && stack exec -- quotesfetch
+# 对于限定台词，需要额外参数，如
+<dir to kantour>./stack build && stack exec -- quotesfetch 季节性/2017年女儿节
+# 完整列表见 https://zh.kcwiki.moe/wiki/%E5%AD%A3%E8%8A%82%E6%80%A7
+./kcwikizh-subtitle-merge.py kcwiki.json ../data/scn/quotes.json quotes2.json
+# 删除冗余台词
+./quotes-minify.py remodelGroups.json quotes2.json ../data/scn/quotes.json
 # overwrite old file
-mv tmp2.json ../data/scn/quotes.json
 # cleanup
-rm subtitles.json tmp1.json
+rm kcwiki.json quotes2.json
 ```
 
 ## 声明

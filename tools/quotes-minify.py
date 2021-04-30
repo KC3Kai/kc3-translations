@@ -43,11 +43,14 @@ if __name__ == '__main__':
                 masterKey = int(k)
             except ValueError:
                 continue
+            keysToDel = []
             for qKey,qLine in lines.items():
                 qLine = qLine.strip()
                 if qLine == "":
                     emptyCnt = emptyCnt + 1
-                    del lines[qKey]
+                    keysToDel.append(qKey)
+            for key in keysToDel:
+                del lines[key]
 
         # considering remodel groups backwards
         for groupInfo in remodelGroups.values():
@@ -58,11 +61,14 @@ if __name__ == '__main__':
                 if curShipIdS in quoteData and preShipIdS in quoteData:
                     curShipLines = quoteData[ curShipIdS ]
                     preShipLines = quoteData[ preShipIdS ]
+                    keysToDel = []
                     for qKey, qLine in curShipLines.items():
                         if qKey in preShipLines:
                             if preShipLines[qKey] == qLine:
                                 removeCnt = removeCnt + 1
-                                del curShipLines[qKey]
+                                keysToDel.append(qKey)
+                    for key in keysToDel:
+                        del curShipLines[key]
 
         print("Safely Removed Non-empty Lines: {0}".format(removeCnt));
         print("Safely Removed Empty Lines: {0}".format(emptyCnt));

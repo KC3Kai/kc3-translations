@@ -1,1306 +1,2172 @@
-﻿{
+{
     "101": {
+	"code": "A1",
         "name": "Formasi Pertama!",
-        "desc": "Miliki 2 Kapal di Armada Utama."
+        "desc": "Miliki 2 Kapal di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Shirayuki"
     },
     "102": {
-        "name": "Bentuk sebuah Skuadron Perusak!",
+	"code": "A2",
+        "name": "Bentuk sebuah Pasukan Perusak!",
         "desc": "Miliki 4 DD di Armada Utama."
     },
     "103": {
-        "name": "Bentuk sebuah Skuadron Torpedo!",
+	"code": "A3",
+        "name": "Bentuk sebuah Pasukan Torpedo!",
         "desc": "Miliki CL Sebagai Kapal Pemimpin dan 5 DD di Armada Utama."
     },
     "104": {
+	"code": "A4",
         "name": "Bentuk Armada yang terdiri dari 6 Kapal!",
-        "desc": "Miliki 6 Kapal di Armada Utama."
+        "desc": "Miliki 6 Kapal di Armada Utama.",
+	"memo": "\u27a3Membuka Armada kedua dan misi Ekspedisi"
     },
     "105": {
-        "name": "Bentuk Skuadron Torpedo dengan dua CL!",
+	"code": "A5",
+        "name": "Bentuk Pasukan Torpedo dengan dua CL!",
         "desc": "Miliki 2 CL di Armada Utama."
     },
     "106": {
-        "name": "Bentuk Skuadron Penjelajah berat!",
+	"code": "A7",
+        "name": "Bentuk Pasukan Penjelajah berat!",
         "desc": "Miliki 2 CA di Armada Utama."
     },
     "107": {
+	"code": "A12",
         "name": "Bentuk Armada Kapal Induk!",
         "desc": "Miliki CV/CVL Sebagai Kapal Pemimpin dan 3 DD di Armada Utama."
     },
     "108": {
+	"code": "A8",
         "name": "Bentuk Kelas Tenryuu!",
-        "desc": "Miliki Tenryuu (\u5929\u9f8d) dan Tatsuta (\u9f8d\u7530) di Armada Utama."
+        "desc": "Miliki Tenryuu dan Tatsuta di Armada Utama."
     },
     "109": {
+	"code": "A14",
         "name": "Bentuk Kelas Sendai!",
-        "desc": "Miliki Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) dan Naka (\u90a3\u73c2) di Armada Utama."
+        "desc": "Miliki Sendai, Jintsuu dan Naka di Armada Utama."
     },
     "110": {
+	"code": "A15",
         "name": "Bentuk Kelas Myoukou!",
-        "desc": "Miliki Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) dan Haguro (\u7fbd\u9ed2) di Armada Utama."
+        "desc": "Miliki Myoukou, Nachi, Ashigara dan Haguro di Armada Utama."
     },
     "111": {
+	"code": "A17",
         "name": "Bentuk Kelas Fusou!",
-        "desc": "Miliki Fusou (\u6276\u6851) dan Yamashiro (\u5c71\u57ce) di Armada Utama."
+        "desc": "Miliki Fusoudan Yamashiro di Armada Utama."
     },
     "112": {
+	"code": "A18",
         "name": "Bentuk Kelas Ise!",
-        "desc": "Miliki Ise (\u4f0a\u52e2) dan Hyuuga (\u65e5\u5411) di Armada Utama."
+        "desc": "Miliki Ise dan Hyuuga di Armada Utama."
     },
     "113": {
+	"code": "A13",
         "name": "Bentuk Armada Utama dengan BB dan CA!",
         "desc": "Miliki sebuah BB dan 2 CA di Armada Utama."
     },
     "114": {
+	"code": "A19",
         "name": "Bentuk Armada Nagumo!",
-        "desc": "Bentuk Armada Utama HANYA dengan Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) dan Souryuu (\u84bc\u9f8d)"
+        "desc": "Bentuk Armada Utama HANYA dengan Akagi, Kaga, Hiryuu dan Souryuu"
     },
     "115": {
+	"code": "A6",
         "name": "Bentuk Armada kedua!",
         "desc": "Miliki Kapal Pemimpin di Armada kedua."
     },
     "116": {
+	"code": "A9",
         "name": "Siapkan sebuah Kapal Induk Aviasi",
         "desc": "Miliki AV di Armada Utama."
     },
     "117": {
+	"code": "A11",
         "name": "Bentuk sebuah Kapal Induk di Armada kedua!",
         "desc": "Miliki CV/CVL dan 3 DD di Armada kedua."
     },
     "118": {
+	"code": "A16",
         "name": "Bentuk Kelas Kongou!",
-        "desc": "Miliki Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) dan Kirishima (\u9727\u5cf6) di Armada Utama."
+        "desc": "Miliki Kongou, Hiei, Harunadan Kirishima di Armada Utama."
     },
     "119": {
+	"code": "A20",
         "name": "Bentuk Armada Mikawa!",
-        "desc": "Miliki Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) dan Kapal cepat di Armada."
+        "desc": "Miliki Choukai, Aoba, Kako, Furutaka, Tenryuu dan kapal cepat di Armada."
     },
     "120": {
+	"code": "A10",
         "name": "Bentuk Kapal Perusak Divisi 6!",
-        "desc": "Bentuk Armada HANYA dengan Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) dan Ikazuchi (\u96fb)."
+        "desc": "Bentuk Armada HANYA dengan Akatsuki, Hibiki, Inazuma dan Ikazuchi."
     },
     "121": {
+	"code": "A21",
         "name": "Bentuk Kapal Penjelajah Berat Divisi 4!",
-        "desc": "Miliki Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) dan Maya (\u6469\u8036) di Armada Utama."
+        "desc": "Miliki Atago, Takao, Choukai dan Maya di Armada Utama."
     },
     "122": {
+	"code": "A22",
         "name": "Bentuk Armada Nishimura!",
-        "desc": "Miliki Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) dan Shigure (\u6642\u96e8) di Armada Utama."
+        "desc": "Miliki Fusou, Yamashiro, Mogami dan Shigure di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Mamiya"
     },
     "123": {
+	"code": "A23",
         "name": "Bentuk Kapal Induk Divisi 5!",
-        "desc": "Miliki Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) dan 2 DD di Armada Utama."
+        "desc": "Miliki Shoukaku, Zuikaku dan 2 DD di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Repair Team"
     },
     "124": {
+	"code": "A24",
         "name": "Bentuk Armada Mikawa yang baru!",
-        "desc": "Miliki Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) dan Tenryuu (\u5929\u9f8d) di Armada Utama."
+        "desc": "Miliki Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Mamiya"
     },
     "125": {
+	"code": "A25",
         "name": "Bentuk Armada Kapal Selam!",
-        "desc": "Miliki 2 SS di Armada Utama."
+        "desc": "Miliki 2 SS di Armada Utama.",
+	"memo": "\u27a3Hadiahnya Repair Team"
     },
     "126": {
+	"code": "A26",
         "name": "Bentuk Armada Kapal Tempur Aviasi!",
         "desc": "Miliki 2 BBV dan 2 CAV di Armada Utama."
     },
     "127": {
+	"code": "A27",
         "name": "Bentuk Armada Kapal Selam!",
-        "desc": "Miliki 3 SS di Armada Utama."
+        "desc": "Miliki 3 SS di Armada Utama.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "128": {
+	"code": "A28",
         "name": "Bentuk Kapal Penjelajah Divisi 6!",
-        "desc": "Miliki Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) dan Kinugasa (\u8863\u7b20) di Armada Utama."
+        "desc": "Miliki Furutaka, Kako, Aoba dan Kinugasa di Armada Utama.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "129": {
+	"code": "A29",
         "name": "Bentuk Armada ke 5!",
-        "desc": "Miliki Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), dan Kiso (\u6728\u66fe) di Armada Utama."
+        "desc": "Miliki Nachi, Ashigara, Tama, dan Kiso di Armada Utama."
     },
     "130": {
-        "name": "Bentuk Skuadron Torpedo ke 1!",
-        "desc": "Miliki Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) dan Shiranui (\u4e0d\u77e5\u706b) di Armada Utama."
+	"code": "A30",
+        "name": "Bentuk Pasukan Torpedo ke 1!",
+        "desc": "Miliki Abukuma, Akebono, Ushio, Kasumi dan Shiranui di Armada Utama.",
+        "memo": "\u27a3Rewards a Repair Team"
     },
     "131": {
+	"code": "A31",
         "name": "Bentuk Kapal Perusak Divisi 8!",
-        "desc": "Miliki Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) dan Arashio (\u8352\u6f6e) di Armada."
+        "desc": "Miliki Asashio, Michishio, Ooshio dan Arashio di Armada."
     },
     "132": {
+	"code": "A32",
         "name": "Bentuk Kapal Perusak Divisi 18!",
-        "desc": "Bentuk Armada Utama HANYA dengan Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) dan Shiranui (\u4e0d\u77e5\u706b) di Armada."
+        "desc": "Bentuk Armada Utama HANYA dengan Kasumi, Arare, Kagerou dan Shiranui di Armada.",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "133": {
-        "name": "Bentuk Kapal Perusak Divisi 30 (Gen-1)!",
-        "desc": "Bentuk Armada Utama HANYA dengan Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) dan Mochizuki (\u671b\u6708) di Armada."
+        "code": "A33",
+        "name": "Bentuk Kapal Perusak Divisi 30 (Gen.1)!",
+        "desc": "Bentuk Armada Utama HANYA dengan Mutsuki, Kisaragi, Yayoi dan Mochizuki di Armada.",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "134": {
+        "code": "WA01",
         "name": "Persiapan Cinta! (Bagian 3)",
-        "desc": "Persiapkan Calon Waifu \u2665 (Lv.90~99) di Armada Utama!"
+        "desc": "Persiapkan Calon Waifu-mu \u2665 (Lv.90~99) di Armada Utama!"
     },
     "135": {
+        "code": "WA02",
         "name": "Perjalanan Baru!",
-        "desc": "Persiapkan Armada Berisikan 6 Kapal Dengan Waifu-mu \u2665 (#Waifu4Laifu) Lv.100 atau Lebih Sebagai Kapal Pemimpin!"
+        "desc": "Persiapkan Armada Berisikan 6 Kapal Dengan Waifu-mu \u2665 (#Waifu4Laifu) Lv.100 atau Lebih Sebagai Kapal Pemimpin!",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "136": {
+        "code": "A34",
         "name": "Bentuk Kapal Perusak Divisi 30 (Gen.2)",
-        "desc": "Bentuk Armada Utama HANYA dengan Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) dan Mochizuki (\u671b\u6708)."
+        "desc": "Bentuk Armada Utama HANYA dengan Mutsuki, Yayoi, Uzuki dan Mochizuki."
     },
     "137": {
+        "code": "A35",
         "name": "Bentuk Armada ke 5",
-        "desc": "Miliki Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a) dan Haguro (\u7fbd\u9ed2) di Armada Utama."
+        "desc": "Miliki Myoukou, Nachi dan Haguro di Armada Utama."
     },
     "138": {
+        "code": "A36",
         "name": "Bentuk Kapal Induk Divisi kedua yang baru",
-        "desc": "Miliki Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c, Sebagai Kapal Pemimpin), Souryuu (\u84bc\u9f8d) dan 2 DD di Armada."
+        "desc": "Miliki Hiryuu Kai Ni sebagai pemimpin, Souryuu dan 2 DD di Armada."
     },
     "139": {
+        "code": "A37",
         "name": "Bentuk Armada Kapal Selam ke 6",
-        "desc": "Miliki Pengasuh Kapal Selam(AS) dan Minimal 4 Kapal Selam(SS) di Armada Utama."
+        "desc": "Miliki Pengasuh Kapal Selam (AS) dan minimal 4 Kapal Selam (SS) di Armada Utama."
     },
     "140": {
+	"code": "A38",
         "name": "Coba RADAR baru!",
-        "desc": "Miliki Myoukou Kai Ni Sebagai Kapal Pemimpin."
+        "desc": "Miliki Myoukou Kai Ni sebagai kapal pemimpin.",
+        "memo": "\u27a3Hadiahnya Type 22 Surface RADAR Kai 4"
     },
     "141": {
+        "code": "A39",
         "name": "Bentuk Kembali Kapal Induk Divisi Ke-2 yang Diperkuat",
-        "desc": "Miliki Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) Sebagai Kapal Pemimpin dan Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) dan 2 DD di Armada."
+        "desc": "Miliki Souryuu Kai Ni sebagai kapal pemimpin dan Hiryuu Kai Ni dan 2 DD di Armada."
     },
     "142": {
+        "code": "A40",
         "name": "Bentuk Kapal Tempur Elit Divisi ke-3",
-        "desc": "Miliki keempat Kelas Kongou Kai Ni di Armada."
+        "desc": "Miliki keempat Kelas Kongou Kai Ni di Armada.",
+        "memo": "\u27a3Hadiahnya Prototype 35.6cm Triple Gun Mount"
     },
     "143": {
+        "code": "A41",
         "name": "Bentuk Kapal Induk yang baru",
-        "desc": "Miliki Unryuu (\u96f2\u9f8d) Sebagai Kapal Pemimpin."
+        "desc": "Miliki Unryuu sebagai kapal pemimpin."
     },
     "144": {
-        "name": "Bentuk Armada Kapal Tempur utama: Skuadron ke2",
+        "code": "A42",
+        "name": "Bentuk Armada Kapal Tempur utama: Pasukan ke-2",
         "desc": "Miliki 2 Kapal Tempur Kelas Nagato dan 2 Kelas Fusou di Armada Utama."
     },
     "145": {
+        "code": "A43",
         "name": "Bentuk Kapal Tempur penyerang utama",
         "desc": "Miliki 3 Kapal Tempur dari Kelas Nagato,Fusou,Ise atau Yamato dan Penjelajah Ringan(CL) di Armada."
     },
     "146": {
+        "code": "A45",
         "name": "Siapkan Pengembangan Gudang Senjata",
-        "desc": "Miliki Akashi (\u660e\u77f3) Sebagai Kapal Pemimpin di Armada Utama."
+        "desc": "Miliki Akashi sebagai kapal pemimpin di Armada Utama.",
+	"memo": "\u27a3Hadiahnya 5 Improvement Material"
     },
     "147": {
+        "code": "A44",
         "name": "Bentuk Armada Nishimura",
-        "desc": "Miliki Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) dan Michishio (\u6e80\u6f6e) di Armada Utama."
+        "desc": "Miliki Fusou, Yamashiro, Mogami, Shigure dan Michishio di Armada Utama.",
+        "memo": "\u27a3Hadiahnya 3 Improvement Material"
     },
     "148": {
-        "name": "Bentuk Skuadron penyerang balik",
-        "desc": "Miliki Kasumi (\u971e) Sebagai Kapal Pemimpin, Ashigara (\u8db3\u67c4), 1 CL dan 3 DD di Armada Utama."
+	"code": "A46",
+        "name": "Bentuk Pasukan penyerang balik",
+        "desc": "Miliki Kasumi sebagai kapal pemimpin, Ashigara, 1 CL dan 3 DD di Armada Utama."
     },
     "149": {
+        "code": "A47",
         "name": "Bentuk Kapal Perusak Divisi ke-11",
-        "desc": "Bentuk Armada Utama HANYA dengan 4 Kapal Perusak Tipe Khusus: Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) dan Murakumo(\u53e2\u96f2)."
+        "desc": "Bentuk Armada Utama HANYA dengan 4 Kapal Perusak Tipe Khusus: Fubuki, Shirayuki, Hatsuyuki dan Murakumo."
     },
     "150": {
+        "code": "A48",
         "name": "Bentuk Kapal Perusak  Divisi ke-21",
-        "desc": "Bentuk Armada Utama HANYA dengan Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) dan Hatsushimo (\u521d\u971c)."
+        "desc": "Bentuk Armada Utama HANYA dengan Hatsuharu, Nenohi, Wakaba dan Hatsushimo."
     },
     "151": {
-        "name": "Bentuk  Kapal Perusak  Divisi ke-22",
-        "desc": "Bentuk Armada Utama HANYA dengan Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708) dan 1 DD."
+        "code": "A49",
+        "name": "Bentuk Kapal Perusak  Divisi ke-22",
+        "desc": "Bentuk Armada Utama HANYA dengan Satsuki, Fumizuki, Nagatsuki dan 1 DD."
     },
     "152": {
+        "code": "A50",
         "name": "Bentuk Armada Mikawa edisi terbaru",
-        "desc": "Bentuk Armada Utama dengan Choukai Kai Ni Sebagai Kapal Pemimpin dan pilihlah 5 dari Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari."
+        "desc": "Bentuk Armada Utama dengan Choukai Kai Ni Sebagai Kapal Pemimpin dan 5 dari Aoba, Kinugasa, Kako, Furutaka, Tenryuu dan atau Yuubari."
     },
     "153": {
-        "name": "Bentuk kembali Skuadron ke-18!",
-        "desc": "Miliki Tenryuu, Tatsuta dan minimal 2 Kapal lain di Armada"
+        "code": "A51",
+        "name": "Bentuk kembali Pasukan ke-18!",
+        "desc": "Miliki Tenryuu, Tatsuta dan minimal 2 Kapal tambahan di armada"
     },
-	"154": {
+    "154": {
+        "code": "A52",
         "name": "Bentuk Armada penyerang permukaan!",
-        "desc": "Miliki Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma di Armada"
+        "desc": "Miliki Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma di armada"
     },
-	"155": {
+    "155": {
+        "code": "A53",
         "name": "Bentuk Kapal Perusak Divisi ke-6 yang baru!",
-        "desc": "Miliki Akatsuki Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Bep, Ikazuchi, Inazuma di Armada"
+        "desc": "Miliki Akatsuki Kai Ni sebagai kapal pemimpin dengan Hibiki/Verniy, Ikazuchi, Inazuma di armada",
+        "memo": "\u27a3Hadiahnya Searchlight"
     },
-	"156": {
-        "name": "Skuadron Torpedo Pertama, Siapkan penyerbuan ke Lautan Utara",
-        "desc": "Miliki Abukuma Sebagai Kapal Pemimpin dengan Hibiki/Вер, Hatsushimo, Wakaba, Samidare dan Shimakaze di Armada Utama"
+    "156": {
+        "code": "A54",
+        "name": "Pasukan Torpedo Pertama, Siapkan penyerbuan ke Lautan Utara",
+        "desc": "Miliki Abukuma sebagai kapal pemimpin dengan Hibiki/Verniy, Hatsushimo, Wakaba, Samidare dan Shimakaze di armada"
     },
-	"157": {
-        "name": "Skuadron Torpedo Pertama, Siapkan penyerbuan lain ke Lautan utara",
-        "desc": "Miliki Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze di Armada Utama"
+    "157": {
+        "code": "A55",
+        "name": "Pasukan Torpedo Pertama, Siapkan penyerbuan lain ke Lautan utara",
+        "desc": "Miliki Abukuma Kai Ni sebagai kapal pemimpin dengan Hibiki/Verniy, Yuugumo, Naganami, Akigumo dan Shimakaze di armada"
     },
     "161": {
-        "name": "Kelola kembali kapal induk (CV) Divisi ke-5!",
-        "desc": "Miliki Shoukaku, Zuikaku, Oboro dan Akigumo di Armada Utama"
+        "code": "A56",
+        "name": "Bentuk Kembali kembali kapal induk (CV) Divisi ke-5!",
+        "desc": "Miliki Shoukaku, Zuikaku, Oboro dan Akigumo di armada"
     },
     "162": {
-        "name": "Persiapan Skuadron ke21 yg baru untuk sorti",
-        "desc": "Miliki Nachi(Kai-2), Ashigara(Kai-2), Tama dan Kiso di Armada Utama"
+        "code": "A57",
+        "name": "Persiapan Pasukan ke21 yg baru untuk sorti",
+        "desc": "Miliki Nachi Kai Ni, Ashigara Kai Ni, Tama dan Kiso di armada",
+        "memo": "\u27a3Hadiahnya 2 Improvement Material"
     },
     "163": {
-        "name": "Kelola Skuadron Penjelajah Divisi ke-16 (Generasi Pertama)",
-        "desc": "Miliki Ashigara sebagai kapal pemimpin, Kuma dan Nagara di Armada Utama"
-    },	
+        "code": "A58",
+        "name": "Bentuk Kembali Pasukan Penjelajah Divisi ke-16 (Gen.1)",
+        "desc": "Miliki Ashigara sebagai kapal pemimpin, Kuma dan Nagara di armada"
+    },
     "164": {
-		"code": "A59",
-        "name": "Kelola Kapal induk Divisi ke-3",
-        "desc": "Jadikan ZUikaku sebagai kapal pemimpin , Zuihou, Chitose, dan Chiyoda(Keduanya sebagai CVL, bukan AV) di armada"
+        "code": "A59",
+        "name": "Bentuk Kembali Kapal induk Divisi ke-3",
+        "desc": "Jadikan Zuikaku sebagai kapal pemimpin , Zuihou, Chitose(sebagai CVL, bukan AV), dan Chiyoda(sebagai CVL, bukan AV) di armada",
+        "memo": "\u27a3Hadiahnya Skilled Crew Member"
     },
-	"165": {
-		"code": "A60",
-        "name": "Kelola Kapal Induk Divisi ke-4",
-        "desc": "Miliki Ise Kai dan Hyuuga Kai di armada utama"
+    "165": {
+        "code": "A60",
+        "name": "Bentuk Kembali Kapal Induk Divisi ke-4",
+        "desc": "Miliki Ise Kai dan Hyuuga Kai di armada",
+        "memo": "\u27a3Hadiahnya 2 Improvement Material dan Zuiun (634 Air Group)"
     },
-	"166": {
-		"code": "A61",
-        "name": "Kelola armada Ozawa",
-        "desc": "Jadikan Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai di armada utama"
-    },	
-     	"167": {
-		"code": "A62",
-        "name": "Kelola Kapal Induk Divisi Baru",
-        "desc": "Miliki Zuikaku Kai Ni, Shoukaku Kai Ni dan 2 DD di armada"
+    "166": {
+        "code": "A61",
+        "name": "Bentuk Kembali Armada Ozawa",
+        "desc": "Jadikan Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai di armada",
+        "memo": "\u27a3Hadiahnya Repair Team"
+    },
+        "167": {
+        "code": "A62",
+        "name": "Bentuk Kembali Kapal Induk Divisi Baru",
+        "desc": "Miliki Zuikaku Kai Ni, Shoukaku Kai Ni dan 2 DD di armada",
+        "memo": "\u27a3Hadiahnya Irako dan Skilled Crew Member"
      },
-      	"168": {
-		"code": "A63",
-        "name": "Kelola Skuadron ke-16 (Generasi Kedua)",
+        "168": {
+        "code": "A63",
+        "name": "Bentuk Kembali Pasukan ke-16 (Gen.2)",
         "desc": "Miliki Natori sebagai kapal pemimpin, Isuzu and Kinu di armada"
      },
-      	"169": {
-		"code": "A64",
-        "name": "Kelola Kapal Induk Divisi Baru", 
-        "desc": "Miliki 2 CV, 2 BBV/CAV dan 2 DD di armada" 
+        "169": {
+        "code": "A64",
+        "name": "Bentuk Kembali Kapal Induk Divisi Baru",
+        "desc": "Miliki 2 CV(L), 2 BBV/CAV dan 2 DD di armada",
+        "memo": "\u27a3Hadiahnya 2 Improvement Material"
      },
         "170": {
-		"code": "A65",
-        "name": "Perkuat Serangan Balik Armada Permukaan",  
-        "desc": "Miliki Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo dan Kiyoshimo di armada" 
+        "code": "A65",
+        "name": "Perkuat Serangan Balik Armada Permukaan",
+        "desc": "Miliki Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo dan Kiyoshimo di armada"
      },
-	"171": {
-		"code": "A66",
-        "name": "Bentuk Kapal Perusak Divisi ke-31 (Generasi Pertama)", 
-        "desc": "Bentuk Armada Anti Kapal Selam Ringan dengan Isuzu Kai Ni sebagai Flagship dan terdapat Satsuki Kai Ni dengan Uzuki Kai"
+    "171": {
+        "code": "A66",
+        "name": "Bentuk Kapal Perusak Divisi ke-31 (Gen.1)",
+        "desc": "Miliki Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni dan Uzuki Kai di armada",
+        "memo": "\u27a3Hadiahnya Irako"
     },
     "172":{
         "code": "A67",
-        "name": "Bentuk Kapal Penghancur Divisi ke-27 (Generasi Kedua)",
-        "desc": "Miliki Shiratsuyu Kai (\u767D\u9732\u6539) sebagai pemimpin, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) dan Samidare (\u4E94\u6708\u96E8) di armadamu",
-        "unlock": [ 808 ]
+        "name": "Bentuk Kapal Penghancur Divisi ke-27 (Gen.2)",
+        "desc": "Miliki Shiratsuyu Kai sebagai pemimpin, Shigure, Harusame dan Samidare di armada"
     },
       "173":{
         "code": "A68",
         "name": "Bentuk Armada Transport Berkecepatan Tinggi yang Terpaksa",
         "desc": "Miliki Sendai Kai Ni sebagai kapal pemimpin, Kawakaze Kai Ni, Shigure Kai Ni dan 2 DD di armada."
     },
+    "174":{
+        "code": "A69",
+        "name": "Bentuk sebuah Pasukan Torpedo baru",
+        "desc": "Miliki CL/CLT/CT sebagai kapal pemimpin dan 4 DD di armada."
+    },
+    "175": {
+        "code": "A70",
+        "name": "Bentuk Kembali Kapal Perusak Divisi 8!",
+        "desc": "Miliki Asashio Kai Ni (atau Kai Ni D) sebagai kapal pemimpin, Michishio, Ooshio and Arashio di armada."
+    },
+    "176": {
+        "code": "A71",
+        "name": "Elit! Peleton Pertama, KaPerDiv 8!",
+        "desc": "Miliki Asashio Kai Ni D dan Ooshio Kai Ni di armada.",
+	"memo": "\u27a3Hadiahnya Irako dan 3 Improvement Material"
+    },
+    "177": {
+        "code": "A72",
+        "name": "Bentuk Kapal Perusak Divisi ke-19!",
+        "desc": "Miliki Isonami, Uranami, Ayanami dan Shikinami di armada."
+    },
+    "178": {
+        "code": "A73",
+        "name": "Bentuk Kapal Penjelajah Divisi ke-16 (Gen.3)!",
+        "desc": "Miliki Kinu, Aoba, Kitakami dan Ooi di Armada."
+    },
+    "179": {
+        "code": "A74",
+        "name": "Bentuk Kembali KaPenDiv Elit Ke-16!",
+        "desc": "Miliki Kinu Kai Ni sebagai pemimpin dan lima dari Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai dan atau Shikinami Kai di Armada.",
+        "memo": "\u27a3Hadiahnya Repair Team"
+    },
+    "180": {
+        "code": "A75",
+        "name": "Bentuk Kapal Tempur Divisi Pertama yang Baru!",
+        "desc": "Miliki Nagato Kai Ni sebagai pemimpin dan Mutsu Kai pada Armada 1.",
+        "memo": "\u27a3Hadiahnya Irako"
+    },
+    "181": {
+        "code": "A76",
+        "name": "Bentuk Kapal Penjelajah Divisi ke-7 Baru", 
+        "desc": "Miliki Kumano Kai Ni (atau Kou) sebagai pemimpin, Suzuya Kai Ni (atau Kou) di tempat ke-2, Mogami Kai and Mikuma Kai pada Armada 1.",
+        "memo": "\u27a3Hadiahnya Irako"
+    },
+    "182": {
+        "code": "A77",
+        "name": "Bentuk Kembali Kapal Induk Elit Divisi ke-4!",
+        "desc": "Miliki Lv.50+ Ise sebagai pemimpin dan Lv. 50+ Hyuuga di tempat ke-2, 1 CL, 2 DD, and 1 kapal tembahan di Armada 1.",
+        "memo": "\u27a3Hadiahnya Skilled Crew Member"
+    },
+    "183": {
+        "code": "A78",
+        "name": "Bentuk Pasukan Torpedo Divisi ke-4 baru",
+        "desc": "Miliki Yura Kai Ni sebagai pemimpin, Murasame, Yuudachi, Harusame, Samidare, and 1 DD tambahan di Armada 1.",
+        "memo": "\u27a3Hadiahnya Repair Team"
+    },
+    "184": {
+        "code": "A79",
+        "name": "Bentuk Kembali Kapal Perusak Elit Divisi ke-22!",
+        "desc": "Miliki Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai dan Nagatsuki Kai di armada.",
+        "memo": "\u27a3Hadiahnya 2 Combat Ration"
+    },
+    "185": {
+        "code": "A80",
+        "name": "Bentuklah Satuan Tugas yang Tangguh!",
+        "desc": "Miliki Saratoga Mk.II atau Mod.2 sebagai kapal pemimpin, 1 CL dan 2 DD di Armada 1.",
+        "memo": "\u27a3Hadiahnya:\n\u00B6Pilihan pertama: F6F-3 ATAU F4U-1D\n\u00B6Pilihan kedua: TBF ATAU New Model Aviation Armament Materials"
+    },
+    "186": {
+        "code": "A81",
+        "name": "Bentuklah Kapal Perusak Elit Divisi ke-8!",
+        "desc": "Miliki HANYA Arashio Kai Ni, Asashio Kai Ni (atau D), Michishio Kai Ni, dan Ooshio Kai Ni di armada.",
+        "memo": "\u27a3Hadiahnya Combat Ration dan Irako"
+    },
+    "187": {
+        "code": "A82",
+        "name": "Armada Nishimura, Satuan Pengawal Divisi ke-2, Bersatu!",
+        "desc": "Miliki Mogami, Asagumo, Michishio, Shigure dan Yamagumo di Armada ke-3.",
+        "memo": "\u27a3Hadiahnya ANTARA 2 Irako ATAU Furniture Fairy ATAU New Model Artillery Armament Materials"
+    },
+    "188": {
+        "code": "A83",
+        "name": "Kapal Perusak Divisi Ke-31 Elit, Peleton Pertama, Bersiap untuk Sorti!",
+        "desc": "Miliki Naganami Kai Ni sebagai pemimpin dan SALAH SATU dari Takanami Kai, Asashimo Kai ATAU Okinami Kai di armada. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Antara 2 Combat Ration (Special Onigiri) ATAU Furniture Fairy"
+    },
+    "189": {
+        "code": "A84",
+        "name": "Pasukan Kapal Perusak Ke-4 Elit, Bersiap untuk Berlayar!",
+        "desc": "Miliki Murasame Kai Ni sebagai pemimpin, 3 (Tiga) dari Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai Dan/Atau Akizuki Kai dengan kapal lainnya sesukamu sampai penuh di armada.",
+        "memo": "\u27a3Hadiahnya Repair Goddess"
+    },
+    "190": {
+        "code": "A85",
+        "name": "Kapal Perusak Divisi ke-21 Elit, Siap Berlayar!",
+        "desc": "Miliki Wakaba Kai, Hatsuharu Kai Ni dan Hatsushimo Kai Ni, dan 1 DD tambahan saja di armada.",
+        "memo": "Jika Nenohi di armada, akan ada suara dialog tambahan saat quest aktif. Mungkin ada syarat tambahan yang masih belum diketahui.\n\u27a3Hadiahnya Combat Ration"
+    },
+	
 	
 	
     "202": {
-        "name": "Sorti Pertama!",
-        "desc": "Sorti dengan Armada Utama."
+        "code": "B1",
+        "name": "Sorti Pertama Kali!",
+        "desc": "Sorti Armada Utamamu."
     },
     "203": {
+        "code": "B2",
         "name": "Lindungi Lautan Chinju-Fu!",
-        "desc": "Sorti ke World 1-1 dan selesaikan."
+        "desc": "Sorti ke [W1-1] dan selesaikan."
     },
     "204": {
+        "code": "B4",
         "name": "Sorti menuju pantai Pulau Nansei!",
-        "desc": "Sorti ke World 1-2 dan selesaikan."
+        "desc": "Sorti ke [W1-2] dan selesaikan misinya."
     },
     "205": {
+        "code": "B5",
         "name": "Hadang barisan depan Armada musuh yang datang!",
-        "desc": "Sorti ke World 1-2 setelah mengalahkan Bos dan selesaikan."
+        "desc": "Sorti ke [W1-2] serta kalahkan Boss (setidaknya Rank B).",
+        "memo": "\u27a3Hadiahnya Miyuki"
     },
     "206": {
-        "name": "Sorti Skuadron Torpedo!",
-        "desc": "Sorti dengan CL Sebagai Kapal Pemimpin dan 3 DD Sebagai Pengawal."
+        "code": "B6",
+        "name": "Sorti Pasukan Torpedo!",
+        "desc": "Sorti CL sebagai kapal pemimpin dengan 3 DD.",
+        "memo": "\u27a3Hadiahnya Tatsuta"
     },
     "207": {
+        "code": "B7",
         "name": "Sorti Penjelajah Berat!",
-        "desc": "Sorti dengan CA Sebagai Kapal Pemimpin."
+        "desc": "Sorti CA sebagai kapal pemimpin."
     },
     "208": {
+        "code": "B8",
         "name": "Sorti Kapal Tempur!",
-        "desc": "Sorti dengan BB Sebagai Kapal Pemimpin. BBV Tidak Dihitung."
+        "desc": "Sorti BB sebagai kapal pemimpin (BBV tidak dihitung)."
     },
     "209": {
-        "name": "Sorti Kapal Induk penyerang!",
-        "desc": "Sorti dengan CV(L) Sebagai Kapal Pemimpin dan 5 DD/CL/AV Sebagai Pengawal."
+        "code": "B9",
+        "name": "Sorti Kapal Induk Penyerang!",
+        "desc": "Sorti CV(L) sebagai kapal pemimpin dengan 5 kapal tambahan dari DD/CL/AV."
     },
     "215": {
-        "name": "Sorti Armada kedua!",
-        "desc": "Sorti Armada Kedua ke Medan Pertempuran."
+        "code": "B3",
+        "name": "Sorti Armada Kedua!",
+        "desc": "Sorti Armada Kedua ke Medan Pertempuran (bukan Ekspedisi)."
     },
     "217": {
+        "code": "B10",
         "name": "Tenggelamkan Kapal Induk musuh!",
-        "desc": "Tenggelamkan Kapal Induk Musuh."
+        "desc": "Tenggelamkan sebuah Kapal Induk/CV(L) Abyssal.",
+        "memo": "\u27a3Hadiahnya Akagi"
     },
     "219": {
+        "code": "B11",
         "name": "Sorti Armada Mikawa!",
-        "desc": "Sorti dengan Choukai, Aoba, Kako, Furutaka, Tenryuu dan Kapal cepat lainnya."
+        "desc": "Sorti Choukai, Aoba, Kako, Furutaka, Tenryuu dan kapal cepat lainnya.",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "222": {
-        "name": "Sorti Kapal Perusak  Divisi ke-6!",
-        "desc": "Sorti HANYA dengan Akatsuki, Hibiki, Inazuma, dan Ikazuchi."
+        "code": "B12",
+        "name": "Sorti Kapal Perusak Divisi ke-6!",
+        "desc": "Sorti HANYA dengan Akatsuki, Hibiki, Inazuma, dan Ikazuchi ke Medan Pertempuran."
     },
     "223": {
+	"code": "B13",
         "name": "Sorti Kapal Penjelajah Divisi ke-4!",
-        "desc": "Sorti dengan Atago, Takao, Choukai, Maya dan 2 Kapal lainnya. Dapatkan Kemenangan pada Bos Node World 2-2."
+        "desc": "Sorti Atago, Takao, Choukai, Maya dan 2 kapal tambahan ke [W2-2] dan dapatkan kemenangan pada Boss Node."
     },
     "224": {
+	"code": "B14",
         "name": "Sorti Armada Nishimura!",
-        "desc": "Sorti dengan Fusou, Yamashiro, Mogami, Shigure dan 2 Kapal lainnya. Dapatkan Kemenangan pada Bos Node World 2-3."
+        "desc": "Sorti Fusou, Yamashiro, Mogami, Shigure dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node."
     },
     "225": {
+        "code": "B15",
         "name": "Sorti Kapal Induk Divisi ke-5!",
-        "desc": "Sorti dengan Shoukaku, Zuikaku dan 4 Kapal lainnya. Dapatkan Kemenangan pada Bos Node World 3-1."
+        "desc": "Sorti Shoukaku, Zuikaku dan 4 kapal tambahan ke [W3-1] dan dapatkan kemenangan pada Boss Node."
     },
     "227": {
+        "code": "B16",
         "name": "Sorti Armada Mikawa yang baru!",
-        "desc": "Sorti dengan Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu. Dapatkan Kemenangan pada Bos Node World 2-3."
+        "desc": "Sorti Choukai, Aoba, Kinugasa, Kako, Furutaka dan Tenryuu ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "231": {
+        "code": "B17",
         "name": "Sorti Armada Kapal Selam!",
-        "desc": "Sorti dengan 2 SS dan 4 Kapal lainnya. Dapatkan Kemenangan pada Bos Node World 2-3."
+        "desc": "Sorti 2 SS dan 4 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
     },
     "232": {
-        "name": "Sorti Armada penyerang penerbangan laut!",
-        "desc": "Sorti dengan 2 BBV, 2 CAV dan 2 Kapal apapun. Dapatkan Kemenangan pada Bos Node World 4-2."
+        "code": "B18",
+        "name": "Sorti Armada Penyerang Penerbangan Laut!",
+        "desc": "Sorti 2 BBV, 2 CAV dan 2 kapal lainny ke [W4-2] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "233": {
+        "code": "B19",
         "name": "Sorti Kapal Penjelajah Divisi ke-6!",
-        "desc": "Sorti dengan Furutaka, Kako, Kinugasa, Aoba dan 2 Kapal apapun. Dapatkan S-Rank pada Bos Node World 2-3."
+        "desc": "Sorti Furutaka, Kako, Kinugasa, Aoba dan 2 kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Repair Team"
     },
     "239": {
+        "code": "B20",
         "name": "Sorti Kapal Perusak  Divisi ke-8!",
-        "desc": "Sorti dengan Asashio, Michishio, Ooshio, Arashio dan 2 Kapal apapun. Dapatkan Kemenangan pada Bos Node World 2-3."
+        "desc": "Sorti Asashio, Michishio, Ooshio, Arashio dan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node."
     },
     "240": {
+        "code": "B21",
         "name": "Sorti Kapal Perusak  Divisi ke-18!",
-        "desc": "Sorti dengan Kasumi, Arare, Kagerou, Shiranui dan 2 Kapal apapun. Dapatkan Kemenangan pada Bos Node World 3-1."
+        "desc": "Sorti Kasumi, Arare, Kagerou, Shiranui dan 2 kapal tambahan ke [W3-1] dan dapatkan kemenangan pada Boss Node."
     },
     "244": {
-        "name": "Sorti Kapal Perusak  Divisi ke-30 (Gen-1)",
-        "desc": "Sorti yang terdiri dari Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) dan 2 Kapal DD atau (1DD dan 1 CL sebagai kapal pemimpin)ke world 3-2 dan Lawan Bossnya. Dibutuhkan C-Rank keatas."
+        "code": "B22",
+        "name": "Sorti Kapal Perusak  Divisi ke-30 (Gen.1)",
+        "desc": "Sorti Mutsuki , Kisaragi, Yayoi, Mochizuki dan 2 Kapal DD (atau 1 DD dan 1 CL sebagai kapal pemimpin) ke [W3-2] dan dapatkan minimal Rank C pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "245": {
-        "name": "Persiapan Cinta! (Akhir)",
-        "desc": "Sorti dengan Waifu \u2665 (Lv.90~99) sebagai Kapal Pemimpin ke 2-3. Dapatkan S-Rank pada Bos Node."
+        "code": "WB01",
+        "name": "Persiapan Cinta! (Terakhir)",
+        "desc": "Sorti Waifu-mu \u2665 (Lv.90~99) sebagai kapal pemimpin ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Marriage Ring and Documents"
     },
     "246": {
+        "code": "WB02",
         "name": "Misi Pertama Bersama Waifu \u2665 (#Waifu4Laifu)!",
-        "desc": "Sorti ke 4-3 dengan Waifu \u2665 (#Waifu4Laifu) Lv.100 atau lebih Sebagai Kapal Pemimpin . Dapatkan S-Rank pada Bos Node."
+        "desc": "Sorti ke [W4-3] dengan Waifu \u2665 (#Waifu4Laifu) Lv.100+ sebagai kapal pemimpin dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Couple Futon furniture"
     },
     "247": {
+	"code": "B23",
         "name": "Sorti Armada Kapal Tempur Aviasi!",
-        "desc": "Miliki 2 BBV di Armada Utama . Dapatkan Kemenangan pada Bos Node World 4-4."
+        "desc": "Sorti 2 BBV dan 4 kapal tambahan ke [W4-4] dan dapatkan kemenangan pada Boss Node."
     },
     "248": {
+	"code": "B24",
         "name": "Patroli Anti Kapal Selam dengan Kapal Perusak Divisi ke-30",
-        "desc": "Sorti Mutsuki, Yayoi, Uzuki dan Mochizuki ke World 1-5, Dapatkan setidaknya C-Rank pada Bos Node."
+        "desc": "Sorti Mutsuki, Yayoi, Uzuki dan Mochizuki ke [W1-5] dan dapatkan setidaknya Rank C pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Furniture Fairy"
     },
     "250": {
-        "name": "Sorti Kapal Induk Divisi ke2",
-        "desc": "Sorti Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) Sebagai Kapal Pemimpin, Souryuu (\u84bc\u9f8d) dan 2 DD ke World 5-2. Kau bisa menambahkan 2 Kapal lain. Dapatkan S-Rank pada Bos Node."
+	"code": "B25",
+        "name": "Sorti Kapal Induk Divisi ke-2",
+        "desc": "Sorti Hiryuu Kai Ni sebagai kapal pemimpin, Souryuu, 2 DD dengan 2 kapal tambahan ke [W5-2] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Mamiya"
     },
     "251": {
-        "name": "Sorti Kapal Induk Elit Divisi ke2",
-        "desc": "Sorti Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) Sebagai Kapal Pemimpin, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) dan 2 DD ke World 4-3. Kau bisa tambahkan 2 Kapal lain. Dapatkan S-Rank pada Bos Node."
+	"code": "B26",
+        "name": "Sorti Kapal Induk Elit Divisi ke-2",
+        "desc": "Sorti Souryuu Kai Ni sebagai kapal pemimpin, Hiryuu Kai Ni, 2 DD dengan 2 kapal lainmya ke [W4-3] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Furniture Fairy"
     },
     "252": {
-        "name": "Sorti dengan Armada yang Dimpimpin Haruna",
-        "desc": "Sorti dengan Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) Sebagai Kapal Pemimpin dan 5 Kapal apapun ke World 5-1. Dapatkan S-Rank pada Bos Node."
+	"code": "B27",
+        "name": "Sorti Armada yang Dimpimpin Haruna",
+        "desc": "Sorti Haruna Kai Ni sebagai kapal pemimpin dengan 5 kapal tambahan ke [W5-1] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Prototype 35.6cm Triple Gun Mount"
     },
     "253": {
-        "name": "Sorti 601 Air Group",
-        "desc": "Sorti dengan Unryuu Kai (\u96f2\u9f8d\u6539) Sebagai Kapal Pemimpin ke World 5-2. Dapatkan S-Rank pada Bos Node."
+	"code": "B28",
+        "name": "Sorti Pasukan Udara 601 Angkatan Laut!",
+        "desc": "Sorti Unryuu Kai sebagai kapal pemimpin dengan 5 kapal tambahan ke [W5-2] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Skilled Carrier-based Aircraft Maintenance Personnel"
     },
     "254": {
-        "name": "Sorti Skuadron Kapal Induk Ringan",
-        "desc": "Sorti Armada dengan 1-2 CVL, 1 CL dan 3-4 DD ke World 2-1. Dapatkan S-Rank pada Bos Node."
+	"code": "B29",
+        "name": "Sorti Pasukan Kapal Induk Ringan",
+        "desc": "Sorti 1-2 CVL, 1 CL dan 3-4 DD ke [W2-1] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Repair Team"
     },
     "255": {
-        "name": "Sorti Skuadron Torpedo ke Pulau Bashi",
-        "desc": "Sorti Armada dengan 1-2 CL (Salah satunya Sebagai Kapal Pemimpin) dan 4-5 DD ke World 2-2. Dapatkan Kemenangan pada Bos Node dan Tenggelamkan Kapal Pemimpin musuh."
+	"code": "B30",
+	"name": "Peluncuran Pasukan Torpedo Darurat!",
+        "desc": "Sorti 1-2 CL (Salah satunya sebagai kapal pemimpin) dan 4-5 DD ke [W2-2] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u203bSorti Pasukan Torpedo ke Pulau Bashi!\n\u27a3Hadiahnya Furniture Fairy"
     },
-    
-   
     "258": {
-        "name": "Sorti Skuadron ke2",
-        "desc": "Sorti Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) dan 2 Kapal apapun ke World 4-2. Dapatkan 2 S-Rank saat di Bos Node."
+	"code": "B31",
+        "name": "Sorti Kapal Tempur Divisi ke-2",
+        "desc": "Sorti Nagato , Mutsu, Fusou , Yamashiro dan 2 kapal tambahan ke [W4-2] dan dapatkan 2x Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Type 1 AP Shell"
     },
-   
     "260": {
-        "name": "Sorti Skuadron Kapal Tempur ke Perairan Utara",
-        "desc": "Sorti 2 BB , 1 CVL dan 3 Kapal apapun ke World 3-5 . Dapatkan S-Rank pada Bos Node."
+	"code": "B32",
+        "name": "Sorti Pasukan Kapal Tempur ke Perairan Utara",
+        "desc": "Sorti 2 BB , 1 CVL dan 3 kapal tambahan ke [W3-5] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u2718Tidak bisa menggunakan CV(B/L) sebagai kapal tambahan.\n\u27a3Hadiahnya Type 1 AP Shell"
     },
-    
     "262": {
+	"code": "B33",
         "name": "Sorti Armada Nishimura ke Perairan Selatan",
-        "desc": "Sorti Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) dan Michishio (\u6e80\u6f6e), 1 Kapal apapun ke World 5-1. Dapatkan S-Rank pada Bos Node."
+        "desc": "Sorti Fusou, Yamashiro, Mogami, Shigure dan Michishio, 1 kapal tambahan ke [W5-1] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya 5 Improvement Material dan Medal"
     },
     "263": {
-        "name": "Sorti Skuadron ke-6 ke Perairan Barat Daya",
-        "desc": "Sorti Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) dan 2 Kapal apapun ke World 2-5 . Dapatkan S-Rank pada Bos Node."
+        "code": "B34",
+        "name": "Sorti Pasukan ke-6 ke Perairan Barat Daya",
+        "desc": "Sorti Furutaka, Kako, Aoba, Kinugasa dan 2 kapal tambahan ke [W2-5] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
     },
     "267": {
+        "code": "B35",
         "name": "Sorti Kapal Perusak  Divisi ke-11",
-        "desc": "Sorti Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) dan 2 Kapal apapun ke World 2-3. Dapatkan Kemenangan pada Bos Node."
+        "desc": "Sorti Fubuki, Shirayuki, Hatsuyuki, Murakumodan 2 kapal tambahan ke [W2-3] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Mamiya"
     },
     "268": {
+        "code": "B36",
         "name": "Patroli Anti Kapal Selam Dengan Kapal Perusak  Divisi ke-11",
-        "desc": "Sorti Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) dan Murakumo(\u53e2\u96f2) ke World 1-5. Dapatkan ranking C keatas pada Bos Node."
+        "desc": "Sorti Fubuki, Shirayuki, Hatsuyuki dan Murakumo ke [W1-5] dan dapatkan setidaknya Rank C pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Type 3 SONAR"
     },
     "269": {
+	"code": "B37",
         "name": "Sorti Kapal Perusak Divisi ke-21",
-        "desc": "Sorti Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) dan Hatsushimo (\u521d\u971c) dan 2 Kapal apapun ke World 3-1. Dapatkan S-Rank pada Bos Node."
+        "desc": "Sorti Hatsuharu, Nenohi, Wakaba dan Hatsushimo dan 2 kapal tambahan ke [W3-1] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Present Box"
     },
     "270": {
+	"code": "B39",
         "name": "Sorti Kapal Perusak Divisi ke-22",
-        "desc": "Sorti Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 lagi DD dan 2 Kapal apapun ke World 1-4. Dapatkan S-Rank pada Bos Node."
+        "desc": "Sorti Satsuki, Fumizuki, Nagatsuki, 1 DD dan 2 kapal tambahan ke [W1-4] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Irako"
     },
     "271": {
-        "name": "Sorti Skuadron Nachi",
-        "desc": "Sorti Nachi (\u90a3\u667a) Sebagai Kapal Pemimpin, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) dan 1 Kapal apapun ke world 2-2. Dapatkan S-Rank pada Bos Node."
+	"code": "B38",
+        "name": "Sorti Pasukan Divisi Nachi",
+        "desc": "Sorti Nachi sebagai kapal pemimpin, Hatsushimo, Kasumi, Ushio, Akebono dan 1 kapal tambahan ke [W2-2] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya 2 Improvement Material"
     },
     "272": {
-        "name": "Sorti Kapal penjelah berat anti pesawat yang telah di remodel",
-        "desc": "Sorti Maya (\u6469\u8036) Kai atau Kai Ni, 1 CL, 2 DD dan 2 Kapal apapun ke World 2-3. Dapatkan S-Rank pada Bos Node."
+	"code": "B40",
+        "name": "Sorti Kapal Penjelah Berat Anti Pesawat yang telah Dimodel-ulang",
+        "desc": "Sorti Maya Kai atau Kai Ni, 1 CL, 2 DD dan 2 kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3hadiahnya 25mm Triple Autocannon Mount dan Type 3 Shell"
     },
     "273": {
+        "code": "B41",
         "name": "Sorti Armada Mikawa ke Pulau Solomon",
-        "desc": "Sorti Choukai Kai Ni Sebagai Kapal Pemimpin dan 5 dari Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari ke World 5-1. Dapatkan S-Rank pada Bos Node."
+        "desc": "Sorti Choukai Kai Ni sebagai kapal pemimpin dan 5 dari Aoba, Kinugasa, Kako, Furutaka, Tenryuu dan/atau Yuubari ke [W5-1] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya 3 Improvement Material"
     },
     "274": {
+        "code": "B42",
         "name": "Patroli Anti Kapal Selam Kapal Perusak Divisi ke-6",
-        "desc": "Sorti Akatsuki (\u6681), Hibiki (\u97ff atau \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma (\u96f7) dan Ikazuchi (\u96fb) ke World 1-5. Setidaknya dapatkan C-Rank pada the Bos Node."
+        "desc": "Sorti Akatsuki, Hibiki/Verniy, Inazuma dan Ikazuchi ke [W1-5] dan dapatkan setidaknya Rank C pada Boss Node.",
+	"memo": "\u27a3Hadiahnya Type 93 Passive SONAR"
     },
     "275": {
-        "name": "Sorti Skuadron ke-18",
-        "desc": "Tenryuu, Tatsuta, dan setidaknya 2 Kapal lain ke World 2-3. Dapatkan S-Rank pada Bos Node."
+        "code": "B43",
+        "name": "Sorti Pasukan ke-18",
+        "desc": "Sorti Tenryuu, Tatsuta, dan 2 Kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
     },
-	"276": {
+    "276": {
+        "code": "B44",
         "name": "Sorti Armada penyerang permukaan!",
-        "desc": "Sorti Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma ke 5-1 dan Selesaikan Map dengan S-Rank."
+        "desc": "Sorti Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, dan Inazuma ke [W5-1] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya 2 Improvement Material"
     },
-	"277": {
-        "name": "Misi anti Kapal Selam Kapal Perusak Divisi ke-6!",
-        "desc": "Sorti Akatsuki Kai Ni , Hibiki/Verniy, Ikazuchi, Inazuma ke 1-5 dan Selesaikan Map setidaknya A-Rank."
+    "277": {
+        "code": "B45",
+        "name": "Misi Anti-Kapal Selam Kapal Perusak Divisi ke-6, NaNodesu!",
+        "desc": "Sorti Akatsuki Kai Ni, Hibiki/Verniy, Ikazuchi, dan Inazuma ke [W1-5] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 2 Improvement Material dan Type 93 Passive SONAR"
     },
-	"278": {
-        "name": "Penyerbuan Skuadron Torpedo Pertama ke Operasi 'KE'",
-        "desc": "Sorti Abukuma Sebagai Kapal Pemimpin dengan Hibiki/Вер, Hatsushimo, Wakaba, Samidare dan Shimakaze ke World 3-2. Dapatkan B-Rank+ pada Bos Node."
+    "278": {
+        "code": "B46",
+        "name": "Penyerbuan Pasukan Torpedo Pertama untuk Operasi 'KE'",
+        "desc": "Sorti Abukuma sebagai kapal pemimpin, Hibiki/Verniy, Hatsushimo, Wakaba, Samidare dan Shimakaze ke [W3-2] dan dapatkan kemenangan pada Boss Node.",
+        "memo": "\u27a3hadiahnya Furniture Fairy"
     },
-    
-	"279": {
-        "name": "Penyerbuan Skuadron Torpedo Pertama ke Operasi 'KE' Sekali Lagi!",
-        "desc": "Sorti Abukuma Kai Ni Sebagai Kapal Pemimpin dengan Hibiki/Вер, Yuugumo, Naganami, Akigumo dan Shimakaze ke World 3-2. Dapatkan S-Rank pada Bos Node."
+    "279": {
+        "code": "B47",
+        "name": "Penyerbuan Pasukan Torpedo Pertama untuk Operasi 'KE' Sekali Lagi!",
+        "desc": "Sorti Abukuma Kai Ni sebagai kapal pemimpin dengan Hibiki/Verniy, Yuugumo, Naganami, Akigumo dan Shimakaze ke [W3-2] dan dapatkan Rank S pada Boss Node.",
+	"memo": "\u27a3Hadiahnya 4 Improvement Material"
     },
-	"285": {
-        "name": "\"Carrier Task Force\", Menuju Laut Utara!",
-        "desc": "Sortie Armada dengan Kapal Induk(CV) Sebagai kapal pemimpin ke 3-5 dan S-Rank di boss node"
+    "285": {
+        "code": "B49",
+        "name": "Satuan Tugas Penerbangan, Menuju Laut Utara!",
+        "desc": "Sorti CV sebagai kapal pemimpin ke [W3-5] dan dapatkan Rank S pada Boss Node",
+	"memo": "\u27a3Hadiahnya 3 Improvement Material"
     },
-	"286": {
+    "286": {
+        "code": "B48",
         "name": "Perkuat Patroli anti kapal selam di depan pangkalan angkatan laut!",
-        "desc": "Sortie ke 1-5 dan dapatkan 4 A-ranks (Atau lebih) Pada Boss Node"
+        "desc": "Sortie ke [W1-5] dan dapatkan setidaknya A-Rank pada Boss Node 4x"
     },
     "287": {
         "name": "Sorti Kapal Induk Divisi ke-5 ke Laut Selatan Pulau Coral",
-        "desc": "Sorti Shoukaku, Zuikaku, Oboro, Akigumo dan 2 Kapal lainnya ke W5-2 dan S-Rank di Boss Node"
+        "desc": "Sorti Shoukaku, Zuikaku, Oboro, Akigumo dan 2 Kapal tambahan ke [W5-2] dan dapatkan Rank S pada Boss Node"
     },
     "288": {
-        "name": "Sorti Skuadron divisi ke-21 yg Baru ke Utara",
-        "desc": "Sorti Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso dan 2 Kapal Lainnya ke W3-1 dan S-Rank di Boss Node"
+        "name": "Sorti Pasukan divisi ke-21 yg Baru ke Utara",
+        "desc": "Sorti Nachi Kai Ni, Ashigara Kai Ni, Tama, Kiso dan 2 kapal tambahan ke [W3-1] dan dapatkan Rank S pada Boss Node"
     },
     "289": {
-        "name": "Sorti Skuadron Divisi ke-16 (Generasi Pertama)",
-        "desc": "Sorti Ashigara Sebagai Kapal Pemimpin, Kuma, Nagara dan 3 Kapal lainnya ke W2-2 dan S-Rank di boss node"
+        "name": "Sorti Pasukan Divisi ke-16 (Generasi Pertama)",
+        "desc": "Sorti Ashigara sebagai kapal pemimpin, Kuma, Nagara dan 3 kapal tambahan ke [W2-2] dan dapatkan Rank S pada Boss Node"
      },
-    "290": {
-        "name": "Memancing Ikan Sauri: Ayo tangkap saurinya!",
-        "desc": "Kalahkan armada musuh pada Daerah Utara Perikanan dan Zona Perbatasan dan dapatkan 3 sauri!"
-    },
-    "291": {
-        "name": "Memancing Ikan Sauri: Kita harus tangkap sauri lebih banyak!",
-        "desc": "Memang sedikit melelahkan, tapi kau harus mengamankan dareah perikanan dan dapatkan 10 sauri!"
-    },
-    "292": {
-        "name": "Memancing Ikan Sauri: Kau pasti bisa berusuha lebih keras lagi!",
-        "desc": "Akan sangat menyulitkan, tapi coba tangkaplah ikan sauri lebih banyak lagi!"
-    },
-	"293": {
-		"code": "B53",
+    "293": {
+        "code": "B53",
         "name": "Kapal Induk divisi ke-3: Lindungi Pulau Nensei",
-        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL) dan Chiyoda(CVL) tambahan (2 kapal lain) ke world 1-4 dan dapatkan S-Rank pada boss node"
+        "desc": "Sorti Zuikaku sebagai kapal pemimpin, Zuihou, Chitose(CVL) dan Chiyoda(CVL) dan 2 kapal tambahan ke [W1-4] dan dapatkan Rank S pada Boss Node"
     },
-	"294": {
-		"code": "B54",
+    "294": {
+        "code": "B54",
         "name": "Sorti armada Ozawa",
-        "desc": "Sorti Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke world 2-4 dan dapatkan S-rank pada boss node"
+        "desc": "Sorti Zuikaku Kai sebagai kapal pemimpin, Zuihou Kai, Chitose(CVL), Chiyoda(CVL), Ise Kai dan Hyuuga Kai ke [W2-4] dan dapatkan Rank S pada Boss Node"
     },
-    	"295": {
-		"code": "B55",
-        "name": "Sorti dengan Skuadron ke-16 (Generasi Kedua)",
-        "desc": "Sorti dengan Natori sebagai kapal pemimpin, Isuzu , Kinu dan 3 kapal tambahan ke World 2-3 dan dapatkan S-rank pada boss node"
+    "295": {
+        "code": "B55",
+        "name": "Sorti Pasukan ke-16 (Gen.2)",
+        "desc": "Sorti Natori sebagai kapal pemimpin, Isuzu , Kinu dan 3 kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node"
     },
-    	"296": {
-		"code": "B56",
-        "name": "Sorti Divisi kapal induk baru ke Utara", 
-        "desc": "Sortie dengan 2 CV, 2 BBV/CAV dan 2 DD ke W3-3 dan S-rank pada boss nodes"
+    "296": {
+        "code": "B56",
+        "name": "Sorti Divisi Kapal Induk Baru ke Utara",
+        "desc": "Sorti 2 CV, 2 BBV/CAV dan 2 DD ke [W3-3], dapatkan rank S pada Boss Node",
+	"memo": "\u27a3Hadiahnya 2 Development Material dan Furniture Fairy"
     },
-    	"297": {
-		"code": "B57",
-        "name": "Jalankan Operasi Rei-Gou!", 
-        "desc": "Sorti dengan Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo, Kiyoshimo dan 1 kapal tambahan ke W2-5 dan S-Rank pada boss node" 
+    "297": {
+        "code": "B57",
+        "name": "Jalankan Operasi Rei-Gou!",
+        "desc": "Sorti Kasumi sebagai kapal pemimpin, Ashigara, Ooyodo, Asashimo, Kiyoshimo dan 1 kapal tambahan ke [W2-5] dan dapatkan Rank S pada Boss Node",
+        "memo": "\u27a3Hadiahnya 3 Development Material dan Present Box"
     },
-    	"805": {
-	"code": "B58",
+        "805": {
+    "code": "B58",
         "name": "Kirim Kasumi untuk patroli ke Laut Utara",
-        "desc": "Sorti dengan Kasumi Kai Ni sebagai kapal pemimpin, 3 DD dan 2 kapal tambahan ke W3-1 dan S-Rank pada boss node"
+        "desc": "Sorti Kasumi Kai Ni sebagai kapal pemimpin, 3 DD dan 2 kapal tambahan ke [W3-1] dan dapatkan Rank S pada Boss Node"
     },
-    	"806": {
+        "806": {
         "code": "B59",
         "name": "Sorti Kasumi dan Kalahkan Armada Musuh",
-        "desc": "Sorti dengan Kasumi Kai Ni sebagai kapal pemimpin, 2 DD dan 3 kapal tambahan ke W2-5 dan S-Rank pada boss node"
+        "desc": "Sorti Kasumi Kai Ni sebagai kapal pemimpin, 2 DD dan 3 kapal tambahan ke [W2-5] dan dapatkan Rank S pada Boss Node"
     },
     "807": {
         "code": "B60",
         "name": "Sorti Divisi ke-31",
-        "desc": "Sorti Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai dan maks 3 kapal lagi ke World 1-6 sampai node terakhir"
+        "desc": "Sorti Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai dan 3 kapal tambahan ke [W1-6] sampai Node N"
     },
     "808": {
         "code": "B61",
         "name": "Sorti Kapal Penghancur Divisi ke-27",
-        "desc": "Sorti Shiratsuyu Kai sebagai pemimpin, Shigure, Harusame, Samidare dan maks 2 kapal lagi ke World 2-3 dan dapatkan S-Rank di boss node"
+        "desc": "Sorti Shiratsuyu Kai sebagai pemimpin, Shigure, Harusame, Samidare dan 2 kapal tambahan ke [W2-3] dan dapatkan Rank S pada Boss Node"
     },
     "809": {
         "code": "B62",
         "name": "Tingkatkan Potensi dari Operasi Serangan Darat!",
-        "desc": "Sorti ke World 6-3 dan dapatkan B-Rank atau lebih di boss node"
+        "desc": "Sorti ke [W6-3] dan dapatkan minimal B-Rank pada Boss Node"
     },
      "810": {
         "code": "B63",
         "name": "Ayo Pertahankan Area Kilang Minyak!",
-        "desc": "Sorti ke World 1-3 dan kalahkan Boss 3 kali dengan Torpedo Skuadron (1CL + 5DD)"
+        "desc": "Sorti 1CL dan 5DD ke [W1-3] dan dapatkan Rank S pada Boss Node 3x"
     },
      "811": {
         "code": "B64",
         "name": "Perkuat Pertahanan Pulau-Pulau Di Daerah Barat Daya!",
-        "desc": "Sorti ke World 1-4 dan kalahkan boss 5 kali"
+        "desc": "Sorti ke [W1-4] dan dapatkan 5x Rank S pada Boss Node"
     },
      "812": {
         "code": "B65",
         "name": "Amankan Kendali Di Lautan Orel!",
-        "desc": "Sorti ke World 2-3 dengan Ooshio sebagai pemimpin dan dapatkan S-Rank di boss node 6 kali"
+        "desc": "Sorti Ooshio sebagai pemimpin ke [W2-3] dan dapatkan 6x Rank S pada Boss Node"
     },
      "813": {
         "code": "B66",
         "name": "Sorti Si Pemimpin \"Ooshio\"!",
-        "desc": "Sorti ke World 3-5 dengan Ooshio Kai Ni sebagai pemimpin dan dapatkan S-Rank di boss node"
+        "desc": "Sorti Ooshio Kai Ni sebagai pemimpin ke [W3-5] dan dapatkan Rank S pada Boss Node"
     },
      "814": {
         "code": "B68",
         "name": "Armada Transport Berkecepatan Tinggi yang Terpaksa, sorti!",
-        "desc": "Sorti dengan Sendai Kai Ni sebagai pemimpin, Kawakaze Kai Ni, Shigure Kai Ni, 2 DD dan 1 kapal tambahan ke World 4-1 dan dapatkan setidaknya A-Rank di boss node."
+        "desc": "Sorti Sendai Kai Ni sebagai pemimpin, Kawakaze Kai Ni, Shigure Kai Ni, 2 DD dan 1 kapal tambahan ke [W4-1] dan dapatkan setidaknya Rank A pada Boss Node."
     },
       "815": {
         "code": "B69",
         "name": "\"Kapal Induk Divisi Pertama\", ke Barat!",
-        "desc": "Sorti dengan Akagi Kai sebagai kapal pemimpin, Kaga Kai dan 4 kapal tambahan ke World 4-5 dan dapatkan S-Rank di boss node."
+        "desc": "Sorti Akagi Kai sebagai kapal pemimpin, Kaga Kai dan 4 kapal tambahan ke [W4-5] dan dapatkan Rank S pada Boss Node."
     },
       "816": {
         "code": "B67",
         "name": "Armada, Hari Jadi Ke-3!",
-        "desc": "Sorti ke World 2-2 dan World 2-3 dan dapatkan S-Rank di kedua boss node tsb."
+        "desc": "Sorti ke [W2-2] dan [W2-3] dan dapatkan Rank S di kedua Boss Node tersebut."
     },
      "817": {
         "code": "B70",
         "name": "Berlayar Menuju Garis Pertahanan Pulau Nansei.",
-        "desc": "Sorti armada dengan CL/CLT/CT sebagai pemimpin, 4 DD, dan 1 kapal tambahan ke World 1-4 dan dapatkan setidaknya A-Rank di boss node."
+        "desc": "Sorti armada dengan CL/CLT/CT sebagai pemimpin, 4 DD, dan 1 kapal tambahan ke [W1-4] dan dapatkan setidaknya Rank A pada Boss Node."
     },
     "818": {
         "code": "B71",
         "name": "Memastikan Keselamatan Di Jalur Dekat Pangkalan ",
-        "desc": "Sorti armada dengan CL sebagai pemimpin, 4 DD, dan 1 kapal tambahan ke World 1-6 dan selesaikan."
+        "desc": "Sorti CL sebagai pemimpin, 4 DD, dan 1 kapal tambahan ke [W1-6] sampai Node N."
     },
     "819": {
         "code": "B72",
         "name": "Kapal Penjelajah Divisi Ke-31, Tindas Kapal Selam Musuh!",
-        "desc": "Sorti armada dengan Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai, dan 3 kapal lain ke World 1-6 dan selesaikan 2x."
+        "desc": "Sorti Isuzu Kai Ni sebagai pemimpin, Satsuki Kai Ni, Uzuki Kai, dan 3 kapal tambahan ke [W1-6] sampai Node N 2x."
     },
     "820": {
         "code": "B73",
         "name": "Kapal Penghancur Divisi Ke-8 Baru, Sorti!",
-        "desc": "Sorti armada dengan Asashio Kai Ni (atau Kai Ni D) sebagai pemimpin, Michishio, Ooshio, Arashio, 2 kapal lain ke World 1-6 dan selesaikan."
+        "desc": "Sorti Asashio Kai Ni (atau Kai Ni D) sebagai pemimpin, Michishio, Ooshio, Arashio, dan 2 kapal tambahan ke [W1-6] sampai Node N."
     },
     "821": {
         "code": "B74",
         "name": "Kapal Penghancur Divisi Ke-8 Elit pada patroli ASW!",
-        "desc": "Sorti armada yg berisi Asashio Kai Ni D dan Ooshio Kai Ni ke World 1-5 dan dapatkan 2 S-Ranks di boss node."
-    },
-    "822": {
-        "code": "Bq1",
-        "name": "(Tiap 3 Bulan) Serangan Balik Lautan Okinoshima",
-        "desc": "Sorti armada ke World 2-4 dan dapatkan 2 S-Ranks di boss node."
+        "desc": "Sorti Asashio Kai Ni D dan Ooshio Kai Ni ke [W1-5] dan dapatkan S-Ranks pada Boss Node 2x."
     },
     "823": {
         "code": "B75",
         "name": "Pasukan Torpedo, sorti berulang ke Garis Pertahanan Pulau Nansei!",
-        "desc": "Sorti armada dengan CL/CLT/CT sebagai pemimpin, 4 DD and 1 kapal lain ke World 1-4 dan dapatkan 2 S-Ranks di boss node."
+        "desc": "Sorti CL/CLT/CT sebagai pemimpin, 4 DD and 1 kapal tambahan ke [W1-4] dan dapatkan S-Ranks pada Boss Node 2x."
     },
     "824": {
         "code": "B76",
         "name": "Patroli Zona Pesisir Kilang Minyak!",
-        "desc": "Sorti armada dengan CVL sebagai pemimpin, 3 DD dan 2 kapal lain ke World 1-3 dan dapatkan S-Rank di boss node."
+        "desc": "Sorti CVL sebagai pemimpin, 3 DD dan 2 kapal tambahan ke [W1-3] dan dapatkan S-Rank pada Boss Node."
     },
-    
+    "825": {
+        "code": "B77",
+        "name": "Pasukan Torpedo, Patroli bagian Barat Daya Lautan!",
+        "desc": "Sorti CL sebagai kapal pemimpim, 4 DD dan 1 kapal tambahan ke [W2-2] dan [2-3] dan dapatkan S-Rank Di kedua Boss Node tsb."
+    },
+    "826": {
+        "code": "B78",
+        "name": "Sorti Kapal Perusak Divisi ke-19!",
+        "desc": "Sorti Isonami, Uranami, Ayanami dan Shikinami ke [W1-5] dan dapatkan setidaknya A-Rank pada Boss Node."
+    },
+    "827": {
+        "code": "B79",
+        "name": "Kapal Perusak Divisi ke-19, Segera menuju Pasukan Utama Musuh!",
+        "desc": "Sorti armada dengan Isonami, Uranami, Ayanami dan Shikinami dengan 2 kapal tambahan ke [W2-5] dan dapatkan setidaknya A-Rank pada Boss Node."
+    },
+    "828": {
+        "code": "B80",
+        "name": "Jalankan persiapan pembangunan Lapangan Terbang!",
+        "desc": "Sorti ke [W6-3] dan dapatkan S-Rank pada Boss Node."
+    },
+    "829": {
+        "code": "B81",
+        "name": "Bergegas di malam hari! Serang Pasukan Darat Musuh!",
+        "desc": "Sorti ke [W5-3] dan dapatkan setidaknya A-Rank pada Boss Node."
+    },
+    "830": {
+        "code": "B82",
+        "name": "Dapatkan \"Cahaya\" yang Menerangi Laut saat Malam!",
+        "desc": "Sorti armada ke [W2-1] dan dapatkan S-Rank pada Boss Node."
+    },
+    "831": {
+        "code": "SB12",
+        "name": "Mancing Mania: Ayo! Bantu Pancing Ikan Kembung!",
+        "desc": "Miliki 3 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]."
+    },
+    "832": {
+        "code": "SB13",
+        "name": "Mancing Mania: Lagi! Pancing Lebih Banyak!",
+        "desc": "Miliki 8 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]. Kau akan diberi pilihan untuk hadiahnya, jadi cek di wiki dulu yah~."
+    },
+    "833": {
+        "code": "SB14",
+        "name": "Mancing Mania: Mantap! Teruskan Mancing Manianya!",
+        "desc": "Miliki 24 ikan di penyimpanan. Bisa dicari di [W1], [W3], dan [W6]."
+    },
+    "834": {
+        "code": "B83",
+        "name": "Perkuat garis pertahanan Pulau Nansei!",
+        "desc": "Sorti AV atau CAV sebagai pemimpin ke [W1-4] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
+    },
+    "835": {
+        "code": "B84",
+        "name": "Sorti Kapal Penjelajah Divisi ke-16 (Generasi Ketiga)!",
+        "desc": "Sorti Kinu, Aoba, Kitakami, Ooi dan 2 kapal tambahan ke [W2-4] dan dapatkan setidaknya A-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Perabotan"
+
+    },
+    "836": {
+        "code": "B85",
+        "name": "Tembusi bersama KaPenDiv 16 Elit!",
+        "desc": "Sorti Kinu Kai Ni sebagai pemimpin dan lima dari Kitakami Kai Ni, Ooi Kai Ni, Kuma Kai, Aoba Kai, Uranami Kai dan atau Shikinami Kai ke [W2-5] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Toku Daihatsu Landing Craft"
+
+    },
+    "837": {
+        "code": "B86",
+        "name": "Berhasil dalam Operasi Transport dan Kembali!",
+        "desc": "Sorti Kai Ni sebagai pemimpin, Uranami Kai, 3 DD dan 1 kapal tambahan selain DD ke [W2-2] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 5 Development Material dan Underway Replenishment"
+    },
+    "838": {
+        "code": "B87",
+        "name": "Divisi Kapal Penjelajah Berat, Berlayar!",
+        "desc": "Sorti CA(V) sebagai pemimpin, 3 CA(V) tambahan dan 2 kapal tambahan ke [W2-3] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya Perabotan"
+    },
+    "839": {
+        "code": "B88",
+        "name": "Sorti Divisi Kapal Tempur!",
+        "desc": "Sorti (F)BB(V) sebagai pemimpin, 1 (F)BB(V) dan 4 kapal tambahan ke [W3-3] dan dapatkan S-Rank pada Boss Node. Hadiahnya akan dipilih, tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya 2 Development Material dan antara Type 2 Seaplane Fighter Kai ATAU a PBY-5A Catalina"
+    },
+    "840": {
+        "code": "SB15",
+        "name": "Misi Spesial Musim Dingin: Divisi Kapal Perusak Elit, Sorti!",
+        "desc": "Sorti HANYA 4 DD ke [W1-1] dan [W1-2] dan dapatkan S-Rank di kedua Boss Node tsb. Hadiahnya akan dipilih, tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy dan antara \u2605+3 25mm Triple Autocannon Mount ATAU an Anti-Torpedo Bulge (Large)"
+
+    },
+    "841": {
+        "code": "SB16",
+        "name": "Misi Spesial Musim Dingin: Kapal Induk Pesawat Amphibi, Berlayar!",
+        "desc": "Sorti AV sebagai pemimpin, 3DD dan 2 kapal tambahan ke [W1-3] dan [W1-4] dan dapatkan S-Rank di kedua Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya Perabotan dan Reinforcement Expansion"
+    },
+    "842": {
+        "code": "B89",
+        "name": "Kapal Tempur Divisi Utama, Berlayar!",
+        "desc": "Sorti 2 BB(V) (FBB tidak dihitung) dan 4 kapal tambahan ke [W2-4] dan dapatkan S-Rank pada Boss Node. Hadiahnya dapat dipilih.",
+        "memo": "\u27a3Hadiahnya antara \"Improved Kanhon Type Turbine\" ATAU \"Enhanced Kanhon Type Boiler\"."
+    },    
+    "843": {
+        "code": "SB21",
+        "name": "Sorti Spesial Setsubun: Pertahankan Kendali di lautan!",
+        "desc": "Sorti 2 DD dan 2 kapal tambahan ke [W1-1], [W1-2], [W2-3] dan dapatkan S-Rank di ketiga Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya Perabotan"
+    },
+    "844": {
+        "code": "B90",
+        "name": "Penyerbuan dengan Kapal Perusak Elit Divisi ke-8!",
+        "desc": "Sorti Arashio Kai Ni sebagai pemimpin, SALAH SATU DARI Asashio, Ooshio, ATAU Michishio DAN 4 kapal tambahan ke [W5-5] dan dapatkan setidaknya A-Rank pada Boss Node 2x.",
+        "memo": "\u27a3Hadiahnya 4 Development Material dan Reinforcement Expansion"
+    },
+    "845": {
+        "code": "OH3",
+        "name": "Potong garis belakang Logistik dari Pelabuhan Berskala Besar Musuh!",
+        "desc": "Sorti Satuan Petugas Permukaan (STF) ke [E-3], dan dapatkan minimal A-Rank di Node J 2x.",
+        "memo": "\u27a3Memicu satu dari dua cara melemahkan Boss."
+    },
+    "846": {
+        "code": "B91",
+        "name": "Armada Kapal Selam, patroli daerah Lautan Tengah!",
+        "desc": "Sorti SS(V) sebagai pemimpin, 3 SS(V) dengan 2 kapal tambahan ke [W6-1] dan dapatkan setidaknya B-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 3 Development Material dan 1 Irako"
+		
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Misi persiapan Musim Semi: Persiapan untuk Hina Matsuri (Hari Boneka/Perempuan)~!",
+        "desc": "Sorti ke [W2-1] dan dapatkan S-Rank pada Boss Node 5x.",
+        "memo": "\u27a3hadiahnya 3 Hishimochi dan 1 Reinforcement Expansion"
+    },
+    "848": {
+        "code": "B92",
+        "name": "Kapal Penjelajah Berat, Menuju Iron Bottom Sound!",
+        "desc": "Sorti Zara Due sebagai kapal pemimpin ke [W5-3] dan dapatkan setidaknya A-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya New Design Anti-Torpedo Bulge (Medium)"
+    },
+    "849": {
+        "code": "B93",
+        "name": "Hancurkan Armada musuh di Pulau Nansei!",
+        "desc": "Sorti CL sebagai pemimpin, dengan 5 kapal tambahan ke [W1-4], [W2-2], dan [W2-3], dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya 1 Irako dan 1 Mamiya."
+    },
+    "850": {
+        "code": "B94",
+        "name": "Perkuat Kapal Penerbangan di Laut Lepas.",
+        "desc": "Sorti AV/CV/CVL/CVB sebagai pemimpin, dengan 5 kapal tambahan ke [W3-5], [W4-4], dan [W6-2] dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya \"Skilled Crew Member\""
+    },
+    "851": {
+        "code": "B95",
+        "name": "Kapal penjelajah penerbangan baru, Sorti!",
+        "desc": "Sorti Suzuya Kai Ni (bukan CVL) sebagai pemimpin ke [W5-1] dan [W5-3] dan dapatkan setidaknya A-Rank pada Boss Node tsb. Hadiahnya akan dipilih, tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2623PERHATIAN\u2623 Suzuya harus dalam status CAV bukan CVL\n\u27a3Hadiahnya 4 Development Material DAN ANTARA Kyoufuu Kai ATAU New Kanhon Design Anti-torpedo Bulge (Medium)"
+    },
+    "852": {
+        "code": "B96",
+        "name": "Kapal Penyerang Jelajah Ringan Baru, Bersiap di Garis Depan!",
+        "desc": "Sorti Suzuya-Kou Kai Ni (bukan CAV) sebagai pemimpin ke [W6-2] dan [W6-5], dan dapatkan S-Rank pada Boss Node tsb.",
+        "memo": "\u2623PERHATIAN\u2623 Suzuya harus dalam status CVL bukan CAV.\n\u27a3Hadiahnya Type 0 Fighter Model 63 (Fighter-bomber) DAN 8cm High-angle Gun Kai + Extra Machine Guns"
+    },
+    "853": {
+        "code": "B97",
+        "name": "Patroli Secara Waspada di Perairan Pangkalan!",
+        "desc": "Sorti CL/CA(V) sebagai pemimpin dan setidaknya 2DD dengan tambahan kapal sesuka hati ke [W1-2], [W1-3], [W1-4] dan [W1-5], dan dapatkan setidaknya A-Rank pada Boss Node tsb.",
+        "memo": "\u27a3Hadiahnya 2 Irako, 4 Development Material dan Furniture Fairy"
+    },
+    "855": {
+        "code": "B98",
+        "name": "Berjuang untuk Memertahankan Logistik Dekat Pantai!",
+        "desc": "Sorti setidaknya 3 DD/DE (Loli Escort) ke [W1-3], [W1-4], [W1-5] dan [W1-6]. Dapatkan S-Rank pada Boss Node tsb dan menuju Node N pada [1-6] 1x.",
+        "memo": "\u27a3Hadiahnya Furniture Fairy"
+    },
+    "856": {
+        "code": "B99",
+        "name": "Kapal Tempur Divisi Pertama, Berlayar!",
+        "desc": "Sorti Nagato Kai Ni sebagai pemimpin dengan Mutsu Kai ke [W4-5] dan [W5-5], dan dapatkan Rank S pada Node boss.",
+        "memo": "\u27a3Hadiahnya New Design Anti-Torpedo Bulge (Large)"
+    },
+    "857": {
+        "code": "B100",
+        "name": "Armada Pengawal Laut yang Ditingkatkan, Berlayar!",
+        "desc": "Sorti Armada 1 dengan CL, 2 DD/DE, 1 CAV/CVL dan 2 kapal tambahan ke [W2-2], [W2-3], [W2-4] dan [W2-5] dan dapatkan setidaknya A-Rank pada Boss Node tsb. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Medal ATAU New Model Gun Mount Improvement Material."
+    },
+    "858": {
+        "code": "B101",
+        "name": "Kapal Penjelajah Divisi ke-7 Baru, Sorti!",
+        "desc": "Sorti Kumano Kai Ni (atau Kou) sebagai pemimpin, Suzuya Kai Ni (atau Kou) di tempat ke-2, Mogami Kai, Mikuma Kai dan 2 kapal tambahan ke [W4-5] dan [W6-2] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 4 Development Material dan ANTARA Medal ATAU New Model Gun Mount Improvement Material ATAU Type 0 Fighter Model 63 (Fighter-bomber)."
+    },
+    "859": {
+        "code": "B102",
+        "name": "Kapal Penjelajah Divisi ke-4 Elit, Berlayar!",
+        "desc": "Sorti Lv.50+ Hyuuga sebagai pemimpin dan Lv.50+ Ise di tempat ke-2, 1 CL, 2 DD dan 1 kapal tambahan ke [W2-5] dan [W3-5] dan dapatkan setidaknya Rank A pada Boss Node.",
+        "memo": "\u203bIse juga bisa dipakai sebagai pemimpin.\n\u27a3Hadiahnya 4 Development Material dan ANTARA Medal ATAU Skilled Crew Member."
+    },
+    "860": {
+        "code": "B103",
+        "name": "Kapal Pemimpin, Yura, Berlayar!",
+        "desc": "Sorti Yura Kai Ni sebagai pemimpin, setidaknya 2 dari Akizuki, Yuudachi, Murasame, Harusame atau Samidare, dan 3 kapal lainnya ke [W2-3] dan [W5-1]. Dapatkan Rank S pada Boss Node.",
+        "memo": "\u27a3hadiahnya Skilled Crew Member dan ANTARA Daihatsu Landing Craft ATAU Reinforcement Expansion."
+    },
+    "863": {
+        "code": "B104",
+        "name": "Sortie the Elite 22nd Destroyer Division!",
+        "desc": "Sorti Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai dan ~2 kapal tambahan lainnya ke [W3-2] dan dapatkan S-Rank pada Boss Node.",
+        "memo": "\u27a3Hadiahnya 2 Irako dan ANTARA Daihatsu Landing Craft ATAU New Model Gun Mount Improvement Material ATAU Reinforcement Expansion."
+    },
+    "864": {
+        "code": "B105",
+        "name": "Kapal Induk Kuat Bersekala Besar, Berlayar!",
+        "desc": "Sorti Saratoga Mk.II Atau Mod.2 sebagai pemimpin, 1 CL, 2 DD dan 2 kapal tambahan ke [W5-5] dan [W6-2] dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya:\n\u00B6Pertama : ANTARA F6F-3 ATAU Skilled Crew Member ATAU New Model Aviation Armament Materials\n\u00B6Kedua: ANTARA TBF ATAU Night Operations Aviation Personnel"
+    },
+    "865": {
+        "code": "B106",
+        "name": "Operasi Malam Kapal Induk, Sorti menuju Garis Depan!",
+        "desc": "Sorti Saratoga Mk.II (BUKAN Mod.2) sebagai pemimpin ke [W6-5] dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA TBF ATAU New Model Aviation Armament Materials ATAU Night Operations Aviation Personnel + Skilled Deck Hands\n\u00B6Kedua: ANTARA Reinforcement Expansion ATAU New Model Aviation Armament Materials ATAU Skilled Crew Member"
+    },
+    "869": {
+          "code": "B107",
+          "name": "Jaga Keamanan Jalur Transport Suplai!",
+          "desc": "Sorti satu CL sebagai kapal pemimpin, 2 DD/DE dan boleh ditambah 3 kapal lainnya ke [W1-3], [W1-4] dan [W1-5].\nDapatkan setidaknya Rank A di semua Boss Node.",
+          "memo": "\u27a3Hadiahnya Underway Replenishment dan Irako"
+      },
+    "870": {
+        "code": "B108",
+        "name": "Divisi Kapal perusak ke-8, mengarah ke Barat daya!",
+        "desc": "Sorti Arashio, Asashio, Ooshio, Michishio dan boleh ditambah 2 kapal lainnya ke [W1-2] dan [W2-2].\nDapatkan Rank S di semua Boss Nodes.",
+        "memo": "\u27a3Hadiahnya Mamiya"
+    },
+    "871": {
+        "code": "B109",
+        "name": "Kapal Perusak Unggulan Divisi ke-8 Sorti Dengan Sepenuh Kekuatan!",
+        "desc": "Sortie Arashio Kai Ni, Asashio Kai Ni (atau D), Ooshio Kai Ni, Michishio Kai Ni dan boleh ditambah 2 kapal lainnya ke [W3-2] dan [W5-4].\n Dapatkan Rank S di semua Boss node.",
+        "memo": "\u27a3Hadiahnya 4 Improvement Material DAN salah satu antara 12.7cm Twin Gun Mount Model C Kai Ni ATAU Daihatsu Landing Craft ATAU Type 22 Surface Radar"
+    },
+    "874": {
+        "code": "B110",
+        "name": "Lakukan Patroli Tempur pada Bagian Utara!",
+        "desc": "Sorti CL, AV, CVL dan 3 kapal tambahan ke [W3-5]dan dapatkan Rank S pada Boss Node. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya present box dan ANTARA 2 Shiden Kai Ni ATAU 4 Baut ATAU New Model Aviation Armament Materials"
+    },
+    "876": {
+        "code": "B111",
+        "name": "Operasi Transport Matsu, Jalankan!",
+        "desc": "Sorti Tatsuta Kai atau Kai Ni sebagai pemimpin dan 3+ DE/DD ke [W1-4] dan [W1-6]. Minimal Rank A pada Boss Node [W1-4] 2x, dan menuju Node N pada [W1-6] 2x. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "Tambah 2 kapal lagi juga tak apa.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA New Model Artillery Armament Materials ATAU New Model Aviation Armament Materials\n\u00B6Kedua: ANTARA Furniture Fairy ATAU Daihatsu Landing Craft ATAU Action Report"
+    },  
+    "877": {
+        "code": "B112",
+        "name": "Pasukan Kapal Perusak Ke-4 Elit, Menuju Bagian Selatan!",
+        "desc": "Sorti Murasame Kai Ni sebagai pemimpin dan 3+ dari Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai Dan/Atau Akizuki Kai ke [W5-1], [W5-3] dan [W5-4] dan dapatkan setidaknya Rank A pada Boss Node tsb.",
+        "memo": "Tambah 2 kapal lagi juga tak apa.\nTekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA 12.7cm Twin Gun Mount Model C Kai Ni ATAU 2 Type 22 Surface Radar ATAU 2 12.7cm Twin Gun Mount Model B Kai Ni\n\u00B6Kedua: ANTARA 2 Underway Replenishment ATAU 3 Drum Canister ATAU 4 Baut"
+    },
+    "878": {
+        "code": "B113",
+        "name": "Lanjutkan Menjalankan Operasi Transport Matsu!",
+        "desc": "Sorti CL(T)/CT/DD sebagai pemimpin dan 3 DE/DD tambahan ke [W1-4] dan [W1-6]. Minimal Rank A pada Boss Node [W1-4] 3x, dan menuju Node N pada [W1-6] 3x. Overlay: F10.",
+        "memo": "Tambah 2 kapal lagi juga tak apa.\nTekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA Daihatsu Landing Craft ATAU 3 Baut\n\u00B6Kedua: ANTARA New Model Artillery Armament Materials ATAU dua 12cm 30-tube Rocket Launcher ATAU Furniture Fairy"
+    },
+    "879": {
+        "code": "B114",
+        "name": "Kapal Induk Divisi Ke-4 yang Baru, Sorti dengan Kekuatan Penuh!",
+        "desc": "Sorti Ise Kai, Hyuuga Kai, Ooyodo Kai, dengan 1 DD dan 2 kapal tambahan lainnya ke [W1-6], [W2-5], [W3-5] dan [W4-5]. Menuju Node N pada [W1-6] dan dapatkan minimal Rank A pada Boss Node. Overlay: F10.",
+        "memo": "Tekan F10 untuk menghilangkan TL sementara.\n\u27a3Hadiahnya 12cm 30-tube Rocket Launcher Kai Ni dan ANTARA New Model Artillery Armament Materials ATAU Action Report"
+    },
 	
-	"201": {
+	
+    "201": {
         "code": "Bd1",
         "name": "Sorti Harian 1",
-        "desc": "Kalahkan Armada Abyssal",
-		"unlock": [ 216, 211, 212 ],
-		"tracking": [ [0,1] ]
+        "desc": "Kalahkan Armada Abyssal (setidaknya Rank B)",
+	"memo": "\u203bHajar armada musuh!",
+        "tracking": [ [0,1] ]
     },
-	"216": {
-		"code": "Bd2",
-		"name": "Sorti Harian 2",
-		"desc": "Kalahkan Kapal Pemimpin Armada Abyssal",
-		"unlock": [ 210, 218, 214, 213, 311, 810 ],
-		"tracking": [ [0,1] ]
-	},
-	"210": {
-		"code": "Bd3",
-		"name": "Sorti Harian 3",
-		"desc": "Kalahkan 10 Armada Abyssal (B rank+)",
-		"tracking": [ [0,10] ]
-	},
-	"211": {
-		"code": "Bd4",
-		"name": "Sorti Harian 4",
-		"desc": "Tenggelamkan 3 Abyssal CV(L)",
-		"tracking": [ [0,3] ]
-	},
-	"218": {
-		"code": "Bd5",
-		"name": "Sorti Harian 5",
-		"desc": "Tenggelamkan 3 Kapal Transport Abyssal",
-		"unlock": [ 226, 220 ],
-		"tracking": [ [0,3] ]
-	},
-	"212": {
-		"code": "Bd6",
-		"name": "Sorti Harian 6",
-		"desc": "Tenggelamkan 5 Kapal Transport Abyssal",
-		"tracking": [ [0,5] ]
-	},
-	"226": {
-		"code": "Bd7",
-		"name": "Sorti Harian 7",
-		"desc": "Kalahkan 5 Bos pada node bertanduk di World 2",
-		"unlock": [ 230 ],
-		"tracking": [ [0,5] ]
-	},
-	"230": {
-		"code": "Bd8",
+    "216": {
+        "code": "Bd2",
+        "name": "Sorti Harian 2",
+        "desc": "Kalahkan Kapal Pemimpin Armada Abyssal",
+	"memo": "\u203bHancurkan kapal pemimpin armada musuh!",
+        "tracking": [ [0,1] ]
+    },
+    "210": {
+        "code": "Bd3",
+        "name": "Sorti Harian 3",
+        "desc": "Serang 10 Armada Abyssal (Tidak harus menang)",
+	"memo": "\u203bSeranglah 10 Armada Abyssal!",
+        "tracking": [ [0,10] ]
+    },
+    "211": {
+        "code": "Bd4",
+        "name": "Sorti Harian 4",
+        "desc": "Tenggelamkan 3 Kapal Induk/CV(L) Abyssal",
+	"memo": "\u203bTenggelamkan Saja 3 Kapal Induk Abyssal!",
+        "tracking": [ [0,3] ]
+    },
+    "218": {
+        "code": "Bd5",
+        "name": "Sorti Harian 5",
+        "desc": "Tenggelamkan 3 Kapal Transport Abyssal",
+	"memo": "\u203bTenggelamkan Saja 3 Kapal Suplai Abyssal!",
+        "tracking": [ [0,3] ]
+    },
+    "212": {
+        "code": "Bd6",
+        "name": "Sorti Harian 6",
+        "desc": "Tenggelamkan 5 Kapal Transport Abyssal",
+	"memo": "\u203bSerang konvoi transport musuh!",
+        "tracking": [ [0,5] ]
+    },
+    "226": {
+        "code": "Bd7",
+        "name": "Sorti Harian 7",
+        "desc": "Kalahkan 5 Boss pada Node bertanduk di [W2]",
+	"memo": "\u203bRenggut kekuasaan di Wilayah Kepulauan Nansei!",
+        "tracking": [ [0,5] ]
+    },
+    "230": {
+        "code": "Bd8",
         "name": "Sorti Harian 8",
         "desc": "Tenggelamkan 6 Kapal Selam Abyssal",
-		"tracking": [ [0,6] ]
+	"memo": "\u203bGanyang Kapal Selam Musuh!",
+        "tracking": [ [0,6] ]
     },
 	
 	
 	
 	
 	
-	"214": {
-		"code": "Bw1",
-		"name": "Sorti Mingguan 1",
-		"desc": "Sorti 36x, Lawan 24 Bos, Menang vs 12 Bos, 6 S-Rank",
-		"unlock": [ 221 ],
-		"tracking": [ [0,36], [0,24], [0,12], [0,6] ]
-	},
-	"220": {
-		"code": "Bw2",
+    "214": {
+        "code": "Bw1",
+        "name": "Sorti Mingguan 1",
+        "desc": "Sorti 36x, Lawan 24 Boss, Menang 12x di Boss Node, 6x Rank S",
+        "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
+	"trackingDesc": [ "{0}x sorti", "{0}x boss", "{0}x B+ boss", "{0}x rank S" ]
+    },
+    "220": {
+        "code": "Bw2",
         "name": "Sorti Mingguan 2",
-        "desc": "Tenggelamkan 20 Abyssal CV(L)",
-		"unlock": [ 228 ],
-		"tracking": [ [0,20] ]
+        "desc": "Tenggelamkan 20 Kapal Induk/CV(L) Abyssal",
+        "tracking": [ [0,20] ]
     },
-	"213": {
-		"code": "Bw3",
-		"name": "Sorti Mingguan 3",
-		"desc": "Tenggelamkan 20 Kapal Transport Abyssal",
-		"tracking": [ [0,20] ]
-	},
-	"221": {
-		"code": "Bw4",
+    "213": {
+        "code": "Bw3",
+        "name": "Sorti Mingguan 3",
+        "desc": "Tenggelamkan 20 Kapal Transport Abyssal",
+        "tracking": [ [0,20] ]
+    },
+    "221": {
+        "code": "Bw4",
         "name": "Sorti Mingguan 4",
         "desc": "Tenggelamkan 50 Kapal Transport Abyssal",
-		"unlock": [ 261, 257, 264 ],
-		"tracking": [ [0,50] ]
+        "tracking": [ [0,50] ]
     },
-	"228": {
-		"code": "Bw5",
+    "228": {
+        "code": "Bw5",
         "name": "Sorti Mingguan 5",
-        "desc": "Tenggelamkan 15 Kapal Selam Abyssal",
-		"unlock": [ 229, 241, 613 ],
-		"tracking": [ [0,15] ]
+        "desc": "Tenggelamkan 15 Kapal Selam/SS Abyssal",
+        "tracking": [ [0,15] ]
     },
-	"229": {
-		"code": "Bw6",
+    "229": {
+        "code": "Bw6",
         "name": "Sorti Mingguan 6",
-        "desc": "Kalahkan 12 Bos pada node bertanduk di World 4",
-		"unlock": [ 242 ],
-		"tracking": [ [0,12] ]
+        "desc": "Kalahkan 12 Boss pada Node bertanduk di [W4]",
+        "tracking": [ [0,12] ]
     },
-	"241": {
-		"code": "Bw7",
+    "241": {
+        "code": "Bw7",
         "name": "Sorti Mingguan 7",
-        "desc": "Kalahkan 5 Bos di Worlds [W3-3], [W3-4] atau [W3-5]",
-		"tracking": [ [0,5] ]
+        "desc": "Kalahkan 5 Boss di [W3-3], [W3-4] atau [W3-5]",
+        "tracking": [ [0,5] ]
     },
     "242": {
-		"code": "Bw8",
+        "code": "Bw8",
         "name": "Sorti Mingguan 8",
-        "desc": "Kalahkan Bos di World [W4-4]",
-		"unlock": [ 243 ],
-		"tracking": [ [0,1] ]
+        "desc": "Kalahkan Boss di [W4-4]",
+        "tracking": [ [0,1] ]
     },
     "243": {
-		"code": "Bw9",
+        "code": "Bw9",
         "name": "Sorti Mingguan 9",
-        "desc": "Sorti ke [W5-2] . Dapatkan 2 S-Rank pada Bos Node",
-		"tracking": [ [0,2] ]
+        "desc": "Sorti ke [W5-2] dan dapatkan 2x Rank S pada Boss Node",
+        "tracking": [ [0,2] ]
     },
-	"261": {
-		"code": "Bw10",
+    "261": {
+        "code": "Bw10",
         "name": "Sorti Mingguan 10",
-        "desc": "Sorti ke [W1-5] . Dapatkan 3 A-Rank+ pada Bos Node",
-		"tracking": [ [0,3] ]
+        "desc": "Sorti ke [W1-5] dan dapatkan 3x setidaknya Rank A pada Boss Node",
+        "tracking": [ [0,3] ]
     },
 	
 	
 	
 	
 	
-	"249": {
-		"code": "Bm1",
-        "name": "Sorti Skuadron ke-5",
-        "desc": "Sorti Myoukou, Nachi, Haguro, dan 3 Kapal lain ke [W2-5]. Dapatkan S-Rank pada Bos Node",
-		"unlock": [ 265 ]
+    "249": {
+        "code": "Bm1",
+        "name": "Sorti Bulanan 1",
+        "desc": "Sorti Myoukou, Nachi, Haguro, dan 3 Kapal tambahan ke [W2-5] dan dapatkan Rank S pada Boss Node",
+        "memo": "\u203bSorti Pasukan Kapal Penjelajah ke-5!"
     },
-	"256": {
-		"code": "Bm2",
-        "name": "Sorti Kapal Selam ke World 6-1",
-        "desc": "Sorti ke [W6-1] . Dapatkan 3 kali S-Rank pada Bos Node",
-		"tracking": [ [0,3] ]
+    "256": {
+        "code": "Bm2",
+        "name": "Sorti Bulanan 2",
+        "desc": "Sorti ke [W6-1] dan dapatkan 3x Rank S pada Boss Node",
+        "memo": "\u203bSorti Armada Kapal Selam!\n\u27a3Hadiahnya Irako",
+        "tracking": [ [0,3] ]
     },
-	"257": {
-		"code": "Bm3",
-        "name": "Sorti Skuadron Torpedo",
-        "desc": "1~3 CL (CL Kapal Pemimpin) dan 3~5 DD ke [W1-4]. Dapatkan S-Rank pada Bos Node"
+    "257": {
+        "code": "Bm3",
+        "name": "Sorti Bulanan 3",
+        "desc": "Sorti 1~3 CL (CL sebagai pemimpin) dan 3~5 DD ke [W1-4] dan dapatkan Rank S pada Boss Node",
+	"memo": "\u203bKirim Pasukan Torpedo ke arah tenggara!\n\u27a3Hadiahnya Irako dan 3 Improvement Material"
     },
-	"259": {
-		"code": "Bm4",
-        "name": "Sorti Skuadron Kapal Tempur Pelan",
-        "desc": "Sorti 3 BB(V) (FBB tidak di hitung) + 1 CL + 2 Kapal lain ke [W5-1] . Dapatkan S-Rank pada Bos Node"
+    "259": {
+        "code": "Bm4",
+        "name": "Sorti Bulanan 4",
+        "desc": "Sorti 3 BB(V) (SELAIN Kapal KELAS Yamato, Nagato, Ise, dan Fusou, TIDAK DIHITUNG) + 1 CL + 2 Kapal lain ke [W5-1] dan dapatkan Rank S pada Boss Node",
+        "memo": "\u203bSorti Pasukan Kapal Tempur Pelan ke Selatan!\n\u27a3Hadiahnya 4 Improvement Material"
     },
-	"265": {
-		"code": "Bm5",
-        "name": "Tugas pengawalan bulanan",
-        "desc": "Sorti ke [W1-5] . Dapatkan 10 kali A-Rank+",
-		"tracking": [ [0,10] ]
+    "265": {
+        "code": "Bm5",
+        "name": "Sorti Bulanan 5",
+        "desc": "Sorti ke [W1-5] dan dapatkan 10x setidaknya Rank A pada Boss Node",
+        "memo": "\u203bTugas pengawalan bulanan\n\u27a3Hadiahnya 3 Improvement Material",
+        "tracking": [ [0,10] ]
     },
-	"264": {
-		"code": "Bm6",
-        "name": "Sorti Kapal Induk ke Barat",
-        "desc": "2 CV + 2 DD + 2 Kapal lain [W4-2]. Dapatkan S-Rank pada Bos Node",
-		"unlock": [ 266 ]
+    "264": {
+        "code": "Bm6",
+        "name": "Sorti Bulanan 6",
+        "desc": "Sorti 2 CV + 2 DD + 2 Kapal tambahan [W4-2] dan dapatkan Rank S pada Boss Node",
+        "memo": "\u203bSorti Kapal Induk ke Barat!\n\u27a3Hadiahnya 2 Improvement Material"
     },
-	"266": {
-		"code": "Bm7",
-        "name": "Sorti Skuadron Penyerang Balik",
-        "desc": "4 DD (DD Kapal Pemimpin) + 1 CA (bukan CAV) + 1 CL ke [W2-5] . Dapatkan S-Rank pada Bos Node"
+    "266": {
+        "code": "Bm7",
+        "name": "Sorti Bulanan 7",
+        "desc": "4 DD (DD sebagai pemimpin), 1 CA (bukan CAV) dan 1 CL ke [W2-5] dan dapatkan Rank S pada Boss Node",
+        "memo": "\u203bSorti Pasukan Penyerang Balik!\n\u27a3Hadiahnya 2 Improvement Material"
     },
-	
-	
-	
+
+    "822": {
+        "code": "Bq1",
+        "name": "Triwulanan ke [W2-4]",
+        "desc": "Sorti ke [W2-4] dan dapatkan 2x Rank S pada Boss Node.",
+        "memo": "\u203bOperasi Serangan balik daerah Okinoshima \n\u27a3Hadiahnya 5 Development Material",
+        "tracking": [ [0,2] ]
+    },
+	"854": {
+        "code": "Bq2",
+        "name": "Triwulanan Poin Peringkat",
+        "desc": "Sorti ke [W2-4], [W6-1] dan [W6-3], dan dapatkan setidaknya Rank A pada Boss Node. lalu Sorti ke [W6-4] dan dapatkan Rank S pada Boss Node.",
+        "memo": "\u203bMisi Hasil Perang Tambahan! \"Operasi Z\", Operasi Awal\n\u27a3Hadiahnya 3 Mamiya, 4 Development Material dan 350 Poin Peringkat",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0}x rank A [W2-4]", "{0}x rank A [W6-1]", "{0}x rank A [W6-3]", "{0}x rank S [W6-4]" ]
+    },
+    "861": {
+        "code": "Bq3",
+        "name": "Triwulan ke [W1-6]",
+        "desc": "Sorti 2 BBV/AO dan secukupnya 4 kapal tambahan ke [W1-6] dan menuju node N 2x.",
+        "memo": "\u203bArmada Pengawal Bantuan, Berlayar!\n\u27a3Hadiahnya Underway Replenishment",
+        "tracking": [ [0,2] ]
+    },
+    "862": {
+        "code": "Bq4",
+        "name": "Triwulan ke [W6-3]",
+        "desc": "Sorti 1 AV, 2 CL dan secukupnya 3 kapal tambahan ke [W6-3] dan dapatkan setidaknya Rank A pada Boss Node 2x.",
+        "memo": "\u203bBawa Pengintai Udara pada Garis Depan!\n\u27a3Hadiahnya 4 Development Material",
+        "tracking": [ [0,2] ]
+    },
+    "873": {
+        "code": "Bq5",
+        "name": "Triwulan [W3]",
+        "desc": "Sorti CL dan secukupnya 5 kapal tambahan ke [W3-1], [W3-2] dan [W3-3] dan dapatkan setidaknya Rank A pada Boss Node tsb. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u203bAmankan Pertahanan pada Bagian Utara!\n\u27a3Hadiahnya Combat Ration dan ANTARA Furniture Fairy ATAU \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni ATAU Medal",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
+    },
+    "875": {
+        "code": "Bq6",
+        "name": "Triwulan [W5-4]",
+        "desc": "Sorti Naganami Kai Ni sebagai pemimpin, salah satu dari Takanami Kai, Asashimo Kai Dan/Atau Okinami Kai, dan secukupnya 4 kapal tambahan lainnya ke [W5-4] dan dapatkan Rank S pada Boss Node 2x. Overlay: F10",
+        "memo": "\u203bKapal Perusak Divisi ke-31 Elit, Menuju Iron Bottom Sound!\n\u27a3Hadiahnya:\n\u00B6Pertama: ANATAR 2 Type 13 Air Radars ATAU 2 Type 22 Surface Radars ATAU Action Report\n\u00B6Kedua: ANTARA New Model Artillery Armament Materials ATAU Present Box",
+        "tracking": [ [0,2] ]
+    },
 	
 	
     "301": {
-		"code": "C1",
+        "code": "C1",
         "name": "Latihan Pertama!",
         "desc": "Tantang Armada lain pada Mode Latihan"
     },
-	 "303": {
-		"code": "C2",
+     "303": {
+        "code": "C2",
         "name": "Latihan Harian 1",
         "desc": "Tantang 3 Armada lain pada Mode Latihan",
-		"unlock": [ 304, 302 ],
-		"tracking": [ [0,3] ]
+        "tracking": [ [0,3] ]
     },
-	"304": {
-		"code": "C3",
+    "304": {
+        "code": "C3",
         "name": "Latihan Harian 2",
         "desc": "Dapatkan 5 Kemenangan pada Mode Latihan Di Hari yang sama",
-		"tracking": [ [0,5] ]
+        "tracking": [ [0,5] ]
     },
     "302": {
-		"code": "C4",
+        "code": "C4",
         "name": "Latihan Mingguan",
         "desc": "(Mingguan) Dapatkan 20 kemenagan pada Mode Latihan",
-		"tracking": [ [0,20] ]
+        "tracking": [ [0,20] ]
     },
     "307": {
-		"code": "C5",
+        "code": "C5",
         "name": "Tingkatkan efisiensi Armada",
-        "desc": "Dapatkan 3 Kemenangan di Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 3 Kemenangan di Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,3] ]
     },
     "308": {
-		"code": "C6",
+        "code": "C6",
         "name": "Sekali lagi, Tingkatkan efisiensi Armada",
-        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,4] ]
     },
-	"309": {
-	"code": "C7",
+    "309": {
+    "code": "C7",
         "name": "Upaya Meningkatkan Level Latihan Untuk Menanggulangi Operasi 'KE'",
-        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama"
+        "desc": "Dapatkan 4 Kemenangan pada Mode Latihan pada Hari yang sama",
+        "tracking": [ [0,4] ]
     },
-	"311": {
+    "311": {
         "code": "C8",
         "name": "Latihan Armada Elit",
         "desc": "Dapatkan 7 Kemenangan pada mode latihan di hari yang sama",
-		"tracking": [ [0,7] ]
+        "tracking": [ [0,7] ]
     },
-	"312": {
+    "312": {
         "code": "C9",
         "name": "Latihan Angkatan Pendaratan",
-        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama "
+        "desc": "Dapatkan 4 Kemenagan pada mode latihan di hari yang sama",
+        "tracking": [ [0,4] ]
     },
-	
-	
+    "313": {
+        "code": "C10",
+        "name": "Latihan Musim Gugur Berskala Besar",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama",
+        "tracking": [ [0,8] ]
+    },
+    "314": {
+        "code": "C11",
+        "name": "Latihan Musim Dingin Berskala Besar",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama"
+    },
+    "315": {
+        "code": "C12",
+        "name": "Latihan Musim Semi Berskala Besar",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama",
+        "memo": "\u27a3Hadiahnya Present Box"
+    },
+    "316": {
+        "code": "C13",
+        "name": "Berjuang untuk Meningkatkan Pasukan Transport Tingkatan Latihan!",
+        "desc": "Dapatkan 8 Kemenagan pada mode latihan di hari yang sama. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya 2 Baut dan ANTARA Furniture Fairy ATAU Daihatsu Landing Craft."
+    },
+    "317": {
+        "code": "C15",
+        "name": "Projek untuk Menyiapkan Persiapan Bertempur untuk Kapal Perusak Tipe-A",
+        "desc": "Dapatkan 3x S-Ranks Pada mode latihan dengan 2+ Kagerou-class ATAU Yuugumo-class. Lalu, sorti ke [W2-2], [W2-3], [W2-4] dan [W2-5]. Setidaknya Rank A pada Boss Node.  TL: F10.",
+        "memo": "Gunakan kelas yang sama untuk pergi ke [W2] juga.\nUntuk quest ini dapat gunakan 4 kapal dan di armada 1.\n\u27a3Hadiahnya:\n\u00B6Pertama: ANTARA Action Report ATAU Furniture Fairy\n\u00B6Kedua: ANTARA 5 Ember ATAU 2 Combat Ration"
+    },
+    "318": {
+        "code": "C16",
+        "name": "Latihan Bulanan 2",
+        "desc": "Dapatkan 3 kemenangan pada mode latihan dengan 2 CL. Lalu, Beri pemimpin 2 Combat Ration. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Senjata akan Hilang. Pastikan Senjatanya tidak dikunci!\n\u203bKapal Suplai Bantuan Irako\n\u27a3Hadiahnya Irako dan ANTARA 2 Ember ATAU 2 DevMat.",
+        "tracking": [ [0,3] ]
+    },
+    "319": {
+        "code": "C17",
+        "name": "Kapal Perusak Divisi ke-21 Elit, Berlatihlah dengan Sungguh-Sungguh!",
+        "desc": "Dapatkan 4 kemenangan pada mode latihan dengan Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni dan secukupnya 3 kapal tambahan. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u27a3Hadiahnya Mamiya dan ANTARA 6 DevMat ATAU Action Report"
+    },
 	
 	
     "401": {
-		"code": "D1",
+        "code": "D1",
         "name": "Ekspedisi Pertama",
         "desc": "Lakukan sebuah Ekspedisi"
     },
     "402": {
-		"code": "D2",
+        "code": "D2",
         "name": "Ekspedisi Harian 1",
         "desc": "Lakukan 3 Ekspedisi dengan Sukses",
-		"unlock": [ 403 ],
-		"tracking": [ [0,3] ]
+        "tracking": [ [0,3] ]
     },
     "403": {
-		"code": "D3",
+        "code": "D3",
         "name": "Ekspedisi Harian 2",
         "desc": "Lakukan 10 Ekspedisi dengan Sukses",
-		"tracking": [ [0,10] ]
+        "tracking": [ [0,10] ]
     },
     "404": {
-		"code": "D4",
+        "code": "D4",
         "name": "Ekspedisi Mingguan",
-        "desc": "(Mingguan) Lakukan 30 Ekspedisi dengan Sukses",
-		"tracking": [ [0,30] ]
+        "desc": "Lakukan 30 Ekspedisi dengan Sukses",
+        "tracking": [ [0,30] ]
     },
     "405": {
-		"code": "D5",
+        "code": "D5",
         "name": "Operasi Kapal Selam Pertama kali",
         "desc": "Selesaikan Ekspedisi 30"
     },
     "406": {
-		"code": "D6",
+        "code": "D6",
         "name": "Operasi Kapal Selam kedua",
         "desc": "Selesaikan lagi Ekspedisi 30"
     },
     "408": {
-		"code": "D7",
+        "code": "D7",
         "name": "Kelanjutan dari Operasi Kapal Selam",
-        "desc": "Selesaikan Ekspedisi 30 dua kali lagi"
+        "desc": "Selesaikan Ekspedisi 30 dua kali lagi",
+        "tracking": [ [0,2] ]
     },
     "409": {
-		"code": "D8",
+        "code": "D8",
         "name": "Pertemuan Strategi dengan Menggunakan Kapal Selam di Seberang Lautan!",
         "desc": "Selesaikan Ekspedisi 31"
     },
     "410": {
-		"code": "D9",
+        "code": "D9",
         "name": "Ekspedisi Mingguan 2",
-        "desc": "(Mingguan) Selesaikan Ekspedisi 37 atau 38",
-		"unlock": [ 411 ],
-		"tracking": [ [0,1] ]
+        "desc": "Selesaikan Ekspedisi 37 atau 38",
+        "tracking": [ [0,1] ]
     },
-	"412": {
-		"code": "D10",
+    "412": {
+        "code": "D10",
         "name": "Operasi Memperkuat BBV",
         "desc": "Selesaikan Ekspedisi 23"
     },
     "411": {
-		"code": "D11",
+        "code": "D11",
         "name": "Ekspedisi Mingguan 3",
-        "desc": "(Mingguan) Selesaikan Ekspedisi 37 atau 38 sebanyak 7 kali",
-		"tracking": [ [0,6] ]
+        "desc": "Selesaikan Ekspedisi 37 atau 38 6x",
+        "tracking": [ [0,6] ]
     },
     "413": {
-		"code": "D12",
+        "code": "D12",
         "name": "Operasi Memperkuat BBV (Lanjutan.)",
-        "desc": "Selesaikan Ekspedisi 23 Empat kali lagi"
+        "desc": "Selesaikan Ekspedisi 23 Tiga kali lagi",
+        "tracking": [ [0,3] ]
     },
     "414": {
-		"code": "D13",
+        "code": "D13",
         "name": "Operasi Kapal Selam Lautan Biru",
         "desc": "Selesaikan Ekspedisi 39"
     },
     "415": {
-		"code": "D14",
+        "code": "D14",
         "name": "Operasi Kapal Selam Lautan Biru Diperpanjang",
-        "desc": "Selesaikan Ekspedisi 39 Dua kali lagi"
+        "desc": "Selesaikan Ekspedisi 39 Dua kali lagi",
+	"memo": "\u27a3Hadiahnya 53cm Submarine Bow Torpedo Mount (8 tubes)"
     },
     "416": {
-		"code": "D15",
-        "name": "Latihan pertahanan udara",
-        "desc": "Selesaikan Ekspedisi 6 Tiga kali"
+        "code": "D15",
+        "name": "Latihan pertahanan udara!",
+        "desc": "Selesaikan Ekspedisi 6 Tiga kali",
+	"memo": "\u27a3Hadiahnya 25mm Triple Autocannon Mount"
     },
     "417": {
-		"code": "D16",
+        "code": "D16",
         "name": "Sorti Kapal Induk Pengumpan",
-        "desc": "Selesaikan Ekspedisi 15"
+        "desc": "Selesaikan Ekspedisi 15",
+	"memo": "\u27a3Hadiahnya Type 91 Anti-Aircraft Fire Director"
     },
     "418": {
-		"code": "D17",
+        "code": "D17",
         "name": "Persiapan Upacara Angkatan Laut",
-        "desc": "Selesaikan Ekspedisi 7 dua kali"
+        "desc": "Selesaikan Ekspedisi 7 dua kali",
+        "tracking": [ [0,7] ]
     },
     "419": {
-		"code": "D18",
+        "code": "D18",
         "name": "Upacara Angkatan laut",
         "desc": "Selesaikan Ekspedisi 8"
     },
-     "420": {
+    "420": {
         "code": "D19",
         "name": "Tingkatkan Penggunaan Gugus Tugas(Task Force)",
         "desc": "Selesaikan Expedisi 35 dan 26"
     },
-	
-	
-	
+    "422": {
+        "code": "D20",
+        "name": "Operasi Pengiriman Kapal Selam untuk Mendapatkan Teknologi Kapal Terbang.",
+        "desc": "Selesaikan Expedisi 30 dan 31.",
+        "memo": "\u27a3Hadiahnya New Model Aircraft Blueprint"
+    },
+    "423": {
+        "code": "D21",
+        "name": "Operasi Pengiriman Kapal Selam untuk Mendapatkan Teknologi Mesin Jet.",
+        "desc": "Miliki 5000 besi dan 1500 bauxit lalu selesaikan Expedisi 30 dan 31.",
+        "memo": "\u2718Bahan sumber daya akan diambil.\n\u27a3Hadiahnya Ne-Type Engine"
+    },    
+    "424": {
+        "code": "D22",
+        "name": "Expedisi 5 Bulanan",
+        "desc": "Expedisi 5 4x.",
+        "memo": "\u203bPerkuat Pengawal Armada Transport!",
+        "tracking": [ [0,4] ]
+    },
+    "425": {
+        "code": "D23",
+        "name": "Armada Pengawal Laut, Mulai Expedisi!",
+        "desc": "Selesaikan Expedisi 4, 5 dan 9.",
+        "tracking": [ [0,3] ]
+    },
+    "426": {
+        "code": "D24",
+        "name": "Expedisi Triwulan",
+        "desc": "Selesaikan Expedisi 3, 4, 5 dan 10.",
+        "memo": "\u203bLakukan penjagaan ketat terhadap jalur dagang laut!\n\u27a3Hadiahnya 2 Combat Rations",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} Ekspedisi 3", "{0} Ekspedisi 4", "{0} Ekspedisi 5", "{0} Ekspedisi 10" ]
+    },
+    "427": {
+        "code": "D25",
+        "name": "Optimalkan Logistik Suplai untuk Ekspedisi!",
+        "desc": "Miliki 800 Besi. Selesaikan Ekspedisi A1.",
+        "memo": "\u27a3Membuka Provisional Resupply. Barang ini akan mengaktifkan fitur pengisian suplai di halaman ekspedisi.\n\u27a3Hadiahnya 2 Combat Ration"
+    },
+    "428": {
+        "code": "D26",
+        "name": "Desak Pasukan Serbu Kapal Selam Musuh Kembali ke Perairan Dalam!",
+        "desc": "Selesaikan Ekspedisi 4, A2 dan A3. (Masing-masing dua kali)",
+        "memo": "\u27a3Hadiahnya 3 Improvement Material dan Type 95 Depth Charge",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} Ekspedisi 4", "{0} Ekspedisi A2", "{0} Ekspedisi A3" ]
+    },
+    "429": {
+        "code": "D27",
+        "name": "Operation Sho-Go: Memulai Persiapan!",
+        "desc": "Selesaikan Ekspedisi 3, A1 and B1.",
+        "memo": "\u27a3Hadiahnya 2 Underway Replenishment"
+    },
 	
 	
     "501": {
-		"code": "E1",
+        "code": "E1",
         "name": "Isi Ulang Pertama",
         "desc": "Isi Ulang Kapal"
     },
     "502": {
-		"code": "E2",
+        "code": "E2",
         "name": "Docking Pertama",
         "desc": "Perbaiki Kapal"
     },
     "503": {
-		"code": "E3",
+        "code": "E3",
         "name": "Perbaikan Harian",
         "desc": "Perbaiki 5 Kapal",
-		"unlock": [ 504 ],
-		"tracking": [ [0,5] ]
+        "tracking": [ [0,5] ]
     },
     "504": {
-		"code": "E4",
+        "code": "E4",
         "name": "Isi Ulang Harian",
         "desc": "Isi Ulang Kapal 15 kali",
-		"tracking": [ [0,15] ]
+        "tracking": [ [0,15] ]
     },
 	
 	
 	
 	
 	
-	"605": {
-		"code": "F1",
+    "605": {
+        "code": "F1",
         "name": "Perkembangan Harian 1",
         "desc": "Buat 1 Persenjataan (Gagal tak masalah)",
-		"unlock": [ 606 ],
-		"tracking": [ [0,1] ]
+        "tracking": [ [0,1] ]
     },
-	"606": {
-		"code": "F2",
+    "606": {
+        "code": "F2",
         "name": "Konstruksi Harian 1",
         "desc": "Buat sebuah Kapal",
-		"unlock": [ 607 ],
-		"tracking": [ [0,1] ]
+        "tracking": [ [0,1] ]
     },
-	"607": {
-		"code": "F3",
+    "607": {
+        "code": "F3",
         "name": "Pengembangan Harian 2",
         "desc": "Buat 3 Persenjataan (Gagal tak masalah)",
-		"unlock": [ 608 ],
-		"tracking": [ [0,3] ]
+        "tracking": [ [0,3] ]
     },
-	 "608": {
-		"code": "F4",
+     "608": {
+        "code": "F4",
         "name": "Konstruksi Harian 2",
         "desc": "Buat 3 Kapal",
-		"unlock": [ 609, 619 ],
-		"tracking": [ [0,3] ]
+        "tracking": [ [0,3] ]
     },
-	 "609": {
-		"code": "F5",
+     "609": {
+        "code": "F5",
         "name": "Pembongkaran Harian",
         "desc": "Hancurkan 2 Kapal",
-		"tracking": [ [0,2] ]
+        "tracking": [ [0,2] ]
     },
+	
+	
+	
     "601": {
-		"code": "F6",
+        "code": "F6",
         "name": "Konstruksi Pertama",
         "desc": "Buat sebuah Kapal"
     },
     "602": {
-		"code": "F7",
+        "code": "F7",
         "name": "Pengembangan Pertama",
         "desc": "Buat sekeping Persenjataan"
     },
     "603": {
-		"code": "F8",
+        "code": "F8",
         "name": "Pembongkaran Pertama",
         "desc": "Bongkar sebuah Kapal"
     },
     "604": {
-		"code": "F9",
+        "code": "F9",
         "name": "Pembuangan Pertama",
         "desc": "Hancurkan sekeping Persenjataan"
     },
     "610": {
-		"code": "F10",
+        "code": "F10",
         "name": "Persiapan untuk LSC (Bagian 2)",
-        "desc": "Hancurkan Persenjataan 4 kali"
+        "desc": "Hancurkan Persenjataan 4 kali",
+        "tracking": [ [0,4] ]
     },
-	"612": {
-		"code": "F11",
+    "612": {
+        "code": "F11",
         "name": "Siapkan Drum Canisters",
-        "desc": "Hancurkan Persenjataan 3 kali"
+        "desc": "Hancurkan Persenjataan 3 kali",
+        "tracking": [ [0,3] ]
     },
-	 "613": {
-		"code": "F12",
+     "613": {
+        "code": "F12",
         "name": "Pembongkaran Mingguan",
         "desc": "Hancurkan Persenjataan 24 kali",
-		"tracking": [ [0,24] ]
+        "tracking": [ [0,24] ]
     },
-	 "614": {
-		"code": "F13",
+     "614": {
+        "code": "F13",
         "name": "Konversi model (Tomonaga Squadron ke Tenzan)",
-        "desc": "Miliki Kapal Pemimpin yang dilengkapi dengan Pesawat Type 97 Torpedo Bomber (Skuadron Tomonaga), Kemudian Hancurkan 2 Tenzan"
+        "desc": "Miliki kapal pemimpin yang dilengkapi dengan pesawat \"Type 97 Torpedo Bomber (Tomonaga Squadron)\", kemudian hancurkan 2 Tenzan",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Tenzan Model 12 (Tomonaga Squadron)\""
     },
-	"615": {
-		"code": "F14",
+    "615": {
+        "code": "F14",
         "name": "Konversi model (Egusa Squadron ke Suisei)",
-        "desc": "Miliki Kapal pemimpim yang dilengkapi dengan Pesawat Type 99 Dive Bomber (Skuadron Egusa), Kemudian Hancurkan 2 Suisei"
+        "desc": "Miliki kapal pemimpim yang dilengkapi dengan pesawat \"Type 99 Dive Bomber (Egusa Squadron)\", kemudian hancurkan 2 Suisei",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Suisei (Egusa Squadron)\""
     },
     "616": {
-		"code": "F15",
+        "code": "F15",
         "name": "Konversi model (601 Air Group ke Reppuu)",
-        "desc": "Miliki Kapal Pemimpin yang dilengkapi dengan Pesawat Zero Fighter Type 52 Type C (601 Air Group), Kemudian Hancurkan 2 Reppuu"
+        "desc": "Miliki kapal pemimpin yang dilengkapi dengan pesawat \"Zero Fighter Type 52 Type C (601 Air Group)\", kemudian hancurkan 2 Reppuu",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Reppuu (601 Air Group)\""
     },
-	"617": {
-		"code": "F16",
+    "617": {
+        "code": "F16",
         "name": "Persiapan untuk Irako",
         "desc": "Hancurkan Persenjataan 10 kali"
     },
-	"618": {
-		"code": "F17",
+    "618": {
+        "code": "F17",
         "name": "Modernisasi Perlangkapan Pertama",
         "desc": "Lakukan Modernisasi Persenjataan sekali"
     },
+	
+	
+	
     "619": {
-		"code": "F18",
+        "code": "F18",
         "name": "Modernisasi Persenjataan Harian",
-        "desc": "Lakukan Modernisasi Persenjataan sekali",
-		"tracking": [ [0,1] ]
+        "desc": "Lakukan Modernisasi Persenjataan sekali"
     },
+    "673": {
+        "code": "F65",
+        "name": "Penghancuran Senjata Harian",
+        "desc": "Hancurkan 4 small caliber main gun.",
+        "memo": "\u203bPenggabungan Kemampuan Pengingkatan Senjata",
+        "tracking": [ [0,4] ]
+    },
+    "674": {
+        "code": "F66",
+        "name": "Penghancuran Senjata Anti Udara",
+        "desc": "Miliki 300 Besi. Hancurkan 3 anti-air machine gun.",
+        "memo": "\u203bPenggabungan Lingkungan Gudang senjata",
+        "tracking": [ [0,3] ]
+    },
+	
+	
+	
     "622": {
-   		"code": "F19",
-        "name": "Konversi model: Type 97 Torpedo Bomber (Murata Squadron ke Tenzan)",
-        "desc": "Jadikan Shoukaku yg dilengkapi dengan Type 97 Torpedo Bomber (Murata Squadron) sebagai kapal pemimpin kemudian hancurkan 2 Tenzan (Heavenly Mountain)"
+        "code": "F19",
+        "name": "Konversi model: \"Type 97 Torpedo Bomber (Murata Squadron ke Tenzan)\"",
+        "desc": "Jadikan Shoukaku yg dilengkapi dengan Type 97 Torpedo Bomber (Murata Squadron) sebagai sekertaris kemudian hancurkan dua \"Tenzan (Heavenly Mountain)\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Tenzan Model 12 (Murata Squadron)\""
     },
     "623": {
         "code": "F20",
-        "name": "Kelola Type 97 Torpedo Bomber Force elit",
-        "desc": "Jadikan Shoukaku atau Akagi sebagai kapal pemimpin kemudian hancurkan 3 Type 97 Torpedo Bomber"
+        "name": "Kelola pasukan \"Type 97 Torpedo Bomber (Murata)\" elit",
+        "desc": "Jadikan Shoukaku atau Akagi sebagai sekertaris kemudian hancurkan tiga \"Type 97 Torpedo Bomber\""
     },
     "624": {
         "code": "F21",
         "name": "Persiapan Persenjataan Prototipe",
         "desc": "Hancurkan Persenjataan 7 Kali"
     },
-	"625": {
+    "625": {
         "code": "F22",
         "name": "Penambahan prototipe persenjataan aviasi",
         "desc": "Hancurkan persenjataan 9 kali"
     },
     "626": {
         "code": "F23",
-        "name": "Kelola kembali skuad elit fighter",
-        "desc": "Jadikan Emak Houshou kapal sekretaris dan miliki Skilled Crew Member ,pasang Zero 21 Fighter rank(bintang) 7 ke Emak Houshou, lalu hancurkan 2 Zero 21 Fighter dan Type 96 Fighter"
+        "name": "Kelola \"Type 0 Fighter Model 21 (Skilled)\"",
+        "desc": "Jadikan Emak Houshou menjadi sekertaris dan miliki \"Skilled Crew Member\", pasanglah \"Type 0 Fighter Model 21\" double chevron (>>) ke Emak Houshou, lalu hancurkan masing-masing dua \"Type 0 Fighter Model 21\" dan \"Type 96 Fighter\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 21 (Skilled)\""
     },
     "627": {
-		"code": "F24",
-		"name": "Koneversi Model : Type 0 Fighter Model 21 (Skilled)",
-		"desc": "Gunakan Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
-	},
+        "code": "F24",
+        "name": "Kelola \"Type 0 Fighter Model 52 (Skilled)\"",
+        "desc": "Jadikan CV sebagai sekertaris dan dilengkapi dengan \"Type 0 Fighter Model 21 (Skilled)\" kemudian hancurkan dua \"Type 0 Fighter Model 52\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 52 (Skilled)\""
+    },
     "628": {
-		"code": "F25",
-		"name": "Konversi Model: Type 0 Fighter Model 21 (Skilled)",
-		"desc": "Gunakan Rank 7 Type 0 Fighter Model 21 (Skilled) pada Kapal Induk sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
-	},
+        "code": "F25",
+        "name": "Kelola \"Type 0 Fighter Model 52 (Skilled)\" perbulan",
+        "desc": "Jadikan CV sebagai sekertaris dan dilengkapi dengan >> \"Type 0 Fighter Model 21 (Skilled)\" kemudian hancurkan dua \"Type 0 Fighter Model 52\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 52 (Skilled)\""
+    },
     "629": {
-		"code": "F26",
-		"name": "Kelola kembali Fighter Force: Type 0 Fighter Model 52 (Skilled)",
-		"desc": "Gunakan Rank 7 Type 0 Fighter Model 52 (Skilled) Pada Zuikaku sebagai sekretaris, kemudian hancurkan Zero Fighter Model 52C (601 Air Group)"
-	},
+        "code": "F26",
+        "name": "Kelola Pasukan Fighter: Iwai",
+        "desc": "Gunakan >> \"Type 0 Fighter Model 52 (Skilled)\" pada Zuikaku sebagai sekretaris, kemudian hancurkan \"Zero Fighter Model 52C (601 Air Group)\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Zero Fighter Model 52C (w/ Iwai Flight)\""
+    },
     "630": {
-		"code": "F28",
-		"name": "Konversi Model & Kelola kembali: Type 0 Fighter Model 21 (Skilled)",
-		"desc": "Gunakan rank 7 Type 0 Fighter Model 21 (Skilled) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 21"
-	},
+        "code": "F28",
+        "name": "Kelola Pasukan Fighter: Iwamoto",
+        "desc": "Gunakan >> \"Type 0 Fighter Model 21 (Skilled)\" pada Zuikaku sebagai sekretaris, kemudian hancurkan dua \"Type 0 Fighter Model 21\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 21 (w/ Iwamoto Flight)\""
+    },
     "631": {
-		"code": "F27",
-		"name": "Konversi Model & Kelola kembali: Zero Fighter Model 52C (w/ Iwai Flight)",
-		"desc": "Gunakan rank 7 Zero Fighter Model 52C (w/ Iwai Flight) pada Zuikaku sebagi sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 62 (Fighter-bomber)"
-	},
+        "code": "F27",
+        "name": "\u26A0PERINGATAN\u26A0 Konversi Model & Kelola Kembali: Iwai",
+        "desc": "Gunakan >> \"Zero Fighter Model 52C (w/ Iwai Flight)\" pada Zuikaku sebagi sekretaris, kemudian hancurkan dua \"Type 0 Fighter Model 62 (Fighter-bomber)\"",
+        "memo": "\u26A0PERINGATAN\u26A0 Cek di wikia sekali lagi jika memang ingin menyelesaikan quest ini. \"F27\" \n\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci! \u27a3Hadiahnya \"Type 0 Fighter Model 62 (Fighter-bomber / Iwai Squadron)\""
+    },
     "632": {
-		"code": "F29",
-		"name": "Konversi Model : Zero Fighter Model 21 (w/ Iwamoto Flight)",
-		"desc": "Gunakan rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Type 0 Fighter Model 52"
-	},
+        "code": "F29",
+        "name": "Konversi Model : Iwamoto",
+        "desc": "Gunakan >> \"Zero Fighter Model 21 (w/ Iwamoto Flight)\" pada Zuikaku sebagai sekretaris, kemudian hancurkan dua \"Type 0 Fighter Model 52\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 52A (w/ Iwamoto Flight)\""
+    },
     "633": {
-		"code": "F30",
-		"name": "Konversi Model & Keloa kembali: Zero Fighter Model 52A (w/ Iwamoto Flight)",
-		"desc": "Gunakan rank 7 Zero Fighter Model 52A (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan 2 Saiun"
-	},
+        "code": "F30",
+        "name": "Konversi Model & Keloa kembali: Iwamoto",
+        "desc": "Gunakan >> Zero Fighter Model 52A (w/ Iwamoto Flight) pada Zuikaku sebagai sekretaris, kemudian hancurkan dua \"Saiun\"",
+        "memo": "\u2718Pesawat akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya \"Type 0 Fighter Model 53 (Iwamoto Squadron)\""
+    },
     "634": {
         "code": "F31",
-        "name": "Persiapan untuk furnitur baru",
+        "name": "Persiapan untuk Furnitur Baru",
         "desc": "Hancurkan 9 equipment"
     },
-       "635": {
+    "635": {
         "code": "F32",
-        "name": "Persiapan untuk senjata baru",
+        "name": "Persiapan untuk Senjata Baru",
         "desc": "Hancurkan 5 equipment"
        },
- 	"636": {
+    "636": {
         "code": "F33",
-        "name": "Pasokan dari senjata angkatan pendaratan yang baru",
-        "desc": "Hancurkan 2 7.7mm Machine Guns dan 2 12.7mm Machine Guns"
-    },	
-     	"638": {
-        "code": "F34",
-        "name": "Produksi Masal Senjata Anti Udara",
-        "desc": "(Perminggu) Hancurkan senjata AA 6 kali"
+        "name": "Pasokan dari Senjata Angkatan Pendaratan yang Baru",
+        "desc": "Hancurkan dua 7.7mm Machine Gun dan dua 12.7mm Machine Gun"
     },
-    	"637": {
+    "638": {
+        "code": "F34",
+        "name": "Penghancuran Mingguan Masal Senjata Anti Udara",
+        "desc": "Hancurkan senjata AA 6 kali"
+    },
+    "637": {
         "code": "F35",
         "name": "Pelatihan Anggota Kru Ahli",
-        "desc": "Jadikan Houshou sebagai pemimpin dan beri Type 96 Fighter 2 buah dengan rank 7 dan \u2605MAX. Memakan 2 medal dan fighternya."
-	},
-	"639": {
+        "desc": "Jadikan Houshou sebagai pemimpin lalu beri dua >> \"Type 96 Fighter\" \u2605MAX.",
+        "memo": "\u2718Semua pesawat dan dua Medal akan hilang. Pastikan Pesawatnya tidak dikunci!\n\u27a3Hadiahnya 4 Development Material dan \"Skilled Crew Member\""
+    },
+    "639": {
         "code": "F36",
         "name": "Pengembangan Senjata dari Torpedo Baru",
-        "desc": "Jadikan Shimakaze sebagai pemimpin dan beri 61cm Quintuple Oxygen Torpedo \u2605MAX dan 61cm Triple Oxygen Torpedo \u2605MAX. Memakan 2 medal dan torpedonya."
+        "desc": "Jadikan Shimakaze sebagai pemimpin lalu beri \"61cm Quintuple Oxygen Torpedo\" \u2605MAX dan \"61cm Triple Oxygen Torpedo\" \u2605MAX.",
+        "memo": "\u2718Senjata dan dua Medal akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya 6 Development Material dan \"Prototype 61cm Sextuple (Oxygen) Torpedo Mount\""
     },
-     	"640": {
+    "640": {
         "code": "SF",
-        "name": "(Limited) Bersih-Bersih Awal Musim Panas",
+        "name": "Bersih-Bersih Awal Musim Panas",
         "desc": "Hancurkan 5 buah senjata."
     },
-
-    
-	
+    "641": {
+        "code": "F37",
+        "name": "Persiapan kedepan untuk konstruksi Pangkalan Udara",
+        "desc": "Memiliki dua \"Type 96 Fighter\" dan dua \"7.7mm Machine Gun\" di penyimpanan lalu hancurkan dua Drum Canister.",
+        "memo": "\u2718Semua pesawat dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Type 96 Land-based Attack Aircraft\""
+    },
+    "642": {
+        "code": "F38",
+        "name": "Memperkuat Land Bomber",
+        "desc": "Memiliki dua \"Type 99 Dive Bomber\" dan dua \"7.7mm Machine Gun\" di penyimpanan.",
+        "memo": "\u2718Semua pesawat dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Type 96 Land-based Attack Aircraft\""
+    },
+    "643": {
+        "code": "F39",
+        "name": "Penggandaan Land bomber Andalan tiap 3 bulan",
+        "desc": "Memiliki satu \"Type 96 Land-based Attack Aircraft\" dan dua \"Type 97 Torpedo Bomber\" di penyimpanan, lalu hancurkan dua \"Type 21 Zero Fighter\".",
+        "memo": "\u2718Semua pesawat akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Type 1 Land-based Attack Aircraft\""
+    },
+    "644": {
+        "code": "F40",
+        "name": "Penggandaan dari Model Land Bomber yang telah ditingkatkan",
+        "desc": "Memiliki satu \"Type 1 Land-based Attack Aircraft\" dan dua Tenzan di penyimpanan",
+        "memo": "\u2718Semua pesawat akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Type 1 Land-based Attack Aircraft Model 22A\""
+    },
+    "645": {
+        "code": "F41",
+        "name": "Penggandaan Bahan per Bulan untuk Pengisian di Jalan",
+        "desc": "Memiliki 750 bensin, 750 peluru, 2 Drum Canister dan 1 Type 91 AP Shell di penyimpanan, lalu hancurkan satu \"Type 3 Shell\".",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Underway Replenishment\""
+    },
+    "646": {
+        "code": "F42",
+        "name": "Penggandaan Furnitur Buatan Sendiri",
+        "desc": "Memiliki 5000 Koin Furnitur, dua \"25mm Twin AC Mount\" dan dua \"25mm Triple AC Mount\" di penyimpanan, lalu hancurkan satu \"25mm Single AC Mount\".",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Furniture Fairy"
+    },
+    "647": {
+        "code": "F43",
+        "name": "Sebarkan Pasukan Militer Udara ke Lautan Tengah!",
+        "desc": "Memiliki 1200 bensin, 3000 bauksit, dan satu \"Construction Battalion\" di penyimpanan, lalu hancurkan dua Drum Canister.",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya memungkinkan menggunakan Pangkalan Udara di [W6]"
+    },
+    "648": {
+        "code": "F44",
+        "name": "Pembelian untuk Perabotan Buatan Sendiri",
+        "desc": "Miliki 5000 Coin Furniture, dua \"14cm Single Gun Mount\" dan dua \"15.2cm Single Gun Mount\" di penyimpanan, lalu hancurkan dua \"12.7cm Twin High-Angle Gun Mount\".",
+        "memo": "\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Furniture Fairy"
+    },
+    "649": {
+        "code": "F45",
+        "name": "Pengembangan dari Pesawat Pengintai Blok Sentral",
+        "desc": "Miliki satu \"Type 1 land-based Attack aircraft\" dan dua Saiun, lalu hancurkan dua \"Type 0 Reconnaissance Seaplane\".",
+        "memo": "\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya \"Prototype Keiun (Carrier-based Reconnaissance Model)\""
+    },
+    "650": {
+        "code": "F46",
+        "name": "Pengembangan dari Jet Fighter-Bomber",
+        "desc": "Miliki dua \"New Model Aircraft Blueprints\" dan satu \"Ne-Type Engine\", lalu hancurkan tiga Shinden Kai Ni.",
+        "memo": "\u2718Senjata dan Item akan hilang.\n\u27a3Hadiahnya Kikka Kai"
+    },
+    "651": {
+        "code": "F47",
+        "name": "Tingkatkan Produksi Ne-Type Engine",
+        "desc": "Miliki 8000 besi, dua Ryuusei dan dua Reppu. Hancurkan tiga Type 0 Fighter Model 52.",
+        "memo": "\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Ne-Type Engine"
+    },
+    "652": {
+        "code": "F48",
+        "name": "Pembelian untuk Furnitur Buatan Sendiri",
+        "desc": "Miliki 5000 Koin Furnitur, dua \"7.7mm Machine Gun\" dan dua \"Type 96 Fighter\" di penyimpanan, lalu hancurkan dua \"12.7cm Twin Gun Mount\".",
+        "memo": "\u2718Senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Furniture Fairy"
+    },
+    "653": {
+        "code": "",
+        "name": "Sorti Spesial Setsubun: Persiapan untuk Setsubun!",
+        "desc": "Miliki 5000 Koin Furnitur, dua \"12cm Single Gun Mounts\" dan dua \"Type 0 Reconnaissance Seaplanes\" di penyimpanan, lalu hancurkan dua \"20.3cm Twin Gun Mounts\".",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya Furniture Fairy"
+    },
+    "654": {
+        "code": "OH2",
+        "name": "Pembelian dan Penghancuran Saiun untuk Transport",
+        "desc": "Miliki 10 Bahan Pengembang (DevMat) dan satu \"Type 97 Torpedo Bomber\". Hancurkan satu \"Type 0 Reconnaissance Seaplane\". \u2623!!HATI-HATI SAAT MENGGANTI TINGKAT KESULITAN!!\u2623",
+        "memo": "\u2623Mengganti tingkat kesulitan saat quest ini selesai akan menyebabkan \"Saiun (Disassembled for Transport)\" MENGHILANG!!!\n\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3 Hadiahnya \"Saiun (Disassembled for Transport)\"."
+    },
+    "655": {
+        "code": "OH1",
+        "name": "Penghancuran Saiun untuk Transport",
+        "desc": "Miliki 20 Bahan Pengembang (DevMat) dan satu Saiun. Hancurkan satu \"Type 0 Reconnaissance Seaplane\". \u2623!!HATI-HATI SAAT MENGGANTI TINGKAT KESULITAN!!\u2623",
+        "memo": "\u2623Mengganti tingkat kesulitan saat quest ini selesai akan menyebabkan \"Saiun (Disassembled for Transport)\" MENGHILANG!!!\n\u2718Senjata dan Bahan akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3 Hadiahnya \"Saiun (Disassembled for Transport)\"."
+    },
+    "656": {
+        "code": "F49",
+        "name": "Bentuk Kembali \"Seiran 631 Air Group!\"",
+        "desc": "Miliki I-401 ATAU I-13 ATAU I-14 sebagai pemimpin dan dipersenjatai dengan \"Prototype Seiran\" di slot pertama dan \"Zuiun (631 Air Group)\" di slot kedua.",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Seiran (631 Air Group)\""
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Misi persiapan Musim Semi: Persiapan untuk Hina Matsuri (Hari Boneka/Perempuan)~!",
+        "desc": "Miliki 5000 Koin Furnitur, 2 \"Type 99 Dive Bombers\" dan 2 \"61cm Triple Torpedo Mounts\" di penyimpanan, lalu hancurkan 2 \"14cm Single Gun Mount\".",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya 1 Furniture Fairy dan 1 Hishimochi"
+    },
+    "658": {
+        "code": "F50",
+        "name": "Perkuat Persenjataan Kapal Selam",
+        "desc": "Miliki 120 Bahan Pengembang (DevMat), 3 \"61cm Quad (Oxygen) Torpedo Mount\" dan 3 \"Type 93 SONAR\" di penyimpanan, lalu hancurkan 4 \"61cm Triple Torpedo Mounts\".",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Late Model Bow Torpedo Mount (6 Tubes)\""
+    },
+    "659": {
+        "code": "F51",
+        "name": "Bentuk Ulang Grup Pesawat Amphibi Elit Baru",
+        "desc": "Miliki \"Skilled Crew Member\" di penyimpana, lalu jadikan siapapun yang dapat mengunakan 2 \"Type 2 Seaplane Fighter Kai\"\u26057 dan \u2605MAX menjadi pemimpin, lalu hancurkan 2 \"Type 0 Fighter Model 21\" dan 2 Zuiun.",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Type 2 Seaplane Fighter Kai (Skilled)\""
+    },
+    "660": {
+        "code": "F52",
+        "name": "Perbanyak Grup Pesawat Amphibi Elit Baru",
+        "desc": "Miliki \"Skilled Crew Member\" di penyimpana, lalu jadikan siapapun yang dapat mengunakan 2 \"Type 2 Seaplane Fighter Kai\"\u26057 dan \u2605MAX menjadi pemimpin, lalu hancurkan 2 \"Type 0 Fighter Model 21\" dan 2 Zuiun.",
+		"memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatanya tidak dikunci!\n\u27a3Hadiahnya \"Type 2 Seaplane Fighter Kai (Skilled)\""
+    },
+    "661": {
+        "code": "F53",
+        "name": "Mulai Produksi Militer dari Persenjataan Altileri Model Baru!",
+        "desc": "Miliki 6000 besi. Hancurkan 10 Secondary Gun.",
+        "memo": "\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya a New Model Artillery Armament Materials."
+    },
+    "662": {
+        "code": "F54",
+        "name": "Studi Perkembangan dari Model Laberang Baru.",
+        "desc": "Miliki 12000 Besi. Hancurkan 10 Medium Caliber Main Gun.",
+        "memo": "\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "663": {
+        "code": "F55",
+        "name": "Medal atau Bahan per Triwulan",
+        "desc": "Miliki 18000 Besi. Hancurkan 10 Large Caliber Main Gun.",
+        "memo": "\u203bStudi Perkembangan dari Model Laberang Baru\n\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "664": {
+        "code": "F56",
+        "name": "Pemanfaatan Teknologi Radar untuk Deteksi Api",
+        "desc": "Miliki 8000 Besi dan Peluru. Hancurkan 10 Radar.",
+        "memo": "\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya Medal ATAU New Model Artillery Armament Materials."
+    },
+    "665": {
+        "code": "F57",
+        "name": "Bergabung dengan Industri Konsumen",
+        "desc": "Miliki 12000 Bensin. Hancurkan 16 Small Caliber Main Gun.",
+        "memo": "\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya Furniture Fairy dan ANTARA Medal ATAU New Model Artillery Armament Materials."
+    },
+    "666": {
+        "code": "F58",
+        "name": "Bentuk Pasukan Elit Zuiun!",
+        "desc": "Miliki Skilled Crew Member, 2 Type 99 Dive Bomber dan 2 Zuiun. Jadikan Hyuuga Kai sebagai sekretaris lalu beri \u2605max Zuiun (634 Air Group) di slot ke-4 -nya. Hancurkan 2 Drum Canister.",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Zuiun (634 Air Group / Skilled)"
+    },
+    "667": {
+        "code": "F59",
+        "name": "Lanjutkan Bergabung dengan Industri Konsumen",
+        "desc": "Miliki 15000 besi. Hancurkan 10 anti-air gun. High-angle gun tidak dihitung.",
+        "memo": "\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya 2 Combat Ration dan ANTARA Furniture Fairy ATAU Medal"
+    },
+    "668": {
+        "code": "F60",
+        "name": "Percobaan Jenis Combat Ration Baru",
+        "desc": "Miliki 2 Combat Ration, 800 Bensin dan 150 Bauksit.",
+        "memo": "\u2718Bahan sumber daya dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Combat Ration (Special Onigiri)"
+    },
+    "669": {
+        "code": "F61",
+        "name": "Pengembangan Kelas Pesawat Tempur Malam Hari Berbasis Kapal Induk",
+        "desc": "Karena panjang, lihat Memo.",
+        "memo": "Miliki New Model Aviation Armament Materials, 6 Development Material, 5000 Bauksit dan 30 Development Material.\nJadikan CV sebagai kapal sekretaris dan kasih dia sebuah F6F-3 \u2605max >> di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radar.\n\u2718Semua sumber daya dan senjata akan hilang. Pastikan senjatannya tidak dikunci!\n\u27a3Hadiahnya F6F-3N"
+    },
+    "670": {
+        "code": "F63",
+        "name": "Lakukan Penguatan Kelas Pesawat Tempur Malam Hari Berbasis Kapal Induk",
+        "desc": "Karena Panjang, lihat Memo.",
+        "memo": "Miliki New Model Aviation Armament Materials, 8 Baut, 6000 Bauxit dan 40 DevMat.\nJadikan CV sebagai sekretaris lalu beri >> \u2605max F6F-5 di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radars.\n\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya F6F-5N."
+    },
+    "671": {
+        "code": "F62",
+        "name": "Pengembangan Kelas Pesawat Tempur Malam Hari Berbasis Kapal Induk",
+        "desc": "Karena Panjang, lihat Memo.",
+        "memo": "Miliki New Model Aviation Armament Materials, Skilled Crew Member, 10 Baut, 5000 Peluru, 8000 Bauxit dan 40 DevMat.\nJadikan CV sebagai sekretaris dan beri dia TBF di slot pertamanya.\nHancurkan dua Type 13 Air Radar dan dua Type 22 Surface Radar.\n\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya TBM-3D."
+    },
+    "672": {
+        "code": "F64",
+        "name": "Pembentukan Fasilitas Perintah Armada untuk Pasukan Penyerang",
+        "desc": "Miliki 10 DevMat, 2000 Besi dan 2 Action Report. Beri sekretaris Fleet Command Facility di slot pertamanya. Hancurkan 3 Radar.",
+        "memo": "\u2718Bahan sumber daya, item, dan senjata akan hilang. Pastikan Senjatannya tidak dikunci!\n\u27a3Hadiahnya Striking Force Fleet Command Facility"
+    },
+    "675": {
+        "code": "F67",
+        "name": "Pencegahan Triwulan",
+        "desc": "Miliki 800 Bauxit. Hancurkan 6 pesawat fighter dan 4 senjata AA. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u203bPenggabungan Gabungan Operasional Senjata\n\u27a3Hadiahnya ANTARA Type 1 Fighter Hayabusa Model II ATAU Shiden Model 11 ATAU 4 Baut"
+    },
+    "676": {
+        "code": "F68",
+        "name": "Penghancuran Senjata Mingguan",
+        "desc": "Miliki 2400 Besi. hancurkan 3 Medium Cal. Main Gun, 3 Secondary Gun dan Drum Canister.",
+        "memo": "\u203bKemampuan Penggabungan Gabungan Operasional Senjata\n\u2718Bahan sumber daya akan hilang.",
+        "tracking": [ [0,3], [0,3], [0,1] ],
+        "trackingDesc": [ "{0} Medium Cal. Main Gun", "{0} Secondary Gun", "{0} Drum Canister" ]
+    },
+    "677": {
+        "code": "F69",
+        "name": "Penghancuran Senjata Mingguan 2",
+        "desc": "Miliki 3600 Besi. Hancurkan 4 Large Cal. Main Gun, 2 Pesawat Recon dan 3 Torpedo.",
+        "memo": "\u203bPenggabungan Pabrik Produksi untuk Membantu Jalannya Pertempuran\n\u2718Bahan sumber daya akan hilang .",
+        "tracking": [ [0,4], [0,2], [0,3] ],
+        "trackingDesc": [ "{0} Large Cal. Main Gun", "{0} Pesawat Recon", "{0} Torpedo" ]
+    },
+    "678": {
+        "code": "F70",
+        "name": "Pembaharuan Terhadap Pesawat Tempur Andalan Berbasis Kapal",
+        "desc": "Miliki 4000 Bauxit. Beri sekretaris 2 Type 0 Fighter Model 52 di slot pertama dan keduanya. Hancurkan 3 Type 96 Fighter dan 5 Type 0 Fighter Model 21. Overlay: F10",
+        "memo": "\u2623Quest ini masih dalam tahap percobaan. Laporkan kepada Tim KC3 jika ada yang janggal.\nTekan F10 untuk menghilangkan TL sementara.\n\u2718Bahan sumber daya akan hilang.\n\u27a3Hadiahnya 2 Shiden Kai Ni dan ANTARA New Model Aviation Armament Materials ATAU 8 DevMat"
+    },
+    "679": {
+        "code": "F71",
+        "name": "Pengembangan Persenjataan Anti Udara",
+        "desc": "Miliki 900 Bauxit. Hancurkan 6 Medium Cal. Main Gun dan 3 Secondary Gun. Tekan F10 untuk menghilangkan TL sementara.",
+        "memo": "\u2718Bahan Sumber daya akan hilang.\n\u27a3Hadiahnya ANTARA Dua 25mm Triple Autocannon Mounts ATAU Dua 12cm 30-tube Rocket Launcher ATAU Reinforcement Expansion"
+    },
 	
     "701": {
-		"code": "G1",
+        "code": "G1",
         "name": "Modernisasi Pertama",
         "desc": "Lakukan Modernisasi dengan Sukses"
     },
     "702": {
-		"code": "G2",
+        "code": "G2",
         "name": "Modernisasi Harian",
         "desc": "Lakukan 2 Modernisasi dengan Sukses",
-		"unlock": [ 703 ],
-		"tracking": [ [0,2] ]
+        "tracking": [ [0,2] ]
     },
     "703": {
-		"code": "G3",
+        "code": "G3",
         "name": "Modernisasi Mingguan",
         "desc": "(Mingguan) Lakukan 15 kali Modernisasi dengan Sukses",
-		"tracking": [ [0,15] ]
+        "tracking": [ [0,15] ]
     },
     "704": {
-		"code": "G4",
+        "code": "G4",
         "name": "Persiapan untuk LSC (Bagian 1)",
-        "desc": "Lakukan 4 Modernisasi dengan Sukses"
+        "desc": "Lakukan 4 Modernisasi dengan Sukses",
+        "tracking": [ [0,4] ]
     },
-	
-	
-	
-	"611": {
+    "705": {
+        "code": "G5",
+        "name": "Flight Rigging Modernization",
+        "desc": "Miliki 5500 besi dan 2500 bauxit, Moderenisasi CV dengan 5(lima) CV(L) sekaligus 2(dua)Kali.",
+        "memo": "\u2718Bahan akan hilang.\n\u27a3Hadiahnya \"New Model Aircraft Blueprint\""
+    },
+    "611": {
         "name": "Persiapan Cinta! (bagian 1)",
         "desc": "Hancurkan Persenjataan 2 kali demi Menunjukan Bukti Cinta Kepada Waifu-mu \u2665 !"
     },
-	"306": {
+    "306": {
         "name": "Persiapan Cinta (Bagian 2)",
-        "desc": "Tunjukkan Cintamu Kepada Waifu-mu \u2665 dengan Mendapatkan 2 Kemenangan di Mode Latihan."
-    },
-    
-    "280": {
-        "code": "SN01",
-        "name": "Strategi SN kedua, Operasi Permulaan",
-        "desc": "Selesaikan Map ke-2 Event Summer 2015."
-    },
-    "620": {
-        "code": "SN02",
-        "name": "Rapikan Gudang Senjata",
-        "desc": "Hancurkan Persenjataan 5 kali."
-    },
-    "281": {
-        "code": "SN03",
-        "name": "Lakukan Patroli di Rute Pasukan Utama",
-        "desc": "Tenggelamkan 6 Kapal Selam abyssal."
-    },
-    "158": {
-        "code": "SN04",
-        "name": "Lengkapi Akagi dengan Murata Squadron Torpedo Bomber",
-        "desc": "Jadikan Akagi sebagai kapal sekretaris dan lengkapi dengan Type 97 Torpedo Bomber (Murata Squadron)."
-    },
-    "282": {
-        "code": "SN05",
-        "name": "Rebut Superioritas Udara (AS) pada Area Laut Solomon",
-        "desc": "Selesaikan Map ke-4 Event Summer 2015."
-    },
-     "159": {
-        "code": "SN06",
-        "name": "Gunakan Kembali  Murata Squadron Torpedo Bomber ke Shoukaku",
-        "desc": "Jadikan Shoukaku Kapal sekretaris dan lengkapi dengan  Type 97 Torpedo Bomber (Murata Squadron). "
-    },
-    "310": {
-        "code": "SN07",
-        "name": "Latihan untuk Operasi FS",
-        "desc": "Dapatkan 4 kemenangan di mode latihan"
-    },
-    "621": {
-        "code": "SN08",
-        "name": "Konversi Type 97 ke Tenzan (Murata Squadron)",
-        "desc": "Miliki Shoukaku sebagai Kapal sekretaris dan lengkapi dengan  Type 97 Torpedo Bomber (Murata Squadron), kemudian hancurkan 2 Tenzan"
-    },
-    "160": {
-        "code": "SN09",
-        "name": "Kelola Armada ketiga Gugus Utama Kapal induk",
-        "desc": "Bentuk Gugus Utama Kapal Induk (Carrier Task force/Combined Fleet) yang berisikan Shoukaku, Zuikaku dan Zuihou."
-    },
-    "284": {
-        "code": "SN10",
-        "name": "Dirikan sebuah pangkalan untuk operasi FS",
-        "desc": "Tenggelamkan 10 Abyssal CV(L)"
-    },
-    "283": {
-        "code": "SN11",
-        "name": "Sortie Sebuah Armada ke daerah timur!",
-        "desc": "Selesaikan Map ke-5 Event Summer 2015"
-     }
+        "desc": "Tunjukkan Cintamu kepada Waifu-mu \u2665 dengan Mendapatkan 2 Kemenangan di Mode Latihan."
+    }
 }

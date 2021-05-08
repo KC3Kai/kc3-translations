@@ -668,7 +668,7 @@
     "BattleKindNightToDay" : "夜轉晝戰",
 	"BattleKindLongRangeRaid" : "深海雷達指引砲擊突襲",
     "BattlePreviousEncounters" : "遇過的艦隊",
-	"BattleUnexpectedDamageTip" : "{0:attackerName} 對 {2:id}：{1:defenderName}，造成了 {3} 點傷害，而預估傷害為 {4}~{5} 點",
+	"BattleUnexpectedDamageTip" : "{0:attackerName} 對 {2:id}：{1:defenderName} 造成了 {3} 點傷害，而預估傷害為 {4}~{5} 點",
 
     "ShipHp"            : "血量",
     "ShipFire"        : "火力",
@@ -948,21 +948,21 @@
 
     "SurfaceRadar" : "對海面雷達",
     "AirRadar" : "對空雷達",
-	"TripleTorpedo" : "61cm三聯裝魚雷 或 61cm三聯裝氧氣魚雷 或 61cm三聯裝氧氣魚雷(晚期型號)",
-	"TripleTorpedoOxygenLateModel" : "61cm三聯裝氧氣魚雷 或 61cm三聯裝氧氣魚雷(晚期型號)",
-	"QuadrupleTorpedoOxygenLateModel" : "61cm四聯裝氧氣魚雷 或 61cm四聯裝氧氣魚雷(晚期型號)",
+	"Type21AirRadar" : "21號對空雷達/改二",
+	"TripleTorpedo" : "61cm三聯裝魚雷/氧氣魚雷/晚期型號",
+	"TripleTorpedoOxygenLateModel" : "61cm三聯裝氧氣魚雷/晚期型號",
+	"QuadrupleTorpedoOxygenLateModel" : "61cm四聯裝氧氣魚雷/晚期型號",
+	"SubmarineTorpedoLateModel" : "潛水艇專用魚雷(晚期型號)",
     "Rotorcraft" : "自轉旋翼機",
     "Helicopter" : "直升機",
     "AaMachineGun" : "對空機槍",
-	
 	"SkilledLookouts" : "熟練瞭望員",
-	"CutinTorpLookoutTorp" : "水雷戰隊瞭望員 + 雙雷",
-	"CutinTorpLookoutDrum" : "水雷戰隊瞭望員 + 運輸桶",
 	
-	"SubmarineTorpedoLateModel" : "潛水艇專用魚雷(晚期型號)",
 	"CutinLateTorpRadar" : "潛水艇專用魚雷(晚期型號) + 潛水艇聲納",
 	"CutinLateTorpTorp" : "雙潛水艇專用魚雷(晚期型號)",
-	
+	"CutinTorpLookoutTorp" : "水雷戰隊瞭望員 + 雙魚雷",
+	"CutinTorpLookoutDrum" : "水雷戰隊瞭望員 + 運輸桶",
+
     "PvpListTitle" : "演習對手",
     "PvpListCreateType0" : "演習艦隊【第一群】",
     "PvpListCreateType1" : "演習艦隊【第二群】",

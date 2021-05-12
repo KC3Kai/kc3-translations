@@ -209,6 +209,12 @@
 	"AboutPartnerKCTHFBName": "KC-TH　「Kantai Collection Translators」",
 	"AboutPartnerKCTHFBDesc": "KC3改 태국어 번역 및 KC3改 페이스북 업데이트",
 
+	"AboutPartnerKCNavName" : "TsunKit / KCNav by Chami",
+	"AboutPartnerKCNavDesc" : "칸코레 맵 네비게이터 & 퀘스트 추적툴",
+	
+	"AboutPartnerKCImgBuilderName" : "KanColleImgBuilder by HitomaruKonpaku",
+	"AboutPartnerKCImgBuilderDesc" : "함대 편성 툴 이미지 출력에 도움",
+
 	"AboutWebsite": "웹사이트",
 
 	"AboutSubtitleHelp": "자막 내용 제공",
@@ -249,6 +255,8 @@
 	"SettingsShowAPIError": "API오류 내용 표시",
 	"SettingsRepeatAPIError": "반복 API오류 표시",
 	"SettingsDetailedAPIError": "API오류 상세 내용 표시",
+	"SettingsBrokenTip"        : "게임 사양의 변경으로 인해 일부의 기능에 오류가 있습니다.",
+
 
 	"SettingsGameInfo": "게임 정보",
 	"SettingsQuestListActivity" : "임무 리스트",
@@ -369,6 +377,7 @@
 	"SettingsIdleWarnStartAt": "대기 화면 표시",
 	"SettingsIdleWarnDesc": "대기 화면을 보여주기 전까지의 시간(초), 비활성화하려면 0을 입력",
 	"SettingsRscCapWarnFrom" : "최대비축가능 각 자원량 초과시 경고",
+	"SettingsPreSortieAlert" : "출격전에 체크할 함대",
 
 
 	"SettingsTaihaAlert": "요란한 대파 경고",
@@ -381,6 +390,7 @@
 	"SettingsDisableHomePort": "모항에 있을 시 무효화",
 	"SettingsDisableHasDamecon": "다메콘 장착 칸무스 무시",
 	"SettingsDisableUnlockShips" : "잠금 해제 칸무스 무시",
+	"SettingsDisableUnlockShipsTip" : "잠금 해제 칸무스 대파 상태가 되어도 대파경고나 진격 버튼 금지 기능이 발생하지 않습니다.",
 	"SettingsNoAnimation" : "애니메이션 연출 없음",
 	"SettingsNextBlocker"         : "대파진격 차단기능",
 	"SettingsNextBlockerTip" : "이 기능을 활성화하면 함대에 대파된 칸무스가 있을 때 사용자가 진격 버튼을 사용하지 못하게 됩니다.\n전투 API 변경 사항이 있는 경우 오작동 할수도 있으니 항상 전투 결과창과 칸무스의 체력에 주의하는 것이 좋습니다.\n\"SE 모드\"에서는 게임 내 사운드 옵션을 음소거 하면 작동하지 않습니다. 이 상태에서는 자동으로 \"네트워크 모드\"로 들어가는데, 이때는 여전히 진격 버튼을 차단하지만 요정님은 표시되지 않습니다.",
@@ -503,7 +513,8 @@
 	"SettingsPanelBarColors"     : "체력바 색상",
 	"SettingsPanelBarDim"        : "흐릿하게",
 	"SettingsPanelBarIndicators" : "체력바 상태 표시",
-        "SettingsPanelCompactQuests" : "임무 리스트 스크롤 축소",
+	"SettingsPanelCompactQuests" : "임무 리스트 스크롤 축소",
+	"SettingsPanelWideLbasView"  : "기지항공대를 넓게 보기",
 	"SettingsPanelConButShape" : "버튼 모양",
 	"SettingsPanelConButSkew" : "기울어진 버튼 모양",
 	"SettingsPanelCustomCSS" : "CSS 커스터마이즈",
@@ -570,6 +581,7 @@
 	"PageUpdateInDevelop": "개발 중",
 
 	"Enabled": "활성화",
+	"Disabled" : "비활성화",
 	"Small": "소",
 	"Big": "대",
 	"Black": "검정색",
@@ -582,7 +594,7 @@
 	"LearnMore": "상세히",
 	"Saved": "저장완료!",
 	"TimerComplete": "완료!",
-	"Debuffed": "보스 기믹 해제 완료!",
+	"Debuffed": "보스 기믹 해제!",
 	"Placeholder" : "－－－－",
 
 	"UnwantedExit": "API 링크는 1회 사용 후 무효화 됩니다. 새로고침을 하려면 메뉴를 통해 'API 링크를 새로고침'하셔야 합니다. 아니면 에러코를 만나러 갑니다.",
@@ -734,6 +746,7 @@
 	"ShipBombing" : "폭장",
 	"ShipFuel"    : "연료",
 	"ShipAmmo"    : "탄약",
+	"ShipCost"    : "연비",
 	"ShipAccAntiBomber" : "대폭",
 	"ShipEvaInterception" : "영격",
 	"ShipDeployCost" : "배치 코스트",
@@ -762,7 +775,7 @@
 
 	"ShipDayAttack"       : "낮 {0} 공격력: {1} ({2})",
 	"ShipNightAttack"     : "밤 {0} 공격력: {1} ({2})",
-	"ShipAccShelling"     : "낮 포격 정확율: {0} (장비{1},\u2605{2},Fit포{3},\u263b{4}) {5} {6}",
+	"ShipAccShelling"     : "낮 포격 정확율: {0} (장비{1},\u2605{2},피트포{3},\u263b{4}) {5} {6}",
 	"ShipEvaShelling"     : "낮 포격 회피율: {0} (장비{1},\u2605{2},연료{3}) \u263b{4}",
 	"ShipAAAdjusted": "가중 대공치: {0}",
 	"ShipAAShotdownRate": "고정 격추율: {0}%",
@@ -991,6 +1004,7 @@
 
 	"SurfaceRadar" : "대수상 레이더",
 	"AirRadar" : "대공 레이더",
+	"Type21AirRadar": "21호 대공 레이더・개2",
 	"TripleTorpedo" : "61cm 3연장 OR (산소) 어뢰 OR (산소) 어뢰 후기형",
 	"TripleTorpedoOxygenLateModel" : "61cm 3연장 (산소) 어뢰 OR 후기형",
 	"QuadrupleTorpedoOxygenLateModel" : "61cm 4연장 (산소) 어뢰 OR 후기형",
@@ -998,6 +1012,12 @@
 	"Rotorcraft" : "회전익 항공기 (오토 자이로・헬기)",
 	"Helicopter" : "헬리콥터",
 	"AaMachineGun" : "대공기총",
+	"SkilledLookouts" : "숙련견시원",
+
+	"CutinLateTorpRadar"   : "어어전",
+	"CutinLateTorpTorp"    : "어어어",
+	"CutinTorpLookoutTorp" : "어수어",
+	"CutinTorpLookoutDrum" : "어수드",
 	
 	"FitWeight_-3": "과적 페널티 대",
 	"FitWeight_-2": "과적 페널티 중",
@@ -1015,7 +1035,7 @@
 	"PvpBaseExp": "기본 EXP",
 	"PvpDispBaseExpWoCT": "연순 없을 시 S승리",
 	"PvpFormationPred": "진형",
-	"FirstFleetLevelTip" : "연습에 도전한 상대방이 얻은 경험치: {0}\nS승리의 경우: {1} (연순 없을시)",
+	"FirstFleetLevelTip" : "연습 상대가 얻은 경험치: {0}\nS승리의 경우: {1} (연순 없을시)",
 	
 	"RemodelItemListTitle"    : "오늘<span>{0:요일}</span>의<br/>개수 메뉴 입니다!",
 	"RemodelItemDetail"       : "이 장비를<br/>개수하는거네요!",
@@ -1098,6 +1118,7 @@
 	"MasterShipGoQuotes": "대사 확인",
 
 	"InferredFighterPower": "추측된 적 제공치: {0}\n 상실 ≤ {1} < 열세 ≤ {2} < 균형 < {3} ≤ 우세 < {4} ≤ 확보",
+	"InferredPvPDisclaimer" : " 연습상대의 개수와 숙련도를 알수 없어서 실제보다 낮게 나옴.",
 	"InferredEnemyAircraft": "추측된 적기 탑재수:\n 이미 알고 있는 대공치 함재기수: {0}, 모르는 수: {1}\n 항공전에 참가한 수: {2}, 불명: {3}",
 	"InferredLbasPlanes": " 기지 항공대에 참가: {0}, 참가 정찰기 수: {1}, 불명: {2}",
 	"InferredSupportPlanes": " 지원함대 항공전에 참가: {0}, 불명: {1}",

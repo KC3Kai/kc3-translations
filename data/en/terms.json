@@ -824,7 +824,7 @@
 	"PanelReloadQuotes" : "Check for internal quotes.json update if using a dev build",
 	"PanelReloadQuests" : "Check for internal quests.json update if using a dev build",
 	
-	"InferredFighterPower" : "Inferred Fighter Power: {0}\n\u2003AD: {1} / AP: {2} / AS: {3} / AS+: {4}",
+	"InferredFighterPower" : "Inferred Fighter Power: {0}\n\u2003AD> {1} / AP> {2} / AS\u2265 {3} / AS+\u2265 {4}",
 	"InferredPvPDisclaimer" : "\u2003PvP power higher due to proficiency and \u2605",
 	"InferredEnemyAircraft" : "Inferred Enemy Aircraft:\n\u2003Known Aircraft with AA > 0: {0}\n\u2003Known Aircraft with AA = 0: {1}\n\u2003Stage1 Participants: {2}\n\u2003\u2003Unknown Aircraft: {3}",
 	"InferredLbasPlanes" : "\u2003LBAA Participants: {0} (Recon: {1})\n\u2003\u2003Unknown Aircraft: {2}",

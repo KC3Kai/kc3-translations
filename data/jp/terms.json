@@ -469,6 +469,8 @@
 	"SettingsStrategyTheme" : "テーマ",
 	"SettingsStrategyCustomCSS" : "CSSカスタマイズ",
 	"SettingsStrategyCustomCSSTip" : "有効なCSS3を使ってKC3改のテーマをカスタマイズできます。\nCSSとKC3改のソースコードをよく理解し、自己責任で書いてください。\nこれを有効するには戦闘指揮所のページをリロードする必要があります。\n一部のCSSに`!important`をつけるのを忘れないでね。",
+	"SettingsMaxEventTags" : "イベント出撃識別札の数",
+	"SettingsMaxEventTagsTip" : "現行イベントに対して「Locking Planner」の最大札数が足りない時だけにこれを選択してください。更新による自動が追いつくので、基本「自動」でお勧めします。\n札の色には「CSSカスタマイズ」で変えることができます。",
 	"SettingsSaveSortieToDb" : "出撃戦闘データを保存",
 	"SettingsSaveSortieToDbTip" : "これを無効にすると、この後すべての海域への出撃データが保存されなくなり、戦闘指揮所の「Maps」や「Events」にて見ることができなくなるので、お勧めしません。「Ledger」では出撃で消費する資源や資材はマップとの関連性も保存されなくなります。",
 	"SettingsSaveSortieButMaps" : "保存したくない海域",

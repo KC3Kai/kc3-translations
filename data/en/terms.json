@@ -485,6 +485,8 @@
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	"SettingsStrategyCustomCSS" : "Custom CSS",
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+	"SettingsMaxEventTags" : "Max Event Tags",
+	"SettingsMaxEventTagsTip" : "Recommend keeping it 'Auto'. But when new event starts and before auto update comes to, you may set this to larger value if amount of locking tags is not enough for Locking Planner page. Colors of tags can be changed via Custom CSS.",
 	"SettingsSaveSortieToDb" : "Save Sortie History",
 	"SettingsSaveSortieToDbTip" : "Don't disable this if you don't want your Maps / Events History miss your battle data. Disabling this will also make Ledger can not search your sortie related consumptions by maps.",
 	"SettingsSaveSortieButMaps" : "Maps to be Ignored",

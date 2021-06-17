@@ -490,7 +490,9 @@
         "Yasen(2)": "Face the 3rd turret to the enemy. They won't get away. Fire!",
         "SpCutin": "Battleship Mutsu, beginning the attack! Full broadside, FIRE!",
         "SpCCutin(1)": "Nagato, leave it to me! FIRE!",
-        "SpCCutin(2)": "Nagato, ready? Here we go! First Fleet, full broadside, FIRE!"
+        "SpCCutin(2)": "Nagato, ready? Here we go! First Fleet, full broadside, FIRE!",
+        "Friend50(1)": "Mutsu, acknowledging. I'm charging in!",
+        "Friend50(2)": "The 1st Fleet has arrived at the operation area. Beginning the attack."
     },
     "131": {
         "Intro": "First of the Yamato-class battleships, Yamato.<br />I am at your service!",
@@ -1253,7 +1255,7 @@
     },
     "150": {
         "Equip(3)": "Leave it to me-!",
-        "Friend44(1)": "11th Squadron, flagship Hiei, we've reached the operational area. We'll now support the allied forces. Kirishima, let's go!"
+        "Friend44(1)": "BatDiv11 flagship, Hiei! We’ve reached the battlefield. We’ll now support the friendly fleet. Kirishima, let's go!"
     },
     "592": {
         "Intro": "I'm Kongou's little sister, the fast battleship, Hiei. With more experience, and this remodel, I want to become more like my older sister. Yes I do!",
@@ -1262,7 +1264,9 @@
         "Sortie": "Improved Kongou-class battleship, Hiei, weighing anchor!",
         "Damaged(3)": "To do such things to... the 3rd remodel equipment handed over from Onee-sama... I definitely can't forgive this!",
         "SpCutin": "Battleship Hiei, off I go, with all my spirit... FIRE!",
-        "Friend50(1)": "Yes, just leave it all to me!"
+        "Friend50(1)": "Yes, just leave it all to me!",
+        "Friend50(2)": "BatDiv11 flagship, Hiei! We’ve reached the battlefield. We’ll now support the friendly fleet.",
+        "Friend50(3)": "Yes, just leave it all to me!"
     },
     "79": {
         "Intro": "Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you!",
@@ -9222,7 +9226,8 @@
         "Battle": "I get all worked up when I hear about exchanging shells!",
         "Attack": "Become scrap at the bottom of the sea!",
         "Friend44(1)": "A-are you ready?",
-        "Friend50(1)": "Pests! Become scrap at the bottom of the sea! Get out of my sight!"
+        "Friend50(1)": "Pests! Become scrap at the bottom of the sea! Get out of my sight!",
+        "Friend50(2)": "Pests! Become scrap at the bottom of the sea!"
     },
     "101": {
         "Intro": "It's Kiso. I'll bestow upon you absolute victory.",
@@ -10187,6 +10192,7 @@
         "Battle": "DesRon2, attack. All fleets, check your formations. Over and out.",
         "Yasen(2)": "You'll be in trouble if you underestimate me after my upgrade.",
         "Yasen(1)": "I'll show you how an upgraded Agano-class night battles.",
+        "Friend50(1)": "DesRon2, attack.",
         "H0900": "9 A.M. Admiral! This morning's variety show programme was pretty funny, ri... Oh! Jintsuu!? Yes! I'll sortie immediately!"
     },
     "139": {
@@ -10870,6 +10876,8 @@
         "Intro": "How is everything? I'm the Atlanta-class anti-air cruiser, Atlanta. Reporting in. Admiral... well, I guess I'll work hard today too.",
         "Poke(1)": "Ah, me? Alright then.",
         "Yasen(1)": "Eh? Another night battle? Sorry, I said I'll pass.",
+        "Friend50(1)": "Roger. I can do this. Fire!",
+        "Friend50(2)": "Task Force, on camp. Supporting the friendly fleet. Follow me!",
         "H0000": "I'll be the secretary ship today. Well, it's fine, isn't it?",
         "H0100": "1 o'clock. I really don't like the night.",
         "H0200": "2 o'clock. What do you think of the night, Admiral? Ah, I see. Well, that's fine too.",
@@ -16800,7 +16808,9 @@
         "Join": "I'm going to set out at full force, Admiral. Destroyer Division 10, weigh anchor!",
         "Attack": "Enemy fleet spotted. Ready for combat! Alright, all ships, charge!",
         "MVP": "Aren't you glad that you picked me, Admiral? Of course, there's nothing to regret. You can always depend on me.",
-        "Friend46(1)": "Now, let me show you how the best of the best fights. Yuugumo, full speed ahead, attack!"
+        "Friend46(1)": "Now, let me show you how the best of the best fights. Yuugumo, full speed ahead, attack!",
+        "Friend50(1)": "We'll now support the friendly fleets. Everyone, please follow my lead.",
+        "Friend50(2)": "The 10th Destroyer Division has arrived at the operation area. We'll now support the friendly forces. DesDiv10, charge!"
     },
     "134": {
         "Intro": "Yuugumo-class destroyer, I am Makigumo. Following Yuugumo-neesan's example, I'll do my best!",
@@ -17048,7 +17058,8 @@
         "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
         "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!",
         "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!",
-        "Friend48(1)": "Naganami, acknowledging. Pick your targets and blow them away!"
+        "Friend48(1)": "Naganami, acknowledging. Pick your targets and blow them away!",
+        "Friend50(1)": "Naganami, acknowledging. Pick your targets and blow them away!"
     },
     "671": {
         "Intro": "I'm the 5th Ship of the Yuugumo-class destroyers, Makinami. Reporting in. What's going on with this fleet? Admiral, even you're not looking so good! I'm here, you know? Yeah, let's have some fun!",
@@ -17086,6 +17097,7 @@
         "Equip(2)": "This'll do. I'm kinda happy.",
         "Yasen(1)": "Night, huh. Let's get going. We'll show them what DesDiv31 is made of. All ships, line ahead. Let's blow them away!",
         "Friend50(1)": "DesDiv31, Makinami, understood! Leave it to me, big sis Naganami!",
+        "Friend50(2)": "DesDiv31 has arrived at the operation area. Big sis Naganami, let's do this!",
         "H0000": "Now, time to start a new day. A new day is here! I'll be by your side today. What was that? Now? Ehe. Alright!",
         "H0100": "0100. Phew, it's quite peaceful compared to the worst of the Solomons. Nice, real nice.",
         "H0200": "0200. Admiral~, want some tea? Shall I make some then? Ah, OK. Then please wait.",

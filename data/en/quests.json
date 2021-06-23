@@ -2128,7 +2128,7 @@
     "944": {
         "code": "By6",
         "name": "Annual Naval Base Sea Patrol - June",
-        "desc": "Sortie a CA/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3] and [W1-4]. A-Rank+ all relevant boss nodes twice.",
+        "desc": "Sortie a CA/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3] and [W1-4]. A-Rank+ each boss node twice.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bPatrol the Sea Near the Naval Base!\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR two New Model Gun Mount Armament Materials OR four Screws\n\u00B6Second choice: a \u2605+2 Type 3 Sonar OR a \u2605+2 Type 3 Depth Charge Projectors OR five Development Materials",
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-4]" ],
@@ -2137,7 +2137,7 @@
     "945": {
         "code": "By7",
         "name": "Annual Nansei Islands Supply Route - June",
-        "desc": "Sortie a CL/CLT/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-5], [W2-1] and [W1-6-N] twice. A-Rank+ all relevant boss nodes twice.",
+        "desc": "Sortie a CL/CT/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-5], [W2-1] and [W1-6-N] twice. A-Rank+ all relevant boss nodes twice.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bSecure a Supply Route in the Nansei Islands!\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR two New Model Gun Mount Armament Materials OR four Screws\n\u00B6Second choice: a \u2605+2 Type 3 Sonar OR a \u2605+2 Type 3 Depth Charge Projectors OR five Development Materials",
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} A-Rank+ [W1-5]", "{0} A-Rank+ [W2-1]", "{0} [W1-6-N] reached" ]
@@ -2145,25 +2145,25 @@
     "946": {
         "code": "By8",
         "name": "Annual Carrier Task Force Sortie - June",
-        "desc": "Sortie a CV(L) as flagship, 2 CA(V) and up to 3 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank all relevant boss nodes.",
+        "desc": "Sortie a CV(L/B) as flagship, 2 CA(V) and up to 3 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes of each.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bCarrier Task Force, Sortie! Intercept the Enemy Fleet!\n\u27a3Rewards:\n\u00B6First choice: Either two Type 0 Model 32 Fighters OR two F4F-3 OR five Buckets\n\u00B6Second choice: two Type 99 Dive Bombers Model 22A OR two SBD OR an Action Report",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]", "{0} S-Rank [W2-4]" ],
-        "unlock": [ 947, 948 ]
+        "unlock": [ 947 ]
     },
     "947": {
         "code": "By9",
         "name": "Annual Operation AL - June",
-        "desc": "Sortie 2 CV(L) and up to 4 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "desc": "Sortie 2 CVL and up to 4 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank the boss nodes of each.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bOperation AL\nRewards 480 Ranking Points and either two Type 13 Air Radar Kai OR a Medal OR a Reinforcement Expansion",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W3-1]", "{0} S-Rank [W3-3]", "{0} S-Rank [W3-4]", "{0} S-Rank [W3-5]" ],
-        "unlock": [ 946 ]
+        "unlock": [ 948 ]
     },
     "948": {
         "code": "By10",
         "name": "Annual Naval Task Force Decisive Battle - June",
-        "desc": "Sortie a CV as flagship and up to 5 additional ships to [W5-2], [W5-5], [W6-4] and [W6-5]. A-Rank+ [W6-4] twice. S-Rank all other relevant boss nodes twice.",
+        "desc": "Sortie a CV(L/B) as flagship and up to 5 additional ships to [W5-2], [W5-5], [W6-4] and [W6-5]. A-Rank+ [W6-4] twice. S-Rank all other relevant boss nodes twice.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bNaval Task Force Decisive Battle\nRewards 600 Ranking Points and either five Skilled Crew Members OR a Prototype Flight Deck OR a Kikka Kai",
         "tracking": [ [0,2], [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} S-Rank [W5-2]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-5]", "{0} A-Rank+ [W6-4]" ]
@@ -2472,7 +2472,7 @@
     "353": {
         "code": "C58",
         "name": "Cruiser Squadron Exercises!",
-        "desc": "Secure 5 B-Rank+ victories in Exercises within the same day using 4 CA, and 2 DD.",
+        "desc": "Secure 5 B-Rank+ victories in Exercises within the same day using a CA(V) as flagship, 3 CA(V) and 2 DD.",
         "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and either two Type 22 Surface Radar Kai 4 OR two 20.3cm (No.3) Twin Gun Mounts OR a \u2605+2 Skilled Lookouts",
         "tracking": [ [0,5] ]
     },

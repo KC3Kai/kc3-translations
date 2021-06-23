@@ -608,7 +608,7 @@
         "code": "A93",
         "name": "The Powerful DesDiv 10, Mainstay of Mainstays\u2013Sortie Preparations Complete!",
         "desc": "Have ONLY Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet.",
-        "memo": "\u27a3Rewards a +2 12.7cm Twin Gun Mount Model D Kai Ni and either six Buckets OR a Furniture Fairy",
+        "memo": "\u27a3Rewards a \u2605+2 12.7cm Twin Gun Mount Model D Kai Ni and either six Buckets OR a Furniture Fairy",
         "unlock": [ 346, 930 ]
     },
     
@@ -1657,14 +1657,14 @@
         "code": "B153",
         "name": "Revised Kaga-class Aircraft Carrier, Kaga Kai Ni, Setting Sail!",
         "desc": "Sortie Kaga Kai Ni+ as flagship, 1 CV(B) and up to 4 additional ships to [W3-4], [W4-4], [W4-5] and [W5-2]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards a Ryuusei Kai (CarDiv 1) and either a Prototype Shuusui OR a +2 Type 1 Land-based Attack Aircraft Model 22A OR three +3 Ka Type Observation Autogyros",
+        "memo": "\u27a3Rewards a Ryuusei Kai (CarDiv 1) and either a Prototype Shuusui OR a \u2605+2 Type 1 Land-based Attack Aircraft Model 22A OR three \u2605+3 Ka Type Observation Autogyros",
         "unlock": [ 926 ]
     },
     "926": {
         "code": "B154",
         "name": "Supreme CarDiv 1, Sortie! It Will End in One Strike!",
         "desc": "Sortie Kaga Kai Ni+, Akagi Kai Ni+ and up to 4 additional ships to [W7-2-M], [W5-5], [W6-2] and [W6-5]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a +2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a +2 Ryuusei Kai (CarDiv 1 / Skilled)",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Prototype Flight Deck Catapult OR two Tenzans Model 12A Kai (w/ Type 6 Airborne Radar Kai) OR a \u2605+2 Type 1 Land-based Attack Aircraft Model 34\n\u00B6Second choice: Either two Action Reports OR a Blueprint OR a \u2605+2 Ryuusei Kai (CarDiv 1 / Skilled)",
         "unlock": [ 698 ]
     },
     "927": {
@@ -1678,7 +1678,7 @@
         "code": "B156",
         "name": "To Protect the Peaceful Sea, the Whale Stirs!",
         "desc": "Sortie Taigei or Jingei as flagship, 2 SS(V) and up to 3 additional ships to [W1-2], [W1-3], [W2-1] and [W2-3]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards furniture and either a New Model Armament Materials OR a +2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
+        "memo": "\u27a3Rewards furniture and either a New Model Armament Materials OR a \u2605+2 Late Model Bow Torpedo Mount (6 tubes) OR an Action Report"
     },
     "930": {
         "code": "B157",
@@ -1754,19 +1754,19 @@
         "code": "B167",
         "name": "Nishimura Fleet, Elite Vanguard Sweeper Squadron, Advancing!",
         "desc": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and up to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S-Rank all relevant boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an 8cm High-angle Gun Kai + Extra Machine Guns OR an Action Report OR two Repair Goddesses\n\u00B6Second choice: Either two Medals OR two Type C Kouhyouteki OR a Kyoufuu Kai"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either an 8cm High-angle Gun Kai + Extra Machine Guns OR an Action Report OR two Repair Goddesses\n\u00B6Second choice: Either two Medals OR two Type C Kouhyouteki OR a Kyoufuu Kai"
     },
     "940": {
         "code": "B168",
         "name": "DesRon 2 Flagship\u2013Yahagi, Assuming Command!",
         "desc": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5], [W5-3] and [W5-5]. S-Rank all relevant boss nodes.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a +2 15.2cm Twin Gun Mount Kai Ni and furniture"
+        "memo": "\u27a3Rewards a \u2605+2 15.2cm Twin Gun Mount Kai Ni and furniture"
     },
     "943": {
         "code": "B169",
         "name": "New Wings. Remodeled Aircraft Carrier Ryuuhou, Sortie!",
         "desc": "Sortie Ryuuhou Kai Ni (E) as Fleet 1 flagship, Shigure Kai Ni and up to 4 additional ships to [W2-2], [W2-3], [W2-4], [W2-5] and [W7-2-M]. S-Rank all relevant boss nodes.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR a Tenzan Model 12A OR a Repair Goddess\n\u00B6Second choice: Either a +2 8cm High-angle Gun Kai + Extra Machine Guns OR a Type 0 Fighter Model 63 (Fighter-bomber) OR a Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR a Tenzan Model 12A OR a Repair Goddess\n\u00B6Second choice: Either a \u2605+2 8cm High-angle Gun Kai + Extra Machine Guns OR a Type 0 Fighter Model 63 (Fighter-bomber) OR a Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
     },
 
     "201": {
@@ -2125,7 +2125,49 @@
         "tracking": [ [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} S-Rank [W7-3-P]", "{0} S-Rank [W7-2-M]", "{0} S-Rank [W4-2]" ]
     },
-    
+    "944": {
+        "code": "By6",
+        "name": "Annual Naval Base Sea Patrol - June",
+        "desc": "Sortie a CA/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3] and [W1-4]. A-Rank+ all relevant boss nodes twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bPatrol the Sea Near the Naval Base!\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR two New Model Gun Mount Armament Materials OR four Screws\n\u00B6Second choice: a \u2605+2 Type 3 Sonar OR a \u2605+2 Type 3 Depth Charge Projectors OR five Development Materials",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-4]" ],
+        "unlock": [ 945, 946 ]
+    },
+    "945": {
+        "code": "By7",
+        "name": "Annual Nansei Islands Supply Route - June",
+        "desc": "Sortie a CL/CLT/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-5], [W2-1] and [W1-6-N] twice. A-Rank+ all relevant boss nodes twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bSecure a Supply Route in the Nansei Islands!\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR two New Model Gun Mount Armament Materials OR four Screws\n\u00B6Second choice: a \u2605+2 Type 3 Sonar OR a \u2605+2 Type 3 Depth Charge Projectors OR five Development Materials",
+        "tracking": [ [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} A-Rank+ [W1-5]", "{0} A-Rank+ [W2-1]", "{0} [W1-6-N] reached" ]
+    },
+    "946": {
+        "code": "By8",
+        "name": "Annual Carrier Task Force Sortie - June",
+        "desc": "Sortie a CV(L) as flagship, 2 CA(V) and up to 3 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank all relevant boss nodes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bCarrier Task Force, Sortie! Intercept the Enemy Fleet!\n\u27a3Rewards:\n\u00B6First choice: Either two Type 0 Model 32 Fighters OR two F4F-3 OR five Buckets\n\u00B6Second choice: two Type 99 Dive Bombers Model 22A OR two SBD OR an Action Report",
+        "tracking": [ [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]", "{0} S-Rank [W2-4]" ],
+        "unlock": [ 947, 948 ]
+    },
+    "947": {
+        "code": "By9",
+        "name": "Annual Operation AL - June",
+        "desc": "Sortie 2 CV(L) and up to 4 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bOperation AL\nRewards 480 Ranking Points and either two Type 13 Air Radar Kai OR a Medal OR a Reinforcement Expansion",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W3-1]", "{0} S-Rank [W3-3]", "{0} S-Rank [W3-4]", "{0} S-Rank [W3-5]" ],
+        "unlock": [ By8 ]
+    },
+    "948": {
+        "code": "By10",
+        "name": "Annual Naval Task Force Decisive Battle - June",
+        "desc": "Sortie a CV as flagship and up to 5 additional ships to [W5-2], [W5-5], [W6-4] and [W6-5]. A-Rank+ [W6-4] twice. S-Rank all other relevant boss nodes twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bNaval Task Force Decisive Battle\nRewards 600 Ranking Points and either five Skilled Crew Members OR a Prototype Flight Deck OR a Kikka Kai",
+        "tracking": [ [0,2], [0,2], [0,2], [0,2] ],
+        "trackingDesc": [ "{0} S-Rank [W5-2]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-5]", "{0} A-Rank+ [W6-4]" ]
+    },
     
     "301": {
         "code": "C1",
@@ -2323,7 +2365,7 @@
         "code": "C34",
         "name": "Aerial Squadron Exercises (Step Two)",
         "desc": "Secure 6 S-Rank victories in Exercises within the same day using 3 CV(L/B), 2 DD and up to 1 additional ship.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 13 Air Radars OR four Development Materials\n\u00B6Second choice: Either a +2 Saiun OR two +2 Tenzan OR a Skilled Crew Member"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 13 Air Radars OR four Development Materials\n\u00B6Second choice: Either a \u2605+2 Saiun OR two \u2605+2 Tenzan OR a Skilled Crew Member"
     },
     "335": {
         "code": "C35",
@@ -2425,7 +2467,14 @@
         "code": "C57",
         "name": "The Remodeled Yahagi's Elite Torpedo Squadron Flagship Exercises!",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yahagi Kai Ni+ as flagship, 4 DD and up to 1 additional ship.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 25mm Triple Autocannon Mounts OR a New Model Armament Materials OR furniture"
+        "memo": "\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 25mm Triple Autocannon Mounts OR a New Model Armament Materials OR Furniture"
+    },
+    "353": {
+        "code": "C58",
+        "name": "Cruiser Squadron Exercises!",
+        "desc": "Secure 5 B-Rank+ victories in Exercises within the same day using 4 CA, and 2 DD.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards a Mamiya and either two Type 22 Surface Radar Kai 4 OR two 20.3cm (No.3) Twin Gun Mounts OR a \u2605+2 Skilled Lookouts",
+        "tracking": [ [0,5] ]
     },
     
     
@@ -2712,7 +2761,7 @@
         "code": "D40",
         "name": "Annual Expeditions 2 - March",
         "desc": "Complete Expeditions 5, 12, 9, B1 and 11.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of March.\n\u203bA Naval Convoy Transport of New Armament Development Materials!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets\n\u00B6Second choice: Either a New Model Armament Materials OR a New Model Aviation Armament Materials OR four Screws",
+        "memo": "This quest resets on the first quest reset of March.\n\u203bA Naval Convoy Transport of New Armament Development Materials!\n\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets\n\u00B6Second choice: Either a New Model Armament Materials OR a New Model Aviation Armament Materials OR four Screws",
         "tracking": [ [0,1], [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} Expedition 5", "{0} Expedition 12", "{0} Expedition 9", "{0} Expedition B1", "{0} Expedition 11" ]
     },
@@ -3403,6 +3452,34 @@
         "memo": "\u2718Consumes the resources.\n\u203bAir Force Modernization and Reorganization Allocation\n\u27a3Rewards:\n\u00B6First choice: Either three Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft Model 22A OR two New Model Aviation Armament Materials\n\u00B6Second choice: Either a Skilled Crew Member OR four Screws",
         "tracking": [ [0,4], [0,4] ],
         "trackingDesc": [ "{0} Dive Bombers", "{0} Torpedo Bombers" ]
+    },
+    "1101": {
+        "code": "F96",
+        "name": "Another Naval Arsenal Maintenance",
+        "desc": "Have 4 14cm Single Gun Mounts, 4 20.3cm Twin Gun Mounts and 4000 Furniture Coins. Scrap 8 12.7cm Twin Gun Mounts.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either eight Instant Contruction Materials OR eight Development Materials OR a Furniture Fairy\n\u00B6Second choice: a New Model Gun Mount Armament Materials OR a New Model Rocket Development Materials OR four Screws",
+        "unlock": [ 1102, 1103 ]
+    },
+    "1102": {
+        "code": "F97",
+        "name": "Preparations for Equipment Improvement in the Arsenal",
+        "desc": "Have 2400 Fuel, 5 20.3cm Twin Gun Mounts and 5 35.6cm Twin Gun Mounts. Scrap 7 12cm Single Gun Mounts.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Gun Mount Armament Materials OR two New Model Gun Mount Armament Materials OR four screws\n\u00B6Second choice: two New Model Armament Materials OR two 25mm Triple Machine Gun Mounts OR ten Development Materials"
+    },
+    "1103": {
+        "code": "F98",
+        "name": "Annual Late Model Submarine Torpedo - June",
+        "desc": "Have 60 Development Materials, 2 Type 93 Sonars and 2 Type 13 Air Radar Kai. Scrap 3 61cm Triple (Oxygen) Torpedo Mounts.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bMass Production of Improved Submarine Armaments\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 tubes) and either five Development Materials OR two Screws",
+        "tracking": [ [0,3] ],
+        "unlock": [ 1104 ]
+    },
+    "1104": {
+        "code": "F99",
+        "name": "Annual Submarine Radar - June",
+        "desc": "Have 100 Development Materials, 2 Type 93 Sonars and 2 Type 22 Surface Radar. Scrap 3 Type 13 Air Radar Kai.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\nThis quest resets on the first quest reset of June.\n\u203bMass Production of Electronic Submarine Armaments\n\u27a3Rewards a Submarine Radar & Waterproof Telescope and either five Development Materials OR two Screws",
+        "tracking": [ [0,3] ]
     },
 
     "701": {

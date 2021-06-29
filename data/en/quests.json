@@ -3161,7 +3161,8 @@
         "code": "F50",
         "name": "Submarine Armament Enhancement",
         "desc": "Have 120 Development Materials, three 61cm Quad (Oxygen) Torpedo Mounts and three Type 93 SONARs in your inventory. Scrap four 61cm Triple Torpedo Mounts.",
-        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 Tubes)"
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Late Model Bow Torpedo Mount (6 Tubes)",
+        "unlock": [ 1103 ]
     },
     "659": {
         "code": "F51",

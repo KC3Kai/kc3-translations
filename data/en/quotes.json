@@ -1944,7 +1944,8 @@
         "2@WhiteDay2021": "Huh? You made the return gift yourself, Admiral? Really? Oh my, it's delicious... Ah, I'm feeling a bit conflicted over this.",
         "2@Spring2021": "Oh, Yamato, what are you doing? Cherry blossom viewing? It sounds like something special. Can I... join in too? Ah, thanks!",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary? Admiral, congrats. I'll celebrate with you too. This is wonderful.",
-        "2@Rainy2021": "These endless rainy days really puts a damper on my spirits. Meanwhile, she... Yeah, idiots are always happy. It makes me a bit jealous. Just a bit."
+        "2@Rainy2021": "These endless rainy days really puts a damper on my spirits. Meanwhile, she... Yeah, idiots are always happy. It makes me a bit jealous. Just a bit.",
+        "2@Summer2021": "Huh? Yamato, why are you dressed like... Ah, I see. Th-then I will too."
     },
     "659": {
         "Intro": "North Carolina-class USS battleship Washington. Admiral, I'll be counting on your wonderful command again today. I trust you.",
@@ -4853,7 +4854,8 @@
         "4@Valentines2021": "I'm pretty good at cooking if I do say so myself. I should try making this new recipe I thought up for the Admiral... Phew, it's done. I wonder if the Admiral will eat it? ...I wonder if he'll be happy?",
         "2@WhiteDay2021": "Huh? My chocolates were delicious? ...Ad-admiral, so you did savour them. Thank you, Admiral. I'll savour this return gift too. I'm glad.",
         "2@Spring2021": "Spring feels really nice. I know, why don't we have a cherry blossom viewing with the submarine fleet after we're done with this job? Admiral, what do you think? Aha, great. I'll make a feast, alright?",
-        "2@Anniversary2021": "Admiral, congratulations. It appears that the fleet is celebrating its 8th Anniversary. It's my 2nd year here. I'll go make a feast to celebrate, alright? Please wait."
+        "2@Anniversary2021": "Admiral, congratulations. It appears that the fleet is celebrating its 8th Anniversary. It's my 2nd year here. I'll go make a feast to celebrate, alright? Please wait.",
+        "2@Summer2021": "I don't really like summer. So a swimsuit is... Huh? I shouldn't worry about it at all? If you say so... It just makes me feel vulnerable and uneasy. Whoa."
     },
     "639": {
         "Intro": "1st of the Jingei-class submarine tenders, Jingei, reporting. Admiral, I'm truly glad to be able to meet you. Let's continue to do our best together.",
@@ -5440,7 +5442,9 @@
         "Damaged(3)": "Aaah!! I won't sink! I need to see peacetime...",
         "Sunk": "No... This can't be... I'm... sinking... No way...",
         "2@Rainy2021": "The rainy season. I love Japan's seasons... Huh? Yeah, that's right. It rarely rained at Shouwa Station.",
-        "3@Rainy2021": "Yes, as expected, it does rain here. Admiral, you'll get wet. Come here."
+        "3@Rainy2021": "Yes, as expected, it does rain here. Admiral, you'll get wet. Come here.",
+        "2@Summer2021": "It's getting.... quite hot. The summer sun in Odaiba was harsh too. I think I should probably change into summer clothes.",
+        "3@Summer2021": "I tried on some summer clothes. How do I look? Outside of the northern and polar regions, I think it'd be nice to be dressed like this. It's cooling."
     },
     "645": {
         "Intro": "I'm the lighthouse tender, Souya. I can't carry any weapons, but... I can carry lots of other things. I'll keep doing my best today too!",
@@ -5523,6 +5527,17 @@
         "Friend42(1)": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!",
         "Friend44(1)": "Task Force 77 has arrived on the battlefield. We'll now back up the friendly fleet!",
         "Friend44(2)": "Uhmmm, sorry!"
+    },
+    "707": {
+        "Intro": "Good morning! Admiral, the new me is ready to sortie. Yes! I'm feeling great today too! Maybe.",
+        "Poke(1)": "Fine!",
+        "Poke(2)": "Admiral, what is it? Oh, of course, understood! I'm doing well, thanks.",
+        "Poke(3)": "Admiral... Ah! John, Sam! Yes, I'm fine. I'm doing well, thanks.",
+        "Join": "CVE-73, new Gambier Bay, sortieing! I'm not... scared anymore!",
+        "Equip(2)": "Good! This is nice.",
+        "Docking(2)": "Ah, jeez! I really can't do anything like this. Jeez! Admiral, can I stay in the room?",
+        "Yasen(1)": "Night battle? No way, there's definitely no way! Uhmm, I mean... I'll give it a shot!",
+        "Damaged(3)": "I really, really can't keep going now! I am not good..."
     },
     "154": {
         "Intro": "I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.",
@@ -6419,7 +6434,8 @@
         "2@WhiteDay2021": "A return gift for me? Ah, thank you! I'll savour it later.",
         "2@Spring2021": "A cherry blossom viewing with the submarine fleet? I'd like to join them for a while.",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary. I offer my most heartfelt congratulations.",
-        "2@Rainy2021": "It's really coming down. I should get my waterproof rigging. Now I'll be fine."
+        "2@Rainy2021": "It's really coming down. I should get my waterproof rigging. Now I'll be fine.",
+        "2@Summer2021": "It's summer so I'll put on a different... Huh? It's not different?"
     },
     "607": {
         "Intro": "I'm the 1st class submarine, 7th ship of the Type-C cruiser submarines, I-47. I've finished my maintenance. Admiral, are we heading out? Alright then.",
@@ -6617,7 +6633,8 @@
         "Damaged(2)": "Aah! Damage report.",
         "Damaged(3)": "I've taken damage. Main tank blow. Emergency ascent.",
         "Sunk": "Ah, I'm done for... I'm... going to be crushed... Aaah... Good... bye...",
-        "2@Rainy2021": "Rain... won't bother me once I'm underwater. *nod*"
+        "2@Rainy2021": "Rain... won't bother me once I'm underwater. *nod*",
+        "2@Summer2021": "Yona, is that summer equipment... allowed?"
     },
     "887": {
         "Intro": "Admiral, I'm probably the fastest under the sea. I'm the improved Sentaka-class, I-203... I'm ready to sortie at any time... Dangerous? Right now it's... Yeah, only to enemies. I've been completely overhauled, so just watch me.",
@@ -8661,7 +8678,8 @@
         "Damaged(2)": "Ahh!",
         "Damaged(3)": "Ungh, what was that, a torpedo? Am I sinking? As if, as if I'll sink this time!",
         "Sunk": "In the end, I'm... sinking again... I... don't... want to...",
-        "2@Rainy2021": "So this is Japan's \"tsuyu\". So Japan has four seasons too. I think that's wonderful. I'd like to try making some teruteru bouzu too. Destroyers, will you teach me? Eheh, thanks."
+        "2@Rainy2021": "So this is Japan's \"tsuyu\". So Japan has four seasons too. I think that's wonderful. I'd like to try making some teruteru bouzu too. Destroyers, will you teach me? Eheh, thanks.",
+        "2@Summer2021": "Admiral, summer here gets quite hot too, doesn't it? I'm worried about the lack of armor on the summer equipment Houston and the others wear, but I'll think about it."
     },
     "660": {
         "Intro": "Hi! How are you? First of the Northampton-class, Northampton, here. Admiral, shall we?",
@@ -10806,7 +10824,8 @@
         "2@Xmas2020": "Old Lady, you'll be here? Ah, I will too. I know, I'll get some cake. Christmas here is nice too.",
         "2@YearsEnd2020": "Understood. I, Perth, will participate in the Naval Base End of Year Cleaning. I'll do this \"floor mopping\"... Ah, this posture is...!",
         "2@NewYears2021": "Happy New Year. May this year be full of happiness.",
-        "2@Anniversary2021": "Congratulations on the fleet's 8th Anniversary!"
+        "2@Anniversary2021": "Congratulations on the fleet's 8th Anniversary!",
+        "2@Summer2021": "No, Houston said... I'm fine either way... If this isn't appropriate, I'll go get changed. Re-really?"
     },
     "618": {
         "Intro": "How are you? I'm the Perth-class light cruiser, Perth. HMAS Perth is here. Don't underestimate my strength - I was raised in Australia. Well, shall we get started?",
@@ -10945,7 +10964,8 @@
         "2@WhiteDay2021": "A return gift? Ah, for the chocolates? Yet another odd custom here. But, I don't dislike it... Thanks.",
         "2@Spring2021": "You want to try having a Japanese \"cherry blossom viewing\" outing with the US fleet? Aha, that sounds nice. I'm fine with that.",
         "2@Anniversary2021": "Congratulations on the fleet's 8th Anniversary. Admiral, congratulations. I'll celebrate too.",
-        "2@Rainy2021": "This is Japan's \"to you\", right? I've heard about it. You make dolls and hang them up, right? It's kinda occultish. Ah, I'm not doing it."
+        "2@Rainy2021": "This is Japan's \"to you\", right? I've heard about it. You make dolls and hang them up, right? It's kinda occultish. Ah, I'm not doing it.",
+        "2@Summer2021": "Japanese summers are hot too. Isn't it going to be rough when summer is in full swing even with the A/C at full power? What'll I do?"
     },
     "620": {
         "Intro": "3rd of the St. Louis-class light cruisers, USS CL-50 Helena, on standby! Admiral, let's work hard together again today, okay?",
@@ -11005,7 +11025,9 @@
         "Damaged(1)": "Uwah, that one was close!",
         "Damaged(2)": "Ow, ow, stop!",
         "Damaged(3)": "Ouch! My bow, my bow! Is... is it alright? It's still on tight? Arrgh, okay!",
-        "Sunk": "Oh my goodness... Really...? No way... I, I'm...?"
+        "Sunk": "Oh my goodness... Really...? No way... I, I'm...?",
+        "2@Summer2021": "Summer here is the same. It's hot! You know, it's time for me to put on a swimsuit suitable for Waikiki. Am I right? Hey? I can, right?",
+        "3@Summer2021": "It's here! Summer! Hey Admiral, let's take everyone to Hawaii! Hawaii! I'll show you around Waikiki! I'm practically a local. Huh? My Japanese has gotten better? S-so it did... Ahaha... haha... ha... So, what do you think of my swimsuit?"
     },
     "711": {
         "Intro": "Aloha, Admiral! I'm the great Honolulu, born in New York, raised in Hawaii, ready and raring to go! Alrighty, let's head out!",
@@ -11071,7 +11093,9 @@
         "2@WhiteDay2021": "A return gift, you say? I know it's an obligation but... I still feel a bit happy. Yeah. Thanks a lot.",
         "2@Spring2021": "Ooyodo, what are these preparations for? \"Cherry blossom viewing\"? What's that? A kind of party? ...Eh? Why don't I give it a try? Ah, alright. I think I will.",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary. Congrats. Blessings to you and the fleet.",
-        "2@Rainy2021": "So this is what you call \"Tsuyu\". I've been told about it. It's quite a peculiar season. Would you like some scotch? Yeah, that'd be good."
+        "2@Rainy2021": "So this is what you call \"Tsuyu\". I've been told about it. It's quite a peculiar season. Would you like some scotch? Yeah, that'd be good.",
+        "3@Summer2021": "I expected this but summer here is so hot compared to when I was operating in the Arctic Ocean. It sure is.",
+        "4@Summer2021": "Everyone seems to be getting into heat protective equipment. Maybe I should... No no, no way."
     },
     "705": {
         "Intro": "HMS Sheffield, ready and waiting. Admiral, I'll be in your care today too. If I'm with you, it'll be a breeze.",
@@ -17120,7 +17144,8 @@
         "Damaged(2)": "Gah! Where did that come from!?",
         "Damaged(3)": "Whoaa! Shit! They keep firing at me!",
         "Sunk": "I... I'm... sinking again... Oonami... I'm coming to see you again... once more...",
-        "2@Rainy2021": "It's hard to be motivated with all this rain. What are all of you making? Teruteru bouzu? I wanna try making one too! Admiral, teach me."
+        "2@Rainy2021": "It's hard to be motivated with all this rain. What are all of you making? Teruteru bouzu? I wanna try making one too! Admiral, teach me.",
+        "2@Summer2021": "It's reaaally hot here too. The Solomons were pretty hot but everywhere gets hot in summer. I should probably put on a swimsuit. I should."
     },
     "709": {
         "Intro": "I'm the 5th Ship of the Yuugumo-class destroyers, Makinami. Feeling fine today as well. Admiral, what's the matter? You're not feeling up to it? Don't worry about it, I'm here for you. That's right, let's face today head on.",
@@ -17263,7 +17288,9 @@
         "Damaged(2)": "I'm hit! Where from?!",
         "Damaged(3)": "Uaah! Suppress secondary explosions! Ditch the torpedoes! Hurry! As if I'll sink this time!",
         "Sunk": "This time, I managed to do quite a bit so... it's a little bit better I suppose... Fuji, Haya, stay safe. Don't come... over here... OK?",
-        "2@Rainy2021": "This season is so depressing. Ah, Haya, what're you making? A cursed doll? Oh, a teru teru bouzu? Nice."
+        "2@Rainy2021": "This season is so depressing. Ah, Haya, what're you making? A cursed doll? Oh, a teru teru bouzu? Nice.",
+        "2@Summer2021": "Yeah, summer is pretty hot here too. I don't really want to strip down but I don't think I have a choice. I mean, this is... for protection against the heat, right?",
+        "3@Summer2021": "It's supposed to be heat protection... Ehehe. I put it on. Admiral, Fuji, Haya... How do I look? ...I look good? It's nice and cool."
     },
     "710": {
         "Intro": "Pleasure to meet you! The 10th ship of the Yuugumo-class, Suzunami, feeling great! Fujinami, Hayanami. Yes, looking sharp! Good, good. Now then, Admiral, if you're headed to Rabaul, I'm coming too. Don't go without me.",
@@ -18340,7 +18367,8 @@
         "2@Valentines2021": "Ah... Did you want these too, Admiral? I just had a feeling... I needed to, got it!?",
         "2@Spring2021": "Huh? Cherry blossom viewing? I don't really feel like it. Ume, you got this. Big sis Matsu, I'll go with you on the next night battle exercise. Sorry.",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary? That's longer than I've been around. What do I think... Uhmm, well, forget about it. Congrats.",
-        "2@Rainy2021": "It's really coming down. I don't really like the rainy season. I prefer it when it's sunny. What about you, Admiral?"
+        "2@Rainy2021": "It's really coming down. I don't really like the rainy season. I prefer it when it's sunny. What about you, Admiral?",
+        "2@Summer2021": "It's gotten quite hot recently. There's quite a few ships in light clothes about too... Well, it does look nice. Maybe I should dress light too..."
     },
     "706": {
         "Intro": "Yo, you're in a good mood today. Great. D-type destroyer, 2nd ship of the Matsu-class, Take, ready to head out at any time. You need to put on a strong front, right?",
@@ -18403,7 +18431,8 @@
         "Damaged(1)": "Hya!",
         "Damaged(2)": "It hurts! Is this for real?",
         "Damaged(3)": "Hyaa! Now I'm mad! The agency isn't going to like this! Admiral, say something to them!",
-        "Sunk": "Momo, retiring, here? Here... Momo, still... Hasn't achieved anything! I don't like it, not like this..."
+        "Sunk": "Momo, retiring, here? Here... Momo, still... Hasn't achieved anything! I don't like it, not like this...",
+        "2@Summer2021": "Urgh... It's hot! Why is summer here so hot!? Huh? Big sis Take, are you allowed... to dress like that? Seriously?"
     },
     "708": {
         "Intro": "I'm Momo. The Idol of Type D Destroyers! That's right, the fourth ship of the Matsu class. Admiral, please treat me well today too!",
@@ -18811,7 +18840,8 @@
         "Sunk": "Even though I finally made it to the battle on time... Like this, I'll sink in distress again. I don't like this...",
         "2@Valentines2021": "Admiral, I'm giving this to you just this once. Just this time, alright? I expect a return gift five times better, alright? Five times, got it? Are you listening?",
         "2@Anniversary2021": "Admiral, I heard it's the 8th Anniversary. The fleet has been around for a while. Congrats.",
-        "2@Rainy2021": "Ah, it's really coming down. Must be because I bring the rain with me. Huh? Didn't you know that, Admiral? It's true."
+        "2@Rainy2021": "Ah, it's really coming down. Must be because I bring the rain with me. Huh? Didn't you know that, Admiral? It's true.",
+        "2@Summer2021": "It's gotten hot here too. I like this season because I can bare my belly and not catch a cold."
     },
     "658": {
         "Intro": "*Yawn*. Buongiorno. Maestrale-class Destroyer, the youngest sister Scirocco. I woke up properly today as well. Admiral, pleased to meet you~",

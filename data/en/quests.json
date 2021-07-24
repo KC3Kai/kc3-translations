@@ -1645,7 +1645,8 @@
         "code": "B151",
         "name": "Coalition Carrier Task Force, Sortie!",
         "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either an SK Radar OR two New Model Aviation Armament Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either an SK Radar OR two New Model Aviation Armament Materials",
+        "unlock": [ 949 ]
     },
     "924": {
         "code": "B152",
@@ -2708,7 +2709,7 @@
         "name": "Carry Out Southern Front Expeditions!",
         "desc": "Complete Expeditions 35, 36, 37, 38 and 40.",
         "memo": "\u27a3Rewards two Irakos and either six Buckets OR two Daihatsu Landing Craft OR three 12.7mm Single Machine Gun Mounts",
-        "unlock": [ 440 ]
+        "unlock": [ 440, 445 ]
     },
     "434": {
         "code": "D32",
@@ -3194,7 +3195,7 @@
         "name": "The Newly Formed Elite Naval Fighter Squadron",
         "desc": "Have a Skilled Crew Member. Equip a secretary with a >> \u2605max Type 2 Seaplane Fighter Kai in her first slot. Scrap two Type 0 Fighter Models 21 and 2 Zuiun.",
         "memo": "\u2718Consumes the items and a Skilled Crew Member. Make sure the equipment is unlocked!\n\u27a3Rewards a Type 2 Seaplane Fighter Kai (Skilled)",
-        "unlock": [ 660 ]
+        "unlock": [ 660, 1106 ]
     },
     "660": {
         "code": "F52",

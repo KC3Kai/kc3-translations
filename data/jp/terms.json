@@ -568,6 +568,8 @@
 	"CatBombAPIDataErrorMsg"   : "只今の通信にはサーバーからエラーの報告を受けました。ゲームがメンテナンスに入っていないか、APIリンクがまだ使えるかを確認して、ゲームを再起動してください。",
 	"CatBombMissingServerTimeTitle" : "サーバーの時刻を取れませんでした",
 	"CatBombMissingServerTimeMsg"   : "サーバーからの時刻情報の取得に失敗しました (多分プロキシとかのせい)。あなたのパソコンの時計がズレてない限り問題ありませんが、そうでない場合はいくつかの機能が正しく動きません。",
+	"CatBombRegionalBlockTitle" : "アクセス制限(HTTP 403)が検知されました！",
+	"CatBombRegionalBlockMsg"   : "海外IPアドレスからのGadgetアクセスが検知されました。ネット環境や接続ツールをチェックするか、この<a href=\"/pages/settings/settings.html#dmmareaerrors\" target=\"_blank\">制限対策</a>をオンにしてから、再接続してみてください。",
 	"Bomb201Title": "APIエラーコード201",
 	"Bomb201Message": "APIデータからエラーコード201の報告を受けました。たぶん他の場所でのゲームを続けているとか(例えばAndroid版)、マクロ検知の疑いがかかったせいとか。とにかく適度のゲームをお勧めします！",
 	"APIErrorNoticeTitle": "APIデータ処理エラー",

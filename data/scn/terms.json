@@ -643,6 +643,8 @@
 	"CatBombMissingServerTimeTitle" : "无法获得服务器时间",
 	"CatBombMissingServerTimeMsg"	: "与服务器（或代理）的通信出错。若电脑时钟设置不正确时，则可能出现一些软件功能问题。",
 	"DownloadErrorReport": "下载错误报告",
+	"CatBombRegionalBlockTitle" : "检测到了Gadget访问限制！",
+	"CatBombRegionalBlockMsg"   : "检测到了访问Gadget服务器时的403错误。如果你的IP地址不是来自日本，请检查你的代理或相关工具是否正常工作。也可以尝试启用该选项来<a href=\"/pages/settings/settings.html#dmmareaerrors\" target=\"_blank\">绕过Gadget访问限制</a>。",
 
 	"APIErrorNoticeTitle": "KC3改遭遇游戏数据错误",
 	"APIErrorNoticeMessage": "在尝试处理 {0} 游戏数据时遇到错误，这可能是游戏API变化导致的，一些功能可能不准确或工作异常。",

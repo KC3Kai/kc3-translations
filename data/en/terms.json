@@ -547,7 +547,7 @@
 	
 	"UnwantedExit" : "API Links expire after one use. You will need to 'Refresh API Link' again through the menu if you're going to refresh, otherwise, you will just get catbombs!",
 	"UnwantedExitDMM" : "You're leaving the page as well as your girls! However, if you're only refreshing, it'll be a healthy refresh and won't give you catbombs. API Links are irrelevant!",
-	"APIWaitToggle" : "Please load KC3Kai panel first",
+	"APIWaitToggle" : "Please load KC3\u6539 panel first",
 	"APIConcealExpl" : "Hover to show your API Link",
 	
 	"NextButtonBlockOverlay" : "Taiha predicted\u2014advance button blocked. Press F10 or click on this text to manually unblock it.",
@@ -576,6 +576,8 @@
 	"CatBombMissingServerTimeTitle" : "Unable to Retrieve Server Time",
 	"CatBombMissingServerTimeMsg"   : "There's something wrong with the communication to the server (or with your proxy). Make sure your computer's clock is correct or else problems will occur.",
 	"DownloadErrorReport": "Download the error report file",
+	"CatBombRegionalBlockTitle" : "Regional Block Detected!",
+	"CatBombRegionalBlockMsg" : "KC3\u6539 has detected that your IP is being rejected by the KanColle gadget server. Please check to make sure your bypass method is still active. Or you could turn the <a href=\"/pages/settings/settings.html#dmmareaerrors\" target=\"_blank\">Gadget Block Bypass</a> option on.",
 	
 	"APIErrorNoticeTitle": "KC3\u6539 encountered an error with game data.",
 	"APIErrorNoticeMessage": "It seems there was an error when we tried to handle the game data for {0}. The game API might have changed, so some features may be broken or inaccurate",
@@ -589,7 +591,7 @@
 	"TsunDBTestWrongMoraleTitle": "Morale requirements not met",
 	"TsunDBTestWrongMoraleMessage": "Please check the morale requirements for this test and ensure you are within the bounds before sortie.",
 	"TsunDBTestWrongSetupTitle": "Gunfit test requirements not met",
-	"TsunDBTestWrongSetupMessage": "Please ensure you have met the required ship level, equipped only test related equipment and met the accuracy requirements (if any). This test may also require you to update to the latest version of KC3Kai.",
+	"TsunDBTestWrongSetupMessage": "Please ensure you have met the required ship level, equipped only test related equipment and met the accuracy requirements (if any). This test may also require you to update to the latest version of KC3\u6539.",
 	
 	"BackupReminderTitle" : "Backup Reminder",
 	"BackupReminderMessage" : "It has been {0} days since your last backup.",

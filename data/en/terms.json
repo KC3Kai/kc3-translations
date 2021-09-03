@@ -54,6 +54,8 @@
 	"MenuGameVersion" : "Game Version",
 	
 	"GamePlayViaKC3": "Play Kantai Collection via KC3\u6539",
+	"GameStartupTitle": "How to Start",
+	"GameStartupGuide": "<ul><li>Just proceed as instructed in the 'Start the Game' if you are not playing the game for the first time.</li><li>If you are not playing the game with Japanese IP, you may need to <a href='../settings/settings.html#dmmareaerrors'>edit some settings</a> to bypass regional blocks.</li><li>If you don't have a game account yet, follow a <a href='https://en.kancollewiki.net/Tutorial:_How_to_Register' target='_blank'>tutorial</a> and finish the registration and server selection with KC3\u6539 off.</li></ul>",
 	"GameToggleFeatures": "Toggle Features",
 	"GameEditMoreSettings": "Edit more settings",
 	"GameSpecialHotkeys": "Special Hotkeys",
@@ -66,7 +68,7 @@
 	"GameCustomizeWeb": "Customize DMM Website",
 	"GameGameModes": "Game Modes",
 	"GameReadMore": "Read more",
-	"GameAltDMMInfo": "If you're here, you're already set to play via the DMM website. This is our recommended mode. Don't worry\u2014 it has subtitles, translations, and backgrounds. Just proceed as instructed in the 'Start the Game' section.",
+	"GameAltDMMInfo": "If you're here, you're already set to play via the DMM website. This is our recommended mode. Don't forget\u2014 you have to enable 'Apply Customizations' to get on-screen customizations like subtitles, translations and backgrounds.",
 	"MenuPlayDMMFName" : "Play via DMM on Frame",
 	"GameAltFrameInfo": "For HTML5 phase, it works again. For Flash phase, in some Chrome versions (55+), the DMM Frame doesn't render. It only shows a black screen, but you can hear sounds.",
 	"MenuPlayAPIName" : "Play via API Link",
@@ -393,7 +395,7 @@
 	"SettingsDMMAreaErrors" : "DMM Regional Block",
 	"SettingsDMMForceCookies" : "Force Cookie Hack",
 	"SettingsDMMRedirectGadget" : "Gadget Block Bypass",
-	"SettingsDMMRedirectGadgetTip" : "Enable this if you get a white screen with HTTP 403 error messages upon starting the game. Don't enable this if you're already behind a proxy, such as a Japanese VPN or KCCacheProxy. Disable this and enable a proxy when access non-game pages such as registeration, ranking. Otherwise, you will get HTTP 404 errors.\n\nExplanation:\nKanColle has a gadget server, which sends metadata required for connecting to the game\u2014namely, the game version and the server's address. The KanColle regional block may prevent access to this based on where you're connecting from. The Gadget Block Bypass option will reroute traffic to a public cache server in an attempt to allow the game to load without denying access.",
+	"SettingsDMMRedirectGadgetTip" : "Enable this if you get a white screen with HTTP 403 error messages upon starting the game. Don't enable this if you're already behind a proxy, such as a Japanese VPN or KCCacheProxy. Disable this and enable a proxy when access non-game pages such as registration, ranking. Otherwise, you will get HTTP 404 errors.\n\nExplanation:\nKanColle has a gadget server, which sends metadata required for connecting to the game\u2014namely, the game version and the server's address. The KanColle regional block may prevent access to this based on where you're connecting from. The Gadget Block Bypass option will reroute traffic to a public cache server in an attempt to allow the game to load without denying access.",
 	"SettingsDMMGadgetCacheUrl" : "Custom Gadget Cache URL",
 	"SettingsDMMGadgetCacheUrlTip" : "The current default public cache server for the Gadget Block Bypass option is hosted on `kcwiki.github.io`, which is regularly updated by an English KanColle wiki administrator. This option allows you to configure the Gadget Block Bypass to use an alternate public server in the interest of updating the game more efficiently or for improving connection speed. Note that you may experience additional lag when updating the game's cache following a game update.\n\nOnly input the initial part of the cache server's URL\u2014everything before the `/gadget_html5/` subdirectory. For example, if attemping to use\n\n`http://luckyjervis.com/gadget_html5/js/kcs_const.js` \n\nyou will need to enter this into the field:\n\n`http://luckyjervis.com/`",
 	

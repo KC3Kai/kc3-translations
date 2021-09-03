@@ -78,7 +78,9 @@
 	"MenuGameVersion" : "游戏主版本号",
 
 	"GamePlayViaKC3": "通过KC3改开始游戏",
-	"GameToggleFeatures": "定制特性（覆盖层／退出确认）",
+	"GameStartupTitle": "启动方法",
+	"GameStartupGuide": "<ul><li>如果不是第一次开始游戏，请依照“开始游戏”一节的步骤。</li><li>如果不是用日本IP连接游戏，可能需要<a href='../settings/settings.html#dmmareaerrors'>开启这些设置</a>才可能绕过区域限制。或者使用一种提供日本IP的代理软件。</li><li>如果连游戏账号都还没有，需要先禁用KC3改，并参考<a href='https://zh.kcwiki.cn/wiki/%E6%94%BB%E7%95%A5:%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97' target='_blank'>教程</a>先完成账号申请和初次进入游戏选择服务器。</li></ul>",
+	"GameToggleFeatures": "特性定制（游戏画面覆盖层开关等）",
 	"GameEditMoreSettings": "更多设置…",
 	"GameSpecialHotkeys": "特殊热键",
 	"GameMoreHotkeys": "查看更多热键…",

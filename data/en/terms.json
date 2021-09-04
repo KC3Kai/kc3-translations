@@ -55,7 +55,7 @@
 	
 	"GamePlayViaKC3": "Play Kantai Collection via KC3\u6539",
 	"GameStartupTitle": "How to Start",
-	"GameStartupGuide": "<ul><li>Just proceed as instructed in the 'Start the Game' if you are not playing the game for the first time.</li><li>If you are not playing the game with Japanese IP, you may need to <a href='../settings/settings.html#dmmareaerrors'>edit some settings</a> to bypass regional blocks.</li><li>If you don't have a game account yet, follow a <a href='https://en.kancollewiki.net/Tutorial:_How_to_Register' target='_blank'>tutorial</a> and finish the registration and server selection with KC3\u6539 off.</li></ul>",
+	"GameStartupGuide": "<ul><li>Just proceed as instructed in the <code>'Start the Game'</code> section if you are not playing the game for the first time.</li><li>If you are not playing the game with Japanese IP, you may need to <a href='../settings/settings.html#dmmareaerrors'>edit some settings</a> to bypass regional blocks.</li><li>If you don't have a game account yet, follow a <a href='https://en.kancollewiki.net/Tutorial:_How_to_Register' target='_blank'>tutorial</a> and finish the registration and server selection with KC3\u6539 off.</li></ul>",
 	"GameToggleFeatures": "Toggle Features",
 	"GameEditMoreSettings": "Edit more settings",
 	"GameSpecialHotkeys": "Special Hotkeys",
@@ -68,7 +68,7 @@
 	"GameCustomizeWeb": "Customize DMM Website",
 	"GameGameModes": "Game Modes",
 	"GameReadMore": "Read more",
-	"GameAltDMMInfo": "If you're here, you're already set to play via the DMM website. This is our recommended mode. Don't forget\u2014 you have to enable 'Apply Customizations' to get on-screen customizations like subtitles, translations and backgrounds.",
+	"GameAltDMMInfo": "If you're here, you're already set to play via the DMM website. This is our recommended mode. Don't forget\u2014 you have to turn on <code>'Apply Customizations'</code> first to get on-screen customizations like subtitles, translations and backgrounds.",
 	"MenuPlayDMMFName" : "Play via DMM on Frame",
 	"GameAltFrameInfo": "For HTML5 phase, it works again. For Flash phase, in some Chrome versions (55+), the DMM Frame doesn't render. It only shows a black screen, but you can hear sounds.",
 	"MenuPlayAPIName" : "Play via API Link",

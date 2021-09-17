@@ -75,6 +75,8 @@
 
 	"GamePlayViaKC3": "KC3改를 통해 함대 컬렉션 플레이",
 	"GameToggleFeatures": "기능 활성화",
+	"GameStartupTitle": "시작 방법",
+	"GameStartupGuide": "<ul><li>해외에서 접속하시는 분이라면 <a href='../settings/settings.html#dmmareaerrors'>지역제한 셋팅</a>을 해주세요.</li><li>아직 계정이 없으시다면 <a href='https://en.kancollewiki.net/Tutorial:_How_to_Register' target='_blank'>가이드</a>를 참조하세요.</li></ul>",
 	"GameEditMoreSettings": "추가 설정 편집",
 	"GameSpecialHotkeys": "특수 단축키",
 	"GameMoreHotkeys": "다른 단축키 보기",
@@ -695,7 +697,8 @@
 	"BattleLbasJetSupportTips": "기지항공대: 제트기 {0}의 공격으로 총 \n {1}대의 적기 격추, 적에 {2} 데미지, {3}대 손실 발생!",
 	"BattleLbasRescueTip" : "카탈리나 구조활동 레벨：{0}",
 	"BattleFriendlyArrived": "우군함대가 도착했습니다!",
-	"BattleFriendlyBattle": "적함대에게 준 데미지:", 
+	"BattleFriendlyBattle": "적함대에게 준 데미지:",
+	"BattleFriendlyKouku" : "{1:airBattle}에 의해 격추한 적기체 {0}, \n적함대에 준 데미지 :",
 	"BattleAntiAirCutIn": "대공컷인 발동?",
 	"BattleItemDrop": "특수 아이템 획득",
 	"BattleNightNeeded": "야전 필요?",

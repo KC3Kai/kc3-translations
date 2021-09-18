@@ -1510,7 +1510,10 @@
         "Poke(2)": "Operation Rhein\u00fcbung, is it? This brings back memories.",
         "Damaged(1)": "Ahh! This reminds me of those annoying biplanes...!"
     },
-    "178": {},
+    "178": {
+        "Friend51(1)": "Ahh! This reminds me of those annoying biplanes...!",
+        "Friend51(2)": "Hmmm, we're back here again?"
+    },
     "441": {
         "Intro": "The second ship of the Vittorio Veneto-class battleships, Littorio. I have confidence in my speed and firepower. Nice to meet ya~",
         "Library": "I was born in the country of Pasta. Second ship of the Vittorio Veneto class battleship, Littorio. Armed with high speed armaments and a state-of-the-art fast battleship. I have my sister, Roma, with me. It's a pleasure to meet you.",
@@ -2417,6 +2420,7 @@
         "Join": "Battleship Richelieu, heading out! Ready? Venez avec moi!",
         "Yasen(2)": "Feu! Feu!",
         "Friend42(1)": "I'm Richelieu. I've come. I'll back you up. Now, open fire!",
+        "Friend51(1)": "I'll show you the power of the battleship Richelieu. We'll crush them!",
         "H0000": "12 a.m. Today it will be me... ...Isn't that so?",
         "H0100": "1 a.m. Bonsoir, Amiral.",
         "H0200": "2 a.m. Would you like some vin rouge? Oh?",
@@ -2684,7 +2688,8 @@
         "Return": "The fleet has safely returned to port. We did it\u266a",
         "Sortie": "The aircraft are ready to go. Alright... Second Carrier Division, sortieing! I'm expecting great results!",
         "Battle": "Here we go! CarDiv 2 Bomber Squadron, begin takeoff!",
-        "MVP": "The glory of the Second Carrier Division of the First Task Fleet will not waver!"
+        "MVP": "The glory of the Second Carrier Division of the First Task Fleet will not waver!",
+        "Friend51(1)": "CarDiv 2, Souryuu, heading out!"
     },
     "91": {
         "Intro": "Aircraft carrier Hiryuu here. Leave the carrier battles to me. I can fight on against any and all adversity.",
@@ -2869,7 +2874,9 @@
     "466": {
         "Poke(1)": "A newly remodeled flight deck and aviation equipment\u2014 this is a new era for flight rigging. I'll do my best!",
         "Equip(3)": "Oh? What could this be?",
-        "Yasen(1)": "Oh? Is it another squall? Zuikaku, want to change course a bit?"
+        "Yasen(1)": "Oh? Is it another squall? Zuikaku, want to change course a bit?",
+        "Friend51(1)": "Ready, Zuikaku? Don't fall behind!",
+        "Friend51(2)": "Shoukaku Air Wing, take off!"
     },
     "111": {
         "Intro": "Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it\u2014 I just fight with all my might... see? As long as I still have planes, I won't lose!",
@@ -2980,7 +2987,9 @@
     "467": {
         "Equip(2)": "A new model of plane... hmm... sounds good to me. It's definitely compatible with my current rigging.",
         "Attack": "Now, let's get started. This time we'll really strike from outside their range. All bomber squadrons, take off!",
-        "Damaged(3)": "Come on! That hit came out of nowhere! Suppress secondary explosions! Is the deck intact? Then I can still fight!"
+        "Damaged(3)": "Come on! That hit came out of nowhere! Suppress secondary explosions! Is the deck intact? Then I can still fight!",
+        "Friend51(1)": "",
+        "Friend51(2)": "Now, let's get started. This time we'll really strike from outside their range. All bomber squadrons, take off!"
     },
     "153": {
         "Intro": "Yes... I am Taihou. Thank you for your reception. Admiral... I shall bring victory to you and your task force!",
@@ -3453,6 +3462,8 @@
         "Equip(2)": "While the Focke-Wulf has a fine airframe, this is also... danke.",
         "Yasen(3)": "Haha...! A night battle, is it?",
         "MVP": "Deploying the Graf Zeppelin to a real battle... Was this not the natural result, Admiral?",
+        "Friend51(1)": "We've spotted the enemy, have we? Wonderful. Bomber Squadron, depart at once! Break their formation!",
+        "Friend51(2)": "Launch all capable planes! Hahaha! How thrilling.",
         "H0000": "Guten Abend. Admiral, I will be serving as your secretary ship for today. Entrust this duty to me. ...Right.",
         "H0100": "01...0-0. This will do, yes? Leave it in my hands. There will be no issues.",
         "H0200": "02...0-0. Hmm... flawless. Admiral. Admiral? Are there any further tasks for me? As your secretary ship, expect nothing but the best.",
@@ -4560,7 +4571,8 @@
         "H1700": "It's 1700. Look at the sunset! Hey, I love it."
     },
     "560": {
-        "Friend48(1)": "Here I go. Zuihou squadrons, go get them! Goooo!"
+        "Friend48(1)": "Here I go. Zuihou squadrons, go get them! Goooo!",
+        "Friend51(1)": ""
     },
     "102": {
         "Intro": "I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!",
@@ -4937,7 +4949,8 @@
     },
     "888": {
         "Poke(3)": "Geez! I'm not a transport, nor an anti-air cannon stand! I'm a carrier, a carrier you know!",
-        "Idle": "Isn't this wonderful? Admiral, this wine is the same colour as my clothes. Ad~ mi~ ra~ l~, I'm a bit tipsy now~."
+        "Idle": "Isn't this wonderful? Admiral, this wine is the same colour as my clothes. Ad~ mi~ ra~ l~, I'm a bit tipsy now~.",
+        "Friend51(1)": "Ryuuhou Attack Squadron, take off! I'm counting on you."
     },
     "634": {
         "Intro": "My name is Jingei, and I am the 1st of the Jingei-class submarine tenders. Admiral, I'm glad to be able to meet you. Let's do our best together.",
@@ -5297,6 +5310,7 @@
         "Poke(1)": "GL... No wait, are you calling for me?",
         "Poke(3)": "Admiral, you look interested in my stern floodable well deck. Would you like to inspect it? Here, look. I can launch multiple daihatsu at... Ah, Admiral? That's not my stern, that's my side hatch.",
         "Equip(2)": "No, that's not a room for horses. That's my hangar.",
+        "Friend51(1)": "Transport convoy, Shinshuu-maru, is here! Landing force, launch. Forwards!",
         "H0000": "Today this humble ship will be your secretary ship. The time is now 0000.",
         "H0100": "The time is now 0100. All's well in the Admiral's room.",
         "H0200": "The time is now 0200. All's well in the corridor outside the Admiral's room too.",
@@ -5389,6 +5403,8 @@
         "Sortie": "Hayasui's Fleet Flaghip, Set sail! Ehehe... I always wanted to say that.",
         "Attack": "Hayasui Air Group, sequential takeoff! Get them!",
         "Yasen(2)": "Is the flight deck okay? Air Group, take off!",
+        "Friend51(1)": "Is the flight deck okay? Air Group, take off!",
+        "Friend51(2)": "Hayasui Air Group, sequential takeoff! Get them!",
         "H0000": "Admiral, the date has changed. Hayasui will be alerting you on the time. Yes! Leave it to me.",
         "H0100": "Admiral, it is 0100. Yes. Hayasui is still fine. Look!",
         "H0200": "Admiral, it is 0200. No, I'm not feeling sleepy! Yes!",
@@ -5601,6 +5617,7 @@
             "0": "Please leave use of the flying boats to me as well!",
             "2780,4820": "I'll try to do my best!"
         },
+        "Friend51(1)": "Let's attack. Please begin!",
         "H1400": "140- ...Ah, Mikura-san! It's good to see you! You're right, we definitely need to go together again. Sure!"
     },
     "699": {
@@ -5632,6 +5649,7 @@
         "Damaged(2)": "Th-that's hot! That was really close.",
         "Damaged(3)": "Aaah!! I won't sink! I need to see peacetime...",
         "Sunk": "No... This can't be... I'm... sinking... No way...",
+        "Friend51(1)": "\"The ship that makes the impossible possible\"? No, all I did was do the best I could.",
         "2@Rainy2021": "The rainy season. I love Japan's seasons... Huh? Yeah, that's right. It rarely rained at Shouwa Station.",
         "3@Rainy2021": "Yes, as expected, it does rain here. Admiral, you'll get wet. Come here.",
         "2@Summer2021": "It's getting.... quite hot. The summer sun in Odaiba was harsh too. I think I should probably change into summer clothes.",
@@ -6208,6 +6226,7 @@
         "Friend42(1)": "I'll support you even though I'm not that capable. Feu!",
         "Friend42(2)": "Merci. Even I have managed to make it to the battlefield. Begin the attack.",
         "Friend45(1)": "Yes, I understand. Please leave this operation to me.",
+        "Friend51(1)": "Merci. Even I have managed to make it to the battlefield. Begin the attack.",
         "H0000": "It is now midnight. For today, I have been given the responsibility of putting the directives into practice.",
         "H0100": "It is now 1 a.m. This truly is a time when one should already be in bed.",
         "H0200": "It is now 2 a.m. I would recommend taking at least a short rest. Otherwise, tomorrow will be difficult.",
@@ -8661,6 +8680,7 @@
         "Battle": "Commence shelling! ...Feuuuer!",
         "Damaged(2)": "I won't sink from something like this...! Return fire!",
         "Friend49(1)": "Prinz Eugen has arrived on the battlefield. I'll now support the allied fleet. Fire!",
+        "Friend51(1)": "Feuer!",
         "H0000": "Woah!? It's exactly midnight! For today, it'll be my duty to notify you of the time. Alright, I've got it! Leave it to me!",
         "H0100": "It's now 1 a.m.! Was that okay, you think? Ah, I see! Thank goodness!",
         "H0200": "It's 2 a.m. In this country, you say... ushi-mitsu-doki-tte-iu-no? Ahh, that sounds a little funny to me.",
@@ -8877,6 +8897,7 @@
         "Poke(1)": "Yeah, no problem here! Let's go!",
         "Poke(2)": "M-Makinami!? Oh, Naganami, right? I've gotten used to things here, yes. Thanks.",
         "Poke(3)": "Teitoku, I think I've got a good understanding of the Japanese destroyers now. They always seem so occupied, but they're actually really kind. I'm glad I was able to meet both you and the girls while in this form. Thanks, Teitoku.",
+        "Friend51(1)": "USS Northampton, acknowledging. Open fire!",
         "H0000": "Midnight. Teitoku, I, Northampton, will be your secretary for today. Please let me know if you need anything.",
         "H0100": "It's 1 o'clock now. Admiral, please leave all the foreign ships' documents here. I'll make sure they're properly taken care of. Leave it to me.",
         "H0200": "2 o'clock now. South Dakota never changes, does she? I'll have to set her straight later. Sheesh...",
@@ -9156,7 +9177,8 @@
     },
     "657": {
         "Equip(2)": "This is reassuring, kuma!",
-        "Yasen(2)": "Kuma kuma!"
+        "Yasen(2)": "Kuma kuma!",
+        "Friend51(1)": "I'm here, kuma. There's nothing to worry about now, kuma."
     },
     "100": {
         "Intro": "Light cruiser, Tama. I'm not a cat, nya.",
@@ -10661,6 +10683,7 @@
         "Attack": "All batteries: ready, aim... Fiiire!",
         "Yasen(2)": "That's right... this is the true power of the Ooyodo-class!",
         "Friend50(1)": "Good day, thanks for your hard work. Are you feeling well?",
+        "Friend51(1)": "Enemy fleet spotted. Ready the cannons, if you would, please!",
         "H0000": "Admiral, the date has changed. We'll be counting on you today as well.",
         "H0100": "Admiral, the present time is 0100. Please leave the responsibility of announcing the time to me.",
         "H0200": "Admiral, it's 0200. Oh? Admiral, are you tired, perhaps?",
@@ -10896,6 +10919,7 @@
         "Equip(1)": "Ooh, this is nice, thanks!",
         "Equip(2)": "Thanks! I'd like my sister to get a matching one.",
         "Friend45(1)": "Ah, not bad. Let's do this!",
+        "Friend51(1)": "",
         "H0000": "00... What was the rest... So this is what I'm supposed to do here? I can do that easily.",
         "H0100": "Ah, you know... it's that time... 00... Mmm, no... 0100... Hey, Admiral? I got it, right?",
         "H0200": "0200. Alright, I knew I could do it. I got this!",
@@ -11302,6 +11326,8 @@
         "Equip(1)": "I like your choice.",
         "Equip(2)": "I see, I think it'll work.",
         "Friend49(1)": "HMS Sheffield has arrived on the battlefield. I'll now support the allied forces. Charge.",
+        "Friend51(1)": "HMS Sheffield has arrived on the battlefield. I'll now support the allied forces. Charge.",
+        "Friend51(2)": "HMS Sheffield, acknowledging.",
         "H0000": "So I'm the secretary ship for today. Leave it to me. It just struck midnight.",
         "H0100": "1 o'clock. The night is long.",
         "H0200": "2 o'clock. I'll make some tea.",
@@ -13611,6 +13637,7 @@
         "Sortie": "I'm called reliable for a reason. Moving out.",
         "Yasen(2)": "\u0445\u043e\u0440\u043e\u0448\u043e.",
         "Sunk": "My true name is Hibiki... \u0414\u043e \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u044f... farewell...",
+        "Friend51(1)": "Full speed ahead... Hurrah!",
         "H0000": "\u043f\u043e\u043b\u043d\u043e\u0447\u044c. ...Pardon me. 0000.",
         "H0100": "0100. It's getting late, isn't it?",
         "H0200": "0200. The calm seas... I don't mind them.",
@@ -14046,6 +14073,7 @@
         "Yasen(2)": "Over there, don't underestimate them! Fire!",
         "Friend48(1)": "Ariake, acknowleging. Let them have it!",
         "Friend48(2)": "DesDiv27 has arrived on the battlefield. We'll now begin the attack! Follow meee! Let's goooo!",
+        "Friend51(1)": "DesDiv27 has arrived on the battlefield. We'll now begin the attack! Follow meee! Let's goooo!",
         "H0000": "It's after midnight? Ah, I'm on duty today. Admiral, glad to work with you! Well, just leave it all to me!",
         "H0100": "01 00. Hm? What should I do?",
         "H0200": "02 00. Eh, I should be finishing up the rest of the paperwork? Uh... I'm bad with these kinda things...",

@@ -54,7 +54,9 @@
     "MenuGameVersion" : "遊戲版本",
 
     "GamePlayViaKC3": "開始艦隊收藏－第二期－",
-    "GameToggleFeatures": "重要設定",
+	"GameStartupTitle": "如何開始",
+	"GameStartupGuide": "<ul><li>如果你不是第一次進入遊戲，請按 <code>'開始遊戲'</code> 部分的指示繼續。</li><li>如果你沒有使用日本IP登入遊戲，你有可能需要到<a href='../settings/settings.html#dmmareaerrors'>更改部分設定</a>來繞過區域限制</li><li>如果你沒有遊戲戶口，請在KC3\u6539關閉 的前提下根據(英文) <a href='https://en.kancollewiki.net/Tutorial:_How_to_Register' target='_blank'>教程</a>完成註冊及伺服器選擇</li></ul>",
+    "GameToggleFeatures": "開關設定",
     "GameEditMoreSettings": "更多設定",
     "GameSpecialHotkeys": "特殊熱鍵",
     "GameMoreHotkeys": "查看更多熱鍵",
@@ -574,6 +576,8 @@
     "CatBombMissingServerTimeTitle" : "無法擷取伺服器時間",
     "CatBombMissingServerTimeMsg"     : "與伺服器通訊錯誤。當電腦時中設定不正確時有可能出現部分功能問題。",
 	"DownloadErrorReport": "下載錯誤報告檔案",
+	"CatBombRegionalBlockTitle" : "偵測到區域IP限制",
+	"CatBombRegionalBlockMsg" : "KC3\u6539 偵測到你的IP被艦隊收藏伺服器拒絕連線。 請確保你正在使用的繞過區域IP限制方法，你也可以選擇打開KC3的<a href=\"/pages/settings/settings.html#dmmareaerrors\" target=\"_blank\">Gadget Block Bypass</a> 選項，但請不要同時使用多種方法。",
 
     "APIErrorNoticeTitle": "KC3改偵測到遊戲數據錯誤",
     "APIErrorNoticeMessage": "在嘗試處理 {0} 遊戲數據時發生錯誤，可能是因遊戲API變更所導致，部分功能可能無法正確顯示與運作。",
@@ -639,6 +643,7 @@
 	"BattleLbasRescueTip" : "飛行艇「卡特琳娜」救援等級: {0}",
     "BattleFriendlyArrived" : "友軍艦隊到達了！",
     "BattleFriendlyBattle" : "造成傷害：",
+	"BattleFriendlyKouku" : "{1:airBattle} 中擊落敵機 {0} 架\n造成傷害：",
     "BattleAntiAirCutIn" : "觸發對空Cut-in？",
     "BattleItemDrop"         : "掉落特殊物品",
     "BattleNightNeeded"    : "需要夜戰？",
@@ -670,7 +675,7 @@
     "BattleKindNightToDay" : "夜轉晝戰",
 	"BattleKindLongRangeRaid" : "深海雷達指引砲擊突襲",
     "BattlePreviousEncounters" : "遇過的艦隊",
-	"BattleUnexpectedDamageTip" : "{0:attackerName} 對 {2:id}：{1:defenderName} 造成了 {3} 點傷害，而預估傷害為 {4}~{5} 點",
+	"BattleUnexpectedDamageTip" : "{0:attackerName} 攻擊 {2:id}：{1:defenderName}，預估傷害：{4}~{5}，實際傷害：{3}",
 
     "ShipHp"            : "血量",
     "ShipFire"        : "火力",

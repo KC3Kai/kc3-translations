@@ -1593,7 +1593,7 @@
     "913": {
         "code": "B143",
         "name": "5th Carrier Division, Roaming Far and Wide!",
-        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to two additional ships to [W3-5], [W5-2], [W7-2M] and [W6-5]. S-Rank the boss nodes.",
+        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to two additional ships to [W3-5], [W5-2], [W7-2-M] and [W6-5]. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Underway Replenishments OR six Buckets OR two 25mm Triple Autocannon Mounts\n\u00B6Second choice: Either a Prototype Toukai OR a Prototype Keiun (Carrier-based Reconnaissance Model)"
     },
     "916": {
@@ -1645,7 +1645,7 @@
     "923": {
         "code": "B151",
         "name": "Coalition Carrier Task Force, Sortie!",
-        "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2M]. S-Rank each boss node.",
+        "desc": "Sortie an American or British CV(L/B) and up to 5 additional ships to [W3-4], [W4-3], [W5-2] and [W7-2-M]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR five Development Materials\n\u00B6Second choice: Either an SK Radar OR two New Model Aviation Armament Materials",
         "unlock": [ 949 ]
     },
@@ -1787,7 +1787,7 @@
     "958": {
         "code": "B173",
         "name": "Remodeled Shiratsuyu-class Destroyer Yamakaze Kai Ni, Fight Hard!",
-        "desc": "Sortie two of Yamakaze Kai Ni (D), Kawakaze Kai Ni and Umikaze Kai Ni and up to 4 additional ships to [W2-2], [W7-2M], [W5-1] and [W6-4]. S-Rank all relevant boss nodes.",
+        "desc": "Sortie two of Yamakaze Kai Ni (D), Kawakaze Kai Ni and Umikaze Kai Ni and up to 4 additional ships to [W2-2], [W7-2-M], [W5-1] and [W6-4]. S-Rank all relevant boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Screws OR three Daihatsu Landing Crafts OR two New Model Armament Materials\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
         "unlock": [ 1108 ]
     },
@@ -2262,7 +2262,7 @@
         "unlock": [ 330, 636 ]
     },
     "313": {
-        "code": "C47",
+        "code": "C61",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box",
@@ -2815,7 +2815,8 @@
         "code": "D43",
         "name": "Strengthening the escort for maritime transport",
         "desc": "Complete Expeditions 4, 5, 9, A1 and B1.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 93 Passive Sonars OR two Type 94 Depth Charge Projectors OR six Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR three Screws OR a Furniture Fairy"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 93 Passive Sonars OR two Type 94 Depth Charge Projectors OR six Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR three Screws OR a Furniture Fairy",
+        "unlock": [ 1108 ]
     },
 
 
@@ -3554,7 +3555,7 @@
         "code": "F102",
         "name": "Annual Land Base Strengthening - September",
         "desc": "Have 24000 Steel and 10 Development Materials. Scrap 2 Fighters and 2 Torpedo Bombers.",
-        "memo": "This quest resets on the first quest reset of June.\n\u203b[Steel Export] Strengthening the Land Base's Air Power\n\u27a3Rewards:\n\u00B6First choice: Either two Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft OR a New Model Aviation Armament Material\n\u00B6Second choice: Either three Screws OR a New Model Armament Material",
+        "memo": "This quest resets on the first quest reset of September.\n\u203b[Steel Export] Strengthening the Land Base's Air Power\n\u27a3Rewards:\n\u00B6First choice: Either two Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft OR a New Model Aviation Armament Material\n\u00B6Second choice: Either three Screws OR a New Model Armament Material",
         "tracking": [ [0,2], [0,2] ],
         "trackingDesc": [ "{0} Fighters", "{0} Torpedo Bombers" ]
     },
@@ -3869,7 +3870,7 @@
     "909_W20B4": {
         "code": "W20B4",
         "name": "Weekly Peach Festival Mission: Mainstay of Mainstays, Heading Out!",
-        "desc": "Sortie 3 Yuugumo-class DD and up to 3-9 additional ships to [W2-2], [W2-3], [W3-5], [W7-2M] and node I of the event map. S-Rank the boss nodes.",
+        "desc": "Sortie 3 Yuugumo-class DD and up to 3-9 additional ships to [W2-2], [W2-3], [W3-5], [W7-2-M] and node I of the event map. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards three Hishimochi and either DE Etorofu, DE Matsuwa, DE Sado, DE Tsushima OR DE Fukae",
         "unlock": [ 712 ],
         "hash": -890864113
@@ -3953,7 +3954,7 @@
     "883": {
         "code": "7thAnvLB2",
         "name": "7th Anniversary Mission: Final Operation",
-        "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2M]. S-Rank the boss nodes.",
+        "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2-M]. S-Rank the boss nodes.",
         "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report",
         "unlock": [ 910 ],
         "hash": -1745307461

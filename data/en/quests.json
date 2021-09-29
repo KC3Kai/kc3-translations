@@ -1777,6 +1777,20 @@
         "desc": "Sortie Gambier Bay Mk. II as Fleet 1 flagship, at least 1 Fletcher-class DD and up to 4 additional ships to [W2-4] and [W3-5] and S-Rank the boss nodes twice. Sortie to [W6-4] and A-rank+ the boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two TBF\u2605+4 OR seven Screws OR an Action Report\n\u00B6Second choice: Either a FR-1 Fireball OR 800 Ranking Points"
     },
+    "957": {
+        "code": "B172",
+        "name": "Yamakaze Kai Ni, Weigh Anchor!",
+        "desc": "Sortie Yamakaze Kai Ni (D), 3DD or DE and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards a Type 3 Active Sonar Kai and either eight Development Materials OR six Buckets OR a Reinforcement Expansion",
+        "unlock": [ 958 ]
+    },
+    "958": {
+        "code": "B173",
+        "name": "Remodeled Shiratsuyu-class Destroyer Yamakaze Kai Ni, Fight Hard!",
+        "desc": "Sortie two of Yamakaze Kai Ni (D), Kawakaze Kai Ni and Umikaze Kai Ni and up to 4 additional ships to [W2-2], [W7-2M], [W5-1] and [W6-4]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Screws OR three Daihatsu Landing Crafts OR two New Model Armament Materials\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
+        "unlock": [ 1108 ]
+    },
 
 
 
@@ -2797,6 +2811,12 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Type 93 Passive Sonar OR six Development Materials\n\u00B6Second choice: Either three Type 94 Depth Charge Projector OR four Screws OR a Mamiya",
         "unlock": [ 952 ]
     },
+    "447": {
+        "code": "D43",
+        "name": "Strengthening the escort for maritime transport",
+        "desc": "Complete Expeditions 4, 5, 9, A1 and B1.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 93 Passive Sonars OR two Type 94 Depth Charge Projectors OR six Development Materials\n\u00B6Second choice: Either two Type 3 Active Sonars OR three Screws OR a Furniture Fairy"
+    },
 
 
 
@@ -3529,6 +3549,20 @@
         "name": "Frontline utilization of elite three-seated seaplane recon aircraft",
         "desc": "Have 1300 Fuel, 1700 Baux, an Action Report, an Aerial Arm. Material and 2 Sk. Crew Members. Set Yura Kai Ni as secretary with a \u2605max Type 0 Reconnaissance Seaplane Model 11B in her 1st slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun.",
         "memo": "\u2718Consumes the resources and items.\n\u27a3Rewards a Type 0 Reconnaissance Seaplane Model 11B (Skilled)"
+    },
+    "1107": {
+        "code": "F102",
+        "name": "Annual Land Base Strengthening - September",
+        "desc": "Have 24000 Steel and 10 Development Materials. Scrap 2 Fighters and 2 Torpedo Bombers.",
+        "memo": "This quest resets on the first quest reset of June.\n\u203b[Steel Export] Strengthening the Land Base's Air Power\n\u27a3Rewards:\n\u00B6First choice: Either two Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft OR a New Model Aviation Armament Material\n\u00B6Second choice: Either three Screws OR a New Model Armament Material",
+        "tracking": [ [0,2], [0,2] ],
+        "trackingDesc": [ "{0} Fighters", "{0} Torpedo Bombers" ]
+    },
+    "1108": {
+        "code": "F103",
+        "name": "Increased production of the newly adjusted and improved Active Sonar",
+        "desc": "Have 1300 Baux, 30 Dev. Material. and two New Model Arm. Material. Set either Yamakaze Kai Ni (D) or Shigure Kai Ni as secretary with a \u2605max Type 3 Active Sonar in the first slot. Scrap 2 Type 93 Passive Sonars and 2 Type 3 Active Sonars.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Type 3 Active Sonar Kai"
     },
 
 

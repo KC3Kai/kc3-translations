@@ -1712,7 +1712,10 @@
         "Damaged(1)": "Argh!",
         "Damaged(2)": "Wha wha wha!",
         "Damaged(3)": "Tch... You youngins... better not underestimate me!",
-        "Sunk": "Oh no... No no no... I'm not running aground... How deep will I sink... Now... So this is what it's like to sink... I don't... believe this..."
+        "Sunk": "Oh no... No no no... I'm not running aground... How deep will I sink... Now... So this is what it's like to sink... I don't... believe this...",
+        "2@Fall2021": "Wow, that looks fun. Can I go to the Naval Base Autumn Festival too?",
+        "3@Fall2021": "The food at the stalls look so good. Can I... try some?",
+        "4@Fall2021": "Uhmm... A kimono? Ah, I see. It's a yukata. Sounds good. Well... how do I look?"
     },
     "878": {
         "Intro": "Buongiorno! I'm Conte di Cavour. Admiral? Yup, that's fine. Happy to work with you today too.",
@@ -2183,7 +2186,8 @@
         "3@Anniversary2019": "The 6th Anniversary? Isn't that amazing? Congratulations. Accept my blessings.",
         "2@Rainy2019": "Ahaam, so this is the fabled \"tsooyu\" of this region? Well... it's fine, isn't it? Listening to the rain while drinking... Nothing bad about that.",
         "3@Anniversary2020": "Hmmm, it's the 7th Anniversary? That's great. Congratulations! I've known you for quite a while now. Haha, ah, no. It's not bad!",
-        "2@Anniversary2021": "It's the 8th Anniversary? A massive congratulations! I know, let me give you a blessing. Come closer... No! It's just going to be on your cheek!"
+        "2@Anniversary2021": "It's the 8th Anniversary? A massive congratulations! I know, let me give you a blessing. Come closer... No! It's just going to be on your cheek!",
+        "2@Fall2021": "Ah, Rodney? She likes these kinds of festivals too. It'd be nice if the three of us could have a drink together one day."
     },
     "576": {
         "Intro": "I'm Nelson. You're looking well today. That's the best. Heh, show me how you command today as well. I'm counting on you, my Admiral.",
@@ -3989,7 +3993,9 @@
         "Damaged(1)": "Aaaaah!",
         "Damaged(2)": "How's the deck!? It's fine, right?",
         "Damaged(3)": "This isn't enough... to sink the likes of me! Don't... look down on me!",
-        "Sunk": "What's... happening? ...I'm sinking? ...Me? ...It can't be... No... I won't let it end... like... this...!"
+        "Sunk": "What's... happening? ...I'm sinking? ...Me? ...It can't be... No... I won't let it end... like... this...!",
+        "2@Fall2021": "Something smells very nice. It's a little bit oriental... It's the smell of burnt soy sauce? The Naval Base Autumn Festival? Ah, I'll come!",
+        "4@Fall2021": "So this is a yukata. It's not bad. It makes me feel like a Japanese princess. Huh? I've got the wrong idea? Let me have my moment!"
     },
     "713": {
         "Intro": "Royal Navy aircraft carrier, HMS Victorious. Admiral, good morning. Let's head out to sea together today as well!",
@@ -5061,7 +5067,8 @@
         "Damaged(1)": "Oh no!",
         "Damaged(2)": "Aaah! Seriously!?",
         "Damaged(3)": "Oh no! Jeez! Back up, back up! Fall back!",
-        "Sunk": "Huh? ...Oh no... No way... I'm sinking? ...It can't be... No one... No one told me it could happen..."
+        "Sunk": "Huh? ...Oh no... No way... I'm sinking? ...It can't be... No one... No one told me it could happen...",
+        "2@Fall2021": "Yeah, that smells nice. It's irresistible. What do you want to have next from the Naval Base Autumn Festival stalls, Admiral? Umm, I'll have... *omnomnomnom*"
     },
     "640": {
         "Intro": "Admiral, 2nd ship of the Jingei-class submarine tenders, Chougei, reporting in. You're taking very good care of my elder sister today too. Yes! You can totally leave the submarines to me.",
@@ -5653,7 +5660,8 @@
         "2@Rainy2021": "The rainy season. I love Japan's seasons... Huh? Yeah, that's right. It rarely rained at Shouwa Station.",
         "3@Rainy2021": "Yes, as expected, it does rain here. Admiral, you'll get wet. Come here.",
         "2@Summer2021": "It's getting.... quite hot. The summer sun in Odaiba was harsh too. I think I should probably change into summer clothes.",
-        "3@Summer2021": "I tried on some summer clothes. How do I look? Outside of the northern and polar regions, I think it'd be nice to be dressed like this. It's cooling."
+        "3@Summer2021": "I tried on some summer clothes. How do I look? Outside of the northern and polar regions, I think it'd be nice to be dressed like this. It's cooling.",
+        "2@Fall2021": "*sniff sniff sniff sniff sniff* It smells good. It's an autumn festival? Nice. Everything looks so good. Each stall has its own exciting characteristic, don't you think?"
     },
     "645": {
         "Intro": "I'm the lighthouse tender, Souya. I can't carry any weapons, but... I can carry lots of other things. I'll keep doing my best today too!",
@@ -6844,7 +6852,8 @@
         "Damaged(3)": "I've taken damage. Main tank blow. Emergency ascent.",
         "Sunk": "Ah, I'm done for... I'm... going to be crushed... Aaah... Good... bye...",
         "2@Rainy2021": "Rain... won't bother me once I'm underwater. *nod*",
-        "2@Summer2021": "Yona, is that summer equipment... allowed?"
+        "2@Summer2021": "Yona, is that summer equipment... allowed?",
+        "2@Fall2021": "What's that? Something smells very good. An autumn festival? Wow."
     },
     "887": {
         "Intro": "Admiral, I'm probably the fastest under the sea. I'm the improved Sentaka-class, I-203... I'm ready to sortie at any time... Dangerous? Right now it's... Yeah, only to enemies. I've been completely overhauled, so just watch me.",
@@ -8890,7 +8899,10 @@
         "Damaged(3)": "Ungh, what was that, a torpedo? Am I sinking? As if, as if I'll sink this time!",
         "Sunk": "In the end, I'm... sinking again... I... don't... want to...",
         "2@Rainy2021": "So this is Japan's \"tsuyu\". So Japan has four seasons too. I think that's wonderful. I'd like to try making some teruteru bouzu too. Destroyers, will you teach me? Eheh, thanks.",
-        "2@Summer2021": "Admiral, summer here gets quite hot too, doesn't it? I'm worried about the lack of armor on the summer equipment Houston and the others wear, but I'll think about it."
+        "2@Summer2021": "Admiral, summer here gets quite hot too, doesn't it? I'm worried about the lack of armor on the summer equipment Houston and the others wear, but I'll think about it.",
+        "2@Fall2021": "It's autumn. There's an ethnic smell wafting around this base. This is... ah.",
+        "3@Fall2021": "Admiral, is this the \"Naval Base Autumn Festival\"? Is this that thing? It's great.",
+        "4@Fall2021": "Admiral, I started to get along with the Japanese destroyers and they asked me to put on this kimono... I mean, yukata. How do I look?"
     },
     "660": {
         "Intro": "Hi! How are you? First of the Northampton-class, Northampton, here. Admiral, shall we?",
@@ -9659,7 +9671,9 @@
         "2@Hina2020": "Isn't the Peach Festival great? Isn't it? ...Admiral, I was thinking of making some hishimochi. Will you try some?",
         "2@Anniversary2020": "Admiral, it's the 7th Anniversary. Please keep watching over me and the rest of the fleet in our 8th year too. Alright? ...Mmm, ahem, no one is watching us... right?",
         "3@Anniversary2020": "Yes, I'll be here in the room with you, Admiral.",
-        "4@Valentines2021": "It's done. Hey, Admiral? Huh? Who's that? A light cruiser? Wh-who is she?"
+        "4@Valentines2021": "It's done. Hey, Admiral? Huh? Who's that? A light cruiser? Wh-who is she?",
+        "3@Summer2021_2": "I'm a little sweaty now. Would you like some Yura Mandarin Sour? Alright, here.",
+        "4@Fall2021": "It's autumn. For some reason, I feel a bit lonely during autumn."
     },
     "220": {
         "Idle": "Admiral-san... um, I... ah... Admiral-san, you look so busy... I know, while you're busy, I'll take your personal belongings and wash them for you. Well... this is washed... and this is washed... ...This is... ...mh...! This one, too! I've washed them for you, okay? Hey...",
@@ -9702,7 +9716,6 @@
         "4@Valentines2021": "It's done. Hey, Admiral? Huh? Who's that? A light cruiser? Wh-who is she? ...Ah, Admiral, hey? Hey?",
         "1@Summer2021_2": "I'm the light cruiser, Yura. Admiral, it's hot today, isn't it? Have some fun in the water? Yes, I have new equipment this summer. Don't underestimate me.",
         "2@Summer2021_2": "Admiral, it's really hot now, isn't it? Right? Yuubari... looks like she's keeping really cool. *Siiigh*",
-        "3@Summer2021_2": "I'm a little sweaty now. Would you like some Yura Mandarin Sour? Alright, here.",
         "4@Summer2021_2": "Admiral, did you want to see me in a swimsuit that badly? Nope, if I'm too easy then... Huh? Whaaaat?",
         "11@Summer2021_2": "Yes, I'll be here in the room with you, Admiral.",
         "19@Summer2021_2": "Noooo! Oh dear.",
@@ -11250,7 +11263,10 @@
         "Damaged(3)": "Ouch! My bow, my bow! Is... is it alright? It's still on tight? Arrgh, okay!",
         "Sunk": "Oh my goodness... Really...? No way... I, I'm...?",
         "2@Summer2021": "Summer here is the same. It's hot! You know, it's time for me to put on a swimsuit suitable for Waikiki. Am I right? Hey? I can, right?",
-        "3@Summer2021": "It's here! Summer! Hey Admiral, let's take everyone to Hawaii! Hawaii! I'll show you around Waikiki! I'm practically a local. Huh? My Japanese has gotten better? S-so it did... Ahaha... haha... ha... So, what do you think of my swimsuit?"
+        "3@Summer2021": "It's here! Summer! Hey Admiral, let's take everyone to Hawaii! Hawaii! I'll show you around Waikiki! I'm practically a local. Huh? My Japanese has gotten better? S-so it did... Ahaha... haha... ha... So, what do you think of my swimsuit?",
+        "2@Fall2021": "Whooo. It's autumn. So this is the Naval Base Autumn Festival Jintsuu told me about. It's nice.",
+        "3@Fall2021": "Nice, very nice. I like the atmosphere here. It'd be nice if we had this in Hawaii. Don't you think?",
+        "4@Fall2021": "Wh... what do you think, Admiral? Jintsuu taught me about this. This yukata. Do I look good in it? Jintsuu looks good in hers... Huh? Really? Yes! Hooray!"
     },
     "711": {
         "Intro": "Aloha, Admiral! I'm the great Honolulu, born in New York, raised in Hawaii, ready and raring to go! Alrighty, let's head out!",
@@ -15980,7 +15996,8 @@
         "2@Summer2019": "This is great! Commander, it's great!",
         "4@Summer2019": "Commander, I will never sink! I'll be working hard in your fleet for ever and ever! I love it!",
         "2@Summer2020": "Com-man-der~! Shall we head out on the summer seas together?",
-        "2@Anniversary2021": "Com-man-der, it's the Goddess of Luck's 8th Anniversary too. Yukikaze is happy about this too. Congratulations! Neither I nor you will ever sink!"
+        "2@Anniversary2021": "Com-man-der, it's the Goddess of Luck's 8th Anniversary too. Yukikaze is happy about this too. Congratulations! Neither I nor you will ever sink!",
+        "4@Fall2021": "Kure's Yukikaze. Sasebo's Shigure. Shigure, let's do our best!"
     },
     "228": {
         "Idle": "I'm on standby? Well you know, instead of being stuck in harbour, I'd like to be somewhere I can move freely!",
@@ -17374,7 +17391,8 @@
         "Damaged(3)": "Whoaa! Shit! They keep firing at me!",
         "Sunk": "I... I'm... sinking again... Oonami... I'm coming to see you again... once more...",
         "2@Rainy2021": "It's hard to be motivated with all this rain. What are all of you making? Teruteru bouzu? I wanna try making one too! Admiral, teach me.",
-        "2@Summer2021": "It's reaaally hot here too. The Solomons were pretty hot but everywhere gets hot in summer. I should probably put on a swimsuit. I should."
+        "2@Summer2021": "It's reaaally hot here too. The Solomons were pretty hot but everywhere gets hot in summer. I should probably put on a swimsuit. I should.",
+        "2@Fall2021": "*sniff sniff* Are those food stalls I smell? I love them! Admiral, where should we start? Well?"
     },
     "709": {
         "Intro": "I'm the 5th Ship of the Yuugumo-class destroyers, Makinami. Feeling fine today as well. Admiral, what's the matter? You're not feeling up to it? Don't worry about it, I'm here for you. That's right, let's face today head on.",
@@ -17519,7 +17537,8 @@
         "Sunk": "This time, I managed to do quite a bit so... it's a little bit better I suppose... Fuji, Haya, stay safe. Don't come... over here... OK?",
         "2@Rainy2021": "This season is so depressing. Ah, Haya, what're you making? A cursed doll? Oh, a teru teru bouzu? Nice.",
         "2@Summer2021": "Yeah, summer is pretty hot here too. I don't really want to strip down but I don't think I have a choice. I mean, this is... for protection against the heat, right?",
-        "3@Summer2021": "It's supposed to be heat protection... Ehehe. I put it on. Admiral, Fuji, Haya... How do I look? ...I look good? It's nice and cool."
+        "3@Summer2021": "It's supposed to be heat protection... Ehehe. I put it on. Admiral, Fuji, Haya... How do I look? ...I look good? It's nice and cool.",
+        "2@Fall2021": "You know, I don't really like autumn... But, ehe, the autumns here are nice. That smell is irresistable. Are they food stalls?"
     },
     "710": {
         "Intro": "Pleasure to meet you! The 10th ship of the Yuugumo-class, Suzunami, feeling great! Fujinami, Hayanami. Yes, looking sharp! Good, good. Now then, Admiral, if you're headed to Rabaul, I'm coming too. Don't go without me.",
@@ -18597,7 +18616,8 @@
         "2@Spring2021": "Huh? Cherry blossom viewing? I don't really feel like it. Ume, you got this. Big sis Matsu, I'll go with you on the next night battle exercise. Sorry.",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary? That's longer than I've been around. What do I think... Uhmm, well, forget about it. Congrats.",
         "2@Rainy2021": "It's really coming down. I don't really like the rainy season. I prefer it when it's sunny. What about you, Admiral?",
-        "2@Summer2021": "It's gotten quite hot recently. There's quite a few ships in light clothes about too... Well, it does look nice. Maybe I should dress light too..."
+        "2@Summer2021": "It's gotten quite hot recently. There's quite a few ships in light clothes about too... Well, it does look nice. Maybe I should dress light too...",
+        "2@Fall2021": "It's autumn. There's a pretty nice smell coming from those stalls. Is it that \"Naval Base Autumn Festival\"? Nice. Everything looks tasty."
     },
     "706": {
         "Intro": "Yo, you're in a good mood today. Great. D-type destroyer, 2nd ship of the Matsu-class, Take, ready to head out at any time. You need to put on a strong front, right?",
@@ -18661,7 +18681,8 @@
         "Damaged(2)": "It hurts! Is this for real?",
         "Damaged(3)": "Hyaa! Now I'm mad! The agency isn't going to like this! Admiral, say something to them!",
         "Sunk": "Momo, retiring, here? Here... Momo, still... Hasn't achieved anything! I don't like it, not like this...",
-        "2@Summer2021": "Urgh... It's hot! Why is summer here so hot!? Huh? Big sis Take, are you allowed... to dress like that? Seriously?"
+        "2@Summer2021": "Urgh... It's hot! Why is summer here so hot!? Huh? Big sis Take, are you allowed... to dress like that? Seriously?",
+        "2@Fall2021": "Oh ho ho? *sniff sniff* Something smells good around the base. Let's party! The Naval Base Autumn Festival. I want to go around the stalls too!"
     },
     "708": {
         "Intro": "I'm Momo. The Idol of Type D Destroyers! That's right, the fourth ship of the Matsu class. Admiral, please treat me well today too!",

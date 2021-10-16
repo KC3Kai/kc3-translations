@@ -1791,6 +1791,25 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Screws OR three Daihatsu Landing Crafts OR two New Model Armament Materials\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
         "unlock": [ 1108 ]
     },
+    "959": {
+        "code": "B174",
+        "name": "Preparations for the Naval District Saury Festival!",
+        "desc": "Sortie a CL/CT/AV or Souya as flagship and up to 5 additional ships to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Zuiun M12 OR three Swordfish OR two Screws\n\u00B6Second choice: Either two Searchlights OR two Type 3 Active Sonars OR two Screws",
+        "unlock": [ 960 ]
+    },
+    "960": {
+        "code": "B175",
+        "name": "Preparations for the Naval District Saury Festival, Continued!",
+        "desc": "Sortie a CL/CT/AV or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR a Furniture Fairy OR four Screws\n\u00B6Second choice: Either three Type 2 Depth Charges OR two Night Operation Aviation Personnel OR a Type 2 Flying Boat"
+    },
+    "961": {
+        "code": "B176",
+        "name": "Elite DesDiv15 1st Platoon, Fight Hard!",
+        "desc": "Sortie Oyashio Kai Ni, Kuroshio Kai Ni and up to 4 additional ships to [W2-4], [W5-4] and [W7-2M]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR two New Model Artillery Armament Materials OR five Screws\n\u00B6Second choice: Either a 61cm Quadruple (Oxygen) Torpedo Mount Late Model OR four New Model Armament Materials OR an Action Report"
+    },
 
 
 
@@ -2507,6 +2526,12 @@
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Gambier Bay MK. II as flagship, any two of Fletcher, Johnston and Samuel B. Roberts and up to three additional ships.",
         "memo": "This quest resets on the first quest reset of July.\n\u203bRemodeled Carrier Task Force Exercise!\n\u27a3Rewards a Construction Battalion and either two FM-2 OR two TBF OR a \u2605+5 SK Radar",
         "tracking": [ [0,4] ]
+    },
+    "355": {
+        "code": "C62",
+        "name": "Annual DesDiv 15 Excercises - October",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Oyashio Kai Ni and Kuroshio Kai Ni as the first two ships and up to 4 additional ships.",
+        "memo": "This quest resets on the first quest reset of October.\n\u203bElite DesDiv 15 First Platoon Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a \u2605+2 Type 22 Surface Radar Kai 4 OR a \u2605+2 Skilled Lookouts\n\u00B6Second choice: Either two Irako OR three Screws"
     },
 
     
@@ -3564,6 +3589,12 @@
         "name": "Increased production of the newly adjusted and improved Active Sonar",
         "desc": "Have 1300 Baux, 30 Dev. Material. and two New Model Arm. Material. Set either Yamakaze Kai Ni (D) or Shigure Kai Ni as secretary with a \u2605max Type 3 Active Sonar in the first slot. Scrap 2 Type 93 Passive Sonars and 2 Type 3 Active Sonars.",
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Type 3 Active Sonar Kai"
+    },
+    "1109": {
+        "code": "F104",
+        "name": "Equipment deployment to support landing operations",
+        "desc": "Have 8 Flamethrowers, 10 Dev. Materials and 800 steel. Set Shinshuu Maru as secretary with a \u2605max Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force) in her 1st slot. Scrap 2 7.7mm Machine Gun and 2 Daihatsu Landing Craft.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Soukoutei (Armored Boat Class)"
     },
 
 

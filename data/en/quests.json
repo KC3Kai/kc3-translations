@@ -1405,7 +1405,8 @@
         "code": "B117",
         "name": "Supreme Type-A Destroyers, Rush Them! Break Through Their Ranks!",
         "desc": "Sortie Kagerou Kai Ni OR Shiranui Kai Ni OR Kuroshio Kai Ni as flagship and 2 Lv75+ Kagerou/Yuugumo-class to [W3-2], [W4-2] and [W5-3]. S-Rank each boss node twice.",
-        "memo": "You may bring up to 3 additional ships.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR an Action Report\n\u00B6Second choice: Either two Medals OR a Prototype Flight Deck Catapult OR a 12.7cm Twin Gun Mount Model D Kai Ni"
+        "memo": "You may bring up to 3 additional ships.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Artillery Armament Materials OR an Action Report\n\u00B6Second choice: Either two Medals OR a Prototype Flight Deck Catapult OR a 12.7cm Twin Gun Mount Model D Kai Ni",
+        "unlock": [ 961 ]
     },
     "885": {
         "code": "B118",
@@ -1801,7 +1802,7 @@
     "960": {
         "code": "B175",
         "name": "Preparations for the Naval District Saury Festival, Continued!",
-        "desc": "Sortie a CL/CT/AV or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "desc": "Sortie a CL/CT/AS or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR a Furniture Fairy OR four Screws\n\u00B6Second choice: Either three Type 2 Depth Charges OR two Night Operation Aviation Personnel OR a Type 2 Flying Boat"
     },
     "961": {
@@ -2531,7 +2532,8 @@
         "code": "C62",
         "name": "Annual DesDiv 15 Excercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Oyashio Kai Ni and Kuroshio Kai Ni as the first two ships and up to 4 additional ships.",
-        "memo": "This quest resets on the first quest reset of October.\n\u203bElite DesDiv 15 First Platoon Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a \u2605+2 Type 22 Surface Radar Kai 4 OR a \u2605+2 Skilled Lookouts\n\u00B6Second choice: Either two Irako OR three Screws"
+        "memo": "This quest resets on the first quest reset of October.\n\u203bElite DesDiv 15 First Platoon Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a \u2605+2 Type 22 Surface Radar Kai 4 OR a \u2605+2 Skilled Lookouts\n\u00B6Second choice: Either two Irako OR three Screws",
+        "tracking": [ [0,4] ]
     },
 
     

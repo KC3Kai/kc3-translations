@@ -1648,7 +1648,8 @@
         "2@YearsEnd": "End of the year cleaning, huh? I suppose it's necessary. Nee-san's room is a disaster. I'll have to help her out.",
         "2@Spring": "Spring... Hmm... so this... is a sakura... It's not bad. Eh, flower viewing? ...Should I...?",
         "2@WhiteDay": "What... is this? Return for the chocolate? Hmm, Japan's culture sure is dutiful. I'll accept it this once.",
-        "2@Anniversary2018": "Congratulations, Admiral. I am a little happy to spend this day of celebration with you. I'm serious."
+        "2@Anniversary2018": "Congratulations, Admiral. I am a little happy to spend this day of celebration with you. I'm serious.",
+        "2@Halloween2021": "Fritz, that monstrous thing. My old wounds start to ache at this time of year... I can deal with normal air raids... but that thing is just unfair."
     },
     "447": {
         "Poke(1)": "Fourth ship of the Vittorio Veneto-class Battleships, Roma, in combat position.",
@@ -11334,7 +11335,8 @@
         "2@Anniversary2021": "It's the fleet's 8th Anniversary. Congrats. Blessings to you and the fleet.",
         "2@Rainy2021": "So this is what you call \"Tsuyu\". I've been told about it. It's quite a peculiar season. Would you like some scotch? Yeah, that'd be good.",
         "3@Summer2021": "I expected this but summer here is so hot compared to when I was operating in the Arctic Ocean. It sure is.",
-        "4@Summer2021": "Everyone seems to be getting into heat protective equipment. Maybe I should... No no, no way."
+        "4@Summer2021": "Everyone seems to be getting into heat protective equipment. Maybe I should... No no, no way.",
+        "2@Halloween2021": "Oooh. The base festival? It's an unusual festival. The food in the tents look good. What do you recommend?"
     },
     "705": {
         "Intro": "HMS Sheffield, ready and waiting. Admiral, I'll be in your care today too. If I'm with you, it'll be a breeze.",
@@ -14851,6 +14853,12 @@
         "H2200": "2200. ...Admiral... what...? I'm... not really... scared or anything...<br />...but... it's so warm... your hand...",
         "H2300": "2300. Today wore me out... Again... tomorrow... okay? Tomorrow..."
     },
+    "588": {
+        "Poke(1)": "Can I be... by your side?",
+        "Poke(3)": "I'm relieved... This is a bright and warm... place.",
+        "Equip(2)": "Isn't this fine?",
+        "Yasen(2)": "Full speed ahead! Let's go!"
+    },
     "459": {
         "Intro": "The ninth Shiratsuyu-class Destroyer, Kawakaze of the revised Shiratsuyu-class. Nice to meet you! Ah, about the reading of my name, do not get it wrong!",
         "Library": "Ninth ship of the Shiratsuyu-class, the revised Shiratsuyu-class destroyer, Kawakaze. Well now, I was built under the Maru 2 program, the same as Umikaze and our big sisters. Maaan, that was some hard, hard work! We sailed the Solomon's seas many times over. My last moments were during night battle. The enemy's radar... really, what foul play!",
@@ -15887,6 +15895,11 @@
         "H2100": "2100. Commander, I have a report. The Third Torpedo Squadron is sorti... ah, I didn't need to report it. I am very sorry, I understand.",
         "H2200": "2200. Submarines? Yes, I think they are powerful ships. They can be formidable enemies, but I think capable submarines on our side are great to have.",
         "H2300": "2300. Commander, thank you for working so hard the all day today. I, Oyashio, hope to be of use tomorrow as well. You may be busy, but I would be happy if you could rest, even for a bit."
+    },
+    "670": {
+        "Poke(3)": "The first of the domestically produced submarines after the war was also named Oyashio.",
+        "Docking(1)": "Commander, I'm deeply sorry. I need to fall back for a while. I'll be right back.",
+        "Yasen(2)": "15th Destroyer Division, Oyashio, attacking!"
     },
     "190": {
         "Intro": "I'm Hatsukaze, nice to meet you. Admiral, how many of me did you have before me, I wonder?",
@@ -17638,7 +17651,9 @@
         "3@Anniversary2020": "I'm already home. This is my home after all. It is!",
         "17@Anniversary2020": "I won't lose... especially at a time like thiiiiis!",
         "2@Fall2020": "Haya-chin, Hama-chin, you two are going too? Alright. Let's all go together. For sure!",
-        "2@Anniversary2021": "So it's the fleet's 8th Anniversary. That means we're in our 9th year, right? That's kinda amazing. Commander, congrats. I'll work hard too. For sure!"
+        "2@Anniversary2021": "So it's the fleet's 8th Anniversary. That means we're in our 9th year, right? That's kinda amazing. Commander, congrats. I'll work hard too. For sure!",
+        "3@Halloween2021": "Hamacchi, what are you doing? Ah, I see! It's Halloween. Are you dressed as a ghost? Hmmm?",
+        "4@Halloween2021": "Oh, you're a witch! Ah, yes. It's cute. You look great as a witch, Hamacchi!"
     },
     "373": {
         "Intro": "Thanks a bunch! I'm the 11th Ship of the Yuugumo class, Fujinami.  Commander, let's do our best from today on, okay?",
@@ -17696,7 +17711,8 @@
         "3@Anniversary2020": "Sis, I'll go home with you. Ah, Commander? Where's sis?",
         "2@Fall2020": "Sis, it's time for the Autumn Festival. Let's go together! I was looking forward to it too.",
         "2@Spring2021": "Big sis, did you eat too much? Are you alright? I'll go get you some water!",
-        "2@Anniversary2021": "Big sis, Hama-chan, I heard it's the fleet's 8th Anniversary. That's amazing. Ehehehehe. Big sis, congrats."
+        "2@Anniversary2021": "Big sis, Hama-chan, I heard it's the fleet's 8th Anniversary. That's amazing. Ehehehehe. Big sis, congrats.",
+        "3@Halloween2021": "Oh? Hama-chan, what are you dressed as? Ah, a witch. That's nice, I want to dress up too. Onee-chan, want to dress up with me?"
     },
     "688": {
         "Intro": "Onee-chan, Commander, thank you. 12th ship of the Yuugumo-class, Hayanami, has arrived today too.",
@@ -17782,7 +17798,12 @@
         "3@Anniversary2020": "Fuu-chan, mmm, I'm fine. I'll be in my... room. Ha-chan, thank you too.",
         "2@Fall2020": "Fu-chan, Ha-chan, Commander, let's all... go have fun... at the Autumn Festival. The cotton candy... is sweet... I like... this gentle... flavour.",
         "4@Valentines2021": "These chocolate chip cookies are good. They're just the right texture and taste. Phew, I'm satisfied...",
-        "2@Anniversary2021": "It's the fleet's 8th Anniversary. Fu-chan, Ha-chan, Commander, co-con... Con-congratulations. I'm happy about this too."
+        "2@Anniversary2021": "It's the fleet's 8th Anniversary. Fu-chan, Ha-chan, Commander, co-con... Con-congratulations. I'm happy about this too.",
+        "1@Halloween2021": "Uh-umm... I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. This Halloween... I'm a... uh... witch...",
+        "2@Halloween2021": "Trick or... Ah, ummm... Uhhhh...",
+        "3@Halloween2021": "Ah, Fuu-chan... Trick or treat... Uhm... Ahhh...",
+        "4@Halloween2021": "Fuu-chan, Commander, thank you... uh-uhmm... for the sweets. I'm happy.",
+        "19@Halloween2021": "Ah, oh no... My ghost costume has been..."
     },
     "680": {
         "Intro": "I'm the 13th ship of the Yuugumo-class destroyers, Hamanami. Uhh, umm, I'll... do my best.",
@@ -18408,7 +18429,8 @@
         "2@Xmas": "Christmas...? So that's what it is. The food looks so extravagant.",
         "2@YearsEnd": "Yup, New Year's cleaning, huh? That's something important. I'll help out. No, I just feel like it. I want to move about.",
         "2@Spring": "Nee-san, what's the rice ball for? Preparation for flower viewing? I see, so it's already that season! Is it fine if I give you a hand? The salt... let's add more of it.",
-        "2@WhiteDay": "Admiral, this is? You're giving it to me? Ah, so everyone has received some. So it's a type of combat ration is it. I'll take it. I appreciate it."
+        "2@WhiteDay": "Admiral, this is? You're giving it to me? Ah, so everyone has received some. So it's a type of combat ration is it. I'll take it. I appreciate it.",
+        "2@Halloween2021": "It's autumn. I remember Operation Sho-1. My sister and I were under the direct command of the Oozawa Fleet. That operation was... No, it's nothing."
     },
     "357": {
         "Equip(1)": "Not bad. Right, thanks!",
@@ -18480,7 +18502,8 @@
         "2@Summer2018": "Summer is almost here again, Fuyu. Eh? ...Ah, swimsuits? That one? Eh?",
         "3@Anniversary2019": "Admiral, congratulations on the 6th Anniversary. From Fuyuzuki, me, and the rest of DesDiv41. Admiral, Fuyu, I'm really happy. OK?",
         "3@Anniversary2020": "Admiral, congratulations on the 7th Anniversary. DesDiv41 and I offer our heartfelt congratulations. Admiral, I'm really happy. Thank you.",
-        "2@Anniversary2021": "Admiral, the 8th Anniversary is finally here. DesDiv41, Fuyutsuki and I give you our congratulations. Admiral, Fuyu, everyone, thank you."
+        "2@Anniversary2021": "Admiral, the 8th Anniversary is finally here. DesDiv41, Fuyutsuki and I give you our congratulations. Admiral, Fuyu, everyone, thank you.",
+        "2@Halloween2021": "It's getting colder. It's almost Fuyu's season. Hehehe. I like winter too. Got that, Fuyu?"
     },
     "537": {
         "H0000": "It's now 12am, Admiral. I, the air defense destroyer Suzutsuki, will work hard by your side today. Please take good care of me, Admiral.",
@@ -19091,7 +19114,8 @@
         "2@Valentines2021": "Admiral, I'm giving this to you just this once. Just this time, alright? I expect a return gift five times better, alright? Five times, got it? Are you listening?",
         "2@Anniversary2021": "Admiral, I heard it's the 8th Anniversary. The fleet has been around for a while. Congrats.",
         "2@Rainy2021": "Ah, it's really coming down. Must be because I bring the rain with me. Huh? Didn't you know that, Admiral? It's true.",
-        "2@Summer2021": "It's gotten hot here too. I like this season because I can bare my belly and not catch a cold."
+        "2@Summer2021": "It's gotten hot here too. I like this season because I can bare my belly and not catch a cold.",
+        "2@Halloween2021": "Libe looks cute in that. How nice. I want to wear a costume too... You'll allow it? Really?"
     },
     "658": {
         "Intro": "*Yawn*. Buongiorno. Maestrale-class Destroyer, the youngest sister Scirocco. I woke up properly today as well. Admiral, pleased to meet you~",

@@ -1793,54 +1793,11 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Screws OR three Daihatsu Landing Crafts OR two New Model Armament Materials\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai Ni OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model",
         "unlock": [ 1108 ]
     },
-    "959": {
-        "code": "B174",
-        "name": "Preparations for the Naval District Saury Festival!",
-        "desc": "Sortie a CL/CT/AV or Souya as flagship and up to 5 additional ships to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Zuiun M12 OR three Swordfish OR two Screws\n\u00B6Second choice: Either two Searchlights OR two Type 3 Active Sonars OR two Screws",
-        "unlock": [ 960 ]
-    },
-    "960": {
-        "code": "B175",
-        "name": "Preparations for the Naval District Saury Festival, Continued!",
-        "desc": "Sortie a CL/CT/AS or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR a Furniture Fairy OR four Screws\n\u00B6Second choice: Either three Type 2 Depth Charges OR two Night Operation Aviation Personnel OR a Type 2 Flying Boat"
-    },
     "961": {
-        "code": "B176",
+        "code": "B174",
         "name": "Elite DesDiv15 1st Platoon, Fight Hard!",
         "desc": "Sortie Oyashio Kai Ni, Kuroshio Kai Ni and up to 4 additional ships to [W2-4], [W5-4] and [W7-2M]. S-Rank each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR two New Model Artillery Armament Materials OR five Screws\n\u00B6Second choice: Either a 61cm Quadruple (Oxygen) Torpedo Mount Late Model OR four New Model Armament Materials OR an Action Report"
-    },
-    "962": {
-        "code": "L21B19",
-        "name": "[Christmas Limited] Merry Christmas Torpedo Squadron!",
-        "desc": "Sortie a fleet with either Shigure Kai Ni, Asagumo and Yamagumo OR Naka, Oboro and Ushio AND up to three aditional ships to [W1-3], [W1-4] and [W2-2]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards eight Development Materials OR four Screws OR a Furniture Fairy",
-        "unlock": [ 963, 964 ],
-        "hash": 333074288
-    },
-    "963": {
-        "code": "L21B20",
-        "name": "[Christmas Limited] Christmas Maritime Escort, weigh anchor!",
-        "desc": "Sortie a fleet with four of Etorofu, Matsuwa, Sado, Fukae, Kaiboukan No.4 or Kaiboukan No.30 AND up to two aditional ships to [W1-5], [W7-1] and [W1-6-N]. S-Rank each relevant boss node twice. Reach [W1-6N] twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 2 Depth Charges OR three 7.7mm Machine Guns\n\u00B6Second choice: Either five Buckets OR three Screws",
-        "hash": -983681648
-    },
-    "964": {
-        "code": "L21B21",
-        "name": "[Christmas Limited] Wings of the Holy Night, sortie!",
-        "desc": "Sortie a fleet with either Shoukaku, Zuikaku and Hayasui OR Suzuya, Kumano and Gotland AND up to three aditional ships to [W2-4], [W3-5] and [W5-2]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 1 Land-based Attack Aircraft OR a Shinzan OR a Prototype Keiun (Carrier-based Reconnaissance Model)\n\u00B6Second choice: Either two Skilled Crew Members OR two New Model Aerial Armament Materials OR a Ne-Type Engine",
-        "unlock": [ 965 ],
-        "hash": 1381539886
-    },
-    "965": {
-        "code": "L21B22",
-        "name": "[Christmas Limited (Extra Operation)] Activate the final Christmas operation!",
-        "desc": "Sortie a fleet with three of Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma or Sakawa and up to three additional ships to [W4-5] and [W5-3]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR five Screws\n\u00B6Second choice: Either three New Model Armament Materials OR an Action Report OR a Torpedo Squadron Skilled Lookout",
-        "hash": 155966612
     },
 
 
@@ -3716,6 +3673,21 @@
 
 
 
+    "959": {
+        "code": "2110LB1",
+        "name": "Preparations for the Naval District Saury Festival!",
+        "desc": "Sortie a CL/CT/AV or Souya as flagship and up to 5 additional ships to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Zuiun M12 OR three Swordfish OR two Screws\n\u00B6Second choice: Either two Searchlights OR two Type 3 Active Sonars OR two Screws",
+        "unlock": [ 960 ],
+        "hash": -1326497502
+    },
+    "960": {
+        "code": "2110LB2",
+        "name": "Preparations for the Naval District Saury Festival, Continued!",
+        "desc": "Sortie a CL/CT/AS or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR a Furniture Fairy OR four Screws\n\u00B6Second choice: Either three Type 2 Depth Charges OR two Night Operation Aviation Personnel OR a Type 2 Flying Boat",
+        "hash": 1565979746
+    },
     "866": {
         "code": "21FaLB1",
         "name": "Do you love....Saury Fishing?",
@@ -4201,5 +4173,36 @@
         "desc": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a PBY-5A Catalina OR twenty-eight Development Materials OR eight Tenzans\n\u00B6Second choice: Either a PBY-5A Catalina OR a Prototype Flight Deck Catapult OR eight Screws",
         "hash": -1254105866
+    },
+    "962": {
+        "code": "2112LB1",
+        "name": "[Christmas Limited] Merry Christmas Torpedo Squadron!",
+        "desc": "Sortie a fleet with either Shigure Kai Ni, Asagumo and Yamagumo OR Naka, Oboro and Ushio AND up to three aditional ships to [W1-3], [W1-4] and [W2-2]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards eight Development Materials OR four Screws OR a Furniture Fairy",
+        "unlock": [ 963, 964 ],
+        "hash": 333074288
+    },
+    "963": {
+        "code": "2112LB2",
+        "name": "[Christmas Limited] Christmas Maritime Escort, weigh anchor!",
+        "desc": "Sortie a fleet with four of Etorofu, Matsuwa, Sado, Fukae, Kaiboukan No.4 or Kaiboukan No.30 AND up to two aditional ships to [W1-5], [W7-1] and [W1-6-N]. S-Rank each relevant boss node twice. Reach [W1-6N] twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 2 Depth Charges OR three 7.7mm Machine Guns\n\u00B6Second choice: Either five Buckets OR three Screws",
+        "unlock": [ 965 ],
+        "hash": -983681648
+    },
+    "964": {
+        "code": "2112LB3",
+        "name": "[Christmas Limited] Wings of the Holy Night, sortie!",
+        "desc": "Sortie a fleet with either Shoukaku, Zuikaku and Hayasui OR Suzuya, Kumano and Gotland AND up to three aditional ships to [W2-4], [W3-5] and [W5-2]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 1 Land-based Attack Aircraft OR a Shinzan OR a Prototype Keiun (Carrier-based Reconnaissance Model)\n\u00B6Second choice: Either two Skilled Crew Members OR two New Model Aerial Armament Materials OR a Ne-Type Engine",
+        "unlock": [ 965 ],
+        "hash": 1381539886
+    },
+    "965": {
+        "code": "2112LB4",
+        "name": "[Christmas Limited (Extra Operation)] Activate the final Christmas operation!",
+        "desc": "Sortie a fleet with three of Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma or Sakawa and up to three additional ships to [W4-5] and [W5-3]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR five Screws\n\u00B6Second choice: Either three New Model Armament Materials OR an Action Report OR a Torpedo Squadron Skilled Lookout",
+        "hash": 155966612
     }
 }

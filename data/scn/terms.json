@@ -758,6 +758,7 @@
 	"ShipEvaInterception" : "迎击",
 	"ShipDeployCost" : "配置消耗",
 	"ShipGearAntiLand" : "能对地",
+	"ShipGearHighAltitude" : "能高空防空",
 	"ShipGearEvadeAAFire" : "对空火炮回避",
 
 	"ShipWarfareShelling" : "炮击",
@@ -825,7 +826,7 @@
 	"PanelHighestDocking" : "最长的入渠修理时间",
 	"PanelHighestAkashi" : "最长的明石修理时间",
 	"PanelRepairMoreDays"  : "多于24小时",
-	"PanelRepairing"	   : "修理中...",
+	"PanelRepairing"       : "修理中...",
 	"PanelLastHomePort"    : "回母港的时刻",
 	"PanelCombinedShipBarsHint" : "升级剩余经验：{0}\n燃料：{1}% 弹药：{2}%",
 	"PanelNextRemodelLv"   : "改造等级 {0}",

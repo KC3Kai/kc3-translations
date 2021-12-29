@@ -1381,7 +1381,8 @@
         "code": "B113",
         "name": "Continue to Execute the Matsu Transport Operation!",
         "desc": "Sortie a CL(T)/CT/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6-N] three times.",
-        "memo": "You may use up to 2 additional ships of any class.\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR 3 Screws\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR two 12cm 30-tube Rocket Launchers OR a Furniture Fairy"
+        "memo": "You may use up to 2 additional ships of any class.\n\u27a3Rewards:\n\u00B6First choice: Either a Daihatsu Landing Craft OR 3 Screws\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR two 12cm 30-tube Rocket Launchers OR a Furniture Fairy",
+        "unlock": [ 966 ]
     },
     "879": {
         "code": "B114",
@@ -1486,7 +1487,7 @@
         "name": "Aviation Battleship Division, on Combat Patrol!",
         "desc": "Sortie 2 BBV and up to 4 additional ships to [W1-4], [W1-5], [W2-3] and [W7-2-M]. S-Rank the boss nodes of each.",
         "memo": "\u27a3Rewards a Medal and either an Action Report OR two more Medals",
-        "unlock": [ 897 ]
+        "unlock": [ 897, 966 ]
     },
     "897": {
         "code": "B132",

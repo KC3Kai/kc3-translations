@@ -1799,6 +1799,26 @@
         "desc": "Sortie Oyashio Kai Ni, Kuroshio Kai Ni and up to 4 additional ships to [W2-4], [W5-4] and [W7-2M]. S-Rank each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR two New Model Artillery Armament Materials OR five Screws\n\u00B6Second choice: Either a 61cm Quadruple (Oxygen) Torpedo Mount Late Model OR four New Model Armament Materials OR an Action Report"
     },
+    "966": {
+        "code": "B175",
+        "name": "Establish the Land-Based Air Squadron in the Southwestern Sea!",
+        "desc": "Sortie to [W2-1], [W2-2], [W2-3], [W2-4] and [W7-4O]. S-Rank all relevant boss nodes. Reach [W7-4O]. Have one Construction Battalion in your inventory.",
+        "memo": "\u2718Consumes the item.\n\u27a3Enables a Land Airbase in [W7].\n\u27a3Rewards a Type 1 Land-Based Attack Aircraft or two Type 3 Fighter Hiens or five Screws",
+        "unlock": [ 967 ]
+    },
+    "967": {
+        "code": "B176",
+        "name": "Maritime Escort! Protect the Hi Convoy!",
+        "desc": "Clear the HP gauge at [W7-4].",
+        "memo": "\u27a3Rewards Yawata Maru and either eight Development Materials OR four Screws OR a Repair Goddess",
+        "unlock": [ 968 ]
+    },
+    "968": {
+        "code": "B177",
+        "name": "Aircraft Carrier Unyou, weigh anchor!",
+        "desc": "Sortie Unyou or Yawata Maru as flagship and up to five additional ships to [W7-4], [W7-2M], [W2-5], [W6-4]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 97 Torpedo Bomber (931 Air Group) OR six Screws OR two New Model Aviation Armament Material\n\u00B6Second choice: Either two Action Reports OR two Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR a Prototype Catapult"
+    },
 
 
 
@@ -3591,6 +3611,12 @@
         "name": "Formation of the Elite Type 1 Land-based Attack Aircraft Squadrons",
         "desc": "Have a \u2605max Type 1 Land-based Attack Aircraft Model 22A, two Type 1 Land-based Attack Aircraft and three Skilled Crew Members.",
         "memo": "\u2718Consumes the items.\n\u27a3Rewards a Type 1 Land-based Attack Aircraft (Nonaka Squadron)"
+    },
+    "1112": {
+        "code": "F106",
+        "name": "Naval District [Big Cleaning] Festival!",
+        "desc": "Have a Drum Canister, 10 Dev. Materials and 1800 bauxite. Scrap 4 Small Cal. Main Guns, 4 Medium Cal. Main Guns and 4 Large Cal. Main Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards eight Screws or three New Model Artillery Armament Materials or a Construction Battalion"
     },
 
 

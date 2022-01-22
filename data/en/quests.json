@@ -3842,7 +3842,7 @@
     "840Y21": {
         "code": "2102LQ6",
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Setsubun Operation",
-        "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
+        "desc": "Sortie a CVL/CL(T)/CT as flagship, 3 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards two units of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material",
         "unlock": [ 841 ],
         "hash": -1087598400
@@ -3873,7 +3873,7 @@
     "843Y21": {
         "code": "2101LQ8",
         "name": "Weekly Setsubun Extra Mission: Reiwa 3rd Year Setsubun Operation, All-Out Sortie!",
-        "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "desc": "Sortie a (F)BB(V)/CV(L/B) as flagship, 2 DD and up 3 additional ships to [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points",
         "hash": -1521320912
     },
@@ -3895,7 +3895,7 @@
     "840": {
         "code": "2201LB5",
         "name": "[Setsubun Mission] Setsubun Operation 2022",
-        "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-5] and [W2-3]. A-Rank+ each boss node.",
+        "desc": "Sortie a CVL/CL(T)/CT as flagship, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-5] and [W2-3]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards two units of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material",
         "unlock": [ 841 ],
         "hash": -1662156216
@@ -3903,7 +3903,7 @@
     "841": {
         "code": "2201LB6",
         "name": "[Setsubun Mission] Southwestern Sea Setsubun Operation 2022",
-        "desc": "Sortie a fleet with 2CA/2CAV/2AV(\u203b), one as flagship, and up to 4 additional ships to [W7-2-M], [W7-3-P] and [W7-4]. S-Rank [W7-2-M] and [W7-3-P] boss node, A-Rank+ [W7-4] boss node.",
+        "desc": "Sortie a fleet with 2 CA/ 2 CAV/ 2 AV\u203b, one of them as flagship and up to 4 additional ships to [W7-2-M], [W7-3-P] and [W7-4]. S-Rank [W7-2-M] and [W7-3-P] boss node, A-Rank+ [W7-4] boss node.",
         "memo": "\u203bFor the two required ships, you can't mix ship types. For example, if your flagship is a CAV, you must sortie another CAV as well.\n\u27a3Rewards two units of Setsubun Beans and either six Development Materials OR an Irako OR two Screws",
         "unlock": [ 441, 843 ],
         "hash": 1610826776
@@ -3918,8 +3918,8 @@
     "843": {
         "code": "2201LB7",
         "name": "[Setsubun Extra Mission] Setsubun 2022, All-out Sortie!",
-        "desc": "Sortie a fleet with 2 (F)BB(V) or 2 CV(L/B), Ooyodo or a Sendai-class CL and up to 3 additional ships to [W2-5], [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards three units of Setsubun Beans and 220 Ranking Points",
+        "desc": "Sortie a fleet with 2 (F)BB(V)/ 2 CV(L/B)\u203b, a Sendai-class CL/Ooyodo and up to 3 additional ships to [W2-5], [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u203bFor the two required ships, you can't mix ship types between BB and CV. For example, if one is a (F)BB(V), you must sortie another (F)BB(V) as well.\n\u27a3Rewards three units of Setsubun Beans and 220 Ranking Points",
         "hash": 187312056
     },
     "340": {

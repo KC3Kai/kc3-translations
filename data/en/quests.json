@@ -1820,6 +1820,12 @@
         "desc": "Sortie Unyou or Yawata Maru as flagship and up to five additional ships to [W7-4], [W7-2M], [W2-5], [W6-4]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 97 Torpedo Bomber (931 Air Group) OR six Screws OR two New Model Aviation Armament Material\n\u00B6Second choice: Either two Action Reports OR two Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR a Prototype Catapult"
     },
+    "969": {
+        "code": "B178",
+        "name": "Remodelled Special Type Destroyer [Amagiri Kai Ni], Sortie!",
+        "desc": "Sortie a fleet with Amagiri Kai Ni (D), any two of Aoba, Ooi or Sagiri and up to three additional ships to [W2-2], [W7-3P], [W5-1], [W5-4] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal or a Reinforcement Expansion\n\u00B6Second choice: Either an Action Report OR a \u2605+4 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director OR a \u2605+4 61cm Triple (Oxygen) Torpedo Mount Late Model"
+    },
 
 
 
@@ -3816,7 +3822,7 @@
         "memo": "\u27a3Rewards furniture and either two +8 14cm Twin Gun Mount Kais OR a +4 Type 1 Land-based Attack Aircraft Model 34 OR a Prototype Toukai",
         "hash": 1725599310
     },
-    "329": {
+    "329Y21": {
         "code": "2101LQ5",
         "name": "Daily Setsubun Mission: Setsubun Exercises!",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using 2 DD/DE and up to 4 additional ships.",
@@ -3832,7 +3838,7 @@
         "unlock": [ 841 ],
         "hash": -1632146915
     },
-    "840": {
+    "840Y21": {
         "code": "2102LQ6",
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Setsubun Operation",
         "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
@@ -3848,7 +3854,7 @@
         "unlock": [ 843 ],
         "hash": 1314185599
     },
-    "841": {
+    "841Y21": {
         "code": "2101LQ7",
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Western Region Setsubun Operation",
         "desc": "Sortie 2 CAV or 2 CA or 2 AV* with one of them as flagship, and up to 4 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
@@ -3863,18 +3869,55 @@
         "memo": "\u27a3Rewards two units of Setsubun Beans and 203 Ranking Points",
         "hash": -1791353907
     },
-    "843": {
+    "843Y21": {
         "code": "2101LQ8",
         "name": "Weekly Setsubun Extra Mission: Reiwa 3rd Year Setsubun Operation, All-Out Sortie!",
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards three units of Setsubun Beans and 203 Ranking Points",
         "hash": -1521320912
     },
-    "441": {
+    "441Y21": {
         "code": "2101LQ9",
         "name": "Setsubun Mission: Reiwa 3rd Year Setsubun Expeditionary Mission",
         "desc": "Complete Expeditions B1, 27, 28 and D1.",
         "memo": "\u27a3Rewards furniture and either a Furniture Fairy OR six Development Materials OR three Screws"
+    },
+    "329": {
+        "code": "L22C1",
+        "name": "[Setsubun Mission] Setsubun Exercises 2022!",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using 2 CL/CT, 2 DD/DE and up to 2 additional ships.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans",
+        "hash": 1300008155
+    },
+    "840": {
+        "code": "L22B5",
+        "name": "[Setsubun Mission] Setsubun Operation 2022",
+        "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-5] and [W2-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans and either three Buckets OR an Underway Replenishment OR two Emergency Repair Materials",
+        "unlock": [ 841 ],
+        "hash": -1662156216
+    },
+    "841": {
+        "code": "L22B6",
+        "name": "[Setsubun Mission] Southwestern Sea Setsubun Operation 2022",
+        "desc": "Sortie a fleet with 2CA or 2CAV or 2AV* with one as flagship and up to 4 additional ships to [W7-2M], [W7-3P] and [W7-4]. Achieve a S-Rank at [W7-2M] and [W7-3P] and an A-Rank or higher at [W7-4].",
+        "memo": "*For the two required ships, you can't mix ship types. For example, if your flagship is a CAV, you must sortie another CAV as well.\n\u27a3Rewards two units of Setsubun Beans and either six Development Materials OR an Irako OR two Screws",
+        "unlock": [ 843 ],
+        "hash": 1610826776
+    },
+    "441": {
+        "code": "L22D1",
+        "name": "[Setsubun Mission] Reiwa's 4th Year Setsubun Expedition Mission",
+        "desc": "Complete Expeditions A3, D1, 29, 30 and 45.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.",
+        "hash": -1009170667
+    },
+    "843": {
+        "code": "L22B7",
+        "name": "[Setsubun Extra Mission] Setsubun 2022, All-out Sortie!",
+        "desc": "Sortie a fleet with 2 (F)BB/CV(L/B), Ooyodo or a Sendai-class CL and up to three additional ships to [W2-5], [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards three units of Setsubun Beans and 220 Ranking Points",
+        "hash": 187312056
     },
     "340": {
         "code": "W20C1",

@@ -784,8 +784,8 @@
 
 	"ShipDayAttack"       : "昼{0}战攻击力: {1} ({2})",
 	"ShipNightAttack"     : "夜战{0}攻击力: {1} ({2})",
-	"ShipAccShelling"     : "炮击命中值: {0} (装备:{1},\u2605{2},适重:{3})",
-	"ShipEvaShelling"     : "炮击回避值: {0} (装备:{1},\u2605{2},燃料:{3})",
+	"ShipAccShelling"     : "炮击命中值: {0} (装备:{1},\u2605{2},适重:{3},\u263b{4}) {5} {6} {7}",
+	"ShipEvaShelling"     : "炮击回避值: {0} (装备:{1},\u2605{2},燃料:{3}) \u263b{4}",
 	"ShipAAAdjusted"      : "加权对空值: {0}",
 	"ShipAAShotdownRate"  : "比例击坠率: {0}%",
 	"ShipAAFixedShotdown" : "固定击坠: {0}",

@@ -785,8 +785,9 @@
 
 	"ShipDayAttack"       : "낮 {0} 공격력: {1} ({2})",
 	"ShipNightAttack"     : "밤 {0} 공격력: {1} ({2})",
-	"ShipAccShelling"     : "낮 포격 정확율: {0} (장비{1},\u2605{2},피트포{3},\u263b{4}) {5} {6}",
+	"ShipAccShelling"     : "낮 포격 정확율: {0} (장비{1},\u2605{2},피트포{3},\u263b{4}) {5} {6} {7}",
 	"ShipEvaShelling"     : "낮 포격 회피율: {0} (장비{1},\u2605{2},연료{3}) \u263b{4}",
+	"ShipAccAntisub"     : "대잠 전투: {0}",
 	"ShipAAAdjusted": "가중 대공치: {0}",
 	"ShipAAShotdownRate": "고정 격추율: {0}%",
 	"ShipAAFixedShotdown": "고정 격추 수: {0}",

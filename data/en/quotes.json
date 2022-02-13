@@ -1717,7 +1717,10 @@
         "2@Fall2021": "Wow, that looks fun. Can I go to the Naval Base Autumn Festival too?",
         "3@Fall2021": "The food at the stalls look so good. Can I... try some?",
         "4@Fall2021": "Uhmm... A kimono? Ah, I see. It's a yukata. Sounds good. Well... how do I look?",
-        "2@Saury2021": "My motto is \"Second to none\"! So that's why, I won't be second to anyone during this Saury Festival too! Let's go!"
+        "2@Saury2021": "My motto is \"Second to none\"! So that's why, I won't be second to anyone during this Saury Festival too! Let's go!",
+        "2@YearsEnd2021": "What is it, what is it? The Naval Base Major Cleanup? Goodness gracious, let the Maestrale class take care of such things. *gasp* They're not here!",
+        "2@NewYears2022": "Admiral, it's a new year. I feel like I'll keep the \"I still won't lose to anyone this year!\" spirit. You... That's right. You won't lose to anyone either. I know. Let's do our best this year.",
+        "2@Setsubun2022": "So this is the Setsubun I've been hearing about? Do you know of my other motto? \"Many enemies, more annoyances!\". That is truly embodied by Setsubun!!"
     },
     "878": {
         "Intro": "Buongiorno! I'm Conte di Cavour. Admiral? Yup, that's fine. Happy to work with you today too.",
@@ -2024,7 +2027,9 @@
         "2@Spring2021": "Oh, Yamato, what are you doing? Cherry blossom viewing? It sounds like something special. Can I... join in too? Ah, thanks!",
         "2@Anniversary2021": "It's the fleet's 8th Anniversary? Admiral, congrats. I'll celebrate with you too. This is wonderful.",
         "2@Rainy2021": "These endless rainy days really puts a damper on my spirits. Meanwhile, she... Yeah, idiots are always happy. It makes me a bit jealous. Just a bit.",
-        "2@Summer2021": "Huh? Yamato, why are you dressed like... Ah, I see. Th-then I will too."
+        "2@Summer2021": "Huh? Yamato, why are you dressed like... Ah, I see. Th-then I will too.",
+        "2@YearsEnd2021": "Hey you! Are you trying to sabotage the Major Cleanup Operation? I won't stand for this! Admiral, it's alright, right?! I'll sink her!",
+        "2@NewYears2022": "It's a new year. New years here feel a bit solemn. Admiral, Happy New Year. Take care of me this year too."
     },
     "659": {
         "Intro": "North Carolina-class USS battleship Washington. Admiral, I'll be counting on your wonderful command again today. I trust you.",
@@ -4000,7 +4005,11 @@
         "Damaged(3)": "This isn't enough... to sink the likes of me! Don't... look down on me!",
         "Sunk": "What's... happening? ...I'm sinking? ...Me? ...It can't be... No... I won't let it end... like... this...!",
         "2@Fall2021": "Something smells very nice. It's a little bit oriental... It's the smell of burnt soy sauce? The Naval Base Autumn Festival? Ah, I'll come!",
-        "4@Fall2021": "So this is a yukata. It's not bad. It makes me feel like a Japanese princess. Huh? I've got the wrong idea? Let me have my moment!"
+        "4@Fall2021": "So this is a yukata. It's not bad. It makes me feel like a Japanese princess. Huh? I've got the wrong idea? Let me have my moment!",
+        "2@Xmas2021": "Sara, Christmas is fun, isn't it? Could you hand me some turkey? Thanks... Hmmm? Robin? Don't call me that. I'm Victorious. The Ship of Victory. Right, Admiral?",
+        "2@YearsEnd2021": "Naval base major cleanup? Understood. Well, Bismarck can't be helped, seeing how she even got chased out. Are you sure she isn't just slacking off? Admiral, should we leave her be? I guess...",
+        "2@NewYears2022": "Happy New Year to your peace and your fleet.",
+        "2@Setsubun2022": "So this is Setsubun! I'll be fine, Ark has already told me all about it. My air wing has already been loaded with Setsubun bean munitions. Let's get them!"
     },
     "713": {
         "Intro": "Royal Navy aircraft carrier, HMS Victorious. Admiral, good morning. Let's head out to sea together today as well!",
@@ -4261,6 +4270,88 @@
         "Poke(2)": "Admiral...I'll work harder so I can protect everyone!",
         "Poke(3)": "With these Stuka...With these wings...I'll protect everyone.",
         "Friend43(1)": "Maritime Escort Division, carrier Shinyou, ready to provide support."
+    },
+    "522": {
+        "Intro": "I'm the Converted Carrier, Yawata Maru. That's right, I used to be a Nitta Maru-class freighter. My little sister has been in your care. I... look forward to working with you too.",
+        "Library": "I'm the converted carrier, Yawata Maru. I'm part of the Nitta Maru-class built under the Superior Shipbuilding Subsidy Program. I'm the middle child. Kasuga Maru's elder sister. Shortly after being converted into a carrier, I was given the name Unyou. I really hate enemy ships. I also hate having to match the convoy's speed. That's bad. You better remember that.",
+        "Poke(1)": "Did you call for me? ...I see.",
+        "Poke(2)": "Yeah, that's right. I was an excellent freighter.",
+        "Poke(3)": "That's right. We sisters were built as excellent freighters. We also had a drawing made of us... Huh? Y-you know about that? I see. Have you seen it?",
+        "Idle": "Hmm? Ah, sorry. I was just reading this. What am I reading? These are my battle reports. They've been preserved well. You need to pay close attention to these... lessons from battle. There are important things written in it. You must! Did you get that?",
+        "Married": "Admiral, what's the matter? You're looking lonely. That's not like you. Would you like some hot coffee? Or would you prefer tea? I may not look like it, but I'm good at waitressing. Though I'm just pretending... Well, just wait a moment. Good boy.",
+        "Wedding": "Admiral, what is it? Did you call me? Huh? What? I can't hear you... \"After this war is over...\" What? The two of us will... travel the San Francisco route? Uh, who and who? Wha!? You mean you and I? No. Are you messing with me? Even if you take it back, I'm not giving back this ring... You're sure? Really? Ah, hooray!",
+        "Ranking": "Information? Understood. I'll summarise it. Here. Is this alright?",
+        "Join": "Converted carrier, Yawata Maru, sortieing. I'm heading out.",
+        "Equip(1)": "So something like this exists.",
+        "Equip(2)": "Well, I am a warship. Yeah. I hope so.",
+        "Equip(3)": "Zig-zagging is important.",
+        "Supply": "Thank you. I accept.",
+        "Docking(1)": "Sorry. Can I... go get repaired?",
+        "Docking(2)": "I got heavily damaged... Don't stare.",
+        "Construction": "A new vessel... I mean, a new ship has been commissioned.",
+        "Return": "We've returned safely. Thank goodness. I definitely feel safer in port.",
+        "Sortie": "Yawata Maru, setting sail for the San Francisco route... I mean... the operation area. Follow me.",
+        "Battle": "The enemy? We have to engage them? I wonder if I can manage. I guess I can?",
+        "Attack": "Yawata Maru Air Wing, prepare for take-off.",
+        "Yasen(2)": "Don't... don't let the enemy get any closer. Please!",
+        "Yasen(1)": "I hate... I hate the seas at night. Be on lookout. Watch for torpedoes.",
+        "MVP": "I was the one that drove off the enemy? Th-that's a bit... Uhmm, permission to celebrate openly? Alright. I did it. I did!",
+        "Damaged(1)": "Aaah! I-I'm hit! Where did that come from!?",
+        "Damaged(2)": "Aaaah! Oh no! Was that a torpedo!?",
+        "Damaged(3)": "Aaaaah! Damnit! I-it came from starboard? But, I won't sink again!",
+        "Sunk": "I'm hit at starboard? I've been hit twice!? The engine room is destroyed!? No way... I'm... Sinking again... Again...",
+        "2@Setsubun2022": "It's Setsubun, right? Well, we have time to spare. Wha, hey! Coastal Defense Ships! Why are you throwing beans at me!? *sigh* Fine, that's how you want to play. 931, we're counterattacking. All aircraft, take off. Get them!"
+    },
+    "884": {
+        "Intro": "I'm the carrier, Unyou. That's right, I used to be a Nitta Maru-class freighter. Admiral, I look forward to working with you today too. Let's get going.",
+        "Library": "I'm the carrier, Unyou. I'm part of the Nitta Maru-class built under the Superior Shipbuilding Subsidy Program. I'm the middle child. Kasuga Maru's elder sister. Shortly after being converted into a carrier, I was given the name Unyou. I really hate enemy ships. I also hate having to match the convoy's speed. That's bad. You better remember that.",
+        "Join": "Carrier, Unyou, sortieing. I'm heading out.",
+        "Sortie": "That's right. Carrier Unyou, setting sail for the operation area. Follow me.",
+        "Attack": "Unyou Air Wing, prepare for take-off.",
+        "Yasen(2)": "Don't let the enemy get any closer. 931, I'm counting on you!",
+        "H0000": "Admiral, I'll be your secretary ship today. I'll have to be right by your side the whole day. I'll serve you with the waitressing skills I learned while plying the San Francisco route. Ah, I know you've- been- a- good- boy.",
+        "H0100": "0100. We have to get some work done first. An escort carrier has a lot to do so let's get these done first. Here are the documents. Here you go.",
+        "H0200": "0200. Great. We're done with our stuff. Next is the American escort carrier's... Guh, she's pretty strong. I won't lose. Hey, you know...",
+        "H0300": "0300. Hey, you know... wouldn't it be a good idea to put our catapults to use? If I had one, I'd be able to perform a broader range of operations... Hey, Admiral... are you listening?",
+        "H0400": "0400. We've been talking so much, it's almost dawn. Would you like to take a nap? Shall I get you a pillow and some blankets? Ah, you're fine? Whoa, you knocked off quick!",
+        "H0500": "0500. I wonder if I should get breakfast ready while the Admiral is still snoring away... Today it'll be... Hmmm. Should I make Japanese or Western food...",
+        "H0600": "0600. It's morning. Fleet, all hands assemble. I repeat, all hands assemble. Let's keep working hard today as well.",
+        "H0700": "0700. Admiral, I tried making a continental breakfast today. The eggs are... yes, two sunny side up as is standard. Please help yourself.",
+        "H0800": "0800. Admiral, would you like another cup of coffee? My coffee is delicious, isn't it? After all, I used to be a cruise ship. So that's to be expected.",
+        "H0900": "0900. That's the dishes taken care of. Shall we begin the fleet operations? Are we ferrying aircraft today? Or escorting convoys? What are we doing?",
+        "H1000": "1000. Ah, Kasuga... Ah, that's not it... Taiyou, good morning. Let's work hard today. That's right, we'll be zig-zagging. Yeah, it's important.",
+        "H1100": "1100. That's true, the land-based air corps are important. But we escort carriers have some value too. I'd like to up the number of destroyer escorts... Ah, Admiral, are you listening?",
+        "H1200": "1200. It's lunchtime. Of course, I made something. Don't worry. This is okaka. This is plain salt. This is... probably sour plum. Here, have some tea.",
+        "H1300": "1300. Ah, you've seen that drawing? It's kind of embarrassing but it's a nice drawing, isn't it? Who do you like out of the three of us, Admiral? ...Uh-huh... Really?",
+        "H1400": "1400. Ah! Yamashiro, thanks for your hard work. Yes, I'm getting used to things. Ah! Yes. I'll ask if there's anything I don't know.",
+        "H1500": "150... Ah, Takao. *nod* *nod* I see. So it's a standard operation. I'd like to give it a go. I'll do it with some aviation cruisers.",
+        "H1600": "1600. The Hi-convoys? That's right. There were a lot of lessons learned. I'd like to have left behind something for my successors to learn from. At the very least.",
+        "H1700": "1700. Admiral, look at that! It's the sunset. It's beautiful... There's a tinge of sadness about it but it's beautiful.",
+        "H1800": "1800. The sun has set. We should proceed carefully at night. Being especially vigilant to anything under the water.",
+        "H1900": "1900. Well now, what should we have tonight? What should I make... Hmm? Looks like someone is here. Coooming! Huh? Ah! Zuihou!?",
+        "H2000": "2000. Zu-Zuihou, what's all this omelette for... Huh? A snack? Uh, no, there's no way we can finish this much... Uh, no, even if you tell us to \"help ourselves\"... Uhm...",
+        "H2100": "21...0...0... Phew. Admiral, we've done our best, right? I'm stuffed... I can't eat anymore omelette... But, there's still so much... I know! Let's call in some support.",
+        "H2200": "2200. Admiral, thanks to DesDiv9 and DesDiv21, all the omelette is finished. Destroyers sure are amazing. Thanks, all of you. Be sure to help out again next time.",
+        "H2300": "2300. Admiral, a lot happened today but it was fun, right? I hope tomorrow will be good too. Go get some sleep. See you tomorrow."
+    },
+    "382": {
+        "Intro": "I'm the escort carrier, Unyou. That's right, I used to be a Nitta Maru-class freighter, but I'm a carrier now. Admiral, I look forward to working with you today too. Let's get going.",
+        "Poke(1)": "Admiral, did you call for me? Yes. Understood.",
+        "Poke(3)": "That's right. I was a luxurious and excellent freighter. Now I'm an excellent escort carrier.",
+        "Equip(1)": "This just might... work.",
+        "Equip(2)": "Well, I am a carrier. That's right.",
+        "Battle": "The enemy? We have to engage them? We have to. I can do this!",
+        "Yasen(1)": "I hate... I hate the seas at night. But still, lookouts be alert. Let's go."
+    },
+    "889": {
+        "Intro": "I'm the remodelled escort carrier, Unyou. That's right, I used to be a Nitta Maru-class freighter, but I'm a carrier now. Admiral, I look forward to working with you today too. Let's get going.",
+        "Poke(3)": "That's right. I was a very luxurious and excellent freighter. Now I'm an excellent escort carrier. Got a problem with that?",
+        "Equip(2)": "I see, this just might work. I'm sure of it.",
+        "Equip(3)": "Aah, I see.",
+        "Battle": "The enemy? We have to engage them? We have to. I can do this!",
+        "Attack": "Unyou Air Wing, prepare for take-off.",
+        "Yasen(2)": "Don't let the enemy get any closer. 931, I'm counting on you!",
+        "H0300": "0300. Great. I'm now equipped with the catapult I've always wanted. The rest of my equipment will work better now. I'm not going to fall behind that American escort carrier now. Right, Admiral?"
     },
     "76": {
         "Intro": "Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out planes one after another is right proper for a carrier, ya know! You can count on me!",
@@ -5009,7 +5100,8 @@
         "2@WhiteDay2021": "Huh? My chocolates were delicious? ...Ad-admiral, so you did savour them. Thank you, Admiral. I'll savour this return gift too. I'm glad.",
         "2@Spring2021": "Spring feels really nice. I know, why don't we have a cherry blossom viewing with the submarine fleet after we're done with this job? Admiral, what do you think? Aha, great. I'll make a feast, alright?",
         "2@Anniversary2021": "Admiral, congratulations. It appears that the fleet is celebrating its 8th Anniversary. It's my 2nd year here. I'll go make a feast to celebrate, alright? Please wait.",
-        "2@Summer2021": "I don't really like summer. So a swimsuit is... Huh? I shouldn't worry about it at all? If you say so... It just makes me feel vulnerable and uneasy. Whoa."
+        "2@Summer2021": "I don't really like summer. So a swimsuit is... Huh? I shouldn't worry about it at all? If you say so... It just makes me feel vulnerable and uneasy. Whoa.",
+        "17@Setsubun2022": "My time with the Admiral... You'll pay for this!"
     },
     "639": {
         "Intro": "1st of the Jingei-class submarine tenders, Jingei, reporting. Admiral, I'm truly glad to be able to meet you. Let's continue to do our best together.",
@@ -5075,7 +5167,12 @@
         "Sunk": "Huh? ...Oh no... No way... I'm sinking? ...It can't be... No one... No one told me it could happen...",
         "2@Fall2021": "Yeah, that smells nice. It's irresistible. What do you want to have next from the Naval Base Autumn Festival stalls, Admiral? Umm, I'll have... *omnomnomnom*",
         "2@Saury2021": "The Saury Festival, right? You can count on me. I'll load a light source to gather all the fish. I'm raring to go!",
-        "3@Saury2021": "Mmmm, the smell of fresh grilled saury is irresistible! Just add some grated daikon and a dash of soy sauce and it's the best, don't you think?"
+        "3@Saury2021": "Mmmm, the smell of fresh grilled saury is irresistible! Just add some grated daikon and a dash of soy sauce and it's the best, don't you think?",
+        "2@Xmas2021": "It's Christmas, huh. How nice. I kind of like it! Admiral, this is good! Open wide. It's good, right?",
+        "4@Xmas2021": "What is it, sis? Come on, it's just a bit of fun. Don't you think you're being a bit too smothering? You don't think you are? I wonder about that.",
+        "2@YearsEnd2021": "End of Year major cleanup, huh? Even the 6th Fleet has come out to clean? Well, let's get it over with in a flash, I want to go under the kotatsu!",
+        "2@NewYears2022": "Admiral, Jingei, Happy New Year. I'll be in your care this year as well. Sis, don't cause too much trouble for the Admiral. Huh? It's the other way around? I dunno about that. Admiral, is that true?",
+        "2@Setsubun2022": "Setsubun~, Setsubun~. Humm, hummm, hummmm~. Who's the demon for the 6th Fleet? Is it me? ...Hmmm? Guh, it's big sis? Yiiiikes. Well, you gotta do what you gotta do. Alright everyone, I'll hand out the beans. Huh?"
     },
     "640": {
         "Intro": "Admiral, 2nd ship of the Jingei-class submarine tenders, Chougei, reporting in. You're taking very good care of my elder sister today too. Yes! You can totally leave the submarines to me.",
@@ -5670,7 +5767,8 @@
         "3@Summer2021": "I tried on some summer clothes. How do I look? Outside of the northern and polar regions, I think it'd be nice to be dressed like this. It's cooling.",
         "2@Fall2021": "*sniff sniff sniff sniff sniff* It smells good. It's an autumn festival? Nice. Everything looks so good. Each stall has its own exciting characteristic, don't you think?",
         "2@Saury2021": "Saury. Supporting the saury fishing? Understood. I'm very familiar with the northern seas. You can count on me.",
-        "3@Saury2021": "I'll try to be the \"Miraculous Saury Fisherman\" too."
+        "3@Saury2021": "I'll try to be the \"Miraculous Saury Fisherman\" too.",
+        "2@NewYears2022": "Admiral, Happy New Year. Please watch over me this year as well... Wha? This T-shirt? It's a Special Operations New Year's T-shirt I made myself. Shall I make one for you?"
     },
     "645": {
         "Intro": "I'm the lighthouse tender, Souya. I can't carry any weapons, but... I can carry lots of other things. I'll keep doing my best today too!",
@@ -5681,7 +5779,8 @@
         "Join": "Patrol boat Souya, weighing anchor.",
         "Sortie": "Lighthouse tender Souya, setting sail.",
         "Yasen(2)": "Wh-what do I do now!?",
-        "Damaged(2)": "Hmm!? I think I hit something. I can still move? No problems?"
+        "Damaged(2)": "Hmm!? I think I hit something. I can still move? No problems?",
+        "2@NewYears2022": "Admiral, Happy New Year. Please watch over me this year as well. I see, you wish for maritime safety and peaceful seas this year. I'll pray for that too."
     },
     "650": {
         "Intro": "I'm the Antarctic research vessel, Souya. Yes, this orange and white uniform is lovely, isn't it? I've been upgraded quite extensively. I'll keep doing my best, even on a voyage to Antarctica.",
@@ -5692,7 +5791,8 @@
         "Join": "Souya, setting sail! ...I'll definitely manage it and come home.",
         "Equip(1)": "The rotary-wing aircraft, helicopters, are ready to go. I was remodelled so I could do this!",
         "Sortie": "Antarctic research vessel Souya, departing.",
-        "MVP": "The seas are peaceful. Odaiba right now is a nice place too."
+        "MVP": "The seas are peaceful. Odaiba right now is a nice place too.",
+        "2@NewYears2022": "Admiral, Happy New Year. Please watch over me this year as well. I've put on my orange finery. Thank you very much. Admiral, will you accompany me to the first shrine visit? Yes, to pray for maritime safety... Th-thank you. Let's get going."
     },
     "544": {
         "Intro": "It's a pleasure to meet you. My name is Gambier Bay... hawaa! D-Don't shoot! Whew... thank goodness...",
@@ -6863,7 +6963,11 @@
         "2@Rainy2021": "Rain... won't bother me once I'm underwater. *nod*",
         "2@Summer2021": "Yona, is that summer equipment... allowed?",
         "2@Fall2021": "What's that? Something smells very good. An autumn festival? Wow.",
-        "2@Saury2021": "Saury? What about them? Help out with saury fishing and get some delicious saury to eat... Understood. I'll help."
+        "2@Saury2021": "Saury? What about them? Help out with saury fishing and get some delicious saury to eat... Understood. I'll help.",
+        "2@Xmas2021": "The Christmas feast is amazing. I want to save some for later.",
+        "2@YearsEnd2021": "The 6th fleet are also doing Major Cleanup? Understood. I'll do my best with the Major Cleanup.",
+        "2@NewYears2022": "Admiral, Happy New Year. The 6th Fleet is still hale and hearty this year too.",
+        "2@Setsubun2022": "The 6th Fleet's demon is... Ah, that submarine tender called Jingei."
     },
     "887": {
         "Intro": "Admiral, I'm probably the fastest under the sea. I'm the improved Sentaka-class, I-203... I'm ready to sortie at any time... Dangerous? Right now it's... Yeah, only to enemies. I've been completely overhauled, so just watch me.",
@@ -7434,6 +7538,70 @@
         "Join": "I-type submarine 504, heading out! Yes!",
         "Equip(2)": "Surprising, right? Anti-air combat is just hanya, hanya~!",
         "Battle": "Enemies spotted~ Now, shall we do this?"
+    },
+    "299": {
+        "Intro": "So you're the Admiral? Hmmm, I see. I'm the Gato-class submarine, Scamp. I'm quite capable. Well, nice to meet you.",
+        "Library": "I'm the Gato-class submarine, Scamp. That's right, one of the most accomplished classes of the war, that Gato-class. I sortied deep into enemy territory many, many times. Despite my countless achievements, in the end I was caught by a Japanese coastal defense ship. Carelessness is very dangerous.",
+        "Poke(1)": "How is everything?",
+        "Poke(2)": "What's up?",
+        "Poke(3)": "I told you, don't poke around there so much! I know my torps aren't so hot, don't rub it in. I'll do you in if you keep being annoying about it.",
+        "Idle": "Hm? A knock? It's unlocked! Admiral ain't here right now though. Geh, you're... a, a coastal defense ship! S-Sorry! Yeah, just leave it there! Okay, okay!",
+        "Married": "Hm, what's the matter Admiral, tired? Well, it happens. Oh, I know - wanna candy? Yeah, here. See? Sweet, ain't it? Not half bad.",
+        "Wedding": "What's up, Admiral? Huh, what's this? For me? You... serious? Really? Okay then, I'll take it. Wow, and it's for me.",
+        "Ranking": "Information? Okay, half a moment.",
+        "Join": "USS Scamp, sally go!",
+        "Equip(1)": "Torpedo? Ahh, yeah, gimme the properly tuned ones, please.",
+        "Equip(2)": "This is really cool. Not half bad, this.",
+        "Equip(3)": "I dunno...",
+        "Supply": "Supply? Thanks.",
+        "Docking(1)": "My bad, gonna take a breather.",
+        "Docking(2)": "Got hurt pretty bad. Sorry.",
+        "Construction": "New girl's in, apparently.",
+        "Return": "Patrol, mission completed.",
+        "Sortie": "Gato-class, Scamp, going on patrol! Setting sail!",
+        "Battle": "Prey in sight! Flood the torpedo tubes! We're going in!",
+        "Attack": "I'll sink ya. Attack!",
+        "Yasen(2)": "Number 1, 2, 3, 4, ready, fire!",
+        "Yasen(1)": "You're not getting away. Pursuing!",
+        "MVP": "Battle stars? I've got seven... well, I guess I can get some more here. Thanks.",
+        "Damaged(1)": "Woah, is... is it bad?",
+        "Damaged(2)": "Wah, what was that, depth charges? From a Hedgehog!?",
+        "Damaged(3)": "Gyaaa! This is bad! Main ballast tank, emergency blow!",
+        "Sunk": "You're kidding... I'm done for, again...? Goodbye... Admiral... it was fun...",
+        "2@Xmas2021": "Huh? You celebrate Christmas here too? Nice. I really like this turkey... Huh? What's that carrier's problem? She's shooting me really dirty looks. I'll sink her.",
+        "2@YearsEnd2021": "End of year major cleanup? Some sort of big cleaning? Eh? Me as well? Ah, well, you see, I'm not really... The entire fleet has a duty to participate...? Rea... really?",
+        "2@NewYears2022": "Happy New Year. Hmm, well, it's so-so. This year? Yeah, I guess I'll count on you... Huh!? Coastal defense ships!? Wh-where!? ...A joke? Don't fuck with me!!",
+        "2@Setsubun2022": "It's Setsubun, right? You can count on me. I understand the plan. Who's the target of the Gato-class, I mean, the submarine fleet?"
+    },
+    "715": {
+        "Intro": "Admiral, you're looking well. That's good to see. Gato-class submarine, Scamp, ready to sortie... Hmm? Don't worry, I said you could leave it to me. Let's go.",
+        "Poke(3)": "Mhm, the torpedoes are in tip-top shape now. Admiral, thanks. I'll head out for a bit again and give 'em a real show!",
+        "Equip(1)": "Torpedo? Ah, these'll do nicely. Many thanks.",
+        "Sortie": "Gato-class, Scamp, going on patrol! Where's my prey? Setting sail! Weigh anchor!",
+        "H0000": "Seems like I'm on duty today. Oh well. Hm, what, you got a problem?",
+        "H0100": "It's one now. Well, I'm off to bed.",
+        "H0200": "Ah? Not while I'm on the job? Really? Shit... It's two now.",
+        "H0300": "It's three now. Hm? Coffee? You brewed it for me? Thanks.",
+        "H0400": "It's four now. Admiral, I brewed some coffee too. Want some? Here. It's... hot.",
+        "H0500": "It's five now. *Yawn* Morning already. Maybe I'll sleep... a bit...?",
+        "H0600": "It's six now. Good morning, everybody!",
+        "H0700": "It's seven now. Mornings mean scrambled eggs, toast, and hot coffee, right? Yeah, I added plenty of sugar. Okay!",
+        "H0800": "It's eight now. Righty, soon as you're done with breakfast, it's off to patrol... ah, what was the Japanese for it, \"shoukai\"? Right, we'll head out to sea and \"shoukai\"! Hurry up already!",
+        "H0900": "It's nine now. Mmm, really do love the sea. Alrighty, 'bout time to submerge. I'm off.",
+        "H1000": "It's ten now. Good, good, the torpedoes ain't in half-bad shape. With these I can...!",
+        "H1100": "It's eleven now. \"Hirumeshi\"? Oh, lunch. Sheesh, I told ya, leave it to me. I brought my special sandwiches. I'll brew some coffee at noon.",
+        "H1200": "It's noon. Lunch is served. This is for you, Admiral. It's great, give it a bite. Hehe, told ya.",
+        "H1300": "It's o- hm? That's... those're... Japanese coastal defense ships!? Don't tell me that Number 4 is here too! I gotta run!",
+        "H1400": "It's two now. R-Right. They're allies now. Right. Hiburi-class? I see. That's... comforting?",
+        "H1500": "It's three... woah, woah, woah, isn't that the real Number 4? It is, isn't it! Ally? Oh, right, she's an ally...",
+        "H1600": "It's four now. Right, allies, yeah... oh, that I-type... no, wait, allies, right!",
+        "H1700": "It's five now. The sunset is pretty here too. Makes me... a little emotional...",
+        "H1800": "It's six now. Man, I'm starving.",
+        "H1900": "It's seven now. What're we doing for dinner? \"Mamiya's\"? Hoh, how is it? Alright, let's go!",
+        "H2000": "*Nom* It's eight now. *Nom* Delish, this place, for real. *Nom nom*",
+        "H2100": "It's nine now. What's that? Those heavy cruisers... Italians? Aren't they pretty messed up? Hmm, best avoid them... Ahh, they're here!",
+        "H2200": "It's ten now. Hah, man am I stuffed. Make me some coffee when we get back, 'kay?",
+        "H2300": "It's eleven now. Thanks again. Mmm, that's good. You make good coffee, Admiral."
     },
     "59": {
         "Intro": "I'm Furutaka. I'll be happy to show how all the good points of heavy cruisers.",
@@ -8913,7 +9081,11 @@
         "2@Fall2021": "It's autumn. There's an ethnic smell wafting around this base. This is... ah.",
         "3@Fall2021": "Admiral, is this the \"Naval Base Autumn Festival\"? Is this that thing? It's great.",
         "4@Fall2021": "Admiral, I started to get along with the Japanese destroyers and they asked me to put on this kimono... I mean, yukata. How do I look?",
-        "2@Saury2021": "Yes, I've heard all about it from the Japanese destroyers I'm close with. Please count on me to support the Saury Operation and sample the catch. No problem!"
+        "2@Saury2021": "Yes, I've heard all about it from the Japanese destroyers I'm close with. Please count on me to support the Saury Operation and sample the catch. No problem!",
+        "2@Xmas2021": "Admiral, Merry Christmas! Even this naval base celebrates it in such an extravagant and merry way. It's like I'm back in the States. What fun... Is that... CV Zuikaku?",
+        "2@YearsEnd2021": "Understood, we will now perform the Naval Base end of year major cleanup. It's the maintenance of the base after all. Houston, you help as well. Ah, the four from ABDA look pretty busy. Oh, the Japanese Destroyers as well? You will do it with me? Thank you! Thanks!",
+        "2@NewYears2022": "Happy New Year, Admiral. I'll be counting on you this year as well. Admiral, I'm looking forward to what this year brings.",
+        "2@Setsubun2022": "Of course I've heard of the Setsubun Festival. I'll be fine. You can count on me. I just need to join forces with the Japanese destroyers and fire on Atlanta, right? Yuudachi, Akatsuki, understood. Open fire!"
     },
     "660": {
         "Intro": "Hi! How are you? First of the Northampton-class, Northampton, here. Admiral, shall we?",
@@ -11281,7 +11453,11 @@
         "2@Fall2021": "Whooo. It's autumn. So this is the Naval Base Autumn Festival Jintsuu told me about. It's nice.",
         "3@Fall2021": "Nice, very nice. I like the atmosphere here. It'd be nice if we had this in Hawaii. Don't you think?",
         "4@Fall2021": "Wh... what do you think, Admiral? Jintsuu taught me about this. This yukata. Do I look good in it? Jintsuu looks good in hers... Huh? Really? Yes! Hooray!",
-        "2@Saury2021": "Ok, ok, I heard you, I heard you. It's the Saury Operation. It takes place at the same time as the Saury Festival, right? Of course, I'll join in. I'll bring all the searchlights! Let's catch all those glimmering fishes!"
+        "2@Saury2021": "Ok, ok, I heard you, I heard you. It's the Saury Operation. It takes place at the same time as the Saury Festival, right? Of course, I'll join in. I'll bring all the searchlights! Let's catch all those glimmering fishes!",
+        "2@Xmas2021": "Nice, nice. It's Christmas! Christmases at Pearl Harbor were great. But well, Christmas here is great too. The food is great.",
+        "2@YearsEnd2021": "Admiral, do you want some gum? Eh? Not the time for that? End of year Naval Base Major Cleanup? What is that? Eh? Cleaning? Let's leave that to the cleaning staf- Ouch! Eh? This is a part of a shipgirl's obligations? A \"must task\"?! Really...? Ugh...",
+        "2@NewYears2022": "Admiral, Happy New Year! Yeah, that's true. It'd be nice if the Pacific remains peaceful this year.",
+        "2@Setsubun2022": "It's here. Setsubun! Helena, we'll relieve Atlanta who's pinned down by the destroyers! Follow me! Oh, DesRon2 is flanking us! Abort! Retreat! Fall back! Fall baaaack!!"
     },
     "711": {
         "Intro": "Aloha, Admiral! I'm the great Honolulu, born in New York, raised in Hawaii, ready and raring to go! Alrighty, let's head out!",
@@ -11351,7 +11527,9 @@
         "3@Summer2021": "I expected this but summer here is so hot compared to when I was operating in the Arctic Ocean. It sure is.",
         "4@Summer2021": "Everyone seems to be getting into heat protective equipment. Maybe I should... No no, no way.",
         "2@Halloween2021": "Oooh. The base festival? It's an unusual festival. The food in the tents look good. What do you recommend?",
-        "2@Saury2021": "A Saury Operation? Fine then. I'll come with. First off, what do we need? Lights? Sonar?"
+        "2@Saury2021": "A Saury Operation? Fine then. I'll come with. First off, what do we need? Lights? Sonar?",
+        "2@YearsEnd2021": "Old Lady, what is it? \"Ou soush\"? Ah, base cleaning? Understood.",
+        "2@NewYears2022": "So we're welcoming the new year together. Admiral, I'll be in your care this year as well."
     },
     "705": {
         "Intro": "HMS Sheffield, ready and waiting. Admiral, I'll be in your care today too. If I'm with you, it'll be a breeze.",
@@ -17431,7 +17609,11 @@
         "2@Rainy2021": "It's hard to be motivated with all this rain. What are all of you making? Teruteru bouzu? I wanna try making one too! Admiral, teach me.",
         "2@Summer2021": "It's reaaally hot here too. The Solomons were pretty hot but everywhere gets hot in summer. I should probably put on a swimsuit. I should.",
         "2@Fall2021": "*sniff sniff* Are those food stalls I smell? I love them! Admiral, where should we start? Well?",
-        "2@Saury2021": "I've heard about this. The Saury Fishing Support Operation and the Saury Festival. I'll be fine. I'm fully equipped. This fall, I'll give it my best!"
+        "2@Saury2021": "I've heard about this. The Saury Fishing Support Operation and the Saury Festival. I'll be fine. I'm fully equipped. This fall, I'll give it my best!",
+        "2@Xmas2021": "Oh? Is this the famous \"Christmas\"? Let's see here... *Nom*! Mmm! Naganami, this is great! It's turkey? I see.",
+        "2@YearsEnd2021": "DesDiv31 end of year major cleanup? I'll leave that to, uh, Takanami! I'm counting on you! Okay, okay, I get it, I will also do it I guess!",
+        "2@NewYears2022": "Admiral, Happy New Year! The rest of DesDiv31 and I will continue to be in your care this year as well, alright? You better do it!",
+        "2@Setsubun2022": "Heheh. It's Setsubun! OK, OK! The demon for us in DesDiv 31 is... Huh!? Kongou!? Sorry, I can't! ... Kirishima!? That's an even bigger nope!"
     },
     "709": {
         "Intro": "I'm the 5th Ship of the Yuugumo-class destroyers, Makinami. Feeling fine today as well. Admiral, what's the matter? You're not feeling up to it? Don't worry about it, I'm here for you. That's right, let's face today head on.",
@@ -17578,7 +17760,11 @@
         "2@Summer2021": "Yeah, summer is pretty hot here too. I don't really want to strip down but I don't think I have a choice. I mean, this is... for protection against the heat, right?",
         "3@Summer2021": "It's supposed to be heat protection... Ehehe. I put it on. Admiral, Fuji, Haya... How do I look? ...I look good? It's nice and cool.",
         "2@Fall2021": "You know, I don't really like autumn... But, ehe, the autumns here are nice. That smell is irresistable. Are they food stalls?",
-        "2@Saury2021": "Oh ho~. So this is the Saury Festival. You can count on me. With these depth charges, it'll be a piece of cake! ...Huh? I can't use it?"
+        "2@Saury2021": "Oh ho~. So this is the Saury Festival. You can count on me. With these depth charges, it'll be a piece of cake! ...Huh? I can't use it?",
+        "2@Xmas2021": "So this is Christmas. Not bad, not bad. Christmas in Rabaul... doesn't sound too bad. Ah, that's not bad either.",
+        "2@YearsEnd2021": "Oh? Ooh! The naval base major cleanup time is here! Yeah! Tama, I leave that area to you! Fuji, Haya, Hama, you girls do this area! All right!",
+        "2@NewYears2022": "Admiral, Tama, Fuji, Haya, Hama, Happy New Year. All of DesDiv32 is counting on you this year as well. Yup. Great.",
+        "2@Setsubun2022": "Well now, it's Setsubun! Who's our demon? Oh, it's Noshiro? Ah, sorry about this. Alright, I'm going to get started. Fire!"
     },
     "710": {
         "Intro": "Pleasure to meet you! The 10th ship of the Yuugumo-class, Suzunami, feeling great! Fujinami, Hayanami. Yes, looking sharp! Good, good. Now then, Admiral, if you're headed to Rabaul, I'm coming too. Don't go without me.",
@@ -18669,7 +18855,9 @@
         "2@Rainy2021": "It's really coming down. I don't really like the rainy season. I prefer it when it's sunny. What about you, Admiral?",
         "2@Summer2021": "It's gotten quite hot recently. There's quite a few ships in light clothes about too... Well, it does look nice. Maybe I should dress light too...",
         "2@Fall2021": "It's autumn. There's a pretty nice smell coming from those stalls. Is it that \"Naval Base Autumn Festival\"? Nice. Everything looks tasty.",
-        "2@Saury2021": "I've heard. We're going to catch saury, right? Yeah, protecting the peace of the fisheries is an important job too. Let's get going."
+        "2@Saury2021": "I've heard. We're going to catch saury, right? Yeah, protecting the peace of the fisheries is an important job too. Let's get going.",
+        "2@YearsEnd2021": "Ah, this, huh? The naval base end-of-year major cleanup thing. Guess it's really December... Hmm, I'm not really good at these kinds of things... Ah, I'll still help out though.",
+        "2@NewYears2022": "It's a new year, huh. Nice. Admiral, I'm counting on you this year as well. Yeah, I'll give it my best."
     },
     "706": {
         "Intro": "Yo, you're in a good mood today. Great. D-type destroyer, 2nd ship of the Matsu-class, Take, ready to head out at any time. You need to put on a strong front, right?",
@@ -18735,7 +18923,10 @@
         "Sunk": "Momo, retiring, here? Here... Momo, still... Hasn't achieved anything! I don't like it, not like this...",
         "2@Summer2021": "Urgh... It's hot! Why is summer here so hot!? Huh? Big sis Take, are you allowed... to dress like that? Seriously?",
         "2@Fall2021": "Oh ho ho? *sniff sniff* Something smells good around the base. Let's party! The Naval Base Autumn Festival. I want to go around the stalls too!",
-        "2@Saury2021": "I'm at maximum sparkle! It's the season for saury. It'll be fine, you can count on me. I roughly get what's going on now. I'll do my best."
+        "2@Saury2021": "I'm at maximum sparkle! It's the season for saury. It'll be fine, you can count on me. I roughly get what's going on now. I'll do my best.",
+        "2@Xmas2021": "So this is Christmas? It's so sparkly. Admiral, can I have another slice of Christmas cake? I might have a bit of a bulge. Urgh.",
+        "2@YearsEnd2021": "DesDiv43 end of year major cleanup? Ah, sorry, I wonder if the office will take care of things like this. Huh? What, an office order? For real? No way~!",
+        "2@NewYears2022": "Admiral, have a sparkling new year and many happy returns!"
     },
     "708": {
         "Intro": "I'm Momo. The Idol of Type D Destroyers! That's right, the fourth ship of the Matsu class. Admiral, please treat me well today too!",
@@ -19147,7 +19338,9 @@
         "2@Rainy2021": "Ah, it's really coming down. Must be because I bring the rain with me. Huh? Didn't you know that, Admiral? It's true.",
         "2@Summer2021": "It's gotten hot here too. I like this season because I can bare my belly and not catch a cold.",
         "2@Halloween2021": "Libe looks cute in that. How nice. I want to wear a costume too... You'll allow it? Really?",
-        "2@Saury2021": "Saury? I don't really know what that is but I'll help out. Gre, what should I do? A fishfinder? Don't we have one?"
+        "2@Saury2021": "Saury? I don't really know what that is but I'll help out. Gre, what should I do? A fishfinder? Don't we have one?",
+        "2@YearsEnd2021": "What's going on? The naval base is so noisy. I'm sleepy... I'm gonna go find a quiet place to sleep. *Yawn*",
+        "2@NewYears2022": "Admiral, it's a new year. I'm still a little sleepy in the new year. Can I just go back to sleep? Huh? I can? Really?"
     },
     "658": {
         "Intro": "*Yawn*. Buongiorno. Maestrale-class Destroyer, the youngest sister Scirocco. I woke up properly today as well. Admiral, pleased to meet you~",
@@ -20196,6 +20389,46 @@
         "Join": "101st Escort Squadron, Daitou, sortieing! Follow me!",
         "Damaged(2)": "Ouch... goddammit! This really pisses me off!"
     },
+    "895": {
+        "Intro": "I'm the 3rd ship of the Hiburi-class coastal defense ships, Shounan. Admiral, maritime escorts are getting more and more difficult. I'll do my best.",
+        "Library": "I'm the 3rd ship of the Hiburi-class coastal defense ships, Shounan. After my final outfitting at the Sasebo Naval Arsenal, I was assigned to the 1st Maritime Escort Division. Amongst the deteriorating war situation, I was charged with defending the sea lanes between the mainland and Singapore. I escorted the doomed and desperate Hi convoys through the gauntlet several times... My final moments were as part of a Hi convoy too.",
+        "Poke(1)": "Am I joining a Hi convoy?",
+        "Poke(2)": "Submarines are a threat. We need to take all possible countermeasures, isn't that right?",
+        "Poke(3)": "What is it, Etorofu? Stop messing around. Depth charges are danger... Huh? Wha? Ah, no, it's nothing.",
+        "Idle": "Etorofu, long time no see. How is the war going? Hmm, understood. Right now, I'm also working hard with the Admiral.",
+        "Married": "Will it be a Hi convoy next? Or perhaps a Mi convoy? Huh? A break? ...Really? Yay! Ah, Admiral, I'll go make some tea. Wait here.",
+        "Wedding": "Admiral, what is it? Do you need me for anything? If it's... not urgent then I'll be heading back... Huh? Is this for me? ...R-really? Ah, thank you very much. Admiral, I'll treasure this with all my heart.",
+        "Ranking": "It's important to collate and review information. We can't perform maritime escorts without accurate information.",
+        "Join": "Member of the 1st Maritime Escort Division, coastal defense ship Shounan, sortieing.",
+        "Equip(1)": "I think it's alright.",
+        "Equip(2)": "I wonder... I think it works?",
+        "Equip(3)": "Singapore? Sounds good.",
+        "Supply": "I'll put this to good use. Thank you.",
+        "Docking(1)": "I'm only lightly damaged. I should be back to the front in no time.",
+        "Docking(2)": "I'm heavily damaged. I'll need to get properly repaired and outfitted. Urgh, my deepest apologies.",
+        "Construction": "There's a new ship. She's just been commissioned.",
+        "Return": "The fleet has returned. I'm glad we managed to return safely.",
+        "Sortie": "Hi convoy, escort ship Shounan, weighing anchor. Be on high anti-sub and anti-air alert. Now, let's be off.",
+        "Battle": "It's the enemy! Escort ships, increase speed. Forwards! Hurry with the battle preparations!",
+        "Attack": "Oh no you don't!",
+        "Yasen(2)": "The Hiburi-class has improved performance too!",
+        "Yasen(1)": "Pursue the enemy. Don't let them get away. Forwards!",
+        "MVP": "I am? I-I see. I'm happy... my efforts were recognised. Admiral, Etorofu, thank you for the compliments.",
+        "Damaged(1)": "Aaah!",
+        "Damaged(2)": "What was that? Ah, a torpedo!?",
+        "Damaged(3)": "It can't be. A direct hit? Dump the flammables overboard. You think this will sink me!?",
+        "Sunk": "So I'm... Ngh, sinking... again... Kume, this time I'm going on... ahead... Ah, see you...",
+        "2@Xmas2021": "Christmas in Singapore was nice, but Christmas at the naval base has its own unique feel that's nice too. I kinda like it.",
+        "2@YearsEnd2021": "Hiburi class, end of year major cleaning, confirmed. Ah, Big sis Daitou ran away! Pursuit and secure! Done! Ah, she ran away again!",
+        "2@NewYears2022": "Admiral, Etorofu, Happy New Year. Let's... Yes, let's do our best this year as well.",
+        "2@Setsubun2022": "The demon for the Hi-Convoy Escort Squadron is... Taiyou, right? Understood. Load the Setsubun shells. Fire! Direct hit. Load the next salvo! ...Huh? The target is launching planes? I-I see. Uh, umm, are we in trouble? Is she angry?"
+    },
+    "714": {
+        "Intro": "Admiral, 3rd ship of the Hiburi-class coastal defense ships, Shounan, reporting for duty. Maritime escorts are getting more and more difficult... But I won't let it get me down.",
+        "Poke(1)": "Is it a Hi convoy? Or will it be a Mi convoy?",
+        "Join": "1st Escort Fleet, coastal defense ship Shounan, sortieing.",
+        "Equip(1)": "This is good."
+    },
     "611": {
         "Intro": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. Reporting for duty. Admiral, the Mikura-class will be in your care. I may be small, but I'll try to do my best.",
         "Library": "I'm the 1st ship of the Mikura-class coastal defense ships, Mikura. We're an improved version of the Etorofu-class that are more easily produced with better anti-air and anti-submarine capabilities. Although manpower was reduced, we still increased the fighting power of the fleet escorts. Please remember the fight of the Mikura-class, the successors to the Etorofu-class.",
@@ -20363,7 +20596,11 @@
         "Damaged(2)": "Eeeeek!",
         "Damaged(3)": "Wh-what? Is it a Mustang!? No way!",
         "Sunk": "Yura Bay... Are the people there... safe? ...That's... good then...",
-        "2@Saury2021": "It's the Guard District's... Ah, sorry, the Naval Base's Saury Festival, right? Understood. I may not be of much use, but I'll help out. We need a searchlight to start with, right?"
+        "2@Saury2021": "It's the Guard District's... Ah, sorry, the Naval Base's Saury Festival, right? Understood. I may not be of much use, but I'll help out. We need a searchlight to start with, right?",
+        "2@Xmas2021": "Is this the Christmas I've heard about? Amazing! The food is so good. What's this? Turkey? It's very delicious!",
+        "2@YearsEnd2021": "Naval Base, Guard District, December end of year major cleanup! Mito will also do her best!",
+        "2@NewYears2022": "Happy New Year. It's New Year's Day.",
+        "2@Setsubun2022": "Setsubun. It's the bean throwing festival. My demon is... Wha? Yura!? I-I'm really sorry... about this! There!"
     },
     "712": {
         "Intro": "I'm the Type-D Coastal Defence Ship No. 30, Mito. I'll do my best today too. I will do everything... to protect everyone.",

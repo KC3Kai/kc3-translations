@@ -22,12 +22,16 @@
 		" два" : " Dva",
 		" Mod.2": " Mod.2",
 		" Mk.II": " Mk.II",
-		"後期型II": "{ -}? Late Model II",
-		"後期型": "{ -}? Late Model",
+		"(特務艦)"      : " (AGS)",
+		"(灯台補給船)"  : " (AGL)",
+		"(南極観測船)"  : " (AGB)",
+		"(量産型)"      : " (Mass Production Model)",
+		"後期型II"      : "{ -}? Late Model II",
+		"後期型"        : "{ -}? Late Model",
 		" バカンスmode" : " Vacation Mode",
 		" 夏季上陸mode" : " Summer Landing Mode",
-		" 夏mode" : " Summer Mode",
-		"-壊"   : " (Damaged)"
+		" 夏mode"       : " Summer Mode",
+		"-壊"           : " (Damaged)"
 	},
 
 	"prefixes": {
@@ -60,6 +64,7 @@
 		"秋刀魚"       : "Saury ",
 		"秋の味覚2020" : "Fall 2020 ",
 		"秋の味覚"     : "Fall ",
+		"ガチF作業"    : "Fishing Worksuit ",
 		"秋の私服"     : "Fall Casual Outfit ",
 		"晩秋の私服"   : "Fall Casual Outfit ",
 		"秋冬制服"     : "Fall Uniform ",
@@ -67,6 +72,7 @@
 		"ハロウィン"   : "Halloween ",
 		"Xmas"         : "Christmas ",
 		"クリスマス"   : "Christmas ",
+		"修羅場C99"    : "Crunch Time 2021 ",
 		"修羅場"       : "Crunch Time ",
 		"超修羅場"     : "S.Crunch Time ",
 		"超スーパー修羅場" : "S.D.Crunch Time ",

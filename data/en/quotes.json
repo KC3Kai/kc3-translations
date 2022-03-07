@@ -13630,6 +13630,13 @@
         "H2200": "2200. I guess~ this is fine~. As long as everyone is safe, it's A-OK! Aah, what a great night!",
         "H2300": "2300. Admiral, you look tired, tomorrow's going to be a hard day too, right? Go lie down a while~. Ah, good work!"
     },
+    "903": {
+        "Intro": "Alright, let's go! I'm the remodelled Ayanami-class Destroyer, Amagiri. Let's go all out, Admiral!",
+        "Join": "3rd Torpedo Squadron's Amagiri, heading off! Sendai, I'll be going on ahead, sorry! 11th Destroyer Division, sortie!",
+        "Sortie": "Special-type destroyer Amagiri, set sail! Today is gonna be another good day for encounters. Let's go!",
+        "Yasen(1)": "It's going to be a good night for encounters. Everyone, ready? Let's go! Rush in!",
+        "Damaged(3)": "It's not a direct hit. I'm not gonna sink, I can still run!"
+    },
     "480": {
         "Intro": {
             "0": "Admiral... um... I'm...",
@@ -18814,6 +18821,43 @@
         "H2100": "210... Aha, Fuyu, good evening. Good work. Would you like to have some tea with the Admiral and me?",
         "H2200": "It's now 2200. Thanks for your hard work every day, Admiral, Fuyu. Whew, ufufufu~",
         "H2300": "It's now 2300. Please rest for a while, Admiral. I'll dim the lights a bit."
+    },
+    "533": {
+        "Intro": "8th ship of the Akizuki-class air-defence destroyers, Fuyutsuki, reporting in. Suzu, I've kept you waiting too long. Admiral, let's defend our important things together.",
+        "Library": "I'm the 8th ship of the Akizuki-class air-defence destroyers, Fuyutsuki. I was commissioned in the latter half of the war. I formed part of the 41st Destroyer Division along with my sister ships. We protected the fleets and the seas. My last sortie was escorting Yamato alongside Suzutsuki as part of the 2nd Torpedo Squadron. Now, I continue to protect everyone as a breakwater in Kitakyuushu with Suzutsuki at my side.",
+        "Poke(1)": "I see. I'll have to do it then.",
+        "Poke(2)": "I will return.",
+        "Poke(3)": "No, I want to help my allies. Fighting? That's important but you shouldn't lose sight of what you should defend. Yeah, I did have a difference of opinion with Yukikaze. Yes, it's fine. I do understand where she was coming from.",
+        "Idle": "What is it, Suzu? Yeah, that is a huge pumpkin. Good job. Oh, you're going to stew it in soy sauce? Good idea. Let's share it with the Admiral and Yukikaze. I'm sure they'll be happy.",
+        "Married": "Admiral, about the next operation... Hmm? You don't look so good. Is something wrong? Are you tired? You should rest a while. The war is important but... it's important to look after yourself. I and the others care for you.",
+        "Wedding": "I'm coming in. Admiral, did you need me? If this is about deployment orders for DesDiv41, shall I get Suzutsuki too? It's not? Then what's this about? Looks like the cat has got your tongue. What's the matter? ...I see. Who is this for? It's for me? I can open it right now? Right here... Ehe, I get it. I accept your proposal, Admiral. Yes, of course. I never go back on my word.",
+        "Ranking": "Information? That's important. This is the current situation. It's... not bad.",
+        "Join": "31st Squadron, 41st Destroyer Division, Fuyutsuki, heading out! All ships, don't fall behind!",
+        "Equip(1)": "This is helpful.",
+        "Equip(2)": "This can see me home.",
+        "Equip(3)": "Well, this will be fine.",
+        "Supply": "This helps. Thank you.",
+        "Docking(1)": "Oh, it's just a scratch. No need to worry.",
+        "Docking(2)": "Sorry, this looks like it will take quite some time.",
+        "Construction": "It's a new ship.",
+        "Return": "The fleet has returned safely to port. That's the most important.",
+        "Sortie": "Fuyutsuki, sortieing! Suzu, don't fall behind. Alright, weigh anchor!",
+        "Battle": "We have to do this. Prepare for battle! All ships, battle stations!",
+        "Attack": "Die!",
+        "Yasen(2)": "That isn't... good enough!",
+        "Yasen(1)": "It's night. Let's do this. Fleet, increase speed. Follow me!",
+        "MVP": "Did you say DesDiv41 performed the best? Well, that's all well and good. Right, Suzutsuki? As long as DesDiv41 is around, things won't go their way.",
+        "Damaged(1)": "Gah!",
+        "Damaged(2)": "Tch! This is just a scratch.",
+        "Damaged(3)": "Argh! I... I won't sink! Don't underestimate me!",
+        "Sunk": "It can't... be... I'm... sinking...? Well this is fine... Suzutsuki... I leave the rest... to you..."
+    },
+    "538": {
+        "Intro": "8th ship of the Akizuki-class air-defence destroyers, Fuyutsuki, reporting in. Admiral, Suzu, let's defend the peace of the seas together. Yes, let's go!",
+        "Poke(1)": "Yes. I'll have to do it then. I trust you.",
+        "Poke(2)": "Of course I will return.",
+        "Join": "2nd Torpedo Squadron, 41st Destroyer Division, Fuyutsuki, heading out! All ships, don't fall behind!",
+        "Equip(2)": "This is good equipment. This is sure to see me home."
     },
     "641": {
         "Intro": "Kept you waiting, huh! I'm the Type D destroyer, first of the Matsu-class, Matsu! Don't worry, I can be out in a flash. Just you watch, I'll protect it all! Leave it to me!",

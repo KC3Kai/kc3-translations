@@ -854,7 +854,7 @@
     "CombinedFleet" : "聯合艦隊",
     "CombinedCarrier": "空母機動部隊",
     "CombinedSurface": "水上打擊部隊",
-    "CombinedTransport" : "護衛輸送部隊",
+    "CombinedTransport" : "輸送護衛部隊",
     "CombinedNone": "單艦隊",
     "CombinedLbas" : "基地航空部隊",
 
@@ -1058,6 +1058,7 @@
     "ShipListFullNamePattern": "{0:className} {1:shipName}",
 
     "BattleHistoryAirRaidTip" : "航空基地受損：{0}\n損失狀況：{1}\n燃料/鋁土損失：{2}\n制空狀態：{3}\n{11:敵方推算制空值}\n敵機擊墜率：{4}\n敵方艦攻剩餘：{5}\n敵方艦爆剩餘：{6}\n對敵爆擊最有效之防空航空隊:\n　中隊#1：{7}\n　中隊#2：{8}\n　中隊#3：{9}\n　中隊#4：{10}",
+	"BattleHistoryHeavyAirRaidTip" : "重爆類敵機防空擊墜結果：{0}\n敵方ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip" : "艦隊成本：{0}\n潛在航空基地成本： {1}",
 
     "MasterShipSaltCheck" : "接受存在",

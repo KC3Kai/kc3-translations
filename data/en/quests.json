@@ -1819,13 +1819,19 @@
         "code": "B177",
         "name": "Aircraft Carrier Unyou, weigh anchor!",
         "desc": "Sortie Unyou or Yawata Maru as flagship and up to 5 additional ships to [W7-4], [W7-2M], [W2-5], [W6-4]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 97 Torpedo Bomber (931 Air Group) OR six Screws OR two New Model Aviation Armament Material\n\u00B6Second choice: Either two Action Reports OR two Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR a Prototype Catapult"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 97 Torpedo Bomber (931 Air Group) OR six Screws OR two New Model Aviation Armament Materials\n\u00B6Second choice: Either two Action Reports OR two Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR a Prototype Catapult"
     },
     "969": {
         "code": "B178",
-        "name": "Remodelled Special Type Destroyer [Amagiri Kai Ni], Sortie!",
+        "name": "Remodeled Special Type Destroyer [Amagiri Kai Ni], Sortie!",
         "desc": "Sortie a fleet with Amagiri Kai Ni (D), any two of Aoba, Ooi or Sagiri and up to 3 additional ships to [W2-2], [W7-3-P], [W5-1], [W5-4] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal or a Reinforcement Expansion\n\u00B6Second choice: Either an Action Report OR a \u2605+4 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director OR a \u2605+4 61cm Triple (Oxygen) Torpedo Mount Late Model"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR a Reinforcement Expansion\n\u00B6Second choice: Either an Action Report OR a \u2605+4 12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director OR a \u2605+4 61cm Triple (Oxygen) Torpedo Mount Late Model"
+    },
+    "970": {
+        "code": "B179",
+        "name": "DesDiv 16, Remodeled [Uranami Kai Ni], Sortie!",
+        "desc": "Sortie a fleet with Uranami Kai Ni, Aoba, Kinu and up to 3 additional ships to [W1-4], [W2-3], [W2-5], [W7-2-M] and [W7-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Material OR a New Model Aviation Armament Material OR a Reinforcement Expansion\n\u00B6Second choice: Either a Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4 OR three New Model Aviation Armament Materials OR an Action Report"
     },
 
 
@@ -2312,7 +2318,7 @@
         "unlock": [ 441 ]
     },
     "315": {
-        "code": "C54",
+        "code": "C64",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -3625,6 +3631,12 @@
         "name": "Naval District [Big Cleaning] Festival!",
         "desc": "Have a Drum Canister, 10 Dev. Materials and 1800 steel. Scrap 4 Small Cal. Main Guns, 4 Medium Cal. Main Guns and 4 Large Cal. Main Guns.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards eight Screws or three New Model Artillery Armament Materials or a Construction Battalion"
+    },
+    "1113": {
+        "code": "F107",
+        "name": "Deployment a New Assault Aircraft with [Guided Missile]",
+        "desc": "Have a Ki-102 B, a Type 2 Two-seat Fighter Toryuu Model C, two Skilled Crew Members and four New Model Aviation Armament Materials.",
+        "memo": "\u2718Consumes the items (even with any \u2605).\n\u27a3Rewards a Ki-102 B Kai + No.1 Model 1B Guided Missile"
     },
 
 

@@ -291,8 +291,8 @@
     "SettingsPowerCapPrecap"    : "取閾值前補正",
     "SettingsPowerCapCapped"    : "取閾值前補正並取閾值",
     "SettingsPowerCapPostcap" : "取閾值前後所有補正",
-    "SettingsPowerCritical"     : "同時計算爆擊時攻擊力",
-    "SettingsPowerCriticalTip" : "如果未啟用上述閾值補正，爆擊補正功能也不會生效。",
+    "SettingsPowerCritical"     : "同時計算暴擊時攻擊力",
+    "SettingsPowerCriticalTip" : "如果未啟用上述閾值補正，暴擊補正功能也不會生效。",
 
     "SettingsScreenshot": "螢幕截圖",
     "SettingsSSOutput": "輸出方式",
@@ -786,7 +786,7 @@
     "PanelRepairCost" : "維修消耗燃料：{0}，鋼材： {1}",
     "PanelResupplyCosts" : "將會消耗燃料：{0}，彈藥：{1}，鋁土：{2}",
     "PanelResupplyMarriedHint" : "(婚艦消耗減少15%)",
-    "PanelBattleConsumes" : "戰鬥消耗：\n　（一般戰鬥）燃料：{0:fuel}，彈藥：{1:dayAmmo}（晝戰進入夜戰：{2:incNightAmmo}）\n （夜戰）﹔燃料：{5}，彈藥：{6}\n （對潛點）﹔燃料：{7}，彈藥：{8}\n （空襲）燃料：{3}，彈藥：{4}\n （PT點）﹔燃料：{9}，彈藥：{10}\n （砲擊突襲）﹔0",
+    "PanelBattleConsumes" : "戰鬥消耗：\n（一般戰鬥）燃料：{0:fuel}，彈藥：{1:dayAmmo}\n    （晝戰入夜或夜戰入晝彈藥：{2:incNightAmmo}）\n（夜戰）燃料：{5}，彈藥：{6}\n（對潛點）燃料：{7}，彈藥：{8}\n（空襲）燃料：{3}，彈藥：{4}\n（PT點）燃料：{9}，彈藥：{10}\n（砲擊突襲）燃料﹔0",
     "PanelConsumedSteel"     : "噴射機消耗鋼材：{0}",
     "PanelLbasSortieCosts" : "基地航空隊出擊消耗\n\u2003燃料: {0}, 彈藥: {1}",
 	"PanelTransportPointsAbbr" : "TP",
@@ -1062,7 +1062,7 @@
 
     "ShipListFullNamePattern": "{0:className} {1:shipName}",
 
-    "BattleHistoryAirRaidTip" : "航空基地受損：{0}\n損失狀況：{1}\n燃料/鋁土損失：{2}\n制空狀態：{3}\n{11:敵方推算制空值}\n敵機擊墜率：{4}\n敵方艦攻剩餘：{5}\n敵方艦爆剩餘：{6}\n對敵爆擊最有效之防空航空隊:\n　中隊#1：{7}\n　中隊#2：{8}\n　中隊#3：{9}\n　中隊#4：{10}",
+    "BattleHistoryAirRaidTip" : "航空基地受損：{0}\n損失狀況：{1}\n燃料/鋁土損失：{2}\n制空狀態：{3}\n{11:敵方推算制空值}\n敵機擊墜率：{4}\n敵方艦攻剩餘：{5}\n敵方艦爆剩餘：{6}\n對敵暴擊最有效之防空航空隊:\n　中隊#1：{7}\n　中隊#2：{8}\n　中隊#3：{9}\n　中隊#4：{10}",
 	"BattleHistoryHeavyAirRaidTip" : "超重爆防空擊墜判定(按鈕時機)：{0}\n敵方ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip" : "艦隊成本：{0}\n潛在航空基地成本： {1}",
 

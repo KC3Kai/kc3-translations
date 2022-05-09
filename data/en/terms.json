@@ -837,7 +837,7 @@
 	"PanelToggleSounds" : "Toggles in-game sound",
 	"PanelToggleAlert" : "Disables the taiha alert sound until the next API call",
 	"PanelFitWindow" : "Resizes the browser window to fit the game when not in full screen mode",
-	"PanelExportToKCDB" : "Export to the Kancolle-calc DeckBuilder",
+	"PanelExportToKCDB" : "Export to the Kancolle-calc DeckBuilder\nHolding Alt key export to the KCImgBuilder\nHolding Ctrl/Meta key export to LBAS Simulator",
 	"PanelToggleQuestComplete" : "Clicking this button marks the corresponding quest to be removed from the KC3\u6539 quest list.",
 	"PanelReloadQuotes" : "Check for internal quotes.json update if using a dev build",
 	"PanelReloadQuests" : "Check for internal quests.json update if using a dev build",

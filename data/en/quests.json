@@ -1832,7 +1832,14 @@
         "code": "B179",
         "name": "16th Cruiser Division, Remodeled Uranami Kai Ni, Sortie!",
         "desc": "Sortie a fleet with Uranami Kai Ni, Aoba, Kinu and up to 3 additional ships to [W1-4], [W2-3], [W2-5], [W7-2-M] and [W7-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Material OR a New Model Aviation Armament Material OR a Reinforcement Expansion\n\u00B6Second choice: Either a Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4 OR three New Model Aviation Armament Materials OR an Action Report"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a Reinforcement Expansion\n\u00B6Second choice: Either a Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4 OR three New Model Aviation Armament Materials OR an Action Report"
+    },
+    "974": {
+        "code": "B180",
+        "name": "Isonami Kai Ni, Weigh Anchor!",
+        "desc": "Sortie a fleet with Isonami Kai Ni and up to 5 additional ships to [W1-2], [W1-3] and [W5-1]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either nine Buckets OR a New Model Artillery Armament Materials OR a Reinforcement Expansion\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model A Kai Ni OR two 61cm Triple (Oxygen) Torpedo Mount OR nine Development Materials",
+        "unlock": [ 356 ]
     },
 
 
@@ -2237,6 +2244,22 @@
         "tracking": [ [0,2], [0,2], [0,2], [0,2] ],
         "trackingDesc": [ "{0} S-Rank [W5-2]", "{0} S-Rank [W5-5]", "{0} S-Rank [W6-5]", "{0} A-Rank+ [W6-4]" ]
     },
+    "973": {
+        "code": "By11",
+        "name": "Annual UK-US Joint Surface Fleet - May",
+        "desc": "Sortie 3 British/American ships, no any CV(L/B) and up to 3 additional ships to [W3-1], [W3-3], [W4-3] and [W7-3-P]. A-Rank+ the boss node of each.",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bJapan-UK-US Joint Surface Fleet, Weigh Anchor!\n\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR a Skilled Crew Member OR a New Model Aviation Armament Materials\n\u00B6Second choice: Either two Swordfish (Seaplane Model) OR a SOC Seagull OR a OS2U",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-3]", "{0} A-Rank+ [W4-3]", "{0} A-Rank+ [W7-3-P]" ]
+    },
+    "975": {
+        "code": "By12",
+        "name": "Annual DesDev 19 Sortie - May",
+        "desc": "Sortie Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni, and up to 2 additional ships to [W1-5], [W2-3], [W3-2] and [W5-3]. S-Rank the boss node of each.",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19, All-out Sortie!\n\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR four Screws OR nine Buckets\n\u00B6Second choice: Either two Medals OR two 12.7cm Twin Gun Mount Model A Kai Ni OR a 61cm Triple (Oxygen) Torpedo Mount Late Model",
+        "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
+        "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W2-3]", "{0} S-Rank [W3-2]", "{0} S-Rank [W5-3]" ]
+    },
     
     "301": {
         "code": "C1",
@@ -2559,7 +2582,14 @@
         "memo": "This quest resets on the first quest reset of October.\n\u203bElite DesDiv 15 First Platoon Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a \u2605+2 Type 22 Surface Radar Kai 4 OR a \u2605+2 Skilled Lookouts\n\u00B6Second choice: Either two Irako OR three Screws",
         "tracking": [ [0,4] ]
     },
-
+    "356": {
+        "code": "C65",
+        "name": "Annual DesDiv 19 Excercises - May",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni and up to 2 additional ships.",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19 Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Irako OR four Development Materials\n\u00B6Second choice: Either a \u2605+4 Skilled Lookouts OR a Mamiya OR three Screws",
+        "unlock": [ 975 ],
+        "tracking": [ [0,3] ]
+    },
     
     
     "401": {
@@ -3639,6 +3669,12 @@
         "name": "Deployment of a New Assault Aircraft with Guided Missile",
         "desc": "Have a Ki-102 B, a Type 2 Two-seat Fighter Toryuu Model C, two Skilled Crew Members and four New Model Aviation Armament Materials.",
         "memo": "\u2718Consumes the items (even with any \u2605).\n\u27a3Rewards a Ki-102 B Kai + No.1 Model 1B Guided Missile"
+    },
+    "1114": {
+        "code": "F108",
+        "name": "New Equipment Development Plan I",
+        "desc": "Have three 35.6cm Twin Gun Mounts, 8 Flamethrowers and 800 bauxite. Scrap 3 Small Cal. Main Guns, 3 Medium Cal. Main Guns and 3 Secondary Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR five Development Materials\n\u00B6Second choice: Either a New Model Armament Materials OR a New Model Rocket Development Materials OR three Screws"
     },
 
 

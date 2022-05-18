@@ -3274,7 +3274,7 @@
         "desc": "Have 5000 Furniture Coins, two 7.7mm Machine Guns and two Type 96 Fighters in your inventory. Scrap two 12.7cm Twin Gun Mounts.",
         "memo": "\u2718Consumes the items and equipment. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy"
     },
-    "65x3": {
+    "653_SF2": {
         "code": "SF2",
         "name": "Special Setsubun Mission: Preparation for Setsubun!",
         "desc": "Have 5000 Furniture Coins, two 12cm Single Gun Mounts and two Type 0 Reconnaissance Seaplanes in your inventory. Scrap two 20.3cm Twin Gun Mounts.",
@@ -3842,7 +3842,7 @@
         "memo": "\n\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult",
         "hash": 1203783945
     },
-    "801x": {
+    "801_SB52": {
         "code": "SB52",
         "name": "Happy New Year! Reiwa Era Year 2: Torpedo Squadron, Commence Sorties!",
         "desc": "Sortie a CL(T)/CT as flagship and 4-5 DD to [W1-2], [W1-3], [W1-4] and [W2-1]. No other ship types are allowed. A-Rank+ the boss nodes of each.",
@@ -3850,7 +3850,7 @@
         "unlock": [ 802, 803 ],
         "hash": 748742842
     },
-    "802x": {
+    "802_SB53": {
         "code": "SB53",
         "name": "Best Wishes for the New Year! Sortie, Seaplane Tender!",
         "desc": "Sortie an AV/CAV as flagship and up to 5 additional ships to [W2-2], [W2-3] and [W2-4]. A-Rank+ each boss node twice.",
@@ -3858,7 +3858,7 @@
         "unlock": [ 804 ],
         "hash": 1570337322
     },
-    "803x": {
+    "803_SB54": {
         "code": "SB54",
         "name": "The Second Year of the Reiwa Era Begins! Set Sail, Naval Escorts!",
         "desc": "Sortie a fleet comprised of only DD/DE and 0-1 CVL to [W1-5], [W1-6] and [W7-1]. A-Rank+ all relevant boss nodes twice. Reach [W1-6-N] twice.",
@@ -3866,7 +3866,7 @@
         "unlock": [ 804 ],
         "hash": -128132282
     },
-    "804x": {
+    "804_SB55": {
         "code": "SB55",
         "name": "New Year's Greetings! Light Cruiser Yuubari, Northward!",
         "desc": "Sortie Yuubari or a DD as flagship, 2 other DD and up to 3 additional ships to [W3-5]. S-Rank the boss node 3 times.",
@@ -3881,7 +3881,7 @@
         "unlock": [ 840 ],
         "hash": 494168864
     },
-    "840x": {
+    "840_SB56": {
         "code": "SB56",
         "name": "Weekly Setsubun Mission: Reiwa 2nd Year Setsubun Operation",
         "desc": "Sortie a CVL/CL as flagship, 3 DD/DE and up to 2 additional ships to [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node.",
@@ -3897,7 +3897,7 @@
         "unlock": [ 841 ],
         "hash": -1087598400
     },
-    "841x": {
+    "841_SB57": {
         "code": "SB57",
         "name": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation",
         "desc": "Sortie a CA(V)/AV as flagship, 2 DD/DE and up to 3 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
@@ -3913,7 +3913,7 @@
         "unlock": [ 441, 843 ],
         "hash": 1287650978
     },
-    "843x": {
+    "843_SB58": {
         "code": "SB58",
         "name": "Weekly Setsubun Extra Mission: Reiwa 2nd Year Setsubun Operation, All-Out Sortie!",
         "desc": "Sortie a (F)BB(V)/CV(B) as flagship, 2 DD and up 3 additional ships to [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",

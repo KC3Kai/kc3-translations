@@ -7028,6 +7028,42 @@
         "2@LateFall2017": "It's getting a bit colder. Being dressed like this while on the surface is kind of rough. I'm fine when I dive, though."
     },
     "398": {},
+    "881": {
+        "Intro": "I'm the eldest of the Sentaka-class submarines, I-201. It seems you've been taking care of my sister. You can... Yes, you can call me \"Furei\". Admiral, let's do this.",
+        "Library": "Aiming to be the fastest underwater, I'm the first ship of the next-generation high-speed 1st class submarines, the I-201 class. Though I had quite a few issues, I pushed ahead with my training at Maizuru. I didn't manage to go on any sorties but part of the know-how that went into me was used in the post-war JMSDF submarines.",
+        "Poke(1)": "I'll give it a shot first.",
+        "Poke(2)": "I dunno about that. Well, my underwater speed should be good enough.",
+        "Poke(3)": "What? Gun mounts? Instead of those, I should focus on speed, right? You can't do anything if you're dead. I've gotten various upgrades so I should be fine. I think.",
+        "Idle": "Well I have machinists on board so they're needed to inspect, maintain and replace my batteries. So I'll be fine. I wonder if it'll be enough... Admiral, what is it? I'll be fine. I'll show you I can manage somehow.",
+        "Married": "Admiral, what is it? That's right, I perform important maintenance every day. Would you like to help me?",
+        "Wedding": "Admiral, what is it? I've been servicing my batteries so I'm a bit dirty... Huh? Is this for me? Uh-umm... I need to go wash my hands... Wha? Right now? My finger? Ah, thank you. It makes me happy.",
+        "Ranking": "It's important to understand the information. I'll get it. Here you go.",
+        "Join": "11th Submarine Squadron, time for battle. Sortieing.",
+        "Equip(1)": "I'll give it a shot.",
+        "Equip(2)": "I'll try to use it.",
+        "Equip(3)": "I'll give it a shot. Huh? I shouldn't?",
+        "Supply": "I'm grateful for the precious fuel and torpedoes.",
+        "Docking(1)": "I need to go get fixed up a little. Sorry.",
+        "Docking(2)": "I really need to get fixed up properly.",
+        "Construction": "A new ship has been completed.",
+        "Return": "Operation complete. The fleet has returned to base.",
+        "Sortie": "I-201, weighing anchor. I'll give this a shot. All ahead full!",
+        "Battle": "It's the enemy. Close the hatches, open the vents. Now, let's engage. Watch me.",
+        "Attack": "Tubes one through four, fire!",
+        "Yasen(2)": "Well, I did tell you to watch me.",
+        "Yasen(1)": "I've still got enough torpedoes left. Let's finish them at night.",
+        "MVP": "I did pretty well. Upgrades and improvements to the Sentaka-class made us quite effective. Admiral, Fuumi, what do you think?",
+        "Damaged(1)": "Aaah! O-oh no.",
+        "Damaged(2)": "E-enemy attack. Crash dive, hurry!",
+        "Damaged(3)": "Oh no... I think I can still go on?",
+        "Sunk": "O-oh no... I'm sinking? ...Main tank... blow! ...Huh? ...It didn't work? ...No way..."
+    },
+    "719": {
+        "Intro": "I'm the eldest of the Sentaka-class submarines, the first ship, I-203. Your troubles are over. Admiral, let's do this. Don't you feel like putting an upgraded Sentaka-class to use?",
+        "Poke(2)": "I dunno about that. Just speed isn't enough... RADAR, a RADAR jammer... Electric motors and batteries, and a machine shop for spare parts. I can do lots.",
+        "Join": "6th Fleet, 15th Submarine Division, time for battle. Sortieing.",
+        "Equip(1)": "Sounds good. I'll give it a shot."
+    },
     "882": {
         "Intro": "I think... I'm the fastest under the sea... 3rd ship of the Sentaka-class. I-203. I guess you can call me... Fuumi? Dangerous? Who, me? ...That's not true, right?",
         "Library": "I aim to be the fastest underwater. I'm the latest high-speed 1st class submarine, 3rd ship of the I-201-class submarines, I-203. I didn't take part in actual combat but I'm ready to sortie. Admiral, nice to meet you. I really am fast underwater, so just watch me.",
@@ -13057,6 +13093,14 @@
         "2@Xmas": "How pretty... that Christmas tree... I see, so it's that time of the year again... *sigh*"
     },
     "206": {},
+    "666": {
+        "Intro": "Uh-umm... Admiral... I, the upgraded Isonami... will continue to... uh-umm... do my very best today.",
+        "Poke(1)": "Please...take good care of me!",
+        "Poke(2)": "Ah, yes! I got an upgrade.",
+        "Poke(3)": "Trains? Ah, yes. I've gotten into them recently. I'm interested in you too but I can see you often.",
+        "Equip(1)": "This equipment is the latest, isn't it?",
+        "Battle": "I won't lose as I am now. Fire!"
+    },
     "486": {
         "Intro": "The youngest of the Special Type I Fubuki-class destroyers, Uranami here. Commander, I'm looking forward to working with you.",
         "Library": "The tenth ship of the Special Revised I Type Fubuki-class destroyers, Uranami here. I was born in Sasebo. I formed the 19th Destroyer Division together with Isonami nee-san, Ayanami, and Shikinami. I deployed to Midway at the beginning of the war, and even went to the southern seas. Please remember the 19th Destroyer Division's services.",

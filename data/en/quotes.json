@@ -602,6 +602,17 @@
         "Yasen(1)": "Battleship Yamato, starting the assault!",
         "Yasen(2)": "I see... Very well... then you leave me no choice!"
     },
+    "911": {
+        "Intro": "Upgraded Yamato-class battleship, Yamato, arriving on station!",
+        "Poke(1)": "Admiral, I'll continue to be here for you.",
+        "Poke(3)": "Uhm... Admiral? I am confident in my firepower and living conditions but... Are you fine with this? Jeez.",
+        "Battle": "I'll show you the true firepower of an upgraded Yamato-class! You can count on me. Prepare for battle!",
+        "Yasen(1)": "Ready? Here we go. Fire!"
+    },
+    "916": {
+        "Intro": "Upgraded Yamato-class aviation battleship, Yamato, arriving on station!",
+        "Battle": "Enemy fleet spotted! Yamato Air Corps, please prepare for take-off! I'll take command of the air battle."
+    },
     "143": {
         "Intro": "Hmpf, it seems that I've kept you waiting ... Second of the Yamato-class battleships, Musashi, has arrived!",
         "Library": "Second of the Yamato-class battleships, Musashi. Laid down in Nagasaki. My best regards to you. As with my sister ships Yamato and Shinano, I was constructed under strict secrecy. Ah, I really want to be able to shoot these main cannons... I ask of you, may I? Excellent!",
@@ -13103,12 +13114,16 @@
         "2@Rainy": "It's the rainy season. For some reason, it makes me really calm, so I like it as it is. Eh, Miyuki? That's not it? Ehhhhh!?",
         "2@Xmas": "How pretty... that Christmas tree... I see, so it's that time of the year again... *sigh*"
     },
-    "206": {},
+    "206": {
+        "Intro": "U-ummmm... Admiral? I... will do my best... today.",
+        "Poke(1)": "Please...take good care of me.",
+        "Supply": "I'm very happy!"
+    },
     "666": {
         "Intro": "Uh-umm... Admiral... I, the upgraded Isonami... will continue to... uh-umm... do my very best today.",
         "Poke(1)": "Please...take good care of me!",
         "Poke(2)": "Ah, yes! I got an upgrade.",
-        "Poke(3)": "Trains? Ah, yes. I've gotten into them recently. I'm interested in you too but I can see you often.",
+        "Poke(3)": "Trains? Ah, yes. I've gotten into them recently. I'm interested in you too but I can see you all the time.",
         "Equip(1)": "This equipment is the latest, isn't it?",
         "Battle": "I won't lose as I am now. Fire!"
     },
@@ -16297,6 +16312,44 @@
         "Poke(3)": "The first of the domestically produced submarines after the war was also named Oyashio.",
         "Docking(1)": "Commander, I'm deeply sorry. I need to fall back for a while. I'll be right back.",
         "Yasen(2)": "15th Destroyer Division, Oyashio, attacking!"
+    },
+    "886": {
+        "Intro": "Sir! I'm the 5th ship of the Kagerou-class destroyers, Hayashio. I'm from Uraga. Admiral, nice to meet you. Hey, Admiral, are you listening?",
+        "Library": "Sir! I'm the 5th ship of the Kagerou-class destroyers, Hayashio! I'm from Uraga. I was part of the 15th Destroyer Division with my elder sister Oyashio and others. We participated in major operations up till the middle of the war. Don't forget me or DesRon2.",
+        "Poke(1)": "Alright. I'll give it a shot.",
+        "Poke(2)": "What can I do now... Hey, what can I do?",
+        "Poke(3)": "Hmm? What is it, Admiral...? Ah! You're too close! Huh? My uniform? That's right! It's the uniform of the early-model Kagerou-class like Oyashio. Isn't it nice? Hmm? Natsu? Well she'll probably be here soon.",
+        "Idle": "Ah, you're talking about Oyashio? She's so straight-laced. And her cooking is great too. Admiral, do you prefer someone like her as a wife? You probably do.",
+        "Married": "Alright. I'll do it. I've got to do it, right? You gave me this after all. Well, I'm only doing that.",
+        "Wedding": "What is it, Admiral? Did you call? ...Huh? Oh my!? Is this... Can I open it? Wow, I'm so moved. Admiral, thank you. I'll treasure this.",
+        "Ranking": "Oh, you want to see the information? OK, just wait a minute.",
+        "Join": "I'll be the flagship of Destroyer Squadron 15. Hayashio, sortieing. Everyone ready?",
+        "Equip(1)": "Thank you.",
+        "Equip(2)": "I think it's good.",
+        "Equip(3)": "Urgh... No, no, I'm fine!",
+        "Supply": "Thanks!",
+        "Docking(1)": "Sorry, I'm going to take a quick break.",
+        "Docking(2)": "Ah, they really got me. Sorry, I'm kinda in bad shape.",
+        "Construction": "It looks like a new girl is here. Hey, are you curious?",
+        "Return": "Great job! We made it back safely.",
+        "Sortie": "Torpedo Squadron 2, DesDiv15, Hayashio, weighing anchor. Follow me.",
+        "Battle": "Whooo. Oh no, it's the enemy. Everyone be careful.",
+        "Attack": "I gotta do this!",
+        "Yasen(2)": "I'm part of DesRon2 after all!",
+        "Yasen(1)": "Now then, it's night. This night is DesDiv15's, let's go!",
+        "MVP": "M-me? Of course it's me! Well, I'm part of DesRon 2 so this is par for the course! Ehe~.",
+        "Damaged(1)": "Whoa, that was close.",
+        "Damaged(2)": "Aaaah! Seriously!?",
+        "Damaged(3)": "Ah, they really got me good. C-can I keep going?",
+        "Sunk": "Ah... I can't go on... I'm sorry... All hands, abandon ship... Shiratsuyu... Can I... count on you one more time?"
+    },
+    "720": {
+        "Intro": "Sir! Admiral, how are you today? I'm the 5th ship of the Kagerou-class destroyers, Hayashio from Uraga, and I'm feeling great! Hey, Admiral, are you listening?",
+        "Poke(1)": "Alright. I'll do it.",
+        "Join": "Destroyer Division 15, Hayashio, weighing anchor. Everyone, follow me.",
+        "Equip(2)": "I think this is good! I'm excited!",
+        "Sortie": "Torpedo Squadron 2, Hayashio, I'll be the flagship. Sortieing. Everyone ready?",
+        "Yasen(2)": "Sorry, but I'm part of DesRon2 after all!"
     },
     "190": {
         "Intro": "I'm Hatsukaze, nice to meet you. Admiral, how many of me did you have before me, I wonder?",

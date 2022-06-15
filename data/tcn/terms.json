@@ -796,7 +796,7 @@
     "PanelAirContactTip" : "於「{0:airControl}」的觸接率：\n　成功：{1}%\n　基本：{2}%\n　觸接機選擇失敗：{3}%{4:contactPlanes}",
     "PanelAirContactPlanes" : "\n觸接機優次：\n{1:planeRateList}",
     "PanelAirStrikeTip" : "{1:airContact} 開幕空襲能力：{0}",
-	"PanelFighterPoowerTip" : "{1:formulaType}後制空值﹔{0}",
+	"PanelFighterPoowerTip" : "({1:formulaType}熟練度加成後制空值﹔{0}",
 	"PanelNightContactTip" : "夜間觸接機率：{0}%",
 	"PanelAntiLandPowerTip" : "對地傷害倍率：\n(... 閾值前) 閾值後\n([火力]x{0} +{1}) x{2} +{3}\n中破威力: {4} / {5}",
 	"PanelFleetAATip" : "艦隊防空，影響攻擊機擊墜數量",
@@ -844,7 +844,7 @@
 
     "InferredFighterPower" : "基礎制空值：{0}\n　空劣：{1}，均勢：{2}，空優：{3}，確保：{4}",
     "InferredPvPDisclaimer" : "演習中敵方制空值會因為熟練度和改修度而進一步增加",
-	"InferredEnemyAircraft" : "敵軍機種：\n　戰鬥機（對空 > 0）：{0}\n　非戰鬥機（對空 = 0）：{1}\n　參與空戰加總：{2}\n　不明機種：{3}",
+	"InferredEnemyAircraft" : "敵軍機種：\n　戰鬥機（對空 > 0）：{0}\n　非戰鬥機（對空 = 0）：{1}\n　空戰參加者：{2}\n　不明機種：{3}",
     "InferredLbasPlanes" : "　航空基地：{0} (偵察機: {1})\n　　不明機種：{2}",
     "InferredSupportPlanes" : "　支援艦隊成員：{0}\n　　不明機種：{1}",
     "InferredExceptions" : "未作計算：{0:jsonData}",
@@ -975,8 +975,6 @@
     "Helicopter" : "直升機",
     "AaMachineGun" : "對空機槍",
 	"SkilledLookouts" : "熟練瞭望員",
-	"DomesticSonar" : "日本雷達",
-	"RangefinderAirRadar" : "超大型雷達",
 	
 	"CutinLateTorpRadar" : "潛艇魚雷(晚期)+聲納加成",
 	"CutinLateTorpTorp" : "雙潛艇魚雷(晚期)加成",

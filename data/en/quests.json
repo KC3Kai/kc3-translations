@@ -1653,6 +1653,18 @@
         "desc": "Sortie a fleet with Yamato Kai Ni Juu as flagship and up to 5 additional ships to [W7-3-P], [W7-4], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Mamiya OR two New Model Armament Materials OR eight Screws\n\u00B6Second choice: Either a 15m Duplex Rangefinder Kai + Type 21 Air Radar Kai Ni + Skilled Fire Direction Center OR a Prototype 51cm Triple Gun Mount OR a \u2605+2 10cm Twin High-angle Gun Mount Battery Concentrated Deployment"
     },
+    "980": {
+        "code": "B184",
+        "name": "Powerful DesDiv15, Weigh Anchor!",
+        "desc": "Sortie a fleet with any two of Hayashio Kai Ni, Oyashio Kai Ni or Kuroshio Kai Ni and up to 4 additional ships to [W2-4], [W5-4], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Reinforcement Expansion or a Medal\n\u00B6Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model C Kai 3 OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+    },
+    "981": {
+        "code": "B185",
+        "name": "The Struggling Battle of the US Destroyer Force",
+        "desc": "Sortie a fleet with at least two Fletcher-class or John C. Butler-class DDs and up to 4 additional ships to [W2-3], [W7-3-P], [W7-4] and [W6-4]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Furniture Fairy OR two Mamiya or seven Screws\n\u00B6Second choice: Either four 5inch Single Gun Mount Mk.30 OR a GFCS Mk.37"
+    },
 
 
 
@@ -2123,7 +2135,7 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"
     },
     "326": {
-        "code": "C59",
+        "code": "C67",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -3264,6 +3276,18 @@
         "desc": "Have two 46cm Triple Gun Mount, four Underway Resupplies and 2700 ammo. Scrap 3 Large Cal. Main Guns, 3 Secondary Guns, 3 Seaplane Recons.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model High Temperature High Pressure Boiler OR six Development Materials\n\u00B6Second choice: Either a New Model Armament Materials OR a New Model High Temperature High Pressure Boiler OR a Medal"
     },
+    "1116": {
+        "code": "F110",
+        "name": "New Equipment Development Plan III",
+        "desc": "Have two Type 98 Reconnaissance Seaplane (Night Recon), 10 Flamethrowers and 2800 steel. Scrap 3 Seaplane Recons, 3 Seaplane Bombers and 3 Anti-Air Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR two Screws\n\u00B6Second choice: Either a New Model Aviation Material OR three Screws OR a Skilled Crew Member"
+    },
+    "1117": {
+        "code": "F111",
+        "name": "Deployment of a new Night Recon",
+        "desc": "Have a \u2605max Type 0 Reconnaissance Seaplane Model 11B, 13 Screws, 13 Development Materials and 3 Skilled Crew Members. Set Sendai Kai Ni or Yura Kai Ni as secretary with a \u2605max Type 98 Reconnaissance Seaplane (Night Recon) in her first slot.",
+        "memo": "\u2718Consumes the items.\n\u27a3Rewards a Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)"
+    },
 
 
 
@@ -3839,5 +3863,11 @@
         "name": "[Christmas Limited (Extra Operation)] Activate the final Christmas operation!",
         "desc": "Sortie a fleet with three of Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma or Sakawa and up to three additional ships to [W4-5] and [W5-3]. S-Rank each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Medal OR five Screws\n\u00B6Second choice: Either three New Model Armament Materials OR an Action Report OR a Torpedo Squadron Skilled Lookout"
+    },
+    "979": {
+        "code": "2207B1",
+        "name": "[Limited-Time Mission] Maritime Escort for Resource Recovery",
+        "desc": "Sortie to [W1-2], [W1-3], [W1-5], [W1-6] and [W2-3]. S-Rank each boss node. Reach [W1-6N].",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR 4000 steel or 10 Development Materials\n\u00B6Second choice: Either a Medal or 8000 Fuel or a Furniture Fairy"
     }
 }

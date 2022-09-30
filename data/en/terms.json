@@ -489,6 +489,8 @@
 	"SettingsStrategyTheme" : "Strategy Room Theme",
 	"SettingsStrategyCustomCSS" : "Custom CSS",
 	"SettingsStrategyCustomCSSTip" : "Valid CSS3 declarations. Don't change this if you are not familiar with CSS and KC3 sources. To see changes, reload Strategy Room page. Don't forget that sometimes `!important` is needed to overwrite defaults.",
+	"SettingsAutofitWidth" : "Wider Contents Area",
+	"SettingsWiderStylesTip" : "Auto-fit width of page contents according your current browser size on screen. It's an experimental feature, some pages are still unable to fit the width.\nPut the following line into Custom CSS if you would like to always use max screen width:\n#wrapper { width: calc(100% - 40px); }",
 	"SettingsMaxEventTags" : "Max Event Tags",
 	"SettingsMaxEventTagsTip" : "Recommend keeping it 'Auto'. But when new event starts and before auto update comes to, you may set this to larger value if amount of locking tags is not enough for Locking Planner page. Colors of tags can be changed via Custom CSS.",
 	"SettingsLibrarySyncMarks" : "Sync Highlight Library List",

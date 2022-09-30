@@ -549,6 +549,8 @@
 	"SettingsStrategyTheme" : "作战指挥所主题",
 	"SettingsStrategyCustomCSS" : "自定义CSS样式",
 	"SettingsStrategyCustomCSSTip" : "使用合法的CSS3语法定制作战指挥所样式。如果你不熟悉CSS及KC3改源码，请不要改动。要使改动生效，需要重新加载作战指挥所页面。不要忘记有些情况下要用`!important`标记覆盖默认值。",
+	"SettingsAutofitWidth" : "页面内容自动适应宽度",
+	"SettingsWiderStylesTip" : "根据当前浏览器所在屏幕分辨率自动调整页面中内容的宽度。该功能仍在实验测试阶段，有些页面还不能自动适应宽度。如果希望强制利用屏幕的最大宽度，可以在“自定义CSS样式”中添加以下行：\n#wrapper { width: calc(100% - 40px); }",
 	"SettingsMaxEventTags" : "活动贴条总数",
 	"SettingsMaxEventTagsTip" : "如果锁船规划“Locking”页面的条数与当前活动的不符可以暂时更改为自定义值，否则请保持“自适应”。贴条的颜色可以通过“自定义CSS样式”来定制。",
 	"SettingsLibrarySyncMarks" : "显示游戏图鉴所持情况",

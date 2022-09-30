@@ -633,8 +633,8 @@
 	"BossDebuffedYes" : "新路线已经开放或者BOSS可能已经被削弱了！",
 	"BossDebuffedNo" : "BOSS的削弱状态可能已经被重置！",
 
-	"CatBombServerCommErrorTitle" : "服务器通信出错",
-	"CatBombServerCommErrorMsg"	  : "[{0}]与服务器的通信失败。此问题可能与您的网络连接和环境有关，并非API链接所致。",
+	"CatBombServerCommErrorTitle" : "服务器连接出错",
+	"CatBombServerCommErrorMsg"   : "[{0}]与服务器的通信失败。此问题可能与您的网络连接和环境有关，所以接下来游戏会自动重试连接最多三次，直到全部失败出现猫娘画面。",
 	"CatBombHardAPIErrorTitle" : "API错误",
 	"CatBombHardAPIErrorMsg"   : "服务器返回了API调用错误。可能原因为服务器维护或是您的API链接已过期。您可查看<a href=\"http://zh.kcwiki.moe\" target=\"_blank\">舰娘百科</a>，确认维护信息，或是刷新您的API链接。",
 	"CatBombWrongComputerClockTitle" : "电脑时钟错误！",

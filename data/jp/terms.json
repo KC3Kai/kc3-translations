@@ -563,7 +563,7 @@
 	"PanelErrorStorage" : "ChromeのlocalStorageが無効になっています。KC3改の動作にlocalStorageが必要なので、<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">ここ</a>を参照して有効にしてください。",
 
 	"CatBombServerCommErrorTitle" : "サーバー通信エラー",
-	"CatBombServerCommErrorMsg"   : "[{0}]する時、サーバーとの通信が失敗しました。あなたのAPIリンクの問題ではありませんが、接続環境や混雑の問題でしょう。",
+	"CatBombServerCommErrorMsg"   : "[{0}]する時、サーバーとの通信が失敗しました。接続環境や混雑の問題でしょうから、猫画面までこれからゲームが最大三回までの通信をリトライします。",
 	"CatBombHardAPIErrorTitle" : "APIリンクエラー",
 	"CatBombHardAPIErrorMsg"   : "あなたのAPIリンクが使えなくなったとサーバーから報告を受けました。たぶん期限切れやメンテナンスに入ったせいでしょう。APIリンクを更新するか、<a href=\"https://twitter.com/KanColle_STAFF\" target=\"_blank\">公式のメンテ通知</a>とかで確認をとりましょう。",
 	"CatBombWrongComputerClockTitle" : "パソコンの時計がずれてる",

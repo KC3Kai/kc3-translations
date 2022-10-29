@@ -1,4 +1,4 @@
-## KC3改 Translations [![Build Status](https://travis-ci.org/KC3Kai/kc3-translations.svg?branch=master)](https://travis-ci.org/KC3Kai/kc3-translations)
+## KC3改 Translations ![npm test](https://github.com/KC3Kai/kc3-translations/workflows/npm/badge.svg)
 
 ![KC3改 Logo](http://puu.sh/h4Gbb.png)
 
@@ -32,7 +32,7 @@ Then wait until reply, and an invitation to the KC3Kai organization, under the *
 * Find the directory `\src\data\translations`
 * Inside, you can see an `en` folder, copy it into a new language
 * Go inside your new language folder, and edit the `json` files
-* [Create an issue on the main repo](https://github.com/dragonjet/KC3Kai/issues/new), add a label "translation"
+* [Create an issue on the main repo](https://github.com/KC3Kai/KC3Kai/issues/new), add a label "translation"
    * You can name the subject as: "*\[Translation: (lang_code)\] (what_was_translated)*"
    * For example: "*[Translation: JP] Settings Page*"
 * Paste the translation files / links to its pastebin or puush or any preferred text transmission tool.

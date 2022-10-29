@@ -70,7 +70,15 @@
 		"Radar-CI [1,2]",
 		"Sek./AP-CI [1,3]",
 		"Gemischter AP-CI [1,5]",
-		"CVCI [1,15~1,25]"
+		"CVCI [1.15~1.25]",
+		"", "", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch [2~2.5]",
+		"Nagato CI [1.4~2.61]",
+		"Mutsu CI [1.4~2.61]",
+		"Colorado CI [1.3~2.02]",
+		"", "", "", "", "", "",
+		"Zuiun CI [1.35]",
+		"Luft/See CI [1.3]"
 	],
 
 	"cutinNight": [
@@ -82,7 +90,12 @@
 		"Hauptgeschütz-CI [2,0x1]",
 		"CVCI [1,18~1,25]",
 		"DD Primär-CI [1,3~x1]",
-		"DD Ausguck-CI [1,2~x1]"
+		"DD Ausguck-CI [1,2~x1]",
+		"", "", "", "", "", "", "", "", "", "", "",
+		"Nelson Touch",
+		"Nagato CI",
+		"Mutsu CI",
+		"Colorado CI [1.3~2.02]"
 	],
 
 	"aacitype": [
@@ -116,9 +129,18 @@
 		[],
 		["Musashi Kai+, Ise-Klasse Kai+", "12cm 30-Rohr Raketenwerfer Kai Ni", "Luftabwehrradar"],
 		["Kagerou-Klasse B Kai", "Steilfeuergeschütz", "Luftabwehrradar"],
-		["Tenryuu Kai Ni", "Steilfeuergeschütz", "Steilfeuergeschütz", "Steilfeuergeschütz"],
+		["Tenryuu Kai Ni, Gotland Kai", "Steilfeuergeschütz", "Steilfeuergeschütz", "Steilfeuergeschütz"],
 		["Tenryuu Kai Ni", "Steilfeuergeschütz", "Steilfeuergeschütz"],
-		["Royal Navy Schiffe, Kongou-Klasse Kai Ni", "7 Zoll 20-Rohr UP-Raketenwerfer, 16 Zoll Drillingsgeschütz Mk.I Kai + FKR Typ 284", "QF Zweipfünder Pom-Pom Achtlingsgeschütz"],
+		["Royal Navy Schiffe, Kongou-Klasse Kai Ni+", "7 Zoll 20-Rohr UP-Raketenwerfer, 16 Zoll Drillingsgeschütz Mk.I Kai + FKR Typ 284", "QF Zweipfünder Pom-Pom Achtlingsgeschütz, 7 Zoll 20-Rohr UP-Raketenwerfer"],
+		["Gotland Kai", "Steilfeuergeschütz", "Flugabwehrkanone"],
+		["Fletcher-Klasse", "5 Zoll Geschütz Mk.30 Kai + GFCS Mk.37", "5 Zoll Geschütz Mk.30 Kai + GFCS Mk.37"],
+		["Fletcher-Klasse", "5 Zoll Geschütz Mk.30 Kai + GFCS Mk.37", "5 Zoll Geschütz Mk.30 Kai"],
+		["Fletcher-Klasse", "5 Zoll Geschütz Mk.30 Kai", "5 Zoll Geschütz Mk.30 Kai", "GFCS Mk.37"],
+		["Fletcher-Klasse", "5 Zoll Geschütz Mk.30 Kai", "5 Zoll Geschütz Mk.30 Kai"],
+		[],
+		["Atlanta-Klasse", "GFCS Mk.37 + 5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)", "5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)"],
+		["Atlanta-Klasse", "5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)", "5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)", "GFCS Mk.37"],
+		["Atlanta-Klasse", "5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)", "5 Zoll  Mehrzweck-Zwillingsgeschütz (Enge Aufstellung)"],
 		[]
 	]
 }

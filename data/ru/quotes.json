@@ -1,4 +1,4 @@
-{
+﻿{
     "timing": {
         "baseMillisVoiceLine" : 2000,
         "extraMillisPerChar" : 50
@@ -208,7 +208,7 @@
         "Damaged(2)": "Броня Нагато-класса не просто для вида!",
         "Damaged(3)": "Чёрт! Вражеский флот довольно хорош.",
         "Sunk": "Потонуть в бою... А не в той вспышке света... Я к этому стремилась...",
-        "FriendSupport": "Отлично! Пушки на готове! Бортовой залп, ОГОНЬ!",
+        "Friend41(1)": "Отлично! Пушки на готове! Бортовой залп, ОГОНЬ!",
         "2@NewYears": "С Новым Годом, ха... Так тепло на сердце...",
         "2@Setsubun": "Сецубун, ха... Хочу быть демоном... Нет, это явно не рога! А, эй, эсминцы уже кидаются в меня бобами! Ну, делать нечего... *рык*!!",
         "2@Valentines": "Ах... эм, это... Я сделала немного. Н-нет, это была идея Муцу, ясно? Сказала, что это важно... Ах... как оно... что скажете?",
@@ -351,7 +351,7 @@
         "Damaged(2)": "Я начинаю терять остойчивость... Балластные насосы, скорее!",
         "Damaged(3)": "Гх... Я не затону... в таком... месте!",
         "Sunk": "И снова... Я пала... Экипаж... на верхнюю палубу... Мусаши... Шинано... Оставляю всё на вас...",
-        "FriendSupport": "Главный калибр, просьба поскорее рассчитать выстрелы. Линкор Ямато открывает огонь из всех орудий. ПЛИ!",
+        "Friend41(1)": "Главный калибр, просьба поскорее рассчитать выстрелы. Линкор Ямато открывает огонь из всех орудий. ПЛИ!",
         "H0000": "00:00. Уже темно.",
         "H0100": "01:00. Адмирал, Вам бы отдохнуть.",
         "H0200": "Адмирал? Вы не спали, с Вами всё в порядке? На часах уже 02:00.",
@@ -539,5 +539,43 @@
         "H2100": "9pm. Hmm? What is it, Shimakaze? I'm alright. Yes, you're always looking lively. Haha, that's right!",
         "H2200": "10pm. Hard jobs are also part of the mission. What's wrong, Hamakaze, Kiyoshimo? Yep, I'm still in good health. I... see, that's right.",
         "H2300": "It's already 11pm. Hmph, take the night battle nice and easy, partner. What's that? You're so eager. Heheh, just so eager."
+    },
+    "574": {
+        "Intro": "I'm the aviation cruiser from the Nordic Country of Sweden, Gotland. Admiral, I'll be in your care from now on. I'll work hard to do whatever I can for reconnaissance missions or surface battles.",
+        "Library": "I'm the aviation cruiser that was born in Sweden, Gotland. I'll be in your care, everyone. I don't have much in the way of equipment because I'm a light curiser. I do have one catapult though. Sounds cheap right? No, it's fine. My equipment is the best. Sweden's weapon technology is the cutting edge. So, remember me, okay?",
+        "Poke(1)": "Did you call for me?",
+        "Poke(2)": "Th-that's my... turntable-type catapult.",
+        "Poke(3)": "Ah, that's not my hangar. Ah, stop it! That's dangerous, Admiral. Honestly, I don't dislike skinship but... I'd like it if you could please be more smooth, alright?",
+        "Idle": "The Admiral is... Oh, he looks busy. Alright! I've got some free time then. I wonder what I should do... Should I mess with Mogami? Wha, Admiral! What do you want? You surprised me.",
+        "Married": "Aaah, the Hein Mat? I like it despite its flaws. How do you express that feeling over here... Ah, I got it! \"Wabisabi\"! Eh, that's wrong? I see...",
+        "Wedding": "What are you waiting around for? Aren't we pretty close? Why are you being so formal all of a sudden? Eh, you have something important to say to me? Hmmm, well, okay, it'll make a good memory. Wow, this is beautiful. I'll gladly accept. Was it expensive? I see. Thanks.",
+        "Ranking": "Wait just a moment, I'll get it for you.",
+        "Join": "Aviation cruiser Gotland, weighing anchor. Watch me do my best.",
+        "Equip(1)": "Mmm, I wonder if this is alright...",
+        "Equip(2)": "Nordic equipment is definitely good, don't you think? Yes, they're the best.",
+        "Equip(3)": "It'd be good if... I had one more... catapult.",
+        "Supply": "Tack. Thank you.",
+        "Docking(1)": "I got a little dirty. Can I take a bath?",
+        "Docking(2)": "I got really dirty. Japanese baths are really nice. I like them.",
+        "Construction": "It looks like the construction of a new warship has completed?",
+        "Return": "Operation complete, the fleet has returned. Whew, I'm glad.",
+        "Sortie": "Fleet flagship, aviation cruiser Gotland, sortieing! Attack!",
+        "Battle": "The enemy has been spotted! Battle stations. Ready, everyone?",
+        "Attack": "Subscribe to @pewdiepie, god dammit!",
+        "Yasen(2)": "Hmm, I wonder if this will work... Please hit!",
+        "Yasen(1)": "You want us to press the attack? Really? We have to do this then...",
+        "MVP": "Huh? I'm the best? Well, my homeland's equipment is good quality. Yes, our furniture is good too. I'll show you next time, alright?",
+        "Damaged(1)": "Nooo! Now you've done it!",
+        "Damaged(2)": "Unyayayaya! Whoaaa, that hurts! You're getting me dirty!",
+        "Damaged(3)": "Unyaa! Ngh, jeez, skirts are so drafty! I knew I should've worn pants. Jeez, this is awful!",
+        "Sunk": "Huh? I'm...sinking? No way... It's cold... This can't be true... Aah... Someone please... take my hand... Ad-...miral...",
+        "Friend42(1)": "Aviation cruiser Gotland. We'll be backing you up now!",
+        "Friend42(2)": "European Combined Fleet representative flagship, Gotland, has arrived at the operation area! We'll now back up the friendly fleet. All ships, increase speed. Attack!",
+        "2@Saury2018": "So this is saury? Salt-grilling? It's good! This is delicious, Admiral! I have to help out too!",
+        "2@Fall2018": "Oooh, it's the Naval Base Autumn Festival. This atmosphere is nice. Hey you, the French seaplane tender, what's good to eat? This? Hmmm...",
+        "2@Xmas2018": "Even here in the orient, Christmas is celebrated. Isn't this wonderful? Let's drink tonight! Admiral, cheers!",
+        "2@NewYears2019": "Admiral, Happy New Year!",
+        "2@Setsubun2019": "I've heard of this. It's Settsubuun, right? I'll join in too! The target is... Gangut. Here I gooo! Attack! Eh?",
+        "2@Valentines2019": "Ehe, Admiral, guess whaaat? This is a custom of this fleet, right? I made sure to make it myself. Want it? Well?"
     }
 }

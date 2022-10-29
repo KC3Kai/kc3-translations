@@ -211,5 +211,111 @@
         "name": "Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!",
         "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5]",
         "memo": "You may use up to 3 additional ships.\n\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards the DD, Samuel B. Roberts"
+    },
+    "290": {
+        "code": "SB30",
+        "name": "Saury Fishing: This year's Saury is great as well!",
+        "desc": "Have 3 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 6 Development Materials OR two Searchlights OR 3 Combat Rations\n\u00B6Second choice: Either a Type 3 Active Sonar OR a Skilled Lookouts OR 3 Screws",
+        "unlock": [ 291 ]
+    },
+    "291": {
+        "code": "SB31",
+        "name": "Saury Fishing: I will not yield this important fishery location!",
+        "desc": "Have 10 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 95 Depth Charges OR two Daihatsu Landing Crafts OR an Action Report\n\u00B6Second choice: Either two WG42 (Wurfgerat 42) OR 2 Reinforcement Expansions OR a Night Operations Aviation Personnel",
+        "unlock": [ 292 ]
+    },
+    "292": {
+        "code": "SB32",
+        "name": "Saury Fishing: Such a big haul... It's very helpful.",
+        "desc": "Have 30 Sauries in your inventory. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards furniture and either a GFCS Mk.37 OR an Asashio-class fishing banner OR an Agano-class fishing banner"
+    },
+    "801": {
+        "code": "SB33",
+        "name": "Happy New Year! New Year's Torpedo Squadron, begin Sortie!",
+        "desc": "Sortie a CL/CT/CLT as flagship and up to 5 DD to [W1-2], [W1-3] and [W1-4]. A-Rank+ the boss nodes. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Repair Goddess and either two 25mm Triple Autocannon Mount OR two Combat Rations OR 5 Development Materials",
+        "unlock": [ 802 ]
+    },
+    "802": {
+        "code": "SB34",
+        "name": "Happy Zuiun! Ise and Hyuuga's help!",
+        "desc": "Sortie a AV/CAV/BBV as flagship and up to 5 additional ships to [W2-2], [W2-3] and [W2-4]. A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either 4 Zuiuns OR a Zuiun Model 12 OR 3 Improvement Materials\n\u00B6Second choice: Either a Skilled Crew Member OR 4 12cm 30-tube Rocket Launchers OR two Type 13 Air Radar Kai",
+        "unlock": [ 803 ]
+    },
+    "803": {
+        "code": "SB35",
+        "name": "The year begins with escorting! The New Year's of the Escort Convoy",
+        "desc": "Sortie a fleet of ONLY DD/DE and 0-1 CVL to [W1-5], [W1-6] and [W2-1]. Reach [W1-6] node N twice and A-Rank+ each boss node twice. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards: \n\u00B6First choice: Either a Mamiya OR two Type 2 Depth Charges OR two Present Boxes\n\u00B6Second choice: Either a Furniture Fairy OR 9 Buckets",
+        "unlock": [ 804 ]
+    },
+    "804": {
+        "code": "SB36",
+        "name": "New Year's Greeting! Carrier Task Force welcoming the Year of the Boar in the West!",
+        "desc": "Sortie a CV(L/B) as flagship, 2 DD and up to 3 additional ships to [W4-5]. A-rank+ the boss node four times. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Steady Progress Hanging Scroll and either two New Model Aviation Armament Materials OR a Kyoufuu Kai OR a Shiun"
+    },
+    "235": {
+        "code": "SB38",
+        "name": "Weekly Setsubun Mission: Nansei Islands Naval Base Defense Operation!",
+        "desc": "Sortie a CVL/CL as flagship, 2 DD/DE and up to 3 other ships to [W1-2] and [W1-4]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans",
+        "unlock": [ 236 ]
+    },
+    "236": {
+        "code": "SB39",
+        "name": "Weekly Setsubun Mission: The Northern Sea Recon in Force Operation",
+        "desc": "Sortie a CA/AV as flagship, 2 DD and up to 3 other ships to [W3-1] and [W3-5]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards two units of Setsubun Beans",
+        "unlock": [ 237 ]
+    },
+    "237": {
+        "code": "SB40",
+        "name": "Weekly Setsubun Mission: Decisive Battle at the Nanpou Sea",
+        "desc": "Sortie a BB/CV as flagship, 2 DD and up to 3 other ships to [W5-4] and [W5-5]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards 180 Ranking Points and two units of Setsubun Beans"
+    },
+    "234": {
+        "code": "SB41",
+        "name": "Limited-Time Valentine's Mission: Operation 1",
+        "desc": "Sortie a CL, 2 DD and up to 3 other ships to [W1-4], [W2-1], [W2-2] and [W2-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Mamiya and either two Type 0 Fighter Model 32 OR three Type 91 AP Shells OR a Furniture Fairy"
+    },
+    "238": {
+        "code": "SB42",
+        "name": "Limited-Time Valentine's Mission: Operation 2",
+        "desc": "Sortie a CA(V)/CL(T)/CT as flagship and up to 5 other ships to [W2-4], [W3-1], [W3-2] and [W3-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards a Valentine's chocolate and a choice of ONE of the following:\n1. a New Model Aviation Armament Materials\n2. a Re.2001 OR Kai\n3. a Reinforcement Expansion"
+    },
+    "283": {
+        "code": "SB45",
+        "name": "G.W. Limited-Time Sixth Anniversary Sortie Mission",
+        "desc": "Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u27a3Rewards Furniture and either six Development Materials OR six Flamethrowers OR a Furniture Fairy",
+        "unlock": [ 284 ]
+    },
+    "284": {
+        "code": "SB46",
+        "name": "G.W. Limited-Time Sixth Anniversary Sortie Mission -Extra Operation-",
+        "desc": "Sortie a CL(T)/CT/AV, 2 DD and up to 3 additional ships to [W3-2], [W4-5], [W5-3] and [W6-3]. S-Rank the boss nodes of each. Press F10 to clear the overlay.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u27a3Rewards:\n\u00B6First choice: Either an Action Report OR two Skilled Crew Members\n\u00B6Second choice: Either three New Model Artillery Armament Materials OR 88 Development Materials OR a Blueprint"
+    },
+    "847": {
+        "code": "SB22",
+        "name": "Spring Preparatory Mission: Carry out Preparations for Hinamatsuri!",
+        "desc": "Sortie to [W2-3]. S-Rank the boss node 5 times.",
+        "memo": "\u27a3Rewards 3 Hishimochi and a Reinforcement Expansion",
+        "hash": -24724241
+    },
+    "657": {
+        "code": "SF3",
+        "name": "Spring Preparatory Mission: Preparation for Hinamatsuri!",
+        "desc": "Have 5000 Furniture Coins, two Type 99 Dive Bombers and two 61cm Triple Torpedo Mounts in your inventory. Scrap two 14cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items. Make sure the equipment is unlocked!\n\u27a3Rewards a Furniture Fairy and a Hishimochi",
+        "unlock": [ 847 ]
     }
 }

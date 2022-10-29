@@ -1,4 +1,5 @@
 {
+	"BodyFontFamily" : "",
 	"LangCustomCSS" : "",
 
 	"StrategyRoomTitle" : "KC3改【戦闘指揮所】",
@@ -11,13 +12,13 @@
 
 	"TabTopMenuPlayer"      : "提督",
 	"TabSubMenuProfile"     : "プロフィール",
-	"TabSubMenuScreenshots" : "画像管理",
+	"TabSubMenuScreenshots" : "スクショ画像",
 	"TabSubMenuResources"   : "資源グラフ",
 	"TabSubMenuConsumables" : "資材グラフ",
 	"TabSubMenuExperience"  : "経験値グラフ",
 	"TabSubMenuShowcase"    : "展示場",
 	"TabSubMenuLedger"      : "家計簿",
-	"TabSubMenuDataBackup"  : "データベース",
+	"TabSubMenuDataBackup"  : "バックアップ",
 
 	"TabTopMenuShips"        : "艦娘",
 	"TabSubMenuShipList"     : "艦娘一覧",
@@ -48,6 +49,7 @@
 	"TabSubMenuEncounters" : "敵編成",
 	"TabSubMenuPvP"        : "演習",
 	"TabSubMenuDropRecord" : "ドロップ記録",
+	"TabSubMenuEventStatistics" : "イベント統計",
 
 	"TabTopMenuExpeditions" : "遠征",
 	"TabSubMenuHistory"     : "結果履歴",
@@ -59,6 +61,8 @@
 	"TabSubMenuShips"     : "艦船図鑑",
 	"TabSubMenuEquipment" : "装備図鑑",
 	"TabSubMenuCompare"   : "性能比較",
+	"TabSubMenuGunfits"   : "主砲フィット",
+	"TabSubMenuJukebox"   : "ジュクボックス",
 
 	"NewsfeedRepair"    : "【入渠】していた艦の修理が完了しました。",
 	"NewsfeedConstrct"  : "【工廠】で建造が完了した艦があります。",

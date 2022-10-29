@@ -1,5 +1,4 @@
 {
-	"BodyFontFamily" : "",
 	"LangCustomCSS" : "",
 
 	"StrategyRoomTitle" : "KC3改【戦闘指揮所】",
@@ -54,7 +53,7 @@
 	"TabTopMenuExpeditions" : "遠征",
 	"TabSubMenuHistory"     : "結果履歴",
 	"TabSubMenuScorer"      : "収入計算",
-	"TabSubMenuTable"       : "報酬配置表",
+	"TabSubMenuTable"       : "報酬設定",
 
 	"TabTopMenuLibrary"   : "図鑑",
 	"TabSubMenuUpdates"   : "新規実装",
@@ -64,6 +63,19 @@
 	"TabSubMenuGunfits"   : "主砲フィット",
 	"TabSubMenuJukebox"   : "ジュクボックス",
 
+	"PageCommonHelpTopics" : "ヘルプ",
+
+	"ProfilePageTitle"   : "提督プロフィール",
+	"ProfileAdmiralInfo" : "艦隊司令部情報",
+	"ProfileAccountId"   : "ID",
+	"ProfileAdmiralName" : "提督名",
+	"ProfileComment"     : "コメント",
+	"ProfileServerName"  : "所属",
+	"ProfileAdmiralRank" : "称号",
+	"ProfileHqLevel"     : "Level",
+	"ProfileHqExpValue"  : "経験値",
+
+	"ProfileNewsfeed"   : "履歴",
 	"NewsfeedRepair"    : "【入渠】していた艦の修理が完了しました。",
 	"NewsfeedConstrct"  : "【工廠】で建造が完了した艦があります。",
 	"NewsfeedExped"     : "{0:fleetName}が【遠征】から帰投しました。",
@@ -73,6 +85,32 @@
 	"NewsfeedPvPWin"    : "{0:opponentName}さんとの【演習】で勝利しました。",
 	"NewsfeedPvPLose"   : "{0:opponentName}さんとの【演習】で敗北しました。",
 	"NewsfeedUnknown"   : "{1}",
+	"ProfileNewsfeedToggleButton" : "メッセージ翻訳切り替え（日本語には無効）",
+
+	"ProfileStatistics"  : "統計",
+	"ProfileStatsSortie" : "出撃",
+	"ProfileStatsPvP"    : "演習",
+	"ProfileStatsExpeditions" : "遠征",
+	"ProfileStatsWinRate"   : "勝率",
+	"ProfileStatsWinCount"  : "勝数",
+	"ProfileStatsLossCount" : "敗数",
+	"ProfileStatsSuccessRate"  : "成功率",
+	"ProfileStatsSuccessCount" : "成功数",
+	"ProfileStatsTotalCount"   : "回数",
+
+	"ProfileRankingPoints"    : "戦果",
+	"ProfilePreviousGained"   : "前回更新まで得られた戦果",
+	"ProfileCurrentStartTime" : "今回の集計開始日時",
+	"ProfileCurrentExpCutoff" : "今回開始時の経験値",
+	"ProfileCurrentGained"    : "今回いままで得られた戦果",
+	"ProfileManuallyCutoffButton" : "今すぐ集計区間を更新する",
+
+	"ProfileSortieStatistics"     : "通常海域戦闘",
+	"ProfileLastMonthBattles"     : "今月(最近30日の間)の戦闘回数",
+	"ProfileAverageBattlesPerDay" : "毎日の平均戦闘回数",
+	"ProfileLastTwoDayBattles"    : "二日(48時間内)の戦闘回数",
+	"ProfileLastDayBattles"       : "昨日(24時間内)の戦闘回数",
+	"ProfileBattlesDuringSorties" : "{0:戦闘回数}<span style=\"font-weight:normal\"> ({1}回の出撃)</span>",
 
 	"LodgerPageStepRw"  : "1個前へ",
 	"LodgerPageStepFw"  : "1個次へ",

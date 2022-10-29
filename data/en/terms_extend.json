@@ -63,7 +63,9 @@
 
 	"PageCommonHelpTopics" : "Help Topics",
 
-	"ProfilePageCaption" : "Player Profile",
+	"ProfilePageTitle"   : "Player Profile",
+	"ProfileFirstTimeHints" : "<strong>Welcome to the KC3&#25913; Strategy Room!</strong></br>First-Time Hints:</br><ul><li>More FAQs can be found in the <b>Help Topics</b> section at the top right corner of every page. <b>&#8593;</b></li><li>If this is your first time here, you need to have played the game first with the devtools \"KanColle\" panel opened. See the Help Topics for more details.</li><li>If you only want to import your data backup, remember to close your game tab first.</li><li>If you want to export your ships or equipment to a single image, go to the Showcase tab and select the Export options at the top of the page.</li><li>Generally, if you need to reload or refresh the Strategy Room, it's enough to click on the</br><b>&#8598;heart logo</b> located at the top of the sidebar to the left. You don't need to use your browser's</br><b>&#10227;Reload this page</b> button unless specified to do so.</li><li>This message can be dismissed by clicking on it once.</li></ul>",
+
 	"ProfileAdmiralInfo" : "Admiral Info",
 	"ProfileAccountId"   : "ID",
 	"ProfileAdmiralName" : "Name",
@@ -83,6 +85,7 @@
 	"NewsfeedPvPWin"    : "You were attacked in PvP by \"{0:opponentName}\", but won!",
 	"NewsfeedPvPLose"   : "You were attacked in PvP by \"{0:opponentName}\" and lost!",
 	"NewsfeedUnknown"   : "<span style='color:red;'>Unknown. To help, report that type {0:id} is \"{1:message}\"</span>",
+	"ProfileNewsfeedToggleButton" : "Toggle translated messages",
 
 	"ProfileStatistics"  : "Statistics",
 	"ProfileStatsSortie" : "Sortie",
@@ -93,7 +96,21 @@
 	"ProfileStatsLossCount" : "Loss Count",
 	"ProfileStatsSuccessRate"  : "Success Rate",
 	"ProfileStatsSuccessCount" : "Success Count",
-	"ProfileStatsTotalExpeds"  : "Total Expeditions",
+	"ProfileStatsTotalCount"   : "Total Expeditions",
+
+	"ProfileRankingPoints"    : "Ranking Points",
+	"ProfilePreviousGained"   : "Points earned in the previous interval",
+	"ProfileCurrentStartTime" : "Current interval tracking start time",
+	"ProfileCurrentExpCutoff" : "Cut-off EXP from the last interval",
+	"ProfileCurrentGained"    : "Accumulated points from this interval",
+	"ProfileManuallyCutoffButton" : "Start a new interval",
+
+	"ProfileSortieStatistics"     : "Sortie Statistics",
+	"ProfileLastMonthBattles"     : "Total battles in the last 30 days",
+	"ProfileAverageBattlesPerDay" : "30-day average of battles per day",
+	"ProfileLastTwoDayBattles"    : "Total battles in the last 48 hours",
+	"ProfileLastDayBattles"       : "Total battles in the last 24 hours",
+	"ProfileBattlesDuringSorties" : "{0:battles}<span style=\"font-weight:normal\"> (during {1} sorties)</span>",
 
 	"LodgerPageStepRw"  : "Prev 1 step",
 	"LodgerPageStepFw"  : "Next 1 step",

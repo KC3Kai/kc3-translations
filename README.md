@@ -43,6 +43,11 @@ If there are missing keys in your translated JSON file, it will also extend the 
 
 By enabling the setting `Dev-Only Strategy Pages`, you can check the missing keys in your selected language via Strategy Room Dev-Only Translations page.
 
+#### About `terms_extend.json`
+These are terms only used by Strategy Room pages. As you know, it's incomplete for now, and welcomed as always that needs help to extract hard-coded texts in main repo (html/js files) into this JSON file.
+About the definition of term name, to avoid conflicts and add readabilty, current basic naming scheme is: `PageName` + `RawTextInShort`, without any delimeter in upper camel-case.
+Even some texts are looked similar or nearly the same, but they may be translated in different way in other languages, so basically do not merge or share them in one name term across different pages. Already existing common terms in `terms.json` can be re-used, not necessary to add new term in that case.
+
 #### About `quests.json`
 There are some keys used as meta attributes of quests, such as `code`, `unlock` and `tracking`.
 They are not needed to be translated, and can be just omitted in the `quests.json` of your own language, as long as you do not intend to use different values from English's.

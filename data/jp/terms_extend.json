@@ -8,6 +8,8 @@
 
 	"FloatToolbarBackToTop" : "トップへ戻る",
 	"FloatToolbarRefresh"   : "ページを更新",
+	"PageCommonHelpTopics"  : "ヘルプ",
+
 
 	"TabTopMenuPlayer"      : "提督",
 	"TabSubMenuProfile"     : "プロフィール",
@@ -63,7 +65,6 @@
 	"TabSubMenuGunfits"   : "主砲フィット",
 	"TabSubMenuJukebox"   : "ジュクボックス",
 
-	"PageCommonHelpTopics" : "ヘルプ",
 
 	"ProfilePageTitle"   : "提督プロフィール",
 	"ProfileAdmiralInfo" : "艦隊司令部情報",
@@ -112,6 +113,7 @@
 	"ProfileLastDayBattles"       : "昨日(24時間内)の戦闘回数",
 	"ProfileBattlesDuringSorties" : "{0:戦闘回数}<span style=\"font-weight:normal\"> ({1}回の出撃)</span>",
 
+
 	"LodgerPageStepRw"  : "1個前へ",
 	"LodgerPageStepFw"  : "1個次へ",
 	"LodgerPageRefresh" : "更新する",
@@ -152,15 +154,115 @@
 	"LodgeRatingNG4" : "使い切り主義なの？",
 	"LodgeRatingNG5" : "超赤字だぜ",
 
-	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
+
+	"ShipListPageTitle" : "在籍艦娘一覧",
+	"ShipListOptionsFiltersLabel" : "表示オプション＆フィルタ:",
+	"ShipListFilterYes"        : "〇",
+	"ShipListFilterNo"         : "✕",
+	"ShipListFilterAll"        : "－",
+	"ShipListShow"             : "表示",
+	"ShipListHide"             : "非表示",
+
+	"ShipListEquipStatsLabel"  : "装備ステ込み",
+	"ShipListRemodelLabel"     : "改装段階",
+	"ShipListRemodelMax"       : "最大",
+	"ShipListRemodelNonMax"    : "途中",
+	"ShipListModernLabel"      : "近代化改修",
+	"ShipListModernMax"        : "最大",
+	"ShipListModernNonMax"     : "途中",
+	"ShipListModernExtra"      : "特殊",
+	"ShipListMarriedLabel"     : "ケッコンｶｯｺｶﾘ",
+	"ShipListInFleetLabel"     : "編成中",
+	"ShipListHeartlockLabel"   : "ハートロック",
+	"ShipListSpeedLabel"       : "速力",
+	"ShipListSpeedSlow"        : "低速",
+	"ShipListSpeedFast"        : "高速",
+	"ShipListSpeedFaster"      : "高速+",
+	"ShipListSpeedFastest"     : "最速",
+	"ShipListRangeLabel"       : "射程",
+	"ShipListRangeShort"       : "短",
+	"ShipListRangeMedium"      : "中",
+	"ShipListRangeLong"        : "長",
+	"ShipListRangeVeryLong"    : "超長",
+	"ShipListSparkledLabel"    : "キラキラ",
+	"ShipListOpeningLabel"     : "開幕攻撃",
+	"ShipListOpeningAsw"       : "対潜",
+	"ShipListOpeningTorp"      : "雷撃",
+	"ShipListOpeningBoth"      : "両方",
+	"ShipListExslotOpenLabel"  : "補強増設ｽﾛｯﾄ",
+	"ShipListDuplicatedLabel"  : "重複艦",
+	"ShipListEquipableLabel"   : "大発装備",
+	"ShipListEquipDaihatsu"    : "上陸艇",
+	"ShipListEquipDaihatsuTip" : "上陸艇のみ",
+	"ShipListEquipTank"        : "内火艇",
+	"ShipListEquipTankTip"     : "内火艇のみ",
+	"ShipListEquipBoth"        : "両方",
+	"ShipListEquipEither"      : "どっち",
+	"ShipListEquipNeither"     : "なし",
+	"ShipListSpecificLabel"    : "特定装備",
+	"ShipListEquipFcf"         : "司令部",
+	"ShipListEquipSpf"         : "水戦",
+	"ShipListEquipSpb"         : "水爆",
+	"ShipListEquipLfb"         : "大艇",
+	"ShipListEquipBulge"       : "装甲",
+	"ShipListEquipSub"         : "潜航",
+	"ShipListEquipEx8cm"       : "8cm",
+	"ShipListPagesLabel"       : "ページ数",
+	"ShipListScrollbarLabel"   : "リストの高さ",
+	"ShipListFixed"            : "1画面に固定",
+	"ShipListNormal"           : "通常",
+	"ShipListLockIconsLabel"   : "ハートｱｲｺﾝ",
+	"ShipListLocked"           : "ﾛｯｸ済み",
+	"ShipListUnlock"           : "未ﾛｯｸ",
+	"ShipListShipTypeLabel"    : "表示艦種",
+	"ShipListSTypeAll"         : "全て",
+	"ShipListSTypeNone"        : "無し",
+	"ShipListSTypeInvert"      : "選択反転",
+	"ShipListShipClassLabel"   : "艦型・艦級",
+	"ShipListTooltipLabel"     : "艦船ツールチップ",
+
+	"ShipListShowByNameLabel"   : "表示艦名含む:",
+	"ShipListLevelFilterLabel"  : "表示Lv:",
+	"ShipListLevelUpToLabel"    : "から",
+	"ShipListStatisticsLabel"   : "表示した艦の統計:",
+	"ShipListSumLevelLabel"     : "レベル総計：",
+	"ShipListAverageLevelLabel" : "平均レベル：",
+	"ShipListSumExpLabel"       : "経験値総計：",
+	"ShipListAverageExpLabel"   : "平均経験値：",
+	"ShipListListedShipsLabel"  : "表示した艦数:",
+	"ShipListExportToLabel"     : "出力先:",
+
+	"ShipListResetAll" : "全部初期化",
+
+	"ShipListSortKeysLabel" : "複数列による並べ替え:",
+	"ShipListSortStart"     : "開始",
+	"ShipListSortAscend"    : "▼",
+	"ShipListSortDescend"   : "▲",
+
+	"ShipListGridTitleName"      : "艦船名",
+	"ShipListGridTitleSClass"    : "艦級",
+	"ShipListGridTitleSClassTip" : "ゲーム内の艦級順番",
+	"ShipListGridTitleSType"     : "艦種",
+	"ShipListGridTitleLevel"     : "練度",
+	"ShipListGridTitleEquipment" : "装備・ｽﾛｯﾄ",
+	"ShipListFullNamePattern"    : "{0:className} {1:shipName}",
+	"ShipListPageNoPattern"      : "{0} ページ目",
+
+
+	"AkashiPageTitle"      : "明石改修工廠曜日別表",
+	"AkashiToggleButton"   : "改修不可を非表示",
+	"AkashiEquipLockLabel" : "装備中/ロック中を消費/更新可能とする",
+
 
 	"BattleHistoryAirRaidTip" : "航空基地の被ダメージ計：{0}\n損害タイプ：{1}\n燃料またはボーキの損害予測：{2}\n制空状態：{3}\n{11:推測された敵制空値}\n敵機の被撃墜率：{4}\n敵攻撃機の残り：{5}\n敵爆撃機の残り：{6}\n各防空部隊で対爆値が最も高い中隊：\n　スロット1：{7}\n　スロット2：{8}\n　スロット3：{9}\n　スロット4：{10}",
 	"BattleHistoryHeavyAirRaidTip" : "超重爆迎撃発進結果：{0}\n襲来する敵艦ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip" : "現時点の資材差分：{0}\n基地航空隊コスト：{1}",
 
+
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",
 	"MasterShipGoQuotes" : "字幕セリフチェック",
+
 
 	"Dummy" : "ダミー"
 

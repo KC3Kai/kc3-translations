@@ -252,6 +252,8 @@
 	"ShipListSortDescend"   : "(R)",
 
 	"ShipListGridTitleId"        : "ID",
+	"ShipListGridTitleMasterId"  : "MstID",
+	"ShipListGridTitleSortNo"    : "DexID",
 	"ShipListGridTitleName"      : "Name",
 	"ShipListGridTitleSClass"    : "Class",
 	"ShipListGridTitleSClassShort" : "C.",
@@ -261,6 +263,40 @@
 	"ShipListGridTitleEquipment" : "Equipment",
 	"ShipListFullNamePattern"    : "{0:className} - {1:shipName}",
 	"ShipListPageNoPattern"      : "Page {0}",
+
+
+	"DockingTimePageTitle" : "Docking Time",
+	"DockingTimeHelp1Q" : "What's this page for?",
+	"DockingTimeHelp1A" : "This page lists all ships whose HP aren't full. Both docking time and time required for anchorage repair are shown.",
+	"DockingTimeHelp2Q" : "Why some ships are shown in different background color?",
+	"DockingTimeHelp2A" : "Docking ships and ships on expedition have different colors than others.",
+
+	"DockingTimeGridTitleHp"       : "HP",
+	"DockingTimeGridTitleDocking"  : "Docking",
+	"DockingTimeGridTitleFacility" : "Facility",
+
+
+	"BlueprintsPageTitle" : "Blueprints Required for Ship Remodels",
+	"BlueprintsHelp1Q" : "What is this page for?",
+	"BlueprintsHelp1A" : "This page displays ships that require materials such as blueprints in order to be remodeled.",
+	"BlueprintsHelp2Q" : "Why are some materials grayed-out?",
+	"BlueprintsHelp2A" : "Grayed-out materials have already been used to remodel the ship in question and are therefore no longer required.",
+	"BlueprintsHelp3Q" : "Which ships should be given a higher remodel priority?",
+	"BlueprintsHelp3A" : "This depends on your personal situation. To learn more, refer to these articles:<br/><a href=\"https://en.kancollewiki.net/Help:Ship_Priority\" target=\"_blank\">Ship Priority</a>, <a href=\"https://kancolle.fandom.com/wiki/Partials/Blueprint_Priority\" target=\"_blank\">Blueprint Priority</a>, <a href=\"https://zekamashi.net/kancolle-kouryaku/kunsyou/\" target=\"_blank\">改装優先順位</a>",
+	"BlueprintsHelp4Q" : "What is the purpose of the All Ships view?",
+	"BlueprintsHelp4A" : "The All Ships view displays all ships currently implemented in-game who require materials in order to be remodeled.<br />It also attempts to display grayed-out materials and total needs by considering ships that are already in your possession. In contrast to the Ships in Service view, several columns serve different purposes:<ul><li><b>ID</b> under the Ships in Service view corresponds to the ID assigned to your individual ships, but in All Ships view it is used to refer to the Master ID assigned to the ship's type. You can see these in the <a href=\"#mstship\">Ship Library</a>. For example, your fleet may have two Abukuma Kai Nis - one may have her own ID of 573 while the other has an ID of 5957. However, the Master ID of the ship type known as \"Abukuma Kai Ni\" is always 200.<li><b>Level</b> instead refers to the level required in order to remodel the ship in question.<li>The <b>Requirements</b> column additionally shows you the name of the ship's next form.</ul>",
+	"BlueprintsHelp5Q" : "Why does the data seem weird or incorrect following a game maintenance?",
+	"BlueprintsHelp5A" : "Sometimes the KanColle devs may either neglect to update the remodel data in a timely manner or they may put dummy data into the API result if multiple successive maintenances are scheduled. In order to fix such issues after the in-game data has stabilized, you can try refreshing our remodel info cache by clicking the <b>'Rebuild ship remodel information caches'</b> link on the <a href=\"#profile\">Profile</a> page.",
+
+	"BlueprintsViewTypeShipsInService"  : "Ships in Service",
+	"BlueprintsViewTypeAllShips"        : "All Ships",
+	"BlueprintsFilterHideLabel"         : "Hide:",
+	"BlueprintsFilterUnlockShips"       : "Unlock Ships",
+	"BlueprintsFilterDupeRemodels"      : "Dupe Remodels",
+	"BlueprintsFilterCompleted"         : "Completed",
+	"BlueprintsGridTitleRequirements"   : "Requirements (Blueprints, etc)",
+	"BlueprintsFooterInDemandLabel"     : "In demand:",
+	"BlueprintsFooterInPossessionLabel" : "In possession:",
 
 
 	"AkashiPageTitle"      : "Akashi's Improvement Arsenal",

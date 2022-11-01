@@ -28,7 +28,7 @@
 	"TabSubMenuDocking"      : "入渠一覧",
 	"TabSubMenuLeveling"     : "レベリング",
 	"TabSubMenuBadge"        : "改二バッジ",
-	"TabSubMenuBlueprints"   : "改装必要資材",
+	"TabSubMenuBlueprints"   : "改造必要資材",
 
 	"TabTopMenuEquipment"     : "装備",
 	"TabSubMenuEquipmentList" : "装備一覧",
@@ -239,6 +239,8 @@
 	"ShipListSortAscend"    : "▼",
 	"ShipListSortDescend"   : "▲",
 
+	"ShipListGridTitleMasterId"  : "内部ID",
+	"ShipListGridTitleSortNo"    : "図鑑No",
 	"ShipListGridTitleName"      : "艦船名",
 	"ShipListGridTitleSClass"    : "艦級",
 	"ShipListGridTitleSClassTip" : "ゲーム内の艦級順番",
@@ -247,6 +249,24 @@
 	"ShipListGridTitleEquipment" : "装備・ｽﾛｯﾄ",
 	"ShipListFullNamePattern"    : "{0:className} {1:shipName}",
 	"ShipListPageNoPattern"      : "{0} ページ目",
+
+
+	"DockingTimePageTitle" : "入渠時間一覧",
+	"DockingTimeGridTitleHp"       : "耐久値",
+	"DockingTimeGridTitleDocking"  : "入渠時間",
+	"DockingTimeGridTitleFacility" : "泊地修理",
+
+
+	"BlueprintsPageTitle" : "改造必要の資材とアイテム一覧",
+	"BlueprintsViewTypeShipsInService"  : "在籍艦娘",
+	"BlueprintsViewTypeAllShips"        : "全ての実装艦",
+	"BlueprintsFilterHideLabel"         : "非表示:",
+	"BlueprintsFilterUnlockShips"       : "非ロック",
+	"BlueprintsFilterDupeRemodels"      : "重複改装",
+	"BlueprintsFilterCompleted"         : "最終段階",
+	"BlueprintsGridTitleRequirements"   : "必要資材（改装設計図、戦闘詳報など）",
+	"BlueprintsFooterInDemandLabel"     : "必要総計：",
+	"BlueprintsFooterInPossessionLabel" : "現在所持：",
 
 
 	"AkashiPageTitle"      : "明石改修工廠曜日別表",

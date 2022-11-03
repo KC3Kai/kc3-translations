@@ -114,6 +114,45 @@
 	"ProfileBattlesDuringSorties" : "{0:battles}<span style=\"font-weight:normal\"> (during {1} sorties)</span>",
 
 
+	"ResourcesPageTitle" : "Resource History",
+	"ResourcesFuelLabel"     : "Fuel",
+	"ResourcesAmmoLabel"     : "Ammo",
+	"ResourcesSteelLabel"    : "Steel",
+	"ResourcesBauxiteLabel"  : "Bauxite",
+
+	"ConsumablesPageTitle" : "Consumable Items",
+	"ConsumablesBucketLabel" : "Bucket",
+	"ConsumablesDevMatLabel" : "DevMat",
+	"ConsumablesScrewsLabel" : "Screws",
+	"ConsumablesTorchLabel"  : "Torch",
+	"ConsumablesItemsInPossession" : "In possession:",
+
+	"ExperiencePageTitle" : "Experience",
+	"ExperienceExpValueLabel" : "Experience",
+	"ExperienceLevelLabel"    : "Level",
+
+	"GraphStartDateLabel"   : "Start",
+	"GraphEndDateLabel"     : "End",
+	"GraphIntervalLabel"    : "Interval",
+	"GraphIntervalOption1"  : "1 hour",
+	"GraphIntervalOption2"  : "3 hours",
+	"GraphIntervalOption3"  : "6 hours",
+	"GraphIntervalOption4"  : "12 hours",
+	"GraphIntervalOption5"  : "1 day",
+	"GraphIntervalOption6"  : "3 days",
+	"GraphIntervalOption7"  : "1 week",
+	"GraphIntervalOption8"  : "2 week",
+	"GraphIntervalOption9"  : "3 week",
+	"GraphIntervalOption10" : "4 week",
+	"GraphIntervalOption11" : "30 days",
+	"GraphPresetDay"        : "Day",
+	"GraphPresetWeek"       : "Week",
+	"GraphPresetMonth"      : "Month",
+	"GraphOptionStartZero"  : "Start at zero",
+	"GraphOptionDeltaMode"  : "Delta mode",
+	"GraphOptionTooltips"   : "Tooltips",
+
+
 	"LodgerPageStepRw"  : "Prev 1 step",
 	"LodgerPageStepFw"  : "Next 1 step",
 	"LodgerPageRefresh" : "Apply Changes",
@@ -157,8 +196,9 @@
 
 
 	"ShipListPageTitle" : "Ship List",
+
 	"ShipListHelp1Q" : "Where is the heartlock, fuel, ammo, speed or marry column?",
-	"ShipListHelp1A" : "They are currently merged or hidden by the limitation of page width.",
+	"ShipListHelp1A" : "They are merged or hidden by default thank to the limitation of page width. Could be toggled by the <b>C.Toggle</b> button, or enabled by contents width auto-fit.",
 	"ShipListHelp2Q" : "Where are the ship types of XBB and AP?",
 	"ShipListHelp2A" : "They are not used by our shipgirls (AP taken by abyssal).",
 	"ShipListHelp3Q" : "Can I filter or sort by current HP or repair time of my shipgirls?",
@@ -244,6 +284,7 @@
 	"ShipListListedShipsLabel"  : "Listed ships:",
 	"ShipListExportToLabel"     : "Export to:",
 
+	"ShipListColumnsToggle" : "C.Toggle",
 	"ShipListResetAll" : "Reset All",
 
 	"ShipListSortKeysLabel" : "Sort by Multiple Keys:",
@@ -266,6 +307,7 @@
 
 
 	"DockingTimePageTitle" : "Docking Time",
+
 	"DockingTimeHelp1Q" : "What's this page for?",
 	"DockingTimeHelp1A" : "This page lists all ships whose HP aren't full. Both docking time and time required for anchorage repair are shown.",
 	"DockingTimeHelp2Q" : "Why some ships are shown in different background color?",
@@ -277,6 +319,7 @@
 
 
 	"BlueprintsPageTitle" : "Blueprints Required for Ship Remodels",
+
 	"BlueprintsHelp1Q" : "What is this page for?",
 	"BlueprintsHelp1A" : "This page displays ships that require materials such as blueprints in order to be remodeled.",
 	"BlueprintsHelp2Q" : "Why are some materials grayed-out?",

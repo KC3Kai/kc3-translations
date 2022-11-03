@@ -114,6 +114,45 @@
 	"ProfileBattlesDuringSorties" : "{0:戦闘回数}<span style=\"font-weight:normal\"> ({1}回の出撃)</span>",
 
 
+	"ResourcesPageTitle"     : "資源グラフ",
+	"ResourcesFuelLabel"     : "燃料",
+	"ResourcesAmmoLabel"     : "弾薬",
+	"ResourcesSteelLabel"    : "鋼材",
+	"ResourcesBauxiteLabel"  : "ボーキサイト",
+
+	"ConsumablesPageTitle"   : "資材グラフと保有アイテム",
+	"ConsumablesBucketLabel" : "高速修復材",
+	"ConsumablesDevMatLabel" : "開発資材",
+	"ConsumablesScrewsLabel" : "改修資材",
+	"ConsumablesTorchLabel"  : "高速建造材",
+	"ConsumablesItemsInPossession" : "保有アイテム:",
+
+	"ExperiencePageTitle"     : "経験値グラフ",
+	"ExperienceExpValueLabel" : "経験値",
+	"ExperienceLevelLabel"    : "Level",
+
+	"GraphStartDateLabel"   : "開始",
+	"GraphEndDateLabel"     : "終止",
+	"GraphIntervalLabel"    : "期間",
+	"GraphIntervalOption1"  : "一時間",
+	"GraphIntervalOption2"  : "三時間",
+	"GraphIntervalOption3"  : "六時間",
+	"GraphIntervalOption4"  : "12時間",
+	"GraphIntervalOption5"  : "一日",
+	"GraphIntervalOption6"  : "三日",
+	"GraphIntervalOption7"  : "一週",
+	"GraphIntervalOption8"  : "二週",
+	"GraphIntervalOption9"  : "三週",
+	"GraphIntervalOption10" : "四週",
+	"GraphIntervalOption11" : "三十日",
+	"GraphPresetDay"        : "日間",
+	"GraphPresetWeek"       : "週間",
+	"GraphPresetMonth"      : "月間",
+	"GraphOptionStartZero"  : "Y軸ゼロから",
+	"GraphOptionDeltaMode"  : "差分モード",
+	"GraphOptionTooltips"   : "ツールチップ",
+
+
 	"LodgerPageStepRw"  : "1個前へ",
 	"LodgerPageStepFw"  : "1個次へ",
 	"LodgerPageRefresh" : "更新する",
@@ -232,6 +271,7 @@
 	"ShipListListedShipsLabel"  : "表示した艦数:",
 	"ShipListExportToLabel"     : "出力先:",
 
+	"ShipListColumnsToggle" : "表示列",
 	"ShipListResetAll" : "全部初期化",
 
 	"ShipListSortKeysLabel" : "複数列による並べ替え:",

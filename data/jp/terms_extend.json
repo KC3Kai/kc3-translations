@@ -1,10 +1,10 @@
 {
 	"LangCustomCSS" : "",
 
-	"StrategyRoomTitle" : "KC3改【戦闘指揮所】",
-	"StrategyRoomTitlePattern" : "{0}「{1}」",
-	"LogoTooltip" : "このページをリロードする",
-	"FirstRunMessage" : "Strategy Room is not ready. Please open the game once so we can get data. Also make sure following the instructions, that open the F12 devtools panel first before the Game Player shown.",
+	"StrategyRoomTitle" : "戦闘指揮所",
+	"StrategyRoomTitlePattern" : "KC3改「{1}」【{0}】",
+	"LogoTooltip" : "現在閲覧中のページをリロードする",
+	"FirstRunMessage" : "「戦闘指揮所」の準備はまだ出来でいません。ゲームを一回正常に起動して母港まで表示させてからこのページをリロードしてください。もちろん起動指示通りKC3改を経由して開発者ツールが開いた状態じゃないとゲームデータが取れませんので、ご注意を。",
 
 	"FloatToolbarBackToTop" : "トップへ戻る",
 	"FloatToolbarRefresh"   : "ページを更新",
@@ -19,7 +19,7 @@
 	"TabSubMenuExperience"  : "経験値グラフ",
 	"TabSubMenuShowcase"    : "展示場",
 	"TabSubMenuLedger"      : "家計簿",
-	"TabSubMenuDataBackup"  : "バックアップ",
+	"TabSubMenuDataBackup"  : "ﾃﾞｰﾀﾊﾞｯｸｱｯﾌﾟ",
 
 	"TabTopMenuShips"        : "艦娘",
 	"TabSubMenuShipList"     : "艦娘一覧",
@@ -63,7 +63,7 @@
 	"TabSubMenuEquipment" : "装備図鑑",
 	"TabSubMenuCompare"   : "性能比較",
 	"TabSubMenuGunfits"   : "主砲フィット",
-	"TabSubMenuJukebox"   : "ジュクボックス",
+	"TabSubMenuJukebox"   : "ｼﾞｭｰｸﾎﾞｯｸｽ",
 
 
 	"ProfilePageTitle"   : "提督プロフィール",
@@ -291,6 +291,14 @@
 	"ShipListPageNoPattern"      : "{0} ページ目",
 
 
+	"ConstructionPageTitle" : "艦船建造履歴",
+	"DevelopmentPageTitle" : "装備開発履歴",
+	"DevelopmentFailureOption" : "【開発失敗】",
+	"LargeShipConstrHistoryPageTitle" : "大型艦建造履歴",
+	"ArsenalHistoryResetButton" : "初期化",
+	"ArsenalHistoryPagingInfoLineLabel"  : "行に、1ページあたり。ページ数：<span class=\"total_page\">0</span>、データ数：<span class=\"filtered_items\">0</span> /<span class=\"total_items\">0</span> (<span class=\"percent\">0</span>%)",
+
+
 	"DockingTimePageTitle" : "入渠時間一覧",
 	"DockingTimeGridTitleHp"       : "耐久値",
 	"DockingTimeGridTitleDocking"  : "入渠時間",
@@ -307,6 +315,22 @@
 	"BlueprintsGridTitleRequirements"   : "必要資材（改装設計図、戦闘詳報など）",
 	"BlueprintsFooterInDemandLabel"     : "必要総計：",
 	"BlueprintsFooterInPossessionLabel" : "現在所持：",
+
+
+	"EquipmentListPageTitle" : "保有装備一覧",
+	"EquipmentListTypeAllLabel"     : "<b>全</b>",
+	"EquipmentListGroupByTypeLabel" : "種類ｱｲｺﾝ最適順:",
+	"EquipmentListSortByLabel"       : "ソート順:",
+	"EquipmentListSortBySumOption"   : "ｽﾃ値",
+	"EquipmentListSortBySumTip"      : "ステータスの合計値",
+	"EquipmentListSortByTypeOption"  : "種類",
+	"EquipmentListSortByTypeTip"     : "装備種類別",
+	"EquipmentListSortByTotalOption" : "個数",
+	"EquipmentListSortByTotalTip"    : "保有個数合計",
+	"EquipmentListSortByGameOption"  : "ｹﾞｰﾑ",
+	"EquipmentListSortByGameTip"     : "ゲーム内と同じ順番",
+	"EquipmentListTotalLabel" : "個数計 x{0}{1}",
+	"EquipmentListEquipLabel" : "（{0}装備中、{1}未装備）",
 
 
 	"AkashiPageTitle"      : "明石改修工廠曜日別表",

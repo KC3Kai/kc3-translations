@@ -306,6 +306,36 @@
 	"ShipListPageNoPattern"      : "Page {0}",
 
 
+	"ConstructionPageTitle" : "Construction History",
+	"ConstructionHelp1Q" : "Are values of filters saved?",
+	"ConstructionHelp1A" : "Not persisted for now, but will be kept until next browser reloading.",
+	"ConstructionHelp2Q" : "Can I search resource values for a range?",
+	"ConstructionHelp2A" : "You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
+	"ConstructionHelp3Q" : "Can I do filtering by ship type?",
+	"ConstructionHelp3A" : "Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
+
+	"DevelopmentPageTitle" : "Equipment Development History",
+	"DevelopmentHelp1Q" : "Are values of filters saved?",
+	"DevelopmentHelp1A" : "Not persisted for now, but will be kept until next browser reloading.",
+	"DevelopmentHelp2Q" : "Can I search resource values for a range?",
+	"DevelopmentHelp2A" : "You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
+	"DevelopmentHelp3Q" : "Can I do filtering by ship type?",
+	"DevelopmentHelp3A" : "Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
+	"DevelopmentFailureOption" : "&lt;Penguin&gt;",
+
+	"LargeShipConstrHistoryPageTitle" : "Large Ship Construction History",
+	"LargeShipConstrHelp1Q" : "Are values of filters saved?",
+	"LargeShipConstrHelp1A" : "Not persisted for now, but will be kept until next browser reloading.",
+	"LargeShipConstrHelp2Q" : "Can I search resource values for a range?",
+	"LargeShipConstrHelp2A" : "You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
+	"LargeShipConstrHelp3Q" : "Can I do filtering by ship type?",
+	"LargeShipConstrHelp3A" : "Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
+
+	"ArsenalHistoryResetButton" : "Reset",
+	"ArsenalHistoryPagingInfoLineRemark" : "<!-- Don't change span/class name to ensure data value can be filled -->",
+	"ArsenalHistoryPagingInfoLineLabel"  : "items per page, total pages: <span class=\"total_page\">0</span>, listed items: <span class=\"filtered_items\">0</span> /<span class=\"total_items\">0</span> (<span class=\"percent\">0</span>%)",
+
+
 	"DockingTimePageTitle" : "Docking Time",
 
 	"DockingTimeHelp1Q" : "What's this page for?",
@@ -340,6 +370,27 @@
 	"BlueprintsGridTitleRequirements"   : "Requirements (Blueprints, etc)",
 	"BlueprintsFooterInDemandLabel"     : "In demand:",
 	"BlueprintsFooterInPossessionLabel" : "In possession:",
+
+
+	"EquipmentListPageTitle" : "Equipment List",
+	"EquipmentListHelp1Q" : "Do you have a consolidated equipment list?",
+	"EquipmentListHelp1A" : "Currently, no.",
+	"EquipmentListHelp2Q" : "Where has category 41 gone?",
+	"EquipmentListHelp2A" : "Currently category 41 is only used for Saiun (Disassembled for Transport), no longer available in game for now after Winter 2017 event.",
+
+	"EquipmentListTypeAllLabel"     : "All",
+	"EquipmentListGroupByTypeLabel" : "Group by Type:",
+	"EquipmentListSortByLabel"       : "Sort by:",
+	"EquipmentListSortBySumOption"   : "Sum",
+	"EquipmentListSortBySumTip"      : "By overall stats",
+	"EquipmentListSortByTypeOption"  : "Type",
+	"EquipmentListSortByTypeTip"     : "By category type",
+	"EquipmentListSortByTotalOption" : "Total",
+	"EquipmentListSortByTotalTip"    : "By total amount",
+	"EquipmentListSortByGameOption"  : "Game",
+	"EquipmentListSortByGameTip"     : "By in-game order",
+	"EquipmentListTotalLabel" : "Total {0}{1:equipInfo}",
+	"EquipmentListEquipLabel" : " ({0} Equipped, {1} Equippable)",
 
 
 	"AkashiPageTitle"      : "Akashi's Improvement Arsenal",

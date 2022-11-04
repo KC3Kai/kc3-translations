@@ -264,10 +264,10 @@
 	"ShipListLevelFilterLabel"  : "表示Lv:",
 	"ShipListLevelUpToLabel"    : "から",
 	"ShipListStatisticsLabel"   : "表示した艦の統計:",
-	"ShipListSumLevelLabel"     : "レベル総計：",
-	"ShipListAverageLevelLabel" : "平均レベル：",
-	"ShipListSumExpLabel"       : "経験値総計：",
-	"ShipListAverageExpLabel"   : "平均経験値：",
+	"ShipListSumLevelLabel"     : "レベル合計:",
+	"ShipListAverageLevelLabel" : "平均レベル:",
+	"ShipListSumExpLabel"       : "経験値合計:",
+	"ShipListAverageExpLabel"   : "平均経験値:",
 	"ShipListListedShipsLabel"  : "表示した艦数:",
 	"ShipListExportToLabel"     : "出力先:",
 
@@ -313,8 +313,8 @@
 	"BlueprintsFilterDupeRemodels"      : "重複改装",
 	"BlueprintsFilterCompleted"         : "最終段階",
 	"BlueprintsGridTitleRequirements"   : "必要資材（改装設計図、戦闘詳報など）",
-	"BlueprintsFooterInDemandLabel"     : "必要総計：",
-	"BlueprintsFooterInPossessionLabel" : "現在所持：",
+	"BlueprintsFooterInDemandLabel"     : "必要合計:",
+	"BlueprintsFooterInPossessionLabel" : "現在保有:",
 
 
 	"EquipmentListPageTitle" : "保有装備一覧",
@@ -329,8 +329,9 @@
 	"EquipmentListSortByTotalTip"    : "保有個数合計",
 	"EquipmentListSortByGameOption"  : "ｹﾞｰﾑ",
 	"EquipmentListSortByGameTip"     : "ゲーム内と同じ順番",
-	"EquipmentListTotalLabel" : "個数計 x{0}{1}",
-	"EquipmentListEquipLabel" : "（{0}装備中、{1}未装備）",
+	"EquipmentListTotalLabel" : "保有計: {0}{1}",
+	"EquipmentListEquipLabel" : "（{0}個装備中、{1}個未装備）",
+	"EquipmentListLbasWorld"  : "海域{0} 基地航空隊",
 
 
 	"AkashiPageTitle"      : "明石改修工廠曜日別表",

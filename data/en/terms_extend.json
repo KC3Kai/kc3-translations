@@ -334,10 +334,10 @@
 	"ArsenalHistoryResetButton" : "Reset",
 	"ArsenalHistoryPagingInfoLineRemark" : "<!-- Don't change span/class name to ensure data value can be filled -->",
 	"ArsenalHistoryPagingInfoLineLabel"  : "items per page, total pages: <span class=\"total_page\">0</span>, listed items: <span class=\"filtered_items\">0</span> /<span class=\"total_items\">0</span> (<span class=\"percent\">0</span>%)",
+	"ArsenalHistoryDbFailure" : "Oops! Something was going wrong. See error logs for details.",
 
 
 	"DockingTimePageTitle" : "Docking Time",
-
 	"DockingTimeHelp1Q" : "What's this page for?",
 	"DockingTimeHelp1A" : "This page lists all ships whose HP aren't full. Both docking time and time required for anchorage repair are shown.",
 	"DockingTimeHelp2Q" : "Why some ships are shown in different background color?",

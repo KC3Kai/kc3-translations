@@ -394,6 +394,19 @@
 	"EquipmentListLbasWorld"  : "LBAS World {0}",
 
 
+	"AircraftListPageTitle" : "Aircraft Proficiency",
+	"AircraftListHelp1Q" : "What do the blue text in fighter stats mean?",
+	"AircraftListHelp1A" : "They are active squadrons equipped on a ship (or land-base). They have higher fighter power than usual because plane slot formula is applied.",
+	"AircraftListHelp2Q" : "What do those 'Unnamed Squadron' texts mean?",
+	"AircraftListHelp2A" : "You are able to input any text in those boxes to assign your aircraft squadrons with any name as you wish. They are just human readable identifiers for this page only, do not affect any in-game data. The numbers in tooltip are in-game identifiers.",
+	"AircraftListHelp3Q" : "Does this already involve fighter power proficiency bonus?",
+	"AircraftListHelp3A" : "Yes.",
+
+	"AircraftListSquadNamePlaceholder" : "Unnamed Squadron",
+	"AircraftListLbasWorld"  : "LBAS World {0}",
+	"AircraftListLbasMoving" : "LBAS Moving",
+
+
 	"AkashiPageTitle"      : "Akashi's Improvement Arsenal",
 	"AkashiToggleButton"   : "Toggle Improvable",
 	"AkashiEquipLockLabel" : "Equipped/Locked as Improvable",

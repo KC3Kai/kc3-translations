@@ -686,6 +686,17 @@
 	"BattleKindLongRangeRaid" : "Radar Ambush node",
 	"BattlePreviousEncounters" : "Past Encounters",
 	"BattleUnexpectedDamageTip" : "{0:attackerName} attacks {2:id}: {1:defenderName}, Damage: {3}, Expected: {4}~{5}",
+	"BattleTipFriendly"  : "Friendly",
+	"BattleTipAbyssal"   : "Abyssal",
+	"BattleTipAirResult" : "Result",
+	"BattleTipAaci"      : "AACI",
+	"BattleTipPhaseAirBattle" : "Air Battle",
+	"BattleTipPhaseAirBattleWave2" : " Wave #2 ",
+	"BattleTipPhaseJetAssult" : "Jet Assult",
+	"BattleTipPhaseLbasWave" : "LBAS #{0}",
+	"BattleTipPhaseLbasJet" : "LBAS Jets",
+	"BattleTipPhaseExpedAirSupport" : "Exped Air",
+	"BattleTipPhaseFriendFleet" : "Friend Fleet",
 	
 	"ShipHp"      : "HP",
 	"ShipFire"    : "FP",
@@ -774,7 +785,6 @@
 	"EventHistoryRank1"   : "EASY",
 	"EventHistoryRank2"   : "NORMAL",
 	"EventHistoryRank3"   : "HARD",
-	"StrategyEventGo"     : "Event Run",
 	
 	"PanelDocking" : "Docking",
 	"PanelAkashi" : "Akashi Repairs",
@@ -892,6 +902,7 @@
 	"UntranslatedQuest" : "Untranslated Quest",
 	"UntranslatedQuestTip" : "This is an unidentified or untranslated quest. It cannot be shown here, so please visit the quest page in-game to view.",
 	
+	"StrategyEventGo"   : "Event Run",
 	"StrategyEvents1HP" : "Last Dance!",
 	
 	"PanelWaitActions" : "Waiting for game actions...",

@@ -587,9 +587,51 @@
 	"BattleHistoryExpUnitLabel" : "exp",
 
 
+	"EncountersPageTitle" : "Enemy Encounters",
+	"EncountersWorldPickerDefaultOption" : "Select a world...",
+	"EncountersMapPickerDefaultOption"   : "Select a map...",
+	"EncountersClearPickerDefaultOption" : "Any State",
+	"EncountersClearPickerOption1"       : "Pre-cleared",
+	"EncountersClearPickerOption2"       : "Cleared",
+	"EncountersClearPickerOption3"       : "Both",
+	"EncountersDifficultyPickerDefaultOption" : "Any Difficulty",
+	"EncountersDifficultyPickerOptionCasual"  : "Casual",
+	"EncountersDifficultyPickerOptionEasy"    : "Easy",
+	"EncountersDifficultyPickerOptionNormal"  : "Normal",
+	"EncountersDifficultyPickerOptionHard"    : "Hard",
+	"EncountersMapNameLabel"    : "World {0}",
+	"EncountersNodeNameLabel"   : "Node {0:letter} {1:jpname}",
+	"EncountersLaseBaseAirRaid" : "Land-Base Air Raid",
+	"EncountersLbasAirPowPrefix" : "[LBAS] ",
+	"EncountersNodeTotalTip"     : "Recorded Encounters: {0}",
+	"EncountersNodeSummaryTip"   : "Recorded Encounters: {0}\n\u2003{1} patterns /{2} edges /{3} exp gains\nAverage Base Exp: {4}",
+
+
+	"MasterShipPageTitle" : "Ship Library",
+
+	"MasterShipNextRemodelLabel"   : "Next Remodel",
+	"MasterShipOtherFormsLabel"    : "Other forms",
+	"MasterShipSeasonalCgsLabel"   : "Seasonal CGs",
+	"MasterShipScrapValueLabel"    : "Scrap value",
+	"MasterShipModernizationLabel" : "Modernization",
+	"MasterShipConsumptionLabel"   : "Consumption",
+	"MasterShipStatsAtLevelLabel"  : "Stats at Level",
+	"MasterShipEquippableLabel"    : "Equippable Equipment",
+	"MasterShipExSlotLabel"        : "Ex-Slot:",
+	"MasterShipAaciLabel"          : "AACI patterns &amp; Shoot down bonus",
+	"MasterShipAaciType"           : "Type",
+	"MasterShipAaciFixed"          : "Fixed",
+	"MasterShipAaciModifier"       : "Modifier",
+	"MasterShipGunFitLabel"        : "Overweight penalty &amp; Fit gun bonus of Battleship",
+	"MasterShipVisibleBonusLabel"  : "Equipment Visible Bonuses",
+	"MasterShipRequiredLabel"      : "Required materials:",
+
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
 	"MasterShipGoQuotes" : "Check Quotes",
+
+
+	"MasterGearPageTitle" : "Equipment Library",
 
 
 	"Dummy" : "Dummy"

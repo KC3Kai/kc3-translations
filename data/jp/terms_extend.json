@@ -501,9 +501,51 @@
 	"BattleHistoryExpUnitLabel" : "exp",
 
 
+	"EncountersPageTitle" : "遭遇した敵編成パターン",
+	"EncountersWorldPickerDefaultOption" : "【海域を選んで…】",
+	"EncountersMapPickerDefaultOption"   : "【マップ】",
+	"EncountersClearPickerDefaultOption" : "【クリア状態】",
+	"EncountersClearPickerOption1"       : "クリア前",
+	"EncountersClearPickerOption2"       : "クリア後",
+	"EncountersClearPickerOption3"       : "どっちも",
+	"EncountersDifficultyPickerDefaultOption" : "【難易度】",
+	"EncountersDifficultyPickerOptionCasual"  : "丁",
+	"EncountersDifficultyPickerOptionEasy"    : "丙",
+	"EncountersDifficultyPickerOptionNormal"  : "乙",
+	"EncountersDifficultyPickerOptionHard"    : "甲",
+	"EncountersMapNameLabel"    : "海域{0}",
+	"EncountersNodeNameLabel"   : "{0}マス：{1}",
+	"EncountersLaseBaseAirRaid" : "基地への空襲",
+	"EncountersLbasAirPowPrefix" : "基地航空戦の",
+	"EncountersNodeTotalTip"     : "記録したデータ数: {0}",
+	"EncountersNodeSummaryTip"   : "記録したデータ数: {0}\n\u2003{1}パターン / 経由航路{2}個 / EXP獲得{3}回\n平均基本経験値: {4}",
+
+
+	"MasterShipPageTitle" : "艦船図鑑",
+
+	"MasterShipNextRemodelLabel"   : "次の改造",
+	"MasterShipOtherFormsLabel"    : "他の改装",
+	"MasterShipSeasonalCgsLabel"   : "限定ｸﾞﾗﾌｨｯｸ",
+	"MasterShipScrapValueLabel"    : "解体資材値",
+	"MasterShipModernizationLabel" : "改修素材値",
+	"MasterShipConsumptionLabel"   : "最大消費量",
+	"MasterShipStatsAtLevelLabel"  : "ｽﾃｰﾀｽ早見 Lv.",
+	"MasterShipEquippableLabel"    : "装備可能の種類",
+	"MasterShipExSlotLabel"        : "補強増設枠:",
+	"MasterShipAaciLabel"          : "対空カットイン射撃",
+	"MasterShipAaciType"           : "種別",
+	"MasterShipAaciFixed"          : "固定ﾎﾞｰﾅｽ",
+	"MasterShipAaciModifier"       : "変動ﾎﾞｰﾅｽ",
+	"MasterShipGunFitLabel"        : "戦艦の主砲フィット補正",
+	"MasterShipVisibleBonusLabel"  : "装備ボーナス",
+	"MasterShipRequiredLabel"      : "必要の資材:",
+
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",
 	"MasterShipGoQuotes" : "字幕セリフチェック",
+
+
+	"MasterGearPageTitle" : "装備図鑑",
 
 
 	"Dummy" : "ダミー"

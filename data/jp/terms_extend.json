@@ -500,6 +500,9 @@
 	"BattleHistoryNodeExpLabel" : "艦娘EXP",
 	"BattleHistoryExpUnitLabel" : "exp",
 
+	"BattleReplayToClipboard"      : "リプレイデータがクリップボードにコピーされました",
+	"BattleReplayGenReplayFailed"  : "リプレイデータの生成が失敗しました",
+
 
 	"EncountersPageTitle" : "遭遇した敵編成パターン",
 	"EncountersWorldPickerDefaultOption" : "【海域を選んで…】",
@@ -519,6 +522,29 @@
 	"EncountersLbasAirPowPrefix" : "基地航空戦の",
 	"EncountersNodeTotalTip"     : "記録したデータ数: {0}",
 	"EncountersNodeSummaryTip"   : "記録したデータ数: {0}\n\u2003{1}パターン / 経由航路{2}個 / EXP獲得{3}回\n平均基本経験値: {4}",
+
+
+	"PvpHistoryPageTitle" : "演習戦履歴",
+	"PvpHistoryToggleShipData"   : "艦隊情報",
+	"PvpHistoryToggleBattleInfo" : "戦闘情報",
+	"PvpHistoryReplayButton"     : "リプレイ",
+	"PvpHistoryPagingInfoLine"   : "ページ数: {1}, データ数: {0}",
+
+
+	"ShipDropPageTitle" : "ドロップ記録",
+	"ShipDropWorldPickerDefaultOption" : "【海域を選んで…】",
+	"ShipDropMapPickerDefaultOption"   : "【マップ】",
+	"ShipDropBattleRankLabel"          : "戦闘評価:",
+	"ShipDropDifficultyLabel"          : "難易度:",
+	"ShipDropDifficultyOptionCasual"   : "丁",
+	"ShipDropDifficultyOptionEasy"     : "丙",
+	"ShipDropDifficultyOptionNormal"   : "乙",
+	"ShipDropDifficultyOptionHard"     : "甲",
+	"ShipDropSortieTimeLabel"          : "出撃期間:",
+	"ShipDropShipTypeFilterNoDrop"     : "ﾄﾞﾛｯﾌﾟ無",
+	"ShipDropShipTypeFilterItem"       : "ｱｲﾃﾑ",
+	"ShipDropNodeNameLabel"            : "{0}{1}マス",
+	"ShipDropNodeNameBossAnno"         : "ボス",
 
 
 	"MasterShipPageTitle" : "艦船図鑑",

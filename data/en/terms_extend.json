@@ -658,6 +658,9 @@
 	"BattleHistoryNodeExpLabel" : "Node EXP",
 	"BattleHistoryExpUnitLabel" : "exp",
 
+	"BattleReplayToClipboard"      : "Replay data copied to clipboard",
+	"BattleReplayGenReplayFailed"  : "Failed to generate replay data",
+
 
 	"EncountersPageTitle" : "Enemy Encounters",
 	"EncountersWorldPickerDefaultOption" : "Select a world...",
@@ -677,6 +680,35 @@
 	"EncountersLbasAirPowPrefix" : "[LBAS] ",
 	"EncountersNodeTotalTip"     : "Recorded Encounters: {0}",
 	"EncountersNodeSummaryTip"   : "Recorded Encounters: {0}\n\u2003{1} patterns /{2} edges /{3} exp gains\nAverage Base Exp: {4}",
+
+
+	"PvpHistoryPageTitle" : "PvP History",
+	"PvpHistoryToggleShipData"   : "Ship Data",
+	"PvpHistoryToggleBattleInfo" : "Battle Info",
+	"PvpHistoryReplayButton"     : "REPLAY",
+	"PvpHistoryPagingInfoLine"   : "Total pages: {1}, battles: {0}",
+
+
+	"ShipDropPageTitle" : "Ship Drop Records",
+	"ShipDropHelp1Q" : "Are these records from a data collecting cloud service?",
+	"ShipDropHelp1A" : "Nope. These drops are from recorded sortie history data of your own, if you have enabled the history recording.<br/>It's just an alternative view of Maps / Events History pages, no remote data from any report server have been fetched.<br/>It's expected that unable to determine boss node from 'ancient' history or events data.<br/>Will be a little weird if node letters are not ready or your history data have been partially corrupted.",
+	"ShipDropHelp2Q" : "Will some ship types listed here drop?",
+	"ShipDropHelp2A" : "Nope. All available ship types are just copied from Ship List page.<br/>To activate only 1 filter quickly instead of switching, like doing it on the Ship List page, you can hold <kbd>Alt</kbd> key and left click one of them.",
+	"ShipDropHelpMore" : "Online statistics services: <a href=\"https://db.kcwiki.org/drop/\" target=\"_blank\">poi-statistics</a><br/><a href=\"https://tsundb.kc3.moe/\" target=\"_blank\">TsunDB</a>",
+
+	"ShipDropWorldPickerDefaultOption" : "Select a world...",
+	"ShipDropMapPickerDefaultOption"   : "Select a map...",
+	"ShipDropBattleRankLabel"          : "Battle Rank:",
+	"ShipDropDifficultyLabel"          : "Difficulty:",
+	"ShipDropDifficultyOptionCasual"   : "Casual",
+	"ShipDropDifficultyOptionEasy"     : "Easy",
+	"ShipDropDifficultyOptionNormal"   : "Normal",
+	"ShipDropDifficultyOptionHard"     : "Hard",
+	"ShipDropSortieTimeLabel"          : "Sortie On:",
+	"ShipDropShipTypeFilterNoDrop"     : "No Drop",
+	"ShipDropShipTypeFilterItem"       : "Item",
+	"ShipDropNodeNameLabel"            : "Node {0}{1}",
+	"ShipDropNodeNameBossAnno"         : " (Boss)",
 
 
 	"MasterShipPageTitle" : "Ship Library",

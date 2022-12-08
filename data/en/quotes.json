@@ -1975,7 +1975,8 @@
         "Damaged(3)": "Aaaaaah! B-but I can still maneuver in combat. I'm fine!",
         "Sunk": "Oh my God... You've got to be joking... I am... sinking? ...Heh... I'm not laughing...",
         "SpCutin": "Ready to begin directed fire. All ships, use the following targeting data. OK? ...Open fire!",
-        "2@Saury2022": "Yeah yeah, I heard about this. It's the Saury Festival, right? So what do I do? Should I support the destroyers and fishing boats? Hmm, I see. Understood. I'll lend a hand."
+        "2@Saury2022": "Yeah yeah, I heard about this. It's the Saury Festival, right? So what do I do? Should I support the destroyers and fishing boats? Hmm, I see. Understood. I'll lend a hand.",
+        "2@Xmas2022": "Christmas. Cake and turkey. Christmas never changes. Huh? High anti-air alert? Huh? What?"
     },
     "918": {
         "Intro": "Hi, 2nd ship of the Colorado-class battleships, USS Maryland, I'm fine. What? Admiral, that's not how you behave towards a Big 7. Yes, that's better. Good.",
@@ -2113,7 +2114,8 @@
         "Damaged(2)": "Whoa! I'm being shot at!",
         "Damaged(3)": "Ngh! I'm not backing down!",
         "Sunk": "I...can't believe...that I...Big Mamie...am sinking... Inconceivable... Gasp...",
-        "2@Saury2022": "Alright, a Sanma Operation. Acknowledged! Ranger, I'm counting on you for air cover. Let's party! Come on!"
+        "2@Saury2022": "Alright, a Sanma Operation. Acknowledged! Ranger, I'm counting on you for air cover. Let's party! Come on!",
+        "2@Xmas2022": "Christmas and turkey go so well together. It's special. Hmm? Ranger, why are you launching air cover? What!? Above us!? Zuikaku's divebombers are making a run at us!?"
     },
     "938": {
         "Intro": "Nice to meet you. I'm living it up on the water today too. Admiral, wanna join me today?",
@@ -2648,7 +2650,8 @@
         "Damaged(2)": "Ouch! I'll remember this!",
         "Damaged(3)": "Aaaah! That was a direct hit to my magazine? I need to do something about it!",
         "Sunk": "I'm...sinking... This time in the sea... The deep sea... My precious Amiral... Goodbye...",
-        "2@Saury2022": "Saury fishing out of the blue? What's going on with this fleet? My Admiral, my sister is... Eh? She's gone completely native."
+        "2@Saury2022": "Saury fishing out of the blue? What's going on with this fleet? My Admiral, my sister is... Eh? She's gone completely native.",
+        "2@Xmas2022": "My Admiral, sister, Merry Christmas! I'm happy the three of us can spend Christmas together. Sister, why is that carrier so angry?"
     },
     "724": {
         "Intro": "Are you well? Jean Bart, ready and waiting. Jeez, are you listening? Mon Amiral?",
@@ -4069,7 +4072,8 @@
         "Damaged(2)": "The flight deck!? Damage control, hurry!",
         "Damaged(3)": "My flight deck, it can't be... launch and recovery disabled... nooo, hurry up and put out the fire!",
         "Sunk": "The fire on the flight deck... it's spread into the hangar... the fire... it won't go out. Why, Admiral...?",
-        "2@Saury2022": "A Sanma Operation? Understood, Admiral. Please leave the operation's air support to me."
+        "2@Saury2022": "A Sanma Operation? Understood, Admiral. Please leave the operation's air support to me.",
+        "2@Xmas2022": "Admiral, Merry Christmas! Turkey is a must on Christmas Yes. I've got some. Huh? \"Be on anti-air alert\"? Why?"
     },
     "723": {
         "Intro": "Admiral, nice to see you again. CV-4, USS Ranger - preparations to sail are complete. My planes seem ready. We should be good to go!",
@@ -4393,6 +4397,15 @@
         "Supply": "Admiral, thank you very much.",
         "Friend48(1)": "Begging your pardon, but please allow me to give it my all. Houshou attack squadrons, take off!"
     },
+    "894": {
+        "Intro": "Aircraft carrier, Houshou here. I've just received a remodel. I may be weak, but I'll still give it my all.",
+        "Poke(1)": "Admiral, I'll be with you till the end.",
+        "Poke(3)": "My dreams for the future? Well, let's see... one day, together with you, I would like us to open our very own cozy little restaurant... Oh! Oh dear! Yamato? Did you hear that? That's... you know. Uhm... Uhh... Yamato?",
+        "Join": "It's a real battle, isn't it? I'm here right now for this moment. For you.",
+        "Attack": "Houshou Air Wing, go!",
+        "Yasen(1)": "I won't let any of you get away!"
+    },
+    "899": {},
     "521": {
         "Intro": "I am the converted aircraft carrier known as Kasuga Maru.<br />I may be inadequate, but I want to fulfill my duty.",
         "Library": "Converted aircraft carrier, Kasuga Maru here.<br /><br />I was a passenger ship built under the Superior Shipbuilding Subsidy Program, but I was remodeled into a carrier in order to face battle.<br /><br />After I was done transporting aircraft, my name was changed to Taiyou, and I was reassigned to naval escort duties.<br /><br />The submarines at night... are scary...",
@@ -4603,7 +4616,8 @@
         "2@Valentines2022": "Do you want this? I made it but... If you don't want it, give it back... Ah, really? Then try some.",
         "2@WhiteDay2022": "A return gift? Thank you. The wrapping is cute. Can I eat it now?",
         "2@Anniversary2022": "It's the fleet's 9th anniversary? Really? Wow. Congrats, Admiral. I am so grateful.",
-        "2@Saury2022": "The Saury Festival. I've heard about it but I never expected it to be such a big deal... Isn't the whole fleet being mobilised? Are you serious? ...I see, we gotta do it then."
+        "2@Saury2022": "The Saury Festival. I've heard about it but I never expected it to be such a big deal... Isn't the whole fleet being mobilised? Are you serious? ...I see, we gotta do it then.",
+        "2@Xmas2022": "Christmas. I see, so this is what it is. I like it. It's nice no matter who is celebrating it. Ah! Zuihou, I don't think we should have omelettes today... Oh, I know! Let's have cake."
     },
     "884": {
         "Intro": "I'm the carrier, Unyou. That's right, I used to be a Nitta Maru-class freighter. Admiral, I look forward to working with you today, too. Let's get going.",
@@ -6144,7 +6158,8 @@
         "2@Anniversary2022": "Sir Admiral, it appears that it's the fleet's 9th anniversary. It's a truly joyous occasion. Congratulations. Please continue to... look after us Army ships.",
         "2@Summer2022": "Summer in Yokohama was hot too... Huh? Heat-protective equipment? Can I? Is this fine? Really?",
         "2@Halloween2022": "It smells so good. Uhm, if you don't mind...would you accompany me to Yokohama's festival...? Ah, yes!",
-        "2@Saury2022": "Supporting the saury fishing? In that case, my air wing could probably lend a helping hand. I'll do my best."
+        "2@Saury2022": "Supporting the saury fishing? In that case, my air wing could probably lend a helping hand. I'll do my best.",
+        "2@Xmas2022": "So this is cake. And this is turkey. It's tasty. They're all very, very attractive dishes. Very much so."
     },
     "717": {
         "Intro": "I'm Yamashio Maru. I was planned to be a wartime large-scale tanker but was completed as a Special 2TL-class custom convoy carrier. Sir Admiral, let's work together again... today. I'll do my best.",
@@ -6277,7 +6292,8 @@
         "Damaged(2)": "Gyahha, shit!",
         "Damaged(3)": "No way! Shit, don't look down on me for being a bit small!",
         "Sunk": "I'm sinking? You've got to be kidding me. It can't be, this can't be happening!",
-        "2@Saury2022": "It's the Sanma Operation, right? I know! You can count on me for air support. I want to have some when they've been nicely grilled."
+        "2@Saury2022": "It's the Sanma Operation, right? I know! You can count on me for air support. I want to have some when they've been nicely grilled.",
+        "2@Xmas2022": "You gotta have this for Christmas! I'm talking about turkey of course! Tch! Zuikaku again!? Those damned TBs. Corsairs, emergency takeoff! Take them out!"
     },
     "930": {
         "Intro": "I'm the Independence-class carrier Langley. Yep, I might be small, but I've got the speed of an advanced light cruiser! Hopin' to cause some trouble with you, Admiral! You can count on me!",
@@ -7408,7 +7424,8 @@
         "Damaged(3)": "Oh no... I think I can still go on?",
         "Sunk": "O-oh no... I'm sinking? ...Main tank... blow! ...Huh? ...It didn't work? ...No way...",
         "2@Summer2022": "Admiral, what do you think? It's the Sentaka-class's special summer equipment... Ah, yes. It reduces the resistance underwater even further and will make me faster... In theory.",
-        "2@Saury2022": "This season's saury is really tasty. I'm so happy. We need to protect the seas where they're fished. The Sentaka-class will help too."
+        "2@Saury2022": "This season's saury is really tasty. I'm so happy. We need to protect the seas where they're fished. The Sentaka-class will help too.",
+        "2@Xmas2022": "So this is Christmas. It all looks so good. So this is turkey? And this is cake? ...*om nom nom*... Wow, it's good. Admiral, it's really good. Try some. Huh? You already knew that? I see."
     },
     "719": {
         "Intro": "I'm the eldest of the Sentaka-class submarines, the first ship, I-201. My proficiency has risen. Admiral, let's do this. Don't you feel like putting an upgraded Sentaka-class to use?",
@@ -11571,7 +11588,9 @@
         "2@WhiteDay2020": "Admiral, Gari, grazie. I'm glad I got something in return. It's wonderful. Next year... I wonder what I'll get next year... It's so exiting, isn't it? Ufufu.",
         "2@Anniversary2020": "Admiral, Gari, I hear this year is the fleet's 7th Anniversary. Let's celebrate. Shall I open some wine? Would you like red or white? Ah, I know, spumante would be great. Let's have that!",
         "2@Rainy2020": "Gari, what are you doing with that charm-like doll? Hmm? A \"teru teru... boz\"? Ah, what a strange thing. It's a charm for sisters? I see. I wonder if I should make one, too...",
-        "2@Anniversary2021": "Admiral, Gari, I heard it's the fleet's 8th Anniversary. Let's celebrate. Let's open some wine this year too. Shall we have red? Or white? Oh, you're right. Let's have red, white, and sparkling! Alright?"
+        "2@Anniversary2021": "Admiral, Gari, I heard it's the fleet's 8th Anniversary. Let's celebrate. Let's open some wine this year too. Shall we have red? Or white? Oh, you're right. Let's have red, white, and sparkling! Alright?",
+        "2@Xmas2022": "Admiral, what do you think of my dress? Do you...think it's too much? Ah, is that...so?",
+        "3@Xmas2022": "That's good. Hey Admiral, shall we have fun together this Christmas? Ehehehe."
     },
     "693": {
         "Intro": "Buon giorno! I'm the up and coming light cruiser from Italy, Luigi di Savoia Duca degli Abruzzi. Ufu, Admiral, just Abruzzi is fine. Please continue to give my sister and me your guidance.",
@@ -11990,7 +12009,8 @@
         "Damaged(3)": "Tch! Prepare yourself! Damnit!",
         "Sunk": "That's...impossible... I can't... I can't be sinking... I refuse... I refuse to accept this...!",
         "2@Halloween2022": "Admiral, how do I look?!",
-        "2@Saury2022": "Operation Sanma is here!? The Brooklyn-class will do our best! Oh yeah!"
+        "2@Saury2022": "Operation Sanma is here!? The Brooklyn-class will do our best! Oh yeah!",
+        "2@Xmas2022": "Christmas is a big deal. It's a time for a proper break and tons of good food! On that note... Ta-dah! It's my new creation! A Christmas-themed New York Cheescake! With tons of strawberries!"
     },
     "722": {
         "Intro": "Lovely to meet you! Brooklyn, name ship of the Brooklyn-class, reporting for duty. What? Got a problem with that?",
@@ -16312,7 +16332,8 @@
         "Damaged(2)": "Aaah! Th-that hurt!",
         "Damaged(3)": "A close range shot? A direct hit? To the aft port-side... Oh no.",
         "Sunk": "Is Murakumo... Ah... She's...safe... Asagumo...I leave the rest...to you... Goodbye...",
-        "2@Saury2022": "DesRon4, Destroyer Division 9, weighing anchor to support the saury fishing. Yes, Asagumo told me what to do. I'm off."
+        "2@Saury2022": "DesRon4, Destroyer Division 9, weighing anchor to support the saury fishing. Yes, Asagumo told me what to do. I'm off.",
+        "2@Xmas2022": "Asagumo, what are you eating with such gusto...? Oh, that's... that's cake. It's really sweet and delicious."
     },
     "721": {
         "Intro": "Yes... Asashio-class destroyer, Natsugumo, reporting for duty. Admiral, please watch over the 9th Destroyer Division today as well. Let's work hard.",
@@ -16838,7 +16859,8 @@
         "Damaged(2)": "Aaaah! Seriously!?",
         "Damaged(3)": "Ah, they really got me good. C-can I keep going?",
         "Sunk": "Ah... I can't go on... I'm sorry... All hands, abandon ship... Shiratsuyu... Can I... count on you one more time?",
-        "2@Saury2022": "Ah! We're going to support saury fishing. DesDiv15 will come too. Oyashio, Kuroshio, roger! Uhmm, a searchlight, SONAR and a lookout! Yep, all set!"
+        "2@Saury2022": "Ah! We're going to support saury fishing. DesDiv15 will come too. Oyashio, Kuroshio, roger! Uhmm, a searchlight, SONAR and a lookout! Yep, all set!",
+        "2@Xmas2022": "Oyashio, what's this poultry dish...? Ah, she's clinging to the Admiral... Oh well, I'll just eat alone. *nom* It's good! What's this? It's amazing! Turkey? Turkey is great! Huh? CarDiv5? Zuikaku's planes? Aaah! Don't bomb me!"
     },
     "720": {
         "Intro": "Sir! Admiral, how are you today? I'm the 5th ship of the Kagerou-class destroyers, Hayashio from Uraga, and I'm feeling great! Hey, Admiral, are you listening?",
@@ -19635,7 +19657,8 @@
         "Sunk": "It can't... be... I'm... sinking...? Well this is fine... Suzutsuki... I leave the rest... to you...",
         "2@Anniversary2022": "What? It's the fleet's ninth anniversary? So while I was sleeping in a port in northern Kyuushuu... I see. Admiral, Suzu, that's amazing. Yeah, congrats.",
         "2@Summer2022": "Summer is here again, huh. I know this is stating the obvious, but this summer is quite hot. Summer is the season of endings and beginnings. It's hot.",
-        "2@Saury2022": "Yeah, I know, Suzu. It's the saury festival, is it not? I've been told. Admiral, leave it to me. I'll bring in a big haul!"
+        "2@Saury2022": "Yeah, I know, Suzu. It's the saury festival, is it not? I've been told. Admiral, leave it to me. I'll bring in a big haul!",
+        "2@Xmas2022": "This is... that thing called \"Christmas\", huh. I wonder why, but it feels so festive. It's nice. Suzu, what's this? A sweet potato cake? Mmm, it's good!"
     },
     "538": {
         "Intro": "8th ship of the Akizuki-class air-defence destroyers, Fuyutsuki, reporting in. Admiral, Suzu, let's defend the peace of the seas together. Yes, let's go!",
@@ -19783,7 +19806,8 @@
         "2@Saury2021": "I've heard. We're going to catch saury, right? Yeah, protecting the peace of the fisheries is an important job too. Let's get going.",
         "2@YearsEnd2021": "Ah, this, huh? The naval base end-of-year major cleanup thing. Guess it's really December... Hmm, I'm not really good at these kinds of things... Ah, I'll still help out though.",
         "2@NewYears2022": "It's a new year, huh. Nice. Admiral, I'm counting on you this year as well. Yeah, I'll give it my best.",
-        "2@Anniversary2022": "So I heard it's the fleet's ninth anniversary. That sure is something. Compared to my service record, uh... well, anyway, congrats, Admiral."
+        "2@Anniversary2022": "So I heard it's the fleet's ninth anniversary. That sure is something. Compared to my service record, uh... well, anyway, congrats, Admiral.",
+        "2@Xmas2022": "Ah, this is real luxurious. The food is good. Whoa, Kiyoshimo, you're eating a bit too much... Your stomach will burst if you eat that much."
     },
     "706": {
         "Intro": "Yo, you're in a good mood today. Great. D-type destroyer, 2nd ship of the Matsu-class, Take, ready to head out at any time. You need to put on a strong front, right?",
@@ -19851,7 +19875,8 @@
         "2@Anniversary2022": "Congratulations, Admiral. I heard this week is the fleet's ninth anniversary. That's so incredible. The 43rd destroyer division sends its well wishes.",
         "2@Rainy2022": "Momo, what are you making? Oooh, a Teru Teru Bouzu? I'll try making one too... Hmm... Ngh... There! Wh-what do you think?",
         "2@Summer2022": "Summer is...really hot here too. Big sis Take is looking kinda fancy keeping cool. I'm so jealous! By the way, is that really fine?",
-        "2@Saury2022": "Saury caught in season must be salt grilled! But using it for sashimi or other dishes is great too, isn't it? DesDiv43 will give it our all to support saury fishing this season. I've readied the searchlight and SONAR!"
+        "2@Saury2022": "Saury caught in season must be salt grilled! But using it for sashimi or other dishes is great too, isn't it? DesDiv43 will give it our all to support saury fishing this season. I've readied the searchlight and SONAR!",
+        "2@Xmas2022": "Cake is...great! Can't make light of Christmas. But Momo, aren't you having a bit too much cake? You'll get a bulge. Are you fine with that?"
     },
     "716": {
         "Intro": "43rd Destroyer Division, Type D Destroyer Ume here! Admiral, I'll be in your care today as well. I'll work hard to be of service to the Admiral and the fleet!",
@@ -20338,7 +20363,8 @@
         "2@Saury2021": "Saury? I don't really know what that is but I'll help out. Gre, what should I do? A fishfinder? Don't we have one?",
         "2@YearsEnd2021": "What's going on? The naval base is so noisy. I'm sleepy... I'm gonna go find a quiet place to sleep. *Yawn*",
         "2@NewYears2022": "Admiral, it's a new year. I'm still a little sleepy in the new year. Can I just go back to sleep? Huh? I can? Really?",
-        "2@Anniversary2022": "I hear it's our ninth anniversary, Admiral? The fleet sure has been around a while. It's overcome so many storms to get here. Congrats."
+        "2@Anniversary2022": "I hear it's our ninth anniversary, Admiral? The fleet sure has been around a while. It's overcome so many storms to get here. Congrats.",
+        "2@Xmas2022": "I get sleepy after eating my fill. *yaaawn* I should bring back one turkey... Hmm? Hmmmm?!"
     },
     "658": {
         "Intro": "*Yawn*. Buongiorno. Maestrale-class Destroyer, the youngest sister Scirocco. I woke up properly today as well. Admiral, pleased to meet you~",
@@ -21564,7 +21590,8 @@
         "Damaged(3)": "Noooo! But, I'm still not done in. I won't sink. Because I have to protect them.",
         "Sunk": "Oh no... I'm sinking? ...I'll protect them... So the ships... So everyone... I...",
         "2@Summer2022": "Summer is almost here again. Admiral, what do you ponder about when summer gets close? I... Ah, no, nevermind. I'll do my best.",
-        "2@Saury2022": "Admiral, you need saury? Understood. Please leave getting saury to me. Uhmm... Ah! Shikinami, please show me the ropes! I'll do my best!"
+        "2@Saury2022": "Admiral, you need saury? Understood. Please leave getting saury to me. Uhmm... Ah! Shikinami, please show me the ropes! I'll do my best!",
+        "2@Xmas2022": "The Naval Base's Christmas is nice. Ah, Sado, that's a bit too much cake for one person. Your stomach will burst. But cake is really good. It's so sweet and delicious."
     },
     "910": {
         "Intro": "Admiral, I'm the coastal defence ship, Kurahashi. I'm the 5th ship of the Mikura-class. I'll work hard with Hi-Convoys and convoys towards Taiwan. Yes, I'll give it my all.",
@@ -21695,7 +21722,8 @@
         "Damaged(3)": "I'm hit!? Where? I-I can't sink yet!",
         "Sunk": "No... Oh no... Am... Am I sinking? ...I don't want to...",
         "2@Halloween2022": "Admiral, how do I look in my yukata? Really? Thank you very much! Autumn is fun too!",
-        "2@Saury2022": "You need someone to support saury fishing!? I'll gladly help. I can't wait to have seasonal salt grilled saury!"
+        "2@Saury2022": "You need someone to support saury fishing!? I'll gladly help. I can't wait to have seasonal salt grilled saury!",
+        "2@Xmas2022": "Admiral, so this is Christmas? Cake... *nom*... it's great! These peaceful seas and times are great! I love it!"
     },
     "926": {
         "Intro": "I'm the first ship of the Ukuru-class coastal defence ships, Ukuru! We Ukuru-class have enhanced ASW and ease of manufacture without sacrificing our combat ability. Admiral, let's do our best together!",

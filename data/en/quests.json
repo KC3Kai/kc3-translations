@@ -3484,7 +3484,7 @@
         "code": "SB49",
         "name": "Saury Fishing: The Big Catch Banner... I Won't... Give Up on It Now!",
         "desc": "Have 18 Sauries in your inventory.",
-        "memo": "\n\u27a3Rewards a Type 19 Big Catch Banner and either a Type144/147 ASDIC OR two Action Reports OR a Type 18 Big Catch Banner"
+        "memo": "\u27a3Rewards a Type 19 Big Catch Banner and either a Type144/147 ASDIC OR two Action Reports OR a Type 18 Big Catch Banner"
     },
     "882_saury19": {
         "code": "SB50",
@@ -3496,7 +3496,7 @@
         "code": "SB51",
         "name": "Special Mission: This Year is a Good Catch for Sardines!",
         "desc": "Have 50 Sardines in your inventory.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: One of Hiburi, Daitou, Shimushu, Kunashiri or Akashi\n\u00B6Second choice: Either a Blueprint OR a Prototype Flight Deck Catapult"
     },
     "984": {
         "code": "2210B1",
@@ -3797,43 +3797,67 @@
         "code": "7thAnvLB1",
         "name": "7th Anniversary Mission: Initial Operation",
         "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5], [W2-1] and [W2-2]. S-Rank the boss nodes.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion OR seven Development Materials"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR three Screws\n\u00B6Second choice: Either a Daihatsu OR a Reinforcement Expansion OR seven Development Materials"
     },
     "883": {
         "code": "7thAnvLB2",
         "name": "7th Anniversary Mission: Final Operation",
         "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2-M]. S-Rank the boss nodes.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report"
     },
     "910": {
         "code": "7thAnvLB3",
         "name": "7th Anniversary Mission: Extra Operation",
         "desc": "Sortie to [W6-1], [W6-2], [W6-3], [W6-4] and [W6-5]. S-Rank the boss nodes.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws OR a New Model Aviation Armament Material"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either AV Mizuho, AO Kamoi, AO Hayasui, AV Commandant Teste OR CL Gotland\n\u00B6Second choice: Either 7 Underway Replenishments OR 7 Screws OR a New Model Aviation Armament Material"
     },
-    "801": {
+    "8012201LB1": {
         "code": "2201LB1",
         "name": "A New Year! Reiwa 4 [Elite Torpedo Squadron] begins to sortie!",
         "desc": "Sortie a CL(T)/CT as flagship and up to 5 DDs to [W1-2], [W1-3], [W1-4], [W1-6-N] and [W2-1]. A-Rank+ all relevant boss nodes.",
         "memo": "\u27a3Rewards a Repair Goddess and either two 61cm Triple (Oxygen) Torpedo Late Model OR three Mamiya OR two Tenzan Model 12A"
     },
-    "802": {
+    "8022201LB2": {
         "code": "2201LB2",
         "name": "2022 Reiwa's 4th Year! Initate the Okinoshima Defense Operation!",
         "desc": "Sortie a fleet with 1 CA(V), either Gotland or 1 AV and up to 4 additional ships to [W2-2], [W2-3], [W2-4] and [W2-5]. S-Rank [W2-5], A-Rank+ the other boss nodes.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR five Screws or a Medal\n\u00B6Second choice: Either two Furniture Fairies OR two \u26058 15.2cm Twin Gun Mount Kai or a \u26053 Swordfish Mk.III Kai (Seaplane Model / Skilled)"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR five Screws or a Medal\n\u00B6Second choice: Either two Furniture Fairies OR two \u26058 15.2cm Twin Gun Mount Kai or a \u26053 Swordfish Mk.III Kai (Seaplane Model / Skilled)"
     },
-    "803": {
+    "8032201LB3": {
         "code": "2201LB3",
         "name": "Happy New Year! Special Formation Carrier Task Force, to the West!",
         "desc": "Sortie a fleet with 1 CV(L/B), 1 AO/AS and up to 4 additional ships to [W7-4], [W4-1], [W4-2] and [W4-5]. S-Rank [W4-5], A-Rank+ the other boss nodes.",
-        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Aviation Armament Materials OR six Screws\n\u00B6Second choice: Either three Tenzan Model 12A OR four Skilled Crew Members OR a Toku Daihatsu Landing Craft + Type 1 Gun Tank"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Aviation Armament Materials OR six Screws\n\u00B6Second choice: Either three Tenzan Model 12A OR four Skilled Crew Members OR a Toku Daihatsu Landing Craft + Type 1 Gun Tank"
     },
-    "804": {
+    "8042201LB4": {
         "code": "2201LB4",
         "name": "New Year Task Force [Expanded Operation] 5th Carrier Division, Weigh Anchor!",
         "desc": "Sortie a fleet with Shoukaku and Zuikaku, one as flagship, and up to 4 additional ships to [W5-2], [W3-5], [W3-3], [W7-2-M] and [W6-5]. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards 5th Carrier Division New Year Furniture and either a Blueprint OR a Prototype Catapult OR a \u26053 Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
+    },
+    "801": {
+        "code": "2301B1",
+        "name": "Welcome to the New Year! In Reiwa 5th, Weigh Anchor!",
+        "desc": "Sortie a fleet with 3 DD/DE and up to 3 additional ships to [W1-3], [W2-2], [W2-3] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Emergency Repair Material OR a Submarine Supply Material OR a Emergency Repair Goddess\n\u00B6Second choice: Either two Mamiya OR two Furniture Fairy OR three Irako"
+    },
+    "802": {
+        "code": "2301B2",
+        "name": "2023 Nansei Islands Patrol Defense Operation, Commence!",
+        "desc": "Sortie a fleet with 2 CA(V), 1 CL(T)/CT and up to 3 additional ships to [W1-2], [W1-4], [W2-1] and [W2-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Shiden Kai (343 Air Group) 301st Fighter Squadron OR a Shiden Kai (343 Air Group) 701st Fighter Squadron OR four Skilled Crew Members\n\u00B6Second choice: Either two New Model Gun Mount Improvement Materials OR five Screws OR a Medal"
+    },
+    "803": {
+        "code": "2301B3",
+        "name": "Reiwa 5th Happy New Year, Special Task Force, to the North!",
+        "desc": "Sortie a fleet with 1 AV, 1 AO/AS and up to 4 additional ships to [W3-3], [W3-4] and [W3-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Saiun (4th Recon Squad) OR two Reinforcement Expansions OR three New Model Aerial Armament Materials\n\u00B6Second choice: Either a Toku Daihatsu Landing Craft + Type 1 Gun Tank OR two Prototype Toukai OR two Acton Reports"
+    },
+    "804": {
+        "code": "2301B4",
+        "name": "New Year Missions [Expanded Operation] Carrier Task Force, Run Wild!",
+        "desc": "Sortie a fleet with CV(L/B) as flagship, 2 DD and up to 3 additional ships to [W7-2-M], [W7-4], [W4-5], [W6-4] and [W6-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards New Year's Greetings! DesRon 2 Yahagi Scroll Furniture and either two Blueprints OR a Prototype Catapult OR a \u26053 Ginga"
     },
     "234": {
         "code": "2102LQ1",

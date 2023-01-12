@@ -445,6 +445,10 @@
 	"QuestFlowchartAllPrompt"    : "本当によろしいでしょうか？\nいままで達成した単発任務をも含めて全てのクエスト記録が消されて、消されたデータを復旧不可能ですので、ご慎重に。",
 
 
+	"ShipQuestsPageTitle" : "特定任務に必要される艦娘一覧",
+	"ShipListGridTitleQuests" : "クエスト",
+
+
 	"MapHistoryPageTitle" : "通常海域出撃履歴",
 	"EventHistoryPageTitle" : "期間限定海域出撃履歴",
 
@@ -578,6 +582,20 @@
 	"ShipDropShipTypeFilterItem"       : "ｱｲﾃﾑ",
 	"ShipDropNodeNameLabel"            : "{0}{1}マス",
 	"ShipDropNodeNameBossAnno"         : "ボス",
+
+
+	"MasterUpdatePageTitle" : "最近のゲーム更新",
+
+	"MasterUpdateNewPlayerShips"  : "新規実装艦娘",
+	"MasterUpdateNewAbyssalShips" : "新規実装深海棲艦",
+	"MasterUpdateNewEquipment"    : "新規実装装備",
+	"MasterUpdateNewSeasonalOrUpdated" : "グラ更新あり",
+	"MasterUpdateNewSeasonalTips" : "もし古いグラフィックを見たらキャッシュ削除後ページリロードしてみてください",
+	"MasterUpdateArchivedSeasonal"     : "格納した限定グラ",
+	"MasterUpdateListAllPlayerShips" : "全艦娘グラリストアップ",
+	"MasterUpdateListMoreButton"   : "更に1ページ",
+	"MasterUpdateListAllButton"    : "一気に全部",
+	"MasterUpdateListToggleButton" : "アイコン表示切り替え",
 
 
 	"MasterShipPageTitle" : "艦船図鑑",

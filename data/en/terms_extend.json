@@ -604,6 +604,17 @@
 	"QuestFlowchartAllPrompt"    : "Are you sure?\nAll your quest data will be cleared, including 1-time quests you have done. Lost data would not be recovered.",
 
 
+	"ShipQuestsPageTitle" : "List of ships required by quests",
+	"ShipQuestsHelp1Q" : "What is this page?",
+	"ShipQuestsHelp1A" : "This page shows player's ships with all associated quests except limited-time ones.",
+	"ShipQuestsHelp2Q" : "Why do you need it?",
+	"ShipQuestsHelp2A" : "Suppose, you have some ships, which you don't need anymore, but can be required for some one-time quests.<br/>Just go to this page and see which ships required for what quests.",
+	"ShipQuestsHelp3Q" : "Why not limited-time quests?",
+	"ShipQuestsHelp3A" : "Because quests are identified by in-game API ID numbers, and game developers often assign the ID of out-dated limited-time quest to a new quest. Required ships might be different, old info unreliable.",
+
+	"ShipListGridTitleQuests" : "Quests",
+
+
 	"MapHistoryPageTitle" : "Sortie History",
 	"EventHistoryPageTitle" : "Event History",
 
@@ -743,6 +754,22 @@
 	"ShipDropShipTypeFilterItem"       : "Item",
 	"ShipDropNodeNameLabel"            : "Node {0}{1}",
 	"ShipDropNodeNameBossAnno"         : " (Boss)",
+
+
+	"MasterUpdatePageTitle" : "Game Updates",
+	"MasterUpdateHelp1Q" : "How long are records of updates kept?",
+	"MasterUpdateHelp1A" : "7 days from being detected.",
+
+	"MasterUpdateNewPlayerShips"  : "New Player Ships",
+	"MasterUpdateNewAbyssalShips" : "New Abyssal Ships",
+	"MasterUpdateNewEquipment"    : "New Equipment",
+	"MasterUpdateNewSeasonalOrUpdated" : "New Seasonal or Updated CG",
+	"MasterUpdateNewSeasonalTips" : "Clear your cache if you see old CGs",
+	"MasterUpdateArchivedSeasonal"     : "Archived Seasonal CG",
+	"MasterUpdateListAllPlayerShips" : "List all player ships up",
+	"MasterUpdateListMoreButton"   : "More",
+	"MasterUpdateListAllButton"    : "ALL",
+	"MasterUpdateListToggleButton" : "Toggle Icons",
 
 
 	"MasterShipPageTitle" : "Ship Library",

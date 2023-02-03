@@ -812,6 +812,32 @@
 	"ShipDropNodeNameBossAnno"         : " (Boss)",
 
 
+	"ExpedPastPageTitle" : "Expedition History",
+	"ExpedPastHelp1Q" : "What do colors mean since 2019-07-18?",
+	"ExpedPastHelp1A" : "<span style='color:blue'>Monthly Expedition</span>: blue name, can be succeeded once every month, reset at 12:00 JST on the 15th;<br/><span style='color:red'>Combat Expedition</span>: red time, your fleet may take damage from enemy.<br/>btw, expedition name with <code>*</code> mark means sortie support expedition which <b>cannot</b> be cancelled.",
+	"ExpedPastHelp2Q" : "Mouse and key operation trivia:",
+	"ExpedPastHelp2A" : "<p>Holding <kbd>Alt</kbd> key and clicking on a checkbox of expedition or fleet, will check the selected item only instead of toggling it.</p><p>Clicking on any ship icon of result list will show the fleet in Fleet Manager. Holding <kbd>Ctrl</kbd> or <kbd>Meta</kbd> key will open Fleet Manager in new tab.</p>",
+
+	"ExpedPastWorldLabel"    : "World {0}",
+	"ExpedPastFleet2Label"   : "Fleet 2",
+	"ExpedPastFleet3Label"   : "Fleet 3",
+	"ExpedPastFleet4Label"   : "Fleet 4",
+	"ExpedPastSparklesLabel" : "Sparkles:",
+	"ExpedPastExpedDifficulty"     : "Difficulty: {0}",
+	"ExpedPastExpedResetType"      : "Reset type: {0}",
+	"ExpedPastExpedDamageType"     : "Damage type: {0}",
+	"ExpedPastExpedCostPercentage" : "Cost fuel: {0}%, ammo: {1}%",
+	"ExpedPastExpedRewardsLevel"   : "Levels of successful rewards:\n\tFuel: {0}, Ammo: {1}, Steel: {2}, Bauxite: {3}",
+	"ExpedPastExpedFleetShips"     : "{0} ships fleet: ",
+	"ExpedPastExpedGsAllSparkled"  : "GS needs all ships sparkled",
+	"ExpedPastExpedGsSparkleDrums" : "GS rate affected by sparkles & higher for drums >= {0}",
+	"ExpedPastExpedGsSparkleLevel" : "GS rate affected by sparkles & flagship level",
+	"ExpedPastExpedUnlockBy"       : "Unlocked by: {0}",
+	"ExpedPastPagingInfoLine" : "Total pages: {0}, Total expeditions: {1}, Great Success /Total Success: {2} /{3} ({4}%)",
+	"ExpedPastListExpTip"  : "Admiral EXP Earned",
+	"ExpedPastListDrumTip" : "Drums equipped",
+
+
 	"MasterUpdatePageTitle" : "Game Updates",
 	"MasterUpdateHelp1Q" : "How long are records of updates kept?",
 	"MasterUpdateHelp1A" : "7 days from being detected.",

@@ -1689,6 +1689,12 @@
         "desc": "Sortie Houshou Kai Ni (Sen) as flagship and up to 5 additional ships to [W2-5], [W3-5], [W4-5], [W5-2], [W6-4] and [W7-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards a Type 0 Fighter Model 64 (Air Superiority Fighter Specification) and either three Skilled Crew Members OR two Medals OR ten Screws"
     },
+    "995": {
+        "code": "B189",
+        "name": "Remodelled Special Type I Destroyer Miyuki Kai Ni, Sortie!",
+        "desc": "Sortie Miyuki Kai Ni, 1 Fubuki-class DD and up to 4 additional ships to [W3-2], [W5-3], [W6-4] and [W7-3-P]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Reinforcement Expansions OR two Repair Goddesses OR an Action Report\n\u00B6Second choice: Either a \u2605max 12.7cm Twin Gun Mount Model A Kai Ni OR three Smoke Generator (Smoke Screen) OR two \u26053 61cm Triple (Oxygen) Torpedo Mount"
+    },
 
 
 
@@ -2310,33 +2316,39 @@
     },
     "355": {
         "code": "C62",
-        "name": "Annual DesDiv 15 Excercises - October",
+        "name": "Annual DesDiv 15 Exercises - October",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Oyashio Kai Ni and Kuroshio Kai Ni as the first two ships and up to 4 additional ships.",
         "memo": "This quest resets on the first quest reset of October.\n\u203bElite DesDiv 15 First Platoon Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a \u2605+2 Type 22 Surface Radar Kai 4 OR a \u2605+2 Skilled Lookouts\n\u00B6Second choice: Either two Irako OR three Screws"
     },
     "356": {
         "code": "C65",
-        "name": "Annual DesDiv 19 Excercises - May",
+        "name": "Annual DesDiv 19 Exercises - May",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni and up to 2 additional ships.",
         "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19 Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Irako OR four Development Materials\n\u00B6Second choice: Either a \u2605+4 Skilled Lookouts OR a Mamiya OR three Screws"
     },
     "357": {
         "code": "C66",
         "name": "Annual 1st Squadron Exercises - June",
-        "desc": "Secure 3 S-Rank victories in Execises within the same day using Yamato, Musashi, 1 CL, 2 DD and up to 1 additional ship.",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using Yamato, Musashi, 1 CL, 2 DD and up to 1 additional ship.",
         "memo": "This quest resets on the first quest reset of June.\n\u203bYamato-class Battleship 1st Squadron Exercises, Begin!\n\u27a3Rewards:\n\u00B6First choice: Either two 15.5cm Triple Secondary Gun Mount OR a New Model Artillery Armament Materials OR six Development Materials\n\u00B6Second choice: Either a Mamiya OR two Type 21 Air Radar OR four Screws"
     },
     "358": {
         "code": "C68",
         "name": "[Taffy Ⅲ] This is a drill!",
-        "desc": "Secure 4 S-Rank victories in Execises within the same day using Samuel B. Roberts, Johnston, Gambier Bay and up to 3 additional ships.",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Samuel B. Roberts, Johnston, Gambier Bay and up to 3 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either an Irako OR two Screws\n\u00B6Second choice: Either 10 Development Materials OR a TBF OR a SG Radar (Initial Model)"
     },
     "360": {
         "code": "C70",
         "name": "Frontline Aircraft Carrier Houshou Kai Ni, Begin Exercises!",
-        "desc": "Secure 5 S-Rank victories in Execises within the same day using Houshou Kai Ni (Sen) as flagship, 3 DD and up to 2 additional ships.",
+        "desc": "Secure 5 S-Rank victories in Exercises within the same day using Houshou Kai Ni (Sen) as flagship, 3 DD and up to 2 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR a Reinforcement Expansion OR a Skilled Crew Member\n\u00B6Second choice: Either a 10cm Twin High-angle Gun Mount Kai + Additional Machine Guns OR a Type 0 Fighter Model 64 (Air Superiority Fighter Specification)"
+    },
+    "362": {
+        "code": "C72",
+        "name": "Annual DesDiv 11 Exercises - April",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using Fubuki, Shirayuki, Hatsuyuki, Miyuki and up to 2 additional ships.",
+        "memo": "This quest resets on the first quest reset of April.\n\u203bSpecial Type First Generation DesDiv 11 Destroyer Exercises Special!\n\u27a3Rewards:\n\u00B6First choice: Either three 12.7cm Twin Gun Mount Model A OR three 61cm Triple Torpedo Mount OR 6 Development Materials\n\u00B6Second choice: Either two Skilled Lookouts OR three Irako OR four Screws"
     },
 
 
@@ -3343,6 +3355,12 @@
         "desc": "Have two New Model Aviation Armament Materials, two Skilled Crew Members and 35 Development Materials. Set Tone Kai Ni or Yura Kai Ni as secretary with a \u2605max Type 0 Reconnaissance Seaplane in her first slot. Scrap two Type 97 Torpedo Bomber (931 Air Group).",
         "memo": "This quest resets on the first quest reset of January.\n\u2718Consumes the items and resources.\n\u203bIncreasement of Improved 3-seat Reconnaissance Seaplane\n\u27a3Rewards a Type 0 Reconnaissance Seaplane Model 11B"
     },
+    "1127": {
+        "code": "F115",
+        "name": "Improving Shipborne Smoke Screen Generator",
+        "desc": "Have 12 Development Materials, 2 New Model Armament Materials, 2 Smoke Generator (Smoke Screen), 480 Fuel and 350 Bauxite. Set Miyuki Kai Ni as secretary with a Smoke Generator (Smoke Screen) in her first slot.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Smoke Generator Kai (Smoke Screen)"
+    },
 
 
 
@@ -4104,5 +4122,41 @@
         "name": "[New Year Limited] Naval District End-of-year Prototype Renovated Jumbo",
         "desc": "Have 3 Type 97 Torpedo Bombers, 8 Development Materials, 8 Flamethrowers, 550 ammo and 550 bauxite. Set secretary with a \u2605max 12.7mm Single Machine Gun Mount in her first slot.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26058 2cm Flakvierling 38 and either two Medals OR a \u26052 Type 1 Land-based Attack Aircraft (Nonaka Squadron) OR a Shinzan"
+    },
+    "992": {
+        "code": "2304B1",
+        "name": "[10th Anniversary Quest] Fubuki-class Destroyers, Sortie!",
+        "desc": "Sortie 4 Fubuki-class DD and up to 2 additional ships to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards either two Irako OR a New Model Aviation Armament Material OR a Furniture Fairy"
+    },
+    "363": {
+        "code": "2304C1",
+        "name": "[10th Anniversary Quest] Mutsuki-class Destroyers, Exercises!",
+        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using 4 Mutsuki-class DD and up to 2 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Skilled Lookouts OR four 25mm Single Autocannon Mounts OR a Reinforcement Expansion\n\u00B6Second choice: Either a \u26053 12cm Single Gun Mount Kai Ni OR a \u26053 61cm Triple (Oxygen) Torpedo Mount)"
+    },
+    "448": {
+        "code": "2304D1",
+        "name": "[10th Anniversary Quest] 10th Anniversary Logistics Expedition",
+        "desc": "Complete Expeditions 5, A1, 9 and 11 once each, and Expedition 7 three times.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 8800 Fuel OR eight Screws\n\u00B6Second choice: Either ten Development Materials OR two Daihatsu Landing Craft OR 3900 Bauxite"
+    },
+    "993": {
+        "code": "2304B2",
+        "name": "[10th Anniversary Quest] Shiratsuyu-class Destroyers, Sortie!",
+        "desc": "Sortie 3 Shiratsuyu-class DD and up to 3 additional ships to [W2-2], [W2-3], [W2-4] and [W2-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Irako OR ten Screws OR three New Model Aviation Armament Materials\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 3 OR a \u26051 Type 3 Active Sonar Kai OR a \u26052 61cm Quadruple (Oxygen) Torpedo Mount"
+    },
+    "994": {
+        "code": "2304B3",
+        "name": "[Commemorative Mission: Extra Operation] Mainstay of Mainstays, Decisive Battle!",
+        "desc": "Sortie 2 Yuugumo-class DD and up to 4 additional ships to [W3-5], [W4-5], [W5-2] and [W5-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards furniture and either three Medals OR a \u26058 Shiden Kai Ni OR a \u26053 12.7cm Twin Gun Mount Model D Kai Ni"
+    },
+    "1126": {
+        "code": "2304F1",
+        "name": "[10th Anniversary Quest: Extended Mission] Special Arsenal Quest",
+        "desc": "Have 2 Shiden Kai 4, 80 Development Materials and 3000 Bauxite. Scrap 8 Fighters, 4 Seaplane Bombers and 4 AA Machine Guns.",
+        "memo": "\u2718Consumes the items (even with any \u2605) and resources.\n\u27a3Rewards either two Reppuu Kai (Prototype Carrier-based Model) OR a Reppuu Kai Ni Model E OR a Shinden Kai"
     }
 }

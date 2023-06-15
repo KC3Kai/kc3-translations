@@ -1707,6 +1707,12 @@
         "desc": "Sortie either 3 DE and up to 3 additional ships OR 4 DD and up to 2 additional ships OR 2 AV and up to 4 additional ships to [W1-3], [W1-5], [W1-6] and [W2-2]. S-Rank all relevant boss nodes twice. Reach [W1-6-N] twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either seven Buckets OR ten Development Materials OR three Irako\n\u00B6Second choice: Either two Type 2 Depth Charge OR two Type 1 Land-based Attack Aircraft OR an Action Report"
     },
+    "998": {
+        "code": "B192",
+        "name": "Improved Shiratsuyu-class Destroyer Shigure Kai San, Sortie!",
+        "desc": "Sortie Shigure Kai San, any one of Shiratsuyu, Ariake and Yuugure and up to 4 additional ships to [W2-5], [W4-5], [W5-5], [W6-4] and [W7-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a \u26051 25mm Anti-aircraft Autocannon Expansion OR 3 Mamiya\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 3 OR a \u26051 Radar Equipment Mast (Type 13 Kai + Type 22 Radar Kai 4) OR three Medals"
+    },
 
 
 
@@ -2373,6 +2379,12 @@
         "name": "[Shigure of Sasebo] Improve Your Level of Training!",
         "desc": "Secure 5 S-Rank victories in Exercises within the same day using Shigure, any one of Shiratsuyu, Ariake and Yuugure and up to 4 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Type 95 Depth Charges OR three 25mm Triple Autocannon Mounts OR three Screws\n\u00B6Second choice: Either eight Development Materials OR two Present Boxes OR a Medal"
+    },
+    "366": {
+        "code": "C76",
+        "name": "The Most Elite! Improved Shigure Exercises, Commence!",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Shigure Kai San as flagship, 3 DD and up to 2 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR two Type 2 Depth Charges OR eight Buckets\n\u00B6Second choice: Either a Furniture Fairy OR four Screws OR a Reinforcement Expansion"
     },
 
 
@@ -3858,19 +3870,19 @@
         "desc": "Sortie 3 DD and up to three additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 3 Shells OR three 12cm 20-tube Rocket Launchers OR two Shipborne Type 4 20cm Anti-ground Rocket Launchers\n\u00B6Second choice: Either two Daihatsu Landing Craft OR two 25mm Triple Machine Gun OR a Repair Goddess"
     },
-    "953": {
+    "953E51B1": {
         "code": "21SuLB1",
         "name": "[Mediterranean Operation] Assemble the Special Mission Striking Force Fleet!",
         "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes F, L and boss O.",
         "memo": "\u27a3Unlocks the Striking Force on Fleet 3.\n\u27a3Rewards either a Type 3 Shell OR a Shipborne Type 4 20cm Anti-Ground Mortar OR four Buckets"
     },
-    "954": {
+    "954E51B2": {
         "code": "21SuLB2",
         "name": "[Mediterranean Operation] Attack the enemy deployed in the Mediterranean Region!",
         "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes P, H and S.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a Furniture Fairy OR a Medal"
     },
-    "955": {
+    "955E51B3": {
         "code": "21SuLB3",
         "name": "[Mediterranean Operation] 10th Submarine Flotilla Operation",
         "desc": "Sortie submarine fleet to Summer 2021 [E-3]. A-Rank+ nodes T1 and T4 twice.",
@@ -4200,5 +4212,29 @@
         "name": "[10th Anniversary Quest: Extended Mission] Special Arsenal Quest",
         "desc": "Have 2 Shiden Kai 4, 80 Development Materials and 3000 Bauxite. Scrap 8 Fighters, 4 Seaplane Bombers and 4 AA Machine Guns.",
         "memo": "\u2718Consumes the items (even with any \u2605) and resources.\n\u27a3Rewards either two Reppuu Kai (Prototype Carrier-based Model) OR a Reppuu Kai Ni Model E OR a Shinden Kai"
+    },
+    "367": {
+        "code": "2306C1",
+        "name": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship and 5 DD.",
+        "memo": "\u27a3Rewards a Teru Teru Bouzu"
+    },
+    "953": {
+        "code": "2306B1",
+        "name": "[Rainy Season] Protect the Marine Transportation Route in the Rainy Season!",
+        "desc": "Sortie a CL/AV as flagship, 3 DD and up to 2 additional ships to [W1-2], [W1-3], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR an Underway Replenishment"
+    },
+    "954": {
+        "code": "2306B2",
+        "name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
+        "desc": "Sortie 2 CA or 2 CAV, one of them as flagship and up to 4 additional ships to [W7-3-P] and [W7-4]. S-Rank each boss node twice.",
+        "memo": "\u203bFor the two required ships, you can't mix ship types. For example, if your flagship is a CAV, you must sortie another CAV as well.\n\u27a3Rewards three Teru Teru Bouzu and either eight Development Materials OR two Screws OR a Mamiya"
+    },
+    "955": {
+        "code": "2306B3",
+        "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
+        "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards four Teru Teru Bouzu and 350 Ranking Points"
     }
 }

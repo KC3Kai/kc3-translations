@@ -774,8 +774,9 @@
 
 	"BattleHistoryMapCleared" : "Cleared!",
 	"BattleHistoryMapDiffUnselect" : "No difficulty",
-	"BattleHistoryKillsRequire"  : "{0} kills",
+	"BattleHistoryKillsReqTip"   : "{0} kills",
 	"BattleHistoryKillsProgress" : "{0} / {1} kills left",
+	"BattleHistoryMultiKillsProgress" : "P{0} {1}/{2} kills left",
 	"BattleHistoryPagingSettingLabel" : "sorties per page,",
 	"BattleHistoryPagingInfoLine"     : "total pages: {0}, sorties: {1}",
 	"BattleHistoryPagingOption1" : "100&nbsp;(Slowest)",

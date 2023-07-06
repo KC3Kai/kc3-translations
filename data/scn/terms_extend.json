@@ -113,6 +113,8 @@
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
 
+	"QuestFlowchartScrewKeyword" : "改修资材",
+
 	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 	"BattleHistoryHeavyAirRaidTip" : "超重爆空袭迎击按钮结果：{0}\n来袭敌舰ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip" : "已知舰队消耗或收入：{0}\n最近基地航空队消耗：{1}",

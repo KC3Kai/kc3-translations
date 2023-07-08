@@ -1713,6 +1713,12 @@
         "desc": "Sortie Shigure Kai San, any one of Shiratsuyu, Ariake and Yuugure and up to 4 additional ships to [W2-5], [W4-5], [W5-5], [W6-4] and [W7-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a \u26051 25mm Anti-aircraft Autocannon Mount & Machine Guns OR 3 Mamiya\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 3 OR a \u26051 Radar Equipment Mast (Type 13 Kai + Type 22 Radar Kai 4) OR three Medals"
     },
+    "993": {
+        "code": "B193",
+        "name": "Remodeled Destroyer Amatsukaze Kai Ni, Set Sail!",
+        "desc": "Sortie Amatsukaze Kai Ni as flagship and up to 5 additional ships to [W2-5], [W7-4], [W5-3], [W5-4] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Medals OR a \u26052 25mm Anti-aircraft Autocannon Mount + Machine Guns OR three Repair Goddesses\n\u00B6Second choice: Either a \u2605max 12.7cm Twin Gun Mount Model C Kai 2 OR a Torpedo Squadron Skilled Lookout"
+    },
 
 
 
@@ -2182,11 +2188,17 @@
         "desc": "Secure 4 victories in Exercises within the same day using Yuugumo Kai Ni, Naganami Kai Ni and up to 4 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"
     },
-    "326": {
+    "326_C67": {
         "code": "C67",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
+    },
+    "326": {
+        "code": "C77",
+        "name": "Mass Exercises for Summer",
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "memo": "\u27a3Rewards a Mamiya and either a Present Box OR a Repair Team OR two 25mm Twin Autocannon Mount"
     },
     "327": {
         "code": "C25",
@@ -2342,7 +2354,7 @@
         "code": "C65",
         "name": "Annual DesDiv 19 Exercises - May",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni and up to 2 additional ships.",
-        "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19 Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either a Irako OR four Development Materials\n\u00B6Second choice: Either a \u2605+4 Skilled Lookouts OR a Mamiya OR three Screws"
+        "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19 Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either an Irako OR four Development Materials\n\u00B6Second choice: Either a \u2605+4 Skilled Lookouts OR a Mamiya OR three Screws"
     },
     "357": {
         "code": "C66",
@@ -2385,6 +2397,12 @@
         "name": "The Most Elite! Improved Shigure Exercises, Commence!",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Shigure Kai San as flagship, 3 DD and up to 2 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR two Type 2 Depth Charges OR eight Buckets\n\u00B6Second choice: Either a Furniture Fairy OR four Screws OR a Reinforcement Expansion"
+    },
+    "368": {
+        "code": "C78",
+        "name": "Annual DesDiv 16 Exercises - July",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using any 2 of Amatsukaze, Yukikaze, Tokitsukaze and Hatsukaze and up to 4 additional ships.",
+        "memo": "This quest resets on the first quest reset of July.\n\u203bDesDiv 16, Exercises!\n\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three Buckets OR three Development Materials\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 2 OR two New Model Armament Materials OR three Enhanced Kanhon Type Boiler"
     },
 
 
@@ -3415,6 +3433,12 @@
         "desc": "Have 3 Drum Canisters, 5500 Steel and 2700 Bauxite. Scrap 3 Anti-Air Guns, 3 Boilers/Turbines and 3 Armor Bulges.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards either 40 Development Materials OR ten Screws OR four New Model Armament Materials"
     },
+    "1131": {
+        "code": "F119",
+        "name": "Maintenance of Artillery Armament",
+        "desc": "Have a Repair Team, 2500 Ammo and 3000 Steel. Scrap 18 Small Cal. Main Guns, 12 Medium Cal. Main Guns and 6 Depth Charges.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three 12.7cm Twin Gun Mount Model B Kai 2 OR two 12.7cm Twin High-angle Gun Mount (Late Model) OR a New Model Artillery Armament Material\n\u00B6Second choice: Either a \u26053 14cm Twin Gun Mount Kai OR a \u26052 15.2cm Twin Gun Mount Kai OR two 20.3cm (No.2) Twin Gun Mount"
+    },
 
 
 
@@ -4177,7 +4201,7 @@
         "desc": "Have 3 Type 97 Torpedo Bombers, 8 Development Materials, 8 Flamethrowers, 550 ammo and 550 bauxite. Set secretary with a \u2605max 12.7mm Single Machine Gun Mount in her first slot.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26058 2cm Flakvierling 38 and either two Medals OR a \u26052 Type 1 Land-based Attack Aircraft (Nonaka Squadron) OR a Shinzan"
     },
-    "992": {
+    "992_2304B1": {
         "code": "2304B1",
         "name": "[10th Anniversary Quest] Fubuki-class Destroyers, Sortie!",
         "desc": "Sortie 4 Fubuki-class DD and up to 2 additional ships to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank each boss node.",
@@ -4195,13 +4219,13 @@
         "desc": "Complete Expeditions 5, A1, 9 and 11 once each, and Expedition 7 three times.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either 8800 Fuel OR eight Screws\n\u00B6Second choice: Either ten Development Materials OR two Daihatsu Landing Craft OR 3900 Bauxite"
     },
-    "993": {
+    "993_2304B2": {
         "code": "2304B2",
         "name": "[10th Anniversary Quest] Shiratsuyu-class Destroyers, Sortie!",
         "desc": "Sortie 3 Shiratsuyu-class DD and up to 3 additional ships to [W2-2], [W2-3], [W2-4] and [W2-5]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Irako OR ten Screws OR three New Model Aviation Armament Materials\n\u00B6Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 3 OR a \u26051 Type 3 Active Sonar Kai OR a \u26052 61cm Quadruple (Oxygen) Torpedo Mount"
     },
-    "994": {
+    "994_2304B3": {
         "code": "2304B3",
         "name": "[Commemorative Mission: Extra Operation] Mainstay of Mainstays, Decisive Battle!",
         "desc": "Sortie 2 Yuugumo-class DD and up to 4 additional ships to [W3-5], [W4-5], [W5-2] and [W5-5]. S-Rank each boss node.",
@@ -4236,5 +4260,17 @@
         "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
         "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
         "memo": "\u27a3Rewards four Teru Teru Bouzu and 350 Ranking Points"
+    },
+    "992": {
+        "code": "2307B1",
+        "name": "DesDiv 16, Sortie! Ensure the Safety of Naval Base Waters!",
+        "desc": "Sortie any 2 of Amatsukaze, Yukikaze, Tokitsukaze and Hatsukaze and up to 4 additional ships to [W1-3], [W1-4] and [W1-5]. S-Rank each boss node 3 times.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR a Reinforcement Expansion OR a Repair Goddess\n\u00B6Second choice: Either a Blueprint OR a Dock Key"
+    },
+    "994": {
+        "code": "2307B2",
+        "name": "Mainstay of Mainstays, Weigh Anchor! Destroy the Enemy Fleet!",
+        "desc": "Sortie 1 (F)BB(V) as flagship, 2 Yuugumo-class DD and up to 3 additional ships to [W1-2], [W1-4], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards a White Sash and either Kamoi OR Akashi OR Ooyodo"
     }
 }

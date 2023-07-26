@@ -348,6 +348,7 @@
 	"SettingsRedShadeOnPanel" : "Red shade on Panel",
 	"SettingsDisableHomePort" : "Disabled at Home Port",
 	"SettingsDisableHasDamecon" : "Ignore Ships w/Damecon",
+	"SettingsDisableHasDameconTip" : "Having this activated will cause the Taiha Alert NOT to appear when a ship that is still equipping any type of Damecon is in a taiha state. Advance Button Blocker will NOT appear if a taiha ship is equipping a Damecon that has not been consumed yet, irrelevant to this option.",
 	"SettingsDisableUnlockShips" : "Ignore Unlock Ships",
 	"SettingsDisableUnlockShipsTip" : "Having this activated will cause the Taiha Alert and Advance Button Blocker NOT to appear when a ship that has not been heart-locked is in a taiha state.",
 	"SettingsNoAnimation" : "No Animation Effect",

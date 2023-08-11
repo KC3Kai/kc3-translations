@@ -346,7 +346,7 @@
 	"SettingsSSImgur": "Imgur",
 	"SettingsSSNewTab": "새로운 탭",
 	"SettingsSSFileType": "파일 형식",
-	"SettingsSSQuality": "스크린샷 품질",
+	"SettingsSSQuality": "JPG 스크린샷 품질",
 	"SettingsSSDirectory": "다운로드 서브디렉토리",
 	"SettingsSSDirDesc": "/Downloads/ 서브디렉토리를 정하세요. 절대 경로나 비어 있는 경로, 또는  ('..') 등의 경로를 정하면 에러가 발생합니다.",
 	"SettingsSSDppx": "기기 픽셀 비율",
@@ -542,6 +542,7 @@
  
 	"SettingsPanelPvPFriends" : "연습전 우군 제독",
 	"SettingsPanelPvPFriendsTip" : "우군 제독을 추가합니다. 연습시 정보창의 제독명이 다른 색으로 표시됩니다. 또한, 제독명을 클릭해서 상태를 바꿀수가 있습니다. 추가나 삭제도 가능합니다.",
+	"SettingsPanelPortSoundNotifyEventOnly" : "이벤트 맵 변경시 해역 변화 모항 알림",
 
 	"SettingsPanelReloadReminderStart" : "재시작 알림 까지",
 	"SettingsPanelReloadReminderStartTip" : "메모리 부족으로 인한 강제 종료를 막기위해, 지정시간 후 Chrome devtools를 재시작 하기 위한 알림을 표시합니다. 0으로 하면 작동하지 않습니다.",

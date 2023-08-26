@@ -96,6 +96,7 @@
 	"GameStep3": "享受游戏！",
 	"GameStepHint": "提示",
 	"GameStepHintRam": "推荐关闭网络日志记录，防止内存消耗的长期累积：暂时切换到<code><strong>Network</strong></code>页，点击左上的 <span style='color:red'>🔴</span> 按钮或按 <kbd>Ctrl</kbd> <kbd>E</kbd> 一次即可。",
+	"GameStepHintHttps": "如果浏览器接下来自动以HTTPS方式打开DMM网站，游戏将不能正常加载。需要点击地址栏左边的\uD83D\uDD12锁图标进入“网站设置”，找到“不安全的内容”项目并选择“允许”。关闭这些标签后再重新打开游戏。",
 	"GameSocialLinks": "链接",
 	"GameAltAPIInfo":"在部分Chrome版本中（55或以上），面板无法检测到API链接并停留在“正在等待游戏响应…”",
 	"GameAltDMMInfo":"本页面本身即是通过DMM网站进行游戏的DMM定制模式。这是我们推荐使用的模式。包含的定制包括字幕，任务翻译和定制背景。请依照“开始游戏”一节的步骤开始游戏。",

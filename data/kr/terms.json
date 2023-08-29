@@ -481,9 +481,9 @@
 	"SettingsEnableOpenDBSubmission" : "이 기능 활성화",
 	"SettingsFeatureToggleOpenDB" :"Kancolle OpenDB에 데이터 전송",
 	
-	"SettingsTsunDBSubmission" : "Tsunderes에 데이터 전송 (https://tsundb.kc3.moe)",
+	"SettingsTsunDBSubmission" : "TsunDB에 데이터 전송 (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "이 기능 활성화",
-	"SettingsFeatureToggleTsunDB" : "Tsunderes에 데이터 전송",
+	"SettingsFeatureToggleTsunDB" : "TsunDB에 데이터 전송",
 	"SettingsEnableTsunDBExtraSubmission" : "추가 데이터 활성화하기",
 
 	"SettingsPushAlerts" : "PushBullet에 알림 전송 (https://www.pushbullet.com/)",
@@ -963,7 +963,7 @@
 	"Screenshot": "스크린샷",
 	"Expedition": "원정",
 	
-	"PanelWaitActions": "게임 활동 대기중...",
+	"PanelWaitActions": "게임 실행 대기중...",
 	"PanelErrorStorage": "Chrome의 localstorage가 무효로 설정되어 있습니다. KC3改는 해당 기능을 필요로 합니다.<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">이를 유효화하는 방법에 대해 참조하세요.</a>.",
 
 	"MapNameWorld1" : "진수부해역",
@@ -1143,18 +1143,6 @@
 	"LodgerRmditem": "개수",
 	"LodgerLbas": "기지항공대",
 	"Lodgeroverall": "최종 평가",
-
-	"LodgeRatingOK0": "기록 자료 없음",
-	"LodgeRatingOK1": "티끌만큼 모음",
-	"LodgeRatingOK2": "미미한 수입",
-	"LodgeRatingOK3": "그럴싸한 수입",
-	"LodgeRatingOK4": "기대치 이상!",
-	"LodgeRatingOK5": "자본주의의 돼지!",
-	"LodgeRatingNG1": "미미한 지출",
-	"LodgeRatingNG2": "소비학 개론",
-	"LodgeRatingNG3": "불안전 소비주의",
-	"LodgeRatingNG4": "난수교 신자?",
-	"LodgeRatingNG5": "과다 출혈",
 
 	"ShipListFullNamePattern": "{0:className} {1:shipName}",
 	

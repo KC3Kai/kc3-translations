@@ -41,7 +41,7 @@
 	"TabSubMenuRequiredShips" : "所需舰娘",
 
 	"TabTopMenuBattles"    : "出击",
-	"TabSubMenuMaps"       : "普通海域",
+	"TabSubMenuMaps"       : "通常海域",
 	"TabSubMenuEvents"     : "活动海域",
 	"TabSubMenuEncounters" : "深海编成",
 	"TabSubMenuPvP"        : "演习历史",
@@ -113,12 +113,43 @@
 
 	"ShipListFullNamePattern" : "{0:className} {1:shipName}",
 
+	"EventLockingTagName1" : "2023夏活《第二舰队》",
+	"EventLockingTagName2" : "2023夏活《南沙哨戒部队》",
+	"EventLockingTagName3" : "2023夏活《输送护卫船团》",
+	"EventLockingTagName4" : "2023夏活《第一水雷战队》",
+	"EventLockingTagName5" : "2023夏活《第五战队主力》",
+	"EventLockingTagName6" : "2023夏活《第一舰队》",
+	"EventLockingTagName7" : "2023夏活《欧洲远征先遣队》",
+	"EventLockingTagName8" : "2023夏活《英国联络部队》",
+	"EventLockingTagName9" : "2023夏活《英海军主力部队》",
+	"EventLockingTagName10": "2023夏活《英D-Day登陆部队》",
+	"EventLockingTagName11": "2023夏活《美D-Day登陆部队》",
+
 	"BattleHistoryAirRaidTip" : "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 	"BattleHistoryHeavyAirRaidTip" : "超重爆空袭迎击按钮结果：{0}\n来袭敌舰ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip" : "已知舰队消耗或收入：{0}\n最近基地航空队消耗：{1}",
 
-	"MasterShipSaltCheck" : "Existence Accept",
-	"MasterShipSaltUnCheck" : "Existence Deny",
+	"MapHistoryPageTitle" : "通常海域出击历史",
+	"EventHistoryPageTitle" : "活动限定海域出击历史",
+
+	"StrategyNormalMapGo" : "第{0}海域",
+	"StrategyEventGo"     : "活动海域",
+
+	"MapHistoryWorldTabAll" : "所有海域",
+	"MapHistoryWorldTab1"   : "镇守府海域",
+	"MapHistoryWorldTab2"   : "南西群岛",
+	"MapHistoryWorldTab3"   : "北方海域",
+	"MapHistoryWorldTab4"   : "西方海域",
+	"MapHistoryWorldTab5"   : "南方海域",
+	"MapHistoryWorldTab6"   : "中部海域",
+	"MapHistoryWorldTab7"   : "南西海域",
+
+	"EventHistoryWorldTab56" : "2023早春活",
+	"EventHistoryWorldTab56Tip" : "2023年度冬季、早春合并活动",
+	"EventHistoryWorldTab57" : "2023夏活",
+
+	"MasterShipSaltCheck" : "承认她存在",
+	"MasterShipSaltUnCheck" : "否认她存在",
 	"MasterShipGoQuotes" : "查看台词",
 
 	"Dummy" : "Dummy"

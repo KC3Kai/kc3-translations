@@ -605,7 +605,7 @@
 	"LearnMore": "상세히",
 	"Saved": "저장완료!",
 	"TimerComplete": "완료!",
-	"Debuffed": "보스 기믹 해제!",
+	"Debuffed": "보스 장갑 파괴!",
 	"Placeholder" : "－－－－",
 
 	"UnwantedExit": "API 링크는 1회 사용 후 무효화 됩니다. 새로고침을 하려면 메뉴를 통해 'API 링크를 새로고침'하셔야 합니다. 아니면 에러코를 만나러 갑니다.",
@@ -834,7 +834,7 @@
 	"ShipAAEffectRocketLauncher"   : "분진포",
 	"ShipAAEffectRocketLauncherK2" : "분진포 개2",
 	"ShipAAEffectType3Shell"       : "삼식탄",
-	"ShipAAEffectType3ShellRockeLaunK2" : "삼식탄+개2",
+	"ShipAAEffectType3ShellRockeLaunK2" : "삼식+분진 개2",
 	"ShipAAEffectUnknown"          : "불명",
 
 	"PredictionStampSortie": "굉침",
@@ -1084,6 +1084,7 @@
 	"PvpBaseExpSrank": "EXP",
 	"PvpBaseExp": "기본 EXP",
 	"PvpDispBaseExpWoCT": "연순 없을 시 S승리",
+	"PvpExpForSSwAsahi"  : "아사히 잠수함 S승리",
 	"PvpFormationPred": "진형",
 	"FirstFleetLevelTip" : "연습 상대가 얻은 경험치: {0}\nS승리의 경우: {1} (연순 없을시)",
 	

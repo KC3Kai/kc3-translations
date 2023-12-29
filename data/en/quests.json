@@ -1725,6 +1725,12 @@
         "desc": "Sortie Kiyoshimo Kai Ni (D) as flagship, any 2 of Kasumi, Asashimo, Ooyodo and Ashigara and up to 3 additional ships to [W2-2], [W2-3], [W2-4] and [W7-4]. S-Rank each boss node.", 
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Artillery Armament Materials OR a 12.7cm Twin Gun Mount Model D Kai 2 OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model\n\u00B6Second choice: Either seven Screws OR 30 Development Materials OR a Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
     },
+    "1003": {
+        "code": "B195",
+        "name": "[Submarine Mission] Submarines, Combat Patrol!",
+        "desc": "Sortie Salmon or Scamp as flagship, and up to 5 additional ships to [W1-2], [W1-3], [W2-3] and [W3-1]. S-Rank each boss node.", 
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 800 Fuel OR a 21inch 4-tube Bow Torpedo Launcher (Late Model) OR 800 Ammo\n\u00B6Second choice: Either a SJ Radar + Submarine Conning Tower Equipment OR a Medal"
+    },
 
 
 
@@ -3332,7 +3338,7 @@
     "1106": {
         "code": "F101",
         "name": "Frontline utilization of elite three-seated seaplane recon aircraft",
-        "desc": "Have 1300 Fuel, 1700 Baux, an Action Report, an Aerial Arm. Material and 3 Sk. Crew Members. Set Yura Kai Ni as secretary with a \u2605max Type 0 Reconnaissance Seaplane Model 11B in her 1st slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun.",
+        "desc": "Have 1300 Fuel, 1700 Baux, an Action Report, an Aviation Arm. Material and 3 Sk. Crew Members. Set Yura Kai Ni as secretary with a \u2605max Type 0 Reconnaissance Seaplane Model 11B in her 1st slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun.",
         "memo": "\u2718Consumes the resources and items.\n\u27a3Rewards a Type 0 Reconnaissance Seaplane Model 11B (Skilled)"
     },
     "1107": {
@@ -3406,7 +3412,7 @@
         "code": "Fy9",
         "name": "Annual Land Base Fighter - December",
         "desc": "Have three Type 0 Fighter Model 21, three Type 0 Fighter Model 52 and 1800 bauxite. Scrap 4 Fighters, 4 Dive Bombers and 4 Torpedo Bombers.",
-        "memo": "This quest resets on the first quest reset of December.\n\u2718Consumes the items and resources.\n\u203b[Model Consolidation] Mass Production Plan For New Fighter\n\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR a New Model Aerial Armament Material OR three Screws\n\u00B6Second choice: Either three Shiden Model 11 OR two Shiden Model 21 Shiden Kai OR two Prototype Reppuu Late Model",
+        "memo": "This quest resets on the first quest reset of December.\n\u2718Consumes the items and resources.\n\u203b[Model Consolidation] Mass Production Plan For New Fighter\n\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR a New Model Aviation Armament Material OR three Screws\n\u00B6Second choice: Either three Shiden Model 11 OR two Shiden Model 21 Shiden Kai OR two Prototype Reppuu Late Model",
         "trackingDesc": [ "{0} Fighters", "{0} Dive Bombers", "{0} Torpedo Bombers" ]
     },
     "1123": {
@@ -3555,7 +3561,7 @@
         "code": "22FaLB2",
         "name": "Saury Fishing: Poor catch of saury...? I'm unhappy...",
         "desc": "Have 15 Sauries in your inventory.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR six Type 3 Active Sonars OR an Action Report\n\u00B6Second choice: Either four New Model Gun Mount Improvement Materials OR four New Model Aerial Armament Materials OR a Blueprint"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR six Type 3 Active Sonars OR an Action Report\n\u00B6Second choice: Either four New Model Artillery Armament Materials OR four New Model Aviation Armament Materials OR a Blueprint"
     },
     "868_22FaLB3": {
         "code": "22FaLB3",
@@ -3579,7 +3585,7 @@
         "code": "21FaLB2",
         "name": "Saury Fishing: My sister is so... please forgive her.",
         "desc": "Have 11 Sauries in your inventory.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Daihatsu Landing Craft OR four 12cm 30-tube Rocket Launchers OR an Action Report\n\u00B6Second choice: Either three New Model Gun Mount Improvement Materials OR three New Model Aerial Armament Materials OR a Blueprint"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Daihatsu Landing Craft OR four 12cm 30-tube Rocket Launchers OR an Action Report\n\u00B6Second choice: Either three New Model Artillery Armament Materials OR three New Model Aviation Armament Materials OR a Blueprint"
     },
     "868_21FaLB3": {
         "code": "21FaLB3",
@@ -3961,7 +3967,7 @@
         "desc": "Sortie 1 CL, 2 DD and up to 3 additional ships to [W2-3], [W3-1], [W3-2], [W3-3], [W3-4], [W3-5] and [W7-2-M]. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either 7 Buckets OR a 61cm Triple (Oxygen) Torpedo Mount Late Model OR a Swordfish (Seaplane Model)\n\u00B6Second choice: Either a Medal OR a New Model Aviation Armament Material OR an Action Report"
     },
-    "910": {
+    "910_7thAnvLB3": {
         "code": "7thAnvLB3",
         "name": "7th Anniversary Mission: Extra Operation",
         "desc": "Sortie to [W6-1], [W6-2], [W6-3], [W6-4] and [W6-5]. S-Rank the boss nodes.",
@@ -4001,13 +4007,13 @@
         "code": "2301B2",
         "name": "2023 Nansei Islands Patrol Defense Operation, Commence!",
         "desc": "Sortie 2 CA(V), 1 CL(T)/CT and up to 3 additional ships to [W1-2], [W1-4], [W2-1] and [W2-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Shiden Kai (343 Air Group) 301st Fighter Squadron OR a Shiden Kai (343 Air Group) 701st Fighter Squadron OR four Skilled Crew Members\n\u00B6Second choice: Either two New Model Gun Mount Improvement Materials OR five Screws OR a Medal"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Shiden Kai (343 Air Group) 301st Fighter Squadron OR a Shiden Kai (343 Air Group) 701st Fighter Squadron OR four Skilled Crew Members\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR five Screws OR a Medal"
     },
     "803": {
         "code": "2301B3",
         "name": "Reiwa's 5th Happy New Year, Special Task Force, to the North!",
         "desc": "Sortie 1 AV, 1 AO/AS and up to 4 additional ships to [W3-3], [W3-4] and [W3-5]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Saiun (4th Recon Squad) OR two Reinforcement Expansions OR three New Model Aerial Armament Materials\n\u00B6Second choice: Either a Toku Daihatsu Landing Craft + Type 1 Gun Tank OR two Prototype Toukai OR two Action Reports"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Saiun (4th Recon Squad) OR two Reinforcement Expansions OR three New Model Aviation Armament Materials\n\u00B6Second choice: Either a Toku Daihatsu Landing Craft + Type 1 Gun Tank OR two Prototype Toukai OR two Action Reports"
     },
     "804": {
         "code": "2301B4",
@@ -4049,7 +4055,7 @@
         "code": "2302C1",
         "name": "Time-Limited 2023 Valentine's Day Quest: Special Exercises",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD and up to 1 additional ship.",
-        "memo": "\u27a3Rewards a Valentine Window Furniture and either three Zuiun OR two Type 2 Depth Charge OR two New Model Aerial Armament Materials"
+        "memo": "\u27a3Rewards a Valentine Window Furniture and either three Zuiun OR two Type 2 Depth Charge OR two New Model Aviation Armament Materials"
     },
     "991": {
         "code": "2302B3",
@@ -4181,7 +4187,7 @@
         "code": "2112LB3",
         "name": "[Christmas Limited] Wings of the Holy Night, sortie!",
         "desc": "Sortie either Shoukaku, Zuikaku and Hayasui OR Suzuya, Kumano and Gotland AND up to three aditional ships to [W2-4], [W3-5] and [W5-2]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 1 Land-based Attack Aircraft OR a Shinzan OR a Prototype Keiun (Carrier-based Reconnaissance Model)\n\u00B6Second choice: Either two Skilled Crew Members OR two New Model Aerial Armament Materials OR a Ne-Type Engine"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 1 Land-based Attack Aircraft OR a Shinzan OR a Prototype Keiun (Carrier-based Reconnaissance Model)\n\u00B6Second choice: Either two Skilled Crew Members OR two New Model Aviation Armament Materials OR a Ne-Type Engine"
     },
     "965_2112LB4": {
         "code": "2112LB4",
@@ -4201,29 +4207,65 @@
         "desc": "Sortie to [W1-2], [W1-3], [W1-5], [W1-6-N] and [W2-3]. S-Rank all relevant boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR 4000 Steel OR 10 Development Materials\n\u00B6Second choice: Either a Medal OR 8000 Fuel OR a Furniture Fairy"
     },
-    "361": {
+    "361_2212C1": {
         "code": "2212C1",
         "name": "[New Year Limited] First Escort Fleet, Special Exercise!",
         "desc": "Secure 5 S-Rank victories in Exercises within the same day using 2 DE and up to 4 additional ships, OR 1 CVL, 4 DD and up to 1 additional ship.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Irako\n\u00B6Second choice: Either eight Buckets OR four Type 3 Depth Charge Projectors OR 3000 Fuel"
     },
-    "990": {
+    "990_2212B2": {
         "code": "2212B2",
         "name": "[New Year Limited] Carrier Task Force, Patrol the Nansei Islands!",
         "desc": "Sortie a CV(L/B) as flagship, 1 CL, 2 DD and up to 2 additional ships to [W1-2], [W1-3], [W1-4], [W2-1] and [W2-3]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR two 61cm Quintuple (Oxygen) Torpedo Mounts OR four Screws\n\u00B6Second choice: Either a Type 99 Dive Bomber (Egusa Squadron) OR a Type 97 Torpedo Bomber (Tomonaga Squadron) OR two Skilled Crew Members"
     },
-    "1121": {
+    "1121_2212F1": {
         "code": "2212F1",
         "name": "[New Year Limited] Naval District General Cleaning! Happy New Year!",
         "desc": "Have 2 Type 96 Fighters, 2 41cm Twin Gun Mounts and 900 steel. Scrap 3 AA Machine Guns, 3 Secondary Guns and 3 Medium Caliber Main Guns.",
-        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a New Model Armament Material OR 2022 Bauxite\n\u00B6Second choice: Either a Medal OR two New Model Gun Mount Improvement Materials OR five Screws"
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a New Model Armament Material OR 2022 Bauxite\n\u00B6Second choice: Either a Medal OR two New Model Artillery Armament Materials OR five Screws"
     },
-    "1122": {
+    "1122_2212F2": {
         "code": "2212F2",
         "name": "[New Year Limited] Naval District End-of-year Prototype Renovated Jumbo",
         "desc": "Have 3 Type 97 Torpedo Bombers, 8 Development Materials, 8 Flamethrowers, 550 ammo and 550 bauxite. Set secretary with a \u2605max 12.7mm Single Machine Gun Mount in her first slot.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26058 2cm Flakvierling 38 and either two Medals OR a \u26052 Type 1 Land-based Attack Aircraft (Nonaka Squadron) OR a Shinzan"
+    },
+    "361": {
+        "code": "2312C1",
+        "name": "[New Year Limited] First Escort Fleet, Special Exercise!",
+        "desc": "Secure 5 S-Rank victories in Exercises within the same day using 2 DE and up to 4 additional ships, OR 1 CVL, 4 DD and up to 1 additional ship.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Irako OR three Type 96 Fighters\n\u00B6Second choice: Either four 25mm Single Autocannon Mounts OR three Type 3 Depth Charge Projectors OR 3300 Fuel"
+    },
+    "910": {
+        "code": "2312B1",
+        "name": "[New Year Limited] Naval Base Patrol, Strict Vigilance!",
+        "desc": "Sortie a CL, 3 DD/DE and up to 2 additional ships to [W1-1], [W1-2] and [W1-3]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR three Buckets OR two Combat Rations\n\u00B6Second choice: Either two Screws OR two Combat Rations OR four Type 97 Torpedo Bombers"
+    },
+    "990": {
+        "code": "2312B2",
+        "name": "[New Year Limited] Carrier Task Force Patrol, Defend the Nansei Islands!",
+        "desc": "Sortie a CV(L/B) as flagship, 1 CL, 2 DD and up to 2 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either ten Development Materials OR a Reinforcement Expansion OR a Medal\n\u00B6Second choice: Either a \u26057 Type 0 Fighter Model 62 (Fighter-bomber) OR a \u26057 Shiden Kai 2 OR three Skilled Crew Members"
+    },
+    "1121": {
+        "code": "2312F1",
+        "name": "[New Year Limited] Naval District General Cleaning! Happy New Year!",
+        "desc": "Have 6 Type 96 Fighters, 4 Combat Rations and 2023 steel. Scrap 8 Small Caliber Main Guns, 8 Medium Caliber Main Guns and 8 Reconnaissance Seaplanes.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either twelve Development Materials OR two New Model Artillery Armament Materials OR 2024 Bauxite\n\u00B6Second choice: Either four 25mm Single Autocannon Mounts OR two New Model Aviation Armament Materials OR five Screws"
+    },
+    "1122": {
+        "code": "2312F2",
+        "name": "[New Year Limited] Continuation: Naval District End-of-year Renovated Jumbo",
+        "desc": "Have 8 Type 97 Torpedo Bombers, 8 Development Materials, 8 Flamethrowers, 2800 steel and 2800 ammo. Set secretary with a \u2605max 25mm Single Autocannon Mount in her first slot.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26058 3.7cm FlaK M42 and either three Medals OR a B-25 OR a Shinzan"
+    },
+    "1135": {
+        "code": "2312F3",
+        "name": "[New Year Limited] Wings Connected to the \"Renzan\"",
+        "desc": "Have 1 \u2605max Shinzan, 1 Type 1 Land-based Attack Aircraft Model 22A, 3 Skilled Crew Members and 2 New Model Aviation Armament Materials.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinzan Kai"
     },
     "992_2304B1": {
         "code": "2304B1",

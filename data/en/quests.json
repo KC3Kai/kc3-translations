@@ -521,6 +521,12 @@
         "desc": "Have ONLY Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet.",
         "memo": "\u27a3Rewards a \u2605+2 12.7cm Twin Gun Mount Model D Kai 2 and either six Buckets OR a Furniture Fairy"
     },
+    "198": {
+        "code": "A94",
+        "name": "Powerful! DesDiv 7, Prepare to Weigh Anchor!",
+        "desc": "Have ONLY Oboro Kai, Sazanami Kai, Akebono Kai+ and Ushio Kai+ in your fleet.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Combat Rations OR four Development Materials\n\u00B6Second choice: Either two Irakos OR four Buckets"
+    },
 
     "202": {
         "code": "B1",
@@ -1731,6 +1737,12 @@
         "desc": "Sortie Salmon or Scamp as flagship, and up to 5 additional ships to [W1-2], [W1-3], [W2-3] and [W3-1]. S-Rank each boss node.", 
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either 800 Fuel OR a 21inch 4-tube Bow Torpedo Launcher (Late Model) OR 800 Ammo\n\u00B6Second choice: Either a SJ Radar + Submarine Conning Tower Equipment OR a Medal"
     },
+    "1004": {
+        "code": "B196",
+        "name": "Remodelled Aviation Cruiser Mikuma, Advancing!",
+        "desc": "Sortie Mikuma Kai Ni (Toku) as flagship, and up to 5 additional ships to [W2-3], [W2-4], [W4-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Irako OR a Skilled Crew Member\n\u00B6Second choice: Either a \u26052 Shiun OR two Medals OR a \u26052 Prototype 20.3cm (No.4) Twin Gun Mount"
+    },
 
 
 
@@ -2069,6 +2081,13 @@
         "desc": "Sortie Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni, and up to 2 additional ships to [W1-5], [W2-3], [W3-2] and [W5-3]. S-Rank the boss node of each.",
         "memo": "This quest resets on the first quest reset of May.\n\u203bElite DesDiv 19, All-out Sortie!\n\u27a3Rewards:\n\u00B6First choice: Either two Skilled Lookouts OR four Screws OR nine Buckets\n\u00B6Second choice: Either two Medals OR two 12.7cm Twin Gun Mount Model A Kai 2 OR a 61cm Triple (Oxygen) Torpedo Mount Late Model",
         "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} S-Rank [W2-3]", "{0} S-Rank [W3-2]", "{0} S-Rank [W5-3]" ]
+    },
+    "1005": {
+        "code": "By13",
+        "name": "Annual DesDev 7 Sortie - Jan",
+        "desc": "Sortie Oboro Kai, Sazanami Kai, Akebono Kai+, Ushio Kai+, and up to 2 additional ships to [W1-2], [W1-3], [W1-5] and [W3-2]. A-Rank+ each boss node.",
+        "memo": "This quest resets on the first quest reset of January.\n\u203bElite DesDiv 7, Emergency Sortie!\n\u27a3Rewards:\n\u00B6First choice: Either 700 Fuel OR four Buckets OR two Screws\n\u00B6Second choice: Either seven Development Materials OR a Medal OR a Furniture Fairy",
+        "trackingDesc": [ "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} A-Rank+ [W3-2]" ]
     },
 
 
@@ -3768,35 +3787,65 @@
         "desc": "Sortie 2 (F)BB(V)/ 2 CV(L/B)\u203b, a Sendai-class CL/Ooyodo and up to 3 additional ships to [W2-5], [W5-2], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u203bFor the two required ships, you can't mix ship types between BB and CV. For example, if one is a (F)BB(V), you must sortie another (F)BB(V) as well.\n\u27a3Rewards three units of Setsubun Beans and 220 Ranking Points"
     },
-    "329": {
+    "329_2301C1": {
         "code": "2301C1",
         "name": "[Setsubun Mission] Setsubun Exercises 2023",
         "desc": "Secure 3 S-Rank victories in Exercises within the same day using 2 CL/CT, 3 DD/DE and up to 1 additional ships.",
         "memo": "\u27a3Rewards one unit of Setsubun Beans"
     },
-    "840": {
+    "840_2301B5": {
         "code": "2301B5",
         "name": "[Setsubun Mission] Setsubun Operation 2023",
         "desc": "Sortie a CVL/CL(T)/CT as flagship, 3 DD/DE and up to 2 additional ships to [W1-3], [W1-4] and [W1-5]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards two units of Setsubun Beans and either four Buckets OR an Underway Replenishment OR six Development Materials"
     },
-    "841": {
+    "841_2301B6": {
         "code": "2301B6",
         "name": "[Setsubun Mission] Southwestern Sea Setsubun Operation 2023",
         "desc": "Sortie 2 CAV/ 2 AV\u203b, one of them as flagship and up to 4 additional ships to [W7-2-M], [W7-3-P], [W7-4] and [W7-5-T]. S-Rank [W7-2-M], [W7-3-P] and [W7-5-T] boss node, A-Rank+ [W7-4] boss node.",
         "memo": "\u203bFor the two required ships, you can't mix ship types. For example, if your flagship is a CAV, you must sortie another CAV as well.\n\u27a3Rewards three units of Setsubun Beans and either a Mamiya OR two Irako OR four Screws"
     },
-    "441": {
+    "441_2301D1": {
         "code": "2301D1",
         "name": "[Setsubun Mission] Reiwa's 5th Year Setsubun Expedition Mission",
         "desc": "Complete Expeditions 41, 04, 05, A3, B1 and 14.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: either two New Model Aviation Armament Materials OR three units of Setsubun Beans OR 2023 Fuel\n\u00B6Second choice: either five Screws OR a Medal OR a Type 2 Depth Charge Kai 2"
     },
-    "843": {
+    "843_2301B7": {
         "code": "2301B7",
         "name": "[Setsubun Extra Mission] Setsubun 2023, All-out Sortie!",
         "desc": "Sortie 2 (F)BB(V)/ 2 CV(L/B)\u203b, a Kuma-class CL(T)/Ooyodo and up to 3 additional ships to [W2-5], [W4-5], [W5-5] and [W6-5]. S-Rank each boss node.",
         "memo": "\u203bFor the two required ships, you can't mix ship types between BB and CV. For example, if one is a (F)BB(V), you must sortie another (F)BB(V) as well.\n\u27a3Rewards four units of Setsubun Beans and 230 Ranking Points"
+    },
+    "329": {
+        "code": "2401C1",
+        "name": "[Setsubun Mission] Setsubun Exercises 2024",
+        "desc": "Secure 4 B-Rank+ victories in Exercises within the same day using 2 CA(V), 3 DD/DE and up to 1 additional ships.",
+        "memo": "\u27a3Rewards one unit of Setsubun Beans and 11 Ranking Points"
+    },
+    "840": {
+        "code": "2401B5",
+        "name": "[Setsubun Mission] Setsubun Operation 2024",
+        "desc": "Sortie 2 of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei and Chougei as flagship and 2nd ship\u203b, and up to 4 additional ships to [W1-1], [W1-3] and [W1-4]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards three units of Setsubun Beans and either four Buckets OR an Underway Replenishment OR six Development Materials"
+    },
+    "841": {
+        "code": "2401B6",
+        "name": "[Setsubun Mission] Southwestern Sea Setsubun Operation 2024",
+        "desc": "Sortie 2 of Ranger, Johnston, Hayashimo, Shinyou, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and 2nd ship\u203b, and up to 4 additional ships to [W2-1], [W2-2] and [W7-4]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards three units of Setsubun Beans and either a Mamiya OR two Irako OR four Screws"
+    },
+    "441": {
+        "code": "2401D1",
+        "name": "[Setsubun Mission] Reiwa's 6th Year Setsubun Expedition Mission",
+        "desc": "Complete Expeditions 09, 04, 05, 19, A3, and 15.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: either two New Model Artillery Armament Materials OR three units of Setsubun Beans OR 2024 Fuel\n\u00B6Second choice: either five Screws OR a Medal OR a \u26058 20.3cm (No.3) Twin Gun Mount"
+    },
+    "843": {
+        "code": "2401B7",
+        "name": "[Setsubun Mission] Setsubun Extra Operation 2024, Decisive and Quick Response!",
+        "desc": "Sortie any 2 Mogami-class ships, 1 additional CVL\u203b and up to 3 additional ships to [W2-3], [W4-5], [W5-5] and [W6-5]. S-Rank each boss node.",
+        "memo": "\u203bYou have to add one more CVL or Mogami-class ship if you have Suzuya/Kumano CVL for the three required ships.\n\u27a3Rewards four units of Setsubun Beans and 250 Ranking Points"
     },
     "340": {
         "code": "W20C1",

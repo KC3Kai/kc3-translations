@@ -1267,7 +1267,7 @@
         "H0900": "9 A.M. Yeah! With this, I'm all ready now!",
         "H1000": "10 A.M. I'm gonna watch TV while on standby, 'ka~y?",
         "H1100": "11 A.M. Chief? What's this 'Wife and Mother-in-law' problem?",
-        "H1200": "12 midday~ I've taken a liking to this midday program~ Eh? You'll take me to the recording? I'm fired up now!",
+        "H1200": "12 midday~ I've taken a liking to this midday programme~ Eh? You'll take me to the recording? I'm fired up now!",
         "H1300": "It's 13 o'clock. Whew~ Lunch breaks sure are fun~",
         "H1400": "It's 14 o'clock now. H-huh? Oh no, we forgot to eat lunch! Wha-what should we do?",
         "H1500": "15 o'clock. Ah, Commander, that store over there is still doing lunch!",
@@ -1291,6 +1291,7 @@
         "Sortie": "Improved Kongou-class battleship, Hiei, weighing anchor!",
         "Damaged(3)": "To do such things to... the 3rd remodel equipment handed over from Onee-sama... I definitely can't forgive this!",
         "SpCutin": "Battleship Hiei, off I go, with all my spirit... FIRE!",
+        "H1200": "12 midday. I did kinda like that midday programme. But I like the Club too.... Ah, I still watch that.",
         "Friend50(1)": "Yes, just leave it all to me!",
         "Friend50(2)": "BatDiv11 flagship, Hiei! We've reached the battlefield. We'll now support the friendly fleet.",
         "Friend50(3)": "Yes, just leave it all to me!"
@@ -2520,7 +2521,8 @@
         "Damaged(1)": "Tch, how cheeky.",
         "Damaged(2)": "Ah! I-I won't forgive you!",
         "Damaged(3)": "W-Wait! I can't believe you've done this! No way! I won't forgive you!",
-        "Sunk": "Eh? I'm sinking... No... No... way... I'm... still... still... for you..."
+        "Sunk": "Eh? I'm sinking... No... No... way... I'm... still... still... for you...",
+        "SpCutin": "Rodney squadron, charge! Divide the enemy! All ships, all main guns, fire! Begin!"
     },
     "577": {
         "Intro": "Admiral, how are you doing? Is that so? Then, I'll give you the power of Rodney today as well. Let's move forward together!",
@@ -5272,7 +5274,6 @@
         "Equip(1)": "I wonder if Chiyoda has gotten stronger.",
         "Equip(2)": "No way, I might actually be cool.",
         "Equip(3)": "Well done.",
-        "Supply": "Thank you very much, Admiral.",
         "Docking(1)": "Just a little fix-up.",
         "Docking(2)": "Man, that's gonna leave a mark... Chiyoda will worry, so let's keep it a secret, yeah?",
         "Construction": "A new ship has been completed.",
@@ -5292,7 +5293,8 @@
     "296": {
         "Poke(1)": "You want a refill, right? It's my pleasure.",
         "Poke(2)": "Admiral, what do you want to drink?",
-        "Idle": "There is no fleet action scheduled for a while. Before the next operation, I'm going to deal with many of the trivial things that may bother you in the future. Admiral, drink sake if you like, and please make yourself at home."
+        "Idle": "There is no fleet action scheduled for a while. Before the next operation, I'm going to deal with many of the trivial things that may bother you in the future. Admiral, drink sake if you like, and please make yourself at home.",
+        "Supply": "Admiral, thank you very much."
     },
     "103": {
         "Intro": "Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?",
@@ -5752,7 +5754,7 @@
         "Damaged(2)": "No, stop! No!",
         "Damaged(3)": "Uwahhh! Please flood the torpedo hold! Oh no... fire... contain it... please!",
         "Sunk": "I'm sinking again, aren't I? Not in Truk this time, but to the bottom of the sea. I... I... ah...",
-		"SpCutin": "Sixth Fleet, First Submarine Squadron, go! Please attack, First Submarine Squadron!",
+        "SpCutin": "Sixth Fleet, First Submarine Squadron, go! Please attack, First Submarine Squadron!",
         "SpCCutin(1)": "Sixth Fleet, First Submarine Squadron, go! Please attack, First Submarine Squadron!"
     },
     "949": {
@@ -7456,6 +7458,7 @@
         "Intro": "I'm I-14, a 1st Class submarine born to carry Seiran. Yup, today's gonna be another great day! Let's get cracking, admiral!",
         "Poke(2)": "Yep! My hangar is nice, isn't it! Saiun is fine, too, but of course, nothing beats Seiran! Yay!",
         "Poke(3)": "Ah, aaaaa! Jeez! Please stop fiddling around with my hangar that much! It's very sensitive... Ahh, Jeez! The negative tank too... heeeey! What do you think you're doing!",
+        "Join": "1st Submarine Flotilla flagship, I-14, sortieing now! Weigh anchor!",
         "Docking(2)": "Taking a bath sure is nice. Come on, Admiral. How about you join me? Ehehehe~ Juuuuust kidding.",
         "Sortie": "Everyone in the 631st Air Group, are you ready to go? All right then! I-14, heading out!",
         "MVP": "Aww yiss! I did it again! You know, you can praise me if you want, Admiral. Yay! I really did it!",
@@ -8320,6 +8323,7 @@
         "Sortie": "Maruyu, working hard!",
         "Battle": "Maruyu will transport it properly to the very end!",
         "Attack": "I can see you all the way round!",
+        "Yasen(2)": "I totally see right through that~!",
         "Yasen(1)": "Mogu mogu attaaack!",
         "MVP": "Maruyu can be amazing too, you know! \u2026Wait, did someone just call me a mole?",
         "Damaged(1)": "I see you managed to find me...!",
@@ -9183,6 +9187,7 @@
     },
     "265": {
         "Idle": "The admiral seems very busy... In that case, I should do everything I can at hand, so that the admiral may call on me whenever I'm needed.",
+        "Supply": "Thank you very much, Admiral.",
         "H0000": "0000 hours at night. It's already this late. The day goes fast, doesn't it, Admiral?",
         "H0100": "0100 hours. Admiral, pushing yourself too hard might be tough on your health.",
         "H0200": "0200 hours. I'll take care of the rest, okay? Admi-... Oh...",
@@ -9215,7 +9220,6 @@
         "Join": "Heavy cruiser, Myoukou. Heading forth!",
         "Equip(1)": "Thank you very much for the equipment replacement.",
         "Equip(2)": "With this, it feels like I can fight to the end!",
-        "Supply": "Thank you very much for the equipment replacement.",
         "Sortie": "I'm prepared to fight till the end for the sake of the Myoukou sisters!"
     },
     "63": {
@@ -9383,7 +9387,8 @@
         "2@WhiteDay": "What? These lovely cookies - for me!? Commander... Really, thank you! *Cries*"
     },
     "268": {
-        "Idle": "E, excuse me, Commander\u2026? I'll be waiting for you here in case of trouble..."
+        "Idle": "E, excuse me, Commander\u2026? I'll be waiting for you here in case of trouble...",
+        "Supply": "I\u2026 I'm receiving it, thank you."
     },
     "194": {
         "Intro": "Fourth ship of the Myoukou-class heavy cruisers, Haguro. Together with everyone, I will support the front lines!",
@@ -9391,7 +9396,6 @@
         "Join": "Haguro of The Fifth Squadron, heading out!",
         "Equip(1)": "I will cherish the equipment I've received.",
         "Equip(2)": "Please remodel... the other girls first.",
-        "Supply": "I\u2026 I'm receiving it, thank you.",
         "Attack": "Even if there are five times the enemies... I will fight them all!",
         "Damaged(2)": "I'm hit... second turret!? ...I can still continue!"
     },
@@ -10979,7 +10983,7 @@
     "57": {
         "Intro": "I'm torpedo cruiser, Ooi. By the way, I wonder where Kitakami-san is.",
         "Library": "It's Ooi, torpedo cruiser edition. My torpedo powers were counted on, but I didn't have much time in the limelight. I'll show you what I'm made of, this time. Keep your eyes open!",
-        "Poke(1)": "Um... do I fire a torpedo?",
+        "Poke(1)": "Ummm... I'll launch my torpedoes, you know?",
         "Poke(3)": "You like them too, Admiral? Yes, I have a lot attached to my legs! ...but you've touched them too much, so how about eating 20 of them?",
         "Wedding": "Of the two torpedo cruisers, you chose me, right?... If you betray me, I'll sink you in the ocean, you know...",
         "Ranking": "It seems there is a message for you, Admiral.",
@@ -11026,6 +11030,7 @@
         "H2300": "2300. Admiral, thank you for your hard work today. Is Kitakami-san already sleeping?"
     },
     "118": {
+        "Poke(1)": "Ummm... I'll launch my torpedoes, you know? That's fine, right?",
         "Ranking": "Checking on the report, Admiral.",
         "Equip(2)": "Hehehe... Nobody will get in our way anymore... Ah, there's a speck of dust on my shoulder. OK, I'm good.",
         "Equip(3)": "This should be OK.",
@@ -11140,8 +11145,8 @@
         "Wedding": "The admirals I've had as my partners have all had great success. Isoroku, Tamon... I wonder what will become of you? I'm looking forward to it.",
         "Ranking": "There's a report for you. Read it well.",
         "Join": "Isuzu, sortieing! Continue!",
-        "Equip(1)": "That modernization... saved me. Now I can work harder!",
-        "Equip(2)": "Heheh, that'll do. Now I'm more ready to fight!",
+        "Equip(1)": "Heheh, that'll do. Now I'm more ready to fight!",
+        "Equip(2)": "That modernization... saved me. Now I can work harder!",
         "Equip(3)": "Hooray!",
         "Supply": "Heheh, that'll do. Now I'm more ready to fight!",
         "Docking(1)": "To be my best again, I'll have to go for a little.",
@@ -11169,6 +11174,8 @@
         "Poke(1)": "Are there orders for me?",
         "Poke(2)": "Idiot, do you want me to shoot you?",
         "Idle": "I-It's not like I'm bored! I'm not! Okay!?",
+        "Equip(1)": "That modernization... saved me. Now I can work harder!",
+        "Equip(2)": "Heheh, that'll do. Now I'm more ready to fight!",
         "Equip(3)": "I can see everything.",
         "Supply": "Oh, supplies... I can fight on with these!",
         "Docking(1)": "Idiot - don't worry so much. I'll be fine with a quick rest.",
@@ -11767,7 +11774,7 @@
         "Equip(1)": "Naka-chan, power up!",
         "Equip(2)": "I've become more and more charming! Kyaha~",
         "Equip(3)": "Thank you~!",
-        "Supply": "Craft service, yeah? Time to ea~t!",
+        "Supply": "Naka-chan, power up!",
         "Docking(1)": "Don't look at the backstage, okay?",
         "Docking(2)": "I will be off for a while~! Good night.",
         "Construction": "A new girl has come~ I can't wait to see her~",
@@ -11799,7 +11806,8 @@
         "2@Anniversary2020": "Hellooo! I'm Naka! It's the 7th Anniversary of my debut. I'll keep getting cuter and cuter every day!"
     },
     "224": {
-        "Idle": "Hrm. The next job's location... wha, today's an off day... I see..."
+        "Idle": "Hrm. The next job's location... wha, today's an off day... I see...",
+        "Supply": "Craft service, yeah? Time to ea~t!"
     },
     "160": {
         "Intro": "I'm the fleet's idol, Naka-chan! I'm always cute~!",
@@ -13361,10 +13369,10 @@
         "Construction": "A new person has arrived. That's good, right, Commander?",
         "Return": "The fleet has returned safely. Thank goodness. Safety is a priority.",
         "Sortie": "Under my leadership as the fleet flagship, fleet, set sail.",
-        "Battle": "Enemies, huh? There's no choice but to fight now. Ready for battle.",
+        "Battle": "Enemy spotted. There's no choice but to fight. Ready for battle.",
         "Attack": "Please hit!",
         "Yasen(2)": "I'll protect you this time!",
-        "Yasen(1)": "Be careful at night. I'll take the lead. All ships, follow me. Let's charge!",
+        "Yasen(1)": "Be careful at night. I'll take the lead. Please follow me.",
         "MVP": "Eh, me? I... see. I'm glad I was able to be of use to the fleet. I'll continue to put forwards my best efforts. Please watch me too, Haru-neesan.",
         "Damaged(1)": "Guh... I'm still alright.",
         "Damaged(2)": "Aaaah... A bomb? A torpedo? No way.",
@@ -13391,6 +13399,8 @@
         "Intro": "The Kamikaze-class destroyer Hatakaze has arrived, Commander. I'll be accompanying you today as well. Yes, please take care of me.",
         "Equip(1)": "Ah, I'm happy. I express my humblest thanks.",
         "Equip(2)": "I can protect the fleet with this. Alright!",
+        "Battle": "Enemies, huh? There's no choice but to fight now. Ready for battle.",
+        "Yasen(1)": "Be careful at night. I'll take the lead. All ships, follow me. Let's charge!",
         "H0000": "It's now 12 a.m., Commander. I shall be putting forth my best effort to serve by your side today.",
         "H0100": "It's 0100. The temperature gets a bit low at night, right, Commander?",
         "H0200": "It's 0200. I'll go... I'll go make some tea, alright? Ummm, the teapot is... Ah, here... Eh, it's not here... Huh?",
@@ -14136,12 +14146,14 @@
     },
     "202": {
         "Intro": "I'm Shirayuki. I'll be in your care today as well.",
+        "Poke(1)": "Thank you for the good work. Shall I make some tea?",
         "Poke(2)": "Yes, the 11th Destroyer Division is ready to go.",
         "Poke(3)": "Aah~ Eh... what is it?",
         "Idle": "This is for Fubuki-chan, and this is for Hatsuyuki-chan. Ok, this is perfect. Now, I also need to- fufufu, I am now ready for any command!",
         "Married": "Admiral, you're always so overworked. Here, I prepared hot tea for you. Please take a while to rest, and look after yourself.",
         "Ranking": "Commander, a situational analysis, was it? I have gathered them right here.",
         "Join": "Special Type Destroyer, Shirayuki, sortieing.",
+        "Supply": "Thank you very much for these valuable supplies.",
         "Attack": "Fubuki-chan is really trying her best... I will, too!",
         "Yasen(1)": "The true power of a Special Type destroyer, I want to show it."
     },
@@ -14854,6 +14866,7 @@
         "Supply": "It's supply, I'm so full.",
         "Docking(1)": "With a little rest... I can keep going.",
         "Construction": "A new comrade? I wonder what she'll be like...",
+        "Battle": "Admiral, leave it to me! I'll do it for you!",
         "Yasen(2)": "I'll hold the line!",
         "Damaged(3)": "No... not yet! I will not sink! Oboro is still ok!"
     },
@@ -14995,6 +15008,7 @@
         "3@Hina2021": "Bono-bono's 2nd remodel is heeeere! Way to go!"
     },
     "232": {
+        "Intro": "I'm the Ayanami-class destroyer, Sazanami. Master, you can already write my name in kanji, as expected, can't you? Well, don't worry. I don't test your ability.",
         "Poke(1)": "What's wrong, Master?",
         "Idle": "Master? I may have a moment...<br />This is your chance to hang with me ...er?<br />( #\u309c\u0414\u309c) I got ignored!",
         "Married": "Master, aren't you tired, nya~? Ah... that tic is no good? I see... yeah... You're right. Memo, memo...",
@@ -15063,6 +15077,8 @@
         "Supply": "This is... this is modernization... no, wait... I mean resupply. Resupply. I'm grateful."
     },
     "407": {
+        "Intro": "I'm the Special-type destroyer, Destroyer Division 7, Ushio. Thank you for having me.",
+        "Poke(1)": "I'm Ushio: the improved Special-type destroyer, Destroyer Division 7.",
         "Poke(2)": "Mutsu-san...? Ah... Admiral? Um... excuse me. My mistake.",
         "Poke(3)": "It'll be great if we can avoid air raids even a little bit. Admiral, would you like to paint yourself, too?",
         "Ranking": "Want to analyze the intelligence? I'll go get it.",
@@ -15078,7 +15094,6 @@
         "Poke(1)": "Wanna go? Alright!",
         "Poke(2)": "Nice~ I need to do better too~",
         "Poke(3)": "President? Oh, it's just the admiral. What's wrong, you bored? Sure, you want me to be your opponent?... Alright, here I come.",
-        "Idle": "Ohh~ that guy! Yeah, I didn't think he would get that big~. Fate really is interesting! Well, I like cheering on a person who tries hard! I love that kind of spirit! I'm cheering you on too, Admiral!",
         "Married": "What's wrong? What's with that face? ...Are you tired? Something not going well? ...I see... Well, it happens, ya'know! You'll be fine, you can do it! I'll be supporting you! That means you can do it! I believe you.",
         "Wedding": "Yeah~ We don't know where fate leads us... that's why it's unique~... hm... this is? Wait!? For me!? Eh, eh... Admiral, you're fine with this? Alright... well, I'll gladly accept this! I'm not going to give it back! Alright? hehe~",
         "Ranking": "Intelligence? It's important~ Alright, gimme a sec!",
@@ -15118,13 +15133,17 @@
         "2@Anniversary2021": "Admiral, congrats. It's finally the fleet's 8th Anniversary! That's amazin'. Well, you know, thanks. I'm counting on you to take care of Sagiri and DesDiv20."
     },
     "390": {
+        "Intro": "Alright, let's go! I'm the Ayanami class destroyer, Amagiri! Take care of me today too, Admiral!",
+        "Idle": "Ohh~ that guy! Yeah, I didn't think he would get that big~. Fate really is interesting! Well, I like cheering on a person who tries hard! I love that kind of spirit! I'm cheering you on too, Admiral!",
         "Join": "11th Destroyer Division, heading off! Don't be late, Yuu-nee! Sortieing!",
+        "Equip(2)": "Nice~! With this, I can become even stronger!",
         "Battle": "Enemies! Let's charge! Utterly crush them!",
         "Friend46(1)": "Nice~ I'm getting fired up!",
         "H0000": "Hm? Me? That's fine~, I'll stay by your side today! Yeah! Leave it to me!",
         "H0100": "0100. Yawn~ I'm kinda sleepy~.",
         "H0200": "0200. Ahh~ I'm fine. I'm awake... at least half awake...",
-        "H0300": "03... Our admira---... will grow to become... big... I believe... I'll be cheering him on...",
+        "H0300": "03... Oh~~ It's you! You're going to become a great man~...I won't lose either~ yeah.",
+        "H0400": "04... Our admira---... will grow to become... big... I believe... I'll be cheering him on...",
         "H0500": "Huh?! Oh crap, I was sleeping! The time is... 0500! Seriously, wake me up, Admiral! Ahh~ damn! This is bad!",
         "H0600": "0600. All hands, assemble! It's morning, everyone! Come on, wake up~! The morning feels good~!",
         "H0700": "0700. Where's breakfast, Admiral? Eh? Why isn't there any? Eh!? Why me?",
@@ -15604,6 +15623,7 @@
     "238": {
         "Idle": "Aah, well, you know, it would be all right if we did some work... it would be all right, you know?",
         "Married": "You should... rest a little better as well. Of course, we can rest when it's important. ...It's pleasant!",
+        "Supply": "We are grateful... no hardships in this.",
         "H0000": "That is right, we shall be telling you the time tonight. It's something special! Ufu~",
         "H0100": "0100. Yes. No problems.",
         "H0200": "0200. That is right, it is the Hour of the Ox.",
@@ -15633,7 +15653,6 @@
         "Intro": "We are Hatsuharu. With us following, thou wilt be fine!",
         "Poke(3)": "You really can't calm down, can you?... Why is that? Dost thou take such interest in us?",
         "Ranking": "That's right, information is important. Good good. There is a lot to inquire from this.",
-        "Supply": "We are grateful... no hardships in this.",
         "Docking(1)": "Phew... this bath is nice. As I thought, cypress-tree baths are supreme.",
         "Battle": "Thou wishest to see our dance? Very well... we shall show thee plenty!",
         "Yasen(2)": "They shall not escape....we-shall-wipe-them-out!"
@@ -16218,6 +16237,7 @@
         "Poke(1)": "Did you call for me, Admiral? Yeah, sure.",
         "Poke(2)": "What a pleasant rain.",
         "Poke(3)": "Right... the rain will clear eventually. And then... Admiral, someday... someday, in that sea, the two of us... no, never mind. It's nothing.",
+        "Idle": "Is it alright for me to be here...? Ah, Admiral, is that so? Then, it should be okay. Mhm, I understand. I'll try and do whatever I can now.",
         "Married": "Yeah, a hard-working Admiral is great. But, don't push yourself too hard, okay? Should I make some tea? I know, I've been keeping some honey I got from Shiratsuyu. How about we share it? Hold on.",
         "Wedding": "The rain... yeah, looks like it won't stop. Admiral, you'll get soaked staying over there, you know? Why don’t you come a little, yes, a little closer. Let's stay like this until the rain lifts.",
         "Ranking": "A letter has arrived, Admiral. May I open it? Ah, sorry, it's the latest fleet information. Yes, here you go.",
@@ -16226,6 +16246,7 @@
         "Equip(2)": "The newest ASW equipment and radar. Admiral, thank you. With these... I won't lose.",
         "Equip(3)": "The rain will clear eventually.",
         "Supply": "Thank you... Good to go.",
+        "Docking(1)": "Sorry, Admiral. I'll get ready ASAP, give me a moment.",
         "Construction": "A new ship has been built.",
         "Return": "The fleet has returned safely to port. I'm glad.",
         "Sortie": "Second Torpedo Squadron, destroyer Shigure, sortieing.",
@@ -16361,6 +16382,7 @@
         "Construction": "A new comrade, welcome to the 4th Torpedo-...eh? That's wrong?",
         "Return": "The fleet definitely feels fine. Thanks for your hard work, everyone.",
         "Sortie": "Whether it's Anti-Ship, Anti-Sub, or Anti-Air, let's do it!",
+        "Yasen(1)": "Oh, you're still going? Th~at's ok~ay!",
         "Yasen(2)": "Feels good, feels good!",
         "Damaged(2)": "Urgh, oh no.",
         "Damaged(3)": "I think I'm in a little bit of trouble. Urrgh.",
@@ -16778,8 +16800,10 @@
     },
     "588": {
         "Poke(1)": "Can I be... by your side?",
+        "Poke(2)": "Leave me alone! ...I'm telling you not to tease me, and yet...<br />...I guess it's okay...",
         "Poke(3)": "I'm relieved... This is a bright and warm... place.",
         "Equip(2)": "Isn't this fine?",
+        "Equip(3)": "Don't tease me like that....",
         "Yasen(2)": "Full speed ahead! Let's go!"
     },
     "459": {
@@ -18099,6 +18123,7 @@
     },
     "651": {
         "Intro": "I'm the fleet flagship, Tan Yang. Co~ man~ der~, Yukikaze is now called Tan Yang. Please take good care of me!",
+        "Library": "This is the fleet flagship, Tan Yang! Co~ man~ der! Yukikaze is now called Tan Yang! Nice to...meet you!",
         "Poke(1)": "Tan Yang, always ready to sortie!",
         "Poke(2)": "I'm Tan Yang. It's hard to get the tone right, isn't it? You've already got it? Commander, you're amazing! Did you really get it?",
         "Poke(3)": "Yep, I had my weapons from here upgraded a fair amount over there. I'm the one and only Tan Yang.",
@@ -18116,6 +18141,7 @@
     },
     "656": {
         "Intro": "8th ship of the Kagerou-class destroyers, Yukikaze. Co~ man~ der~, Yukikaze's back! Please take good care of me from now on!",
+        "Library": "Kagerou-class destroyer, eighth ship, Yukikaze here!<br /><br />I was one of the frontline fleet destroyers, taking part in not less than ten major naval battles, and surviving to the end of the war almost without a scratch.<br /><br />The Miracle Destroyer? Nah... it wasn't a miracle!",
         "Poke(1)": "Commander, it's me, Yukikaze!",
         "Poke(2)": "That's right! I'm back! Yukikaze's back!",
         "Poke(3)": "I worked hard over there too! That's right. I'll never sink.",
@@ -18526,7 +18552,9 @@
         "3@Anniversary2020": "Admiral, it's the 7th Anniversary? It really came as a shock. I'm happy though. Let's celebrate together, alright?",
         "2@Anniversary2021": "Admiral, it's the 8th Anniversary. It really surprised me. We'll be together forever, right? Admiral? ...Are you listening?"
     },
-    "317": {},
+    "317": {
+        "Equip(3)": "Leave it ta me\u266a"
+    },
     "556": {
         "Intro": "I'm a remodelled Kagerou-class now. You listenin', Admiral? Yup, it's great. Take care of me today, too.",
         "Poke(2)": "It's my turn now. Nice.",
@@ -18686,6 +18714,7 @@
         "Docking(2)": "I've sustained severe damage... I'll be in the docks for a while... nn... with your permission, please.",
         "Attack": "Well then, I'll begin. Destroyer Hamakaze, opening fire!",
         "Yasen(2)": "I'll hold out to the very end!!",
+        "Damaged(1)": "Ugh! I can... still protect them!",
         "Damaged(2)": "Nooooo! Nn... I'm fine... I can... still move..."
     },
     "558": {
@@ -18750,7 +18779,9 @@
         "3@Anniversary2020": "Wha, holy mackerel! Admiral, it's finally the 7th Anniversary! Spring brings such happiness! Let me do a full gun salute.",
         "2@Anniversary2021": "Whoaaa! I can't believe this! Admiral, it's finally, finally the 8th Anniversary! This is amazing. I'm so happy!"
     },
-    "313": {},
+    "313": {
+        "Equip(3)": "Ooh, this is great!"
+    },
     "559": {
         "Intro": "It's the me who got a bit stronger, Admiral. Ehehe, now, let's get started for today!",
         "Poke(2)": "Well, it's not written in stone! All there is to it!",
@@ -19127,6 +19158,7 @@
         "2@Anniversary2023": "Admiral, it's finally the 10th Anniversary. Isn't this a shocking development? Now that we're here I should publish a commemorative thin book to celebrate!"
     },
     "301": {
+        "Married": "What is it, Admiral? Are you free? Then I'll draw a picture of you. That's fine, just hold that pose! Alright, good, nice... *sketching*... There, done. Ah, clothes? I forgot.",
         "Friend46(1)": "It's cold... Too cold! I don't wanna do anything! I'm gonna sleep under the kotatsu. Hey! Tama, Kuma! You're in the way! Ah, jeez, even the battleships! There's no room for me!"
     },
     "648": {
@@ -19468,6 +19500,7 @@
         "Equip(2)": "Oi, you aren't giving me more barrels, right? It's fine, but I'd like torpedoes too, alright?",
         "Return": "I've returned safely again. Thanks to you, Admiral!",
         "Sortie": "Oh, what is it? Time for me to sortie? Alright!",
+        "H1700": "5 PM. That's right, I was just thinking about what I should name my fleet... Listen to this, Admiral! You see...",
         "Friend42(1)": "Alriiight, this is my time to shine. I'm charging in!",
         "Friend47(1)": "Alriiight, this is my time to shine. I'm charging in!",
         "Friend48(1)": "Naganami, acknowledging. Pick your targets and blow them away!",
@@ -20642,6 +20675,7 @@
         "2@Halloween2021": "It's autumn. I remember Operation Sho-1. My sister and I were under the direct command of the Oozawa Fleet. That operation was... No, it's nothing."
     },
     "357": {
+        "Intro": "I'm the 4th ship of the Akizuki-class anti-air destroyers, Hatsuzuki. You're moving out too, huh. In that case, I'll protect you. That's a promise.",
         "Equip(1)": "Not bad. Right, thanks!",
         "Sortie": "All right, I'm moving out. Hatsuzuki, sortieing! Zuikaku, Sis, leave this one to me!",
         "Damaged(3)": "Damn, the transport craft\u2026 But no\u2026 I am not going down!",
@@ -22297,6 +22331,7 @@
         "2@Anniversary2021": "Commander, it's the 8th Anniversary. Congratulations!"
     },
     "383": {
+        "Intro": "Commander, good morning! The 1st ship of the Etorofu-class Kaiboukan, Etorofu, has arrived! I'll do my best today too.",
         "Poke(1)": "I'll really do my best!",
         "Poke(3)": "What's wrong Commander? Guarding the strait? A blockade? Fleet escort? I'm ready anytime! Eh, that's not it?",
         "Sortie": "104th Squadron, Etorofu, sortieing! Follow me everyone!",

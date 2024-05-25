@@ -3,7 +3,7 @@
 		["", "", ""],
 		["OK", "best", "All recon aircraft returned"],
 		["OK-", "good", "Some recon aircraft lost"],
-		["-", "worst", "All recon aircraft lost"],
+		["NO-", "worst", "Some recon aircraft lost"],
 		["NO", "bad", "Reconnaissance failed"],
 		["OK+", "good", "No recon aircraft involved"],
 		["NO+", "bad", "No recon aircraft involved"]

@@ -1749,6 +1749,12 @@
         "desc": "Sortie Yuudachi Kai Ni and Harusame Kai Ni, and up to 4 additional ships to [W4-5], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
         "memo": "\u27a3Rewards a \u26052 12.7cm Twin Gun Mount Model C Kai 3 H and either 20 Development Materials OR seven Screws OR a Action Report"
     },
+    "1013": {
+        "code": "B200",
+        "name": "Shield of Hachinohe \"Inagi Kai Ni\", Weigh Anchor!",
+        "desc": "Sortie Inagi Kai Ni as flagship, and up to 5 additional ships to [W1-3], [W1-4], [W2-2], [W2-3] and [W7-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR 8000 Fuel OR a Reinforcement Expansion\n\u00B6Second choice: Either a \u26058 12cm Single High-angle Gun Mount Model E OR eight Screws OR a Action Report"
+    },
 
 
 
@@ -2094,6 +2100,13 @@
         "desc": "Sortie Oboro Kai, Sazanami Kai, Akebono Kai+, Ushio Kai+, and up to 2 additional ships to [W1-2], [W1-3], [W1-5] and [W3-2]. A-Rank+ each boss node.",
         "memo": "This quest resets on the first quest reset of January.\n\u203bElite DesDiv 7, Emergency Sortie!\n\u27a3Rewards:\n\u00B6First choice: Either 700 Fuel OR four Buckets OR two Screws\n\u00B6Second choice: Either seven Development Materials OR a Medal OR a Furniture Fairy",
         "trackingDesc": [ "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-3]", "{0} A-Rank+ [W1-5]", "{0} A-Rank+ [W3-2]" ]
+    },
+    "1012": {
+        "code": "By14",
+        "name": "Annual Ukuru-class Sortie - May",
+        "desc": "Sortie a Ukuru-class DE as flagship, 1 DE, and up to 2 additional DE to [W1-1], [W1-2] and [W1-5]. S-Rank [W1-1] boss node three times, A-Rank+ [W1-2] and [W1-5] twice.",
+        "memo": "This quest resets on the first quest reset of May.\n\u203bUkuru-class Kaiboukan, Defend the Calm Seas!\n\u27a3Rewards:\n\u00B6First choice: Either 880 Fuel OR six Buckets OR a Furniture Fairy\n\u00B6Second choice: Either 16 Development Materials OR a 12cm Single High-angle Gun Mount Model E OR three Screws",
+        "trackingDesc": [ "{0} S-Rank [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-5]"]
     },
 
 
@@ -3488,6 +3501,12 @@
         "desc": "Have 22 Development Materials, 2 New Model Armament Materials, 4 Type 22 Surface Radars and 6 Screws. Set Shigure Kai Ni/San or Michishio Kai Ni as secretary with a \u2605max Type 22 Surface Radar Kai 4 in her first slot.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
     },
+    "1137": {
+        "code": "F123",
+        "name": "Armament Development for the Ukuru-class Kaiboukan",
+        "desc": "Have a Type 3 Depth Charge Projector and 32 Development Materials. Set Ukuru-class DE as secretary with another Type 3 Depth Charge Projector in her first slot. Scrap 4 Type 93 Passive Sonars, 4 Type 94 Depth Charge Projectors and 4 Type 95 Depth Charges.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26051 Type 3 Depth Charge Projector (Concentrated Deployment)"
+    },
 
 
 
@@ -3926,28 +3945,28 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR a Mamiya OR seven Development Materials\n\u00B6Second choice: Either eight Buckets OR two New Model Armament Materials OR a Medal"
     },
     "367": {
-        "code": "2306C1",
-        "name": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship and 5 DD.",
+        "code": "2405C1",
+        "name": "Daily [Rainy Season] Exercises in the Rain!",
+        "desc": "Secure 4 A-Rank+ victiories in Exercises within the same day using 2 DE and up to 4 additional ships, or 4 DD and up to 2 additional ships.",
         "memo": "\u27a3Rewards a Teru Teru Bouzu"
     },
     "953": {
-        "code": "2306B1",
-        "name": "[Rainy Season] Protect the Marine Transportation Route in the Rainy Season!",
-        "desc": "Sortie a CL/AV as flagship, 3 DD and up to 2 additional ships to [W1-2], [W1-3], [W2-2] and [W2-3]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR an Underway Replenishment"
+        "code": "2405B3",
+        "name": "Weekly [Rainy Season] Defenses of the Nansei Islands in the Rain!",
+        "desc": "Sortie a CL(T)/CT/CA(V) as flagship, 1 AV, 1 DD, 1 DE, and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR a Submarine Supply Material"
     },
     "954": {
-        "code": "2306B2",
-        "name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
-        "desc": "Sortie 2 CA(V), one of them as flagship and up to 4 additional ships to [W7-3-P] and [W7-4]. S-Rank each boss node twice.",
+        "code": "2405B4",
+        "name": "Weekly [Rainy Season] Strengthen Maritime Escort!",
+        "desc": "Sortie a DD as flagship, 2 DE, and up to 3 additional ships to [W1-2], [W1-3] and [W1-5]. S-Rank each boss node. Reach [W1-6-N] twice.",
         "memo": "\u27a3Rewards three Teru Teru Bouzu and either eight Development Materials OR two Screws OR a Mamiya"
     },
     "955": {
-        "code": "2306B3",
-        "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
-        "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards four Teru Teru Bouzu and 350 Ranking Points"
+        "code": "2405B5",
+        "name": "Monthly [Rainy Season] Western Waters Joint Operation",
+        "desc": "Sortie 2 CV(L/B), a Kuma-class or Ooyodo-class CL(T), and up to 3 additional ships to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards four Teru Teru Bouzu and 400 Ranking Points"
     },
     "992": {
         "code": "2307B1",

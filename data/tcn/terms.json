@@ -868,7 +868,7 @@
     "PanelReloadQuotes" : "檢查字幕更新",
     "PanelReloadQuests" : "檢查任務更新",
 
-    "InferredFighterPower" : "基礎制空值：{0}\n空劣：>{1}\n均勢：>{2} / 空優：\u2265{3} / 確保\u2265{4}",
+    "InferredFighterPower" : "敵方基礎制空值：{0}\n空劣：>{1} / 均勢：>{2} / 空優：\u2265{3} / 確保：\u2265{4}",
     "InferredPvPDisclaimer" : "演習中敵方制空值會因為熟練度和改修度而進一步增加",
 	"InferredEnemyAircraft" : "敵軍機種：\n戰鬥機（對空 > 0）：{0}\n非戰鬥機（對空 = 0）：{1}\n參與空戰加總：{2}\n不明機種：{3}",
     "InferredLbasPlanes" : "航空基地：{0} (偵察機: {1})\n不明機種：{2}",
@@ -1029,7 +1029,7 @@
 
     "RemodelItemListTitle" : "這是<span>{0}</span>今天的改修菜單！",
     "RemodelItemDetail"             : "要改修此裝備嗎？",
-    "RemodelItemConsumeNeeds" : "需要消耗的無改修/無鎖裝備﹔",
+    "RemodelItemConsumeNeeds" : "需要消耗的無改修無鎖裝備﹔",
     "RemodelItemUpgradeTo"        : "將升級至",
     "RemodelItemResultSuccess": "改修成功了！",
     "RemodelItemResultFailure": "改修失敗了...",

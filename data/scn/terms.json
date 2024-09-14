@@ -407,7 +407,7 @@
 	"SettingsDisableHasDamecon" : "忽略装备损管的舰娘",
 	"SettingsDisableHasDameconTip" : "装备着损管的舰娘就算大破了也不会触发“大破警报”。与本项无关，“阻挡进击按钮”只要还有未使用的损管仍然装备着就不会被触发。",
 	"SettingsDisableUnlockShips" : "忽略未锁定的舰娘",
-	"SettingsDisableUnlockShipsTip" : "未锁定的舰娘就算大破了也不会触发“大破警报”和“阻挡进击按钮”。",
+	"SettingsDisableUnlockShipsTip" : "未锁定的舰娘就算大破了也不会触发“大破警报”和“阻挡进击按钮”。但是如果舰娘带着任意锁定的装备，“阻挡进击按钮”仍然会被触发。",
 	"SettingsNoAnimation" : "停用闪烁动画",
 	"SettingsNextBlocker" : "阻挡进击按钮",
 	"SettingsNextBlockerTip" : "警告：大破判断功能都依赖于解析游戏的API数据，如果发觉游戏战斗实现或API结构有变化，推荐禁用本功能。永远也不要放松对自己舰队状态的及时关注！\n另外，音效触发模式需要游戏内的音量设定中的SE项必需为开启，否则效果与网络触发模式相同。",

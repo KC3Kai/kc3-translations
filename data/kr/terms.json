@@ -393,7 +393,7 @@
 	"SettingsDisableHomePort": "모항에 있을 시 무효화",
 	"SettingsDisableHasDamecon": "다메콘 장착 칸무스 무시",
 	"SettingsDisableUnlockShips" : "잠금 해제 칸무스 무시",
-	"SettingsDisableUnlockShipsTip" : "잠금 해제 칸무스 대파 상태가 되어도 대파경고나 진격 버튼 금지 기능이 발생하지 않습니다.",
+	"SettingsDisableUnlockShipsTip" : "잠금 해제 칸무스가 대파 상태가 되어도 대파경고나 진격 버튼 금지 기능이 발생하지 않습니다. 만약 칸무스의 장비가 잠금상태라면 진격 버튼 금지 기능이 활성화 됩니다.",
 	"SettingsNoAnimation" : "애니메이션 연출 없음",
 	"SettingsNextBlocker"         : "대파진격 차단기능",
 	"SettingsNextBlockerTip" : "이 기능을 활성화하면 함대에 대파된 칸무스가 있을 때 사용자가 진격 버튼을 사용하지 못하게 됩니다.\n전투 API 변경 사항이 있는 경우 오작동 할수도 있으니 항상 전투 결과창과 칸무스의 체력에 주의하는 것이 좋습니다.\n\"SE 모드\"에서는 게임 내 사운드 옵션을 음소거 하면 작동하지 않습니다. 이 상태에서는 자동으로 \"네트워크 모드\"로 들어가는데, 이때는 여전히 진격 버튼을 차단하지만 요정님은 표시되지 않습니다.",

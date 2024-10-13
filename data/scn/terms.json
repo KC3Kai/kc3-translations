@@ -135,7 +135,7 @@
 
 	"GameAPINoExist" : "你没有任何已保存的API链接",
 	"GameAPIGetTitle" : "获取新的API链接",
-	"GameAPIGetDesc" : "请使用浏览器右上角 <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中的 <img src=\"../popup/img/refresh.png\" /> <strong>获取新的API</strong> 功能。",
+	"GameAPIGetDesc" : "请使用浏览器右上角 <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中的 <img src=\"../../assets/img/ui/refresh.png\" /> <strong>获取新的API</strong> 功能。",
 	"GameAPIExistTitle" : "使用已有的API链接",
 	"GameAPIExistDesc" : "若你已经有API链接，可以在此处输入：",
 	"GameAPIExistBtn" : "保存并使用此API链接",
@@ -144,7 +144,7 @@
 	"GameAPIRemindTitle" : "舰娘新用户注意",
 	"GameAPIRemindDesc" : "在抢号并成功登录前请不要使用KC3改，本插件需要在你成功登录游戏之后才可获取正确的API链接。注意：在你选择并加入服务器后，你需要输入提督名，但这个名字并非API链接。",
 	"GameAPIAltTitle" : "其他方式",
-	"GameAPIAltDesc" : "若比起API链接，你更希望直接在DMM网站上进行游戏，可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中选择 <img src=\"../popup/img/dmm.png\" /> <strong>DMM网页模式</strong>，这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板。",
+	"GameAPIAltDesc" : "若比起API链接，你更希望直接在DMM网站上进行游戏，可以在<img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改菜单</strong> 中选择 <img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>DMM网页模式</strong>，这个模式也同样支持<kbd class=\"light\">F12</kbd>调出的扩展面板。",
 	"GameAPIExpiredAlert" : "您当前的API会话已过期",
 	"GameAPIExpiredExplanation" : "KC3改检测到您当前使用的API链接可能已使用20分钟或是曾被使用过。<br>为确保不使用过期的API链接访问此标签，<br>您可以通过弹出菜单或下面的按钮来刷新当前API链接。",
 
@@ -433,6 +433,7 @@
 	"SettingsBGPositionDesc" : "请查阅 CSS background-position 属性",
 	"SettingsPlayerScale" : "游戏窗口缩放",
 	"SettingsSubtitles" : "游戏字幕",
+	"SettingsSubtitleLang" : "字幕语言",
 	"SettingsSubtitleBold" : "字幕加粗",
 	"SettingsSubtitleFont" : "字幕字体",
 	"SettingsSubtitleSize" : "字幕大小",

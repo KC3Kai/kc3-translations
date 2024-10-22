@@ -138,7 +138,7 @@
 	"GameAPIRemindTitle": "신규착임 제독들은 필독",
 	"GameAPIRemindDesc": "<strong>KC3改를 착임 전에는 쓰지 마십시오</strong> 서버 선택과 제독 이름 입력 후에 KC3改를 사용하여주십시오.",
 	"GameAPIAltTitle": "다른 방법",
-	"GameAPIAltDesc": "API링크를 좋아하지 않는다면, <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 메뉴</strong>에서 <img src=\"../popup/img/dmm.png\" /> <strong>DMM 페이지에서 플레이</strong>를 사용하여주십시오. <kbd class=\"light\">F12</kbd> 패널과 같은 사용법으로 작동됩니다.",
+	"GameAPIAltDesc": "API링크를 좋아하지 않는다면, <img src=\"../../assets/img/logo/16.png\" /> <strong>KC3改 메뉴</strong>에서 <img src=\"../../assets/img/ui/menu/dmm.png\" /> <strong>DMM 페이지에서 플레이</strong>를 사용하여주십시오. <kbd class=\"light\">F12</kbd> 패널과 같은 사용법으로 작동됩니다.",
 	"GameAPIExpiredAlert": "현재 API 세션은 만료되었습니다.",
 	"GameAPIExpiredExplanation": "현재 API 링크는 20분 정도 전에 요청되었거나 과거에 이미 사용된 것으로 감지되었습니다. 또한 만료된 API링크로 이 탭에 직접 접속하지 않도록<br> 팝업 메뉴 혹은 이 버튼으로 현재 API를 재취득할 필요가 있을 수 있습니다.",
 
@@ -423,6 +423,7 @@
 	"SettingsBGPositionDesc": "background-position의 CSS 속성을 참조해주세요.",
 	"SettingsPlayerScale": "게임 플레이어 비율 조절",
 	"SettingsSubtitles": "게임 내 자막",
+	"SettingsSubtitleLang" : "자막 언어",
 	"SettingsSubtitleFont": "자막 폰트",
 	"SettingsSubtitleFontDesc": "CSS-허용 폰트 -  http://www.cssfontstack.com 참조",
 	"SettingsSubtitleSize": "자막 폰트 크기",

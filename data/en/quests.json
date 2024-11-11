@@ -1711,7 +1711,7 @@
         "code": "B193",
         "name": "Remodeled Destroyer Amatsukaze Kai Ni, Set Sail!",
         "desc": "Sortie Amatsukaze Kai Ni as flagship and up to 5 additional ships to [W2-5], [W7-4], [W5-3], [W5-4] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Medals OR a \u26052 25mm Anti-aircraft Autocannon Mount + Machine Guns OR three Repair Goddesses\n\u00B6Second choice: Either a \u2605max 12.7cm Twin Gun Mount Model C Kai 2 OR a Torpedo Squadron Skilled Lookout"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Medals OR a \u26052 25mm Anti-aircraft Autocannon Mount + Machine Guns OR three Repair Goddesses\n\u00B6Second choice: Either a \u2605max 12.7cm Twin Gun Mount Model C Kai 2 OR a Torpedo Squadron Skilled Lookouts"
     },
     "1001": {
         "code": "B194",
@@ -1772,6 +1772,24 @@
         "name": "Air Defense Destroyer \"Hatsuzuki Kai Ni\", Let's Go!",
         "desc": "Sortie Hatsuzuki Kai Ni as flagship, and up to 5 additional ships to [W2-4], [W3-5], [W7-4], [W5-4] and [W5-5]. S-Rank each boss node.",
         "memo": "\u27a3Rewards a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai and either two Type 94 Anti-Aircraft Fire Director OR two Medals OR an Action Report"
+    },
+    "1017": {
+        "code": "B204",
+        "name": "\"DesDiv2 (Late Formation)\", Sortie!",
+        "desc": "Sortie any 3 of Hayashimo, Akishimo, Asashimo and Kiyoshimo, one as flagship, and up to 3 additional ships to [W1-2], [W1-5] and [W2-3]. S-rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 2000 Fuel OR a Furniture Fairy OR ten Development Materials\n\u00B6Second choice: Either Four Mamiya OR an Action Report"
+    },
+    "1019": {
+        "code": "B205",
+        "name": "Fierce Battle! \"BatDiv3\" Elite Second Platoon!",
+        "desc": "Sortie Hiei Kai Ni C, Kirishima Kai Ni C, 2 Yuugumo-class or 2 Shiratsuyu-class DDs, and up to 2 additional ships to [W4-5], [W5-5] and [W6-5]. S-rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two 35.6cm Twin Gun Mount Kai 2 OR a 35.6cm Twin Gun Mount Kai 3 C\n\u00B6Second choice: Either an Action Report OR six New Model Artillery Armament Materials OR ten Screws"
+    },
+    "1021": {
+        "code": "B206",
+        "name": "\"Hayashimo Kai Ni\"... Does Not Just Watch Anymore!",
+        "desc": "Sortie Hayashimo Kai Ni as flagship, any one of Akishimo and Kiyoshimo, and up to 4 additional ships to [W2-5], [W7-2-M], [W7-4] and [W5-4]. S-rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either thirty Development Materials OR a \u26053 Type 13 Air Radar Kai OR two New Model Artillery Armament Materials\n\u00B6Second choice: Either an Action Report OR a \u26053 12.7cm Twin Gun Mount Model D Kai 2 OR a Torpedo Squadron Skilled Lookouts"
     },
 
 
@@ -2483,6 +2501,24 @@
         "name": "Annual French Fleet Exercises - July",
         "desc": "Secure 4 A-Rank+ victiories in Exercises within the same day using 3 French ships, one as flagship, and up to 3 additional ships.",
         "memo": "This quest resets on the first quest reset of July.\n\u27a3Rewards:\n\u00B6First choice: Either a New Model Armament Material OR a New Model Artillery Armament Material OR eight Development Materials\n\u00B6Second choice: Either three 13.8cm Twin Gun Mount OR two 15.2cm Triple Main Gun Mount OR a 38cm Quadruple Gun Mount"
+    },
+    "375": {
+        "code": "Cy15",
+        "name": "Annual BatDiv 3 Exercises - September",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Hiei, Kirishima, 1 CL, 2 DD, and up to 1 additional ship.",
+        "memo": "This quest resets on the first quest reset of September.\n\u27a3Rewards:\n\u00B6First choice: Either four 35.6cm Twin Gun Mount OR a New Model Artillery Armament Material OR ten Development Materials\n\u00B6Second choice: Either a Medal OR five Screws"
+    },
+    "376": {
+        "code": "C77",
+        "name": "\"BatDiv3\" Elite Second Platoon, Special Exercise!",
+        "desc": "Secure 5 S-Rank victories in Exercises within the same day using Hiei Kai Ni+, Kirishima Kai Ni+, 1 CL, 2 DD, and up to 1 additional ship.",
+        "memo": "\n\u27a3Rewards:\n\u00B6First choice: Either a 35.6cm Twin Gun Mount Kai OR two New Model Artillery Armament Materials OR thirty Development Materials\n\u00B6Second choice: Either two 35.6cm Twin Gun Mount Kai OR a \u26056 35.6cm Twin Gun Mount Kai OR a Blueprint"
+    },
+    "377": {
+        "code": "Cy16",
+        "name": "Annual DesDiv 2 Exercises - October",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using any one of Hayashimo, Akishimo and Kiyoshimo as flagship, any 2 of Hayashimo, Akishimo, Kiyoshimo and Asashimo, and up to 3 additional ships.",
+        "memo": "This quest resets on the first quest reset of October.\n\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Skilled Lookouts OR three Screws\n\u00B6Second choice: Either an Irako OR six Development Materials OR a New Model Armament Material"
     },
 
 
@@ -3566,6 +3602,12 @@
         "name": "Deployment of the Elite \"Tenzan\" Torpedo Bomber Squadron",
         "desc": "Have 1 Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai), 2 New Model Aviation Armament Materials, 48 Development Materials and 1 Night Skilled Crew Member. Set Shoukaku Kai Ni (A) as secretary with a Tenzan Model 12 (Murata Squadron) in her 1st slot. Scrap 4 Tenzan.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Tenzan Model 12A Kai 2 (Murata Squadron w/ Radar)"
+    },
+    "1143": {
+        "code": "F128",
+        "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
+        "desc": "Have 1 35.6cm Twin Gun Mount Kai, 2 New Model Artillery Armament Materials, 2 New Model Armament Materials and 7800 steel. Set Kirishima Kai Ni C as secretary with a \u26058+ 35.6cm Twin Gun Mount Kai 2 in her 1st slot. Scrap 8 35.6cm Twin Gun Mount.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a 35.6cm Twin Gun Mount Kai 3 C"
     },
 
 

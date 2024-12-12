@@ -491,17 +491,17 @@
 	"EquipmentListTotalLabel" : "보유합계 ×{0}{1}",
 	"EquipmentListEquipLabel" : "({0}개 장비 중, {1}개 미장비)",
 	"EquipmentListLbasWorld"  : "{0}해역 기지항공대",
-	"EquipmentListSummaryFooter" : "총 보유 수: {0} ({1} 장비 가능, {2} 자물쇠 미잠금{3})",
-	"EquipmentListUseitemLabel" : "{0} 장비 칸에 포함되지 않는 소모품, {1} 현재 보유 수",
+	"EquipmentListSummaryFooter" : "총 보유 수: {0}, 장비 가능 {1}, 자물쇠 미잠금 {2} {3}",
+	"EquipmentListUseitemLabel" : "(소모품 {0}, 현재 장비칸 {1})",
 
 	"AircraftListPageTitle" : "항공기 숙련도 일람",
 	"AircraftListSquadNamePlaceholder" : "미입력 비행대대",
-	"AircraftListLbasWorld"  : "해역{0} 기지항공대",
-	"AircraftListLbasMoving" : "배치전환중",
+	"AircraftListLbasWorld"  : "{0}해역 기지항공대",
+	"AircraftListLbasMoving" : "배치전환 중",
 
 	"AkashiPageTitle"      : "아카시 개수 공창",
 	"AkashiToggleButton"   : "개수 불가 비표시",
-	"AkashiEquipLockLabel" : "장비중/잠금중인 장비도 소비, 갱신가능으로 표시",	
+	"AkashiEquipLockLabel" : "장비 중/잠금 중인 장비도 소비, 갱신가능으로 표시",	
 
 	"FleetManagerPageTitle" : "함대편성관리",
 	"FleetManagerViewTypeCurrentLabel" : "현재 함대",

@@ -1803,6 +1803,12 @@
         "desc": "Sortie Shirayuki Kai Ni as flagship, a Fubuki-class DD and up to 4 additional ships to [W2-3], [W2-5], [W4-3] and [W5-3]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Artillery Armament Materials OR a \u26059 25mm Twin Autocannon Mount OR an Action Report\n\u00B6Second choice: Either two Type 94 Anti-Aircraft Fire Directors OR four New Model Armament Materials OR a \u26058 10cm Twin High-angle Gun Mount Kai"
     },
+    "1029": {
+        "code": "B209",
+        "name": "DesDiv 32 Hamanami Kai Ni, Weigh Anchor! Break Through the Enemy Line!",
+        "desc": "Sortie Hamanami Kai Ni as flagship, any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo, and up to 3 additional ships to [W1-6], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Reach [W1-6-N] once.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either thirteen Development Materials OR two New Model Artillery Armament Materials OR five Screws\n\u00B6Second choice: Either two \u26059 25mm Triple Autocannon Mounts OR a \u26058 Type 13 Air Radar Kai (Late Model) OR a \u26057 12.7cm Twin Gun Mount Model D Kai 2"
+    },
 
 
 
@@ -4091,7 +4097,7 @@
         "code": "2504D1",
         "name": "[Anniversary] Maritime Escort Expedition",
         "desc": "Complete Expeditions 05, A1, A3, 04 and 12.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 2025 Ammo OR 2025 Steel OR 2025 Bauxite\n\u00B6Second choice: Either 12 Development Materials OR three Screws OR a Type 3 Depth Charge Projector (Concentrated Deployment)"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 2025 Steel OR 2025 Ammo OR 2025 Bauxite\n\u00B6Second choice: Either 12 Development Materials OR three Screws OR a Type 3 Depth Charge Projector (Concentrated Deployment)"
     },
     "449": {
         "code": "2504D2",
@@ -4103,13 +4109,13 @@
         "code": "2504F1",
         "name": "[Anniversary] Special Arsenal",
         "desc": "Have 4 20.3cm (No.2) Twin Gun Mounts, 880 Bauxite and 2500 Steel. Scrap 12 Medium Caliber Main Guns, 12 Recon Seaplanes and 6 Radars.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two New Model Artillery Armament Materials OR three New Model Aviation Armament Materials OR five Screws\n\u00B6Second choice: Either a Prototype 20.3cm (No.4) Twin Gun Mount OR three \u26054 203mm/53 Twin Gun Mounts"
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Artillery Armament Materials OR three New Model Aviation Armament Materials OR five Screws\n\u00B6Second choice: Either a Prototype 20.3cm (No.4) Twin Gun Mount OR three \u26054 203mm/53 Twin Gun Mounts"
     },
     "1136": {
         "code": "2504F2",
         "name": "[Anniversary] Special Aviation Arsenal",
         "desc": "Have 48 Development Materials, three New Model Aviation Armament Materials and a Skilled Crew Member. Set Hiryuu Kai Ni or Houshou Kai Ni+ as secretary with a \u26058+ Shiden Kai 2 in her first slot, other slots must be empty. Scrap 8 Shiden Model 11 and a Type 2 Two-seat Fighter Toryuu Model C.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR five Screws OR a Ne-Type Engine\n\u00B6Second choice: Either a \u26052 Prototype Shuusui OR a \u26053 Prototype Keiun (Carrier-based Reconnaissance Model) OR a Prototype Shinden (Land-based Fighter)"
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR five Screws OR a Ne-Type Engine\n\u00B6Second choice: Either a \u26052 Prototype Shuusui OR a \u26053 Prototype Keiun (Carrier-based Reconnaissance Model) OR a Prototype Shinden (Land-based Fighter)"
     },
     "1010": {
         "code": "2405B1",
@@ -4122,6 +4128,18 @@
         "name": "Weekly [Limited Time] Coastal Defense!",
         "desc": "Sortie 3 DE (one as flagship) and up to 3 additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W2-1]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR a Mamiya OR seven Development Materials\n\u00B6Second choice: Either eight Buckets OR two New Model Armament Materials OR a Medal"
+    },
+    "1030": {
+        "code": "2505B1",
+        "name": "Weekly [Time-limited] Fletcher-class, Patrol Mission!",
+        "desc": "Sortie 2 Fletcher-class DD, a Northampton/New Orleans-class CA and up to 3 additional ships to [W1-3], [W1-4] and [W2-4]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 1500 Steel OR three Screws OR 1800 Ammo\n\u00B6Second choice: Either a Mamiya OR nine Buckets OR 1800 Fuel"
+    },
+    "1149": {
+        "code": "2505F1",
+        "name": "Weekly [Time-limited] Elimination of Unnecessary Equipment after the Event Operations",
+        "desc": "Have 48 Flamethrowers. Scrap 8 Medium Caliber Main Guns, 8 Torpedoes and 4 Large Caliber Main Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either 1600 Ammo OR 1600 Fuel OR a New Model Armament Materials\n\u00B6Second choice: Either 1500 Steel OR 1200 Bauxite OR two Screws"
     },
     "367": {
         "code": "2405C1",
@@ -4162,8 +4180,8 @@
     "374": {
         "code": "2409C1",
         "name": "Weekly [Time-limited] DesDiv 32 Special Exercises!",
-        "desc": "Secure 3 S-Rank victories in Exercises within the same day using any 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami and up to 3 additional ships.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three 25mm Single Autocannon Mount OR four Buckets\n\u00B6Second choice: Either eight Development Materials OR three Screws OR a Mamiya"
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using any 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three 25mm Single Autocannon Mounts OR four Buckets\n\u00B6Second choice: Either eight Development Materials OR three Screws OR a Mamiya"
     },
     "1020": {
         "code": "2409B1",

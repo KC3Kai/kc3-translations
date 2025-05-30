@@ -4148,22 +4148,40 @@
         "memo": "\u27a3Rewards a Teru Teru Bouzu"
     },
     "953": {
-        "code": "2405B3",
+        "code": "2505B2",
         "name": "Weekly [Rainy Season] Defenses of the Nansei Islands in the Rain!",
-        "desc": "Sortie a CL(T)/CT/CA(V) as flagship, 1 AV, 1 DD, 1 DE, and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR a Submarine Supply Material"
+        "desc": "Sortie a CL(T)/CT/CA(V) as flagship, an AV, a DD, a DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR a Type 3 Fighter Hien"
     },
     "954": {
-        "code": "2405B4",
-        "name": "Weekly [Rainy Season] Strengthen Maritime Escort!",
-        "desc": "Sortie a DD as flagship, 2 DE, and up to 3 additional ships to [W1-2], [W1-3] and [W1-5]. S-Rank each boss node. Reach [W1-6-N] twice.",
-        "memo": "\u27a3Rewards three Teru Teru Bouzu and either eight Development Materials OR two Screws OR a Mamiya"
+        "code": "2505B3",
+        "name": "Weekly [Rainy Season] Maritime Escort Strengthening 2025",
+        "desc": "Sortie a DD as flagship, 2 DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank each boss node. Reach [W1-6-N] twice.",
+        "memo": "\u27a3Rewards three Teru Teru Bouzu and either a Medal OR a Mamiya OR ten Development Materials"
     },
     "955": {
-        "code": "2405B5",
-        "name": "Monthly [Rainy Season] Western Waters Joint Operation",
-        "desc": "Sortie 2 CV(L/B), a Kuma-class or Ooyodo-class CL(T), and up to 3 additional ships to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards four Teru Teru Bouzu and 400 Ranking Points"
+        "code": "2505B4",
+        "name": "Monthly [Rainy Season] Western Waters Joint Operation 2025",
+        "desc": "Sortie a CV(L/B) as flagship, 2 CA(V) or 2 Akizuki-class, and up to 3 additional ships to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards four Teru Teru Bouzu and either 440 Ranking Points OR twenty Development Materials OR two Medals"
+    },
+    "1031": {
+        "code": "2505B5",
+        "name": "[Time-limited] Active Combat Patrol Operation in the Northern Seas",
+        "desc": "Sortie any 3 of Minneapolis, Tuscaloosa, Heywood L.E., Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki, one as flagship, and up to 3 additional ships to [W3-1], [W3-2] and [W3-5]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either twentyfour Buckets OR a Blueprint OR four Mamiya\n\u00B6Second choice: Either four Latest Overseas Warship Technology OR eightyeight Development Materials OR a Prototype Flight Deck Catapult"
+    },
+    "1032": {
+        "code": "2505B6",
+        "name": "[Time-limited] Active Operation of the Elite Carrier Task Force",
+        "desc": "Sortie 2 Lv.90+ CV(L/B), 2 Lv.90+ DD and up to 2 additional ships to [W1-4], [W2-5], [W3-5] and [W5-2]. S-Rank each boss node twice.",
+        "memo": "The additional ships can be any level.\n\u27a3Rewards:\n\u00B6First choice: Either four New Model Aviation Armament Materials OR a Prototype Flight Deck Catapult OR a New Technology Aircraft Blueprint\n\u00B6Second choice: Either four New Model Armament Materials OR six Latest Overseas Warship Technology OR two Blueprints"
+    },
+    "1150": {
+        "code": "2505F2",
+        "name": "[Time-limited] The Naval Arsenal Reorganization Operation Begins!",
+        "desc": "Have 30 Furniture Boxes (Small), 12 Type 99 Dive Bombers and 12 Type 97 Torpedo Bombers. Scrap 26 Medium Caliber Main Guns, 20 Large Caliber Main Guns and 10 Secondary Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either A Furniture Fairy OR a New Model Aerial Armament Materials OR a Medal\n\u00B6Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR a Medal"
     },
     "992": {
         "code": "2307B1",

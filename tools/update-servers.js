@@ -5,7 +5,8 @@ const http = require('http');
 const vm = require('vm');
 
 /**
- * Fetch http://203.104.209.7/gadget/js/kcs_const.js
+ * Fetch http://w00g.kancolle-server.com/gadget_html5/js/kcs_const.js
+ *  old: http://203.104.209.7/gadget/js/kcs_const.js
  * Parse and update all `servers.json` files.
  */
 
@@ -15,7 +16,7 @@ const langFolders = [ 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'nl', 'pt', 'ru'
 const serverJsonFilename = "servers.json";
 const indentChar = '\t';
 const bomChar = '\uFEFF';
-const kcsConstUrl = "http://203.104.209.7/gadget_html5/js/kcs_const.js";
+const kcsConstUrl = "http://w00g.kancolle-server.com/gadget_html5/js/kcs_const.js";
 
 const _eval = (content) => {
 	const sandbox = {}, exports = {};
@@ -44,15 +45,22 @@ const parseWorldServers = (kcsConstJs, lastUpdated) => {
 	console.info(`Parsing KCS constants updated on ${lastUpdated} ...`);
 	const exportsAppend = '\n exports.ConstServerInfo = ConstServerInfo;';
 	const kcsContext = _eval(kcsConstJs + exportsAppend);
-	//console.info("ConstServerInfo:", kcsContext.ConstServerInfo)
 	const serverInfo = kcsContext.ConstServerInfo;
+	//console.info("ConstServerInfo:", serverInfo);
 	const servers = {};
 	for (const key of Object.keys(serverInfo)) {
 		const world = key.match(/^World_(\d+)$/);
 		if (world && world[1]) {
 			const num = Number(world[1]);
-			const ip = serverInfo[key].match(/^http:\/\/(.+)\/$/)[1];
-			servers[num] = ip;
+			const host = serverInfo[key].match(/^https?:\/\/(.+)\/$/)[1];
+			const isDomain = !!host.match(/^w\d+\w+\.kancolle-server\.com/);
+			const isHttps = !!serverInfo[key].match(/^https:/);
+			servers[num] = {
+				"num": num,
+				"host": host,
+				"domain": isDomain,
+				"https": isHttps
+			};
 		}
 	}
 	console.info("Parsed servers:\n", servers);
@@ -66,11 +74,18 @@ const updateServersJson = (servers) => {
 	const newEnServers = {};
 	for (const num of Object.keys(servers)) {
 		for (const server of Object.keys(oldEnServers)) {
-			const newIp = servers[num];
+			const newServer = servers[num];
 			const oldServer = oldEnServers[server];
+			const hostname = newServer.host;
 			if (num == oldServer.num) {
-				newEnServers[newIp] = oldServer;
-				newEnServers[newIp].ip = newIp;
+				newEnServers[hostname] = oldServer;
+				newEnServers[hostname].num = newServer.num;
+				if (newServer.domain) {
+					newEnServers[hostname].domain = newServer.host;
+					newEnServers[hostname].https = newServer.https;
+				} else {
+					newEnServers[hostname].ip = newServer.host;
+				}
 			}
 		}
 	}
@@ -92,12 +107,11 @@ const updateServersJson = (servers) => {
 		const isCrLf = /\r\n/.test(json);
 		const oldServers = JSON.parse(json);
 		const newServers = {};
-		for (const oldIpKey of Object.keys(oldEnServers)) {
-			for (const ip of Object.keys(oldServers)) {
-				if (oldIpKey == ip) {
-					const newIp = oldEnServers[oldIpKey].ip;
-					newServers[newIp] = oldServers[ip];
-					if (newServers[newIp].ip) newServers[newIp].ip = newIp;
+		for (const enKey of Object.keys(newEnServers)) {
+			const enOldIp = newEnServers[enKey].ip;
+			for (const oldKey of Object.keys(oldServers)) {
+				if (enKey == oldKey || enOldIp == oldKey) {
+					newServers[enKey] = oldServers[oldKey];
 				}
 			}
 		}

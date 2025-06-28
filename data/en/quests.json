@@ -1809,6 +1809,12 @@
         "desc": "Sortie Hamanami Kai Ni as flagship, any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo, and up to 3 additional ships to [W1-6], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Reach [W1-6-N] once.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either thirteen Development Materials OR two New Model Artillery Armament Materials OR five Screws\n\u00B6Second choice: Either two \u26059 25mm Triple Autocannon Mounts OR a \u26058 Type 13 Air Radar Kai (Late Model) OR a \u26057 12.7cm Twin Gun Mount Model D Kai 2"
     },
+    "1033": {
+        "code": "B210",
+        "name": "Active Operation of Second-class Transport Ships",
+        "desc": "Sortie No.101 Transport Ship as flagship, a CL, 2 DD and up to 3 additional ships to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two 12.7mm Single Machine Gun Mounts OR two 25mm Single Autocannon Mounts OR two Combat Rations\n\u00B6Second choice: Either four 7.7mm Machine Guns OR an Army Infantry Corps OR a New Model Rocket Development Materials"
+    },
 
 
 
@@ -2302,7 +2308,7 @@
         "code": "Cs5",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Mamiya and either a Present Box OR a Repair Team OR two 25mm Twin Autocannon Mount"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Irako\n\u00B6Second choice: Either a Present Box OR a Repair Team OR two 25mm Twin Autocannon Mount"
     },
     "327": {
         "code": "C25",
@@ -3645,6 +3651,12 @@
         "desc": "Have 16 Development Materials and 4 Screws. Set Shirayuki Kai Ni or Fubuki Kai Ni as secretary with 2 Type 91 Anti-Aircraft Fire Directors in her first and second slot. Scrap 3 Type 91 Anti-Aircraft Fire Directors and 3 Type 13 Air Radars.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Type 94 Anti-Aircraft Fire Director and a Type 13 Air Radar Kai"
     },
+    "1151": {
+        "code": "F131",
+        "name": "Increase in Army and Foreign Fighter Aircraft",
+        "desc": "Have 36 Development Materials, 8 Type 0 Fighter Model 21 and 4 Type 0 Fighter Model 32. Scrap 14 Reconnaissance Seaplanes, 12 Medium Caliber Main Guns and 10 Dive Bombers.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Type 3 Fighter Hien OR two Spitfire Mk.I OR two Type 2 Two-seat Fighter Toryuu\n\u00B6Second choice: Either two Type 3 Fighter Hien OR two Spitfire Mk.I OR a New Model Aviation Armament Materials"
+    },
 
 
 
@@ -4182,6 +4194,18 @@
         "name": "[Time-limited] The Naval Arsenal Reorganization Operation Begins!",
         "desc": "Have 30 Furniture Boxes (Small), 12 Type 99 Dive Bombers and 12 Type 97 Torpedo Bombers. Scrap 26 Medium Caliber Main Guns, 20 Large Caliber Main Guns and 10 Secondary Guns.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Aerial Armament Materials OR a Medal\n\u00B6Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR a Medal"
+    },
+    "1034": {
+        "code": "2506B1",
+        "name": "Monthly [Time-limited] Escort Asahi on a Summer Day",
+        "desc": "Sortie Asahi as flagship and either 3 DD and up to 2 additional ships OR a DE and up to 4 to additional ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 640 Ammo OR 800 Steel OR two Buckets\n\u00B6Second choice: Either sixteen Development Materials OR a Medal OR a New Model Artillery Armament Materials"
+    },
+    "1035": {
+        "code": "2506B2",
+        "name": "Monthly [Time-limited] Summer Night in Solomon",
+        "desc": "Sortie Noshiro or Atlanta as flagship, 3 DD and up to 2 additional ships OR Richard P. Leary as flagship, 2 DD and up to 3 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR two Ryuusei Kai OR twelve Development Materials\n\u00B6Second choice: Either two Latest Overseas Warship Technology OR two Medals OR nine Development Materials"
     },
     "992": {
         "code": "2307B1",

@@ -1815,6 +1815,12 @@
         "desc": "Sortie No.101 Transport Ship as flagship, a CL(T)/CT, 2 DD and up to 2 additional ships to [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two 12.7mm Single Machine Gun Mounts OR two 25mm Single Autocannon Mounts OR two Combat Rations\n\u00B6Second choice: Either four 7.7mm Machine Guns OR an Army Infantry Corps OR a New Model Rocket Development Materials"
     },
+    "1036": {
+        "code": "B211",
+        "name": "Transport Convoy Escort Force, Sortie!",
+        "desc": "Sortie 2 LHA/AO, 2 DE and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either +2 Equipment Slots OR 2000 Fuel OR a New Model Rocket Development Materials\n\u00B6Second choice: Either two Medals OR nine Screws OR 3600 Bauxite"
+    },
 
 
 
@@ -2305,7 +2311,7 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"
     },
     "326": {
-        "code": "Cs5",
+        "code": "Cs6",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Irako\n\u00B6Second choice: Either a Present Box OR a Repair Team OR two 25mm Twin Autocannon Mount"
@@ -3657,6 +3663,24 @@
         "desc": "Have 36 Development Materials, 8 Type 0 Fighter Model 21 and 4 Type 0 Fighter Model 32. Scrap 14 Reconnaissance Seaplanes, 12 Medium Caliber Main Guns and 10 Dive Bombers.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Type 3 Fighter Hien OR two Spitfire Mk.I OR two Type 2 Two-seat Fighter Toryuu\n\u00B6Second choice: Either two Type 3 Fighter Hien OR two Spitfire Mk.I OR a New Model Aviation Armament Materials"
     },
+    "1152": {
+        "code": "F132",
+        "name": "Strengthening Kaiboukan Anti-Submarine Weapons",
+        "desc": "Have 32 Development Materials. Set a DE as secretary with a \u26053+ Type 3 Depth Charge Projector in her first slot, 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Type 3 Depth Charge Projector (Concentrated Deployment)"
+    },
+    "1153": {
+        "code": "F133",
+        "name": "Further Expansion of Anti-Submarine Weapons",
+        "desc": "Have 64 Development Materials. Set a Hiburi/Ukuru-class DE as secretary with a \u26054+ Type 3 Depth Charge Projector in her first slot, 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26052 Type 3 Depth Charge Projector (Concentrated Deployment)"
+    },
+    "1154": {
+        "code": "F134",
+        "name": "Development of Anti-Submarine Rocket Launcher",
+        "desc": "Have 3 New Model Rocket Development Materials. Set a Lv.96+ DD as secretary with a \u2605max Type 3 Depth Charge Projector (Concentrated Deployment) in her first slot, a \u26056+ 12cm Single Gun Mount in her second slot. Scrap 6 Type 3 Active Sonars.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either +4 Equipment Slots OR 7200 Steel OR eighty Development Materials\n\u00B6Second choice: Either twentytwo Screws OR a Prototype 15cm 9-tube ASW Rocket Launcher OR three Latest Overseas Warship Technology"
+    },
 
 
 
@@ -4218,6 +4242,12 @@
         "name": "Mainstay of Mainstays, Weigh Anchor! Destroy the Enemy Fleet!",
         "desc": "Sortie 1 (F)BB(V) as flagship, 2 Yuugumo-class DD and up to 3 additional ships to [W1-2], [W1-4], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards a White Tasuki and either Kamoi OR Akashi OR Ooyodo"
+    },
+    "380": {
+        "code": "2507C1",
+        "name": "Weekly [Time-limited] Landing Fleet Escort Exercises!",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using either an LHA and 2 DE OR 3 DE, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Buckets OR a Screw OR a Combat Ration\n\u00B6Second choice: Either three Development Materials OR two Type 94 Depth Charge Projectors OR a Type 3 Depth Charge Projector"
     },
     "374": {
         "code": "2409C1",

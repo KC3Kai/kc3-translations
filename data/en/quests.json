@@ -3666,20 +3666,26 @@
     "1152": {
         "code": "F132",
         "name": "Strengthening Kaiboukan Anti-Submarine Weapons",
-        "desc": "Have 32 Development Materials. Set a DE as secretary with a \u26053+ Type 3 Depth Charge Projector in her first slot, 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
+        "desc": "Have 32 Development Materials. Set a DE as secretary with a \u26053+ Type 3 Depth Charge Projector in her first slot and 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Type 3 Depth Charge Projector (Concentrated Deployment)"
     },
     "1153": {
         "code": "F133",
         "name": "Further Expansion of Anti-Submarine Weapons",
-        "desc": "Have 64 Development Materials. Set a Hiburi/Ukuru-class DE as secretary with a \u26054+ Type 3 Depth Charge Projector in her first slot, 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
+        "desc": "Have 64 Development Materials. Set a Hiburi/Ukuru-class DE as secretary with a \u26054+ Type 3 Depth Charge Projector in her first slot and 2 Type 3 Depth Charge Projectors in her second and third slot. Scrap 4 Type 94 Depth Charge Projectors.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a \u26052 Type 3 Depth Charge Projector (Concentrated Deployment)"
     },
     "1154": {
         "code": "F134",
         "name": "Development of Anti-Submarine Rocket Launcher",
-        "desc": "Have 3 New Model Rocket Development Materials. Set a Lv.96+ DD as secretary with a \u2605max Type 3 Depth Charge Projector (Concentrated Deployment) in her first slot, a \u26056+ 12cm Single Gun Mount in her second slot. Scrap 6 Type 3 Active Sonars.",
+        "desc": "Have 3 New Model Rocket Development Materials. Set a Lv.96+ DD as secretary with a \u2605max Type 3 Depth Charge Projector (Concentrated Deployment) in her first slot and a \u26056+ 12cm Single Gun Mount in her second slot. Scrap 6 Type 3 Active Sonars.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either +4 Equipment Slots OR 7200 Steel OR eighty Development Materials\n\u00B6Second choice: Either twentytwo Screws OR a Prototype 15cm 9-tube ASW Rocket Launcher OR three Latest Overseas Warship Technology"
+    },
+    "1155": {
+        "code": "F135",
+        "name": "Akizuki-class Air Defense Destroyer Armament Expansion",
+        "desc": "Have 2 New Model Artillery Armament Materials. Set a Lv.70+ Akizuki-class DD as secretary with 2 10cm Twin High-angle Gun Mounts in her first and second slot, and a Type 94 Anti-Aircraft Fire Director in her third slot. Scrap 8 12.7cm Twin High-angle Gun Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either forty Development Materials OR +8 Equipment Slots OR four Combat Rations\n\u00B6Second choice: Either two \u26055 10cm Twin High-angle Gun Mount Kai OR a \u26052 10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director"
     },
 
 
@@ -4248,6 +4254,18 @@
         "name": "Weekly [Time-limited] Landing Fleet Escort Exercises!",
         "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using either an LHA and 2 DE OR 3 DE, and up to 3 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Buckets OR a Screw OR a Combat Ration\n\u00B6Second choice: Either three Development Materials OR two Type 94 Depth Charge Projectors OR a Type 3 Depth Charge Projector"
+    },
+    "1037": {
+        "code": "2508B1",
+        "name": "[Time-limited] The Autumn Flagship is... Me!",
+        "desc": "Sortie Akigumo, Akishimo, Akizuki or Akitsushima as flagship and up to 5 additional ships to [W1-3], [W1-4], [W1-5] and [W2-1]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either +3 Equipment Slots OR 2400 Fuel OR two Screws\n\u00B6Second choice: Either thirty Development Materials OR two Medals OR +6 Equipment Slots"
+    },
+    "381": {
+        "code": "2508C1",
+        "name": "Weekly [Time-limited] Akizuki-class Exercise Mission",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 3 of Akizuki-class, Akigumo, Akishimo and Akitsushima, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR two 25mm Single Autocannon Mounts OR +1 Equipment Slot\n\u00B6Second choice: Either four Buckets OR two Screws OR +2 Equipment Slots"
     },
     "374": {
         "code": "2409C1",

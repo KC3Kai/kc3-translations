@@ -73,7 +73,7 @@
 	"GameReadMore": "Read more",
 	"GameAltDMMInfo": "If you're here, you're already set to play via the DMM website. This is our recommended mode. Don't forget\u2014 you have to turn on <code>'Apply Customizations'</code> first to get on-screen customizations like subtitles, translations and backgrounds.",
 	"MenuPlayDMMFName" : "Play via DMM on Frame",
-	"GameAltFrameInfo": "For HTML5 phase, it works again. For Flash phase, in some Chrome versions (55+), the DMM Frame doesn't render. It only shows a black screen, but you can hear sounds.",
+	"GameAltFrameInfo": "Since HTTPS upgrade, DMM on frame not allowed by security policy. For Flash phase, in some Chrome versions (55+), the DMM Frame doesn't render. It only shows a black screen, but you can hear sounds.",
 	"MenuPlayAPIName" : "Play via API Link",
 	"GameAltAPIInfo": "Since December 2024, game settings are saved into their servers, API Link works again. Hostname has started to use server's own domain instead of IP address.",
 	"GameAltIgnore": "I am aware that this may not work, but I still want to open it.",
@@ -93,7 +93,7 @@
 	"SocialTextGithub": "Star on GitHub",
 	
 	"GameDMMRedirect" : "You will be redirected to play directly on DMM website",
-	"GameDMMFrame" : "This will open the DMM KanColle page in an iFrame",
+	"GameDMMFrame" : "<span style='color:red'>iFrame mode does NOT work any more thank to DMM page cross-domain security policy</span>",
 	
 	"GameAPIRemoveTitle" : "Remove API link",
 	"GameAPIRemoveDesc" : "If in any case you want to remove the saved API Link from this extension:",

@@ -823,7 +823,7 @@
     "PanelAirContactTip" : "於「{0:airControl}」的觸接率：\n　成功：{1}%\n　基本：{2}%\n　觸接機選擇失敗：{3}%{4:contactPlanes}",
     "PanelAirContactPlanes" : "\n觸接機優次：\n{1:planeRateList}",
     "PanelAirStrikeTip" : "{1:airContact} 開幕空襲能力：{0}",
-	"PanelFighterPoowerTip" : "{1:formulaType}後制空值﹔{0}",
+	"PanelFighterPowerTip" : "{1:formulaType}後制空值﹔{0}",
 	"PanelNightContactTip" : "夜間觸接機率：{0}%",
 	"PanelAntiLandPowerTip" : "對地傷害倍率：\n(... 閾值前) 閾值後\n([火力]x{0} +{1}) x{2} +{3}\n中破威力: {4} / {5}",
 	"PanelFleetAATip" : "艦隊防空，影響攻擊機擊墜數量",

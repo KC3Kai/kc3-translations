@@ -500,9 +500,10 @@
 	"SettingsEnableTsunDBSubmission" : "提交基本数据",
 	"SettingsEnableTsunDBExtraSubmission" : "提交更多验证数据",
 
-	"SettingsCacheProxy": "KCCacheProxy",
-	"SettingsCacheProxyEnabled": "Enabled",
-	"SettingsCacheProxyUrl": "Url",
+	"SettingsCacheProxy" : "KCCacheProxy缓存服务",
+	"SettingsCacheProxyEnabled" : "启用功能",
+	"SettingsCacheProxyUrl" : "URL的Origin部分",
+	"SettingsCacheProxyUrlTip" : "KCCacheProxy(KCCP)是利用本地缓存机制提高游戏数据加载速度的工具。游戏HTTPS更新之后，需要在这里输入你配置的KCCP服务地址URL前面部分让KC3改也能利用。http://127.0.0.1:8081 是默认值。",
 
 	"SettingsPanelSize" : "面板尺寸",
 	"SettingsPanelOpacity" : "界面不透明度 (opacity)",

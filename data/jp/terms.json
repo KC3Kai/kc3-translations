@@ -402,7 +402,7 @@
 	"SettingsCacheProxy" : "KCCacheProxy高速化サーバー",
 	"SettingsCacheProxyEnabled" : "キャッシュ使用",
 	"SettingsCacheProxyUrl" : "URLのオリジン部分",
-	"SettingsCacheProxyUrlTip" : "KCCacheProxy(縮めてKCCP)とはゲーム実行必要ファイルの専用キャッシュサービスで、ロード時間大幅短縮するためのツールです。ゲームセキュア化アップデート以来KC3改にも利用できるように、ここにKCCPに設定しているサービスURLの前方部分を入力して必要があります。デフォルトは http://127.0.0.1:8081 です。",
+	"SettingsCacheProxyUrlTip" : "KCCacheProxy(縮めてKCCP)とはゲーム画像・音楽などの専用キャッシュサービスで、それらのロード時間を短縮するためのツールです。ゲームセキュア化アップデート以来KC3改にも利用できるように、ここにKCCPに設定しているサービスURLパス以前の部分を入力して必要があります。デフォルトは http://127.0.0.1:8081 です。",
 
 	"SettingsDMMGameplay" : "DMMサイトのカスタム",
 	"SettingsDMMCustomize" : "カスタマイズを適用",

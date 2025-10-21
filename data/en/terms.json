@@ -410,7 +410,7 @@
 	"SettingsCacheProxy" : "Assets via KCCacheProxy",
 	"SettingsCacheProxyEnabled" : "Enable this feature",
 	"SettingsCacheProxyUrl" : "URL Origin",
-	"SettingsCacheProxyUrlTip" : "KCCacheProxy (aka KCCP) is a cache server utility running on your local machine for speeding up game assets loading. In order to make use of it since the game's https update, input the URL origin part here based on your KCCP settings, which is `http://127.0.0.1:8081` by default.",
+	"SettingsCacheProxyUrlTip" : "KCCacheProxy (aka KCCP) is a cache server utility running on your local machine for speeding up loading of game assets like images and sounds. In order to make use of it since the game's https update, input the URL origin part here based on your KCCP settings, which is `http://127.0.0.1:8081` by default.",
 	
 	"SettingsDMMGameplay" : "DMM Options",
 	"SettingsDMMCustomize" : "Apply Customizations",

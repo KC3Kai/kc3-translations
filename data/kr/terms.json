@@ -90,7 +90,7 @@
 	"GameReadMore": "더 읽기...",
 	"GameAltDMMInfo": "(추천) 이미 설정된 값으로 DMM 공식 사이트에 접속합니다. 자막, 번역, 배경화면 등 부가 기능도 작동합니다. 단지, 게임을 시작만 하세요.",
 	"GameAltFrameInfo": "Flash에서 HTML5, HTTPS로의 이행으로 인해 DMM 홈페이지와 Chrome의 보안 정책에 저촉되는 방식입니다. 게임 페이지의 로딩이 불가능할 수 있습니다.",
-	"GameAltAPIInfo": "DMM 도메인의 설정 변경으로 2020년 10월 이후로 더이상 작동 되지 않습니다. 과금이나 함대 개명 등의 기능도 쓸수 없습니다.",
+	"GameAltAPIInfo": "DMM 도메인의 설정 변경으로 2020년 10월 이후로 더이상 작동 되지 않습니다. 과금이나 함대 개명 등의 기능도 쓸 수 없습니다.",
 	"GameAltIgnore": "작동하지 않을 것을 인지하고 있으나, 이를 열고 싶습니다.",
 	"GameStartGame": "게임 시작",
 	"GameStartNoPanel": "패널 없이 시작",
@@ -402,8 +402,8 @@
 	"SettingsNextBlockerNetwork" : "네트워크 모드",
 	"SettingsNextBlockerUnlocked" : "잠금 해제 칸무스 진격 차단기능",
 	"SettingsNextBlockerUnlockedTip" : "활성화하면 잠금이 해제된 칸무스가 대파 상태일때 진격 버튼이 차단됩니다.",
-	"SettingsNextBlockerSecondFS" : "연합함대 제2기함 대파진격 차단기능",
-	"SettingsNextBlockerSecondFSTip" : "활성화하면 연합 함대 2함대 기함이 대파 상태일때도 진격 버튼이 차단됩니다.",
+	"SettingsNextBlockerSecondFS" : "연합함대 수반함대 기함 대파진격 차단기능",
+	"SettingsNextBlockerSecondFSTip" : "활성화하면 연합함대의 수반함대 기함이 대파 상태일때도 진격 버튼이 차단됩니다.",
 	
 
 	"SettingsAPIGameScreen": "API 게임 화면",
@@ -436,7 +436,7 @@
 	"SettingsMapClearerLetters" : "잘 보이는 맵 마커",
 	"SettingsMuteGameTab" : "시작시 음 소거",
 	"SettingsFocusGameTab" : "게임탭으로 전환",
-	"SettingsFocusGameTabTip" : "전투종료나 중파이상의 데미지를 입을때 자동으로 게임탭으로 전환됩니다. 게임내의 사운드 설정에서 SE 부분을 끄면 작동하지 않습니다. 다른 사운드 설정이나 브라우저의 음소거에는 문제없이 작동합니다.",
+	"SettingsFocusGameTabTip" : "전투종료나 중파 이상의 데미지를 입을 때 자동으로 게임 탭으로 전환됩니다. 게임 내의 사운드 설정에서 SE 부분을 끄면 작동하지 않습니다. 다른 사운드 설정이나 브라우저의 음소거에는 문제없이 작동합니다.",
 
 	"SubtitleDisplayBottom": "(게임 화면 하단) 게임 화면 하단에 고정",
 	"SubtitleDisplayBelow": "(게임 화면 밑) 게임 화면 바로 밑에 고정",
@@ -450,12 +450,17 @@
 	"SettingsDMMRedirectGadget" : "Gadget 서버 우회 활성화",
 	"SettingsDMMRedirectGadgetTip" : "해외에서의 액세스 제한에 의해 접속이 안될시 체크해 주세요. 이미 VPN 또는 프록시등을 사용해서 접속하고 있는 경우에는 필요없으니 해제 해주세요.",
 	"SettingsDMMGadgetCacheUrl" : "맞춤 Gadget 서버 URL",
-	"SettingsDMMGadgetCacheUrlTip" : "현재 기본 Gadget 서버 주소는 `kcwiki.github.io`로 설정되어 있습니다. 다른 URL를 사용하고 싶을 때에는, 「gadget_html5/」디렉토리 앞에 URL 앞부분 주소만 입력하면 됩니다. 예를들어, `http://luckyjervis.com/gadget_html5/js/kcs_const.js`로 설정하고 싶을 때에는, `http://luckyjervis.com/`만 입력해 주세요.",
+	"SettingsDMMGadgetCacheUrlTip" : "현재 기본 Gadget 서버 주소는 `kcwiki.github.io`로 설정되어 있습니다. 다른 URL를 사용하고 싶을 때에는, 「gadget_html5/」디렉토리 앞에 URL 앞부분 주소만 입력하면 됩니다. 예를 들어, `http://luckyjervis.com/gadget_html5/js/kcs_const.js`로 설정하고 싶을 때에는, `http://luckyjervis.com/`만 입력해 주세요.",
+	
+	"SettingsCacheProxy" : "KCCacheProxy 서비스",
+	"SettingsCacheProxyEnabled" : "기능 활성화",
+	"SettingsCacheProxyUrl" : "KCCP URL 입력",
+	"SettingsCacheProxyUrlTip" : "KCCacheProxy(이하 KCCP)란, 게임 실행에 필요한 파일 전용 캐시 서비스로, 로딩 시간을 대폭 단축시킬 수 있습니다. 게임 시큐어화 업데이트(2025. 10. 17) 이후 KC3改에서도 이용할 수 있도록 이 곳에 KCCP에 설정된 서비스 URL의 앞부분을 입력해야 합니다. 기본 설정은 `http://127.0.0.1:8081` 입니다.",
 	
 	"SettingsDMMGameplay": "DMM 옵션",
 	"SettingsDMMCustomize": "커스터마이징 적용",
 	"SettingsDMMCustomCSS" : "CSS 커스터마이징",
-	"SettingsDMMCustomCSSTip" : "유효한CSS3을 사용해서 DMM 공식 사이트를 커스터마이징 할수 있습니다. CSS와 DMM 공식 사이트의 소스코드를 잘 이해해서, 자기책임하에 써 주세요. 이것을 유효하게 하기 위해서는 게임 페이지를 리로드 할 필요가 있습니다. 일부의 CSS에 `!important`를 붙이는 것을 잊지 마세요.",
+	"SettingsDMMCustomCSSTip" : "유효한 CSS3을 사용해서 DMM 공식 사이트를 커스터마이징 할 수 있습니다. CSS와 DMM 공식 사이트의 소스코드를 잘 이해해서, 자기책임하에 사용해 주세요. 적용을 위해서는 게임 페이지를 새로고침 할 필요가 있습니다. 일부의 CSS에 `!important`를 붙이는 것을 잊지 마세요.",
 	
 	"SettingsDataSynchronization" : "Chrome Storage를 사용하여 데이터 동기화",
 	"SettingsEnableDataSyncNotif" : "동기화시 알림",

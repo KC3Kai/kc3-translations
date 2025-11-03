@@ -484,7 +484,7 @@
 	"SettingsPushAlertsExpeditionOnly" : "仅限远征通知",
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
 
-	"SettingsPoiDBSubmission" :"向 poi-statistics (http://db.kcwiki.moe/) 发送数据",
+	"SettingsPoiDBSubmission" :"向 poi-statistics (https://db.kcwiki.cn/) 发送数据",
 	"SettingsFeatureTogglePoiDB" :"提交数据到 poi-statistics",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
@@ -877,7 +877,7 @@
 	"PanelBattleConsumes"  : "每战消耗：（消耗值不受结婚影响）\n〖通常战斗点〗燃料：{0}，弹药：{1} (夜战时：{2})\n〖夜战开始点〗燃料：{5}，弹药：{6}\n〖反潜水艇点〗燃料：{7}，弹药：{8}\n〖远程空袭点〗燃料：{3}，弹药：{4}\n〖小鬼雷达点〗燃料：{9}，弹药：{10} (雷达时：0)\n〖对潜空袭点〗燃料：{11}，弹药：{12}",
 	"PanelConsumedSteel"   : "〖喷气机消耗〗钢材：{0}",
 	"PanelLbasSortieCosts" : "基地航空队出击时的消耗\n燃料：{0}，弹药：{1}",
-	"PanelTransportPoints"     : "输送作战A或S胜将得到 {0}TP 或 {1}TP",
+	"PanelTransportPoints"     : "输送作战A或S胜将得到 {0}TP 或 {1}TP\n　出击开始时显示的S胜输送力 {2}TP",
 	"PanelTransportPointsTank" : "　E2坦克增援登陆能得 {0}TP 或 {1}TP\n　E5坦克增援登陆能得 {2}TP 或 {3}TP",
 	"PanelTransportPointsAbbr" : "TP",
 	"PanelSupportExpCosts"  : "支援舰队类型：{0}支援\n支援远征的消耗\n　燃料：{1}，弹药：{2}",
@@ -886,6 +886,7 @@
 	"PanelAirContactPlanes" : "\n选择判定优先前{0}位的舰载机：\n{1:选择率列表}",
 	"PanelAirStrikeTip"     : "开幕{1:接触}航空攻击力：{0}",
 	"PanelFighterPowerTip"  : "{1:熟练加成}的制空值：{0}",
+	"PanelServerAFPowTip"   : "出击开始时显示的制空：{0}",
 	"PanelNightContactTip"  : "夜间接触成功率：{0}%",
 	"PanelAntiLandPowerTip" : "取阈值前后的对陆基特效：\n　(... x{0} +{1}) x{2} +{3}\n中破时的攻击力：昼{4} 夜{5}",
 	"PanelFleetAATip"       : "舰队防空值表示舰队整体的防空能力，用于计算对空火力中的固定击坠数",

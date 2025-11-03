@@ -433,7 +433,7 @@
 	"SettingsPushAlertsExpeditionOnly" : "Expedition notification only",
 	"SettingsPushAlertsKey" : "Access Token",
 	
-	"SettingsPoiDBSubmission" : "Send data to poi-statistics (http://db.kcwiki.moe/)",
+	"SettingsPoiDBSubmission" : "Send data to poi-statistics (https://db.kcwiki.cn/)",
 	"SettingsEnablePoiDBSubmission" : "Enable this feature",
 	"SettingsFeatureTogglePoiDB" : "Send data to poi-statistics",
 	
@@ -827,7 +827,7 @@
 	"PanelConsumedSteel" : "\u2003Jet Steel Cost: {0}",
 	"PanelLbasSortieCosts" : "LBAS Sortie Cost\n\u2003Fuel: {0}, Ammo: {1}",
 	"PanelTransportPointsAbbr" : "TP",
-	"PanelTransportPoints" : "Transport Map TP Results:\n\u2003Boss A-Rank: {0:rankA}, S-Rank: {1:rankS}",
+	"PanelTransportPoints" : "Transport Map TP Results:\n\u2003Boss A-Rank: {0:rankA}, S-Rank: {1:rankS}, Pre-sortie in-game: {2}",
 	"PanelTransportPointsTank" : "\u2003E2 Tank A-Rank: {0}, S-Rank: {1}\n\u2003E5 Tank A-Rank: {2}, S-Rank: {3}",
 	"PanelSupportExpCosts" : "Support Type: {0}\nSupport Exped Cost\n\u2003Fuel: {1}, Ammo: {2}",
 	"PanelSupportShowRate" : "Support Exped Show Chance\n\u2003Pre-boss: {0}%, Boss: {1}%",

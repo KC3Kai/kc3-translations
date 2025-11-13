@@ -484,21 +484,24 @@
 	"SettingsPushAlertsExpeditionOnly" : "仅限远征通知",
 	"SettingsPushAlertsKey" : "密钥（Access Token）",
 
-	"SettingsPoiDBSubmission" :"向 poi-statistics (https://db.kcwiki.cn/) 发送数据",
-	"SettingsFeatureTogglePoiDB" :"提交数据到 poi-statistics",
+	"SettingsPoiDBSubmission" : "向 poi-statistics (https://db.kcwiki.cn/) 发送数据",
+	"SettingsFeatureTogglePoiDB" : "提交数据到 poi-statistics",
 	"SettingsEnablePoiDBSubmission" : "启用功能",
 
-	"SettingsOpenDBSubmission": "向 Kancolle OpenDB (http://opendb.swaytwig.com/) 发送数据",
-	"SettingsFeatureToggleOpenDB" :"提交数据到 OpenDB",
-	"SettingsEnableOpenDBSubmission": "启用功能",
+	"SettingsOpenDBSubmission" : "向 Kancolle OpenDB (http://opendb.swaytwig.com/) 发送数据",
+	"SettingsFeatureToggleOpenDB" : "提交数据到 OpenDB",
+	"SettingsEnableOpenDBSubmission" : "启用功能",
 
-	"SettingsKC3DBSubmission" :"向 KC3改 (http://kc3.jetri.co) 发送数据",
+	"SettingsKC3DBSubmission" : "向 KC3改 (http://kc3.jetri.co) 发送数据",
 	"SettingsEnableKC3DBSubmission" : "启用功能",
 
-	"SettingsTsunDBSubmission" :"向 KC3改 TsunDB (https://tsundb.kc3.moe) 发送数据",
-	"SettingsFeatureToggleTsunDB" :"提交数据到 TsunDB",
+	"SettingsTsunDBSubmission" : "向 KC3改 TsunDB (https://tsundb.kc3.moe) 发送数据",
+	"SettingsFeatureToggleTsunDB" : "提交数据到 TsunDB",
 	"SettingsEnableTsunDBSubmission" : "提交基本数据",
 	"SettingsEnableTsunDBExtraSubmission" : "提交更多验证数据",
+
+	"SettingsKCRDBSubmission" : "向 KCRDB (https://kcrdb.hitomaru.dev) 发送任务数据",
+	"SettingsEnableKCRDBSubmission" : "启用功能",
 
 	"SettingsCacheProxy" : "KCCacheProxy缓存服务",
 	"SettingsCacheProxyEnabled" : "启用功能",

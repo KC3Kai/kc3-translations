@@ -500,9 +500,9 @@
 	"SettingsEnableTsunDBSubmission" : "提交基本数据",
 	"SettingsEnableTsunDBExtraSubmission" : "提交更多验证数据",
 
-	"SettingsKCRDBSubmission" : "向 KCRDB (https://kcrdb.hitomaru.dev) 发送任务数据",
-	"SettingsFeatureToggleKCRDB" : "提交任务数据到 KCRDB",
-	"SettingsEnableKCRDBSubmission" : "启用功能",
+	"SettingsKCRDBSubmission" : "向 KCRDB (https://kcrdb.hitomaru.dev) 发送日语任务数据",
+	"SettingsFeatureToggleKCRDB" : "谢绝提交修改过的任务数据",
+	"SettingsEnableKCRDBSubmission" : "如果同时使用了会修改任务文本的三方工具，请勿开启",
 
 	"SettingsCacheProxy" : "KCCacheProxy缓存服务",
 	"SettingsCacheProxyEnabled" : "启用功能",

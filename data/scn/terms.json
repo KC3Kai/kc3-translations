@@ -352,6 +352,8 @@
 	"SettingsStatsIconSet" : "状态属性图标集",
 	"SettingsIconSetPhase1" : "Flash版",
 	"SettingsIconSetPhase2" : "HTML5版",
+	"SettingsLbasInfoExcludeBases" : "需要排除的基地航空队",
+	"SettingsLbasInfoExcludeBasesTip" : "如果故意想要将个别基地从基地航空队面板的相关计算、提醒等功能中排除，可以将基地的数字ID添加进列表。例如：设置为 [62,71] 表示 6图的第2基地 与 7图的第1基地 的相关状态将会被忽略。",
 
 	"SettingsScreenshot" : "截图",
 	"SettingsSSOutput" : "输出方式",

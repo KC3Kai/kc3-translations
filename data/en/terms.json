@@ -266,6 +266,8 @@
 	"SettingsStatsIconSet" : "Stats Icon Set",
 	"SettingsIconSetPhase1" : "KC Phase 1",
 	"SettingsIconSetPhase2" : "KC Phase 2",
+	"SettingsLbasInfoExcludeBases" : "Land bases excluded from LBAS info",
+	"SettingsLbasInfoExcludeBasesTip" : "Set a list to exclude land bases from being considered for calculations in the LBAS panel, including the indicator for resupply/morale as well as sortie/resupply costs.\nFormat: [base ID1, base ID2, ...].\nFor example: [62,71] means the second base in World 6 as well as the first base in World 7 will be excluded from the relevant calculations.",
 	
 	"SettingsFormulas" : "Game Formula",
 	"SettingsELosFormula" : "Effective LoS Formula",

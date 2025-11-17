@@ -256,6 +256,8 @@
 	"SettingsIconSetPhase1"     : "第一期",
 	"SettingsIconSetPhase2"     : "第二期",
 	"SettingsFormatNumbers"     : "数字(桁区切りなど)を処理",
+	"SettingsLbasInfoExcludeBases"    : "基地航空隊情報からの除外",
+	"SettingsLbasInfoExcludeBasesTip" : "基地航空隊の情報計算や表示から除外したい航空隊のIDを追加してください。\nするとあえて放置したい通常マップの航空隊の補給警告や出撃コスト計算などの情報が考慮されなくなり、イベントなどの航空隊に専念出来るようになります。\n例えば [62,71] を入力すれば「第6海域の第二航空隊」と「第7海域の第一航空隊」を除外するようになります。",
 	"SettingsSaltyShip"         : "KC3改の艦娘好き嫌い標記",
 	"SettingsYasenTroll"        : "KC3改のツッコミ(英語)",
 

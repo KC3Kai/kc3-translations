@@ -1821,6 +1821,12 @@
         "desc": "Sortie 2 LHA/AO, 2 DE and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W1-5]. A-Rank+ each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either +2 Equipment Slots OR 2000 Fuel OR a New Model Rocket Development Materials\n\u00B6Second choice: Either two Medals OR nine Screws OR 3600 Bauxite"
     },
+    "1010": {
+        "code": "B212",
+        "name": "Air Defense Destroyer Akizuki Kai Ni, Reporting In!",
+        "desc": "Sortie Akizuki Kai Ni as flagship and up to 4 additional ships to [W1-4], [W2-4], [W5-4], [W7-1] and [W7-2-M]. S-Rank each boss node.",
+        "memo": "\u27A3Rewards:\n\u00B6First choice: two Type 94 Anti-Aircraft Fire Directors OR a \u26058 Type 13 Air Radar Kai OR an Action Report\n\u00B6Second choice: a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai OR a Prototype 61cm Sextuple (Oxygen) Torpedo Mount"
+    },
 
 
 
@@ -4159,12 +4165,6 @@
         "desc": "Have 48 Development Materials, three New Model Aviation Armament Materials and a Skilled Crew Member. Set Hiryuu Kai Ni or Houshou Kai Ni+ as secretary with a \u26058+ Shiden Kai 2 in her first slot, other slots must be empty. Scrap 8 Shiden Model 11 and a Type 2 Two-seat Fighter Toryuu Model C.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR five Screws OR a Ne-Type Engine\n\u00B6Second choice: Either a \u26052 Prototype Shuusui OR a \u26053 Prototype Keiun (Carrier-based Reconnaissance Model) OR a Prototype Shinden (Land-based Fighter)"
     },
-    "1010": {
-        "code": "2405B1",
-        "name": "Weekly [Limited Time] Anti-submarine Operation",
-        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-5]. S-Rank the boss node 3 times. Reach [W1-6-N] once.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Buckets OR 850 Fuel\n\u00B6Second choice: Either six Development Materials OR two Screws"
-    },
     "1011": {
         "code": "2405B2",
         "name": "Weekly [Limited Time] Coastal Defense!",
@@ -4383,7 +4383,7 @@
     },
     "369": {
         "code": "2511C1",
-        "name": "[Saury] Salt-grilled Saury Exercise!",
+        "name": "[Saury] Salt-grilled Saury Exercises!",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Oboro, Akebono, Sazanami, Ushio, Akizuki, Hatsuzuki, Ootomari, Kishinami, Okinami, Isokaze, Shouhou, Michishio, Shigure Kai Ni+, Mogador and Ranger, and up to 2 additional ships.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR a Medal OR a \u26053 Combat Ration\n\u00B6Second choice: Either twelve Flamethrowers OR twelve Buckets OR two Mamiya"
     },
@@ -4412,28 +4412,28 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either an Irako OR three Development Materials\n\u00B6Second choice: Either two Screws OR three Buckets"
     },
     "962": {
-        "code": "2412B1",
-        "name": "[Xmas Limited] Merry Xmas Destroyer Squadron, Weigh Anchor!",
-        "desc": "Sortie any 4 of Oyashio, Asagumo, Yamagumo, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Hayashimo, Tanikaze and Hatsukaze, and up to 2 additional ships to [W1-1] and [W1-3]. S-Rank each boss node three times.",
-        "memo": "\u27a3Rewards a Present Box and either eleven Development Materials OR four Screws OR a Furniture Fairy"
+        "code": "2512B1",
+        "name": "[Christmas] Merry Xmas Destroyer Squadron, Weigh Anchor!",
+        "desc": "Sortie any 4 of Hagikaze, Oyashio, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Sagiri and Johnston, and up to 2 additional ships to [W1-1] and [W1-3]. S-Rank each boss node three times.",
+        "memo": "\u27A3Rewards:\n\u00B6First choice: a Present Box OR a New Model Armament Materials\n\u00B6Second choice: twelve Development Materials OR four Screws OR a Furniture Fairy"
     },
     "963": {
-        "code": "2412B2",
-        "name": "[Xmas Limited] Holy Night Special Fleet, Commence Operation!",
-        "desc": "Sortie any 2 of Souya, Akashi, Asahi, Kamoi, Hayasui, Taigei (not Ryuuhou), Jingei, Chougei, Heian Maru, Kumano Maru, Yamashio Maru, Comdt. Teste and Mizuho, one as flagship, and up to 4 additional ships to [W1-2] and [W2-2]. S-Rank each boss node three times.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Daihatsu Landing Craft OR four 25mm Single Machine Guns OR six Buckets\n\u00B6Second choice: Either two New Model Armament Materials OR a Reinforcement Expansion OR a Medal"
+        "code": "2512B2",
+        "name": "[Christmas] Holy Night Special Fleet, to the Nansei Islands!",
+        "desc": "Sortie any 2 of Asahi, Akashi, Souya, Kamoi, Taigei (not Ryuuhou), Hayasui, Jingei, Chougei, Heian Maru, Mizuho, Kumano Maru and Yamashio Maru, one as flagship, and up to 4 additional ships to [W1-2] and [W2-1]. S-Rank each boss node twice.",
+        "memo": "\u27A3Rewards:\n\u00B6First choice: two Daihatsu Landing Craft OR a New Model Armament Materials OR six Buckets\n\u00B6Second choice: a Reinforcement Expansion OR eighteen Development Materials OR a Medal"
     },
     "964": {
-        "code": "2412B3",
-        "name": "[Xmas Limited] Xmas Light Cruiser Squadron, Wreak Havoc!",
-        "desc": "Sortie any 2 of Kuma, Naka, Yahagi Kai Ni+, Sakawa, Kashima, Sheffield, Atlanta, Ooyodo and Gotland, one as flagship, and up to 4 additional ships to [W1-4], [W2-3] and [W2-4]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a \u26057 14cm Twin Gun Mount Kai OR a \u26055 15.2cm Twin Gun Mount Kai OR a Medal\n\u00B6Second choice: Either two New Model Artillery Armament Materials OR five Screws OR a 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
+        "code": "2512B3",
+        "name": "[Christmas] Xmas Battleship Squadron, Advance with Dignity!",
+        "desc": "Sortie any 2 of Warspite, Valiant, Nevada, Littorio and Jean Bart, one as flagship, and up to 4 additional ships to [W2-3], [W2-4] and [W5-1]. S-Rank each boss node twice.",
+        "memo": "\u27A3Rewards:\n\u00B6First choice: three New Model Artillery Armament Materials OR two \u26052 14inch/45 Triple Gun Mounts OR a \u26055 15.2cm Triple Gun Mount\n\u00B6Second choice: a \u26052 38.1cm Mk.I/N Twin Gun Mount Kai OR eight Screws OR a 38cm Quadruple Gun Mount Kai"
     },
     "965": {
-        "code": "2412B4",
-        "name": "[Xmas Extra Operation] Xmas Final Battle, Deploy the Fleet!",
-        "desc": "Sortie any 3 of Warspite, Nevada, Ranger, Langley, Johnston, Suzuya, Kumano and Kinugasa, and up to 3 additional ships to [W4-2], [W4-5], [W5-3] and [W6-4]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 2 Two-seat Fighter Toryuu Model C OR a Type 4 Heavy Bomber Hiryuu OR four SM.79\n\u00B6Second choice: Either a Ne-Type Engine OR four Skilled Crew Members OR three Medals"
+        "code": "2512B4",
+        "name": "[Christmas] Xmas Cruiser-class, Wreak Havoc This Winter Too!",
+        "desc": "Sortie any 3 of Kinugasa, Suzuya, Kumano, Ooyodo, Kuma, Kashima, Yahagi Kai Ni+, Sakawa, Sheffield and Atlanta, and up to 3 additional ships to [W2-2], [W5-3] and [W5-5]. S-Rank each boss node twice.",
+        "memo": "\u27A3Rewards:\n\u00B6First choice: two Latest Overseas Warship Technology OR twentyfour Buckets OR thirty Development Materials\n\u00B6Second choice: two Action Reports OR a \u26054 Type 22 Surface Radar Kai 4 (Calibrated Late Model) OR four Medals"
     },
     "505": {
         "code": "Su01",

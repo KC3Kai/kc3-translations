@@ -520,6 +520,12 @@
         "desc": "Sortie a CVL/CL(T)/CT as flagship, 3 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
         "memo": "\u27a3Rewards two units of Setsubun Beans and either three Buckets OR an Underway Replenishment OR an Emergency Repair Material"
     },
+    "841_SB16": {
+        "code": "SB16",
+        "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
+        "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
+        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
+    },
     "841_SB57": {
         "code": "SB57",
         "name": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation",
@@ -531,6 +537,12 @@
         "name": "Weekly Setsubun Mission: Reiwa 3rd Year Western Region Setsubun Operation",
         "desc": "Sortie 2 CAV or 2 CA or 2 AV* with one of them as flagship, and up to 4 additional ships to [W4-1], [W4-2] and [W4-3]. S-Rank each boss node.",
         "memo": "*For the two required ships, you can't mix ship types. For example, if your flagship is a CAV, you must sortie another CAV as well.\nThe four additional ships can be anything that enables you to reach the boss nodes.\n\u27a3Rewards two units of Setsubun Beans and either five Development Materials OR an Irako OR a Screw"
+    },
+    "843_SB21": {
+        "code": "SB21",
+        "name": "Setsubun Special Sorties: Maintain Control of the Seas!",
+        "desc": "Sortie 2 DD and 2 additional ships to [W1-1], [W1-2], [W2-3]. S-Rank the boss nodes of each.",
+        "memo": "\u27a3Rewards furniture"
     },
     "843_SB58": {
         "code": "SB58",
@@ -1144,19 +1156,37 @@
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship and 5 DD.",
         "memo": "\u27a3Rewards a Teru Teru Bouzu"
     },
-    "953": {
+    "953_E51B1": {
+        "code": "21SuLB1",
+        "name": "[Mediterranean Operation] Assemble the Special Mission Striking Force Fleet!",
+        "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes F, L and boss O.",
+        "memo": "\u27a3Unlocks the Striking Force on Fleet 3.\n\u27a3Rewards either a Type 3 Shell OR a Shipborne Type 4 20cm Anti-Ground Mortar OR four Buckets"
+    },
+    "954_E51B2": {
+        "code": "21SuLB2",
+        "name": "[Mediterranean Operation] Attack the enemy deployed in the Mediterranean Region!",
+        "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes P, H and S.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a Furniture Fairy OR a Medal"
+    },
+    "955_E51B3": {
+        "code": "21SuLB3",
+        "name": "[Mediterranean Operation] 10th Submarine Flotilla Operation",
+        "desc": "Sortie submarine fleet to Summer 2021 [E-3]. A-Rank+ nodes T1 and T4 twice.",
+        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Quest only available when playing on either Easy, Normal or Hard. Will be reset upon changing difficulties.\n\u27a3Rewards:\n\u00B6First choice: Either three Type 3 Depth Charge Projector OR three Type 2 Depth Charge OR two Type124 ASDIC\n\u00B6Second choice: Either two Action Reports OR a Remodel Blueprint"
+    },
+    "953_2306B1": {
         "code": "2306B1",
         "name": "[Rainy Season] Protect the Marine Transportation Route in the Rainy Season!",
         "desc": "Sortie a CL/AV as flagship, 3 DD and up to 2 additional ships to [W1-2], [W1-3], [W2-2] and [W2-3]. S-Rank each boss node.",
         "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR five Development Materials OR an Underway Replenishment"
     },
-    "954": {
+    "954_2306B2": {
         "code": "2306B2",
         "name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
         "desc": "Sortie 2 CA(V), one of them as flagship and up to 4 additional ships to [W7-3-P] and [W7-4]. S-Rank each boss node twice.",
         "memo": "\u27a3Rewards three Teru Teru Bouzu and either eight Development Materials OR two Screws OR a Mamiya"
     },
-    "955": {
+    "955_2306B3": {
         "code": "2306B3",
         "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
         "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",

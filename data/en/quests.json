@@ -1065,23 +1065,11 @@
         "desc": "Sortie a (F)BB(V) as flagship, 1 other (F)BB(V) and up to 4 additional ships to [W3-3]. S-Rank the boss node. You will have to select a reward.",
         "memo": "\u27a3Rewards 2 Screws and either a Type 2 Seaplane Fighter Kai OR a PBY-5A Catalina"
     },
-    "841SB16": {
-        "code": "SB16",
-        "name": "Special Winter Mission: Seaplane Tender, Set Sail!",
-        "desc": "Sortie an AV as flagship, 3 DD and up to 2 other ships to [W1-3] and [W1-4]. S-Rank the boss nodes of both maps.",
-        "memo": "\u27a3Rewards furniture and a Reinforcement Expansion"
-    },
     "842": {
         "code": "B89",
         "name": "Main Battleship Division, Set Sail!",
         "desc": "Sortie 2 BB(V) (not FBB) and up to 4 additional ships to [W2-4]. S-Rank the boss node. You will have to select a reward.",
         "memo": "\u27a3Rewards an Irako and either an Improved Kanhon Type Turbine OR an Enhanced Kanhon Type Boiler"
-    },
-    "843SB21": {
-        "code": "SB21",
-        "name": "Setsubun Special Sorties: Maintain Control of the Seas!",
-        "desc": "Sortie 2 DD and 2 additional ships to [W1-1], [W1-2], [W2-3]. S-Rank the boss nodes of each.",
-        "memo": "\u27a3Rewards furniture"
     },
     "844": {
         "code": "B90",
@@ -3763,6 +3751,26 @@
 
 
 
+    "159": {
+        "code": "SN06",
+        "name": "Transfer the Murata Squadron Torpedo Bomber to Shoukaku!",
+        "desc": "Set Shoukaku as secretary, equipped with a Type 97 Torpedo Bomber (Murata Squadron)."
+    },
+    "310": {
+        "code": "SN07",
+        "name": "Sortie with the Fleet Deployed to the West!",
+        "desc": "Secure 4 victiories in Exercises within the same day."
+    },
+    "160": {
+        "code": "SN09",
+        "name": "Sortie with the Fleet Deployed to the West!",
+        "desc": "Clear 2015 E-5 map."
+    },
+    "421": {
+        "code": "OR2",
+        "name": "Carry Out a Friendly Ship Naval Review!",
+        "desc": "Complete the limited expedition \"Friendly Ship Naval Review\" in 2016."
+    },
     "840": {
         "code": "2501B5",
         "name": "Weekly [Setsubun] Setsubun Operation 2025",
@@ -3852,24 +3860,6 @@
         "name": "[Event Preparation] Stage Two (Anti-Installation / Anti-Air Maintenance)",
         "desc": "Sortie 3 DD and up to three additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. S-Rank the boss nodes.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Type 3 Shells OR three 12cm 20-tube Rocket Launchers OR two Shipborne Type 4 20cm Anti-ground Rocket Launchers\n\u00B6Second choice: Either two Daihatsu Landing Craft OR two 25mm Triple Machine Gun OR a Repair Goddess"
-    },
-    "953E51B1": {
-        "code": "21SuLB1",
-        "name": "[Mediterranean Operation] Assemble the Special Mission Striking Force Fleet!",
-        "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes F, L and boss O.",
-        "memo": "\u27a3Unlocks the Striking Force on Fleet 3.\n\u27a3Rewards either a Type 3 Shell OR a Shipborne Type 4 20cm Anti-Ground Mortar OR four Buckets"
-    },
-    "954E51B2": {
-        "code": "21SuLB2",
-        "name": "[Mediterranean Operation] Attack the enemy deployed in the Mediterranean Region!",
-        "desc": "Sortie any fleet to Summer 2021 [E-1]. A-Rank+ nodes P, H and S.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR five Buckets OR three Screws\n\u00B6Second choice: Either a Type 3 Depth Charge Projector OR a Furniture Fairy OR a Medal"
-    },
-    "955E51B3": {
-        "code": "21SuLB3",
-        "name": "[Mediterranean Operation] 10th Submarine Flotilla Operation",
-        "desc": "Sortie submarine fleet to Summer 2021 [E-3]. A-Rank+ nodes T1 and T4 twice.",
-        "memo": "\u2623This quest is still being verified. Report any problems to the KC3 team.\n\u2718Quest only available when playing on either Easy, Normal or Hard. Will be reset upon changing difficulties.\n\u27a3Rewards:\n\u00B6First choice: Either three Type 3 Depth Charge Projector OR three Type 2 Depth Charge OR two Type124 ASDIC\n\u00B6Second choice: Either two Action Reports OR a Remodel Blueprint"
     },
     "956": {
         "code": "21SuLB4",

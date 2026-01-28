@@ -214,6 +214,9 @@
 	"AboutPartnerKCNavName" : "TsunKit / KCNav by Chami",
 	"AboutPartnerKCNavDesc" : "칸코레 맵 네비게이터 & 퀘스트 추적툴",
 
+	"AboutPartnerKCRDBName" : "KCRDB by HitomaruKonpaku",
+	"AboutPartnerKCRDBDesc" : "리플레이 공유, API 데이터 수집 데이터 베이스",
+
 	"AboutPartnerKCImgBuilderName" : "KanColleImgBuilder by HitomaruKonpaku",
 	"AboutPartnerKCImgBuilderDesc" : "함대 편성 툴 이미지 출력에 도움",
 
@@ -429,13 +432,13 @@
 	"SettingsSubtitleSize": "자막 폰트 크기",
 	"SettingsSubtitleBold": "자막 폰트 두껍게",
 	"SettingsSubtitleDisplay": "자막 표시",
-	"SettingsSubtitleSpeaker": "칸무스 이름 포함한 자막 표시",
+	"SettingsSubtitleSpeaker": "칸무스 이름을 포함한 자막 표시",
 	"SettingsSubtitleHourly" : "시보 자막 표시",
 	"SettingsGoogleTranslate": "구글 번역기 활용",
 	"SettingsSubtitleAccurateDuration" : "정확한 자막 표시 시간",
 	"SettingsMapClearerLetters" : "잘 보이는 맵 마커",
-	"SettingsMuteGameTab" : "시작시 음 소거",
-	"SettingsFocusGameTab" : "게임탭으로 전환",
+	"SettingsMuteGameTab" : "시작 시 음소거",
+	"SettingsFocusGameTab" : "게임 탭으로 전환",
 	"SettingsFocusGameTabTip" : "전투종료나 중파 이상의 데미지를 입을 때 자동으로 게임 탭으로 전환됩니다. 게임 내의 사운드 설정에서 SE 부분을 끄면 작동하지 않습니다. 다른 사운드 설정이나 브라우저의 음소거에는 문제없이 작동합니다.",
 
 	"SubtitleDisplayBottom": "(게임 화면 하단) 게임 화면 하단에 고정",

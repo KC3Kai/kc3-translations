@@ -1821,6 +1821,12 @@
         "desc": "Sortie Hayanami Kai Ni as flagship, any 2 of Tamanami, Suzunami, Fujinami and Hamanami, and up to 3 additional ships to [W2-2], [W2-4], [W2-5], [W7-1] and [W7-2-M]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Medals OR a \u26058 Type 2 Depth Charge OR an Action Report\n\u00B6Second choice: Either a \u26052 Type 4 Passive Sonar OR a Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model) OR a 12.7cm Twin Gun Mount Model D Kai 3"
     },
+    "1042": {
+        "code": "B214",
+        "name": "Latest Remodeled Aircraft Carrier Hiryuu Kai San, a Whirlwind of Fury!",
+        "desc": "Sortie Hiryuu Kai San as flagship, any 2 of Kazagumo, Tamanami, Suzunami, Fujinami, Hayanami and Hamanami, and up to 3 additional ships to [W2-5], [W3-5], [W4-5], [W5-5] and [W6-4]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Prototype Reppuu Late Model OR six Ryuusei Kai OR +12 Equipment Slots\n\u00B6Second choice: Either five New Model Aviation Armament Materials OR five Medals OR two New Model Aircraft Blueprints"
+    },
 
 
 
@@ -3705,6 +3711,24 @@
         "desc": "Have 2 New Model Aviation Armament Materials and a \u2605max Prototype Shinden (Land-based Fighter). Set Hiryuu Kai Ni+ as secretary with any 3 of Tamanami Kai Ni, Suzunami Kai Ni, Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni. Scrap 5 Type 0 Fighter Model 52 and 5 Shiden Kai 2.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinden Kai 2 (Carrier-based Fighter Model Kai 2)"
     },
+    "1161": {
+        "code": "F139",
+        "name": "Arsenal Preparation for New Equipment I",
+        "desc": "Have 8800 Ammo. Set Hiryuu Kai Ni+ as secretary. Scrap 9 Fighters, 9 Dive Bombers, 9 Torpedo Bombers, 8 Depth Charges, 8 AA Machine Guns, 9 Medium Caliber Main Guns and 7 Large Caliber Main Guns.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either +10 Equipment Slots OR two Medals OR two New Model Armament Materials\n\u00B6Second choice: Either eightyeight Development Materials OR four Tenzan Model 12A OR a Prototype Flight Deck Catapult"
+    },
+    "1162": {
+        "code": "F140",
+        "name": "Arsenal Preparation for New Equipment II",
+        "desc": "Have 2 New Model Armament Materials, 8800 Bauxite and 8800 Steel. Scrap 6 Type 0 Fighter Model 52, 4 Shiden Model 11, 8 12.7cm Twin High-angle Gun Mounts and 2 46cm Triple Gun Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR a Blueprint OR four Ryuusei Kai\n\u00B6Second choice: Either 110 Development Materials OR a Ne-Type Engine OR three Latest Overseas Warship Technology"
+    },
+    "1163": {
+        "code": "F141",
+        "name": "Shinden with Jet Propulsion",
+        "desc": "Have 3 New Model Aviation Armament Materials, 4 New Model Armament Materials, 160 Development Materials, a Skilled Crew Member and a Ne-Type Engine. Set Hiryuu Kai San as secretary with a \u2605max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in her first slot.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinden Kai 3 (Prototype Jet Shinden)"
+    },
 
 
 
@@ -3946,22 +3970,22 @@
         "memo": "\u27a3Rewards four units of Setsubun Beans and either twenty Development Materials OR a Medal OR 2026 Fuel"
     },
     "234": {
-        "code": "2502B1",
-        "name": "[Valentine] Valentine's Day 2025, First Operation",
-        "desc": "Sortie any 3 of Ooi, Kuma, Kashima, Kamoi, Kamikaze, Hamakaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami, and up to 3 additional ships to [W1-3], [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Development Materials OR four Buckets OR a Furniture Fairy\n\u00B6Second choice: Either a Mamiya OR +3 Equipment Slots"
+        "code": "2602B1",
+        "name": "Weekly [Valentine] Valentine's Day 2026, Special Operation",
+        "desc": "Sortie any 3 of Ooi, Kuma, Kashima, Kamoi, Ootomari, Kamikaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami, one as flagship, and up to 3 additional ships to [W1-3], [W1-4] and [W2-1]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR two Buckets OR two 25mm Single Autocannon Mounts\n\u00B6Second choice: Either an Irako OR +2 Equipment Slots"
     },
     "238": {
-        "code": "2502B2",
-        "name": "[Valentine] Valentine's Day 2025, Second Operation",
-        "desc": "Sortie any 3 of Ooyodo, Furutaka, Jingei, I-201, I-203, C. Cappellini, Washington, South Dakota and Kinugasa Kai Ni, and up to 3 additional ships to [W2-3], [W2-4], [W3-1] and [W4-2]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Mamiya OR +5 Equipment Slots\n\u00B6Second choice: Either two Medals OR a Reinforcement Expansion OR an Action Report"
+        "code": "2602B2",
+        "name": "[Valentine] Valentine's Day 2026, Special Extra Operation",
+        "desc": "Sortie any 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni, one as flagship, and up to 3 additional ships to [W2-2], [W3-1] and [W7-5-T]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Mamiya OR two Reinforcement Expansions\n\u00B6Second choice: Either two Medals OR +12 Equipment Slots OR an Action Report"
     },
     "349": {
-        "code": "2502C1",
-        "name": "[Valentine] Valentine's Day 2025, Special Exercises",
-        "desc": "Secure 4 S-Rank victories in Exercises within the same day using any 3 of Mogador, Gotland, Perth, Comdt. Teste, Kamoi, Mizuho, Murakumo, Akebono and Oboro, and up to 3 additional ships.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two New Model Aviation Armament Materials OR two Zuiun Model 12 OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Furniture Fairy OR two Irako OR four Screws"
+        "code": "2602C1",
+        "name": "Weekly [Valentine] Valentine's Day 2026, Special Exercises",
+        "desc": "Secure 5 S-Rank victories in Exercises within the same day using any 3 of Thonburi, Helena, Mogador, Gotland, Perth, Comdt. Teste, Akebono, Oboro and Nosaki, one as flagship, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a New Model Aviation Armament Materials OR two Tenzan OR eight Development Materials\n\u00B6Second choice: Either six Buckets OR a Mamiya OR three Screws"
     },
     "991": {
         "code": "2302B3",

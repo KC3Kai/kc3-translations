@@ -3819,36 +3819,6 @@
         "name": "Carry Out a Friendly Ship Naval Review!",
         "desc": "Complete the limited expedition \"Friendly Ship Naval Review\" in 2016."
     },
-    "340": {
-        "code": "W20C1",
-        "name": "Weekly Peach Festival Mission: Peach Festival Exercises!",
-        "desc": "Secure 3 S-Rank victories in Exercises using 3 DD/DE and up to 3 additional ships.",
-        "memo": "\u27a3Rewards a Hishimochi"
-    },
-    "435": {
-        "code": "W20D1",
-        "name": "Weekly Peach Festival Mission: Peach Festival Expeditions!",
-        "desc": "Complete Expeditions 4, 10, 14, B1 and A3",
-        "memo": "\u27a3Rewards two Hishimochi and either two Underway Replenishments OR a Type 3 Shell OR two Emergency Repair Materials"
-    },
-    "707": {
-        "code": "W20G1",
-        "name": "Weekly Peach Festival Mission: Peach Festival Destroyer Modernization",
-        "desc": "Have 303 steel and 303 bauxite. Modernize a DD using 3 CL twice",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards two Development Materials and a Hishimochi"
-    },
-    "708": {
-        "code": "W20G2",
-        "name": "Weekly Peach Festival Mission: Peach Festival Escort Modernization",
-        "desc": "Have 3030 steel and 3030 bauxite. Modernize a DE using 5 DD twice",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards two Hishimochi"
-    },
-    "709": {
-        "code": "W20G3",
-        "name": "Peach Festival Mission: Peach Festival Light Cruiser Modernization",
-        "desc": "Have 4230 steel and 4230 bauxite. Modernize a CL using 2 DE twice",
-        "memo": "\u2718Consumes the resources.\n\u27a3Rewards four Hishimochi and either five buckets OR six Development Materials OR two Combat Rations"
-    },
     "950": {
         "code": "2107LB1",
         "name": "[Summer Limited] Operation Mermaid's Shore!",
@@ -4017,29 +3987,17 @@
         "desc": "Sortie any 5 of Ashigara, Nachi, Tama, Kiso, Abukuma, Kasumi, Shiranui, Usugumo, Akebono, Ushio, Hatsushimo, Hatsuharu and Wakaba, and up to 1 additional ship to [W2-1], [W2-2], [W3-1] and [W3-2]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Buckets OR two New Model Artillery Armament Materials OR four Screws\n\u00B6Second choice: Either three Mamiya OR an Arctic Gear & Deck Personnel OR three Medals"
     },
+    "435": {
+        "code": "W20D1",
+        "name": "Weekly Peach Festival Mission: Peach Festival Expeditions!",
+        "desc": "Complete Expeditions 4, 10, 14, B1 and A3",
+        "memo": "\u27a3Rewards two Hishimochi and either two Underway Replenishments OR a Type 3 Shell OR two Emergency Repair Materials"
+    },
     "909": {
         "code": "2103B4",
         "name": "[Hinamatsuri] Weekly EOs",
         "desc": "Sortie to [W3-5], [W4-5] and [W6-4]. S-Rank the boss nodes of each.",
         "memo": "Hinamatsuri: A Springtime of Offensive Operations!\n\u27a3Rewards four Hishimochi and one of DE Matsuwa, Sado, Tsushima, Fukae or Hirato"
-    },
-    "906": {
-        "code": "2203B1",
-        "name": "[Hinamatsuri 2022] Safeguarding the Naval Base's Coastal Waters",
-        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
-        "memo": "\u27a3Rewards Hishimochi and either two 25mm Single Autocannon Mounts OR five Development Materials OR a Type 2 12cm Mortar Kai"
-    },
-    "907": {
-        "code": "2203B2",
-        "name": "[Hinamatsuri 2022] Nansei Region Combat Patrols!",
-        "desc": "Sortie 4 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards two Hishimochi and either five Buckets OR a Mamiya OR two Type 3 Depth Charge Projectors"
-    },
-    "908": {
-        "code": "2203B3",
-        "name": "[Hinamatsuri 2022] Decisive Battles! Strike Down the Enemy Task Force!",
-        "desc": "Sortie a CV(L/B), a CA(V), a CL and up to 3 additional ships to [W2-4], [W2-5] and [W7-2-M]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards four Hishimochi and either ten Development Materials OR a Reinforcement Expansion OR a Medal"
     },
     "710": {
         "code": "2103G1",
@@ -4064,6 +4022,48 @@
         "name": "[Hinamatsuri] Hishimochi Modernization: 2021 Sky",
         "desc": "Have 7 Hishimochi, 90 Development Materials, 9000 Fuel and 9000 Bauxite. Modernize a CV using 5 CVL twice.",
         "memo": "\u2718Consumes the Hishimochi.\n\u27a3Rewards either a Prototype Flight Deck Catapult OR a two Ne-Type Engines OR four New Model Aircraft Blueprints"
+    },
+    "906": {
+        "code": "2603B1",
+        "name": "[Hinamatsuri] Safeguarding the Naval Base's Coastal Waters During Spring 2026",
+        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
+        "memo": "\u27a3Rewards a Hishimochi and either two 25mm Single Autocannon Mounts OR five Development Materials OR a Screw"
+    },
+    "907": {
+        "code": "2603B2",
+        "name": "[Hinamatsuri] Nansei Region Spring Combat Patrols 2026",
+        "desc": "Sortie 4 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards two Hishimochi and either five Buckets OR a Mamiya OR two Ka Type Observation Autogyros"
+    },
+    "908": {
+        "code": "2603B3",
+        "name": "[Hinamatsuri] Spring Hinamatsuri Decisive Battle! 2026",
+        "desc": "Sortie any 2 of Minneapolis, Samuel B. Roberts, Yuugumo and Ushio, one as flagship, and up to 4 additional ships to [W2-4], [W2-5] and [W7-2-M]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards four Hishimochi and either fifteen Development Materials OR two New Model Aviation Armament Materials OR two Medals"
+    },
+    "340": {
+        "code": "2603C1",
+        "name": "Weekly [Hinamatsuri] Peach Festival Fleet Exercises 2026",
+        "desc": "Secure 3 S-Rank victories in Exercises using 3 DE and up to 3 additional ships OR 4 DD and up to 2 additional ships.",
+        "memo": "\u27a3Rewards a Hishimochi and either three Development Materials OR three Buckets"
+    },
+    "707": {
+        "code": "2603G1",
+        "name": "Weekly [Hinamatsuri] Peach Festival Destroyer Modernization",
+        "desc": "Have 303 Steel and 303 Bauxite. Modernize a DD using 3 CL twice.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards a Hishimochi and two Development Materials"
+    },
+    "708": {
+        "code": "2603G2",
+        "name": "Weekly [Hinamatsuri] Peach Festival Escort Modernization",
+        "desc": "Have 3030 Steel and 3030 Bauxite. Modernize a DE using 5 DD twice.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards two Hishimochi and two Buckets"
+    },
+    "709": {
+        "code": "2603G3",
+        "name": "[Hinamatsuri] Hishimochi Special Modernization 2026",
+        "desc": "Have 6 Hishimochi. Modernize a Fubuki-class DD using 3 Sendai-class CL three times.",
+        "memo": "\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either three Medals OR thirteen Screws OR two New Model Armament Materials\n\u00B6Second choice: Either 2200 Fuel OR 2000 Steel OR two New Model Artillery Armament Materials"
     },
     "1028": {
         "code": "2503B1",

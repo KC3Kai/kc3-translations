@@ -1827,6 +1827,12 @@
         "desc": "Sortie Hiryuu Kai San as flagship, any 2 of Kazagumo, Tamanami, Suzunami, Fujinami, Hayanami and Hamanami, and up to 3 additional ships to [W2-5], [W3-5], [W4-5], [W5-5] and [W6-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Prototype Reppuu Late Model OR six Ryuusei Kai OR +12 Equipment Slots\n\u00B6Second choice: Either five New Model Aviation Armament Materials OR five Medals OR two New Model Aircraft Blueprints"
     },
+    "1044": {
+        "code": "B215",
+        "name": "DesDiv 32 Tamanami Kai Ni, Sortieing!",
+        "desc": "Sortie Tamanami Kai Ni as flagship, Fujinami and up to 4 additional ships to [W2-3], [W2-5], [W4-5], [W5-5] and [W6-3]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR eightyeight Development Materials OR a Prototype Flight Deck Catapult\n\u00B6Second choice: Either a Torpedo Squadron Skilled Lookouts OR a 12.7cm Twin Gun Mount Model D Kai 3 OR a Type 3 Depth Charge Projector Kai"
+    },
 
 
 
@@ -3708,7 +3714,7 @@
     "1160": {
         "code": "F138",
         "name": "Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
-        "desc": "Have 2 New Model Aviation Armament Materials and a \u2605max Prototype Shinden (Land-based Fighter). Set Hiryuu Kai Ni+ as secretary with any 3 of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni. Scrap 5 Type 0 Fighter Model 52 and 5 Shiden Kai 2.",
+        "desc": "Have 2 New Model Aviation Armament Materials and a \u2605max Prototype Shinden (Land-based Fighter). Set Hiryuu Kai Ni+ as secretary with any 3 of Tamanami Kai Ni, Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni. Scrap 5 Type 0 Fighter Model 52 and 5 Shiden Kai 2.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinden Kai 2 (Carrier-based Fighter Model Kai 2)"
     },
     "1161": {
@@ -3728,6 +3734,12 @@
         "name": "Shinden with Jet Propulsion",
         "desc": "Have 3 New Model Aviation Armament Materials, 4 New Model Armament Materials, 160 Development Materials, a Skilled Crew Member and a Ne-Type Engine. Set Hiryuu Kai San as secretary with a \u2605max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in her first slot.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinden Kai 3 (Prototype Jet Shinden)"
+    },
+    "1164": {
+        "code": "F142",
+        "name": "Newly Remodeled Torpedo Squadron Ship, Remodel Preparations!",
+        "desc": "Have a New Model Armament Materials and 4 15.2cm Twin Gun Mounts. Set Tamanami as secretary with Fujinami and Kitakami in your fleet. Scrap 8 Type 3 Depth Charge Projectors, 4 Type 3 Active Sonars and 8 12.7cm Twin High-angle Gun Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either +8 Equipment Slots OR a \u26054 Type 2 Depth Charge OR forty Development Materials\n\u00B6Second choice: Either two \u26054 61cm Quintuple (Oxygen) Torpedo Mounts OR a \u26054 12.7cm Twin High-angle Gun Mount Kai 2 OR three New Model Armament Materials"
     },
 
 
@@ -4066,10 +4078,28 @@
         "memo": "\u2718Consumes the resources.\n\u27a3Rewards:\n\u00B6First choice: Either three Medals OR thirteen Screws OR two New Model Armament Materials\n\u00B6Second choice: Either 2200 Fuel OR 2000 Steel OR two New Model Artillery Armament Materials"
     },
     "1028": {
-        "code": "2503B1",
-        "name": "[White Day] Light Aircraft Carrier, Sortie!",
-        "desc": "Sortie Langley as flagship and up to 5 additional ships OR 2 CVL and up to 4 additional ships to [W1-3], [W1-4], [W2-1] and [W3-1]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Buckets OR six Development Materials OR an Irako\n\u00B6Second choice: Either three Underway Replenishments OR fourteen Development Materials OR a Medal"
+        "code": "2603B4",
+        "name": "[White Day] Light Aircraft Carrier, Sortie! 2026",
+        "desc": "Sortie Langley as flagship and up to 5 additional ships OR 2 CVL and up to 4 additional ships to [W1-3], [W2-1], [W2-2] and [W3-1]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either Kamoi OR Hiburi OR Daitou OR Noumi OR Kurahashi\n\u00B6Second choice: Either three Underway Replenishments OR two Skilled Crew Members OR an Emergency Repair Goddess"
+    },
+    "1043": {
+        "code": "2603B5",
+        "name": "[Time-limited] The Spring Flagship is... Me!",
+        "desc": "Sortie any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco, one as flagship, and up to 4 additional ships to [W1-3], [W1-5], [W1-4] and [W2-3]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either +4 Equipment Slots OR a Medal OR a New Model Armament Materials\n\u00B6Second choice: Either a Reinforcement Expansion OR a Blueprint OR two Latest Overseas Warship Technology"
+    },
+    "450": {
+        "code": "2603D1",
+        "name": "[Time-limited] Torpedo Squadron Expedition Operation!",
+        "desc": "Complete Expeditions 05, 12, 09, A1 and 14.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either eight Development Materials OR six Buckets OR two Irako\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a New Model Armament Materials"
+    },
+    "720": {
+        "code": "2603G4",
+        "name": "[Time-limited] Yuugumo-class Modernization Mission!",
+        "desc": "Have 24 Development Materials. Modernize a Yuugumo-class DD using 3 CA(V) three times.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either +10 Equipment Slots OR three Medals OR three New Model Artillery Armament Materials\n\u00B6Second choice: Either 2000 Steel OR a New Model Aircraft Blueprint OR six Submarine Supply Materials"
     },
     "932": {
         "code": "2204B1",

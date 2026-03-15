@@ -809,16 +809,16 @@
 
 	"MasterShipPageTitle" : "함선도감",
 
-	"MasterShipNextRemodelLabel"   : " 다음 개장",
+	"MasterShipNextRemodelLabel"   : "다음 개장",
 	"MasterShipOtherFormsLabel"    : "다른 개장",
-	"MasterShipSeasonalCgsLabel"   : "한정 그래픽",
+	"MasterShipSeasonalCgsLabel"   : "한정 일러스트",
 	"MasterShipScrapValueLabel"    : "해체 자재 수치",
 	"MasterShipModernizationLabel" : "근대화 수치",
 	"MasterShipConsumptionLabel"   : "최대 소비량",
-	"MasterShipStatsAtLevelLabel"  : "Lv 스테이터스.",
+	"MasterShipStatsAtLevelLabel"  : "Lv 스테이터스",
 	"MasterShipEquippableLabel"    : "장착가능한 장비",
 	"MasterShipExSlotLabel"        : "보강증설:",
-	"MasterShipAaciLabel"          : "대공 컷인 사격 수치",
+	"MasterShipAaciLabel"          : "대공컷인 사격 수치",
 	"MasterShipAaciType"           : "종별",
 	"MasterShipAaciFixed"          : "고정 보너스",
 	"MasterShipAaciModifier"       : "변동 보너스",
@@ -833,6 +833,8 @@
 
 
 	"MasterGearPageTitle" : "장비도감",
+	"MasterGearEquippableLabel" : "장착 가능/불가능한 함종・함선:",
+	"MasterGearStockShipsLabel" : "초기 장비함과 해당 개장 레벨:",
 
 
 	"Dummy" : "Dummy"

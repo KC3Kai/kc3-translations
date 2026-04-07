@@ -4108,16 +4108,28 @@
         "memo": "\u27a3Rewards a Furniture Fairy and either six Buckets OR three Type 3 Depth Charge Projectors OR three Underway Replenishments"
     },
     "941": {
-        "code": "2103LQ2",
-        "name": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
-        "desc": "Sortie a CL/CT/AS as flagship and 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes twice each.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Type 3 Active Sonar OR a Type 3 Depth Charge Projector OR five Development Materials\n\u00B6Second choice: Either two Type 95 Depth Charges OR two Irako OR a Furniture Fairy"
+        "code": "2604B1",
+        "name": "[Spring] Springtime Coastal Patrol Stroll! 2026",
+        "desc": "Sortie an AS/CT/DD as flagship and up to 4(!) DD/DE/SS(V) to [W1-2], [W1-3], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a \u26052 Type 3 Active Sonar OR two Screws OR five Development Materials\n\u00B6Second choice: Either a Medal OR two Irako OR a Furniture Fairy"
     },
     "942": {
-        "code": "2104LQ1",
-        "name": "[8th Anniversary-Limited] Catalina Festival",
-        "desc": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a PBY-5A Catalina OR twenty-eight Development Materials OR eight Tenzans\n\u00B6Second choice: Either a PBY-5A Catalina OR a Prototype Flight Deck Catapult OR eight Screws"
+        "code": "2604B2",
+        "name": "[Spring] Continued Springtime Coastal Patrol Stroll!",
+        "desc": "Sortie any 2 of Fubuki, Yuugumo, Uzuki, Murasame, Amatsukaze, Jingei, Chougei and Heian Maru as flagship and second ship, and up to 4 additional ships to [W2-3], [W2-5] and [W3-5]. A-Rank+ each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either five Buckets OR two New Model Rocket Development Materials OR ten Development Materials\n\u00B6Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR three Special Aviation Rations"
+    },
+    "1011": {
+        "code": "2604B3",
+        "name": "[First Striking Force] Sortie to the Southwest Islands Defense Battle!",
+        "desc": "Sortie Yamato as flagship, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo to [W1-4], [W2-1], [W2-2] and [W2-5]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either thirtysix Development Materials OR three Medals OR an Action Report\n\u00B6Second choice: Either six New Model Armament Materials OR a \u26052 15m Duplex Rangefinder Kai + Type 21 Radar Kai 2 + Skilled Fire Direction Center OR two Prototype Flight Deck Catapults"
+    },
+    "1165": {
+        "code": "2604F1",
+        "name": "[First Striking Force] Prepare for Sortie!",
+        "desc": "Have 300 Development Materials and 500 Fuel. Set Yamato as secretary and Yahagi as second ship with any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in your fleet. Scrap 4 15.2cm Single Gun Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either 320 Development Materials OR four New Model Armament Materials OR a Prototype Flight Deck Catapult\n\u00B6Second choice: Either two Emergency Repair Goddesses OR two Reinforcement Expansions OR a Blueprint"
     },
     "971": {
         "code": "2504B1",
@@ -4172,12 +4184,6 @@
         "name": "[Anniversary] Special Aviation Arsenal",
         "desc": "Have 48 Development Materials, three New Model Aviation Armament Materials and a Skilled Crew Member. Set Hiryuu Kai Ni or Houshou Kai Ni+ as secretary with a \u26058+ Shiden Kai 2 in her first slot, other slots must be empty. Scrap 8 Shiden Model 11 and a Type 2 Two-seat Fighter Toryuu Model C.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR five Screws OR a Ne-Type Engine\n\u00B6Second choice: Either a \u26052 Prototype Shuusui OR a \u26053 Prototype Keiun (Carrier-based Reconnaissance Model) OR a Prototype Shinden (Land-based Fighter)"
-    },
-    "1011": {
-        "code": "2405B2",
-        "name": "Weekly [Limited Time] Coastal Defense!",
-        "desc": "Sortie 3 DE (one as flagship) and up to 3 additional ships to [W1-1], [W1-2], [W1-3], [W1-5] and [W2-1]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Irako OR a Mamiya OR seven Development Materials\n\u00B6Second choice: Either eight Buckets OR two New Model Armament Materials OR a Medal"
     },
     "1030": {
         "code": "2505B1",

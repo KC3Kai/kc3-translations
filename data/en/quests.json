@@ -1833,6 +1833,12 @@
         "desc": "Sortie Tamanami Kai Ni as flagship, Fujinami and up to 4 additional ships to [W2-3], [W2-5], [W4-5], [W5-5] and [W6-3]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR eightyeight Development Materials OR a Prototype Flight Deck Catapult\n\u00B6Second choice: Either a Torpedo Squadron Skilled Lookouts OR a 12.7cm Twin Gun Mount Model D Kai 3 OR a Type 3 Depth Charge Projector Kai"
     },
+    "1047": {
+        "code": "B216",
+        "name": "Suzunami Kai Ni, Weigh Anchor from Rabaul!",
+        "desc": "Sortie Suzunami Kai Ni+ as flagship, any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami, and up to 3 additional ships to [W5-4], [W5-5] and [W5-6-Z]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Reinforcement Expansion OR +4 Equipment Slots OR four Arsenal Resource\n\u00B6Second choice: Either four New Model Armament Materials OR a 25mm Twin Autocannon Mount (Skilled Machine Gunner Squadron) OR two Action Reports"
+    },
 
 
 
@@ -3727,7 +3733,7 @@
     "1160": {
         "code": "F138",
         "name": "Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
-        "desc": "Have 2 New Model Aviation Armament Materials and a \u2605max Prototype Shinden (Land-based Fighter). Set Hiryuu Kai Ni+ as secretary with any 3 of Tamanami Kai Ni, Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni. Scrap 5 Type 0 Fighter Model 52 and 5 Shiden Kai 2.",
+        "desc": "Have 2 New Model Aviation Armament Materials and a \u2605max Prototype Shinden (Land-based Fighter). Set Hiryuu Kai Ni+ as secretary with any 3 of Tamanami Kai Ni, Suzunami Kai Ni+, Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni. Scrap 5 Type 0 Fighter Model 52 and 5 Shiden Kai 2.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards a Shinden Kai 2 (Carrier-based Fighter Model Kai 2)"
     },
     "1161": {
@@ -4157,7 +4163,7 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either thirteen Development Materials OR a Medal\n\u00B6Second choice: Either two Mamiya OR five Screws OR thirteen Buckets"
     },
     "972": {
-        "code": "2504B5",
+        "code": "2604B5",
         "name": "[Anniversary] CarDiv 1 Will Not Waver!",
         "desc": "Sortie either Akagi and Kaga OR Shoukaku and Zuikaku as flagship and second ship, and up to 4 additional ships to [W2-3], [W2-4], [W5-2] and [W5-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Blueprint OR thirteen Screws OR an Action Report\n\u00B6Second choice: Either six Arsenal Resources OR a Prototype Flight Deck Catapult OR three Latest Overseas Warship Technology"
@@ -4207,7 +4213,7 @@
     "1136": {
         "code": "2604F3",
         "name": "[Anniversary] Naval Air Technical Arsenal Research and Development",
-        "desc": "Have 50 Development Materials, 2 Arsenal Resources and a Skilled Crew Member. Set Houshou Kai Ni+ or Hiryuu Kai San as secretary with a >> Type 0 Fighter Model 21 (Skilled) in her first slot. Scrap 6 Shiden Model 11 and 2 Swordfishes.",
+        "desc": "Have 50 Development Materials, 2 Arsenal Resources and a Skilled Crew Member. Set Houshou Kai Ni+ or Hiryuu Kai San as secretary with a >> Type 0 Fighter Model 21 (Skilled) in her first slot. Scrap 6 Shiden Model 11 and 2 Swordfish.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either twenty Arsenal Resources OR two Ne-Type Engines OR 400 Development Materials\n\u00B6Second choice: Either two Prototype Flight Deck Catapults OR eight Latest Overseas Warship Technology OR a Do 217 K-2 + Fritz-X"
     },
     "1030": {
@@ -4238,49 +4244,49 @@
         "code": "2605F2",
         "name": "[Time-limited] Iris Festival Arsenal II",
         "desc": "Have 2 Arsenal Resources, 155 Development Materials, 550 Fuel and 550 Ammo. Set any 2 of Yamashio Maru Kai, Kaiboukan No.4 and Kaiboukan No.30 as secretary and second ship. Scrap 5 >> Type 97 Torpedo Bombers.",
-        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Medals OR +5 Equipment Slots OR two New Model Artillery Armament Materials\n\u00B6Second choice: Either two Swordfishes OR a \u26052 Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR 210 Development Materials"
-    },
-    "367": {
-        "code": "2505C1",
-        "name": "Daily [Rainy Season] Exercises in the Rain!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 DE and up to 4 additional ships, or 4 DD and up to 2 additional ships.",
-        "memo": "\u27a3Rewards a Teru Teru Bouzu"
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either two Medals OR +5 Equipment Slots OR two New Model Artillery Armament Materials\n\u00B6Second choice: Either two Swordfish OR a \u26052 Prototype Type 97 Torpedo Bomber Kai Type 3 Model E (w/ Type 6 Airborne Radar Kai) OR 210 Development Materials"
     },
     "953": {
-        "code": "2505B2",
-        "name": "Weekly [Rainy Season] Defenses of the Nansei Islands in the Rain!",
-        "desc": "Sortie a CL(T)/CT/CA(V) as flagship, an AV, a DD, a DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
-        "memo": "\u27a3Rewards two Teru Teru Bouzu and either five Buckets OR six Development Materials OR a Type 3 Fighter Hien"
+        "code": "2605B2",
+        "name": "Weekly [Rainy Season] Rainy Nansei Islands Defense 2026",
+        "desc": "Sortie 2 DE or 2 AV as flagship and second ship, 2 DD and up to 2 additional ships to [W1-2], [W1-4], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards two Teru Teru Bouzu and either six Buckets OR eight Flamethrowers OR a Latest Overseas Warship Technology"
     },
     "954": {
-        "code": "2505B3",
-        "name": "Weekly [Rainy Season] Maritime Escort Strengthening 2025",
-        "desc": "Sortie a DD as flagship, 2 DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank each boss node. Reach [W1-6-N] twice.",
+        "code": "2605B3",
+        "name": "Weekly [Rainy Season] Rainy Maritime Escort Strengthening 2026",
+        "desc": "Sortie a CVL as flagship, 2 DD and up to 3 additional ships to [W1-3], [W1-5], [W2-3], [W7-4] and [W1-6]. A-Rank+ each boss node. Reach [W1-6-N] three times.",
         "memo": "\u27a3Rewards three Teru Teru Bouzu and either a Medal OR a Mamiya OR ten Development Materials"
     },
     "955": {
-        "code": "2505B4",
-        "name": "Monthly [Rainy Season] Western Waters Joint Operation 2025",
-        "desc": "Sortie a CV(L/B), 2 CA(V) or 2 Akizuki-class, and up to 3 additional ships to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank each boss node.",
-        "memo": "\u27a3Rewards four Teru Teru Bouzu and either 440 Ranking Points OR twenty Development Materials OR two Medals"
+        "code": "2605B4",
+        "name": "Monthly [Rainy Season] Strike the Southern Counterattack: Operation Watchtower!",
+        "desc": "Sortie an (F)BB(V), 2 CA(V) or 2 Yuugumo-class, and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4], [W5-5] and [W5-6-Z]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards five Teru Teru Bouzu and either 500 Ranking Points OR thirty Development Materials OR three Latest Overseas Warship Technology"
     },
     "1031": {
-        "code": "2505B5",
-        "name": "[Time-limited] Active Combat Patrol Operation in the Northern Seas",
-        "desc": "Sortie any 3 of Minneapolis, Tuscaloosa, Heywood L.E., Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki, one as flagship, and up to 3 additional ships to [W3-1], [W3-2] and [W3-5]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either twentyfour Buckets OR a Blueprint OR four Mamiya\n\u00B6Second choice: Either four Latest Overseas Warship Technology OR eightyeight Development Materials OR a Prototype Flight Deck Catapult"
+        "code": "2605B5",
+        "name": "[Early Summer] Northern Sea Combat Patrol Operation 2026",
+        "desc": "Sortie any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi, one as flagship, and up to 3 additional ships to [W3-1], [W3-2] and [W3-5]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either twentyfour Buckets OR thirtytwo Development Materials OR four Mamiya\n\u00B6Second choice: Either four Latest Overseas Warship Technology OR four New Model Armament Materials OR a Blueprint"
     },
     "1032": {
-        "code": "2505B6",
-        "name": "[Time-limited] Active Operation of the Elite Carrier Task Force",
-        "desc": "Sortie 2 Lv.90+ CV(L/B), 2 Lv.90+ DD and up to 2 additional ships to [W1-4], [W2-5], [W3-5] and [W5-2]. S-Rank each boss node twice.",
-        "memo": "The additional ships can be any level.\n\u27a3Rewards:\n\u00B6First choice: Either four New Model Aviation Armament Materials OR a Prototype Flight Deck Catapult OR a New Technology Aircraft Blueprint\n\u00B6Second choice: Either four New Model Armament Materials OR six Latest Overseas Warship Technology OR two Blueprints"
+        "code": "2605B6",
+        "name": "[Early Summer] Surface Task Force Operational Deployment 2026",
+        "desc": "Sortie 2 Lv.88+ (F)BB(V), a Lv.88+ CL, 2 Lv.88+ DD and up to 1 additional ship to [W1-4], [W2-5], [W3-5] and [W4-5]. S-Rank each boss node twice.",
+        "memo": "The additional ship can be any level.\n\u27a3Rewards:\n\u00B6First choice: Either four New Model Artillery Armament Materials OR three New Model Armament Materials OR eightyeight Flamethrowers\n\u00B6Second choice: Either five Latest Overseas Warship Technology OR eightyeight Development Materials OR a Prototype Flight Deck Catapult"
+    },
+    "367": {
+        "code": "2605C1",
+        "name": "Daily [Rainy Season] Exercises in the Rain 2026",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 3 DE and up to 3 additional ships, or 5 DD and up to 1 additional ship.",
+        "memo": "\u27a3Rewards a Development Material and a Teru Teru Bouzu"
     },
     "1150": {
-        "code": "2505F2",
-        "name": "[Time-limited] The Naval Arsenal Reorganization Operation Begins!",
-        "desc": "Have 30 Furniture Boxes (Small), 12 Type 99 Dive Bombers and 12 Type 97 Torpedo Bombers. Scrap 26 Medium Caliber Main Guns, 20 Large Caliber Main Guns and 10 Secondary Guns.",
-        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a New Model Aerial Armament Materials OR a Medal\n\u00B6Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR a Medal"
+        "code": "2605F3",
+        "name": "[Early Summer] Naval Arsenal Reorganization and Restructuring 2026",
+        "desc": "Have 10 12.7cm Twin High-angle Gun Mounts. Scrap 20 Medium Caliber Main Guns, 20 Large Caliber Main Guns, 10 Secondary Guns and 10 >> Type 0 Reconnaissance Seaplanes.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either a Furniture Fairy OR a Reinforcement Expansion OR +3 Equipment Slots\n\u00B6Second choice: Either two \u26054 12.7cm Twin High-angle Gun Mount (Late Model) OR two \u26054 Type 98 Reconnaissance Seaplane (Night Recon) OR two New Model Armament Materials"
     },
     "1034": {
         "code": "2506B1",

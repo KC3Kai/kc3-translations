@@ -2039,7 +2039,7 @@
     "875": {
         "code": "Bq6",
         "name": "Quarterly [W5-4]",
-        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai/Kai Ni, Asashimo Kai/Kai Ni or Okinami Kai/Kai Ni, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice.",
+        "desc": "Sortie Naganami Kai Ni+, one of Takanami Kai+, Asashimo Kai+ or Okinami Kai+, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice.",
         "memo": "This quest resets on the first quest reset of March, June, September and December.\n\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box"
     },
     "888": {
@@ -2336,10 +2336,10 @@
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either three Irako OR two Type 2 Depth Charges\n\u00B6Second choice: Either a Reinforcement Expansion OR a Medal"
     },
     "326": {
-        "code": "Cs6",
+        "code": "Cs7",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR two Irako\n\u00B6Second choice: Either a Present Box OR a Repair Team OR two 25mm Twin Autocannon Mount"
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Mamiya OR eight Development Materials\n\u00B6Second choice: Either a Present Box OR an Emergency Repair Personnel OR a Daihatsu Landing Craft"
     },
     "327": {
         "code": "C25",
@@ -4299,6 +4299,36 @@
         "name": "Monthly [Time-limited] Summer Night in Solomon",
         "desc": "Sortie Noshiro or Atlanta as flagship, 3 DD and up to 2 additional ships OR Richard P. Leary as flagship, 2 DD and up to 3 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank each boss node.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either six Buckets OR two Ryuusei Kai OR twelve Development Materials\n\u00B6Second choice: Either two Latest Overseas Warship Technology OR two Medals OR nine Development Materials"
+    },
+    "199": {
+        "code": "2606A1",
+        "name": "Monthly [Time-limited] 31st Squadron, Special Operations Formation!",
+        "desc": "Have any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki in your fleet.",
+        "memo": "In the next update, the last 4 ships will be replaced with 2 different ships.\n\u27a3Rewards three Buckets and either three Combat Rations OR an Emergency Repair Goddess"
+    },
+    "1048": {
+        "code": "2606B1",
+        "name": "Monthly [Time-limited] Strategic Logistics Supplies, Emergency Transport!",
+        "desc": "Have 2200 Ammo and 1800 Bauxite. Sortie an LHA/AO/AV/BBV as flagship, 4 DD/DE and up to 1 additional ship to [W1-3] and [W1-4]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 3000 Ammo OR 3000 Fuel OR 2400 Bauxite\n\u00B6Second choice: Either five Development Materials OR 3600 Steel OR +1 Equipment Slot"
+    },
+    "1049": {
+        "code": "2606B2",
+        "name": "Monthly [Time-limited] Strategic Logistics Supplies, Extra Transport!",
+        "desc": "Have 2400 Ammo and 2400 Bauxite. Sortie an LHA/AO as flagship, 3 DD/DE and up to 2 additional ships to [W2-3] and [W7-5-Q]. A-Rank+ each boss node.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either 4800 Ammo OR 4800 Fuel OR 4000 Bauxite\n\u00B6Second choice: Either +2 Equipment Slots OR 4000 Steel OR an Arsenal Resource"
+    },
+    "382": {
+        "code": "2606C1",
+        "name": "Monthly [Time-limited] 31st Squadron, Emergency Exercises!",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki, and up to 1 additional ship.",
+        "memo": "In the next update, the last 4 ships will be replaced with 2 different ships.\n\u27a3Rewards:\n\u00B6First choice: Either three Development Materials OR a Screw OR +1 Equipment Slot\n\u00B6Second choice: Either two 10cm Twin High-angle Gun Mount OR two Screws OR 2900 Fuel"
+    },
+    "383": {
+        "code": "2606C2",
+        "name": "Weekly [Time-limited] French Fleet, Special Exercises!",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using 3 French ships and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either an Underway Replenishment OR three Development Materials OR 970 Fuel\n\u00B6Second choice: Either three Buckets OR a Screw OR +1 Equipment Slot"
     },
     "992": {
         "code": "2307B1",

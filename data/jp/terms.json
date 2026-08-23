@@ -401,7 +401,7 @@
 	"SettingsRequestVerifierExpedFleetSupportIdle"    : "遠征に支援艦隊を確認",
 	"SettingsRequestVerifierExpedFleetSupportIdleTip" : "支援遠征以外の遠征に向かわせる時に艦隊の編成が支援艦隊でよく使われるものですか？",
 	"SettingsRequestVerifierShipDestroy"    : "解体に在籍艦を確認",
-	"SettingsRequestVerifierShipDestroyTip" : "誤解体防止のため、解体しようとする艦娘はその名の中で在籍最後の一名でありますか？改造艦も同じ名のもとにカウントされます。",
+	"SettingsRequestVerifierShipDestroyTip" : "誤解体防止のため、解体(または素材として消費)しようとする艦娘はその名の中で在籍最後の一名でありますか？改造艦も同じ名のもとにカウントされます。",
 
 	"SettingsAPIGameScreen" : "ゲーム画面のカスタム",
 	"SettingsQuestOverlay" : "画面に任務翻訳(他の言語用)",

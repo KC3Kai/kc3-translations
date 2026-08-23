@@ -1125,8 +1125,8 @@
 	"RequestVerifierSortieShipHpThresholdMsg"      : "・耐久値低下艦: {0}",
 	"RequestVerifierSortieShipMoraleMsg"           : "・疲労値過度艦: {0}",
 	"RequestVerifierSortieShipUnsuppliedMsg"       : "・未補給出撃艦: {0}",
-	"RequestVerifierSortieShipUntagMsg"            : "・札未付与艦　: {0}",
-	"RequestVerifierSortieLbasUnsuppliedMsg"       : "・未補給基地　: {0}",
+	"RequestVerifierSortieShipUntagMsg"            : "・札の未付与艦: {0}",
+	"RequestVerifierSortieLbasUnsuppliedMsg"       : "・未補給航空隊: {0}",
 	"RequestVerifierSortieFleetStrikeForceIdleMsg" : "・未使用遊撃部隊あり？",
 	"RequestVerifierSortieFleetCombinedIdleMsg"    : "・未使用連合艦隊あり？",
 	"RequestVerifierSortieFleet2BlockedMsg"        : "・第二艦隊出撃禁止？",
@@ -1135,7 +1135,7 @@
 	"RequestVerifierExpedShipUnsuppliedMsg"        : "・未補給遠征艦: {0}",
 	"RequestVerifierExpedFleetCombinedIdleMsg"     : "・未使用連合艦隊あり？",
 	"RequestVerifierExpedFleetSupportIdleMsg"      : "・未使用支援艦隊あり？",
-	"RequestVerifierShipDestroyMsg"                : "・最後の在籍艦：{0}",
+	"RequestVerifierShipDestroyMsg"                : "・同名最後の在籍艦: {0}",
 
 	"Dummy" : "ダミー"
 

@@ -374,12 +374,16 @@
 	"SettingsRequestVerifierHpTaiha"  : "大破",
 	"SettingsRequestVerifierHpChuuha" : "中破",
 	"SettingsRequestVerifierHpShouha" : "小破",
+	"SettingsRequestVerifierSortieShipMoraleThreshold"    : "艦娘の疲労度を確認",
+	"SettingsRequestVerifierSortieShipMoraleThresholdTip" : "出撃時に指定のコンディション値より低いの艦娘が艦隊に含まれますか？　0に設定すればこのチェックを無効になります。",
 	"SettingsRequestVerifierSortieShipUnsupplied"    : "艦娘の補給状態を確認",
 	"SettingsRequestVerifierSortieShipUnsuppliedTip" : "出撃時に艦隊の艦娘全員がまだ補給されてませんか？",
 	"SettingsRequestVerifierSortieShipUntag"    : "札未付与の艦娘を確認",
 	"SettingsRequestVerifierSortieShipUntagTip" : "イベントマップ出撃時に艦隊にまだ識別札付与されてない艦娘がいますか？誤札防止のためです、実際問題なければ確認時にOK押せばいいです。",
-	"SettingsRequestVerifierSortieLbasUnsupplied"    : "基地航空隊の補給を確認",
-	"SettingsRequestVerifierSortieLbasUnsuppliedTip" : "出撃時に補給し忘れの基地航空隊がありますか？",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortie"    : "出撃基地航空隊の補給を確認",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortieTip" : "艦隊出撃時に補給し忘れの「出撃」札の基地航空隊がありますか？",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefense": "防空基地航空隊の補給を確認",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefenseTip": "艦隊出撃時に補給し忘れの「防空」札の基地航空隊がありますか？",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdle"    : "未使用遊撃部隊を確認",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdleTip" : "イベントマップ出撃時に第三艦隊に遊撃部隊が組まれてるのに他の艦隊を使用としていますか？",
 	"SettingsRequestVerifierSortieFleetCombinedIdle"    : "未使用連合艦隊を確認",
@@ -394,6 +398,10 @@
 	"SettingsRequestVerifierExpedShipUnsuppliedTip" : "遠征時に艦隊の艦娘全員がまだ補給されてませんか？",
 	"SettingsRequestVerifierExpedFleetCombinedIdle"    : "遠征に連合艦隊を確認",
 	"SettingsRequestVerifierExpedFleetCombinedIdleTip" : "第一艦隊と連合艦隊が組まれそうな編成なのに第二艦隊を遠征させようとしていますか？",
+	"SettingsRequestVerifierExpedFleetSupportIdle"    : "遠征に支援艦隊を確認",
+	"SettingsRequestVerifierExpedFleetSupportIdleTip" : "支援遠征以外の遠征に向かわせる時に艦隊の編成が支援艦隊でよく使われるものですか？",
+	"SettingsRequestVerifierShipDestroy"    : "解体に在籍艦を確認",
+	"SettingsRequestVerifierShipDestroyTip" : "誤解体防止のため、解体しようとする艦娘はその名の中で在籍最後の一名でありますか？改造艦も同じ名のもとにカウントされます。",
 
 	"SettingsAPIGameScreen" : "ゲーム画面のカスタム",
 	"SettingsQuestOverlay" : "画面に任務翻訳(他の言語用)",
@@ -1115,6 +1123,7 @@
 
 	"RequestVerifierConfirmTitle" : "誤操作防止のため以下の問題検知されました。そのまま続けますか？\nキャンセルするとゲームが猫ります、その後再起動してください。\n",
 	"RequestVerifierSortieShipHpThresholdMsg"      : "・耐久値低下艦: {0}",
+	"RequestVerifierSortieShipMoraleMsg"           : "・疲労値過度艦: {0}",
 	"RequestVerifierSortieShipUnsuppliedMsg"       : "・未補給出撃艦: {0}",
 	"RequestVerifierSortieShipUntagMsg"            : "・札未付与艦　: {0}",
 	"RequestVerifierSortieLbasUnsuppliedMsg"       : "・未補給基地　: {0}",
@@ -1125,6 +1134,8 @@
 	"RequestVerifierSortieFleet4BlockedMsg"        : "・第四艦隊出撃禁止？",
 	"RequestVerifierExpedShipUnsuppliedMsg"        : "・未補給遠征艦: {0}",
 	"RequestVerifierExpedFleetCombinedIdleMsg"     : "・未使用連合艦隊あり？",
+	"RequestVerifierExpedFleetSupportIdleMsg"      : "・未使用支援艦隊あり？",
+	"RequestVerifierShipDestroyMsg"                : "・最後の在籍艦：{0}",
 
 	"Dummy" : "ダミー"
 

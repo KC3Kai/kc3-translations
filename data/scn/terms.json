@@ -406,7 +406,7 @@
 	"SettingsIdleWarnStartAt": "进入闲置状态延时",
 	"SettingsRscCapWarnFrom" : "警示资源已达到上限的",
 
-	"SettingsTaihaAlert" : "大破警报",
+	"SettingsTaihaAlert" : "大破警报与进击防止",
 	"SettingsScreenBlur" : "屏幕模糊",
 	"SettingsScreenBlood" : "屏幕血迹",
 	"SettingsAppearOnScreenshots" : "显示在截图中",
@@ -439,12 +439,16 @@
 	"SettingsRequestVerifierHpTaiha"  : "大破",
 	"SettingsRequestVerifierHpChuuha" : "中破",
 	"SettingsRequestVerifierHpShouha" : "小破",
+	"SettingsRequestVerifierSortieShipMoraleThreshold" : "检查舰娘士气值",
+	"SettingsRequestVerifierSortieShipMoraleThresholdTip" : "出击时检查舰队中是否含有士气低于输入数值的舰娘。输入0时该检查无效。",
 	"SettingsRequestVerifierSortieShipUnsupplied" : "检查舰娘补给状态",
 	"SettingsRequestVerifierSortieShipUnsuppliedTip" : "出击时检查舰队中是否有未完成补给的舰娘。",
 	"SettingsRequestVerifierSortieShipUntag" : "检查未贴条舰娘",
 	"SettingsRequestVerifierSortieShipUntagTip" : "活动图出击时检查舰队中是否含有未被贴条的舰娘。如果确定可以出击贴新条，在弹出的确认框时选“确定”即可。",
-	"SettingsRequestVerifierSortieLbasUnsupplied" : "检查基地航空队补给状态",
-	"SettingsRequestVerifierSortieLbasUnsuppliedTip" : "出击时检查出击的基地航空队是否还没有完成补给。",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortie" : "检查出击基地补给状态",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortieTip" : "出击时检查设置为“出击”状态的基地航空队是否还没有完成补给。",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefense" : "检查防空基地补给状态",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefenseTip" : "出击时检查设置为“防空”状态的基地航空队是否还没有完成补给。",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdle" : "检查闲置游击部队",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdleTip" : "活动图出击时如果第3舰队是游击部队，检查出击舰队是否其它舰队。",
 	"SettingsRequestVerifierSortieFleetCombinedIdle" : "检查闲置联合舰队",
@@ -459,6 +463,10 @@
 	"SettingsRequestVerifierExpedShipUnsuppliedTip" : "远征时检查舰队中是否有未完成补给的舰娘。",
 	"SettingsRequestVerifierExpedFleetCombinedIdle" : "检查用联合舰队远征",
 	"SettingsRequestVerifierExpedFleetCombinedIdleTip" : "如果第1、第2舰队的编成似乎能组成联合舰队，检查是否在用第2舰队进行远征。",
+	"SettingsRequestVerifierExpedFleetSupportIdle" : "检查用支援舰队远征",
+	"SettingsRequestVerifierExpedFleetSupportIdleTip" : "如果舰队编成似乎能用于支援舰队，检查是否在用这样的舰队进行支援以外的通常远征。",
+	"SettingsRequestVerifierShipDestroy" : "检查拆除最后一号机",
+	"SettingsRequestVerifierShipDestroyTip" : "解体拆除时检查该舰娘是否为最后一号机。不同改造状态的舰娘视为同一舰娘的多号机。",
 
 	"SettingsAPIGameScreen" : "游戏界面功能",
 	"SettingsQuestOverlay" : "任务翻译",
@@ -1194,6 +1202,7 @@
 
 	"RequestVerifierConfirmTitle" : "发现以下问题可能是误操作所致。确定要继续吗？\n选择取消时游戏会猫，需要重启游戏。",
 	"RequestVerifierSortieShipHpThresholdMsg" : "HP过低的舰娘: {0}",
+	"RequestVerifierSortieShipMoraleMsg" : "士气过低舰娘: {0}",
 	"RequestVerifierSortieShipUnsuppliedMsg" : "未补给的舰娘: {0}",
 	"RequestVerifierSortieShipUntagMsg" : "未贴条的舰娘: {0}",
 	"RequestVerifierSortieLbasUnsuppliedMsg" : "未补给的中队: {0}",
@@ -1204,6 +1213,8 @@
 	"RequestVerifierSortieFleet4BlockedMsg" : "禁止第4舰队出击？",
 	"RequestVerifierExpedShipUnsuppliedMsg" : "未补给的舰娘: {0}",
 	"RequestVerifierExpedFleetCombinedIdleMsg" : "发现闲置的联合舰队？",
+	"RequestVerifierExpedFleetSupportIdleMsg" : "发现闲置的支援舰队？",
+	"RequestVerifierShipDestroyMsg" : "舰娘最后一号机：{0}",
 
 	"Dummy" : "Dummy"
 

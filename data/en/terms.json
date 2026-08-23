@@ -408,9 +408,9 @@
 	"SettingsRequestVerifierExpedFleetCombinedIdle": "Warn Combined Fleet on Expedition",
 	"SettingsRequestVerifierExpedFleetCombinedIdleTip": "Confirm when sending fleet 2 to an expedition while it could form a Combined Fleet with fleet 1.",
 	"SettingsRequestVerifierExpedFleetSupportIdle": "Warn Support Fleet on Expedition",
-	"SettingsRequestVerifierExpedFleetSupportIdleTip": "Confirm when sending a fleet to an expedition while its composition could form a Support Fleet.",
+	"SettingsRequestVerifierExpedFleetSupportIdleTip": "Confirm when sending a fleet to a regular expedition while its composition could form a Support Fleet.",
 	"SettingsRequestVerifierShipDestroy": "Warn Destroying Last Ship",
-	"SettingsRequestVerifierShipDestroyTip": "Confirm when destroying a ship if you have no other copy of the same ship class. Remodels count as the same ship.",
+	"SettingsRequestVerifierShipDestroyTip": "Confirm when destroying a ship if you have no other copy of the same ship name. Remodels count as the same ship.",
 	
 	"SettingsAPIGameScreen" : "Game Window and Screen Overlays",
 	"SettingsQuestOverlay" : "Quest Translations Overlay",

@@ -380,6 +380,8 @@
 	"SettingsRequestVerifierShipUnlockIgnoreTip": "Only check locked ships for the warnings below; unlocked ships are skipped.",
 	"SettingsRequestVerifierSortieShipHpThreshold": "Warn Ships by HP",
 	"SettingsRequestVerifierSortieShipHpThresholdTip": "Confirm before sortie if any checked ship's HP is at or below the selected level.",
+	"SettingsRequestVerifierSortieShipMoraleThreshold": "Warn Ships Morale",
+	"SettingsRequestVerifierSortieShipMoraleThresholdTip": "Confirm before sortie if any checked ship's morale is below the set value. Set to 0 to disable this check.",
 	"SettingsRequestVerifierHpTaiha": "Taiha",
 	"SettingsRequestVerifierHpChuuha": "Chuuha",
 	"SettingsRequestVerifierHpShouha": "Shouha",
@@ -387,8 +389,10 @@
 	"SettingsRequestVerifierSortieShipUnsuppliedTip": "Confirm before sortie if any checked ship needs supply.",
 	"SettingsRequestVerifierSortieShipUntag": "Warn Untagged Ships",
 	"SettingsRequestVerifierSortieShipUntagTip": "Confirm before event sorties if any checked ship has no event tag.",
-	"SettingsRequestVerifierSortieLbasUnsupplied": "Warn Unsupplied LBAS",
-	"SettingsRequestVerifierSortieLbasUnsuppliedTip": "Confirm before sortie if a Land Base on the sortieing map needs its planes supplied.",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortie": "Warn Unsupplied LBAS (Sortie)",
+	"SettingsRequestVerifierSortieLbasUnsuppliedSortieTip": "Confirm before sortie if a Land Base set to sortie on this map needs its planes supplied.",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefense": "Warn Unsupplied LBAS (Defense)",
+	"SettingsRequestVerifierSortieLbasUnsuppliedDefenseTip": "Confirm before sortie if a Land Base set to defense on this map needs its planes supplied.",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdle": "Warn Idle Striking Force",
 	"SettingsRequestVerifierSortieFleetStrikeForceIdleTip": "Confirm when sortieing another fleet while fleet 3 is a full 7-ship Strike Force.",
 	"SettingsRequestVerifierSortieFleetCombinedIdle": "Warn Idle Combined Fleet",
@@ -403,6 +407,10 @@
 	"SettingsRequestVerifierExpedShipUnsuppliedTip": "Confirm before expedition if any ship needs supply.",
 	"SettingsRequestVerifierExpedFleetCombinedIdle": "Warn Combined Fleet on Expedition",
 	"SettingsRequestVerifierExpedFleetCombinedIdleTip": "Confirm when sending fleet 2 to an expedition while it could form a Combined Fleet with fleet 1.",
+	"SettingsRequestVerifierExpedFleetSupportIdle": "Warn Support Fleet on Expedition",
+	"SettingsRequestVerifierExpedFleetSupportIdleTip": "Confirm when sending a fleet to an expedition while its composition could form a Support Fleet.",
+	"SettingsRequestVerifierShipDestroy": "Warn Destroying Last Ship",
+	"SettingsRequestVerifierShipDestroyTip": "Confirm when destroying a ship if you have no other copy of the same ship class. Remodels count as the same ship.",
 	
 	"SettingsAPIGameScreen" : "Game Window and Screen Overlays",
 	"SettingsQuestOverlay" : "Quest Translations Overlay",
@@ -1131,6 +1139,7 @@
 
 	"RequestVerifierConfirmTitle" : "Continue with following warnings?\nCancel will get a \"catbomb\", restart game afterward.",
 	"RequestVerifierSortieShipHpThresholdMsg" : "Damaged ships: {0}",
+	"RequestVerifierSortieShipMoraleMsg" : "Low morale ships: {0}",
 	"RequestVerifierSortieShipUnsuppliedMsg" : "Unsupplied ships: {0}",
 	"RequestVerifierSortieShipUntagMsg" : "Untagged ships: {0}",
 	"RequestVerifierSortieLbasUnsuppliedMsg" : "Unsupplied LBAS: {0}",
@@ -1141,6 +1150,8 @@
 	"RequestVerifierSortieFleet4BlockedMsg" : "Fleet 4 blocked",
 	"RequestVerifierExpedShipUnsuppliedMsg" : "Unsupplied ships: {0}",
 	"RequestVerifierExpedFleetCombinedIdleMsg" : "Idle Combined Fleet?",
+	"RequestVerifierExpedFleetSupportIdleMsg" : "Idle Support Fleet?",
+	"RequestVerifierShipDestroyMsg" : "Last copy of {0}",
 
 	"Dummy" : "Dummy"
 

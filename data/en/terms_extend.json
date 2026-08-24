@@ -852,6 +852,7 @@
 	"BattleHistoryToggleButtonEtip" : "Enemy",
 	"BattleHistoryToggleButtonCtip" : "Conditions",
 	"BattleHistoryToggleButtonAtip" : "Air Battle",
+
 	"BattleHistoryFleetLabelMain"        : "Main Fleet",
 	"BattleHistoryFleetLabelEscort"      : "Escort Fleet",
 	"BattleHistoryFleetLabelNodeSupport" : "Pre-boss Support",
@@ -866,6 +867,7 @@
 	"BattleHistoryFleetButtonJervisOr"      : "JervisOR",
 	"BattleHistoryFleetButtonJervisOrTip"   : "View fleets on external Fleet Hub",
 
+	"BattleHistoryNoRecordYetLabel" : "No available node recorded",
 	"BattleHistoryAirRaidTip" : "Air Battle: {3}\n{11:inferredEnemyAirPow}\n\nLand Base Damage: {0}\nLosses Incurred: {1}\nBauxite or Fuel lost: {2}\n\nEnemies Shot Down: {4}\nTB Remaining: {5}\nDB Remaining: {6}\nAnti-Bomber MVPs:\n\u2003Slot #1: {7}\n\u2003Slot #2: {8}\n\u2003Slot #3: {9}\n\u2003Slot #4: {10}",
 	"BattleHistoryHeavyAirRaidTip" : "Heavy Air Raid Interception result: {0}\nEnemy IDs: {1}",
 	"BattleHistoryFleetAndLbasCostTip" : "Fleet Cost: {0}\nPotential LBAS Cost: {1}",

@@ -433,7 +433,7 @@
 	"SettingsRequestVerifierEnabled" : "中断误操作请求",
 	"SettingsRequestVerifierEnabledTip" : "在实际点击出击或远征按钮触发网络请求时，进行下列设定项目的检查。如果在弹出的提示框中选择“取消”，就会中断网络请求，阻止误操作发生，防止误贴条或保存舰娘士气。但是游戏会立即进入猫错误画面，需要重新加载页面重启游戏。\n如果禁用该项，所有检查不会进行，当然也不会中断请求。",
 	"SettingsRequestVerifierShipUnlockIgnore" : "忽略未锁定的舰娘",
-	"SettingsRequestVerifierShipUnlockIgnoreTip" : "仅检查舰队中被锁定的舰娘。",
+	"SettingsRequestVerifierShipUnlockIgnoreTip" : "以下出击相关的检查项，仅检查舰队中被锁定的舰娘。",
 	"SettingsRequestVerifierSortieShipHpThreshold" : "检查舰娘HP耐久值",
 	"SettingsRequestVerifierSortieShipHpThresholdTip" : "出击时检查舰队中是否含有HP低于或等于以下状态的舰娘。",
 	"SettingsRequestVerifierHpTaiha"  : "大破",

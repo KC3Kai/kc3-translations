@@ -1839,6 +1839,12 @@
         "desc": "Sortie Suzunami Kai Ni+ as flagship, any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami, and up to 3 additional ships to [W5-4], [W5-5] and [W5-6-Z]. S-Rank each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Reinforcement Expansion OR +4 Equipment Slots OR four Arsenal Resource\n\u00B6Second choice: Either four New Model Armament Materials OR a 25mm Twin Autocannon Mount (Skilled Machine Gunner Squadron) OR two Action Reports"
     },
+    "1052": {
+        "code": "B217",
+        "name": "Remodeled Multi-Role Tactical Cruiser Kitakami Kai San, Sortieing!",
+        "desc": "Sortie Kitakami Kai San as flagship, any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi and Kashi, and up to 3 additional ships to [W1-3], [W2-4] and [W4-5]. S-Rank each boss node twice.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either a Reinforcement Expansion OR four Daihatsu Landing Craft OR a \u26055 61cm Quintuple (Oxygen) Torpedo Mount\n\u00B6Second choice: Either three Medals OR a \u26052 Toku Daihatsu Landing Craft + Chi-Ha OR a Type D Kouhyouteki Kai (Kouryuu Kai)"
+    },
 
 
 
@@ -2188,21 +2194,35 @@
         "name": "Annual Ukuru-class Sortie - May",
         "desc": "Sortie a Ukuru-class DE as flagship, 1 DE, and up to 2 additional DE to [W1-1], [W1-2] and [W1-5]. S-Rank [W1-1] boss node three times, A-Rank+ [W1-2] and [W1-5] twice.",
         "memo": "This quest resets on the first quest reset of May.\n\u203bUkuru-class Kaiboukan, Defend the Calm Seas!\n\u27a3Rewards:\n\u00B6First choice: Either 880 Fuel OR six Buckets OR a Furniture Fairy\n\u00B6Second choice: Either 16 Development Materials OR a 12cm Single High-angle Gun Mount Model E OR three Screws",
-        "trackingDesc": [ "{0} S-Rank [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-5]"]
+        "trackingDesc": [ "{0} S-Rank [W1-1]", "{0} A-Rank+ [W1-2]", "{0} A-Rank+ [W1-5]" ]
     },
     "1018": {
         "code": "By15",
         "name": "Annual BatDiv 3 Sortie - September",
         "desc": "Sortie Hiei, Kirishima, 2 DD, and up to 2 additional ships to [W5-1], [W5-3], [W5-4] and [W5-5]. A-Rank+ each boss node.",
         "memo": "This quest resets on the first quest reset of September.\n\u203bBatDiv 3 Second Platoon, Heading To Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either five 35.6cm Twin Gun Mounts OR two New Model Armament Materials OR five Screws\n\u00B6Second choice: Either two Medals OR 5500 Ammo OR an Action Report",
-        "trackingDesc": [ "{0} A-Rank+ [W5-1]", "{0} A-Rank+ [W5-3]", "{0} A-Rank+ [W5-4]", "{0} A-Rank+ [W5-5]"]
+        "trackingDesc": [ "{0} A-Rank+ [W5-1]", "{0} A-Rank+ [W5-3]", "{0} A-Rank+ [W5-4]", "{0} A-Rank+ [W5-5]" ]
     },
     "1045": {
         "code": "By16",
         "name": "Annual Fubuki Sortie - April",
         "desc": "Sortie Fubuki Kai San+ as flagship, a Fubuki-class DD as second ship and up to 4 additional ships to [W7-5-T], [W5-1], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
         "memo": "This quest resets on the first quest reset of April.\n\u203bFubuki Kai San, Sortieing! Please Watch Me!\n\u27a3Rewards:\n\u00B6First choice: Either five Arsenal Resources OR three Latest Overseas Warship Technology OR eightyeight Development Materials\n\u00B6Second choice: Either a \u26056 12.7cm Single High-angle Gun Mount Kai 2 OR a Prototype Type 23 Radar Kai 3 OR five Medals",
-        "trackingDesc": [ "{0} S-Rank [W7-5-T]", "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]", "{0} S-Rank [W5-5]"]
+        "trackingDesc": [ "{0} S-Rank [W7-5-T]", "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]", "{0} S-Rank [W5-5]" ]
+    },
+    "1050": {
+        "code": "By17",
+        "name": "Annual 9th Squadron Sortie - September",
+        "desc": "Sortie Kitakami Kai Ni+ and Ooi Kai Ni, one as flagship, 2 DD and up to 2 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "This quest resets on the first quest reset of September.\n\u203b9th Squadron, Weigh Anchor! Deploy to the Front Lines!\n\u27a3Rewards:\n\u00B6First choice: Either 1200 Ammo OR 1000 Bauxite OR five Buckets\n\u00B6Second choice: Either nine Development Materials OR a Medal OR two New Model Armament Materials",
+        "trackingDesc": [ "{0} S-Rank [W1-4]", "{0} S-Rank [W2-1]", "{0} S-Rank [W2-2]", "{0} S-Rank [W2-3]" ]
+    },
+    "1051": {
+        "code": "By18",
+        "name": "Annual Yamashiro Sortie - August",
+        "desc": "Sortie Yamashiro Kai Ni Ho as flagship, any one of Fusou and Shigure, any 2 of Mogami, Michishio, Asagumo and Yamagumo, and up to 2 additional ships to [W1-5], [W1-6], [W2-3], [W2-5] and [W4-3]. S-Rank each boss node. Reach [W1-6-N].",
+        "memo": "This quest resets on the first quest reset of August.\n\u203bRemodeled 1YB3H Flagship, Break Through the Enemy Lines!\n\u27a3Rewards:\n\u00B6First choice: Either 2500 Steel OR twelve Buckets OR a Hangar Expansion\n\u00B6Second choice: Either two Arsenal Resources OR two New Model Artillery Armament Materials OR two Medals",
+        "trackingDesc": [ "{0} S-Rank [W1-5]", "{0} Reach [W1-6-N]", "{0} S-Rank [W2-3]", "{0} S-Rank [W2-5]", "{0} S-Rank [W4-3]" ]
     },
 
 
@@ -2264,10 +2284,10 @@
         "desc": "Secure 4 victories in Exercises within the same day."
     },
     "313": {
-        "code": "Cs1",
+        "code": "Cs8",
         "name": "Mass Exercises for Fall",
         "desc": "Secure 8 victories in Exercises within the same day.",
-        "memo": "\u27a3Rewards a Mamiya and a Present Box"
+        "memo": "\u27a3Rewards a Mamiya and an Arsenal Resource"
     },
     "314": {
         "code": "Cs2",
@@ -3766,6 +3786,12 @@
         "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal three times within the same day. Failures count toward this.",
         "memo": "\u203bConcentrated Improvement of Equipment\n\u27a3Rewards three Screws and either two Screws OR six Development Materials"
     },
+    "1170": {
+        "code": "F143",
+        "name": "Development of Anti-Air Armament Utilizing Existing Equipment",
+        "desc": "Have 36 Development Materials, 750 Ammo and 8 Screws. Set Kitakami Kai Ni+ as secretary. Scrap 12 12.7cm Twin High-angle Gun Mounts, 8 8cm High-angle Guns and 4 25mm Triple Autocannon Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR a \u26053 12.7cm Single High-angle Gun Mount Kai 2 OR three New Model Aviation Armament Materials\n\u00B6Second choice: Either a \u26054 25mm Triple Autocannon Mount (Concentrated Deployment) OR a 12.7cm Single High-angle Gun Mount Kai 3 OR +5 Equipment Slots"
+    },
 
 
 
@@ -4371,6 +4397,18 @@
         "name": "[Time-limited] BatDiv 3 Emergency Deployment!",
         "desc": "Sortie any 2 Kongou-class ships and up to 4 additional ships to [W1-4], [W2-1], [W2-2] and [W4-2]. S-Rank each boss node.",
         "memo": "\u27a3Rewards furniture and either three 35.6cm Twin Gun Mount OR an Irako OR 3 Screws"
+    },
+    "384": {
+        "code": "2609C1",
+        "name": "[Time-limited] Autumn Festival Exercises with the Admiral!",
+        "desc": "Secure 3 victories in Exercises within the same day using any 4 of Akigumo, Akizuki, Ayanami, Shikinami, Shiratsuyu, Urakaze, Hamakaze, Naganami, Fujinami, Asashimo, Shirakumo, Oboro, Sazanami, Jingei, Chougei, Ooyodo and Jintsuu, and up to 2 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either two Development Materials OR two Flamethrowers\n\u00B6Second choice: Either an Arsenal Resource OR +1 Equipment Slot"
+    },
+    "385": {
+        "code": "2609C2",
+        "name": "[Time-limited] Autumn Festival Extra Exercises!",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using any 3 of Algérie, Vautour, Mogador, Béarn, Hie Maru, Heian Maru, Ootomari, Mutsu, South Dakota and Victorious, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either twelve Development Materials OR three Screws\n\u00B6Second choice: Either twentytwo Flamethrowers OR +3 Equipment Slots OR an Action Report"
     },
     "984": {
         "code": "2509B1",

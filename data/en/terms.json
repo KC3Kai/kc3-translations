@@ -946,6 +946,8 @@
 	"PanelToggleQuestComplete" : "Clicking this button marks the corresponding quest to be removed from the KC3\u6539 quest list.",
 	"PanelReloadQuotes" : "Check for internal quotes.json update if using a dev build",
 	"PanelReloadQuests" : "Check for internal quests.json update if using a dev build",
+	"PanelReloadIframe" : "Reload the game iframe",
+	"PanelReloadIframeConfirm" : "Reload the game iframe? An ongoing sortie will be lost.",
 	
 	"InferredFighterPower" : "Inferred Fighter Power: {0}\n\u2003AD> {1} / AP> {2} / AS\u2265 {3} / AS+\u2265 {4}",
 	"InferredPvPDisclaimer" : "\u2003PvP power higher due to proficiency and \u2605",

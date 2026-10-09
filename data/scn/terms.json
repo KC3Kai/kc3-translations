@@ -1052,6 +1052,8 @@
 	"PanelExportToKCDB" : "导出至编成图片生成器\n按住Ctrl或Meta键时导出至制空权模拟器\n按住Alt键复制数据到剪贴板",
 	"PanelReloadQuotes" : "重载字幕",
 	"PanelReloadQuests" : "重载任务元数据",
+	"PanelReloadIframe" : "重载游戏框架",
+	"PanelReloadIframeConfirm" : "立即重新加载内嵌框架快速重启游戏？\n如果重启后游戏猫了，则需要刷新整个游戏标签。",
 
 	"PanelWaitActions" : "正在等待游戏响应……",
 	"PanelErrorStorage" : "Chrome本地存储（LocalStorage）功能已禁用，KC3改需要此功能以正常运作。<a href=\"http://stackoverflow.com/a/26671889/483704\" target=\"_blank\">参照此链接启用功能</a>。",

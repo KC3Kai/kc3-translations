@@ -424,7 +424,7 @@
 	"SettingsPanelRequirement" : "Require Panel (Old mode)",
 	"SettingsDirectRefresh" : "In-page Refresh (Danger)",
 	"SettingsConfirmExit" : "Exit Confirmation",
-	"SettingsReloadIframeConfirmation" : "Iframe Reload Confirmation",
+	"SettingsReloadIframeConfirmation" : "Subframe Reload Confirmation",
 	"SettingsScreenMargin" : "Top Margin",
 	"SettingsBGColor" : "Background Color",
 	"SettingsBGColorDesc" : "See CSS background-color property",
@@ -942,7 +942,7 @@
 	
 	"PanelToggleSounds" : "Toggles in-game sound (F8)",
 	"PanelToggleAlert" : "Disables the taiha alert sound until the next API call (Shift+F8)",
-	"PanelScreenshot" : "Screenshot (F9)",
+	"PanelScreenshot" : "Take game screenshot (F9)",
 	"PanelFitWindow" : "Resizes the browser window to fit the game when not in full screen mode",
 	"PanelExportToKCDB" : "Export to the KCImgBuilder\nHolding Ctrl/Meta key export to AirSimulator\nHolding Alt key copy data to clipboard",
 	"PanelToggleQuestComplete" : "Clicking this button marks the corresponding quest to be removed from the KC3\u6539 quest list.",

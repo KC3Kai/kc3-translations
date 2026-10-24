@@ -472,6 +472,8 @@
 	"SettingsMuteGameTab" : "Mute Tab on Start",
 	"SettingsFocusGameTab" : "Focus Game if Required",
 	"SettingsFocusGameTabTip" : "This option shifts focus to the game window both when the first damage cut-in of a battle occurs and when a battle has ended. Please note that it will only work when the in-game home port sound option 'SE' is enabled. This option will still work if the game is muted out of game, such as by using the KC3 panel's mute toggle or by muting the browser's tab.",
+	"SettingsGameFps" : "Game Frame Rate",
+	"SettingsGameFpsTip" : "Sets the game update rate. 60 fps is the default. A higher rate makes motion smoother. This option changes the game client only. Reload the game after you change it. Use at your own risk.",
 	
 	"SubtitleDisplayBottom": "(Bottom) Fixed on bottom of game screen",
 	"SubtitleDisplayBelow": "(Below) Fixed right below the game screen",

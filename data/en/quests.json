@@ -3798,6 +3798,12 @@
         "desc": "Have 36 Development Materials, 750 Ammo and 8 Screws. Set Kitakami Kai Ni+ as secretary. Scrap 12 12.7cm Twin High-angle Gun Mounts, 8 8cm High-angle Guns and 4 25mm Triple Autocannon Mounts.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either three New Model Armament Materials OR a \u26053 12.7cm Single High-angle Gun Mount Kai 2 OR three New Model Aviation Armament Materials\n\u00B6Second choice: Either a \u26054 25mm Triple Autocannon Mount (Concentrated Deployment) OR a 12.7cm Single High-angle Gun Mount Kai 3 OR +5 Equipment Slots"
     },
+    "1172": {
+        "code": "F144",
+        "name": "Strengthening Night Battle Assault Equipment I",
+        "desc": "Have 60 Development Materials, 2 New Model Armament Materials and 2 Arsenal Resource. Set a flagship with 2 61cm Quintuple (Oxygen) Torpedo Mounts in her first and second slots, and a \u2605max 61cm Quadruple (Oxygen) Torpedo Mount in her third slot. Scrap 10 61cm Quadruple Torpedo Mounts.",
+        "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards 2 \u2605max 61cm Quintuple (Oxygen) Torpedo Mounts and either +6 Equipment Slots OR a \u26054 61cm Quadruple (Oxygen) Torpedo Mount Late Model OR twentyeight Flamethrowers"
+    },
 
 
 
@@ -4386,12 +4392,6 @@
         "desc": "Sortie Akigumo, Akishimo, Akizuki or Akitsushima as flagship and up to 5 additional ships to [W1-3], [W1-4], [W1-5] and [W2-1]. A-Rank+ each boss node twice.",
         "memo": "\u27a3Rewards:\n\u00B6First choice: Either +3 Equipment Slots OR 2400 Fuel OR two Screws\n\u00B6Second choice: Either thirty Development Materials OR two Medals OR +6 Equipment Slots"
     },
-    "381": {
-        "code": "2508C1",
-        "name": "Weekly [Time-limited] Akizuki-class Exercise Mission",
-        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 3 of Akizuki-class, Akigumo, Akishimo and Akitsushima, and up to 3 additional ships.",
-        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR two 25mm Single Autocannon Mounts OR +1 Equipment Slot\n\u00B6Second choice: Either four Buckets OR two Screws OR +2 Equipment Slots"
-    },
     "374": {
         "code": "2409C1",
         "name": "Weekly [Time-limited] DesDiv 32 Special Exercises!",
@@ -4493,6 +4493,18 @@
         "name": "[Halloween] Organizing Anti-Submarine Equipment! 2026",
         "desc": "Have 2 Pumpkins, 5 Type 3 Depth Charge Projectors and 30 Development Materials. Scrap 12 Type 94 Depth Charge Projectors, 8 Type 95 Depth Charges and 6 Type 93 Passive Sonars.",
         "memo": "\u2718Consumes the items and resources.\n\u27a3Rewards:\n\u00B6First choice: Either fortyfive Development Materials OR four Pumpkins OR ten Type 3 Active Sonars\n\u00B6Second choice: Either +15 Equipment Slots OR a \u26053 Type124 ASDIC OR three Latest Overseas Warship Technology"
+    },
+    "381": {
+        "code": "2611C1",
+        "name": "Weekly [Time-limited] Akizuki-class Exercise Mission 2026",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 3 of Akizuki-class, Akigumo, Akishimo and Akitsushima, and up to 3 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR two 25mm Single Autocannon Mounts OR an Arsenal Resource\n\u00B6Second choice: Either four Buckets OR two Screws OR +2 Equipment Slots"
+    },
+    "386": {
+        "code": "2611C2",
+        "name": "Weekly [Time-limited] Saury Festival Preparation Excercises!",
+        "desc": "Secure 3 S-Rank victories in Exercises within the same day using any 4 of Akebono, Amagiri, Murasame, Ooshio, Kumano Maru, Yamashio Maru, Kaiboukan No.4, Ranger and Heywood L. Edwards, and up to 2 additional ships.",
+        "memo": "\u27a3Rewards:\n\u00B6First choice: Either four Development Materials OR a Type 3 Active Sonar OR a Searchlight\n\u00B6Second choice: Either a Skilled Lookouts OR +1 Equipment Slot OR a Medal"
     },
     "959": {
         "code": "2411B4",

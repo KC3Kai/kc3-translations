@@ -462,6 +462,7 @@
 	"SettingsPanelRequirement": "플레이하기 위하여 패널이 필요",
 	"SettingsDirectRefresh": "페이지 내에서 새로고침 (위험)",
 	"SettingsConfirmExit": "종료 확인",
+	"SettingsReloadIframeConfirmation" : "서브 프레임 새로고침 확인",
 	"SettingsScreenMargin": "상단 여백",
 	"SettingsBGColor": "배경색",
 	"SettingsBGColorDesc": "background-color CSS 속성을 참조해주세요.",
@@ -993,8 +994,9 @@
 	"PanelPlanesFighter": "항공전에 참여하는 함재기",
 	"PanelPlanesBomber": "포격전에 참여하는 함재기",
 
-	"PanelToggleSounds": "소리 켜기/끄기",
-	"PanelToggleAlert" : "경고 켜기/끄기",
+	"PanelToggleSounds": "소리 켜기/끄기 (F8)",
+	"PanelToggleAlert" : "경고음 켜기/끄기 (Shift+F8)",
+	"PanelScreenshot"  : "스크린샷 촬영 (F9)",
 	"PanelFitWindow": "창에 맞추기",
 	"PanelExportToKCDB": "Kancolle-calc DeckBuilder로 내보내기\nCtrl 키를 누르며 클릭하면 제공권 시뮬레이터로 내보내기\nAlt키를 누르며 클릭하면 데이터를 클립보드에 복사",
 	"PanelToggleQuestComplete": "임무 경과 수정 기능 켜기/끄기",
@@ -1002,7 +1004,7 @@
 	"UntranslatedQuestTip" : "이 임무의 데이터는 아직 갱신되지 않아서, 게임 내에서 확인할 수 없습니다.",
 	"PanelReloadQuests" : "임무 데이터 갱신",
 	"PanelReloadQuotes" : "자막 업데이트 갱신",
-	"PanelReloadIframe" : "게임 프레임 갱신",
+	"PanelReloadIframe" : "게임 프레임 갱신 (F6)",
 	"PanelReloadIframeConfirm" : "게임의 빠른 재시작을 위해 임베드 프레임만 다시 불러오는 기능입니다.\n에러코가 출현하는 경우 F5 버튼을 눌러 게임 페이지 전체를 새로고침 해주세요.",
 
 	"MissionLabelActivity": "결과",
